@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-18 20:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_tooltipsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -22,8 +22,8 @@ msgstr ""
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_crew_page_up\"]"
 msgstr ""
-"Нажмите, чтобы перейти на предыдущую страницу экипажа. \\nВы также можете "
-"использовать колесо прокрутки."
+"Нажмите, чтобы перейти на предыдущую страницу экипажа. \\n"
+"Вы также можете использовать колесо прокрутки."
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_jump_noJump\"]"
