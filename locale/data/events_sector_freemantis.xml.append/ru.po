@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-18 11:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_freemantisxmlappend/ru/>\n"
 "Language: ru\n"
@@ -25,9 +25,9 @@ msgid ""
 "append:choice/event/text"
 msgstr ""
 "Странный богомол на мгновение умолкает, а затем, кажется, приходит в "
-"восторг. \"Ты! Я знать корабль. Это корабль Винчестера, очень популярный! "
-"Мне нечего тебе предлагать, кроме этих координат моего старый друг. Он "
-"хорошо относиться к людям с хорошим вкусом!"
+"восторг. \"Вы! Я знаю ваш корабль. Это корабль \"Винчестер\", очень "
+"известный! Мне нечего вам предложить, кроме этих координат моего старого "
+"друга. Он хорошо относиться к людям с хорошим вкусом!"
 
 #: src-en/data/events_sector_freemantis.xml.append:10
 msgid ""
@@ -38,7 +38,7 @@ msgstr "Посмотреть, что они продают."
 #: src-en/data/events_sector_freemantis.xml.append:21
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/text"
-msgstr ""
+msgstr "Вскоре после прыжка, корабль богомолов вызывает вас."
 
 #: src-en/data/events_sector_freemantis.xml.append:24
 msgid ""
@@ -49,6 +49,11 @@ msgstr "Ответить."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/text"
 msgstr ""
+"Экран мерцает, показывая тучного богомола в рваной синей одежде. \"Наконец-"
+"то корабль Федерации ответил на вызов. Меня зовут Касаймииикор Истребитель, "
+"но не стоит беспокоиться. Я прожил долгую жизнь, занимаясь пиратством и "
+"рабством, но теперь меня переполняет сожаление. Я хочу поделиться с вами "
+"менее жестокими сторонами культуры богомолов\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:28
 msgid ""
@@ -59,16 +64,19 @@ msgstr "Выслушать его."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Превосходно! Отлично! Вы найдете мое заведение по координатам! Я буду "
+"ждать вас\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:35
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "В культуре богомолов нет ничего мирного. Атаковать монстра."
 
 #: src-en/data/events_sector_freemantis.xml.append:37
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Что бы ни задумал богомол, ничего хорошего это не сулит. Вы готовитесь к бою."
 
 #: src-en/data/events_sector_freemantis.xml.append:40
 msgid ""
@@ -78,17 +86,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_freemantis.xml.append:46
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Это не стоит нашего времени."
 
 #: src-en/data/events_sector_freemantis.xml.append:52
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/text"
-msgstr ""
+msgstr "Сражаться с кораблем!"
 
 #: src-en/data/events_sector_freemantis.xml.append:54
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/event/text"
 msgstr ""
+"Что бы ни хотел сказать богомол, вам это неинтересно. Вы готовитесь к бою."
 
 #: src-en/data/events_sector_freemantis.xml.append:57
 msgid ""
@@ -103,7 +112,7 @@ msgstr "Не обращать внимания на корабль."
 #: src-en/data/events_sector_freemantis.xml.append:65
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вас не интересует корабль богомолов."
 
 #: src-en/data/events_sector_freemantis.xml.append:67
 msgid ""
@@ -119,6 +128,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/text"
 msgstr ""
+"Вы ничего не находите на этом маяке. Вы подозреваете, что это может быть "
+"ловушка, но быстро понимаете, что координаты, должно быть, были указаны в "
+"неправильном порядке. Вы переставляете координаты в правильное положение и "
+"продолжаете исследование, пока не находите небольшую станцию богомолов с "
+"кровавыми пятнами, частично смытыми с корпуса."
 
 #: src-en/data/events_sector_freemantis.xml.append:80
 msgid ""
@@ -129,36 +143,48 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/text"
 msgstr ""
+"\"А, корабль Федерации прибыл! Надеюсь, вы готовы к восхитительной кухне "
+"богомолов!\""
 
 #: src-en/data/events_sector_freemantis.xml.append:84
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Конечно..."
 
 #: src-en/data/events_sector_freemantis.xml.append:86
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/text"
 msgstr ""
+"Касаймииикор ведет вас и вашу команду к обеденному столу, в центре которого "
+"разложены кристаллы соли размером с кулак и целые перчины. Затем он исчезает "
+"за дверью, и вскоре после этого раздаются крики: \"О, левая клешня Королевы, "
+"мое блюдо испорчено. А что если... что если я использую человеческую пищу и "
+"замаскирую ее под свое блюдо? О-хо-хо! Восхитительное коварство, "
+"Касаймииикор\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:88
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Мы должны увидеть, что там происходит."
 
 #: src-en/data/events_sector_freemantis.xml.append:90
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы врываетесь в его кухню, и богомол вскрикивает от неожиданности, "
+"вцепившись клешнями в ручку микроволновки древнеземных людей. \"Ах! Мои "
+"друзья! Я просто... разминал клешни на микроволновке - обычное упражнение "
+"воинов на родной планете, не хотите присоединиться ко мне?"
 
 #: src-en/data/events_sector_freemantis.xml.append:92
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Эм, нет, спасибо."
 
 #: src-en/data/events_sector_freemantis.xml.append:94
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Вы выходите из кухни и возвращаетесь на свое место."
 
 #: src-en/data/events_sector_freemantis.xml.append:96
 msgid ""
@@ -174,6 +200,8 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы пытаетесь подойти к микроволновой печи. Вы и богомол несколько минут "
+"неловко молчите, прежде чем вернуться на свое место."
 
 #: src-en/data/events_sector_freemantis.xml.append:106
 msgid ""
@@ -183,22 +211,26 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_freemantis.xml.append:114
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Разграбить это место."
 
 #: src-en/data/events_sector_freemantis.xml.append:116
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Богомол возвращается из кухни и обнаруживает, что вы разграбили все вокруг. "
+"Он кричит от ужаса, и вы вынуждены убить его."
 
 #: src-en/data/events_sector_freemantis.xml.append:121
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Это становится очень странным, нам пора уходить."
 
 #: src-en/data/events_sector_freemantis.xml.append:123
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Вы быстро покидаете станцию и улетаете как можно дальше, пока богомол не "
+"успел вернуться."
 
 #: src-en/data/events_sector_freemantis.xml.append:125
 msgid ""
@@ -214,56 +246,65 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/text"
 msgstr ""
+"Из кухни появляется богомол с блюдом, очень странно напоминающим гамбургеры "
+"со старой Земли."
 
 #: src-en/data/events_sector_freemantis.xml.append:142
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/text"
-msgstr ""
+msgstr "Кажется, вы говорили, что у нас будет кухня богомолов?"
 
 #: src-en/data/events_sector_freemantis.xml.append:144
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/text"
 msgstr ""
+"\"Нет-нет, я сказал \"кухня богомолов\"! Не путайте с аналогичным термином "
+"\"богомолья кухня\", которая обозначает еду, приготовленную богомолом!\""
 
 #: src-en/data/events_sector_freemantis.xml.append:146
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/text"
-msgstr ""
+msgstr "В чем разница?"
 
 #: src-en/data/events_sector_freemantis.xml.append:148
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Д... да? Это зависит от регионального диалекта, конечно\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:150
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Какого района?"
 
 #: src-en/data/events_sector_freemantis.xml.append:152
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Э-э... район Фаахакахак\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:154
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Понятно..."
 
 #: src-en/data/events_sector_freemantis.xml.append:156
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Некоторое время вы едите в тишине, если не считать скребущих звуков, "
+"издаваемых богомолом, который скребет когтями по столу. Гамбургеры "
+"пережарены, и их трудно проглотить. Вы закашливаетесь, заметив дым, "
+"выходящий из-под двери."
 
 #: src-en/data/events_sector_freemantis.xml.append:158
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Указать на огонь."
 
 #: src-en/data/events_sector_freemantis.xml.append:160
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Богомол на минуту замирает. \"Я должен... э-э... извините меня на секунду?\""
 
 #: src-en/data/events_sector_freemantis.xml.append:162
 msgid ""
@@ -274,31 +315,34 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Касаймииикор убегает на кухню и вскоре возвращается. Теперь из-под двери "
+"видно яркое свечение и тихий свист. \"Ну что ж, это замечательное, хорошее "
+"время, которое мы провели все вместе, пора идти!\""
 
 #: src-en/data/events_sector_freemantis.xml.append:166
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что там происходит?"
 
 #: src-en/data/events_sector_freemantis.xml.append:168
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "\"Золтанский цирк! Да, очень яркий\"."
 
 #: src-en/data/events_sector_freemantis.xml.append:170
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "У вас на кухне золтанский цирк?"
 
 #: src-en/data/events_sector_freemantis.xml.append:172
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Дааааа...\""
 
 #: src-en/data/events_sector_freemantis.xml.append:174
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Можем ли мы увидеть его?"
 
 #: src-en/data/events_sector_freemantis.xml.append:176
 msgid ""
@@ -314,53 +358,61 @@ msgstr "Ладно..."
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы вытираете рот и покидаете станцию. Богомол машет вам вслед, а за ним "
+"горит станция. Вернувшись на свой корабль, вы обнаруживаете несколько "
+"ящиков, обмотанных лентами. \"От Касаймииикора с платонической любовью\", - "
+"гласит надпись. Когда он успел это сделать?"
 
 #: src-en/data/events_sector_freemantis.xml.append:188
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Открыть еще один ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:190
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Открыть ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:198
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Открыть еще один ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:200
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Открыть ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:223
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Вы задержали нас здесь слишком надолго. Пора уходить."
 
 #: src-en/data/events_sector_freemantis.xml.append:225
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы собираете команду и уходите с горящей станции. Вернувшись на корабль, вы "
+"обнаруживаете несколько ящиков, обмотанных лентами. \"От Касаймииикора с "
+"платонической любовью\", - гласит надпись. Когда он успел это сделать? Вы "
+"открываете первый ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:233
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Открыть еще один ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:235
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Открыть ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:245
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Открыть еще один ящик."
 
 #: src-en/data/events_sector_freemantis.xml.append:247
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Открыть ящик."
