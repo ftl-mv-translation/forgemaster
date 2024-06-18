@@ -1,35 +1,57 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_coalitionxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_coalition.xml.append:9
 msgid ""
 "data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Член экипажа-Пластинчатый) Поручить ремонт вашему Пластинчатому."
 
 #: src-en/data/events_sector_coalition.xml.append:11
 msgid ""
 "data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Проходит совсем немного времени, прежде чем ущерб оказывается устранен. "
+"Капитан повстанцев удивлен вашей готовностью помочь. \"Возможно, я ошибся в "
+"вас... не думаю, что это что-то изменит, но будет правильно, если вам "
+"заплатят за ваши усилия\"."
 
 #: src-en/data/events_sector_coalition.xml.append:16
 msgid ""
 "data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Алестер) Пусть Алестер займется ремонтом поврежденного корабля повстанцев."
 
 #: src-en/data/events_sector_coalition.xml.append:18
 msgid ""
 "data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Алестер ремонтирует корабль с относительной легкостью. Во время ремонта "
+"корабля ему на глаза попадается старый порванный свитер. Алестер "
+"отказывается возвращаться на корабль, пока не зашьет дыры с помощью иголки и "
+"нитки из своего ящика с инструментами. Он вручает его капитану корабля "
+"повстанцев; капитан почти плачет: \"Это был последний подарок моей покойной "
+"жены... - объясняет повстанец, сдерживая слезы. \"Я ошибался насчет вас, "
+"пришельцев, и, похоже, мне лгали с самого рождения, так что, возможно, "
+"сейчас у меня есть шанс все исправить. Я пойду с вами\" - решительно говорит "
+"он и следует за Алестером на борт вашего корабля."
 
 #: src-en/data/events_sector_coalition.xml.append:25
 msgid ""
 "data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "Мы не можем помочь."
