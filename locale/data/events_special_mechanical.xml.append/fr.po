@@ -1,0 +1,437 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_mechanical.xml.append:27
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"LOAD_DEATH_TIMER\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:40
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_CHARGE_INITIAL\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:48
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:53
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:67
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:69
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:70
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:87
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_LANIUS_SURGE_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:98
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:99
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1305
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_TUCO_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1315
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1317
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1318
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1333
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1336
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1338
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1343
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1345
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1353
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1356
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1363
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1371
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1375
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1379
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1383
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1387
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1391
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1395
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1399
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1403
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1407
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[12]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1411
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[13]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1415
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[14]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1419
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[15]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1423
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[16]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1427
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[17]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1431
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[18]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1435
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[19]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1439
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[20]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1443
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[21]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1447
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[22]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1451
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[23]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1455
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[24]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1459
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[25]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1463
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[26]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1467
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[27]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1471
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[28]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1475
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[29]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1479
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[30]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1483
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[31]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1487
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[32]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1491
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[33]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1495
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[34]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1499
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[35]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1503
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[36]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1507
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[37]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1511
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[38]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1515
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[39]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1519
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[40]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1523
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[41]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1527
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[42]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1531
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[43]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1535
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[44]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1556
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_BLESSING_KILLCOUNT_INCREMENT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1599
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1606
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1613
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1620
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1627
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1634
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1642
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1649
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1656
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:1664
+msgid ""
+"data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2028
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"OVERCHARMED_MESSAGE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2046
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2047
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON\"]/inactiveTooltip"
+msgstr ""
+"Indisponible : Vous ne pouvez pas faire cela lorsque vous êtes en danger !"
+
+#: src-en/data/events_special_mechanical.xml.append:2063
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2064
+msgid ""
+"data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON2\"]/inactiveTooltip"
+msgstr ""
+"Indisponible : Vous ne pouvez pas faire cela lorsque vous êtes en danger !"
+
+#: src-en/data/events_special_mechanical.xml.append:2080
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"LOL\"]/crewMember"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2100
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"OXYGEN_FORCE_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2104
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"WEAPONS_FORCE_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2108
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"SHIELDS_FORCE_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2120
+msgid "data/events_special_mechanical.xml.append$//event[@name=\"DRAW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_mechanical.xml.append:2124
+msgid ""
+"data/events_special_mechanical.xml.append$//event[@name=\"TOGGLE_HACK\"]/text"
+msgstr ""

@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:32
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"GIVE_RAGE_TWISTEDMONK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:44
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:53
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:68
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"GIVE_ARM_TWISTEDROCK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""

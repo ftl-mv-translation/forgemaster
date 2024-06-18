@@ -1,0 +1,803 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_forgemaster\"]"
+msgstr ""
+"FORGEMASTER\n"
+"\tCurrently Enabled.\n"
+"\tClick to see more info."
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"info_addon_forgmaster\"]"
+msgstr ""
+"FORGEMASTER\n"
+"\tDeveloped by: Cyrus106, Abstrusity, Maxine, Radish, SeaDragonet, Kommandant_Julk, Vertaalfout and DemonFusionGamer\n"
+"\tCurrently Enabled.\n"
+"\n"
+"\tA major expansion for Multiverse! It includes new NPCs, quests, weapons, sectors, bosses, and more. Drones and augments are coming soon! The primary new feature is: the weapon crafting system, which allows you to combine\n"
+"\tnumerous weapon combinations into stronger variants (or at the very least, side-grades).These weapons are intended to shine brightest when used on ships with less weapon slots and make use of the newest most complex features hyperspace has to offer for a completely unique feel! New tooltips will appear on weapon components that can be used for crafting!\n"
+"\t(the addon Inferno-Core was designed for)"
+
+#: src-en/data/text_misc.xml.append:36
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_biohazard\"]"
+msgstr ""
+"This bomb prevents the crew hit from healing from medbays, or being revived "
+"by clone bays. 30 second duration. Radiation weapons do bursts of heavy crew"
+" damage, have minor breach chances, and weaken enemy crew. Enemies hit will "
+"move and repair 66% slower, and will be stunned 75% longer."
+
+#: src-en/data/text_misc.xml.append:37
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_crime\"]"
+msgstr ""
+"Makes all crew types burn, even rocks. All crew hit take 1.75x damage from "
+"fire, and put out fires 70% slower. 15 second duration."
+
+#: src-en/data/text_misc.xml.append:38
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_compactinator\"]"
+msgstr ""
+"This extremely expensive bomb takes the hit allied crew off of the ship's crew slot database. As a result you can have more crew in your ship!\n"
+"\tDEV NOTE: Please remember, if a crew is added to your ship and every room is full, the game WILL crash. Same with enemy boarders, if there is no\n"
+"\tspace for them, your game will crash until this is patched in Hyperspace. Use CONSERVATIVELY and count your crew and rooms before usage!"
+
+#: src-en/data/text_misc.xml.append:41
+msgid "data/text_misc.xml.append$//text[@name=\"flamethrower\"]"
+msgstr ""
+"DOES NOT pierce shields or pop them, fire this when the enemy shields are "
+"down and unleash hell on their ship!"
+
+#: src-en/data/text_misc.xml.append:42
+msgid "data/text_misc.xml.append$//text[@name=\"ion_lanius\"]"
+msgstr ""
+"Fires a piercing ion shot that causes crew struck by it to lose suffocation "
+"immunity, take 2.5x more damage from suffocation, and very slowly drain the "
+"room's oxygen for 15 seconds."
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"parazonium\"]"
+msgstr ""
+"DOES NOT use missiles to fire, but cannot fire if you don't have enough "
+"missiles! Can be amplified at combat checks."
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"tip_focusenergy\"]"
+msgstr ""
+"Only deals Ion Damage when hitting a room in the enemy ship, but does not "
+"deal ion damage when hitting shields!"
+
+#: src-en/data/text_misc.xml.append:45
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
+msgstr ""
+"Ancalagon weapons have a chance to spawn an Ancalagon Crystal hazard. There "
+"are 5 types: red, blue, green, a rarer white, and the rarest, black."
+
+#: src-en/data/text_misc.xml.append:46
+msgid "data/text_misc.xml.append$//text[@name=\"tip_gnunslung\"]"
+msgstr ""
+"This weapon pops 1 shield, deals photon damage and inflicts a 30s crew "
+"stacking damage DoT effect. Radiation weapons do bursts of heavy crew "
+"damage, have minor breach chances, and weaken enemy crew. Enemies hit will "
+"move and repair 66% slower, and will be stunned 75% longer."
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon_drone_laser\"]"
+msgstr ""
+"10% Chance to spawn an Ancalagon Crystal hazard. There are 5 types: red, "
+"blue, green, a rarer white, and the rarest, black."
+
+#: src-en/data/text_misc.xml.append:48
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missiles_heavy\"]"
+msgstr ""
+"Tip: Heavy missiles always carry hull-bust attributes, and can be used to "
+"take down critical systems when necessary."
+
+#: src-en/data/text_misc.xml.append:49
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive\"]"
+msgstr ""
+"Tip: These Geniocracy-produced anti-bio weapons fire advanced radiation "
+"lasers, which slowly corrode any crew hit. The stronger the weapon, the "
+"better the damage over time."
+
+#: src-en/data/text_misc.xml.append:50
+msgid "data/text_misc.xml.append$//text[@name=\"tip_terminus\"]"
+msgstr ""
+"A massive wyrm from another dimension rams into the enemy ship violently. "
+"Ignores Zoltan Shields but can be targeted by drones. Paralyzes the enemy "
+"crew on the enemy ship while slowly draining their health upon impact for 20"
+" seconds."
+
+#: src-en/data/text_misc.xml.append:51
+msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_2\"]"
+msgstr ""
+"This beam is powerful enough to cut across large ships with ease, rendering it highly potent against larger vessels.\n"
+"\n"
+"FM: A COMPONENT for forging the Terra Nova Pinpoint[70~], alongside the other COMPONENT 'Misericorde' Pinpoint or 'Stiletto' Pinpoint."
+
+#: src-en/data/text_misc.xml.append:54
+msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_3\"]"
+msgstr ""
+"This pinpoint is powerful enough to tear multiple breaches on tiles around "
+"the impact area, as opposed to only where the beam touches."
+
+#: src-en/data/text_misc.xml.append:55
+msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_photon\"]"
+msgstr "Tip: This weapon can pop shields despite dealing no hull damage."
+
+#: src-en/data/text_misc.xml.append:70
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_frost_1\"]"
+msgstr ""
+"Tip: Frost lasers lock down rooms that they hit, making them valuable in impeding enemy crew movements.\n"
+"\n"
+"FM: A COMPONENT for forging the TLALOC Laser[40~], alongside the other COMPONENT Irradiation Laser."
+
+#: src-en/data/text_misc.xml.append:74
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_bio\"]"
+msgstr ""
+"Tip: Radiation weapons do bursts of heavy crew damage, have minor breach chances, and weaken enemy crew. Enemies hit will move and repair 66% slower, and will be stunned 75% longer.\n"
+"\n"
+"FM: A COMPONENT for forging the TLALOC Laser[40~], alongside the other COMPONENT Frost Laser I.\n"
+"\n"
+"FM: A COMPONENT for forging the Rebel Ripper Laser[50~], alongside the other COMPONENT Heavy Laser I."
+
+#: src-en/data/text_misc.xml.append:83
+msgid "data/text_misc.xml.append$/dummyroot/FTL/text[21]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Hellflash Gatling Gun[30~], alongside the other COMPONENT Vulcan.\n"
+"FM: A COMPONENT for forging the Dazhbog Flamethrower[50~], alongside the other COMPONENT called [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:90
+msgid "data/text_misc.xml.append$/dummyroot/FTL/text[22]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Dazhbog Flamethrower[50~], alongside the other COMPONENT called [REDACTED].\n"
+"FM: A COMPONENT for forging the Hellflash Gatling Gun[30~], alongside the other COMPONENT Vulcan."
+
+#: src-en/data/text_misc.xml.append:97
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_decayser\"]"
+msgstr ""
+"Tip: Phasers pierce additional shield layers. They will do ion damage for the first shield layer pierced, plus additional damage to whatever system they hit.\n"
+"\n"
+"FM: A COMPONENT for forging the Decayser[55~], alongside the other COMPONENT called [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:103
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_light\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Photon I[25~], alongside the other COMPONENT Particle Accelerator MK I.\n"
+"FM: A COMPONENT for forging the MFK Kestrel Drone, alongside the other COMPONENT Combat Drone MK I."
+
+#: src-en/data/text_misc.xml.append:108
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_particle\"]"
+msgstr ""
+"Tip: Particle accelerators fire in a radius much like Flak. Each projectile does small system damage and has a reasonable fire chance, which can be devastating against its target.\n"
+"\n"
+"FM: A COMPONENT for forging the Photon I[25~], alongside the other COMPONENT Light Laser I."
+
+#: src-en/data/text_misc.xml.append:115
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_light_2\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Photon II[50~], alongside the other COMPONENT Particle Accelerator MK II."
+
+#: src-en/data/text_misc.xml.append:119
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_particle_2\"]"
+msgstr ""
+"Tip: Particle accelerators fire in a radius much like Flak. Each projectile does small system damage and has a reasonable fire chance, which can be devastating against its target.\n"
+"\n"
+"FM: A COMPONENT for forging the Photon II[50~], alongside the other COMPONENT Light Laser II."
+
+#: src-en/data/text_misc.xml.append:125
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_heavy_1\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Rebel Ripper Laser[50~], alongside the other COMPONENT Irradiation Laser."
+
+#: src-en/data/text_misc.xml.append:133
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_ion\"]"
+msgstr ""
+"Tip: Bombs teleport past shields and defense drones to land directly on the ship. Like missiles, they cost one missile to launch. They never damage hull, but can be effective at disrupting crew and systems. You can even launch them at boarders on your own ship.\n"
+"\n"
+"FM: A COMPONENT for forging the Absolution[100~, 15}], alongside the other COMPONENT Pierce Laser MK II."
+
+#: src-en/data/text_misc.xml.append:137
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_pierce_2\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Absolution[100~, 15}], alongside the other COMPONENT Ion Bomb."
+
+#: src-en/data/text_misc.xml.append:146
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_fire\"]"
+msgstr ""
+"Tip: Fire ions act much like any ordinary ion, but start fires in the room they hit. If they hit while the shields are still up, they will not start a fire.\n"
+"\n"
+"FM: A COMPONENT for forging the Cerberus Ion[35~], alongside the other COMPONENT Tri-Ion."
+
+#: src-en/data/text_misc.xml.append:150
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_tri\"]"
+msgstr ""
+"Tip: For every one point of ion damage, one power bar is removed from the target system and it is then locked for 5 seconds, preventing re-powering. If an ion weapon hits shields, the damage is automatically applied to the Shield System.\n"
+"\n"
+"FM: A COMPONENT for forging the Cerberus Ion[35~], alongside the other COMPONENT Fire Ion."
+
+#: src-en/data/text_misc.xml.append:156
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_hull_energy\"]"
+msgstr ""
+"Tip: Energy weapons are very versatile as they can do both ion and hull damage, but do not damage crew or systems.\n"
+"\n"
+"FM: A COMPONENT for forging the TARANIS Disc Launcher[50~], alongside the other COMPONENTS Geb, Osiris, Sekhmet, and Anubis. You only need 1 other component.\n"
+"\n"
+"FM: A COMPONENT for forging the Pulsedeep Cannon[50~], alongside the other COMPONENT Heavy Ion."
+
+#: src-en/data/text_misc.xml.append:162
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_1\"]"
+msgstr ""
+"Tip: Mine Launchers have reasonable status effect chances and fire massive bursts of slow moving mines which pierce all shields.\n"
+"\n"
+"FM: A COMPONENT for forging the TARANIS Disc Launcher[50~], alongside the other COMPONENT Heavy Energy."
+
+#: src-en/data/text_misc.xml.append:166
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_2\"]"
+msgstr ""
+"Tip: Mine Launchers have reasonable status effect chances and fire massive bursts of slow moving mines which pierce all shields.\n"
+"\n"
+"FM: A COMPONENT for forging the TARANIS Disc Launcher[50~], alongside the other COMPONENT Heavy Energy.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Dirty Bomb' Mine Launcher[140~], alongside the other COMPONENT Asclepius Missile."
+
+#: src-en/data/text_misc.xml.append:172
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_fire\"]"
+msgstr ""
+"Tip: Mine Launchers have reasonable status effect chances and fire massive bursts of slow moving mines which pierce all shields.\n"
+"\n"
+"FM: A COMPONENT for forging the TARANIS Disc Launcher[50~], alongside the other COMPONENT Heavy Energy."
+
+#: src-en/data/text_misc.xml.append:176
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_stun\"]"
+msgstr ""
+"Tip: FM: A COMPONENT for forging the TARANIS Disc Launcher[50~], alongside "
+"the other COMPONENT Heavy Energy."
+
+#: src-en/data/text_misc.xml.append:180
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_vulcan\"]"
+msgstr ""
+"Tip: Chain lasers decrease their cooldown every time they fire. Check the green lights on the weapon to see how many times it has fired.\n"
+"\n"
+"FM: A COMPONENT for forging the Vesta Ion Gatling[30-60~], alongside the other COMPONENT Ion Charger I OR Ion Charger II.\n"
+"FM: A COMPONENT for forging the Hellflash Gatling Gun[30~], alongside the other COMPONENT Fire Starter."
+
+#: src-en/data/text_misc.xml.append:185
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_charger_1\"]"
+msgstr ""
+"Tip: Charge weapons can be charged multiple times to generate more firepower. You can save time and fire the weapon prematurely but it will have fewer shots ready as a result.\n"
+"\n"
+"FM: A COMPONENT for forging the Vesta[60~], alongside the other COMPONENT Vulcan."
+
+#: src-en/data/text_misc.xml.append:189
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_charger_2\"]"
+msgstr ""
+"Tip: Charge weapons can be charged multiple times to generate more firepower. You can save time and fire the weapon prematurely but it will have fewer shots ready as a result.\n"
+"\n"
+"FM: A COMPONENT for forging the Vesta[30~], alongside the other COMPONENT Vulcan."
+
+#: src-en/data/text_misc.xml.append:194
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_3\"]"
+msgstr ""
+"Tip: Flak weapons target an area instead of a single room. This loss of accuracy means more firepower and speed than their laser counterparts.\n"
+"\n"
+"FM: A COMPONENT for forging the Exidia Energy Diffuser[80~], alongside the other COMPONENT, Energy Charger."
+
+#: src-en/data/text_misc.xml.append:198
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_charger\"]"
+msgstr ""
+"Tip: Charge weapons can be charged multiple times to generate more firepower.\n"
+"\n"
+"FM: A COMPONENT for forging the Exidia Energy Diffuser[80~], alongside the other COMPONENT, Flak III.\n"
+"FM: A COMPONENT for forging the Railblender[140~], alongside the other COMPONENT, Flak Charger."
+
+#: src-en/data/text_misc.xml.append:204
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_1\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Pulse Laser I [40~], alongside the other COMPONENT Energy I."
+
+#: src-en/data/text_misc.xml.append:208
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_2\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Pulse Laser II [50~], alongside the other COMPONENT Energy II.\n"
+"FM: A COMPONENT for forging the Kestrel Drone alongside the other COMPONENT Combat Drone MK I."
+
+#: src-en/data/text_misc.xml.append:213
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_3\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the Pulse Laser III [60~], alongside the other COMPONENT Energy III.\n"
+"FM: A COMPONENT for forging the Multiplicity Barrage Laser [80~], alongside the other COMPONENT Flak IV."
+
+#: src-en/data/text_misc.xml.append:218
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_heavy\"]"
+msgstr ""
+"Tip: For every one point of ion damage, one power bar is removed from the target system and it is then locked for 5 seconds, preventing re-powering. If an ion weapon hits shields, the damage is automatically applied to the Shield System.\n"
+"\n"
+"FM: A COMPONENT for forging the Pulsedeep Cannon[50~], alongside the other COMPONENT Heavy Energy."
+
+#: src-en/data/text_misc.xml.append:227
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_mining\"]"
+msgstr ""
+"Tip: The Mining Beam pierces one shield layer, which means it will not lose any damage for the first shield bubble it pierces. Each layer after that will reduce damage by one.\n"
+"\n"
+"FM: A COMPONENT for forging the Ishimura Beam[120~], alongside the other COMPONENT 'Sarissa' Beam."
+
+#: src-en/data/text_misc.xml.append:231
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_long_2\"]"
+msgstr ""
+"Tip: For every shield bar on the enemy, a beam's damage is reduced by one. For example, a three damage beam against two shield bars will cause one damage in every room it hits.\n"
+"\n"
+"FM: A COMPONENT for forging the Ishimura Beam[120~], alongside the other COMPONENT Mining Beam."
+
+#: src-en/data/text_misc.xml.append:237
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_pierce\"]"
+msgstr ""
+"Tip: This Phase Beam pierces two shield layers, which means it will not lose any damage for the first two shield bubbles it pierces. Each layer after that will reduce damage by one.\n"
+"\n"
+"FM: A COMPONENT for forging the Earspoon Beam[35~], alongside the other COMPONENT Particle Beam."
+
+#: src-en/data/text_misc.xml.append:241
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_particle\"]"
+msgstr ""
+"Tip: The Particle Beam does no hull or crew damage, nor can it pierce shields. However, once shields are down it can do heavy damage to systems and light fires.\n"
+"\n"
+"FM: A COMPONENT for forging the Earspoon Beam[35~], alongside the other COMPONENT 'Guisarme' Beam."
+
+#: src-en/data/text_misc.xml.append:247
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_guillotine\"]"
+msgstr ""
+"Tip: This Beam does both crew and system damage, making it a very versatile weapon.\n"
+"\n"
+"FM: A COMPONENT for forging something Murderous[110~, 2}, 5|], alongside the other COMPONENT, [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:254
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_1\"]"
+msgstr ""
+"Tip: Bombs teleport past shields and defense drones to land directly on the ship. Like missiles, they cost one missile to launch. They never damage hull, but can be effective at disrupting crew and systems. You can even launch them at boarders on your own ship.\n"
+"\n"
+"FM: A COMPONENT for forging the Valefor Explosion Beam[75~], alongside the other COMPONENT Halberd Beam."
+
+#: src-en/data/text_misc.xml.append:258
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_2\"]"
+msgstr ""
+"Tip: For every shield bar on the enemy, a beam's damage is reduced by one. For example, a three damage beam against two shield bars will cause one damage in every room it hits.\n"
+"\n"
+"FM: A COMPONENT for forging the Valefor Explosion Beam[75~], alongside the other COMPONENT Bomb Launcher."
+
+#: src-en/data/text_misc.xml.append:264
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_1\"]"
+msgstr ""
+"Tip: For every one point of ion damage, one power bar is removed from the target system and it is then locked for 5 seconds, preventing re-powering. If an ion weapon hits shields, the damage is automatically applied to the Shield System.\n"
+"\n"
+"FM: A COMPONENT for forging the Kontos Ion Beam[100~], alongside the other COMPONENT 'Ranseur' Beam."
+
+#: src-en/data/text_misc.xml.append:268
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_2\"]"
+msgstr ""
+"Tip: For every one point of ion damage, one power bar is removed from the target system and it is then locked for 5 seconds, preventing re-powering. If an ion weapon hits shields, the damage is automatically applied to the Shield System.\n"
+"\n"
+"FM: A COMPONENT for forging the Kontos Ion Beam[100~], alongside the other COMPONENT 'Ranseur' Beam."
+
+#: src-en/data/text_misc.xml.append:272
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_breach\"]"
+msgstr ""
+"Tip: The Breach Beam creates a breach on every tile it hits, and can also pierce a shield layer!\n"
+"\n"
+"FM: A COMPONENT for forging the Kontos Ion Beam[100~], alongside the other COMPONENT Simple Ion OR Ion Barrage MK I ."
+
+#: src-en/data/text_misc.xml.append:278
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_long\"]"
+msgstr ""
+"Tip: For every shield bar on the enemy, a beam's damage is reduced by one. For example, a three damage beam against two shield bars will cause one damage in every room it hits.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Eternity' Beam[40~], alongside the other COMPONENT Scythe Beam."
+
+#: src-en/data/text_misc.xml.append:282
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_scythe\"]"
+msgstr ""
+"Tip: For every shield bar on the enemy, a beam's damage is reduced by one. For example, a three damage beam against two shield bars will cause one damage in every room it hits.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Eternity' Beam[40~], alongside the other COMPONENT Pike Beam."
+
+#: src-en/data/text_misc.xml.append:290
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_3\"]"
+msgstr ""
+"Tip: Heavy missiles always carry hull-bust attributes, and can be used to take down critical systems when necessary.\n"
+"\n"
+"FM: A COMPONENT for forging the Parazonium Pinpoint[70~], alongside the other COMPONENT 'Cinquedea' Pinpoint.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Debilitatum' Heavy Missiles[80~], alongside the other COMPONENT Ion Barrage MK II."
+
+#: src-en/data/text_misc.xml.append:296
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_chain\"]"
+msgstr ""
+"Tip: Adaptive weapons increase in damage each time they are fired. The damage increase amount and limit depends on the weapon.\n"
+"\n"
+"FM: A COMPONENT for forging the Parazonium Pinpoint[100~], alongside the other COMPONENT 'Hermes' Heavy Missiles.\n"
+"FM: A COMPONENT for forging the Omiyari Adaptive Pinpoint[50~], alongside the other COMPONENT Suyari Adaptive Beam."
+
+#: src-en/data/text_misc.xml.append:303
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_1\"]"
+msgstr ""
+"Tip: Energy weapons are very versatile as they can do both ion and hull damage, but do not damage crew or systems.\n"
+"\n"
+"FM: A COMPONENT for forging the Ebony Energy Pinpoint[40~], alongside the other COMPONENT 'Dirk' Pinpoint.\n"
+"FM: A COMPONENT for forging the Pulse Laser I [40~], alongside the other COMPONENT Burst Laser I."
+
+#: src-en/data/text_misc.xml.append:308
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_conservative\"]"
+msgstr ""
+"Tip: Conservative weapons feed off of power leaks in a system, so they don't need to use any power themselves. As consequence, they take longer to charge and require another weapon to be powered. Can charge additional shots by \"firing\" when the weapon system is unpowered.\n"
+"\n"
+"FM: A COMPONENT for forging the Maple Conservative Energy Pinpoint[50~], alongside the other COMPONENT 'Dirk' Pinpoint."
+
+#: src-en/data/text_misc.xml.append:312
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_1\"]"
+msgstr ""
+"Tip: Pinpoints do higher damage than Beams but have shorter trails. Just like Beams, their damage is reduced by 1 for each shield layer it pierces.\n"
+"\n"
+"FM: A COMPONENT for forging the Ebony Energy Pinpoint[40~], alongside the other COMPONENT Energy Cannon I.\n"
+"FM: A COMPONENT for forging the Maple Conservative Energy Pinpoint[50~], alongside the other COMPONENT Conservative Energy."
+
+#: src-en/data/text_misc.xml.append:319
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_adapt\"]"
+msgstr ""
+"Tip: Adaptive weapons increase in damage each time they are fired. The damage increase amount and limit depends on the weapon.\n"
+"\t\n"
+"FM: A COMPONENT for forging the Omiyari Adaptive Pinpoint[50~], alongside the other COMPONENT Cinquedea Pinpoint."
+
+#: src-en/data/text_misc.xml.append:329
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive_2\"]"
+msgstr ""
+"Tip: These Geniocracy-produced anti-bio weapons fire advanced radiation lasers, which slowly corrode any crew hit. The stronger the weapon, the better the damage over time.\n"
+"\t\n"
+"FM: A COMPONENT for forging the 'Aegrotatio' Corrosive Pinpoint[50~], alongside the other COMPONENT 'Anelace' Bio Pinpoint."
+
+#: src-en/data/text_misc.xml.append:333
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_bio\"]"
+msgstr ""
+"Tip: Radiation weapons do bursts of heavy crew damage, have minor breach chances, and weaken enemy crew. Enemies hit will move and repair 66% slower, and will be stunned 75% longer.\n"
+"\t\n"
+"FM: A COMPONENT for forging the 'Aegrotatio' Corrosive Pinpoint[50~], alongside the other COMPONENT Corrosive Laser 2."
+
+#: src-en/data/text_misc.xml.append:339
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_2\"]"
+msgstr ""
+"Tip: Energy weapons are very versatile as they can do both ion and hull damage, but do not damage crew or systems.\n"
+"\n"
+"FM: A COMPONENT for forging the Hemlock Energy Pinpoint[50~], alongside the other COMPONENT 'Misericorde' Pinpoint.\n"
+"FM: A COMPONENT for forging the Pulse Laser II [50~], alongside the other COMPONENT Burst Laser II."
+
+#: src-en/data/text_misc.xml.append:344
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_2\"]"
+msgstr ""
+"Tip: Pinpoints do higher damage than Beams but have shorter trails. Just like Beams, their damage is reduced by 1 for each shield layer it pierces.\n"
+"\n"
+"FM: A COMPONENT for forging the Hemlock Energy Pinpoint[60~], alongside the other COMPONENT Energy Cannon II.\n"
+"FM: A COMPONENT for forging the Terra Nova Pinpoint[70~], alongside the other COMPONENT Ishimura Beam."
+
+#: src-en/data/text_misc.xml.append:351
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_3\"]"
+msgstr ""
+"Tip: Energy weapons are very versatile as they can do both ion and hull damage, but do not damage crew or systems.\n"
+"\n"
+"FM: A COMPONENT for forging the Green Heart Energy Pinpoint[60~], alongside the other COMPONENT 'Stiletto' Pinpoint.\n"
+"FM: A COMPONENT for forging the Pulse Laser III [60~], alongside the other COMPONENT Burst Laser III."
+
+#: src-en/data/text_misc.xml.append:356
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_3\"]"
+msgstr ""
+"Tip: Pinpoints do higher damage than Beams but have shorter trails. Just like Beams, their damage is reduced by 1 for each shield layer it pierces.\n"
+"\n"
+"FM: A COMPONENT for forging the Green Heart Energy Pinpoint[60~], alongside the other COMPONENT Energy Cannon III.\n"
+"FM: A COMPONENT for forging the Terra Nova Pinpoint[50~], alongside the other COMPONENT Ishimura Beam.\n"
+"FM: A COMPONENT for forging the Ishimura Drone alongside the other COMPONENT Amp Pinpoint Drone."
+
+#: src-en/data/text_misc.xml.append:367
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_4\"]"
+msgstr ""
+"Tip: Flak weapons target an area instead of a single room. This loss of accuracy means more firepower and speed than their laser counterparts.\n"
+"\n"
+"FM: A COMPONENT for forging the Aether Flak[60~], alongside some forgotten technology.\n"
+"FM: A COMPONENT for forging the Multiplicity Barrage Laser [80~], alongside the other COMPONENT Burst Laser III."
+
+#: src-en/data/text_misc.xml.append:374
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_toxic\"]"
+msgstr ""
+"Tip: Flak weapons target an area instead of a single room. This loss of accuracy means more firepower and speed than their laser counterparts.\n"
+"\n"
+"FM: A COMPONENT for forging the KHEIMON Anomaly Launcher[45~], alongside the other COMPONENT Frost Laser II."
+
+#: src-en/data/text_misc.xml.append:378
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_frost_2\"]"
+msgstr ""
+"Tip: Frost lasers lock down rooms that they hit, making them valuable in impeding enemy crew movements.\n"
+"\n"
+"FM: A COMPONENT for forging the KHEIMON Anomaly Launcher[45~], alongside the other COMPONENT Irradiation Flak."
+
+#: src-en/data/text_misc.xml.append:384
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_2\"]"
+msgstr ""
+"Tip: Flak weapons target an area instead of a single room. This loss of accuracy means more firepower and speed than their laser counterparts.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT, ANY Crystal weapon.\n"
+"FM: A COMPONENT for forging the Carnifex Flak[30~], alongside the other COMPONENT, Lanius and Clonebay 3."
+
+#: src-en/data/text_misc.xml.append:391
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_charge\"]"
+msgstr ""
+"Charge weapons can be charged multiple times to generate more firepower. You can save time and fire the weapon pre-maturely, but it will have fewer shots ready as a result.\n"
+"\n"
+"FM: A COMPONENT for forging the Railblender[140~], alongside the other COMPONENT, Energy Charger."
+
+#: src-en/data/text_misc.xml.append:396
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal\"]"
+msgstr ""
+"Tip: Crystal weapons pierce a single layer of shields. Only level 2 shields and higher can stop them.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II."
+
+#: src-en/data/text_misc.xml.append:400
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_minelauncher\"]"
+msgstr ""
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other "
+"COMPONENT Flak II."
+
+#: src-en/data/text_misc.xml.append:402
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_shotgun\"]"
+msgstr ""
+"Tip: Crystal weapons pierce a single layer of shields. Only level 2 shields and higher can stop them.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II.\n"
+"FM: A COMPONENT for forging the Crystal Drone, alongside the other COMPONENT Assault Drone."
+
+#: src-en/data/text_misc.xml.append:407
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_heavy_1\"]"
+msgstr ""
+"Tip: Crystal weapons pierce a single layer of shields. Only level 2 shields and higher can stop them.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II.\n"
+"FM: A COMPONENT for forging the Amber Drone, alongside the other COMPONENT Assault Drone."
+
+#: src-en/data/text_misc.xml.append:412
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_stun\"]"
+msgstr ""
+"Tip: Crystal weapons pierce a single layer of shields. Only level 2 shields and higher can stop them.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II.\n"
+"FM: A COMPONENT for forging the Imprisment Inducer[55~], alongside the other COMPONENT Stun Bomb."
+
+#: src-en/data/text_misc.xml.append:417
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_stun_red\"]"
+msgstr ""
+"Tip: Elite Crystal weaponry are stronger variants of Crystal weapons. They can pierce through two layers of shields, and apply a lockdown to targeted rooms.\n"
+"\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II.\n"
+"FM: A COMPONENT for forging the Imprisment Inducer[25~], alongside the other COMPONENT Stun Bomb."
+
+#: src-en/data/text_misc.xml.append:426
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_4\"]"
+msgstr ""
+"Tip: Heavy missiles always carry hull-bust attributes, and can be used to take down critical systems when necessary.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Hellfire' Burst Missiles[90~], alongside the other COMPONENT 'Hades' Heavy Missiles."
+
+#: src-en/data/text_misc.xml.append:430
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_fire\"]"
+msgstr ""
+"Tip: Missiles will ignore all enemy shields, but cost one missile to launch. Enemy defense drones will shoot down incoming missiles.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Hellfire' Burst Missiles[90~], alongside the other COMPONENT 'Ares' Heavy Missiles."
+
+#: src-en/data/text_misc.xml.append:437
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missile_cloak\"]"
+msgstr ""
+"FM: A COMPONENT for forging the 'Chernobog' Missiles[70~], alongside the "
+"other COMPONENT Energy Stunner."
+
+#: src-en/data/text_misc.xml.append:439
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_stun\"]"
+msgstr ""
+"Tip: Energy weapons are very versatile as they can do both ion and hull damage, but do not damage crew or systems.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Chernobog' Missiles[70~], alongside the other COMPONENT 'Nyx' Missile."
+
+#: src-en/data/text_misc.xml.append:446
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_fire\"]"
+msgstr ""
+"Tip: Bombs teleport past shields and defense drones to land directly on the ship. Cost 1 missile, and can be launched at your ship as well.\n"
+"\n"
+"FM: A COMPONENT for forging the Project #7[60~], alongside the other COMPONENT Crystal Lockdown Bomb."
+
+#: src-en/data/text_misc.xml.append:452
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_bio\"]"
+msgstr ""
+"Tip: Bombs teleport past shields.\n"
+"\n"
+"FM: A COMPONENT for forging Project #22[80~], alongside the other COMPONENT Crystal Lockdown Bomb."
+
+#: src-en/data/text_misc.xml.append:456
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_lock\"]"
+msgstr ""
+"Tip: Bombs teleport past shields and defense drones to land directly on the ship. Cost 1 missile, and can be launched at your ship as well.\n"
+"\n"
+"FM: A COMPONENT for forging the Project #22[80~], alongside the other COMPONENT Irradiation Bomb.\n"
+"FM: A COMPONENT for forging the Project #7[60~], alongside the other COMPONENT Fire Bomb.\n"
+"FM: A COMPONENT for forging the Bronze Metal Flak[10~], alongside the other COMPONENT Flak II."
+
+#: src-en/data/text_misc.xml.append:464
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_hull_2\"]"
+msgstr ""
+"Tip: Each laser shot will be blocked by a single shield bubble, regardless of the laser's damage.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Ba-Pef'[90~] Minelauncher, alongside the other COMPONENT Sobek."
+
+#: src-en/data/text_misc.xml.append:468
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_breach\"]"
+msgstr ""
+"Tip: Mine Launchers have reasonable status effect chances and fire massive bursts of slow moving mines which pierce all shields.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Ba-Pef' Minelauncher[90~], alongside the other COMPONENT Hull Laser II."
+
+#: src-en/data/text_misc.xml.append:472
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_bio\"]"
+msgstr ""
+"Tip: Missiles will ignore all enemy shields, but cost one missile to launch. Enemy defense drones will shoot down incoming missiles.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Dirty Bomb' Mine Launcher[140~], alongside the other COMPONENT 'Osiris' Mine Launcher."
+
+#: src-en/data/text_misc.xml.append:478
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_3\"]"
+msgstr ""
+"Tip: For every one point of ion damage, one power bar is removed from the target system and it is then locked for 5 seconds, preventing re-powering. If an ion weapon hits shields, the damage is automatically applied to the Shield System.\n"
+"\n"
+"FM: A COMPONENT for forging the 'Debilitatum' Heavy Missiles[65~], alongside the other COMPONENT 'Hermes' Heavy Missiles."
+
+#: src-en/data/text_misc.xml.append:483
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ac_1\"]"
+msgstr ""
+"Tip: GO BALLISTIC!!\n"
+"\n"
+"FM: A COMPONENT for forging the Volley Gun[60-20~], alongside 1-3 other Autocannon 1s."
+
+#: src-en/data/text_misc.xml.append:491
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_elite_kernel\"]"
+msgstr ""
+"Tip: Elite Kernels are stronger variants of Kernel weapons. They have a 65% chance to ignore their ammo cost and have a guaranteed stun chance.\n"
+"FM: A COMPONENT for forging the Basilisk Beam, alongside the other COMPONENT called [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:495
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_2\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Boo Womp, alongside the other COMPONENT Amp Energy.\n"
+"FM: A COMPONENT for forging the Forgemaster Drone, alongside the other COMPONENT called [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:500
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_amp_energy\"]"
+msgstr ""
+"Tip: Amp Drones can change their power levels before combat. More power increases their efficiency, but will also require reactor power to function.\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Boo Womp, alongside the other COMPONENT Combat Drone MK II."
+
+#: src-en/data/text_misc.xml.append:504
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_assault_drone\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Amber Drone, alongside the other COMPONENT Crystal Heavy MK I. \n"
+"FM: A COMPONENT for forging the Crystal Drone, alongside the other COMPONENT Crystal Scatter.\n"
+"FM: A COMPONENT for forging the Dazhbog Drone, alongside the other COMPONENT called [REDACTED]."
+
+#: src-en/data/text_misc.xml.append:511
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_conservative\"]"
+msgstr ""
+"Tip: Conservative drones use no power on their own, but cannot be depowered once activated.\n"
+"FM: A COMPONENT for forging the CURA Drone, alongside the other COMPONENTS Battle Drone MK I and Manager Drone."
+
+#: src-en/data/text_misc.xml.append:514
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_battletog\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Ship Drones require 1 drone to deploy, but will not need to be deployed again until destroyed. They stay on ship and help your crew as long as they are powered.\n"
+"\n"
+"Tip: Boarding Drones require 1 drone part to deploy for each new enemy. They will board the enemy ship and attack as long as they are powered. If they have not been destroyed, the drone parts will be returned after combat.\n"
+"FM: A COMPONENT for forging the CURA Drone, alongside the other COMPONENTS Conservative Combat Drone and Manager Drone."
+
+#: src-en/data/text_misc.xml.append:521
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_manning\"]"
+msgstr ""
+"Tip: Crew Drones require 1 drone to deploy, but will not need to be deployed again until destroyed. They stay on ship and help your crew as long as they are powered.\n"
+"FM: A COMPONENT for forging the CURA Drone, alongside the other COMPONENTS Battle Drone MK I and Conservative Combat Drone."
+
+#: src-en/data/text_misc.xml.append:523
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_amp_pinpoint\"]"
+msgstr ""
+"Tip: Amp Drones can change their power levels before combat. More power increases their efficiency, but will also require reactor power to function.\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Ishimura Drone, alongside the other COMPONENT 'Stiletto' Pinpoint."
+
+#: src-en/data/text_misc.xml.append:528
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_1\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Kestrel Drone, alongside the other COMPONENT Burst Laser MK II.\n"
+"FM: A COMPONENT for forging the MFK Kestrel Drone, alongside the other COMPONENT Light Laser MK I."
+
+#: src-en/data/text_misc.xml.append:533
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_recon\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Ship Drones require 1 drone to deploy, but will not need to be deployed again until destroyed. They stay on ship and help your crew as long as they are powered.\n"
+"\n"
+"Tip: Boarding Drones require 1 drone part to deploy for each new enemy. They will board the enemy ship and attack as long as they are powered. If they have not been destroyed, the drone parts will be returned after combat.\n"
+"FM: A COMPONENT for forging the MFK Picket Teleporter Relay Drone, alongside the other COMPONENT External Reconstructive Teleporter."
+
+#: src-en/data/text_misc.xml.append:540
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_pest\"]"
+msgstr ""
+"Tip: Toggle Drones can have multiple functionalities. You can switch the mode of as many toggle drones as you want using the toggle button!\n"
+"\n"
+"Tip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.\n"
+"FM: A COMPONENT for forging the Siren Drone, alongside the other COMPONENT Stun Bomb."
+
+#: src-en/data/text_misc.xml.append:545
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_stun\"]"
+msgstr ""
+"Tip: Bombs teleport past shields and defense drones to land directly on the ship. Like missiles, they cost one missile to launch. They never damage hull, but can be effective at disrupting crew and systems. You can even launch them at boarders on your own ship.\n"
+"\n"
+"FM: A COMPONENT for forging the Imprisment Inducer[25-55~], alongside the other COMPONENT Neural Crystal.\n"
+"FM: A COMPONENT for forging the Siren Drone, alongside the other COMPONENT Pest Drone."
+
+#: src-en/data/text_misc.xml.append:558
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_forgemaster\"]"
+msgstr "FORGEMASTER"
+
+#: src-en/data/text_misc.xml.append:559
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_forgemaster_2\"]"
+msgstr "FORGEMASTER"
+
+#: src-en/data/text_misc.xml.append:560
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_gunbom\"]"
+msgstr "WINCHESTER [!]"
+
+#: src-en/data/text_misc.xml.append:561
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_mandelbriss\"]"
+msgstr "MANDELBRISS"
+
+#: src-en/data/text_misc.xml.append:578
+msgid "data/text_misc.xml.append$//text[@name=\"fm_credit_victory_future\"]"
+msgstr ""
+"Congratulations, you've completed the secret Harmony bleak future ending! "
+"This is an interactive teaser I designed for the Harmony Conflict I "
+"eventually plan to design in a far-future update of Forgemaster! See you "
+"then!"

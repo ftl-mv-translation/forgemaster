@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_morality.xml.append:11
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_GENERAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:19
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_ORCHID\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:26
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_ORCHID_NO_FIGHT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:32
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_ORCHID_CRYSTAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:39
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_FORGEMASTER_ORCHID_CRYSTAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:50
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_ZOLTAN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:58
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER_ENGI\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:66
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_REMOVE_FORGEMASTER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_morality.xml.append:71
+msgid ""
+"data/events_special_morality.xml.append$//event[@name=\"MORALITY_UPDATE_FORGEMASTER\"]/text"
+msgstr ""

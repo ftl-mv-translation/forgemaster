@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_duskbringer.xml.append:9
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:11
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"Die Militialeute sind von deinem Angebot überrascht, aber akzeptieren "
+"dankbar."
+
+#: src-en/data/events_sector_duskbringer.xml.append:14
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Fortfahren..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:16
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/event/text"
+msgstr "Sie bieten dir ein Geschenk für deine großzügige Gabe an."
+
+#: src-en/data/events_sector_duskbringer.xml.append:25
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_duskbringer.xml.append:27
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Die Militialeute sind von deinem Angebot überrascht, aber akzeptieren "
+"dankbar."
+
+#: src-en/data/events_sector_duskbringer.xml.append:30
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Fortfahren..."
+
+#: src-en/data/events_sector_duskbringer.xml.append:32
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/event/text"
+msgstr "Sie bieten dir ein Geschenk für deine großzügige Gabe an."
+
+#: src-en/data/events_sector_duskbringer.xml.append:40
+msgid ""
+"data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "Ignoriere sie."

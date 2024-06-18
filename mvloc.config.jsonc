@@ -1,0 +1,138 @@
+{
+    "filePatterns": [
+        // Files to translate (glob pattern)
+
+        "data/autoBlueprints.xml.append",
+        "data/blueprints.xml.append",
+
+        "data/events_special_mechanical.xml.append",
+        "data/events_special_multiverse.xml.append",
+        "data/events_special_morality.xml.append",
+        "data/events_special_jukebox.xml.append",
+        "data/events_special_standard.xml.append",
+        "data/events_special_storage.xml.append",
+        "data/events_special_boons.xml.append",
+        "data/events_special_curator.xml.append",
+        "data/events_special_filler.xml.append",
+        "data/events_special_guards.xml.append",
+        "data/events_special_main.xml.append",
+        "data/events_special_lightspeed.xml.append",
+        "data/events_special_storage.xml.append",
+
+        "data/events_flakjuice.xml",
+        "data/events_specialfm_forgemaster.xml.append",
+        "data/events_twisted.xml",
+
+        "data/events_sector_lostsun.xml.append",
+        "data/events_sector_ministry.xml.append",
+        "data/events_sector_laststand.xml.append",
+        "data/events_sector_showdown.xml.append",
+        "data/events_sector_theocracy.xml.append",
+        "data/events_sector_unexplored.xml.append",
+        "data/events_sector_coalition.xml.append",
+        "data/events_sector_droppoint.xml.append", 
+        "data/events_sector_duskbringer.xml.append",
+        "data/events_sector_freemantis.xml.append",
+        "data/events_sector_gathering.xml.append",
+        "data/events_sector_harmony.xml.append",
+        "data/events_sector_hive.xml.append",
+        "data/events_sector_kleptocracy.xml.append",
+
+        "data/events_ships.xml.append",
+        "data/sector_data.xml.append",
+        "data/newEvents.xml.append",
+        "data/text_tooltips.xml.append",
+        "data/text_events.xml.append",
+        "data/text_misc.xml.append",
+        "data/text_blueprints.xml.append",
+        "data/hyperspace.xml.append",
+        "mod-appendix/metadata.xml"
+    ],
+    "stringSelectionXPath": [
+        // XML text extraction rules (XPath)
+
+        "//crewBlueprint/title",
+        "//crewBlueprint/short",
+        "//crewBlueprint/desc",
+        "//crewBlueprint/powerList/power",
+        "//weaponBlueprint/title",
+        "//weaponBlueprint/desc",
+        "//weaponBlueprint/short",
+        "//weaponBlueprint/tooltipOverride",
+        "//shipBlueprint/class",
+        "//shipBlueprint/desc",
+        "//shipBlueprint/name",
+        "//shipBlueprint/unlock",
+        "//droneBlueprint/title",
+        "//droneBlueprint/short",
+        "//droneBlueprint/desc",
+        "//augBlueprint/title",
+        "//augBlueprint/desc",
+
+        "//text",
+        "//tooltip",
+
+        "//mod:findLike/mod-append:page/section/@text",
+        "//achievement/name",
+        "//achievement/description",
+        "//achievement/header",
+        "//achievement/secretName",
+        "//achievement/secretDescription",
+        "//powerEffect/buttonText",
+        "//powerEffect/tooltip",
+
+        "//eventButton/tooltip",
+        "//eventButton/inactiveTooltip",
+        "//undiscoveredTooltip",
+        "//visitedTooltip",
+
+        "//crewMember/@name",
+        "//sectorDescription/nameList/name",
+        "//triggeredEventBox/tooltip",
+        "//unvisitedTooltip",
+        "//mod:findName/text",
+        "//mod:findLike/mod-append:drone/tooltipName",
+        "//mod-append:shipIcon/tooltip",
+        "//customStore/category/customTitle",
+        "//mod-append:customShip/crew/*/@name",
+        "//customShip/crew/*/@name",
+        "//win/@text",
+        "//spawnCrew/name",
+        "//crewMember",
+        "//mod:selector",
+        "//mod:selector/@name",
+        "//metadata/title",
+        "//metadata/description",
+    ],
+
+    "useDummyRoot": true,
+
+    "languageSpecifics": {
+        "ko": {
+            "copySourceTemplate": [
+                // Aka wont-translate.
+                // Specify which entries are 1:1-copied from English by default when syncing the English changes.
+
+                "//crewBlueprint/short",
+                "//droneBlueprint/short",
+                "//weaponBlueprint/short",
+                "//crewMember",
+                "//customShip/crew/*/@name",
+                "//mod-append:customShip/crew/*/@name",
+                "//spawnCrew/name",
+            ]
+        },
+        "zh_Hans": {
+            // Apply the translation flagged as fuzzy.
+            "applyUseFuzzy": true
+        }
+    },
+
+    "packaging": {
+        "fullOriginal": [
+            "https://github.com/ftl-mv-translation/forgemaster/raw/forgemaster-english/Forgemaster_0.6.1.1.zip",
+        ],
+        "prefix": "Forgemaster",
+        "version": "0.6.1.1"
+    }
+}

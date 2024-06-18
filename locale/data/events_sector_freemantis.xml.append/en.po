@@ -1,0 +1,412 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_freemantis.xml.append:5
+msgid ""
+"data/events_sector_freemantis.xml.append$//mod:findName[@name=\"FREEMANTIS_WEIRD_TRADE\"]/mod-"
+"append:choice/text"
+msgstr "(GunBom) Am I truly not worthy?"
+
+#: src-en/data/events_sector_freemantis.xml.append:7
+msgid ""
+"data/events_sector_freemantis.xml.append$//mod:findName[@name=\"FREEMANTIS_WEIRD_TRADE\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"The strange Mantis is silent for a moment, then seems to grow excited. "
+"\"You! I know ship. This Winchester ship, very popular! I have nothing to to"
+" offer you but these coordinates to an old friend of mine. He treat good "
+"tasting humans well!"
+
+#: src-en/data/events_sector_freemantis.xml.append:10
+msgid ""
+"data/events_sector_freemantis.xml.append$//mod:findName[@name=\"FREEMANTIS_WEIRD_TRADE\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "See what they're selling."
+
+#: src-en/data/events_sector_freemantis.xml.append:21
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/text"
+msgstr "Soon after jumping in a Mantis vessel hails you."
+
+#: src-en/data/events_sector_freemantis.xml.append:24
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/text"
+msgstr "Respond."
+
+#: src-en/data/events_sector_freemantis.xml.append:26
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/text"
+msgstr ""
+"The screen flickers to show an overweight Mantis in tattered blue clothing. "
+"\"Ah! Finally, Federation ship who respond to hail. Name is Kasaymiiikor the"
+" Flayer, but not be concerned. I have live long life of piracy and slaving, "
+"but now find myself filled with regret. I wish share with you less violent "
+"sides of Mantis culture.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:28
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[1]/text"
+msgstr "Hear him out."
+
+#: src-en/data/events_sector_freemantis.xml.append:30
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"\"Excellent! Excellent! You find my establishment at coordinates! I'll "
+"waiting for you.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:35
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/text"
+msgstr "There are no peaceful parts of Mantis culture. Attack the monster."
+
+#: src-en/data/events_sector_freemantis.xml.append:37
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Whatever the Mantis has in store, it can't be good. You prepare for combat."
+
+#: src-en/data/events_sector_freemantis.xml.append:40
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_freemantis.xml.append:46
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[3]/text"
+msgstr "Not worth our time."
+
+#: src-en/data/events_sector_freemantis.xml.append:52
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/text"
+msgstr "Fight the ship!"
+
+#: src-en/data/events_sector_freemantis.xml.append:54
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/event/text"
+msgstr ""
+"Whatever the Mantis has to say, you aren't interested. You prepare for "
+"combat."
+
+#: src-en/data/events_sector_freemantis.xml.append:57
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_freemantis.xml.append:63
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/text"
+msgstr "Ignore the ship."
+
+#: src-en/data/events_sector_freemantis.xml.append:65
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/event/text"
+msgstr "You have no interest in the Mantis ship."
+
+#: src-en/data/events_sector_freemantis.xml.append:67
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_freemantis.xml.append:71
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_freemantis.xml.append:78
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/text"
+msgstr ""
+"You find nothing at this beacon. You suspect it may be a trap, but quickly "
+"realize the co-ordinates must have been given in the incorrect order. You "
+"switch the co-ordiantes to the correct positions and continue exploring "
+"until you find a small Mantis station, with bloostains partly washed from "
+"the hull."
+
+#: src-en/data/events_sector_freemantis.xml.append:80
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_freemantis.xml.append:82
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/text"
+msgstr ""
+"\"Ah, Federation ship arrived! I hope you prepared for delectable Mantis "
+"cuisine!\""
+
+#: src-en/data/events_sector_freemantis.xml.append:84
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/text"
+msgstr "Sure..."
+
+#: src-en/data/events_sector_freemantis.xml.append:86
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/text"
+msgstr ""
+"Kasaymiiikor leads you and your crew to the dining table, where fist sized "
+"salt-crystals and entire bell-peppers are placed at the center. He then "
+"vanishes behind a door, followed not long after by shouts of \"Oh by the "
+"queen's left pincer, my dish is ruined. But what if... what if I were to use"
+" human food, and disguise if as my own dish? Oh ho ho! Delightfully wicked, "
+"Kasaymiiikor.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:88
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/text"
+msgstr "We should see what's going on in there."
+
+#: src-en/data/events_sector_freemantis.xml.append:90
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"You burst into his kitchen, and the Mantis cries out in shock, its pincer "
+"resting on the handle of an old-Earth human microwave. \"Ah! My friends! I "
+"was just... Flexing my pincers on the microwave, a common warrior exercise "
+"back on homeworld, care to join me?"
+
+#: src-en/data/events_sector_freemantis.xml.append:92
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr "Uh, no thanks."
+
+#: src-en/data/events_sector_freemantis.xml.append:94
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr "You exit the kitchen and return to your seat."
+
+#: src-en/data/events_sector_freemantis.xml.append:96
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_freemantis.xml.append:102
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr "Sure."
+
+#: src-en/data/events_sector_freemantis.xml.append:104
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"You try to flex on the microwave. You and the Mantis have a few moments "
+"moments of awkward silence before you return back to your seat."
+
+#: src-en/data/events_sector_freemantis.xml.append:106
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_freemantis.xml.append:114
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/text"
+msgstr "Ransack the place."
+
+#: src-en/data/events_sector_freemantis.xml.append:116
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"The Mantis comes back out from the kitchen to find you looting everything in"
+" sight. He screams in terror and you're forced to kill him."
+
+#: src-en/data/events_sector_freemantis.xml.append:121
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/text"
+msgstr "This is getting really strange, we should leave."
+
+#: src-en/data/events_sector_freemantis.xml.append:123
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/event/text"
+msgstr ""
+"You quickly leave the station and fly away as far as possible before the "
+"Mantis can return."
+
+#: src-en/data/events_sector_freemantis.xml.append:125
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_freemantis.xml.append:129
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_freemantis.xml.append:140
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/text"
+msgstr ""
+"The Mantis emerges from the kitchen, carrying a dish that looks very "
+"strangely like old-Earth hamburgers."
+
+#: src-en/data/events_sector_freemantis.xml.append:142
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/text"
+msgstr "I thought you said we were having Mantis cuisine?"
+
+#: src-en/data/events_sector_freemantis.xml.append:144
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/text"
+msgstr ""
+"\"No no, I said cuisine of Mantis! Not be confused with the similar term "
+"\"Mantis cuisine\" which stand for food which made by Mantis!\""
+
+#: src-en/data/events_sector_freemantis.xml.append:146
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/text"
+msgstr "There's a difference?"
+
+#: src-en/data/events_sector_freemantis.xml.append:148
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/text"
+msgstr "\"Y...yes? It is depend on regional dialect, yes.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:150
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/text"
+msgstr "What region?"
+
+#: src-en/data/events_sector_freemantis.xml.append:152
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/text"
+msgstr "\"Uh... Faahakahak district.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:154
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "I see..."
+
+#: src-en/data/events_sector_freemantis.xml.append:156
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"You eat in silence for a while, save for the scratching sounds from the "
+"Mantis scraping its claws on the table. The hamburgers are overcooked, and "
+"hard to swallow. You cough, noticing the smoke billowing out from underneath"
+" the door."
+
+#: src-en/data/events_sector_freemantis.xml.append:158
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Point out the fire."
+
+#: src-en/data/events_sector_freemantis.xml.append:160
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"The Mantis chokes for a minute. \"I should, uh, would you excuse me for one "
+"second?\""
+
+#: src-en/data/events_sector_freemantis.xml.append:162
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "Sure."
+
+#: src-en/data/events_sector_freemantis.xml.append:164
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"Kasaymiiikor scurries into the kitchen, and not long after returns. You can "
+"see a bright glow emitting from under the door now, and a quiet whistling "
+"noise. \"Well, that wonderful, good time had by all, time to go!\""
+
+#: src-en/data/events_sector_freemantis.xml.append:166
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr "What is going on in there?"
+
+#: src-en/data/events_sector_freemantis.xml.append:168
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr "\"Zoltan circus! Yes, very bright.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:170
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "There's a Zoltan circus in your kitchen?"
+
+#: src-en/data/events_sector_freemantis.xml.append:172
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
+msgstr "\"Yyyyess...\""
+
+#: src-en/data/events_sector_freemantis.xml.append:174
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "May we see it?"
+
+#: src-en/data/events_sector_freemantis.xml.append:176
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "\"No.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:178
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Ok..."
+
+#: src-en/data/events_sector_freemantis.xml.append:180
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"You wipe your mouth and leave the station. The Mantis waves as you go, as "
+"the station burns behind him. As you return to your ship, you find several "
+"crates wrapped up with ribbons. \"From Kasaymiiikor with platonic love\" it "
+"reads. When did he have time to do this?"
+
+#: src-en/data/events_sector_freemantis.xml.append:188
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Open another crate."
+
+#: src-en/data/events_sector_freemantis.xml.append:190
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "You open the crate"
+
+#: src-en/data/events_sector_freemantis.xml.append:198
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Open another crate."
+
+#: src-en/data/events_sector_freemantis.xml.append:200
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "You open the crate"
+
+#: src-en/data/events_sector_freemantis.xml.append:223
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "You've kept us here long enough. It's time we leave."
+
+#: src-en/data/events_sector_freemantis.xml.append:225
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"You gather up your crew and march out of the burning station. As you return "
+"to your ship, you find several crates wrapped up with ribbons. \"From "
+"Kasaymiiikor with platonic love\" it reads. When did he have time to do "
+"this? You open the first crate"
+
+#: src-en/data/events_sector_freemantis.xml.append:233
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr "Open another crate."
+
+#: src-en/data/events_sector_freemantis.xml.append:235
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
+msgstr "You open the crate"
+
+#: src-en/data/events_sector_freemantis.xml.append:245
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
+msgstr "Open another crate."
+
+#: src-en/data/events_sector_freemantis.xml.append:247
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
+msgstr "You open the crate"

@@ -1,0 +1,409 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:2
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:3
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_1_PROCEED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:4
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:5
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_2_PROCEED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:6
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:7
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_3_PROCEED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:8
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:9
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_4_PROCEED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:10
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_5\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:11
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_5_PROCEED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:12
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_6\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:14
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:15
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP_OK\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:16
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP_OK_LAST\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:18
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ZOLTAN_MANTIS_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:19
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ZOLTAN_MANTIS_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:21
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:22
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:23
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:24
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:26
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:27
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:28
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:29
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:30
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:31
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:32
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:33
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:34
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:35
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:36
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:37
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:41
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_5\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:43
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:44
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:45
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:46
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:48
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:49
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:53
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:57
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:61
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_5\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:62
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:63
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:64
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:65
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:66
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:67
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:68
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:69
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:71
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:72
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:76
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:80
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_4\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:82
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:83
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:84
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:87
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_1\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:88
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:89
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_3\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:92
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_BRAIN_DONATION\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:93
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_BRAIN_DONATION\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:96
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAPPED_BRAIN_DONATION\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:97
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAP_BRAIN_DONATION\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:98
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_DEATH_VESTS2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:99
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_DEATH_VESTS2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:102
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAPPED_DEATH_VESTS2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:103
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAP_DEATH_VESTS2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:104
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_UPG_DRONE_COOLDOWN\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:105
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_UPG_DRONE_COOLDOWN\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:108
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_SCRAPPED_UPG_DRONE_COOLDOWN\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:109
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_SCRAP_UPG_DRONE_COOLDOWN\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:111
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_TEA_EARL\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:114
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_REALITY_RELOADER\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:117
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_MANTIS_RELOADER\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:120
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_FM_UPG_AETHER_SHIELDS\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:123
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_FREEDOM_ROCK\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:126
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_AUG_MAGATAMA\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:129
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_MALBORO_RED\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:132
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_LAB_ZOLTAN_LIMIT_RELEASE\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:135
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_UPG_DRONE_SPEED_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:138
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_FIRE_HEART\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:141
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_GOZER_FRIDGE\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:144
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_UPG_WEAPONS_REPLICATOR_2\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:147
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_GOLDEN_TUCO\"]"
+msgstr ""
+
+#: src-en/data/text_events.xml.append:150
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_DEPRESSION_EMITTER\"]"
+msgstr ""

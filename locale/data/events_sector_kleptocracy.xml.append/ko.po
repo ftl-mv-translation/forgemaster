@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:9
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:11
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:14
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "함선에서 무언가를 한다."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:18
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "아무것도 하지 않는다."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:40
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:42
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:44
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:46
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:48
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:50
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:53
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:59
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:70
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:72
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:74
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:76
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:78
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:80
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:102
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:104
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:106
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "계속..."
+
+#: src-en/data/events_sector_kleptocracy.xml.append:113
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:127
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:129
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"\"오, 예상찌 못했는데... 쩡말 감싸합니다. 쩌는 오랬동안 이 왕국을 다쓰리면써 썽운 밖의 외부인들이 쫑쫑 베푸는 친쩔을 거의 "
+"까먹었었답니다...\""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:131
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "잠깐만요, 당신 지금 왕국을 다스리고 있다고 말했습니까?"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:138
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "거절한다."
