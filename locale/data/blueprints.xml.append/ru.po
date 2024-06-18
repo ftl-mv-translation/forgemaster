@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-18 11:58+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -5310,9 +5318,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12399
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_INVIS\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 45]"
 
 #: src-en/data/blueprints.xml.append:12402
 msgid ""
@@ -5355,9 +5364,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12561
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER_INVIS\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:12564
 msgid ""
@@ -5375,9 +5385,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12601
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:12604
 msgid ""
@@ -5395,9 +5406,10 @@ msgid ""
 msgstr "Гермес"
 
 #: src-en/data/blueprints.xml.append:12672
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_3_INVIS\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 53]"
 
 #: src-en/data/blueprints.xml.append:12675
 msgid ""
@@ -5415,9 +5427,10 @@ msgid ""
 msgstr "Зажигат. ИБ"
 
 #: src-en/data/blueprints.xml.append:12717
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 13]"
 
 #: src-en/data/blueprints.xml.append:12720
 msgid ""
@@ -5435,8 +5448,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12765
+#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ARTY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 45]"
 
 #: src-en/data/blueprints.xml.append:12768
 msgid ""
@@ -5454,9 +5468,10 @@ msgid ""
 msgstr "Ликвид. III"
 
 #: src-en/data/blueprints.xml.append:12802
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:12805
 msgid ""
@@ -5494,9 +5509,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12882
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 44]"
 
 #: src-en/data/blueprints.xml.append:12885
 msgid ""
@@ -5514,9 +5530,10 @@ msgid ""
 msgstr "Стиратель"
 
 #: src-en/data/blueprints.xml.append:12917
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 35 -> 15]"
 
 #: src-en/data/blueprints.xml.append:12920
 msgid ""
@@ -5534,9 +5551,10 @@ msgid ""
 msgstr "€ Цепн. зерномет"
 
 #: src-en/data/blueprints.xml.append:12980
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_PLAYER_ARTY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 30 -> 7.5]"
 
 #: src-en/data/blueprints.xml.append:12983
 msgid ""
@@ -5554,9 +5572,10 @@ msgid ""
 msgstr "Проб. бомба"
 
 #: src-en/data/blueprints.xml.append:13028
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 26 -> 11]"
 
 #: src-en/data/blueprints.xml.append:13031
 msgid ""
@@ -5799,9 +5818,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:13619
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 40]"
 
 #: src-en/data/blueprints.xml.append:13622
 msgid ""
@@ -6751,9 +6771,10 @@ msgid ""
 msgstr "Стиратель"
 
 #: src-en/data/blueprints.xml.append:15934
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_ARTY_CHAIN\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 70 -> 50]"
 
 #: src-en/data/blueprints.xml.append:15937
 msgid ""
@@ -6791,9 +6812,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:16033
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 88]"
 
 #: src-en/data/blueprints.xml.append:16036
 msgid ""
@@ -6831,9 +6853,10 @@ msgid ""
 msgstr "Ликвид. III"
 
 #: src-en/data/blueprints.xml.append:16115
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY_ENEMY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 60]"
 
 #: src-en/data/blueprints.xml.append:16118
 msgid ""
@@ -7224,9 +7247,10 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:17029
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 35]"
 
 #: src-en/data/blueprints.xml.append:17032
 msgid ""
