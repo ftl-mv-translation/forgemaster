@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_multiversexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_multiverse.xml.append:4
 msgid ""
@@ -14,13 +22,18 @@ msgstr "Нам нечего показать."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Представить Пластинчатого."
 
 #: src-en/data/events_special_multiverse.xml.append:10
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Ученик... Кузнеца. Отказался от прежней жизни... чтобы заниматься своим "
+"ремеслом под его руководством. Кто может сказать... что заставило его "
+"хранить верность? Вы умны или могущественен, раз завоевали его уважение... "
+"независимо от этого. Молодец, путник. Ожидай... награды перед следующим "
+"путешествием\"."
 
 #: src-en/data/events_special_multiverse.xml.append:14
 msgid ""
@@ -37,13 +50,17 @@ msgstr "Нам нечего показать."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Предъявить Модульный корпус."
 
 #: src-en/data/events_special_multiverse.xml.append:28
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Броня - для защиты! Защиты! Но -это- нечто [большее]! Кто-то снабдил вас "
+"х-х-х-хитроумным приспособлением, чтобы прятаться за ним! Для [адаптации] и "
+"защиты: я д-д-д-дарую Дар бронирования! Дар бронирования! Сохраните его - "
+"для будущего!\""
 
 #: src-en/data/events_special_multiverse.xml.append:32
 msgid ""
@@ -60,13 +77,18 @@ msgstr "Нам нечего показать."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Предъявить обычное кованое орудие."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"Хмм. КОВАНОЕ орудие? Конечно. Это подношение, я полагаю. Но это НЕ лучшая "
+"работа Алестера. Он может сделать что-то ПОЛУЧШЕ. Я бы посчитал ПОЗОРНЫМ "
+"вооружать Ренегата таким НИЧТОЖНЫМ ОРУДИЕМ. Хмм. Я бы хотел ПОГОВОРИТЬ с ним "
+"снова. НЕВАЖНО! Я БЛАГОСЛОВЛЮ вас БЛАГОСЛОВЕНИЕМ КОВКИ. Но имейте ТЕРПЕНИЕ. "
+"Это не сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:50
 msgid ""
@@ -78,13 +100,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Предъявить мощное кованое орудие."
 
 #: src-en/data/events_special_multiverse.xml.append:58
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"О боже... вот ЭТО ОРУДИЕ. Подношение ВЫСОЧАЙШЕГО уровня. Мастерство "
+"Алестера никогда НЕ переставало УДИВЛЯТЬ. С ним он ПРЕВЗОШЕЛ самого себя. Я "
+"бы хотел ПОГОВОРИТЬ с ним снова. НЕВАЖНО! Я БЛАГОСЛОВЛЮ вас ВЕЛИКИМ "
+"БЛАГОСЛОВЕНИЕМ КОВКИ. Но имейте ТЕРПЕНИЕ. Это не сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:62
 msgid ""
@@ -93,16 +119,23 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_multiverse.xml.append:68
+#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Предъявить технологию Анкагалона."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Уэйксон некоторое время молча стоит. \"Ренегат. ОТКУДА взялась эта "
+"АБОМИНАЦИЯ? Она НИКОГДА не должна было быть СОЗДАНА. Хотелось бы, чтобы я ее "
+"не ВИДЕЛ. Но информация есть. Я НАДЕЯЛСЯ, что никто не УЗНАЕТ секрет. Тем не "
+"менее, по нашим ПРАВИЛАМ, я должен НАГРАДИТЬ вас за это. Больше не ГЛУПИ "
+"так, Ренегат. Я ОДАРЮ вас БЛАГОСЛОВЕНИЕМ БЕЗРАССУДСТВА. Но имейте ТЕРПЕНИЕ. "
+"Это не сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:74
 msgid ""
@@ -114,13 +147,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Предъявить Терминус."
 
 #: src-en/data/events_special_multiverse.xml.append:82
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"Уэйксон мгновение молча стоит. \"Почему Ренегаты ТАКИЕ... Я ОДАРЮ вас "
+"БЛАГОСЛОВЕНИЕМ СООБРАЗИТЕЛЬНОСТИ несмотря ни на что. Но будьте ТЕРПЕЛИВЫ. "
+"Это не сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:86
 msgid ""
