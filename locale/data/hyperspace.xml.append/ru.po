@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-18 11:58+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/hyperspace.xml.append:298
 msgid ""
@@ -319,31 +327,31 @@ msgstr "Фредди"
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy?\"]/@name"
-msgstr ""
+msgstr "Фредди?"
 
 #: src-en/data/hyperspace.xml.append:1112
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fred\"]/@name"
-msgstr ""
+msgstr "Фред"
 
 #: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Frederick\"]/@name"
-msgstr ""
+msgstr "Фредерик"
 
 #: src-en/data/hyperspace.xml.append:1114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[5]/@name"
-msgstr ""
+msgstr "Франц"
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[6]/@name"
-msgstr ""
+msgstr "Франц"
 
 #: src-en/data/hyperspace.xml.append:1116
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Ferdinand\"]/@name"
-msgstr ""
+msgstr "Фердинанд"
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
@@ -351,7 +359,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1118
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
-msgstr ""
+msgstr "Фамблмор"
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
@@ -363,11 +371,11 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1121
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
-msgstr ""
+msgstr "Федди"
 
 #: src-en/data/hyperspace.xml.append:1122
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
-msgstr ""
+msgstr "Фазбер"
 
 #: src-en/data/hyperspace.xml.append:1176
 msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
