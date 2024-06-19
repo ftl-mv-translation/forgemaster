@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -139,7 +139,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Клановец"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
@@ -154,7 +154,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Вестник"
 
 #: src-en/data/blueprints.xml.append:628
 msgid ""
@@ -169,7 +169,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-энджи"
 
 #: src-en/data/blueprints.xml.append:710
 msgid ""
@@ -184,7 +184,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-свободный богомол"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
@@ -199,7 +199,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Сепаратист"
 
 #: src-en/data/blueprints.xml.append:870
 msgid ""
@@ -214,7 +214,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-богомол"
 
 #: src-en/data/blueprints.xml.append:952
 msgid ""
@@ -229,7 +229,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1028
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Монах"
 
 #: src-en/data/blueprints.xml.append:1029
 msgid ""
@@ -244,7 +244,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-валун"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Затерянное Солнце"
 
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
@@ -274,7 +274,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Клептократия"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
@@ -289,7 +289,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат [стелс]"
 
 #: src-en/data/blueprints.xml.append:1348
 msgid ""
@@ -300,11 +300,14 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/desc"
 msgstr ""
+"[Стелс] <корабль>, оснащенный <лазерным> оружием и одним <лучевым> оружием, "
+"которое становится сильнее с каждым выстрелом, но оно [ОШИБКА 403], так что "
+"будьте осторожны."
 
 #: src-en/data/blueprints.xml.append:1428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-золтан"
 
 #: src-en/data/blueprints.xml.append:1429
 msgid ""
@@ -319,7 +322,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-ланиус"
 
 #: src-en/data/blueprints.xml.append:1506
 msgid ""
@@ -334,7 +337,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-ракушка"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
@@ -349,7 +352,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Инженер"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -364,7 +367,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Пустельга"
 
 #: src-en/data/blueprints.xml.append:1747
 msgid ""
@@ -379,7 +382,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Федерации"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
@@ -394,7 +397,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-орхидея"
 
 #: src-en/data/blueprints.xml.append:1900
 msgid ""
@@ -409,7 +412,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-кристаллин"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
@@ -424,7 +427,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-Туко"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
@@ -439,7 +442,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/class"
-msgstr ""
+msgstr "Искривленный Ренегат-пиявка"
 
 #: src-en/data/blueprints.xml.append:2138
 msgid ""
@@ -560,56 +563,66 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/desc"
 msgstr ""
+"Кузнец. Один из самых могущественных существ в галактике и в то же время "
+"один из самых дружелюбных и общительных."
 
 #: src-en/data/blueprints.xml.append:2388
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/title"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:2389
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/short"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:2394
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[1]"
 msgstr ""
+"200 здоровья, получает половину урона от всех источников, передвигается со "
+"скоростью 0.8x"
 
 #: src-en/data/blueprints.xml.append:2395
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 2x урона в ближнем бою, 1.5x урона в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:2396
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[3]"
-msgstr ""
+msgstr "Очень быстро тушит пожары"
 
 #: src-en/data/blueprints.xml.append:2397
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Ремонтирует 2 единицы корпуса, 10 единиц систем в "
+"текущем отсеке, полностью исцеляет себя. Разжигает пожар. Один раз за прыжок."
 
 #: src-en/data/blueprints.xml.append:2402
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/desc"
 msgstr ""
+"Кузнец. Один из самых могущественных существ в галактике и в то же время "
+"один из самых дружелюбных и общительных."
 
 #: src-en/data/blueprints.xml.append:2403
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/title"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:2404
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/short"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:2409
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[1]"
 msgstr ""
+"200 здоровья, получает половину урона от всех источников, передвигается со "
+"скоростью 0.8x"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid ""
@@ -2309,11 +2322,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4039
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4040
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4041
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/desc"
@@ -2445,11 +2458,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4434
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4435
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4436
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/desc"
@@ -2558,12 +2571,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:4718
 msgid ""
@@ -2649,6 +2662,19 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 8 сек.\n"
+"\t\t\tБонус к точности: +5%\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\t\t\tУрон людям: 145\n"
+"\t\t\tПробивание щита: 10\n"
+"\n"
+"\t\t\tВероятность поджога: 10%\n"
+"\t\t\tВероятность пробоины: 10% (Скорректировано: 9%)"
 
 #: src-en/data/blueprints.xml.append:5170
 msgid ""
@@ -2689,6 +2715,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 2\n"
+"\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 60\n"
+"\t\t\tПробивание щита: 1\n"
+"\n"
+"\t\t\tВероятность яда: 100%\n"
+"\t\t\tВероятность ослабления: 100%"
 
 #: src-en/data/blueprints.xml.append:5268
 msgid ""
@@ -2843,6 +2880,21 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 20 сек.\n"
+"\t\t\tБонус к точности: +115%\n"
+"\n"
+"\t\t\tУрон корпусу: 10\n"
+"\t\t\tУрон системам: 10\n"
+"\t\t\tУрон экипажу: 150\n"
+"\t\t\tПробивание щита: 20 (Также пробивает cуперщиты)\n"
+"\n"
+"\t\t\tВероятность поджога: 100%\n"
+"\t\t\tВероятность пробоины: 100%\n"
+"\n"
+"\t\t\tВероятность ослабления: 100%\n"
+"\n"
+"\t\t\tПокупка: 900~   -   Продажа: 450~"
 
 #: src-en/data/blueprints.xml.append:5936
 msgid ""
@@ -2983,6 +3035,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\t\t\tРазброс выстрела: 50\n"
+"\t\t\tВыстрелов в очереди: 7\n"
+"\n"
+"\t\t\tУрон корпусу: 1\n"
+"\t\t\tИонный урон: 1 (3 снаряда)\n"
+"\t\t\tУрон экипажу: 15\n"
+"\n"
+"\t\t\tРасход энергии: 1 (12 сек.)\n"
+"\t\t\tВероятность пробоины: 40%"
 
 #: src-en/data/blueprints.xml.append:6442
 msgid ""
@@ -3008,6 +3072,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\t\t\tРазброс выстрела: 50\n"
+"\t\t\tВыстрелов в очереди: 7\n"
+"\n"
+"\t\t\tУрон корпусу: 1\n"
+"\t\t\tИонный урон: 1 (3 снаряда)\n"
+"\t\t\tУрон экипажу: 15\n"
+"\n"
+"\t\t\tРасход энергии: 1 (12 сек.)\n"
+"\t\t\tВероятность пробоины: 40%"
 
 #: src-en/data/blueprints.xml.append:6527
 msgid ""
@@ -3128,6 +3204,21 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\n"
+"\t\t\tДвойной урон отсекам без систем.\n"
+"\t\t\tДвойной ионный урон системам.\n"
+"\t\t\tУрон корпусу: 2\n"
+"\t\t\tУрон экипажу: 30\n"
+"\t\t\tИонный урон: 2\n"
+"\n"
+"\n"
+"\t\t\tВероятность поджога: 10%\n"
+"\t\t\tВероятность пробоины: 10% (Скорректировано: 9%)\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:6900
 msgid ""
@@ -3390,6 +3481,20 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 22 сек.\n"
+"\n"
+"\t\t\tДлина луча: 90\n"
+"\t\t\tСкорость луча: 5\n"
+"\n"
+"\t\t\tУрон корпусу: 1 (За отсек)\n"
+"\t\t\tУрон за попадание в плитку: 1\n"
+"\t\t\tУрон экипажу за попадание в плитку: 15\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\t\t\tПробивание щита: 1\n"
+"\n"
+"\t\t\tВероятность пробоины: 20%"
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
@@ -3430,6 +3535,20 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 22 сек.\n"
+"\n"
+"\t\t\tДлина луча: 90\n"
+"\t\t\tСкорость луча: 5\n"
+"\n"
+"\t\t\tУрон корпусу: 1 (За отсек)\n"
+"\t\t\tУрон за попадание в плитку: 1\n"
+"\t\t\tУрон экипажу за попадание в плитку: 15\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\t\t\tПробивание щита: 1\n"
+"\n"
+"\t\t\tВероятность пробоины: 20%"
 
 #: src-en/data/blueprints.xml.append:7673
 msgid ""
@@ -3455,6 +3574,20 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 22 сек.\n"
+"\n"
+"\t\t\tДлина луча: 90\n"
+"\t\t\tСкорость луча: 5\n"
+"\n"
+"\t\t\tУрон корпусу: 1 (За отсек)\n"
+"\t\t\tУрон за попадание в плитку: 1\n"
+"\t\t\tУрон экипажу за попадание в плитку: 15\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\t\t\tПробивание щита: 1\n"
+"\n"
+"\t\t\tВероятность пробоины: 20%"
 
 #: src-en/data/blueprints.xml.append:7755
 msgid ""
@@ -3475,6 +3608,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\t\t\tДлина луча: 105\n"
+"\t\t\tСкорость луча: 11\n"
+"\n"
+"\t\t\tИонный урон за попадание в плитку: 1\n"
+"\t\t\tПробивание щита: 10\n"
+"\n"
+"\t\t\tВероятность пробоины: 70%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:7831
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/title"
@@ -3512,6 +3656,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 15 сек.\n"
+"\n"
+"\t\t\tДлина луча: 200\n"
+"\t\t\tСкорость луча: 5\n"
+"\n"
+"\t\t\tИонный урон: 2\n"
+"\t\t\tУрон энджи: ?\n"
+"\n"
+"\t\t\tВероятность поджога: 30%\n"
+"\t\t\tВероятность пробоины: 30%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:7992
 msgid ""
@@ -3657,6 +3813,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 1\n"
+"\t\t\tВремя перезарядки: 9.5 сек.\n"
+"\n"
+"\t\t\tДлина луча: Точечный луч\n"
+"\t\t\tСкорость луча: 1\n"
+"\n"
+"\t\t\tУрон корпусу: 2\n"
+"\t\t\tУрон экипажу: 30\n"
+"\t\t\tИонный урон: 2 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность поджога: 40%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:8249
 msgid ""
@@ -3682,6 +3850,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 13.5 сек.\n"
+"\n"
+"\t\t\tДлина луча: Точечный луч\n"
+"\t\t\tСкорость луча: 1\n"
+"\n"
+"\t\t\tУрон корпусу: 3\n"
+"\t\t\tУрон экипажу: 45\n"
+"\t\t\tИонный урон: 3 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность поджога: 60%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:8328
 msgid ""
@@ -3707,6 +3887,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 1\n"
+"\t\t\tВремя перезарядки: 13.5 сек.\n"
+"\n"
+"\t\t\tДлина луча: Точечный луч\n"
+"\t\t\tСкорость луча: 1\n"
+"\n"
+"\t\t\tУрон корпусу: 3\n"
+"\t\t\tУрон экипажу: 45\n"
+"\t\t\tИонный урон: 3 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность поджога: 60%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:8407
 msgid ""
@@ -3732,6 +3924,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 16.5 сек.\n"
+"\n"
+"\t\t\tДлина луча: Точечный луч\n"
+"\t\t\tСкорость луча: 1\n"
+"\n"
+"\t\t\tУрон корпусу: 4\n"
+"\t\t\tУрон экипажу: 60\n"
+"\t\t\tИонный урон: 4 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность поджога: 80%\n"
+"\t\t\tВероятность оглушения: 100% (5 сек.)"
 
 #: src-en/data/blueprints.xml.append:8487
 msgid ""
@@ -3757,6 +3961,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/tooltipOverride"
 msgstr ""
+"Не требует питания\n"
+"\t\t\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\t\t\tДлина луча: Точечный луч\n"
+"\t\t\tСкорость луча: 1\n"
+"\n"
+"\t\t\tУрон корпусу: 2\n"
+"\t\t\tУрон экипажу: 30\n"
+"\t\t\tИонный урон: 2 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность поджога: 20%\n"
+"\t\t\tВероятность оглушения: 100% (3 сек.)"
 
 #: src-en/data/blueprints.xml.append:8566
 msgid ""
@@ -4456,12 +4672,29 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10310
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 единицы урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:10311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"\t\t\tВремя перезарядки: 21 сек.\n"
+"\t\t\tПотребление боеголовок: 1\n"
+"\t\t\tБонус к точности: +100%\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\n"
+"\t\t\tДвойной урон отсекам без систем.\n"
+"\t\t\tУрон корпусу: 3\n"
+"\t\t\tУрон системам: 3\n"
+"\t\t\tУрон экипажу: 45\n"
+"\t\t\tИонный урон: 3 (Только отсеки)\n"
+"\t\t\tПробивание щита: 10\n"
+"\n"
+"\t\t\tВероятность поджога: 40%\n"
+"\t\t\tВероятность пробоины: 50% (Скорректировано: 30%)\n"
+"\t\t\tВероятность оглушения: 100% (17 сек.)"
 
 #: src-en/data/blueprints.xml.append:10384
 msgid ""
@@ -4481,12 +4714,29 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 единицы урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:10411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 21 сек.\n"
+"\t\t\tПотребление боеголовок: 1\n"
+"\t\t\tБонус к точности: +100%\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\n"
+"\t\t\tДвойной урон отсекам без систем.\n"
+"\t\t\tУрон корпусу: 3\n"
+"\t\t\tУрон системам: 3\n"
+"\t\t\tУрон экипажу: 45\n"
+"\t\t\tИонный урон: 3 (Только отсеки)\n"
+"\t\t\tПробивание щита: 10\n"
+"\n"
+"\t\t\tВероятность поджога: 40%\n"
+"\t\t\tВероятность пробоины: 50% (Скорректировано: 30%)\n"
+"\t\t\tВероятность оглушения: 100% (17 сек.)"
 
 #: src-en/data/blueprints.xml.append:10484
 msgid ""
@@ -4506,12 +4756,29 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 единицы урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:10511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 1\n"
+"\t\t\tВремя перезарядки: 21 сек.\n"
+"\t\t\tПотребление боеголовок: 1\n"
+"\t\t\tБонус к точности: +100%\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\n"
+"\t\t\tДвойной урон отсекам без систем.\n"
+"\t\t\tУрон корпусу: 3\n"
+"\t\t\tУрон системам: 3\n"
+"\t\t\tУрон экипажу: 45\n"
+"\t\t\tИонный урон: 3 (Только отсеки)\n"
+"\t\t\tПробивание щита: 10\n"
+"\n"
+"\t\t\tВероятность поджога: 40%\n"
+"\t\t\tВероятность пробоины: 50% (Скорректировано: 30%)\n"
+"\t\t\tВероятность оглушения: 100% (17 сек.)"
 
 #: src-en/data/blueprints.xml.append:10585
 msgid ""
@@ -5097,12 +5364,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:11830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:11831
 msgid ""
@@ -5401,8 +5668,8 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER_INVIS\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 60] Лучезарный луч, который стреляет быстрее с каждым "
-"выстрелом, проникает сквозь 3 щита и оглушает. Наносит 4 системных и 60 "
-"урона экипажу."
+"залпом, проникает сквозь 3 щита и оглушает. Наносит 4 системных и 60 урона "
+"экипажу."
 
 #: src-en/data/blueprints.xml.append:12564
 msgid ""
@@ -5414,23 +5681,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:12600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:12601
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/desc"
-msgstr "[Базовая перезарядка: 60]"
+msgstr ""
+"[Базовая перезарядка: 60] Призрачные газы, сжигаемые этим оружием, иногда "
+"сгущаются настолько, что порождают нового Гуля. Не беспокойтесь об этом."
 
 #: src-en/data/blueprints.xml.append:12604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/tooltip"
 msgstr ""
+"НЕ пробивает щиты и не разрушает их, стреляйте, когда вражеских щитов не "
+"будет, и обрушьте ад на их корабль. Устраивает тонны пожаров."
 
 #: src-en/data/blueprints.xml.append:12670
 msgid ""
@@ -5443,15 +5713,16 @@ msgid ""
 msgstr "Гермес"
 
 #: src-en/data/blueprints.xml.append:12672
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_3_INVIS\"]/desc"
-msgstr "[Базовая перезарядка: 53]"
+msgstr ""
+"[Базовая перезарядка: 53] Тяжелое ракетное оружие, наносящее большой урон "
+"корпусу противника."
 
 #: src-en/data/blueprints.xml.append:12675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_3_INVIS\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 единицы урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:12713
 msgid ""
@@ -5464,15 +5735,18 @@ msgid ""
 msgstr "Зажигат. ИБ"
 
 #: src-en/data/blueprints.xml.append:12717
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/desc"
-msgstr "[Базовая перезарядка: 13]"
+msgstr ""
+"[Базовая перезарядка: 13] Ионное оружие может выводить из строя системы, не "
+"нанося повреждений корпусу. Это орудие поджигает пораженные отсеки."
 
 #: src-en/data/blueprints.xml.append:12720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон. Может поразить и вывести из "
+"строя щиты, а также системы."
 
 #: src-en/data/blueprints.xml.append:12762
 msgid ""
@@ -5485,19 +5759,22 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:12765
-#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ARTY\"]/desc"
-msgstr "[Базовая перезарядка: 45]"
+msgstr ""
+"[Базовая перезарядка: 45] Самотелепортирующаяся взрывчатка, использующая "
+"ионы для выведения систем из строя. Можно нацелить на собственный корабль."
 
 #: src-en/data/blueprints.xml.append:12768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ARTY\"]/tooltip"
 msgstr ""
+"Бомбовое оружие; требует боеголовки; не наносит урона, но наносит 4 ионного "
+"урона."
 
 #: src-en/data/blueprints.xml.append:12800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY\"]/title"
-msgstr ""
+msgstr "\"Ликвидатор\" мод. III"
 
 #: src-en/data/blueprints.xml.append:12801
 msgid ""
@@ -5505,15 +5782,18 @@ msgid ""
 msgstr "Ликвид. III"
 
 #: src-en/data/blueprints.xml.append:12802
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY\"]/desc"
-msgstr "[Базовая перезарядка: 60]"
+msgstr ""
+"[Базовая перезарядка: 60] Лучевое орудие с уроном в 5 единиц за отсек. "
+"Оглушает врагов на 9 секунд, гарантированно вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:12805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY\"]/tooltip"
 msgstr ""
+"Лучевое орудие с уроном в 5 единиц за отсек. Оглушает врагов на 9 секунд, "
+"гарантированно вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:12834
 msgid ""
@@ -5538,23 +5818,25 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/title"
-msgstr ""
+msgstr "Луч \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:12881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/short"
-msgstr ""
+msgstr "Луч \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:12882
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr "[Базовая перезарядка: 44]"
+msgstr ""
+"[Базовая перезарядка: 44] Эта продвинутая лучевая установка является "
+"экспериментальным улучшением хорошо известных лучевых орудий \"Камаяри\" и "
+"\"Суяри\"."
 
 #: src-en/data/blueprints.xml.append:12885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Адаптивный луч, с каждым выстрелом урон увеличивается на 1.5."
 
 #: src-en/data/blueprints.xml.append:12915
 msgid ""
@@ -5567,15 +5849,17 @@ msgid ""
 msgstr "Стиратель"
 
 #: src-en/data/blueprints.xml.append:12917
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr "[Базовая перезарядка: 35 -> 15]"
+msgstr ""
+"[Базовая перезарядка: 35 -> 15] Если это оружие будет использовано против "
+"любой другой расы, вас следует убить на месте. Наносит умеренный урон любому "
+"типу экипажа, но мгновенно убивает всех золтанов."
 
 #: src-en/data/blueprints.xml.append:12920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_PLAYER_ARTY_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Цепной луч с 45 урону экипажа (убивает золтанов)"
 
 #: src-en/data/blueprints.xml.append:12978
 msgid ""
@@ -5588,15 +5872,17 @@ msgid ""
 msgstr "€ Цепн. зерномет"
 
 #: src-en/data/blueprints.xml.append:12980
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_PLAYER_ARTY\"]/desc"
-msgstr "[Базовая перезарядка: 30 -> 7.5]"
+msgstr ""
+"[Базовая перезарядка: 30 -> 7.5] Это оружие использует в качестве "
+"боеприпасов зерна гигантских растений с родной планеты орхидей. Мощная "
+"элитная версия с гарантированным оглушением."
 
 #: src-en/data/blueprints.xml.append:12983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_PLAYER_ARTY\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка уменьшается."
 
 #: src-en/data/blueprints.xml.append:13025
 msgid ""
@@ -5609,25 +5895,27 @@ msgid ""
 msgstr "Проб. бомба"
 
 #: src-en/data/blueprints.xml.append:13028
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_PLAYER_ARTY_CHAIN\"]/desc"
-msgstr "[Базовая перезарядка: 26 -> 11]"
+msgstr ""
+"[Базовая перезарядка: 26 -> 11] Самотелепортирующаяся взрывчатка, "
+"предназначенная для повреждения систем и создания пробоин, стреляет быстрее "
+"с каждым выстрелом."
 
 #: src-en/data/blueprints.xml.append:13031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_PLAYER_ARTY_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Бомбовое оружие; наносит 2 урона системам и создает пробоину в корпусе."
 
 #: src-en/data/blueprints.xml.append:13068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE\"]/title"
-msgstr ""
+msgstr "Залповое ружье"
 
 #: src-en/data/blueprints.xml.append:13069
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE\"]/short"
-msgstr ""
+msgstr "Залповый"
 
 #: src-en/data/blueprints.xml.append:13070
 msgid ""
@@ -5743,6 +6031,19 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 1\n"
+"\t\t\tВремя перезарядки: 6 сек.\n"
+"\t\t\tПотребление боеголовок: 1\n"
+"\t\t\tВероятность восполнить боеголовку: 77%\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 1\n"
+"\t\t\tМакс. очередь: 4\n"
+"\n"
+"\t\t\tУрон корпусу: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\t\t\tИонный урон: 1 (Только отсеки)\n"
+"\n"
+"\t\t\tВероятность пробоины: 10%"
 
 #: src-en/data/blueprints.xml.append:13367
 msgid ""
@@ -5855,10 +6156,11 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:13619
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/desc"
-msgstr "[Базовая перезарядка: 40]"
+msgstr ""
+"[Базовая перезарядка: 40] Выпускает 3 энергетических выстрела, которые "
+"порождают симбионта и имеют большой шанс пробоины."
 
 #: src-en/data/blueprints.xml.append:13622
 msgid ""
@@ -5990,12 +6292,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13982
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/title"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:13983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/short"
-msgstr ""
+msgstr "Даждьбог"
 
 #: src-en/data/blueprints.xml.append:13984
 msgid ""
@@ -6675,7 +6977,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15602
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 единицы урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:15645
 msgid ""
@@ -6808,15 +7110,17 @@ msgid ""
 msgstr "Стиратель"
 
 #: src-en/data/blueprints.xml.append:15934
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_ARTY_CHAIN\"]/desc"
-msgstr "[Базовая перезарядка: 70 -> 50]"
+msgstr ""
+"[Базовая перезарядка: 70 -> 50] Если это оружие будет использовано против "
+"любой другой расы, вас следует убить на месте. Наносит умеренный урон любому "
+"типу экипажа, но мгновенно убивает всех золтанов."
 
 #: src-en/data/blueprints.xml.append:15937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ZOLTAN_DELETER_ARTY_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Цепной луч с 45 урону экипажа (убивает золтанов)"
 
 #: src-en/data/blueprints.xml.append:15994
 msgid ""
@@ -6841,18 +7145,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/title"
-msgstr ""
+msgstr "Луч \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:16032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/short"
-msgstr ""
+msgstr "Луч \"Цукияри\""
 
 #: src-en/data/blueprints.xml.append:16033
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/desc"
-msgstr "[Базовая перезарядка: 88]"
+msgstr ""
+"[Базовая перезарядка: 88] Эта продвинутая лучевая установка является "
+"экспериментальным улучшением хорошо известных лучевых орудий \"Камаяри\" и "
+"\"Суяри\"."
 
 #: src-en/data/blueprints.xml.append:16036
 msgid ""
@@ -6890,10 +7196,11 @@ msgid ""
 msgstr "Ликвид. III"
 
 #: src-en/data/blueprints.xml.append:16115
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY_ENEMY\"]/desc"
-msgstr "[Базовая перезарядка: 60]"
+msgstr ""
+"[Базовая перезарядка: 60] Лучевое орудие с уроном в 5 единиц за отсек. "
+"Оглушает врагов на 9 секунд, гарантированно вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:16118
 msgid ""
@@ -7284,15 +7591,18 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:17029
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/desc"
-msgstr "[Базовая перезарядка: 35]"
+msgstr ""
+"[Базовая перезарядка: 35] Запускает случайный абордажный дрон, чтобы "
+"терроризировать вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:17032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/tooltip"
 msgstr ""
+"Артиллерия: Запускает случайный абордажный дрон, чтобы терроризировать "
+"вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:17063
 msgid ""
@@ -9525,6 +9835,16 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\t\t\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\t\t\tВыстрелов в очереди: 3\n"
+"\n"
+"\t\t\tУрон корпусу: 1\n"
+"\t\t\tУрон системам: 1\n"
+"\t\t\tУрон экипажу: 15\n"
+"\n"
+"\t\t\tВероятность возгорания: 10%"
 
 #: src-en/data/blueprints.xml.append:19672
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/desc"
