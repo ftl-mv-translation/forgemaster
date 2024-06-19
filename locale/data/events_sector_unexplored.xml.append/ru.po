@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_unexploredxmlappend/ru/>\n"
@@ -18,7 +18,7 @@ msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_NEW_PLANET\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Луч Ишимуры) Никто не собирается упускать ни одной паршивой планеты. "
+"(Луч Ишимура) Никто не собирается упускать ни одной паршивой планеты. "
 "Добраться до планеты с трещинами."
 
 #: src-en/data/events_sector_unexplored.xml.append:7
