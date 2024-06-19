@@ -1,21 +1,33 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_kleptocracyxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:9
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Луч Ишимура) Ноль."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:11
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"Как только невежливый слизень увидел, что вы заряжаете оружие, он тут же "
+"бросился бежать, спасая свою жизнь и, скорее всего, описавшись. К несчастью "
+"для него, вы засекли сигнатуру их прыжка и можете преследовать его, если "
+"хотите."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:14
 msgid ""
@@ -33,36 +45,50 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/text"
 msgstr ""
+"Вы догнали слизня. Похоже, что в состоянии паники, он слишком сильно "
+"разогнал двигатели, в результате чего он оказался загнанным в угол и не смог "
+"сбежать. Неподалеку в пустом пространстве находится одинокая луна, а позади "
+"вас - планета."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:42
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/text"
 msgstr ""
+"(Луч Ишимура) Вызвать его, подготовив свой гигантский шахтерский луч. Как он "
+"смеет тратить ваше время."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:44
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/text"
 msgstr ""
+"Вы читаете слизню лекцию о том, как это несносно - задавать викторины о "
+"количестве лун в дурацкой туманности посреди пустыни, тем более в таком "
+"грубом тоне. \"Проссстите, что я...\" Слизняк заикается, но вы не даете ему "
+"закончить."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:46
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/text"
-msgstr ""
+msgstr "Спросить его, сколько лун у этого маяка."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:48
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "\"Эм.... одна?\" - нервно отвечает слизень."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:50
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "(Луч Ишимура) Ноль."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:53
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Вы уничтожаете маленькую луну позади слизня, разбрасывая ее куски повсюду. "
+"Корабль слизня в итоге оказывается раздавленным кусками луны, так как не "
+"может уклониться от них. Неплохо бы собрать немного лома из нанесенных вами "
+"разрушений."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:59
 msgid ""
@@ -72,44 +98,54 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_kleptocracy.xml.append:70
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/text"
-msgstr ""
+msgstr "Вызвать его, объяснив, что вы просто хотите поговорить."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:72
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/text"
 msgstr ""
+"Вы читаете слизню лекцию о том, как это отвратительно - устраивать викторины "
+"о количестве лун в дурацкой туманности посреди пустыни, тем более в такой "
+"грубой манере. \"Проссстите, что я...\" Слизняк заикается, но вы не даете "
+"ему закончить."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:74
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Спросить его, что заставило его быть такими несносными."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:76
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "\"Эм... я думал, это сссмешно?\" - нервно отвечает слизень."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:78
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ничего подобного, не дай мне поймать тебя снова за этим."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:80
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Слизень соглашается больше никогда так не делать и в благодарность "
+"отправляет вам небольшой подарок."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:102
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Маскировка) Спрятаться."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:104
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"Вы активируете свою систему маскировки, но, как и следовало ожидать, она "
+"абсолютно бесполезна. Клановцы смеются над вами и выпускают залп прямо в "
+"корпус вашего корабля! Однако они быстро прекращают смеяться, когда видят, "
+"что ваш корабль выдерживает удар, как будто это сущий пустяк."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:106
 msgid ""
@@ -127,6 +163,8 @@ msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
 msgstr ""
+"(Член экипажа-Пластинчатый) Попросить своего члена экипажа полностью "
+"починить его корабль."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:129
 msgid ""
