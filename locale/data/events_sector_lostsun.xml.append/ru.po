@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_lostsunxmlappend/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_sector_lostsun.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE_LOSTSUN\"]/mod-"
 "append:choice/text"
-msgstr "(Луч Ишимуры) Попытаться добыть гораздо более крупные астероиды."
+msgstr "(Луч Ишимура) Попытаться добыть гораздо более крупные астероиды."
 
 #: src-en/data/events_sector_lostsun.xml.append:7
 msgid ""
