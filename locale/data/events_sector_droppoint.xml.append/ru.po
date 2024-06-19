@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_droppointxmlappend/ru/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
 "append:choice/text"
-msgstr "(Луч Ишимуры) Попытаться добыть гораздо более крупные астероиды."
+msgstr "(Луч Ишимура) Попытаться добыть гораздо более крупные астероиды."
 
 #: src-en/data/events_sector_droppoint.xml.append:5
 msgid ""
@@ -31,14 +31,14 @@ msgstr ""
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
 "append:choice/text"
-msgstr "(Луч Ишимуры) Сначала \"терраформировать\" луну самим."
+msgstr "(Луч Ишимура) Сначала \"терраформировать\" луну самим."
 
 #: src-en/data/events_sector_droppoint.xml.append:17
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"Направив большую часть энергии корабля на Луч Ишимуры, вы начинаете "
+"Направив большую часть энергии корабля на Луч Ишимура, вы начинаете "
 "разрезать поверхность луны, открывая ее части и обнаруживая множество ценных "
 "ресурсов."
 
@@ -98,7 +98,7 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Луч Ишимуры) Забыть о сигнале и разрезать планету в поисках ресурсов, вы же "
+"(Луч Ишимура) Забыть о сигнале и разрезать планету в поисках ресурсов, вы же "
 "уверены, что она необитаема!"
 
 #: src-en/data/events_sector_droppoint.xml.append:68
@@ -106,6 +106,13 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Направив большую часть энергии корабля на луч Ишимуры, вы начинаете "
+"разрезать планету, открывая части ее поверхности и многочисленные ценные "
+"ресурсы. После долгого и утомительного процесса вы получаете огромное "
+"количество лома. Магма, которую вы обнаружили при вскрытии поверхности "
+"планеты, стекает на близлежащие структуры, похожие на здания. Вы хватаете "
+"огромное количество лома и уходите так быстро, как только можете. В глубине "
+"души вы понимаете, что натворили..."
 
 #: src-en/data/events_sector_droppoint.xml.append:75
 msgid ""
