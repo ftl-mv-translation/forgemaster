@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 11:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:421
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Ripley\"]/@name"
-msgstr ""
+msgstr "Рипли"
 
 #: src-en/data/hyperspace.xml.append:422
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
@@ -540,7 +540,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1648
 msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
-msgstr ""
+msgstr "Рэнделл"
 
 #: src-en/data/hyperspace.xml.append:1764
 msgid ""
@@ -1431,7 +1431,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15757
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
-msgstr ""
+msgstr "Зерг Раш"
 
 #: src-en/data/hyperspace.xml.append:15758
 msgid ""
@@ -1737,6 +1737,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/description"
 msgstr ""
+"Победите Искаженного Ренегата-пиявку типа В и получите Излучатель депрессии."
 
 #: src-en/data/hyperspace.xml.append:15880
 msgid ""
