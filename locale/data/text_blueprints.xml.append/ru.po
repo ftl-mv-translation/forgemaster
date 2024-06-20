@@ -1,174 +1,216 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"datatext_blueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_class\"]"
-msgstr ""
+msgstr "Крейсер Кузнеца"
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_name\"]"
-msgstr ""
+msgstr "Магмовое Сердце"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_desc\"]"
 msgstr ""
+"Любимый крейсер Кузнеца для тех случаев, когда ему хочется отправиться в "
+"отпуск."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FORGEMASTER_1_unlock\"]"
-msgstr ""
+msgstr "Победите легендарного кузнеца, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_class\"]"
-msgstr ""
+msgstr "ГанБоминация"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_name\"]"
-msgstr ""
+msgstr "Ган Гидра"
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_desc\"]"
 msgstr ""
+"Свободный богомол пропустил ту часть руководства, где объяснялись "
+"особенности использования оружия, потратил безумный бюджет на систему оружия "
+"и сломал ее. К счастью, у него хватило средств на прототип системы дронов!"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_unlock\"]"
-msgstr ""
+msgstr "Избавьте старого друга кузнеца от большого долга."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_class\"]"
-msgstr ""
+msgstr "ГанБоминация"
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_name\"]"
-msgstr ""
+msgstr "Ган Кобра"
 
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_desc\"]"
 msgstr ""
+"Тот же богатый свободный богомол снова попытался осуществить этот безумный "
+"проект. Он по-прежнему превысил допустимую нагрузку на оружейные системы. К "
+"счастью, у него хватило средств на прототип телепортатора, а в неработающей "
+"системе оружия установили множество кроватей для размещения экипажа."
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_2_unlock\"]"
-msgstr ""
+msgstr "Помогите нескольким слизням взыскать большой долг."
 
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_class\"]"
-msgstr ""
+msgstr "ГанБоминация"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_name\"]"
-msgstr ""
+msgstr "Ган ТитаноБоа"
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_desc\"]"
 msgstr ""
+"После второго неудачного проекта богатый свободный богомол ушел в запой и "
+"решил, что лучший способ - это направить корабль в качестве оружия на врага. "
+"Этот корабль способен таранить на скорости! Может физически атаковать "
+"вражеский корабль."
 
 #: src-en/data/text_blueprints.xml.append:29
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_3_unlock\"]"
-msgstr ""
+msgstr "Разблокируйте корабли ГанБоминация типа A и типа Б."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_class\"]"
-msgstr ""
+msgstr "ГанБоминация II"
 
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_name\"]"
-msgstr ""
+msgstr "Пробужденная Ган Гидра"
 
 #: src-en/data/text_blueprints.xml.append:33
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_desc\"]"
 msgstr ""
+"Свободный богомол установил несколько эфирных реакторов и заставил часть "
+"оружия снова работать! Корабль теперь не поддается ремонту, но с ним "
+"придется считаться."
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_unlock\"]"
 msgstr ""
+"Победите в игре на корабле ГанБоминация типа В, чтобы разблокировать этот "
+"корабль."
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_class\"]"
-msgstr ""
+msgstr "ГанБоминация II"
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_name\"]"
-msgstr ""
+msgstr "Ган Беспредел"
 
 #: src-en/data/text_blueprints.xml.append:39
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_desc\"]"
 msgstr ""
+"Банк, которому грозит банкротство из-за его неудачных инвестиций в "
+"конструирование кораблей, начал конфисковывать части этих кораблей, чтобы "
+"погасить непомерные долги. Но это не помешает свободному богомолу без гроша "
+"в кармане отправиться на поиски славы!"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_2_unlock\"]"
 msgstr ""
+"Разблокируйте ГанБоминацию II типа А и крейсер Кузнеца типа A, чтобы открыть "
+"этот особый корабль."
 
 #: src-en/data/text_blueprints.xml.append:42
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_class\"]"
-msgstr ""
+msgstr "ГанБоминация III"
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_name\"]"
-msgstr ""
+msgstr "ГанБом Анти-Гармония"
 
 #: src-en/data/text_blueprints.xml.append:44
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_desc\"]"
 msgstr ""
+"Корабль переместился в наше время через червоточину, этот корабль - "
+"единственная реальность, где долг Винчестера погашен благодаря таинственному "
+"Ренегату, щедро оплатившему его долг. Этот корабль прибыл из будущего, "
+"разрушенного Гармонией. Что могло произойти?"
 
 #: src-en/data/text_blueprints.xml.append:45
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FUTURE_unlock\"]"
 msgstr ""
+"Измените ход истории, предотвратив будущий конфликт на уровне "
+"Мультивселенной. Надеюсь, у вас накопится много лома!"
 
 #: src-en/data/text_blueprints.xml.append:47
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_class\"]"
-msgstr ""
+msgstr "Ультимативный тестовый крейсер"
 
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_name\"]"
-msgstr ""
+msgstr "Истинный Испытатель"
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_desc\"]"
 msgstr ""
+"Крейсер, созданный специально для тестирования аддона Forgemaster, но, "
+"вероятно, может быть использован и в простой игре. Имеет все необходимое для "
+"правильного тестирования, но пользовательский интерфейс глючит, будьте "
+"внимательны. ПРИ ЛЮБЫХ ГЛЮКАХ С ЭТОЙ ШТУКОЙ ЖАЛУЙТЕСЬ DIGGER, А НЕ CYRUS."
 
 #: src-en/data/text_blueprints.xml.append:51
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_GUNHYDRA_ENEMY_class\"]"
-msgstr ""
+msgstr "ГанБоминация (Враг)"
 
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_SLUG_DEBT_COLLECT_class\"]"
-msgstr ""
+msgstr "Долговая акула Ясновидящих"
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
@@ -188,237 +230,299 @@ msgstr "Крейсер Ренегатов"
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_class\"]"
-msgstr ""
+msgstr "Искаженный крейсер Ренегатов"
 
 #: src-en/data/text_blueprints.xml.append:62
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_name\"]"
-msgstr ""
+msgstr "Эфемерная Бездна"
 
 #: src-en/data/text_blueprints.xml.append:63
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_desc\"]"
 msgstr ""
+"Макс. экипажа: 12 - Клон-отсек, Двери, Дроны, Двигатели, Кислород, Рулевая "
+"рубка, Щиты, Телепортатор, Оружие."
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_class\"]"
-msgstr ""
+msgstr "Искаженный крейсер Ренегатов"
 
 #: src-en/data/text_blueprints.xml.append:66
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_name\"]"
-msgstr ""
+msgstr "Ересь Рипли"
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_desc\"]"
 msgstr ""
+"Создан Вестником Заката с очень четкой целью: установить рекорд "
+"Мультивселенной Гиннесса по количеству военных преступлений за один бой."
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_class\"]"
-msgstr ""
+msgstr "Искаженный крейсер Ренегатов"
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_name\"]"
-msgstr ""
+msgstr "Сделка Фленсера"
 
 #: src-en/data/text_blueprints.xml.append:71
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_desc\"]"
 msgstr ""
+"Эти слизни источают харизму, когда они \"вежливо\" просят вас пожертвовать "
+"свои органы. Это ведь ради благого дела!"
 
 #: src-en/data/text_blueprints.xml.append:73
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_class\"]"
-msgstr ""
+msgstr "Искаженный крейсер Ренегатов"
 
 #: src-en/data/text_blueprints.xml.append:74
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_name\"]"
-msgstr ""
+msgstr "Нановойна"
 
 #: src-en/data/text_blueprints.xml.append:75
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_desc\"]"
 msgstr ""
+"На этом корабле обитает бесчисленное множество наномашин. Их неустанное "
+"роение позволяет им значительно повысить уровень здоровья, урона, скорости и "
+"сопротивляемости опасностям экипажа энджи, увеличивая количество размещенных "
+"на нем специальных дронов."
 
 #: src-en/data/text_blueprints.xml.append:77
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_class\"]"
-msgstr ""
+msgstr "Искаженный крейсер Ренегатов"
 
 #: src-en/data/text_blueprints.xml.append:78
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_name\"]"
-msgstr ""
+msgstr "Зерг Раш"
 
 #: src-en/data/text_blueprints.xml.append:79
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_desc\"]"
 msgstr ""
+"Богомолы задействовали свой телепортатор. Скоро на вражеском корабле станет "
+"очень тесно! К тому же, щиты ограничены тремя слоями."
 
 #: src-en/data/text_blueprints.xml.append:81
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_class\"]"
-msgstr ""
+msgstr "Искаженный Ренегат Федерации"
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_name\"]"
-msgstr ""
+msgstr "Божественное Вмешательство"
 
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_desc\"]"
 msgstr ""
+"Этот корабль оснащен чрезвычайно мощным артиллерийским лучом, который "
+"буквально разрывает вражеские корабли. Однако они забыли купить систему "
+"оружия, упс!"
 
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_class\"]"
-msgstr ""
+msgstr "Искаженный Ренегат-Затерянное Солнце"
 
 #: src-en/data/text_blueprints.xml.append:86
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_name\"]"
-msgstr ""
+msgstr "Дежа Морт"
 
 #: src-en/data/text_blueprints.xml.append:87
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_desc\"]"
 msgstr ""
+"Мак. экипажа: 7 - Дроны, Двигатели, Медотсек, Контроль разума, Кислород, "
+"Рулевая рубка, Щиты, Телепортатор, Оружие."
 
 #: src-en/data/text_blueprints.xml.append:89
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_class\"]"
-msgstr ""
+msgstr "Искаженный Ренегат-золтан"
 
 #: src-en/data/text_blueprints.xml.append:90
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_name\"]"
-msgstr ""
+msgstr "Кулак Министерства"
 
 #: src-en/data/text_blueprints.xml.append:91
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_desc\"]"
 msgstr ""
+"Золтаны устали от того, что ими помыкают и обращаются с ними как с живыми "
+"батарейками. Возможно, они не так опытны, как Миротворцы, но у этих золтанов "
+"есть несколько козырей в рукаве!"
 
 #: src-en/data/text_blueprints.xml.append:93
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CLAN_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Клановца, используя типа Б крейсера Гильдии, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_DUSK_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Вестника Заката, используя тип Б крейсера "
+"Вестников Заката, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:95
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGI_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-энджи, используя тип В крейсера энджи, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:97
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FMANTIS_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-свободного богомола, используя Тип Б крейсера "
+"Свободных богомолов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:98
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SEPPY_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Сепаратиста, используя Тип Б крейсера "
+"Сепаратистов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:99
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MANTIS_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-богомола, используя Тип Б крейсера Улья, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:101
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MONK_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Монаха, используя Тип Б крейсера Монахов, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:102
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LOSTSUN_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Затерянное Солнце, используя Тип Б крейсера "
+"Затерянных Солнц, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ROCK_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-валуна, используя тип В крейсера Теократии, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SLUG_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-слизня, используя тип В крейсера Клептократии, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:106
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_STEALTH_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-стелса, используя Тип Б стелс-крейсера, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:107
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ZOLTAN_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-золтана, используя тип В крейсера "
+"Министерства, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:109
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LANIUS_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-ланиуса, используя Тип Б крейсера ланиусов, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:110
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SHELL_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-ракушку, используя тип В крейсера ракушек, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:111
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGINEER_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Инженера, используя Тип Б крейсера Инженеров, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_KESTREL_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Пустельгу, используя Тип Б крейсера Пустельга, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:114
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ORCHID_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-орхидею, используя Тип Б крейсера орхидей, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:115
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FED_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата Федерации, используя Тип Б крейсера Федерации, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:117
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CRYSTAL_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-кристаллина, используя тип В крейсера империи "
+"кристаллионов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:118
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_TUCO_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-Туко, используя Тип Б крейсера Туко, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:119
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LEECH_unlock\"]"
 msgstr ""
+"Победите Искаженного Ренегата-пиявку, используя тип В крейсера пиявок, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:129
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_FORGEMASTER_CRUISER_ENEMY_class\"]"
-msgstr ""
+msgstr "Крейсер Кузнеца"
 
 #: src-en/data/text_blueprints.xml.append:131
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FALLEN_FIGHTER_class\"]"
-msgstr ""
+msgstr "Истребитель Павших"
 
 #: src-en/data/text_blueprints.xml.append:133
 msgid "data/text_blueprints.xml.append$//text[@name=\"system_temporal_title\"]"
@@ -428,4 +532,4 @@ msgstr "Временной манипулятор"
 msgid "data/text_blueprints.xml.append$//text[@name=\"system_temporal_desc\"]"
 msgstr ""
 "Изменяет скорость течения времени в одном отсеке. Улучшение увеличивает "
-"длительность и силу искривления времени."
+"длительность и силу искажения времени."
