@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"PO-Revision-Date: 2024-06-21 11:04+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mechanicalxmlappend/ru/>\n"
@@ -95,9 +95,9 @@ msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
 msgstr ""
 "Вы переворачиваете карту и видите вспышку белого цвета, которая исчезает, "
-"открывая куб, окрашенный в зеленый цвет, с гранями, которые, кажется, "
-"перестраиваются под какую-то искаженную мелодию, словно танцуя. Всевозможные "
-"виды в различных одеждах наблюдают за ним, а когда он начинает "
+"позволяя увидеть куб, окрашенный в зеленый цвет, с гранями, которые, "
+"кажется, перестраиваются под какую-то искаженную мелодию, словно танцуя. "
+"Всевозможные виды в различных одеждах наблюдают за ним, а когда он начинает "
 "разворачиваться, то демонстрирует крутящуюся массу белой горячей энергии, "
 "заключенную в пузырь; рождение нового измерения. Истина, скрывающаяся за "
 "движущими силами Мультивселенной, которую не смогли распознать даже древние."
@@ -108,254 +108,382 @@ msgid ""
 msgstr "Заглянуть в ее глубины"
 
 #: src-en/data/events_special_mechanical.xml.append:1338
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/event/text"
 msgstr ""
+"Вы пристально вглядываетесь в грани куба, а ваш разум напрягается, пытаясь "
+"понять, что же за энергия в нем течет. Внезапно вы начинаете видеть, как "
+"возникают галактики, которые расширяются, словно желая показать свои звезды, "
+"которые, в свою очередь, показывают свои планеты. Вы с благоговением "
+"наблюдаете, позволяя увидеть ваш собственный корабль, находящийся на орбите "
+"одного из миров."
 
 #: src-en/data/events_special_mechanical.xml.append:1343
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "Изучить его."
 
 #: src-en/data/events_special_mechanical.xml.append:1345
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/event/text"
 msgstr ""
+"Вы присматриваетесь к поверхности ящика, ища среди его граней что-то "
+"узнаваемое. Символы вам непонятны, но они вдохновляют вас на творческий "
+"подход к оптимизации двигателей."
 
 #: src-en/data/events_special_mechanical.xml.append:1353
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/text"
 msgstr ""
+"Вы отрываете карту и не видите ничего: черная пустота, лишенная звезд, "
+"планет и света. Единственное, что можно различить, - это очертания куба, "
+"форма которого медленно меняется по мере того, как он раскрывается. Внутри "
+"находится небольшая вихрящаяся галактика; она начинает пульсировать и "
+"разрываться на части, поскольку звезды, системы и, в конце концов, кластеры "
+"начинают стремительно разрушаться. Куб внезапно захлопывается и снова "
+"начинает меняться, подобно тому, как рот пережевывает пищу."
 
 #: src-en/data/events_special_mechanical.xml.append:1356
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "Попытаться открыть ее снова."
 
 #: src-en/data/events_special_mechanical.xml.append:1363
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "Подождать, пока он перестанет двигаться."
 
 #: src-en/data/events_special_mechanical.xml.append:1371
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[3]/text"
 msgstr ""
+"Откройте карту, чтобы увидеть корабль, медленно опускающийся на примитивный "
+"мир, окруженный любопытными рептилиями-туземцами. Они с благоговением "
+"наблюдают за тем, как экипаж выходит из корабля, с восторгом принимая "
+"таинственные новые технологии. Сцена ускоряется, и в небо устремляются "
+"очертания великолепных стеклянных зданий - цитаделей общения и обучения, "
+"дарующих студентам непостижимые знания в области технологий. Сцена "
+"заканчивается, когда одинокий корабль, управляемый командой из ящериц и "
+"слизней, устремляется к звездам."
 
 #: src-en/data/events_special_mechanical.xml.append:1375
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[4]/text"
 msgstr ""
+"Открыв карту, вы видите унылую потогонную мастерскую, полную ящеров, за "
+"которыми присматривает жалкий на вид слизень. Они бездумно трудятся над "
+"своими задачами, толкая промаркированные коробки по конвейеру, с опущенными "
+"головами. Каждый из них избегает зрительного контакта с другими, чтобы не "
+"привлечь внимания надсмотрщика. Один из ящеров рисует схему, пряча ее от "
+"взгляда надсмотрщика, пока тот не указывает на него и не требует поговорить "
+"с ним. Вдалеке открывается шлюз, и в потогонном цехе воцаряется гнетущая "
+"тишина."
 
 #: src-en/data/events_special_mechanical.xml.append:1379
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[5]/text"
 msgstr ""
+"Открыв карту, вы видите ракушку-Ученого, погрузившегося в глубокую "
+"задумчивость и размышляющего над лежащими перед ним записями. Дверь в его "
+"кабинет оставлена открытой, и молодые особи всех видов один за другим "
+"просачиваются внутрь, каждый со своим вопросом. Ученый улыбается и подробно "
+"отвечает на вопросы каждого студента, пока они не уходят с глазами, полными "
+"понимания."
 
 #: src-en/data/events_special_mechanical.xml.append:1383
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[6]/text"
 msgstr ""
+"Открыв карту, вы видите темную и мрачную лабораторию, где в затененных чанах "
+"копошатся странные сгустки массы. За ними пристально наблюдает ракушка-"
+"Ученый, делая заметки и разговаривая с самим собой шепотом, в то время как "
+"его коллеги с беспокойством наблюдают за происходящим. Свет мерцает, освещая "
+"истощенную фигуру Ученого, который слегка подрагивает. Глаза впалые и "
+"подергиваются, пристально глядя на чаны перед собой."
 
 #: src-en/data/events_special_mechanical.xml.append:1387
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[7]/text"
 msgstr ""
+"Открыв карту, вы обнаруживаете корабль ланиусов, светящийся ярким розовым "
+"светом, когда он приземляется на зеленый мир. Толпа орхидей наблюдает за "
+"тем, как капитан спускается с корабля. Вождь бросается вперед, чтобы молча "
+"преподнести ему подарок, и ланиус принимает его от него под одобрительные "
+"возгласы толпы."
 
 #: src-en/data/events_special_mechanical.xml.append:1391
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[8]/text"
 msgstr ""
+"Открыв карту, вы видите бушующее солнце. Опустошенный корабль вращается на "
+"низкой орбите, теряясь в огромных вспышках, вырывающихся с поверхности "
+"звезды. Странное судно ланиусов мерцает розовым светом, приближаясь, но "
+"вскоре его поглощает пламя."
 
 #: src-en/data/events_special_mechanical.xml.append:1395
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[9]/text"
 msgstr ""
+"Открыв карту, вы видите Федерацию Вселенной 0, празднующую грандиозную "
+"победу над повстанцами. Между двумя фракциями был заключен мир, и адмирал "
+"Вэнс из флота повстанцев стоит рядом с адмиралом, а ныне президентом Талли. "
+"Флагман повстанцев находится на планетарной орбите, полностью перекрашенный "
+"в новую цветовую схему - серебристую, голубую и черную - с эмблемой, "
+"сочетающей символы повстанцев и Федерации."
 
 #: src-en/data/events_special_mechanical.xml.append:1399
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[10]/text"
 msgstr ""
+"Открыв карту, вы видите пустырь с разбитыми кораблями, холодными трупами и "
+"расколотой планетой, на которой когда-то располагалась Федерация. На орбите "
+"находится Флагман асов МФК, излучающий внутренний свет огромной силы и "
+"оснащенный массивным лазером, подозрительно похожим на технику Зульфикара, "
+"улучшенную настолько, чтобы вершить судьбы. Адмирал Вэнс стоит на смотровой "
+"площадке Флагмана и выглядит как человек, покоривший целую империю."
 
 #: src-en/data/events_special_mechanical.xml.append:1403
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[11]/text"
 msgstr ""
+"Открыв карту, вы видите Великое Око, кружащееся так, что, кажется, можно "
+"увидеть другие реальности: горшки, полные редких драгоценных камней, "
+"океаническую планету, кишащую левиафанами, сектор соляных, опустошаемый "
+"существами из металла, клонами и корпорациями. Око, кажется, смотрит на вас "
+"в ответ и моргает, сияя всеми цветами полуночного восхода."
 
 #: src-en/data/events_special_mechanical.xml.append:1407
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[12]/text"
 msgstr ""
+"Открыв карту, вы видите сцену катаклизма: Великое Око клубится черными "
+"энергиями и цветами, которые можно описать только как ненавистные и "
+"отталкивающие. Око стремительно перемещается в поисках источника своей "
+"ярости и встречается с вами взглядом; по позвоночнику у вас пробегает "
+"холодок, когда Око немигающим взглядом смотрит в ответ, желая вам всех "
+"несчастий в этой и следующей Мультивселенной."
 
 #: src-en/data/events_special_mechanical.xml.append:1411
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[13]/text"
 msgstr ""
+"Открыв карту, вы видите слизня в капюшоне и возвышающуюся над ним фигуру из "
+"соли. Они вместе заходят в таверну, где шумно и весело. Слизень отводит "
+"своего спутника в тихую заднюю комнату, и пара садится за стол, после чего "
+"слизень достает из своей одежды колоду карт. Изображение исчезает, когда "
+"пара улыбается, а слизень раздает карты."
 
 #: src-en/data/events_special_mechanical.xml.append:1415
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[14]/text"
 msgstr ""
+"Открыв карту, вы видите кристально белый корабль. По трапу корабля скользит "
+"слизень, который радушно приветствует своего капитана, который улыбается в "
+"ответ. Они перемещаются по коридорам корабля, пока слизень не спотыкается и "
+"не рухнул на пол, дрожа. Его спутник протягивает руку, чтобы помочь, но при "
+"соприкосновении с ним раздается жуткое шипение."
 
 #: src-en/data/events_special_mechanical.xml.append:1419
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[15]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1423
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[16]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1427
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[17]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1431
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[18]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1435
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[19]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1439
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[20]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1443
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[21]/text"
 msgstr ""
+"Вы открываете карту под звуки слотов: межзвездный роскошный крейсер и не "
+"очень толстый Тони-старший за штурвалом, весь в золоте и драгоценностях. На "
+"корабле красуется наполовину стертый логотип Гектара, а большую часть борта "
+"занимает лицо улыбающегося Тони, который демонстрирует свои зубы украшенные "
+"драгоценными камнями и металлами. Зрелище транслируется во все уголки "
+"галактики на всех мыслимых диалектах, особое внимание уделяется рослому "
+"желтому слизню, который пытается выбраться из носовой части корабля, где его "
+"привязали."
 
 #: src-en/data/events_special_mechanical.xml.append:1447
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[22]/text"
 msgstr ""
+"Открыв карту, вы видите одинокую заброшенную космическую станцию, одна из "
+"секций которой свободно свисает, словно по ней ударили кувалдой. В последней "
+"пригодной для дыхания части станции, находится одинокая призрачно-белая "
+"пиявка, окруженная бесчисленными бутылками и бластером. Вокруг нее - кольцо "
+"дронов Гектара, готовых открыть огонь, если она попытается покинуть свою "
+"могилу; но единственное действие, которое совершает ослабшая пиявка, - это "
+"направляет бластер на свое горло. Она нажимает на курок, покончив с собой, "
+"но затем ее снова выплевывает из чана для клонирования, висящего под "
+"потолком; лежа и отплевываясь на полу, она снова тянется к бластеру."
 
 #: src-en/data/events_special_mechanical.xml.append:1451
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[23]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1455
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[24]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1459
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[25]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1463
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[26]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1467
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[27]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1471
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[28]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1475
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[29]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1479
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[30]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1483
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[31]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1487
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[32]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1491
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[33]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1495
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[34]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1499
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[35]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1503
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[36]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1507
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[37]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1511
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[38]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1515
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[39]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1519
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[40]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1523
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[41]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1527
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[42]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1531
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[43]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1535
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[44]/text"
-msgstr ""
+msgstr "Я смотрю на ваш рентгеновский снимок, и боюсь, что ВЫ - ОТСТОЙ!"
 
 #: src-en/data/events_special_mechanical.xml.append:1556
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_BLESSING_KILLCOUNT_INCREMENT\"]/text"
 msgstr ""
+"Эффективная и жестокая победа. Ваши покровители, несомненно, довольны вашей "
+"работой. (Получена 1 ярость)"
 
 #: src-en/data/events_special_mechanical.xml.append:1599
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[1]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника гаснет, \"Холодильник\" "
+"содрогается - изнутри доносится гул, и вы чувствуете, как мириады призраков "
+"в его непостижимых внутренностях одобрительно гудят. В потоке шепчущих газов "
+"перед вами возникает призрак, готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1606
 msgid ""
