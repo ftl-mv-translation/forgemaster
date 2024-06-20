@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-21 11:04+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mechanicalxmlappend/ru/>\n"
 "Language: ru\n"
@@ -53,12 +53,12 @@ msgstr "Неактивный"
 #: src-en/data/events_special_mechanical.xml.append:87
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_LANIUS_SURGE_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "Зарядить!"
+msgstr "Зарядить выброс!"
 
 #: src-en/data/events_special_mechanical.xml.append:98
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/tooltip"
-msgstr "Выстрелить из всех своих снаряженных осколочных пушек."
+msgstr "Выпустить выброс из всех своих экипированных осколочных пушек."
 
 #: src-en/data/events_special_mechanical.xml.append:99
 #, fuzzy
