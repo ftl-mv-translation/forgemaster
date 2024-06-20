@@ -1,21 +1,36 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_ministryxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_ministry.xml.append:5
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Адское пламя) Вы не можете устоять перед желанием вмешаться...[Цена: 2}]"
 
 #: src-en/data/events_sector_ministry.xml.append:7
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Используя всю мощь ракетницы Адского пламени, вы обстреливаете оба корабля, "
+"практически уничтожая их одним залпом. Они тут же сдаются вам, не решаясь "
+"произвести еще один залп. \"Ты продемонстрировал свою силу, психопат, чего "
+"ты хочешь?\" спрашивает золтан. Корабль богомолов присылает вам общий шаблон "
+"\"сообщения о капитуляции\", что говорит о том, что они любят сдаваться "
+"быстро и без лишних слов. Какие странные богомолы."
 
 #: src-en/data/events_sector_ministry.xml.append:21
 msgid ""
@@ -27,13 +42,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Произвести второй залп и проигнорировать их капитуляцию."
 
 #: src-en/data/events_sector_ministry.xml.append:35
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Их трусость вызывает у вас отвращение, и вы производите еще один залп. "
+"Второй залп разрывает оба их корабля на части, и вы не торопясь разбираете "
+"их на лом."
 
 #: src-en/data/events_sector_ministry.xml.append:37
 msgid ""
@@ -45,13 +63,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Ба-Пеф) Вы не можете устоять перед желанием вмешаться...[Цена: 1}]"
 
 #: src-en/data/events_sector_ministry.xml.append:50
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Используя всю огневую мощь миномета Ба-Пеф, вы обстреливаете оба корабля, "
+"почти уничтожая их одним залпом и окружая минами. Оба корабля немедленно "
+"сдаются вам, не решаясь произвести еще один залп. \"Ты продемонстрировал "
+"свою силу, психопат, чего ты хочешь?\" спрашивает золтан. Корабль богомолов "
+"присылает вам общий шаблон \"сообщения о капитуляции\", что говорит о том, "
+"что они любят сдаваться быстро и без лишних слов. Какие странные богомолы."
 
 #: src-en/data/events_sector_ministry.xml.append:64
 msgid ""
@@ -63,13 +87,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Произвести второй залп и проигнорировать их капитуляцию."
 
 #: src-en/data/events_sector_ministry.xml.append:78
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Их трусость вызывает у вас отвращение, и вы производите еще один залп. "
+"Второй залп разрывает оба их корабля на части, и вы не торопясь разбираете "
+"их на лом."
 
 #: src-en/data/events_sector_ministry.xml.append:80
 msgid ""
@@ -81,13 +108,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Нобелий) Вы не можете устоять перед желанием вмешаться...!"
 
 #: src-en/data/events_sector_ministry.xml.append:92
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Используя всю мощь осколочной пушки Нобелий, вы обстреливаете оба корабля, "
+"почти уничтожая их одним залпом. Они тут же сдаются вам, не решаясь "
+"произвести еще один залп. \"Ты продемонстрировал свою силу, психопат, чего "
+"ты хочешь?\" спрашивает золтан. Корабль богомолов присылает вам общий шаблон "
+"\"сообщения о капитуляции\", что говорит о том, что они любят сдаваться "
+"быстро и без лишних слов. Какие странные богомолы."
 
 #: src-en/data/events_sector_ministry.xml.append:103
 msgid ""
@@ -99,13 +132,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "Произвести второй залп и проигнорировать их капитуляцию."
 
 #: src-en/data/events_sector_ministry.xml.append:117
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/choice[2]/event/text"
 msgstr ""
+"Их трусость вызывает у вас отвращение, и вы производите еще один залп. "
+"Второй залп разрывает оба их корабля на части, и вы не торопясь разбираете "
+"их на лом."
 
 #: src-en/data/events_sector_ministry.xml.append:119
 msgid ""
@@ -117,13 +153,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Хассий) Вы не можете устоять перед желанием вмешаться...!"
 
 #: src-en/data/events_sector_ministry.xml.append:130
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"Используя всю мощь осколочную пушки Хассий, вы обстреливаете оба корабля, "
+"практически уничтожая их одним залпом. Они тут же сдаются вам, не решаясь "
+"произвести еще один залп. \"Ты продемонстрировал свою силу, психопат, чего "
+"ты хочешь?\" спрашивает золтан. Корабль богомолов присылает вам общий шаблон "
+"\"сообщения о капитуляции\", что говорит о том, что они любят сдаваться "
+"быстро и без лишних слов. Какие странные богомолы."
 
 #: src-en/data/events_sector_ministry.xml.append:141
 msgid ""
@@ -135,13 +177,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "Произвести второй залп и проигнорировать их капитуляцию."
 
 #: src-en/data/events_sector_ministry.xml.append:155
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/choice[2]/event/text"
 msgstr ""
+"Их трусость вызывает у вас отвращение, и вы производите еще один залп. "
+"Второй залп разрывает оба их корабля на части, и вы не торопясь разбираете "
+"их на лом."
 
 #: src-en/data/events_sector_ministry.xml.append:157
 msgid ""
