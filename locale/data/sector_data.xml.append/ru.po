@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datasector_dataxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,4 +16,4 @@ msgstr ""
 #: src-en/data/sector_data.xml.append:4
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECRET_TWISTED\"]/nameList/name"
-msgstr "Искривленный сектор"
+msgstr "Искаженный сектор"
