@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 11:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -78,7 +78,7 @@ msgstr "ГанБоминация"
 #: src-en/data/blueprints.xml.append:237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/name"
-msgstr "Ган Титанобоа"
+msgstr "Ган ТитаноБоа"
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
@@ -135,31 +135,37 @@ msgstr "ГанБом Анти-Гармония"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FUTURE\"]/desc"
 msgstr ""
+"Корабль переместился в наше время через червоточину, этот корабль - "
+"единственная реальность, где долг Винчестера погашен благодаря таинственному "
+"Ренегату, щедро оплатившему его долг. Этот корабль прибыл из будущего, "
+"разрушенного Гармонией. Что могло произойти?"
 
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/class"
-msgstr "Искривленный Ренегат-Клановец"
+msgstr "Искаженный Ренегат-Клановец"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/name"
-msgstr ""
+msgstr "Сделка Фленсера"
 
 #: src-en/data/blueprints.xml.append:553
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/desc"
 msgstr ""
+"Эти слизни источают харизму, когда они \"вежливо\" просят вас пожертвовать "
+"свои органы. Это ведь ради благого дела!"
 
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_2\"]/class"
-msgstr "Искривленный Ренегат-Вестник"
+msgstr "Искаженный Ренегат Вестников"
 
 #: src-en/data/blueprints.xml.append:628
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_2\"]/name"
-msgstr ""
+msgstr "Ересь Рипли"
 
 #: src-en/data/blueprints.xml.append:630
 msgid ""
@@ -169,22 +175,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/class"
-msgstr "Искривленный Ренегат-энджи"
+msgstr "Искаженный Ренегат-энджи"
 
 #: src-en/data/blueprints.xml.append:710
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/name"
-msgstr ""
+msgstr "Нановойна"
 
 #: src-en/data/blueprints.xml.append:712
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/desc"
 msgstr ""
+"На этом корабле обитает бесчисленное множество наномашин. Их неустанное "
+"роение позволяет им значительно повысить уровень здоровья, урона, скорости и "
+"сопротивляемости опасностям экипажа энджи, увеличивая количество размещенных "
+"на нем специальных дронов."
 
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/class"
-msgstr "Искривленный Ренегат-свободный богомол"
+msgstr "Искаженный Ренегат-свободный богомол"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
@@ -199,7 +209,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
-msgstr "Искривленный Ренегат-Сепаратист"
+msgstr "Искаженный Ренегат-Сепаратист"
 
 #: src-en/data/blueprints.xml.append:870
 msgid ""
@@ -214,22 +224,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/class"
-msgstr "Искривленный Ренегат-богомол"
+msgstr "Искаженный Ренегат-богомол"
 
 #: src-en/data/blueprints.xml.append:952
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/name"
-msgstr ""
+msgstr "Зерг Раш"
 
 #: src-en/data/blueprints.xml.append:954
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/desc"
 msgstr ""
+"Богомолы задействовали свой телепортатор. Скоро на вражеском корабле станет "
+"очень тесно! К тому же, щиты ограничены тремя слоями."
 
 #: src-en/data/blueprints.xml.append:1028
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/class"
-msgstr "Искривленный Ренегат-Монах"
+msgstr "Искаженный Ренегат-Монах"
 
 #: src-en/data/blueprints.xml.append:1029
 msgid ""
@@ -244,7 +256,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr "Искривленный Ренегат-валун"
+msgstr "Искаженный Ренегат-валун"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -259,12 +271,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/class"
-msgstr "Искривленный Ренегат-Затерянное Солнце"
+msgstr "Искаженный Ренегат-Затерянное Солнце"
 
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/name"
-msgstr ""
+msgstr "Дежа Морт"
 
 #: src-en/data/blueprints.xml.append:1195
 msgid ""
@@ -274,7 +286,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/class"
-msgstr "Искривленный Ренегат-Клептократия"
+msgstr "Искаженный Ренегат-Клептократия"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
@@ -289,7 +301,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/class"
-msgstr "Искривленный Ренегат [стелс]"
+msgstr "Искаженный Ренегат [стелс]"
 
 #: src-en/data/blueprints.xml.append:1348
 msgid ""
@@ -307,12 +319,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/class"
-msgstr "Искривленный Ренегат-золтан"
+msgstr "Искаженный Ренегат-золтан"
 
 #: src-en/data/blueprints.xml.append:1429
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/name"
-msgstr ""
+msgstr "Кулак Министерства"
 
 #: src-en/data/blueprints.xml.append:1431
 msgid ""
@@ -322,7 +334,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/class"
-msgstr "Искривленный Ренегат-ланиус"
+msgstr "Искаженный Ренегат-ланиус"
 
 #: src-en/data/blueprints.xml.append:1506
 msgid ""
@@ -337,7 +349,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/class"
-msgstr "Искривленный Ренегат-ракушка"
+msgstr "Искаженный Ренегат-ракушка"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
@@ -352,7 +364,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/class"
-msgstr "Искривленный Ренегат-Инженер"
+msgstr "Искаженный Ренегат-Инженер"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -367,7 +379,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/class"
-msgstr "Искривленный Ренегат-Пустельга"
+msgstr "Искаженный Ренегат-Пустельга"
 
 #: src-en/data/blueprints.xml.append:1747
 msgid ""
@@ -382,12 +394,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/class"
-msgstr "Искривленный Ренегат-Федерации"
+msgstr "Искаженный Ренегат Федерации"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/name"
-msgstr ""
+msgstr "Божественное Вмешательство"
 
 #: src-en/data/blueprints.xml.append:1828
 msgid ""
@@ -397,7 +409,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/class"
-msgstr "Искривленный Ренегат-орхидея"
+msgstr "Искаженный Ренегат-орхидея"
 
 #: src-en/data/blueprints.xml.append:1900
 msgid ""
@@ -412,7 +424,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/class"
-msgstr "Искривленный Ренегат-кристаллин"
+msgstr "Искаженный Ренегат-кристаллин"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
@@ -427,7 +439,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/class"
-msgstr "Искривленный Ренегат-Туко"
+msgstr "Искаженный Ренегат-Туко"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
@@ -442,17 +454,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/class"
-msgstr "Искривленный Ренегат-пиявка"
+msgstr "Искаженный Ренегат-пиявка"
 
 #: src-en/data/blueprints.xml.append:2138
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/name"
-msgstr ""
+msgstr "Безысходность"
 
 #: src-en/data/blueprints.xml.append:2140
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/desc"
 msgstr ""
+"Владелец этого корабля, страдающий депрессией, установил в него специальное "
+"устройство, позволяющее всем ощущать ту боль, которую испытывает он. Он "
+"назвал его \"Мотивационный сосуд\", и оно заставляет всех членов экипажа "
+"вражеского корабля высасывать энергию из своего корабля."
 
 #: src-en/data/blueprints.xml.append:2310
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"acid\"]/desc"
@@ -725,34 +741,41 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2458
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/desc"
 msgstr ""
+"Рэнделл Куртен, \"Уникальный экипаж наемников\". Бывший Ангел, "
+"инсценировавший свою смерть, чтобы покинуть Ангелов, теперь в обстановке "
+"строжайшей секретности работает на любого, кто готов раскошелиться. \n"
+"\t\t\tУ подразделения Анкалагон много денег."
 
 #: src-en/data/blueprints.xml.append:2461
+#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/title"
-msgstr ""
+msgstr "Павший"
 
 #: src-en/data/blueprints.xml.append:2462
+#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/short"
-msgstr ""
+msgstr "Павший"
 
 #: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 1.5х урона в бою"
 
 #: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[2]"
-msgstr ""
+msgstr "2х урона в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[3]"
-msgstr ""
+msgstr "1.6х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:2468
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[4]"
 msgstr ""
+"Получает 0.7x урона в бою, 0.5х от опасностей, очень устойчив к оглушению"
 
 #: src-en/data/blueprints.xml.append:2469
 msgid ""
@@ -8222,7 +8245,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18090
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_FORGEMASTER\"]/title"
-msgstr ""
+msgstr "Крейсер Кузнеца"
 
 #: src-en/data/blueprints.xml.append:18091
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_FORGEMASTER\"]/desc"
