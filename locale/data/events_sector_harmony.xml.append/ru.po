@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-20 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/ru/>\n"
@@ -123,18 +123,22 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Адское пламя) Зажечь вечеринку! Это послужит уроком для этих ленивых "
+"подонков. [Цена: 2}]"
 
 #: src-en/data/events_sector_harmony.xml.append:94
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить ракетами Адского пламени."
 
 #: src-en/data/events_sector_harmony.xml.append:101
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Ваша ракетница Адского пламени уничтожают судно без каких-либо проблем, и вы "
+"собираете свою вкусную добычу."
 
 #: src-en/data/events_sector_harmony.xml.append:103
 msgid ""
@@ -183,18 +187,23 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Ба-Пеф) Сделать эту вечеринку последней. Заблокировать все выходы. [Цена: "
+"1}]"
 
 #: src-en/data/events_sector_harmony.xml.append:208
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить из миномета Ба-Пеф."
 
 #: src-en/data/events_sector_harmony.xml.append:215
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Ваши мины Ба-Пеф блокируют все выходы, так что никто из участников вечеринки "
+"не сможет сбежать. Вы разбираете другие корабли, стоящие рядом с судном, "
+"зная, что никто не сможет вернуться на них с помощью личных шаттлов."
 
 #: src-en/data/events_sector_harmony.xml.append:217
 msgid ""
@@ -243,18 +252,23 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Нобелий) Разнести в клочья корабли этих трусливых тусовщиков, как они смеют "
+"веселиться во время гражданской войны?"
 
 #: src-en/data/events_sector_harmony.xml.append:320
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить из осколочной пушки Нобелий."
 
 #: src-en/data/events_sector_harmony.xml.append:326
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Осколки из вашего Нобелия разрывает на куски корпуса стоящих рядом кораблей. "
+"Они также попадают в корпус корабля энджи, разрезая его на куски, как "
+"швейцарский сыр. Никто не успел вовремя добраться до спасательных капсул."
 
 #: src-en/data/events_sector_harmony.xml.append:328
 msgid ""
@@ -303,18 +317,23 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Хассий) Разнести в клочья корабли этих трусливых тусовщиков, как они смеют "
+"веселиться во время гражданской войны?"
 
 #: src-en/data/events_sector_harmony.xml.append:432
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить из осколочной пушки Хассий."
 
 #: src-en/data/events_sector_harmony.xml.append:438
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Осколки из вашего Хассия разрывает на куски корпуса стоящих рядом кораблей. "
+"Они также попадают в корпус корабля энджи, разрезая его на куски, как "
+"швейцарский сыр. Никто не успел вовремя добраться до спасательных капсул."
 
 #: src-en/data/events_sector_harmony.xml.append:440
 msgid ""
@@ -363,18 +382,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Потрошитель повстанцев) Обстрелять тусовщиков, а вдруг среди них есть шпион "
+"повстанцев?"
 
 #: src-en/data/events_sector_harmony.xml.append:544
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить из Потрошителя повстанцев."
 
 #: src-en/data/events_sector_harmony.xml.append:550
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Ваш лазер Потрошитель повстанцев обстреливает корабль энджи в поисках "
+"\"шпионов повстанцев\". Оказывается, весь корабль был заполнен \"шпионами "
+"повстанцев\". Когда все участники вечеринки мертвы, вы благополучно грабите "
+"все их корабли и добываете лом, а также находите немного топлива."
 
 #: src-en/data/events_sector_harmony.xml.append:552
 msgid ""
@@ -423,18 +448,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr ""
+"(Прощение) Добавить несколько \"неожиданных гостей вечеринки\", чтобы "
+"\"оторваться по полной\"."
 
 #: src-en/data/events_sector_harmony.xml.append:656
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Выстрелить из Прощения."
 
 #: src-en/data/events_sector_harmony.xml.append:662
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Ваше Прощение заполняет их судно для вечеринок облаками ионных аномалий. Вы "
+"рады, что первым делом был отключен кислород, и вам не пришлось слышать их "
+"истошные крики, когда их разрывало на части аномальными вихрями. Вы грабите "
+"корабли, стоящие в доке рядом с судном для вечеринок."
 
 #: src-en/data/events_sector_harmony.xml.append:664
 msgid ""
@@ -668,6 +699,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Нобелий) Разнести в клочья корабли этих трусливых тусовщиков, как они смеют "
+"веселиться во время гражданской войны?"
 
 #: src-en/data/events_sector_harmony.xml.append:1120
 msgid ""
@@ -680,6 +713,9 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Осколки из вашего Нобелия разрывает на куски корпуса стоящих рядом кораблей. "
+"Они также попадают в корпус корабля энджи, разрезая его на куски, как "
+"швейцарский сыр. Никто не успел вовремя добраться до спасательных капсул."
 
 #: src-en/data/events_sector_harmony.xml.append:1128
 msgid ""
@@ -728,6 +764,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Хассий) Разнести в клочья корабли этих трусливых тусовщиков, как они смеют "
+"веселиться во время гражданской войны?"
 
 #: src-en/data/events_sector_harmony.xml.append:1232
 msgid ""
@@ -740,6 +778,9 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Осколки из вашего Хассия разрывает на куски корпуса стоящих рядом кораблей. "
+"Они также попадают в корпус корабля энджи, разрезая его на куски, как "
+"швейцарский сыр. Никто не успел вовремя добраться до спасательных капсул."
 
 #: src-en/data/events_sector_harmony.xml.append:1240
 msgid ""
