@@ -1,89 +1,111 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_mechanicalxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_mechanical.xml.append:27
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOAD_DEATH_TIMER\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше время, оставшееся в этом мире..."
 
 #: src-en/data/events_special_mechanical.xml.append:40
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_CHARGE_INITIAL\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Разрушитель: подготовка"
 
 #: src-en/data/events_special_mechanical.xml.append:48
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Разрушитель: перезарядка"
 
 #: src-en/data/events_special_mechanical.xml.append:53
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Разрушитель: активен"
 
 #: src-en/data/events_special_mechanical.xml.append:67
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/text"
-msgstr ""
+msgstr "ДЕПРЕСС"
 
 #: src-en/data/events_special_mechanical.xml.append:69
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/tooltip"
-msgstr ""
+msgstr "Нажать на Депресс"
 
 #: src-en/data/events_special_mechanical.xml.append:70
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/inactiveTooltip"
-msgstr ""
+msgstr "Неактивный"
 
 #: src-en/data/events_special_mechanical.xml.append:87
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_LANIUS_SURGE_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Зарядить!"
 
 #: src-en/data/events_special_mechanical.xml.append:98
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/tooltip"
-msgstr ""
+msgstr "Выстрелить из всех своих снаряженных осколочных пушек."
 
 #: src-en/data/events_special_mechanical.xml.append:99
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/inactiveTooltip"
-msgstr ""
+msgstr "Недоступно: Уже уволен."
 
 #: src-en/data/events_special_mechanical.xml.append:1305
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_TUCO_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Перетасовать карты"
 
 #: src-en/data/events_special_mechanical.xml.append:1315
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/text"
-msgstr ""
+msgstr "КАРТЫ (WIP)"
 
 #: src-en/data/events_special_mechanical.xml.append:1317
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/tooltip"
-msgstr ""
+msgstr "Разыграть карту (WIP)"
 
 #: src-en/data/events_special_mechanical.xml.append:1318
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/inactiveTooltip"
-msgstr ""
+msgstr "Неактивный"
 
 #: src-en/data/events_special_mechanical.xml.append:1333
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
 msgstr ""
+"Вы переворачиваете карту и видите вспышку белого цвета, которая исчезает, "
+"открывая куб, окрашенный в зеленый цвет, с гранями, которые, кажется, "
+"перестраиваются под какую-то искаженную мелодию, словно танцуя. Всевозможные "
+"виды в различных одеждах наблюдают за ним, а когда он начинает "
+"разворачиваться, то демонстрирует крутящуюся массу белой горячей энергии, "
+"заключенную в пузырь; рождение нового измерения. Истина, скрывающаяся за "
+"движущими силами Мультивселенной, которую не смогли распознать даже древние."
 
 #: src-en/data/events_special_mechanical.xml.append:1336
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "Заглянуть в ее глубины"
 
 #: src-en/data/events_special_mechanical.xml.append:1338
 msgid ""
