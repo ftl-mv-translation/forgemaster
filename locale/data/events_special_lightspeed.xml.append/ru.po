@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 15:24+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-22 11:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -73,20 +73,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_lightspeed.xml.append:63
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/text"
 msgstr ""
-"Соорудить дальнобойный баллистический корабль для передачи сообщения, чтобы "
-"связаться с Кузнецом."
+"Соорудить баллистический корабль дальнего действия для передачи сообщения, "
+"чтобы связаться с Кузнецом."
 
 #: src-en/data/events_special_lightspeed.xml.append:65
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/text"
 msgstr ""
 "Вы собираете немного боеголовок и создаете баллистический корабль, способный "
-"развивать сверхскорость и содержащий просьбу о встрече с Алестером. Вы "
+"развивать сверхскорость и содержащий запрос о встрече с Алестером. Вы "
 "подключаете его системы наведения на его подпространственный идентификатор и "
 "отдаете команду о запуске. Если Алестер где-то есть, он будет готов к "
 "встрече."
@@ -138,20 +136,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_lightspeed.xml.append:103
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/text"
 msgstr ""
-"Соорудить дальнобойный баллистический корабль для передачи сообщения, чтобы "
-"связаться с Кузнецом."
+"Соорудить баллистический корабль дальнего действия для передачи сообщения, "
+"чтобы связаться с Кузнецом."
 
 #: src-en/data/events_special_lightspeed.xml.append:105
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/text"
 msgstr ""
 "Вы собираете немного боеголовок и создаете баллистический корабль, способный "
-"развивать сверхскорость и содержащий просьбу о встрече с Алестером. Вы "
+"развивать сверхскорость и содержащий запрос о встрече с Алестером. Вы "
 "подключаете его системы наведения на его подпространственный идентификатор и "
 "отдаете команду о запуске. Если Алестер где-то есть, он будет готов к "
 "встрече."
