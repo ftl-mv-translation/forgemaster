@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-21 11:04+0000\n"
+"PO-Revision-Date: 2024-06-22 11:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -313,7 +313,7 @@ msgstr "Искаженный Ренегат [стелс]"
 #: src-en/data/blueprints.xml.append:1348
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/name"
-msgstr ""
+msgstr "Ошибка отображения"
 
 #: src-en/data/blueprints.xml.append:1350
 msgid ""
@@ -451,7 +451,7 @@ msgstr "Искаженный Ренегат-Туко"
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/name"
-msgstr ""
+msgstr "Таро"
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
@@ -522,17 +522,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2339
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/desc"
-msgstr ""
+msgstr "Ионная аномалия, необъяснимо притягивающаяся к жизненно важным системам"
 
 #: src-en/data/blueprints.xml.append:2340
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/title"
-msgstr ""
+msgstr "Ионное облако"
 
 #: src-en/data/blueprints.xml.append:2341
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/short"
-msgstr ""
+msgstr "Ионное облако"
 
 #: src-en/data/blueprints.xml.append:2346
 msgid ""
@@ -545,42 +545,44 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2351
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/desc"
-msgstr ""
+msgstr "Расход энергии"
 
 #: src-en/data/blueprints.xml.append:2352
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/title"
-msgstr ""
+msgstr "Расход энергии"
 
 #: src-en/data/blueprints.xml.append:2353
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/short"
-msgstr ""
+msgstr "Расход энергии"
 
 #: src-en/data/blueprints.xml.append:2358
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/powerList/power"
-msgstr ""
+msgstr ": -Поглощает 2 энергии у любой системы в отсеке на 12 секунд"
 
 #: src-en/data/blueprints.xml.append:2369
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/desc"
-msgstr ""
+msgstr "Дрон-взлом"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/title"
-msgstr ""
+msgstr "Дрон-взлом"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/short"
-msgstr ""
+msgstr "Дрон-взлом"
 
 #: src-en/data/blueprints.xml.append:2376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/powerList/power[1]"
 msgstr ""
+": -Взламывает отсек на 6 секунд, перезарядка 12 секунд. Также оглушает "
+"врагов во время взлома"
 
 #: src-en/data/blueprints.xml.append:2377
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/powerList/power[2]"
-msgstr ""
+msgstr ": -Очень хрупкий и легко разбивается, 60 ОЗ."
 
 #: src-en/data/blueprints.xml.append:2387
 msgid ""
@@ -682,55 +684,72 @@ msgstr "Пластинчатый"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[1]"
 msgstr ""
+"120 здоровья, получает на 27% меньше урона и на 45% меньше урона от удушья. "
+"Передвигается со скоростью 0.6x, а ремонтирует со скоростью 1.5x."
 
 #: src-en/data/blueprints.xml.append:2425
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[2]"
 msgstr ""
+"1.3x урон в ближнем бою, 0.75x урон в дальнем бою, ломает системы со "
+"скоростью 0.7x."
 
 #: src-en/data/blueprints.xml.append:2426
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[3]"
 msgstr ""
+"Очень быстро тушит пожары. Уменьшена длительность оглушения. Невосприимчив к "
+"огню."
 
 #: src-en/data/blueprints.xml.append:2427
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Ремонтирует 1 единицу корпуса и 4 единиц систем в "
+"текущем отсеке. Исцеляет себе 20 ОЗ. Восстанавливает заряд при прыжке."
 
 #: src-en/data/blueprints.xml.append:2432
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/desc"
 msgstr ""
+"Элитный экипаж ракушек. Ученики Кузнеца. Эксперты в ремонте, хотя эти "
+"Пластинчатые решили применить более боевой подход к своему делу."
 
 #: src-en/data/blueprints.xml.append:2433
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/title"
-msgstr ""
+msgstr "Пластинчатая ракушка"
 
 #: src-en/data/blueprints.xml.append:2434
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/short"
-msgstr ""
+msgstr "Пластинчатый"
 
 #: src-en/data/blueprints.xml.append:2439
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[1]"
 msgstr ""
+"100 здоровья, получает на 30% меньше урона в бою. Передвигается со скоростью "
+"0.7x и ремонтирует со скоростью 1.3x."
 
 #: src-en/data/blueprints.xml.append:2440
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносит 1.4х урона в бою, ломает системы со скоростью 1.2х."
 
 #: src-en/data/blueprints.xml.append:2441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[3]"
 msgstr ""
+"Очень быстро тушит пожары. Продолжительность оглушения снижена на 30%. "
+"Получает только 20% урона от огня."
 
 #: src-en/data/blueprints.xml.append:2442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Наносит врагам урон 15 ОЗ, а себе дает ряд усилений в "
+"течение 15 секунд. Делает отсек невосприимчивой к урону системам на 15 "
+"секунд."
 
 #: src-en/data/blueprints.xml.append:2447
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/desc"
@@ -738,16 +757,16 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2449
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/title"
-msgstr ""
+msgstr "Серафим"
 
 #: src-en/data/blueprints.xml.append:2450
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/short"
-msgstr ""
+msgstr "Серафим"
 
 #: src-en/data/blueprints.xml.append:2453
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/powerList/power"
-msgstr ""
+msgstr "Может поглощать дружественный экипаж, чтобы стать сильнее."
 
 #: src-en/data/blueprints.xml.append:2458
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/desc"
@@ -795,114 +814,117 @@ msgstr "Обучен навыкам 2 уровня"
 
 #: src-en/data/blueprints.xml.append:2474
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/desc"
-msgstr ""
+msgstr "Опасный аномальный кристаллин, порожденный технологией Анкалагона."
 
 #: src-en/data/blueprints.xml.append:2475
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/title"
-msgstr ""
+msgstr "Красный кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2476
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/short"
-msgstr ""
+msgstr "Красный кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/powerList/power[1]"
 msgstr ""
+"Поджигает отсек каждые 7 секунд и пополняет кислород для поддержания огня."
 
 #: src-en/data/blueprints.xml.append:2482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2488
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/desc"
-msgstr ""
+msgstr "Опасный аномальный кристаллин, порожденный технологией Анкалагона."
 
 #: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/title"
-msgstr ""
+msgstr "Синий кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2490
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/short"
-msgstr ""
+msgstr "Ancalagon B. Crys."
 
 #: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/powerList/power[1]"
-msgstr ""
+msgstr "Оглушает врагов и наносит 1 ионный урон каждые 10 секунд."
 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/desc"
-msgstr ""
+msgstr "Опасный аномальный кристаллин, порожденный технологией Анкалагона."
 
 #: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/title"
-msgstr ""
+msgstr "Зеленый кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2504
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/short"
-msgstr ""
+msgstr "Ancalagon G. Crys."
 
 #: src-en/data/blueprints.xml.append:2509
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/powerList/power[1]"
-msgstr ""
+msgstr "Открывает пробоины и наносит 30 урона экипажу каждые 8 секунд."
 
 #: src-en/data/blueprints.xml.append:2510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2516
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/desc"
-msgstr ""
+msgstr "Опасный аномальный кристаллин, порожденный технологией Анкалагона."
 
 #: src-en/data/blueprints.xml.append:2517
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/title"
-msgstr ""
+msgstr "Белый кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2518
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/short"
-msgstr ""
+msgstr "Ancalagon W. Crys."
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/powerList/power[1]"
 msgstr ""
+"Омни-кристаллин. Вызывает пожар, пробоину, наносит 30 урона экипажу, 1 "
+"ионный урон и оглушает каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/powerList/power[2]"
-msgstr ""
+msgstr "200 здоровья, неподвижен. Исцеляет себе 20 здоровья каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2530
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/desc"
-msgstr ""
+msgstr "Опасный аномальный кристаллин, порожденный технологией Анкалагона."
 
 #: src-en/data/blueprints.xml.append:2531
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/title"
-msgstr ""
+msgstr "Черный кристаллин Анкалагона"
 
 #: src-en/data/blueprints.xml.append:2532
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/short"
-msgstr ""
+msgstr "Ancalagon B. Crys."
 
 #: src-en/data/blueprints.xml.append:2537
 msgid ""
@@ -912,7 +934,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2538
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/powerList/power[2]"
-msgstr ""
+msgstr "270 здоровья, неподвижен. Исцеляет себе 20 здоровья каждые 12 секунд."
 
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
@@ -922,22 +944,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2545
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/title"
-msgstr ""
+msgstr "Кристаллин-тюремщик"
 
 #: src-en/data/blueprints.xml.append:2546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/short"
-msgstr ""
+msgstr "Crystal Prison."
 
 #: src-en/data/blueprints.xml.append:2551
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[1]"
 msgstr ""
+"125 здоровья, неподвижен. Получает 2x урона в бою и 1.3x урона от всех "
+"остальных источников."
 
 #: src-en/data/blueprints.xml.append:2552
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[2]"
-msgstr ""
+msgstr "Не может исцеляться и не может быть клонирован, если уничтожен."
 
 #: src-en/data/blueprints.xml.append:2553
 msgid ""
@@ -957,7 +981,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/short"
-msgstr ""
+msgstr "M. Defender"
 
 #: src-en/data/blueprints.xml.append:2565
 msgid ""
@@ -991,7 +1015,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2584
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/short"
-msgstr ""
+msgstr "P. Defender"
 
 #: src-en/data/blueprints.xml.append:2587
 msgid ""
@@ -1063,7 +1087,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2630
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/short"
-msgstr ""
+msgstr "Fire Lily"
 
 #: src-en/data/blueprints.xml.append:2631
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/desc"
@@ -1098,7 +1122,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/short"
-msgstr ""
+msgstr "Missing Texture: Human7"
 
 #: src-en/data/blueprints.xml.append:2646
 msgid ""
@@ -1126,7 +1150,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2659
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/short"
-msgstr ""
+msgstr "Smoker Slug"
 
 #: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/desc"
@@ -1150,7 +1174,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2672
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/short"
-msgstr ""
+msgstr "Smoker Slug"
 
 #: src-en/data/blueprints.xml.append:2673
 msgid ""
@@ -1180,7 +1204,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/short"
-msgstr ""
+msgstr "Crackerjack"
 
 #: src-en/data/blueprints.xml.append:2690
 msgid ""
@@ -1251,7 +1275,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2736
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/short"
-msgstr ""
+msgstr "Ion Missile"
 
 #: src-en/data/blueprints.xml.append:2741
 msgid ""
@@ -1276,7 +1300,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2756
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/short"
-msgstr ""
+msgstr "Jank"
 
 #: src-en/data/blueprints.xml.append:2772
 msgid ""
@@ -1291,7 +1315,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2774
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/short"
-msgstr ""
+msgstr "T. Separatist"
 
 #: src-en/data/blueprints.xml.append:2779
 msgid ""
@@ -1326,7 +1350,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/short"
-msgstr ""
+msgstr "C. Separatist"
 
 #: src-en/data/blueprints.xml.append:2795
 msgid ""
@@ -1353,7 +1377,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2804
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/short"
-msgstr ""
+msgstr "C. Separatist"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
@@ -1388,7 +1412,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2819
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/short"
-msgstr ""
+msgstr "B. Separatist"
 
 #: src-en/data/blueprints.xml.append:2824
 msgid ""
@@ -1415,7 +1439,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2834
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/short"
-msgstr ""
+msgstr "B. Separatist"
 
 #: src-en/data/blueprints.xml.append:2839
 msgid ""
@@ -1450,7 +1474,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/short"
-msgstr ""
+msgstr "Fire Intruder Drone"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid ""
@@ -1470,7 +1494,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/short"
-msgstr ""
+msgstr "Ancalagon Warbringer Drone"
 
 #: src-en/data/blueprints.xml.append:3058
 msgid ""
@@ -1495,7 +1519,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3066
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/short"
-msgstr ""
+msgstr "Ancalagon Monitor Drone"
 
 #: src-en/data/blueprints.xml.append:3071
 msgid ""
@@ -1518,7 +1542,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/short"
-msgstr ""
+msgstr "Mender"
 
 #: src-en/data/blueprints.xml.append:3080
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/desc"
@@ -1577,7 +1601,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3111
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_drone_battle2\"]/short"
-msgstr ""
+msgstr "Battle II Drone"
 
 #: src-en/data/blueprints.xml.append:3112
 msgid ""
@@ -1614,7 +1638,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3133
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/short"
-msgstr ""
+msgstr "Manner Drone"
 
 #: src-en/data/blueprints.xml.append:3134
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/desc"
@@ -2052,7 +2076,7 @@ msgstr "Самая смешная хрень, которую я когда-ли�
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_10_EFFECT\"]/title"
-msgstr ""
+msgstr "Лазер для святого10"
 
 #: src-en/data/blueprints.xml.append:3577
 msgid ""
@@ -2074,7 +2098,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3619
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/short"
-msgstr ""
+msgstr "BURNING BUG"
 
 #: src-en/data/blueprints.xml.append:3624
 msgid ""
@@ -2089,7 +2113,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_11_EFFECT\"]/title"
-msgstr ""
+msgstr "Лазер для святого11"
 
 #: src-en/data/blueprints.xml.append:3636
 msgid ""
@@ -2280,7 +2304,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_19_EFFECT\"]/title"
-msgstr ""
+msgstr "Лазер для святого19"
 
 #: src-en/data/blueprints.xml.append:3821
 msgid ""
@@ -2317,7 +2341,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_20_EFFECT\"]/title"
-msgstr ""
+msgstr "Лазер для святого20"
 
 #: src-en/data/blueprints.xml.append:3889
 msgid ""
@@ -2372,35 +2396,35 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4094
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/title"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4095
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/short"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4096
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/desc"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4097
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/tooltip"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4167
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/title"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4168
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/short"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4169
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/desc"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4170
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/tooltip"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4231
 msgid ""
@@ -2520,7 +2544,7 @@ msgstr "Вы никогда не должны это видеть."
 
 #: src-en/data/blueprints.xml.append:4498
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/tooltip"
-msgstr ""
+msgstr "ТЕСТ"
 
 #: src-en/data/blueprints.xml.append:4529
 msgid ""
@@ -2690,7 +2714,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:5072
 msgid ""
@@ -2764,7 +2788,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:5342
 msgid ""
@@ -3063,7 +3087,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:6379
 msgid ""
@@ -3100,7 +3124,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:6464
 msgid ""
@@ -5353,35 +5377,38 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:11736
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CURA_DRONE\"]/title"
-msgstr ""
+msgstr "Боевой дрон К.У.Р.А."
 
 #: src-en/data/blueprints.xml.append:11737
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CURA_DRONE\"]/short"
-msgstr ""
+msgstr "К.У.Р.А."
 
 #: src-en/data/blueprints.xml.append:11738
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CURA_DRONE\"]/desc"
 msgstr ""
+"Этот дрон способен к самоподдержанию и может запитать другие дроны за счет "
+"избытка энергии. Он также запускает на вражеский корабль мини-дронов для "
+"захвата."
 
 #: src-en/data/blueprints.xml.append:11752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CURA_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Пусковая установка абордажников КУРА"
 
 #: src-en/data/blueprints.xml.append:11753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CURA_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Пуск. уст. аборд. КУРА"
 
 #: src-en/data/blueprints.xml.append:11754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CURA_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Запускает абордажный дрон на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:11762
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CURA_DRONE_WEAPON\"]/spawnCrew/name"
-msgstr ""
+msgstr "К.У.Р.А."
 
 #: src-en/data/blueprints.xml.append:11813
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/title"
@@ -6379,7 +6406,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:14181
 msgid ""
@@ -6399,7 +6426,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:14240
 msgid ""
@@ -6419,7 +6446,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/blueprints.xml.append:14320
 msgid ""
@@ -9888,7 +9915,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:19674
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/short"
-msgstr ""
+msgstr "MEAT"
 
 #: src-en/data/blueprints.xml.append:19679
 msgid ""
