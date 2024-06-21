@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 15:24+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-21 11:04+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -322,7 +322,7 @@ msgstr "Искаженный Ренегат Федерации"
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_name\"]"
-msgstr "Божественное Вмешательство"
+msgstr "Божественное Участие"
 
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
