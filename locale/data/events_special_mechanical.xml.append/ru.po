@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-21 11:04+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-22 11:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mechanicalxmlappend/ru/>\n"
 "Language: ru\n"
@@ -489,56 +489,103 @@ msgstr ""
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[2]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. В потоке шепчущих "
+"газов и яростного треска энергии перед вами возникает Видение - готовое к "
+"службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1613
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[3]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. В потоке шепчущих "
+"газов и мерцании тепла, заливающего все вокруг, перед вами возникает Гуль - "
+"готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1620
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[4]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. С гулким воем "
+"движущихся газов, заставляющим корпус слегка подрагивать, перед вами "
+"возникает Мар - готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1627
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[5]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. Извергая потоки "
+"клубящихся белых газов, перед вами возникает Альфа фантом - готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1634
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[6]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. С яростным, "
+"кислотным шипением перед вами возникает Альфа Мар - готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1642
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[7]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. Помещение зловеще "
+"окутано дымом, когда перед вами возникает Альфа Гуль - готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1649
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[8]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. О корпус вашего "
+"корабля ударяет электрический разряд, и перед вами возникает Альфа Видение - "
+"готовое к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1656
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[9]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"содрогнулся - изнутри донесся гул, и вы почувствовали, как мириады призраков "
+"в его непостижимых внутренностях одобрительно зашумели. Вопли медленно "
+"затихают, когда один из призраков возникает перед вами - готовый к службе."
 
 #: src-en/data/events_special_mechanical.xml.append:1664
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[10]/text"
 msgstr ""
+"Когда последняя искра энергии на корабле противника погасла, Холодильник "
+"едва не треснул, ударившись о корпус корабля, - изнутри раздался "
+"пронзительный крик, от которого вы отшатнулись. Ослепительная окружающая "
+"пустота, а может быть, это только ваше зрение, которое начинает понемногу "
+"затуманиваться. Перед вами возникает элегантный призрак, облаченный в "
+"доспехи, - некая версия самого Короля фантомов. Он преклоняет перед вами "
+"колени... Готовый служить."
 
 #: src-en/data/events_special_mechanical.xml.append:2028
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OVERCHARMED_MESSAGE\"]/text"
 msgstr ""
+"Закончив установку модулей, вы заметили, что превысили предел прочности "
+"модульного корпуса, что привело к его нестабильности. Похоже, что из-за "
+"этого он стал очень подвержен взрывам. Будем надеяться, что это не сильно "
+"помешает вам."
 
 #: src-en/data/events_special_mechanical.xml.append:2046
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON\"]/tooltip"
-msgstr ""
+msgstr "Забавный осколочный выброс!"
 
 #: src-en/data/events_special_mechanical.xml.append:2047
 msgid ""
@@ -548,7 +595,7 @@ msgstr "Недоступно: Вы не можете это сделать, на
 #: src-en/data/events_special_mechanical.xml.append:2063
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON2\"]/tooltip"
-msgstr ""
+msgstr "Забавный осколочный выброс 2!"
 
 #: src-en/data/events_special_mechanical.xml.append:2064
 msgid ""
@@ -558,28 +605,28 @@ msgstr "Недоступно: Вы не можете это сделать, на
 #: src-en/data/events_special_mechanical.xml.append:2080
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOL\"]/crewMember"
-msgstr ""
+msgstr "Проблема с навыками"
 
 #: src-en/data/events_special_mechanical.xml.append:2100
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OXYGEN_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Вы улучшаете свою кислородную установку принудительно."
 
 #: src-en/data/events_special_mechanical.xml.append:2104
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"WEAPONS_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Вы улучшаете свою систему оружия принудительно."
 
 #: src-en/data/events_special_mechanical.xml.append:2108
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"SHIELDS_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Вы улучшаете свои щиты принудительно."
 
 #: src-en/data/events_special_mechanical.xml.append:2120
 msgid "data/events_special_mechanical.xml.append$//event[@name=\"DRAW\"]/text"
-msgstr ""
+msgstr "Попробуйте нарисовать что-нибудь на экране, хотя бы потом!"
 
 #: src-en/data/events_special_mechanical.xml.append:2124
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TOGGLE_HACK\"]/text"
-msgstr ""
+msgstr "Вы переключаете странную команду взлома."
