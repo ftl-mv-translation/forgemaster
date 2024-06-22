@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 11:19+0000\n"
+"PO-Revision-Date: 2024-06-22 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_gatheringxmlappend/ru/>\n"
@@ -14,12 +14,11 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_gathering.xml.append:3
-#, fuzzy
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_KERNEL_FOREST\"]/mod-"
 "append:choice/text"
 msgstr ""
-"(Дазбог) У вас бурная аллергия на пыльцу, и вы клянетесь, что на этой "
+"(Дажьбог) У вас сильная аллергия на пыльцу, и вы клянетесь, что на этой "
 "планете пыльцы больше, чем воздуха. Пора сжечь все дотла."
 
 #: src-en/data/events_sector_gathering.xml.append:5
