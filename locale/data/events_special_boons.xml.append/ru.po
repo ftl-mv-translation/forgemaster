@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 11:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-23 12:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_boonsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -84,13 +84,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_boons.xml.append:52
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_TERMINUS\"]/text"
 msgstr ""
 "Из ниоткуда вы слышите голос, обращающийся к вам. \"ПРЕТЕНДЕНТ! Вам я дарую "
-"БЛАГОСЛОВЕНИЕ СООБРАЗИТЕЛЬНОСТИ! Ваш корабль и экипаж улучшает свои "
-"характеристики на 5%, и да будут БЛАГОСЛОВЛЕНЫ ваши путешествия! Кого стоит "
+"БЛАГОСЛОВЕНИЕ СООБРАЗИТЕЛЬНОСТИ! Ваш корабль и экипаж стали на 5% сильнее по "
+"всем характеристикам, и да будут БЛАГОСЛОВЛЕНЫ ваши путешествия! Кого стоит "
 "благодарить? ПРЕДЫДУЩЕГО ПРЕТЕНДЕНТА! Ха-ха!\""
 
 #: src-en/data/events_special_boons.xml.append:55
