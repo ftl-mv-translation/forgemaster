@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 11:42+0000\n"
+"PO-Revision-Date: 2024-06-24 04:48+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_multiversexmlappend/ru/>\n"
@@ -150,14 +150,13 @@ msgid ""
 msgstr "Предъявить Терминус."
 
 #: src-en/data/events_special_multiverse.xml.append:82
-#, fuzzy
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
 "Уэйксон мгновение молча стоит. \"Почему Ренегаты ТАКИЕ... Я ОДАРЮ вас "
-"БЛАГОСЛОВЕНИЕМ СООБРАЗИТЕЛЬНОСТИ несмотря ни на что. Но будьте ТЕРПЕЛИВЫ. "
-"Это не сейчас, а ПОТОМ!\""
+"БЛАГОСЛОВЕНИЕМ ИСКАЖЕНИЯ несмотря ни на что. Но будьте ТЕРПЕЛИВЫ. Это не "
+"сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:86
 msgid ""
