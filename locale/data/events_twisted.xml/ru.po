@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 13:12+0000\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_twistedxml/ru/>\n"
@@ -69,16 +69,18 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"loc_impossible_task_done\"]/text"
 msgstr ""
+"(Взломщик МВ-приводов К.У.Р.А.) Вы уже получили свою награду. Вам интересно, "
+"какую именно пользу это принесло К.У.Р.А.?"
 
 #: src-en/data/events_twisted.xml:45
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"FM_CURA_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов К.У.Р.А.) Получить награду."
 
 #: src-en/data/events_twisted.xml:49
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"CURA_MVBOSS_SPAWNER\"]/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов К.У.Р.А.) Вызвать Искаженного МВ-путешественника."
 
 #: src-en/data/events_twisted.xml:53
 msgid ""
@@ -98,6 +100,11 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. За каждую "
+"уничтоженную группу из 3 кораблей, вам станут доступны еще 3. Для вызова "
+"Искаженного МВ-босса нужно 2{.\n"
+"\tПРИМЕЧАНИЕ: Любые специальные технологии, полученные с этих Ренегатов, не "
+"будут складываться друг с другом."
 
 #: src-en/data/events_twisted.xml:66
 msgid ""
@@ -116,22 +123,22 @@ msgstr ""
 #: src-en/data/events_twisted.xml:73
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_crystal\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных кристаллинов."
 
 #: src-en/data/events_twisted.xml:77
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_tuco\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженного Туко."
 
 #: src-en/data/events_twisted.xml:81
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_leech\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных пиявок."
 
 #: src-en/data/events_twisted.xml:86
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/text"
-msgstr ""
+msgstr "Искаженные кристаллины тип В - выпадает Искаженный кристалл брони."
 
 #: src-en/data/events_twisted.xml:88
 msgid ""
@@ -149,7 +156,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:99
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/text"
-msgstr ""
+msgstr "Искаженный Туко тип Б - выпадает редкий коллекционный предмет."
 
 #: src-en/data/events_twisted.xml:101
 msgid ""
@@ -167,7 +174,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:112
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/text"
-msgstr ""
+msgstr "Искаженные пиявки тип В - выпадает странный излучатель."
 
 #: src-en/data/events_twisted.xml:114
 msgid ""
@@ -185,22 +192,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:126
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_kestrel\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженную Пустельгу."
 
 #: src-en/data/events_twisted.xml:130
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_federation\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженную Федерацию."
 
 #: src-en/data/events_twisted.xml:134
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_orchid\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженные орхидеи."
 
 #: src-en/data/events_twisted.xml:139
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/text"
-msgstr ""
+msgstr "Искаженная Пустельга тип Б - эм... холодильник?"
 
 #: src-en/data/events_twisted.xml:141
 msgid ""
@@ -218,7 +225,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:152
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/text"
-msgstr ""
+msgstr "Искаженная Федерация тип Б - выпадает уникальный репликатор."
 
 #: src-en/data/events_twisted.xml:154
 msgid ""
@@ -236,7 +243,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:165
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/text"
-msgstr ""
+msgstr "Искаженные орхидеи тип Б - выпадает немного друзей."
 
 #: src-en/data/events_twisted.xml:167
 msgid ""
@@ -254,22 +261,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:179
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_lanius\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных ланиусов."
 
 #: src-en/data/events_twisted.xml:183
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_shell\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных ракушек."
 
 #: src-en/data/events_twisted.xml:187
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_engineer\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Инженеров."
 
 #: src-en/data/events_twisted.xml:239
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/text"
-msgstr ""
+msgstr "Искаженные ланиусы тип Б - выпадает сердце."
 
 #: src-en/data/events_twisted.xml:241
 msgid ""
@@ -287,7 +294,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:252
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/text"
-msgstr ""
+msgstr "Искаженные ракушки тип В - выпадает дипломат."
 
 #: src-en/data/events_twisted.xml:254
 msgid ""
@@ -305,7 +312,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:265
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/text"
-msgstr ""
+msgstr "Искаженные Инженеры тип Б - выпадает Стимулятор дронов мод. II."
 
 #: src-en/data/events_twisted.xml:267
 msgid ""
@@ -323,22 +330,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:279
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_slug\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных слизней."
 
 #: src-en/data/events_twisted.xml:283
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_stealth\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженного Стелса."
 
 #: src-en/data/events_twisted.xml:287
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_zoltan\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных золтан."
 
 #: src-en/data/events_twisted.xml:292
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/text"
-msgstr ""
+msgstr "Искаженные слизни тип В - выпадает Мальборо."
 
 #: src-en/data/events_twisted.xml:294
 msgid ""
@@ -356,7 +363,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:305
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/text"
-msgstr ""
+msgstr "Искаженный Стелс тип Б - выпадает ?13Xzzzzzzz$"
 
 #: src-en/data/events_twisted.xml:307
 msgid ""
@@ -374,7 +381,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:318
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/text"
-msgstr ""
+msgstr "Искаженные золтаны тип В - выпадает Снятие ограничений."
 
 #: src-en/data/events_twisted.xml:320
 msgid ""
@@ -392,22 +399,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:332
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_monk\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных монахов."
 
 #: src-en/data/events_twisted.xml:336
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_rock\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных валунов."
 
 #: src-en/data/events_twisted.xml:340
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_lostsun\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Затерянных Солнц."
 
 #: src-en/data/events_twisted.xml:345
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/text"
-msgstr ""
+msgstr "Искаженные Монахи тип Б - выпадают Эфирные щиты вознесения."
 
 #: src-en/data/events_twisted.xml:347
 msgid ""
@@ -425,7 +432,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:358
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/text"
-msgstr ""
+msgstr "Искаженные валуны тип В - выпадает Реликвия свободы валунов."
 
 #: src-en/data/events_twisted.xml:360
 msgid ""
@@ -443,7 +450,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:371
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/text"
-msgstr ""
+msgstr "Искаженные Затерянные Солнца тип Б - Перезагрузчик реальности."
 
 #: src-en/data/events_twisted.xml:373
 msgid ""
@@ -461,22 +468,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:385
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_freemantis\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Свободных Богомолов."
 
 #: src-en/data/events_twisted.xml:389
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_separatist\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Сепаратистов."
 
 #: src-en/data/events_twisted.xml:393
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_mantis\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных богомолов."
 
 #: src-en/data/events_twisted.xml:398
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/text"
-msgstr ""
+msgstr "Искаженные Свободные Богомолы тип Б - выпадает освежитель."
 
 #: src-en/data/events_twisted.xml:400
 msgid ""
@@ -494,7 +501,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:411
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/text"
-msgstr ""
+msgstr "Искаженные Сепаратисты тип Б - выпадает Магатама."
 
 #: src-en/data/events_twisted.xml:413
 msgid ""
@@ -512,7 +519,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:424
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/text"
-msgstr ""
+msgstr "Искаженные богомолы тип Б - выпадает Катализатор феромонов."
 
 #: src-en/data/events_twisted.xml:426
 msgid ""
@@ -530,22 +537,22 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:438
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_clan\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Клановцев."
 
 #: src-en/data/events_twisted.xml:442
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_dusk\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Вестников Заката."
 
 #: src-en/data/events_twisted.xml:446
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_engi\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных энджи."
 
 #: src-en/data/events_twisted.xml:451
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/text"
-msgstr ""
+msgstr "Искаженные Клановцы тип Б - выпадает Хранитель разума."
 
 #: src-en/data/events_twisted.xml:453
 msgid ""
@@ -563,7 +570,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:464
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/text"
-msgstr ""
+msgstr "Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты."
 
 #: src-en/data/events_twisted.xml:466
 msgid ""
@@ -581,7 +588,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:477
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/text"
-msgstr ""
+msgstr "Искаженные энджи тип В - выпадает Стимулятор дронов \"Кай\"."
 
 #: src-en/data/events_twisted.xml:479
 msgid ""
@@ -599,7 +606,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:491
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/text"
-msgstr ""
+msgstr "Искаженные Клановцы тип Б - выпадает Хранитель разума."
 
 #: src-en/data/events_twisted.xml:493
 msgid ""
@@ -617,7 +624,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:504
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/text"
-msgstr ""
+msgstr "Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты."
 
 #: src-en/data/events_twisted.xml:506
 msgid ""
@@ -635,7 +642,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:517
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/text"
-msgstr ""
+msgstr "Искаженные энджи тип В - выпадает Стимулятор дронов \"Кай\"."
 
 #: src-en/data/events_twisted.xml:519
 msgid ""
@@ -653,12 +660,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:530
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
-msgstr ""
+msgstr "Искаженные Свободные Богомолы тип Б - выпадает освежитель."
 
 #: src-en/data/events_twisted.xml:532
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:537
 msgid ""
@@ -668,7 +678,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:543
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/text"
-msgstr ""
+msgstr "Искаженные Сепаратисты тип Б - выпадает Магатама."
 
 #: src-en/data/events_twisted.xml:545
 msgid ""
@@ -686,7 +696,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:556
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/text"
-msgstr ""
+msgstr "Искаженные богомолы тип Б - выпадает Катализатор феромонов."
 
 #: src-en/data/events_twisted.xml:558
 msgid ""
@@ -704,7 +714,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:569
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/text"
-msgstr ""
+msgstr "Искаженные Монахи тип Б - выпадают Эфирные щиты вознесения."
 
 #: src-en/data/events_twisted.xml:571
 msgid ""
@@ -722,7 +732,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:582
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/text"
-msgstr ""
+msgstr "Искаженные валуны тип В - выпадает Реликвия свободы валунов."
 
 #: src-en/data/events_twisted.xml:584
 msgid ""
@@ -740,7 +750,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:595
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
-msgstr ""
+msgstr "Искаженные Затерянные Солнца тип Б - Перезагрузчик реальности."
 
 #: src-en/data/events_twisted.xml:597
 msgid ""
@@ -758,7 +768,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:608
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
-msgstr ""
+msgstr "Искаженные слизни тип В - выпадает Мальборо."
 
 #: src-en/data/events_twisted.xml:610
 msgid ""
@@ -776,7 +786,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:621
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
-msgstr ""
+msgstr "Искаженный Стелс тип Б - выпадает ?13Xzzzzzzz$"
 
 #: src-en/data/events_twisted.xml:623
 msgid ""
@@ -794,7 +804,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:634
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/text"
-msgstr ""
+msgstr "Искаженные золтаны тип В - выпадает Снятие ограничений."
 
 #: src-en/data/events_twisted.xml:636
 msgid ""
@@ -812,7 +822,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:647
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[56]/text"
-msgstr ""
+msgstr "Искаженные ланиусы тип Б - выпадает сердце."
 
 #: src-en/data/events_twisted.xml:649
 msgid ""
@@ -830,7 +840,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:660
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[57]/text"
-msgstr ""
+msgstr "Искаженные ракушки тип В - выпадает дипломат."
 
 #: src-en/data/events_twisted.xml:662
 msgid ""
@@ -848,7 +858,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:673
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[58]/text"
-msgstr ""
+msgstr "Искаженные Инженеры тип Б - выпадает Стимулятор дронов мод. II."
 
 #: src-en/data/events_twisted.xml:675
 msgid ""
@@ -866,7 +876,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:686
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[59]/text"
-msgstr ""
+msgstr "Искаженная Пустельга тип Б - эм... холодильник?"
 
 #: src-en/data/events_twisted.xml:688
 msgid ""
@@ -884,7 +894,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:699
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[60]/text"
-msgstr ""
+msgstr "Искаженная Федерация тип Б - выпадает уникальный репликатор."
 
 #: src-en/data/events_twisted.xml:701
 msgid ""
@@ -902,7 +912,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:712
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[61]/text"
-msgstr ""
+msgstr "Искаженные орхидеи тип Б - выпадает немного друзей."
 
 #: src-en/data/events_twisted.xml:714
 msgid ""
@@ -920,7 +930,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:725
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/text"
-msgstr ""
+msgstr "Искаженные кристаллины тип В - выпадает Искаженный кристалл брони."
 
 #: src-en/data/events_twisted.xml:727
 msgid ""
@@ -938,7 +948,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:738
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/text"
-msgstr ""
+msgstr "Искаженный Туко тип Б - выпадает редкий коллекционный предмет."
 
 #: src-en/data/events_twisted.xml:740
 msgid ""
@@ -956,7 +966,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_twisted.xml:751
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/text"
-msgstr ""
+msgstr "Искаженные пиявки тип В - выпадает странный излучатель."
 
 #: src-en/data/events_twisted.xml:753
 msgid ""
