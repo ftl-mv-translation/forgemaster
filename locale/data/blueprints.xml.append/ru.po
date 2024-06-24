@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 04:48+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -148,7 +148,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/class"
-msgstr "Искаженный Ренегат-Клановец"
+msgstr "Искаженный Ренегат Клановцев"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
@@ -182,7 +182,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/class"
-msgstr "Искаженный Ренегат-энджи"
+msgstr "Искаженный Ренегат энджи"
 
 #: src-en/data/blueprints.xml.append:710
 msgid ""
@@ -201,7 +201,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/class"
-msgstr "Искаженный Ренегат-свободный богомол"
+msgstr "Искаженный Ренегат свободных богомолов"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
-msgstr "Искаженный Ренегат-Сепаратист"
+msgstr "Искаженный Ренегат Сепаратистов"
 
 #: src-en/data/blueprints.xml.append:870
 msgid ""
@@ -231,7 +231,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/class"
-msgstr "Искаженный Ренегат-богомол"
+msgstr "Искаженный Ренегат богомолов"
 
 #: src-en/data/blueprints.xml.append:952
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1028
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/class"
-msgstr "Искаженный Ренегат-Монах"
+msgstr "Искаженный Ренегат Монахов"
 
 #: src-en/data/blueprints.xml.append:1029
 msgid ""
@@ -263,7 +263,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr "Искаженный Ренегат-валун"
+msgstr "Искаженный Ренегат валунов"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -278,7 +278,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/class"
-msgstr "Искаженный Ренегат-Затерянное Солнце"
+msgstr "Искаженный Ренегат Затерянных Солнц"
 
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
@@ -293,7 +293,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/class"
-msgstr "Искаженный Ренегат-Клептократия"
+msgstr "Искаженный Ренегат Клептократии"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
@@ -326,7 +326,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/class"
-msgstr "Искаженный Ренегат-золтан"
+msgstr "Искаженный Ренегат золтанов"
 
 #: src-en/data/blueprints.xml.append:1429
 msgid ""
@@ -341,7 +341,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/class"
-msgstr "Искаженный Ренегат-ланиус"
+msgstr "Искаженный Ренегат ланиусов"
 
 #: src-en/data/blueprints.xml.append:1506
 msgid ""
@@ -356,7 +356,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/class"
-msgstr "Искаженный Ренегат-ракушка"
+msgstr "Искаженный Ренегат ракушек"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
@@ -371,7 +371,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/class"
-msgstr "Искаженный Ренегат-Инженер"
+msgstr "Искаженный Ренегат Инженеров"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -416,7 +416,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/class"
-msgstr "Искаженный Ренегат-орхидея"
+msgstr "Искаженный Ренегат орхидей"
 
 #: src-en/data/blueprints.xml.append:1900
 msgid ""
@@ -431,7 +431,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/class"
-msgstr "Искаженный Ренегат-кристаллин"
+msgstr "Искаженный Ренегат кристаллинов"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
@@ -461,7 +461,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/class"
-msgstr "Искаженный Ренегат-пиявка"
+msgstr "Искаженный Ренегат пиявок"
 
 #: src-en/data/blueprints.xml.append:2138
 msgid ""
