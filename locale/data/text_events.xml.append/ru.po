@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-22 11:42+0000\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_eventsxmlappend/ru/>\n"
@@ -711,7 +711,7 @@ msgstr "Разобрать Стимулятор дронов \"Кай\"."
 #: src-en/data/text_events.xml.append:111
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_TEA_EARL\"]"
 msgstr ""
-"Встроить Чай Эрл Грей...\n"
+"Встроить чай Эрл Грей...\n"
 "  [Вкусный чай, который понравится даже ее королевскому высочеству. Дает "
 "всем союзным богомолам +20% скорости ремонта и +15 максимального здоровья]"
 
@@ -724,7 +724,7 @@ msgstr ""
 #: src-en/data/text_events.xml.append:117
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_MANTIS_RELOADER\"]"
 msgstr ""
-"Встроить Ускоритель феромонов...\n"
+"Встроить Катализатор феромонов...\n"
 "  [Снижает скорость перезарядки способностей богомолов на 20%. Снижает весь "
 "урон, получаемый экипажем богомолов на 8%]"
 
