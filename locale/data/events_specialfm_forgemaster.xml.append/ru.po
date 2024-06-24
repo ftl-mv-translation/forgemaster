@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-24 13:12+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_specialfm_forgemasterxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:46
 msgid ""
@@ -513,7 +521,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:610
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится Кузнец."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:611
 msgid ""
@@ -523,7 +531,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:612
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "Здесь находится Кузнец."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:621
 msgid ""
@@ -533,7 +541,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:627
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть, что он предлагает. (Он продает компоненты для крафта)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:632
 msgid ""
@@ -543,7 +551,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:639
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:644
 msgid ""
@@ -568,7 +576,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:677
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[8]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:680
 msgid ""
@@ -673,7 +681,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:751
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_NORMAL\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Открыть меню Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:752
 msgid ""
@@ -688,7 +696,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:767
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_RARE\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Открыть меню Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:768
 msgid ""
@@ -703,7 +711,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:784
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_RARE_PLUS\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Открыть меню Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:785
 msgid ""
@@ -728,7 +736,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:808
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$/dummyroot/FTL[2]/event[@name=\"FM_FORGEMASTER_TRADES_BOON\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Открыть меню Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:809
 msgid ""
@@ -785,12 +793,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:864
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_RELIC_COLLECTION\"]/choice[9]/text"
-msgstr ""
+msgstr "Неважно, вернуться в главное меню."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:894
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится Кузнец."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:895
 msgid ""
@@ -800,22 +808,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:896
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "Здесь находится Кузнец."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть, что он предлагает. (Он продает компоненты для крафта)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:923
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[2]/text"
-msgstr ""
+msgstr "Ознакомиться с разделом \"Модульный корпус\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:930
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:935
 msgid ""
@@ -825,22 +833,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:943
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Ознакомиться с его гордой коллекцией реликвий. [Квест доступен!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:950
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[6]/text"
-msgstr ""
+msgstr "Ознакомиться с его гордой коллекцией реликвий."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:955
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[7]/text"
-msgstr ""
+msgstr "Атаковать!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:969
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[8]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:971
 msgid ""
@@ -860,17 +868,17 @@ msgstr "Ничего не делать."
 #: src-en/data/events_specialfm_forgemaster.xml.append:994
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть, что он предлагает."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:999
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[2]/text"
-msgstr ""
+msgstr "Ознакомиться с разделом \"Модульный корпус\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1006
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1011
 msgid ""
@@ -880,22 +888,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Ознакомиться с его гордой коллекцией реликвий. [Квест доступен!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[6]/text"
-msgstr ""
+msgstr "Ознакомиться с его гордой коллекцией реликвий."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1029
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[7]/text"
-msgstr ""
+msgstr "Атаковать!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1043
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[8]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1045
 msgid ""
@@ -945,12 +953,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1082
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Посмотреть, что он предлагает."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1087
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1092
 msgid ""
@@ -975,7 +983,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1111
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[7]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1113
 msgid ""
@@ -1025,7 +1033,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1155
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1160
 msgid ""
@@ -1045,7 +1053,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1177
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1179
 msgid ""
@@ -1080,7 +1088,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1237
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1242
 msgid ""
@@ -1110,7 +1118,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1266
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[6]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1268
 msgid ""
@@ -1135,13 +1143,13 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1301
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать новое оружие за определенную цену."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1307
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[@req=\"pilot\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1309
 msgid ""
@@ -1170,7 +1178,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1333
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[3]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1347
 msgid ""
@@ -1186,7 +1194,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE_NONE\"]/choice[@req=\"pilot\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1361
 msgid ""
@@ -1215,7 +1223,7 @@ msgstr "Заняться чем-либо на корабле."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1385
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE_NONE\"]/choice[3]/text"
-msgstr ""
+msgstr "Отклонить его предложение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1415
 msgid ""
