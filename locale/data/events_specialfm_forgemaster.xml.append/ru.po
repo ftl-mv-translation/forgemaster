@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 13:12+0000\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -561,12 +561,12 @@ msgstr "Проверить рецепты кузницы."
 #: src-en/data/events_specialfm_forgemaster.xml.append:651
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Ознакомиться с его богатой коллекцией реликвий. [Квест доступен!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:657
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[6]/text"
-msgstr ""
+msgstr "Ознакомиться с его богатой коллекцией реликвий."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:662
 msgid ""
@@ -897,7 +897,7 @@ msgstr "Ознакомиться с его богатой коллекцией �
 #: src-en/data/events_specialfm_forgemaster.xml.append:1024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[6]/text"
-msgstr "Ознакомиться с его гордой коллекцией реликвий."
+msgstr "Ознакомиться с его богатой коллекцией реликвий."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1029
 msgid ""
@@ -974,12 +974,12 @@ msgstr "Проверить рецепты кузницы."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1097
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Ознакомиться с его богатой коллекцией реликвий и диковинок."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1101
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "Ознакомиться с его богатой коллекцией реликвий и диковинок."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1106
 msgid ""
