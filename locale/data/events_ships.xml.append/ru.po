@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/ru/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:33
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/text"
-msgstr ""
+msgstr "Из туннеля появляется массивный крейсер конструкции контрабандистов!"
 
 #: src-en/data/events_ships.xml.append:36
 msgid ""
@@ -26,16 +26,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль, и вы принимаете вызов. \"Мы - Мультивссселенссские "
+"торговцы органами. Пожалуйссста, немедленно пожертвуйте сссвои органы. Это "
+"нужно для благого дела."
 
 #: src-en/data/events_ships.xml.append:40
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Как насчет... нет?"
 
 #: src-en/data/events_ships.xml.append:42
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Пожертвуй немедленно. Ты мерзавец\"."
 
 #: src-en/data/events_ships.xml.append:44
 msgid ""
@@ -45,7 +48,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:46
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""
@@ -56,10 +59,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много лома и "
+"припасов. Вы также обнаруживаете лабораторию по производству химических "
+"реактивов, выходящих за рамки современной науки, под названием \"Амброзия\". "
+"От нее исходит особая потусторонняя аура. Программное обеспечение, "
+"предоставленное вам К.У.Р.А, также позволяет просканировать разлом, из "
+"которого прибыло судно, и быстро загружает координаты в вашу базу данных. "
+"Программа выводит на экран простое сообщение: \"Встреть их здесь, Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:85
 msgid "data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/text"
 msgstr ""
+"Вы захватываете лабораторию \"Амброзия\" и начинаете воспроизводить препарат "
+"Амброзия, а затем обязательно раздаете его всем членам своего экипажа."
 
 #: src-en/data/events_ships.xml.append:87
 msgid ""
@@ -70,6 +82,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/choice/event/text"
 msgstr ""
+"Ваш экипаж теперь невосприимчив к эффектам контроля разума. [Улучшение было "
+"встроено!]"
 
 #: src-en/data/events_ships.xml.append:91
 msgid ""
@@ -82,16 +96,23 @@ msgstr "..."
 
 #: src-en/data/events_ships.xml.append:117
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_BRAIN_DONATION\"]/text"
-msgstr ""
+msgstr "Вы разбираете Хранителя разума, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:132
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На аборту зачищенного крейсера осталось много "
+"лома и припасов. Вы также обнаруживаете лабораторию по воспроизводству "
+"химических веществ, выходящих за рамки современной науки, под названием "
+"\"Амброзия\". От нее исходит потусторонняя аура. Программное обеспечение, "
+"предоставленное вам К.У.Р.А, также позволяет просканировать разлом, из "
+"которого прибыло судно, и быстро загружает координаты в вашу базу данных. "
+"Программа выводит на экран простое сообщение: \"Встреть их здесь, Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:176
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/text"
-msgstr ""
+msgstr "Из туннеля появляется массивный крейсер конструкции Вестников Заката!"
 
 #: src-en/data/events_ships.xml.append:179
 msgid ""
@@ -102,16 +123,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль, и вы принимаете вызов. Они удивительно вежливы и сразу "
+"приходят к делу. \"Ужасно извиняюсь, мы идем на рекорд Мультивселенной "
+"Гиннесса по количеству военных преступлений за один бой. Вы ведь простите "
+"нас?\""
 
 #: src-en/data/events_ships.xml.append:183
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "... нет?"
 
 #: src-en/data/events_ships.xml.append:185
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Боюсь, у вас нет выбора. Всего доброго, и слава всем Вестникам Заката!\""
 
 #: src-en/data/events_ships.xml.append:187
 msgid ""
@@ -121,7 +147,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:189
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:193
 msgid ""
@@ -132,10 +158,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите комплект странного вида жилетов с надписью "
+"\"Мировой рекорд\". От них исходит потусторонняя аура. Программное "
+"обеспечение, предоставленное вам К.У.Р.А, также позволяет просканировать "
+"разлом, из которого прибыло судно, и быстро загружает координаты в вашу базу "
+"данных. Программа выводит на экран простое сообщение: \"Встреть их здесь, "
+"Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:227
 msgid "data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/text"
 msgstr ""
+"Вы достаете Сумеречные жилеты и заставляете всех членов экипажа надеть их. "
+"Странно, но никто не сопротивляется и не спорит, словно загипнотизированные "
+"аурой жилетов."
 
 #: src-en/data/events_ships.xml.append:229
 msgid ""
@@ -146,6 +182,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/choice/event/text"
 msgstr ""
+"Добавляет эффект смерти всем не золтанским союзникам, заставляя их "
+"взрываться, нанося 45 единиц урона врагам, и иногда устраивая пожары. ["
+"Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:234
 msgid ""
@@ -154,12 +193,19 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_ships.xml.append:254
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_DEATH_VESTS2\"]/text"
-msgstr ""
+msgstr "Вы разбираете Сумеречные жилеты, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:269
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите набор странных жилетов с надписью "
+"\"Мировой рекорд\". От них исходит потусторонняя аура. Программное "
+"обеспечение, предоставленное вам К.У.Р.А, также позволяет просканировать "
+"разлом, из которого прибыло судно, и быстро загружает координаты в вашу базу "
+"данных. Программа выводит на экран простое сообщение: \"Встреть их здесь, "
+"Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:311
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/text"
@@ -177,21 +223,32 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Не беспокойтесь. Мой корабль постоянно восстанавливает себя с помощью "
+"наномашин, капитан. Он упрочняется в ответ на физические повреждения\"."
 
 #: src-en/data/events_ships.xml.append:320
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/choice/text"
 msgstr ""
+"Что это значит? [Энджи, похоже, увеличивает количество дронов на борту "
+"своего корабля]"
 
 #: src-en/data/events_ships.xml.append:330
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите странного вида Стимулятор дронов с надписью "
+"\"Кай\". Программное обеспечение, предоставленное вам К.У.Р.А, также "
+"позволяет просканировать разлом, из которого прибыло судно, и быстро "
+"загружает координаты в вашу базу данных. Программа выводит на экран простое "
+"сообщение: \"Встреть их здесь, Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:353
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/text"
 msgstr ""
+"Вы устанавливаете Стимулятор дронов \"Кай\" во внутренние системы корабля."
 
 #: src-en/data/events_ships.xml.append:355
 msgid ""
@@ -202,6 +259,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/choice/event/text"
 msgstr ""
+"Это улучшение позволяет дронам перезаряжать свои способности в два раза "
+"быстрее! [Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:359
 msgid ""
@@ -211,16 +270,24 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:379
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Вы разбираете Стимулятор дронов \"Кай\", чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:394
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите странного вида Стимулятор дронов с "
+"надписью \"Кай\". Программное обеспечение, предоставленное вам К.У.Р.А, "
+"также позволяет просканировать разлом, из которого прибыло судно, и быстро "
+"загружает координаты в вашу базу данных. Программа выводит на экран простое "
+"сообщение: \"Встреть их здесь, Ренегат\"."
 
 #: src-en/data/events_ships.xml.append:433
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции Свободных богомолов! "
+"Похоже, он окрашен в яркие цвета, и на нем красуется странный флаг."
 
 #: src-en/data/events_ships.xml.append:436
 msgid ""
@@ -231,16 +298,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль. \"Я говорить, добрый человек, мы здесь потому, чтобы "
+"завоевать эту вселенный для ее королевский высочества. ЗА БРИТАНИЮ! ВПЕРЕД!\""
 
 #: src-en/data/events_ships.xml.append:440
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "О таком секторе я не слышал."
 
 #: src-en/data/events_ships.xml.append:442
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Ты ОСКОРБЛЯТЬ ее величества? Ты ОСКОРБЛЯТЬ всех нас, до последний "
+"Фредерика. Как ТЫ СМЕТЬ?!\""
 
 #: src-en/data/events_ships.xml.append:444
 msgid ""
@@ -250,7 +321,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:446
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:450
 msgid ""
@@ -261,15 +332,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите огромный тайник с чаем, которого хватит на "
+"целую армию."
 
 #: src-en/data/events_ships.xml.append:476
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:483
 msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/text"
-msgstr ""
+msgstr "Вы добавляете чай Эрл Грей в корабельную столовую."
 
 #: src-en/data/events_ships.xml.append:485
 msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/text"
@@ -279,6 +353,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/event/text"
 msgstr ""
+"Вкусный чай, который понравится даже ее королевскому высочеству. Дает всем "
+"союзным богомолам +20% скорости ремонта и +15 максимального здоровья. ["
+"Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:489
 msgid ""
@@ -288,51 +365,58 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:499
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:503
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[@req=\"scrapped_freemantis\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:507
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:509
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_TEA_EARL\"]/text"
-msgstr ""
+msgstr "Вы разбираете Чай Эрл Грей, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:523
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите огромный тайник с чаем, которого хватит, "
+"чтобы напоить целую армию."
 
 #: src-en/data/events_ships.xml.append:534
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:543
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:547
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[@req=\"scrapped_freemantis\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:551
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать чай Эрл Грей."
 
 #: src-en/data/events_ships.xml.append:562
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции Затерянных Солнц! "
+"Корабль, похоже, бронирован и защищен мощным древним щитом. На нем "
+"установлен один из самых страшных арсеналов, которые вы когда-либо видели. "
+"Однако что-то в нем... не так."
 
 #: src-en/data/events_ships.xml.append:565
 msgid ""
@@ -340,33 +424,48 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_ships.xml.append:567
+#, fuzzy
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Капитан Затерянных Солнц ворчит. \"Хмф. Наконец-то мы нашли тебя, сынок. Мы "
+"прошли через бесчисленные реальности ради этого момента. Похоже, что ткань "
+"пространства и времени уже не выдержала этой колоссальной авантюры. Я бы "
+"поставил на то, что у нас есть 90 секунд, прежде чем мы развалимся на части. "
+"Но не бойся, этого времени вполне достаточно, чтобы остановить такой "
+"галактический ужас, как ты! Даже искривление реальности не сможет нас "
+"остановить!\"\n"
+"\t\t\t\t\tМощный сигнал помех поражает ваш корабль, все боевые модули и "
+"боевые системы отключены! Некоторые из ваших систем также повреждены."
 
 #: src-en/data/events_ships.xml.append:573
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:581
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Что мне теперь делать?"
 
 #: src-en/data/events_ships.xml.append:590
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите странный искаженный аппарат, который, похоже, "
+"является какой-то технологией."
 
 #: src-en/data/events_ships.xml.append:601
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:608
 msgid "data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/text"
 msgstr ""
+"Вы устанавливаете Перезагрузчик реальности во внутренние системы своего "
+"корабля."
 
 #: src-en/data/events_ships.xml.append:610
 msgid ""
@@ -377,6 +476,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/choice/event/text"
 msgstr ""
+"Повышает скорость перезарядки оружия и щита на 15%. [Улучшение было "
+"встроено!]"
 
 #: src-en/data/events_ships.xml.append:614
 msgid ""
@@ -386,52 +487,58 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:625
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:629
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[@req=\"scrapped_lostsun\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:633
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:635
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_REALITY_RELOADER\"]/text"
-msgstr ""
+msgstr "Вы разбираете Перезагрузчик реальности, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:649
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите странный искаженный аппарат, который, похоже, "
+"является какой-то технологией."
 
 #: src-en/data/events_ships.xml.append:659
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:668
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:672
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[@req=\"scrapped_lostsun\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:676
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Перезагрузчик реальности."
 
 #: src-en/data/events_ships.xml.append:682
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/text"
 msgstr ""
+"Через 15 секунд после начала боя вы замечаете, как внутри вражеского корабля "
+"раздается мощный взрыв. Что, черт возьми, только что произошло? Большая "
+"часть корабельных двигателей, похоже, тоже разрушена."
 
 #: src-en/data/events_ships.xml.append:686
 msgid ""
@@ -441,12 +548,15 @@ msgstr "Продолжить бой..."
 #: src-en/data/events_ships.xml.append:690
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:700
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/text"
 msgstr ""
+"Еще один мощный взрыв раздается внутри вражеского корабля. Система дронов "
+"вражеского корабля разваливаются на части, и вы видите, как бесчисленные "
+"дроны разлетаются из грузового отсека корабля."
 
 #: src-en/data/events_ships.xml.append:704
 msgid ""
@@ -456,12 +566,15 @@ msgstr "Продолжить бой..."
 #: src-en/data/events_ships.xml.append:708
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:718
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/text"
 msgstr ""
+"Еще один мощный взрыв раздается внутри вражеского корабля. Система щитов "
+"вражеского корабля разрушается взрывом, и она едва сохраняет "
+"работоспособность."
 
 #: src-en/data/events_ships.xml.append:722
 msgid ""
@@ -471,12 +584,14 @@ msgstr "Продолжить бой..."
 #: src-en/data/events_ships.xml.append:726
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:736
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/text"
 msgstr ""
+"Еще один мощный взрыв раздается внутри вражеского корабля. Оружие противника "
+"принимает на себя мощный удар и едва сохраняет работоспособность."
 
 #: src-en/data/events_ships.xml.append:740
 msgid ""
@@ -486,12 +601,14 @@ msgstr "Продолжить бой..."
 #: src-en/data/events_ships.xml.append:744
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:754
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/text"
 msgstr ""
+"Еще один мощный взрыв раздается внутри вражеского корабля. Система оружия "
+"врага не выдержала очередного взрыва и была выведена из строя!"
 
 #: src-en/data/events_ships.xml.append:758
 msgid ""
@@ -501,22 +618,26 @@ msgstr "Продолжить бой..."
 #: src-en/data/events_ships.xml.append:762
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Вражеский корабль разрывает на части ткань реальности."
 
 #: src-en/data/events_ships.xml.append:772
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/text"
 msgstr ""
+"Кажется, что весь корабль разрывается изнутри! К счастью, его грузовой отсек "
+"успевает отбросить в вашу сторону до того, как он полностью взрывается."
 
 #: src-en/data/events_ships.xml.append:776
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/choice/text"
-msgstr ""
+msgstr "Это было... странно."
 
 #: src-en/data/events_ships.xml.append:791
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции богомолов! Кажется, что "
+"по его корпусу тянется огромный разлом."
 
 #: src-en/data/events_ships.xml.append:795
 msgid ""
@@ -527,16 +648,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Корабль необычно медленно вызывает вас. \"Мы убьем тебя, глупый, уродливый "
+"не-богомольский болван!\" Они кажутся дружелюбными ребятами."
 
 #: src-en/data/events_ships.xml.append:799
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Действительно ли мы должны сражаться? Зачем?"
 
 #: src-en/data/events_ships.xml.append:801
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мы заскучали, и как только выясним, как работает наш запылившийся "
+"телепортатор, ты умрешь, и станешь ОЧЕНЬ мертвым!\""
 
 #: src-en/data/events_ships.xml.append:803
 msgid ""
@@ -547,6 +672,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Похоже, у них возникли проблемы с питанием телепортатора. Действуйте быстро! "
+"У вас не будет времени на проверку перед боем."
 
 #: src-en/data/events_ships.xml.append:807
 msgid ""
@@ -556,12 +683,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:809
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:815
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Противник восстановит работоспособность своего телепортатора через 1 минуту."
 
 #: src-en/data/events_ships.xml.append:820
 msgid ""
@@ -572,15 +700,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите странный мешочек с феромонами, которые "
+"необычно светятся."
 
 #: src-en/data/events_ships.xml.append:849
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:856
 msgid "data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/text"
 msgstr ""
+"Вы установили Катализатор феромонов во внутренние системы своего корабля."
 
 #: src-en/data/events_ships.xml.append:858
 msgid ""
@@ -591,6 +723,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/choice/event/text"
 msgstr ""
+"Ускоряет перезарядку способностей богомолов на 20%. Снижает весь урон, "
+"получаемый экипажем богомолов на 8%. [Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:862
 msgid ""
@@ -600,50 +734,56 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:874
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:878
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[@req=\"scrapped_mantis\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:882
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:884
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MANTIS_RELOADER\"]/text"
-msgstr ""
+msgstr "Вы разбираете Катализатор феромонов, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:898
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите странный мешочек с феромонами с необычным "
+"свечением."
 
 #: src-en/data/events_ships.xml.append:912
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:921
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:925
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[@req=\"scrapped_mantis\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:929
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Катализатор феромонов."
 
 #: src-en/data/events_ships.xml.append:941
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции Монахов! Нехарактерно "
+"для кораблей золтанских монахов быть так хорошо вооруженными, хотя, похоже, "
+"большинство их орудий связаны с ионами и оглушением!"
 
 #: src-en/data/events_ships.xml.append:944
 msgid ""
@@ -654,6 +794,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Вам нужно научиться расслабляться и медитировать. К счастью, у нас как раз "
+"есть оборудование, чтобы заставить вас, если вы не подчинитесь\"."
 
 #: src-en/data/events_ships.xml.append:950
 msgid ""
@@ -664,16 +806,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите модуль эфирного щита красного цвета..."
 
 #: src-en/data/events_ships.xml.append:969
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть щиты Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:976
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/text"
 msgstr ""
+"Вы устанавливает Эфирные щиты вознесения во внутренние системы щитов вашего "
+"корабля."
 
 #: src-en/data/events_ships.xml.append:978
 msgid ""
@@ -684,6 +830,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/event/text"
 msgstr ""
+"Эффекты: Дает дополнительные 6 единиц целостности энергетического щита, "
+"который суммируется с другими энергетическими щитами. [Улучшение было "
+"встроено!]"
 
 #: src-en/data/events_ships.xml.append:982
 msgid ""
@@ -693,51 +842,55 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:993
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть щиты Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:997
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[@req=\"scrapped_monk\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1001
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1003
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_FM_UPG_AETHER_SHIELDS\"]/text"
-msgstr ""
+msgstr "Вы разбираете Эфирные щиты вознесения, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1017
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите модуль эфирного щита красного цвета..."
 
 #: src-en/data/events_ships.xml.append:1027
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть щиты Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1036
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть щиты Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1040
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[@req=\"scrapped_monk\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1044
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Эфирные щиты вознесения."
 
 #: src-en/data/events_ships.xml.append:1056
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции валунов! При дальнейшем "
+"изучении становится ясно, что весь корабль сделан из золота!"
 
 #: src-en/data/events_ships.xml.append:1059
 msgid ""
@@ -748,16 +901,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль, и вы неохотно соглашаетесь. \"Пять минут, пять минут - "
+"это все, что мне нужно, чтобы надрать тебе задницу\". Валун со странным "
+"акцентом говорит вам злобным тоном."
 
 #: src-en/data/events_ships.xml.append:1065
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Пусть это будет три минуты, болван."
 
 #: src-en/data/events_ships.xml.append:1067
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Хорошо, это был хороший ответ... теперь приготовься к смерти\"."
 
 #: src-en/data/events_ships.xml.append:1069
 msgid ""
@@ -768,6 +924,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Корабль активирует 4 артиллерийских орудия. Они медленно заряжаются, но "
+"имеют цепной эффект. Лучше поторопиться!"
 
 #: src-en/data/events_ships.xml.append:1075
 msgid ""
@@ -778,15 +936,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Кроме того, вам удастся найти таинственную крошечную статуэтку с "
+"потусторонней аурой."
 
 #: src-en/data/events_ships.xml.append:1100
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Реликвия свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1107
 msgid "data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/text"
 msgstr ""
+"Вы устанавливаете Реликвия свободы валунов во внутренние системы вашего "
+"корабля."
 
 #: src-en/data/events_ships.xml.append:1109
 msgid ""
@@ -797,6 +960,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/choice/event/text"
 msgstr ""
+"Эта крошечная статуэтка бодрит ваш экипаж валунов, они увеличивают скорость "
+"передвижения до 1.8х! [Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:1113
 msgid ""
@@ -806,46 +971,49 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1124
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Реликвия свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1128
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[@req=\"scrapped_rock\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Реликвию свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1132
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Реликвию свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1134
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FREEDOM_ROCK\"]/text"
-msgstr ""
+msgstr "Вы разбираете Реликвию свободы валунов, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1148
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите таинственную крошечную статуэтку с "
+"потусторонней аурой."
 
 #: src-en/data/events_ships.xml.append:1158
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Реликвия свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1167
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Реликвия свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1171
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[@req=\"scrapped_rock\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Реликвию свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1175
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Реликвию свободы валунов."
 
 #: src-en/data/events_ships.xml.append:1187
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/text"
@@ -863,40 +1031,53 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Ничто не является полностью инь и не является полностью ян. Все вещи в "
+"материальной вселенной содержат в себе семя своей противоположной силы... "
+"Поэтому инь может стать ян, а ян может стать инь, хотя для целостности "
+"необходимы и инь, и ян\". Все зависит от точки зрения - некоторые из самых "
+"разрушительных сил в мире (огонь и вода) также могут обладать силой красоты."
 
 #: src-en/data/events_ships.xml.append:1199
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Противник медленно переключается между двумя аурами."
 
 #: src-en/data/events_ships.xml.append:1204
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "... я прошу прощения?"
 
 #: src-en/data/events_ships.xml.append:1206
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Я знаю, что я не мастер... но величие - в самом акте творения, а не "
+"обязательно в готовом продукте. Творчество - это инь и янь наших "
+"потребностей и дверь к красоте, через которую мы все хотим пройти. "
+"Творчество - это то, как я говорю миру, что люблю его. Убивая тебя, я говорю "
+"тебе, что я люблю тебя\"."
 
 #: src-en/data/events_ships.xml.append:1208
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Это быстро переросло в конфликт."
 
 #: src-en/data/events_ships.xml.append:1219
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов.. Вы также находите небольшой таинственный амулет, обладающий "
+"потусторонней аурой."
 
 #: src-en/data/events_ships.xml.append:1229
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Магатама."
 
 #: src-en/data/events_ships.xml.append:1236
 msgid "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/text"
-msgstr ""
+msgstr "Вы устанавливаете Магатаму в систему вооружения вашего корабля."
 
 #: src-en/data/events_ships.xml.append:1238
 msgid ""
@@ -907,6 +1088,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/event/text"
 msgstr ""
+"Этот крошечный амулет увеличивает на 40% скорость исцеления и на 5% "
+"сопротивления урону для всех членов вашего экипажа. [Улучшение было "
+"встроено!]"
 
 #: src-en/data/events_ships.xml.append:1242
 msgid ""
@@ -916,50 +1100,55 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1253
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Магатама."
 
 #: src-en/data/events_ships.xml.append:1257
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[@req=\"scrapped_separatist\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Магатаму."
 
 #: src-en/data/events_ships.xml.append:1261
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Магатаму."
 
 #: src-en/data/events_ships.xml.append:1263
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_AUG_MAGATAMA\"]/text"
-msgstr ""
+msgstr "Вы разбираете Магатаму, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1277
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также забираете с корабля небольшой таинственный амулет, "
+"обладающий потусторонней аурой."
 
 #: src-en/data/events_ships.xml.append:1287
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Магатама."
 
 #: src-en/data/events_ships.xml.append:1296
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Магатама."
 
 #: src-en/data/events_ships.xml.append:1300
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[@req=\"scrapped_separatist\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Магатаму."
 
 #: src-en/data/events_ships.xml.append:1304
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Магатаму."
 
 #: src-en/data/events_ships.xml.append:1310
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/text"
 msgstr ""
+"Вы замечаете, что странное свечение, исходящее от корабля, меняется с белого "
+"на черный. Похоже, что характеристики систем корабля меняются!"
 
 #: src-en/data/events_ships.xml.append:1315
 msgid ""
@@ -970,10 +1159,13 @@ msgstr "Продолжить бой..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Текущая аура: черная. Противник медленно переключается между двумя аурами."
 
 #: src-en/data/events_ships.xml.append:1329
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/text"
 msgstr ""
+"Вы замечаете, как странное свечение, исходящее от корабля, меняется с "
+"черного на белый. Похоже, что характеристики систем корабля меняются!"
 
 #: src-en/data/events_ships.xml.append:1334
 msgid ""
@@ -984,6 +1176,7 @@ msgstr "Продолжить бой..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Текущая аура: белая. Противник медленно переключается между двумя аурами."
 
 #: src-en/data/events_ships.xml.append:1354
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/text"
@@ -1001,16 +1194,28 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"На вашем видеоэкране не видно ничего, кроме клубящегося серого дыма, но "
+"постепенно появляется слизень в очень официальных рыцарских доспехах, "
+"держащий в руках сигару, которая почти такая же большая, как он сам!\n"
+"\t\t\t\t\t\"А, еще большшше топлива для моих сссоляных коссстров! Идем, "
+"юнец, ты получишшшь ответы на животрепещущие вопросссы, когда я очищу эту "
+"вссселенную от всссех ссследов древних!\""
 
 #: src-en/data/events_ships.xml.append:1363
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Но почему вы используете оружие древних?"
 
 #: src-en/data/events_ships.xml.append:1365
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Что? Оружие древних? Это всссего лишшшь мои зажигалки, думаешшшь, я "
+"сссмогу подкурить эту шшштуку ссс помощью ссспичек?\" Слизень делает "
+"затяжку, которая длится несколько минут, прежде чем продолжить.\n"
+"\n"
+"\t\t\t\t\t\t\t\"Ну что ж, не похоже, что ты сссможешшшь оссстановить меня с "
+"этой шшштукой\"."
 
 #: src-en/data/events_ships.xml.append:1372
 msgid ""
@@ -1021,15 +1226,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите пачку сигарет."
 
 #: src-en/data/events_ships.xml.append:1393
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1400
 msgid "data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/text"
 msgstr ""
+"Вы устанавливаете Мальборо Квазар в систему вентиляции вашего корабля "
+"(зачем??)."
 
 #: src-en/data/events_ships.xml.append:1402
 msgid ""
@@ -1040,6 +1249,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/choice/event/text"
 msgstr ""
+"Эти сигареты, вызывающие гиперзависимость, каким-то образом повышают "
+"жизненный тонус, но вызывают ужасные проблемы с легкими. Кажется полезным! "
+"...если вы дурак. 2х максимальное здоровье для всех слизней, но 3х "
+"получаемый урон от удушья. [Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:1406
 msgid ""
@@ -1049,51 +1262,55 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1417
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1421
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[@req=\"scrapped_slug\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1425
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1427
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MALBORO_RED\"]/text"
-msgstr ""
+msgstr "Вы разбираете Мальборо Квазар, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1441
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите пачку сигарет."
 
 #: src-en/data/events_ships.xml.append:1451
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1460
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1464
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[@req=\"scrapped_slug\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1468
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Мальборо Квазар."
 
 #: src-en/data/events_ships.xml.append:1479
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный Стелс крейсер! Кажется, что-то... не так с "
+"его камуфляжем. Фиолетовый?"
 
 #: src-en/data/events_ships.xml.append:1482
 msgid ""
@@ -1104,6 +1321,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль, но как только вы отвечаете, капитан начинает нести "
+"ахинею и бред. \"ОХ, я опять установил не тот аддон. Я просто хотел поиграть "
+"в Captain's Edition, и забыл установить FTL: Source\"."
 
 #: src-en/data/events_ships.xml.append:1486
 msgid ""
@@ -1114,6 +1334,8 @@ msgstr "О чем ты говоришь?"
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"О, отлично, ты, должно быть, такой же баг. Придется тебя удалить, "
+"приятель\"."
 
 #: src-en/data/events_ships.xml.append:1490
 msgid ""
@@ -1124,6 +1346,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Корабль активирует свои орудия. Они выглядят странно, но с первого взгляда "
+"не слишком опасны."
 
 #: src-en/data/events_ships.xml.append:1496
 msgid ""
@@ -1134,6 +1358,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов.. Вы также нахо-[Ошибка движка!]\n"
+"\n"
+"\t\t\tОдин или несколько файлов VMT не могут быть загружены!\n"
+"\n"
+"\t\t\tОтсутствует материал : materials/FTL: SOURCE/weapon/"
+"lowfield_textureg.vmt Отсутствует материал : materialsweapon/texturemap.vmt "
+"Отсутствует материал : materials/grass/realistic3b.vmt"
 
 #: src-en/data/events_ships.xml.append:1526
 msgid ""
@@ -1144,6 +1376,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите то, что кажется небольшим мини-"
+"холодильником с надписью \"Собственность Гозера\". Вы также нахо-[Ошибка "
+"движка!]\n"
+"\n"
+"\t\t\tНе удалось загрузить один или несколько файлов VMT!\n"
+"\n"
+"\t\t\tОтсутствует материал : materials/FTL: SOURCE/weapon/"
+"lowfield_textureg.vmt Отсутствует материал : materialsweapon/texturemap.vmt "
+"Отсутствует материал : materials/grass/realistic3b.vmt"
 
 #: src-en/data/events_ships.xml.append:1548
 msgid ""
@@ -1167,36 +1409,50 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Корабль Федерации, это КФБ-65. Ваша голова в настоящее время разыскивается "
+"несколькими межпространственными правительствами. Однако мы прибыли сюда не "
+"за этим. Мы обнаружили, что вы нарушаете протокол ЮХ534-В, в котором четко "
+"сказано, что военные корабли, превысившие максимальный порог искривления "
+"реальности, установленный для этой вселенной, подлежат... вознаграждению и "
+"игнорированию! Мне жаль, но таков закон. Заберите наше вознаграждение и "
+"покиньте этот сектор, или ИНАЧЕ!\""
 
 #: src-en/data/events_ships.xml.append:1567
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Подождите... что? Конечно, я возьму вашу награду."
 
 #: src-en/data/events_ships.xml.append:1572
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Спасибо, корабль Федерации. Мы также конфискуем это... ради галактической "
+"безопасности, конечно\". Похоже, они взломали ваши системы и удалили "
+"Взломщик МВ-приводов К.У.Р.А.!"
 
 #: src-en/data/events_ships.xml.append:1577
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Подождите, это не было частью сделки!"
 
 #: src-en/data/events_ships.xml.append:1579
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Прощай, жадный недоумок\". Отвечает золтанский капитан, быстро уходя в "
+"прыжок."
 
 #: src-en/data/events_ships.xml.append:1587
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я не хочу ничего из того, что вы предлагаете."
 
 #: src-en/data/events_ships.xml.append:1590
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Корабль Федерации, ваши действия нарушают наши законы. Приготовьтесь к "
+"быстрой и заслуженной смерти."
 
 #: src-en/data/events_ships.xml.append:1594
 msgid ""
@@ -1207,16 +1463,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите странное устройство, которое, кажется, "
+"излучает потустороннюю энергию."
 
 #: src-en/data/events_ships.xml.append:1615
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1621
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
-msgstr ""
+msgstr "Вы устанавливаете Снятие ограничений в арсенал вашего корабля."
 
 #: src-en/data/events_ships.xml.append:1623
 msgid ""
@@ -1227,6 +1486,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/choice/event/text"
 msgstr ""
+"Активная способность: Золтаны получают на 40% меньше урона и наносят 1.3х "
+"боевого урона. Пока эта способность активна, они не вырабатывают энергию. ["
+"Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:1628
 msgid ""
@@ -1236,52 +1498,58 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1639
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1643
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[@req=\"scrapped_zoltan\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1647
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1649
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
-msgstr ""
+msgstr "Вы разбираете Снятие ограничений, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1663
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите странный мешочек с феромонами с необычным "
+"свечением."
 
 #: src-en/data/events_ships.xml.append:1673
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1682
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1686
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[@req=\"scrapped_zoltan\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1690
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Снятие ограничений."
 
 #: src-en/data/events_ships.xml.append:1701
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции ракушек! Сквозь трещины "
+"на корабле пробивается яркий свет, пульсирующий какими-то очень странными "
+"цветами."
 
 #: src-en/data/events_ships.xml.append:1704
 msgid ""
@@ -1292,16 +1560,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"К сожалению, с тех пор как меня заразили этим отвратительным биооружием, я "
+"изо всех сил стараюсь держать себя в карантине в остатках своей Вселенной. "
+"Почему вы вытащили меня сюда - ума не приложу. Биооружие в моей крови быстро "
+"мутирует и распространяется еще быстрее. Пожалуйста, взорвите мой корабль... "
+"пожалуйста. Я окажу вам честное сопротивление, но вы должны позаботиться о "
+"том, чтобы никто и никогда не использовал это биооружие, потому что за "
+"несколько недель оно станет ужасающе опасным. Пожалуйста, остановите меня\"."
 
 #: src-en/data/events_ships.xml.append:1708
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Хорошо, я выполню вашу просьбу."
 
 #: src-en/data/events_ships.xml.append:1710
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"Корабль активирует свое оружие. Похоже, это газовое оружие; защищайте свой "
+"экипаж как можно лучше! Кроме того, вы заметили, что вражеский экипаж "
+"кажется очень выносливым; бой с экипажем будет очень опасным."
 
 #: src-en/data/events_ships.xml.append:1714
 msgid ""
@@ -1312,21 +1590,32 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/text"
 msgstr ""
+"Причудливое судно уничтожено! Среди его обломков осталось много металлолома "
+"и припасов. Вы также находите дипломат с бесчисленными шприцами, "
+"наполненными неоново-фиолетовой жидкостью, и, похоже, они не были должным "
+"образом запечатаны. Кажется, что она излучает потустороннюю энергию. Вы "
+"вспоминаете, что ракушка велел вам уничтожить его."
 
 #: src-en/data/events_ships.xml.append:1735
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "У вас уже есть Горючее биооружие."
 
 #: src-en/data/events_ships.xml.append:1739
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/text"
 msgstr ""
+"Встроить Горючее биооружие...\n"
+"\t\t\t\t[Это биооружие заражает всех членов экипажа, наделяя их активной "
+"способностью \"Горение\". Для расы ракушек существующие способности горения "
+"будут улучшены: обычно они стоят меньше здоровья или обладают большей силой]"
 
 #: src-en/data/events_ships.xml.append:1744
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/text"
 msgstr ""
+"Вы поднимаете Горючее биооружие на борт своего корабля, не понимая, что, "
+"отказавшись уничтожить его, вы заразили весь свой экипаж."
 
 #: src-en/data/events_ships.xml.append:1746
 msgid ""
@@ -1337,6 +1626,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/choice/event/text"
 msgstr ""
+"Это биооружие заражает всех членов вашего экипажа, наделяя их активной "
+"способностью Горение, даже тех, у кого уже есть активные способности. После "
+"заражения носитель не может от него избавиться. Что касается расы ракушек, "
+"то их существующие способности Горения будут улучшены, как правило, они "
+"будут отнимать меньшее количество здоровья или обладать большей силой. ["
+"Улучшение было встроено!]"
 
 #: src-en/data/events_ships.xml.append:1750
 msgid ""
@@ -1346,27 +1641,32 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1760
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "У вас уже есть Горючее биооружие."
 
 #: src-en/data/events_ships.xml.append:1764
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[@req=\"scrapped_shell\"]/text"
-msgstr ""
+msgstr "Вы уже разобрали Горючее биооружие."
 
 #: src-en/data/events_ships.xml.append:1768
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Разобрать Горючее биооружие."
 
 #: src-en/data/events_ships.xml.append:1770
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/event/text"
 msgstr ""
+"Вы уничтожаете Горючее биооружие (как можно безопаснее) и выбрасываете его "
+"со своего корабля, а затем разбираете обломки вражеского корабля на ценные "
+"ресурсы."
 
 #: src-en/data/events_ships.xml.append:1823
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/text"
 msgstr ""
+"Кажется, что это конец для бедной ракушки, но его корабль обрушивает на ваш "
+"волну ужасающе выглядящих дронов! Возможно, это месть?"
 
 #: src-en/data/events_ships.xml.append:1826
 msgid ""
@@ -1376,12 +1676,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:1828
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "Они продолжают прибывать! Вам придется уничтожить сам корабль!"
 
 #: src-en/data/events_ships.xml.append:1841
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/text"
 msgstr ""
+"Из туннеля появляется массивный крейсер конструкции повстанцев! Он похож на "
+"медицинское судно, но вооружен ДО ЗУБОВ."
 
 #: src-en/data/events_ships.xml.append:1844
 msgid ""
@@ -1392,6 +1694,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/event/text"
 msgstr ""
+".\"ммммМ ,чта у нус кдесЬ ?хооооо ,этсь каранбль Фед'раслЬ ?этсь должон боть "
+"висенО !помалуйст' ,умерить бустро ,мнеть надуед' коворидь с этум глупоть "
+"акцунтем\""
 
 #: src-en/data/events_ships.xml.append:1850
 msgid ""
@@ -1445,7 +1750,7 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:1904
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_SPEED_2\"]/text"
-msgstr ""
+msgstr "Вы разбираете Стимулятор дронов мод II, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:1918
 msgid ""
@@ -1538,6 +1843,7 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:2023
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FIRE_HEART\"]/text"
 msgstr ""
+"Вы разбираете Металлическое огненное сердце, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:2037
 msgid ""
@@ -1701,7 +2007,7 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:2208
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOZER_FRIDGE\"]/text"
-msgstr ""
+msgstr "Вы разбираете Холодильник Гозера, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:2226
 msgid ""
@@ -1796,6 +2102,8 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_WEAPONS_REPLICATOR_2\"]/text"
 msgstr ""
+"Вы разбираете Искаженный Изготовитель боеприпасов, чтобы получить ценные "
+"ресурсы."
 
 #: src-en/data/events_ships.xml.append:2377
 msgid ""
@@ -1915,7 +2223,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:2514
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:2518
 msgid ""
@@ -2027,12 +2335,15 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:2653
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOLDEN_TUCO\"]/text"
-msgstr ""
+msgstr "Вы разбираете Золотого Туко, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:2667
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/text"
 msgstr ""
+"Причудливое судно побеждено! На борту зачищенного крейсера осталось много "
+"лома и припасов. Вы также находите странный мешочек с феромонами с необычным "
+"свечением."
 
 #: src-en/data/events_ships.xml.append:2677
 msgid ""
@@ -2187,7 +2498,7 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:2820
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_DEPRESSION_EMITTER\"]/text"
-msgstr ""
+msgstr "Вы разбираете Излучатель депрессии, чтобы получить ценные ресурсы."
 
 #: src-en/data/events_ships.xml.append:2834
 msgid ""
@@ -2252,16 +2563,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/text"
 msgstr ""
+"Вас вызывает корабль, и вы принимаете вызов. \"Мы - Мультивссселенссские "
+"торговцы органами. Пожалуйссста, немедленно пожертвуйте сссвои органы. Это "
+"нужно для благого дела."
 
 #: src-en/data/events_ships.xml.append:2899
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Как насчет... нет?"
 
 #: src-en/data/events_ships.xml.append:2901
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Пожертвуй немедленно. Ты мерзавец\"."
 
 #: src-en/data/events_ships.xml.append:2903
 msgid ""
@@ -2271,7 +2585,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:2905
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:2909
 msgid ""
@@ -2312,6 +2626,7 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Боюсь, у вас нет выбора. Всего доброго, и слава всем Вестникам Заката!\""
 
 #: src-en/data/events_ships.xml.append:3011
 msgid ""
@@ -2321,7 +2636,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_ships.xml.append:3013
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Корабль начинает приводить в действие свои орудия. Приготовьтесь к бою."
 
 #: src-en/data/events_ships.xml.append:3017
 msgid ""
@@ -2360,6 +2675,8 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
 msgstr ""
+"Что это значит? [Энджи, похоже, увеличивает количество дронов на борту "
+"своего корабля]"
 
 #: src-en/data/events_ships.xml.append:3124
 msgid ""
