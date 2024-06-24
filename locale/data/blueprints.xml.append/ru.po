@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-25 11:56+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1341,6 +1341,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/desc"
 msgstr ""
+"Этот искаженный Сепаратист фактически бессмертен, после смерти он "
+"превращается в свою наноформу, а не клонируется или умирает."
 
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
@@ -8556,6 +8558,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18351
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MALBORO_RED\"]/desc"
 msgstr ""
+"Эти сигареты, вызывающие гиперзависимость, каким-то образом повышают "
+"жизненный тонус, но вызывают ужасные проблемы с легкими. Кажется полезным! "
+"...если вы дурак. 2х максимальное здоровье для всех слизней, но 3х "
+"получаемый урон от удушья."
 
 #: src-en/data/blueprints.xml.append:18359
 msgid ""
@@ -9065,6 +9071,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18822
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MALBORO_RED\"]/desc"
 msgstr ""
+"Эти сигареты, вызывающие гиперзависимость, каким-то образом повышают "
+"жизненный тонус, но вызывают ужасные проблемы с легкими. Кажется полезным! "
+"...если вы дурак. 2х максимальное здоровье для всех слизней, но 3х "
+"получаемый урон от удушья."
 
 #: src-en/data/blueprints.xml.append:18830
 msgid ""
