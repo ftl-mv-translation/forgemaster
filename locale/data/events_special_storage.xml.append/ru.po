@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 04:48+0000\n"
+"PO-Revision-Date: 2024-06-25 11:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -6750,18 +6750,20 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Взломщик МВ-приводов К.У.Р.А.) Вы уже получили свою награду. Вам интересно, "
+"какую именно пользу это принесло К.У.Р.А.?"
 
 #: src-en/data/events_special_storage.xml.append:6827
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Взломщик дисков C.U.R.A.) Получите награду."
 
 #: src-en/data/events_special_storage.xml.append:6831
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов К.У.Р.А.) Вызвать Искаженного МВ-путешественника."
 
 #: src-en/data/events_special_storage.xml.append:6838
 msgid ""
@@ -6821,17 +6823,17 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:6887
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_crystal\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных кристаллинов."
 
 #: src-en/data/events_special_storage.xml.append:6891
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_tuco\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженного Туко."
 
 #: src-en/data/events_special_storage.xml.append:6895
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_leech\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных пиявок."
 
 #: src-en/data/events_special_storage.xml.append:6900
 msgid ""
@@ -6849,7 +6851,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[6]/text"
-msgstr ""
+msgstr "Искаженный Туко тип Б - выпадает редкий коллекционный предмет."
 
 #: src-en/data/events_special_storage.xml.append:6912
 msgid ""
@@ -6875,17 +6877,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_kestrel\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженную Пустельгу."
 
 #: src-en/data/events_special_storage.xml.append:6935
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_federation\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженную Федерацию."
 
 #: src-en/data/events_special_storage.xml.append:6939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_orchid\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженные орхидеи."
 
 #: src-en/data/events_special_storage.xml.append:6944
 msgid ""
@@ -6903,7 +6905,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[12]/text"
-msgstr ""
+msgstr "Искаженная Федерация тип Б - выпадает уникальный репликатор."
 
 #: src-en/data/events_special_storage.xml.append:6956
 msgid ""
@@ -6929,22 +6931,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_lanius\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных ланиусов."
 
 #: src-en/data/events_special_storage.xml.append:6979
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_shell\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных ракушек."
 
 #: src-en/data/events_special_storage.xml.append:6983
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_engineer\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Инженеров."
 
 #: src-en/data/events_special_storage.xml.append:7022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[17]/text"
-msgstr ""
+msgstr "Искаженные ланиусы тип Б - выпадает сердце."
 
 #: src-en/data/events_special_storage.xml.append:7024
 msgid ""
@@ -6957,7 +6959,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7032
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[18]/text"
-msgstr ""
+msgstr "Искаженные ракушки тип В - выпадает дипломат."
 
 #: src-en/data/events_special_storage.xml.append:7034
 msgid ""
@@ -6983,22 +6985,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_slug\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных слизней."
 
 #: src-en/data/events_special_storage.xml.append:7057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_stealth\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженного Стелса."
 
 #: src-en/data/events_special_storage.xml.append:7061
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_zoltan\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных золтан."
 
 #: src-en/data/events_special_storage.xml.append:7066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[23]/text"
-msgstr ""
+msgstr "Искаженные слизни тип В - выпадает Мальборо."
 
 #: src-en/data/events_special_storage.xml.append:7068
 msgid ""
@@ -7011,7 +7013,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[24]/text"
-msgstr ""
+msgstr "Искаженный Стелс тип Б - выпадает ?13Xzzzzzzz$"
 
 #: src-en/data/events_special_storage.xml.append:7078
 msgid ""
@@ -7037,17 +7039,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7097
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_monk\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных монахов."
 
 #: src-en/data/events_special_storage.xml.append:7101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_rock\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных валунов."
 
 #: src-en/data/events_special_storage.xml.append:7105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_lostsun\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Затерянных Солнц."
 
 #: src-en/data/events_special_storage.xml.append:7110
 msgid ""
@@ -7078,7 +7080,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[31]/text"
-msgstr ""
+msgstr "Искаженные Затерянные Солнца тип Б - Перезагрузчик реальности."
 
 #: src-en/data/events_special_storage.xml.append:7132
 msgid ""
@@ -7091,22 +7093,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7141
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_freemantis\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Свободных Богомолов."
 
 #: src-en/data/events_special_storage.xml.append:7145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_separatist\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Сепаратистов."
 
 #: src-en/data/events_special_storage.xml.append:7149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_mantis\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных богомолов."
 
 #: src-en/data/events_special_storage.xml.append:7154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[35]/text"
-msgstr ""
+msgstr "Искаженные Свободные Богомолы тип Б - выпадает освежитель."
 
 #: src-en/data/events_special_storage.xml.append:7156
 msgid ""
@@ -7145,17 +7147,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7186
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_clan\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Клановцев."
 
 #: src-en/data/events_special_storage.xml.append:7190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_dusk\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных Вестников Заката."
 
 #: src-en/data/events_special_storage.xml.append:7194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"ach_fm_boss_engi\"]/text"
-msgstr ""
+msgstr "Вы уже победили Искаженных энджи."
 
 #: src-en/data/events_special_storage.xml.append:7199
 msgid ""
@@ -7199,7 +7201,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
-msgstr ""
+msgstr "Искаженные Свободные Богомолы тип Б - выпадает освежитель."
 
 #: src-en/data/events_special_storage.xml.append:7232
 msgid ""
@@ -7264,7 +7266,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
-msgstr ""
+msgstr "Искаженные Затерянные Солнца тип Б - Перезагрузчик реальности."
 
 #: src-en/data/events_special_storage.xml.append:7282
 msgid ""
@@ -7277,7 +7279,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
-msgstr ""
+msgstr "Искаженные слизни тип В - выпадает Мальборо."
 
 #: src-en/data/events_special_storage.xml.append:7292
 msgid ""
@@ -7290,7 +7292,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
-msgstr ""
+msgstr "Искаженный Стелс тип Б - выпадает ?13Xzzzzzzz$"
 
 #: src-en/data/events_special_storage.xml.append:7302
 msgid ""
@@ -7316,7 +7318,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_1\"]/text"
-msgstr ""
+msgstr "Искаженные ланиусы тип Б - выпадает сердце."
 
 #: src-en/data/events_special_storage.xml.append:7322
 msgid ""
@@ -7329,7 +7331,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_2\"]/text"
-msgstr ""
+msgstr "Искаженные ракушки тип В - выпадает дипломат."
 
 #: src-en/data/events_special_storage.xml.append:7332
 msgid ""
@@ -7368,7 +7370,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_2\"]/text"
-msgstr ""
+msgstr "Искаженная Федерация тип Б - выпадает уникальный репликатор."
 
 #: src-en/data/events_special_storage.xml.append:7362
 msgid ""
@@ -7407,7 +7409,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_2\"]/text"
-msgstr ""
+msgstr "Искаженный Туко тип Б - выпадает редкий коллекционный предмет."
 
 #: src-en/data/events_special_storage.xml.append:7392
 msgid ""
