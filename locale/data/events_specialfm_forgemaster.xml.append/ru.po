@@ -892,7 +892,7 @@ msgstr "Проверить рецепты кузницы."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr "Ознакомиться с его гордой коллекцией реликвий. [Квест доступен!]"
+msgstr "Ознакомиться с его богатой коллекцией реликвий. [Квест доступен!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1024
 msgid ""
