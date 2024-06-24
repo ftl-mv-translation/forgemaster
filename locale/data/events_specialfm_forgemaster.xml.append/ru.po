@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-24 13:12+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -556,7 +556,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:644
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[4]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:651
 msgid ""
@@ -582,6 +582,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[8]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:682
 msgid ""
@@ -828,7 +830,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:935
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[4]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:943
 msgid ""
@@ -854,6 +856,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[8]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:973
 msgid ""
@@ -883,7 +887,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:1011
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[4]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1017
 msgid ""
@@ -909,6 +913,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[8]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1047
 msgid ""
@@ -963,7 +969,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:1092
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1097
 msgid ""
@@ -989,6 +995,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[7]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1115
 msgid ""
@@ -1038,7 +1046,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:1160
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1165
 msgid ""
@@ -1059,6 +1067,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[5]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1182
 msgid ""
@@ -1093,7 +1103,7 @@ msgstr "Выковать новое оружие за определенную �
 #: src-en/data/events_specialfm_forgemaster.xml.append:1242
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[2]/text"
-msgstr ""
+msgstr "Проверить рецепты кузницы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1246
 msgid ""
@@ -1124,6 +1134,8 @@ msgstr "Отклонить его предложение."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[6]/event/text"
 msgstr ""
+"\"Возможно, позже, мальчик! Уверен, если ты вернешься с интересными вещами, "
+"я смогу найти для тебя что-нибудь необычное\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1272
 msgid ""
