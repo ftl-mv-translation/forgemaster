@@ -1,25 +1,47 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-24 13:12+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_twistedxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_twisted.xml:2
 msgid "data/events_twisted.xml$//textList[@name=\"TEXT_START_TWISTED\"]/text"
 msgstr ""
+"Вы прибыли в Искаженный сектор. Сообщение отправлено вам непосредственно "
+"К.У.Р.А. \"Добро пожаловать в мой прекрасный заброшенный сектор, Ренегат. Я "
+"воспользовался возможностью купить его и взорвать несколько прототипов "
+"дестабилизирующих Мультивселенную боеприпасов в разных местах. В этих местах "
+"ты можешь вызвать этих \"Искаженных\" прямо к себе, если пожелаешь. Это было "
+"недешево, и я разрешаю тебе прийти сюда только один раз, так что не "
+"разочаруй меня, Ренегат."
 
 #: src-en/data/events_twisted.xml:14
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_TWISTED\"]/choice/text"
 msgstr "Продолжить..."
 
 #: src-en/data/events_twisted.xml:21
+#, fuzzy
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/text"
 msgstr ""
+"Вы прибыли к одному из необычных маяков этого сектора. Вы проводите быстрое "
+"сканирование с помощью программного обеспечения, предоставленного К.У.Р.А., "
+"и оно сообщает вам, что аномальные свойства этого маяка заставляют всех, кто "
+"связан с специализированным Взломщиком МВ-приводов К.У.Р.А., перемещаться "
+"непосредственно к нему. Взломщик МВ-приводов имеет достаточно энергии, чтобы "
+"сделать это только один раз на маяке."
 
 #: src-en/data/events_twisted.xml:23
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Попытаться использовать свой Взломщик МВ-приводов К.У.Р.А."
 
 #: src-en/data/events_twisted.xml:27
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/text"
@@ -29,10 +51,19 @@ msgstr "Неважно, давайте уйдем."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/event/text"
 msgstr ""
+"Вы решаете не оставаться здесь, чтобы попытаться вызвать какие-либо суда к "
+"маяку. Из-за аномальных свойств маяка вы и ваш экипаж чувствуете себя очень "
+"плохо, поэтому вам не нравится идея оставаться здесь дольше, чем это "
+"необходимо."
 
 #: src-en/data/events_twisted.xml:38
 msgid "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/text"
 msgstr ""
+"Вы прибыли к одному из необычных маяков этого сектора. Аномальные свойства "
+"этого маяка заставляют всех, кто вызывается с помощью Взломщик МВ-приводов "
+"К.У.Р.А., притягиваться прямо к нему. Вы задаетесь вопросом, можно ли будет "
+"в будущем использовать его для прямого перемещения вашего корабля к таким "
+"маякам."
 
 #: src-en/data/events_twisted.xml:40
 msgid ""
@@ -58,6 +89,10 @@ msgstr "Неважно, давайте уйдем."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/event/text"
 msgstr ""
+"Вы решаете не оставаться здесь, чтобы попытаться вызвать какие-либо суда к "
+"маяку. Из-за аномальных свойств маяка вы и ваш экипаж чувствуете себя очень "
+"плохо, поэтому вам не нравится идея оставаться здесь дольше, чем это "
+"необходимо."
 
 #: src-en/data/events_twisted.xml:62
 msgid ""
@@ -73,6 +108,10 @@ msgstr "Неважно, давайте уйдем."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/event/text"
 msgstr ""
+"Вы решаете не оставаться здесь, чтобы попытаться вызвать какие-либо суда к "
+"маяку. Из-за аномальных свойств маяка вы и ваш экипаж чувствуете себя очень "
+"плохо, поэтому вам не нравится идея оставаться здесь дольше, чем это "
+"необходимо."
 
 #: src-en/data/events_twisted.xml:73
 msgid ""
@@ -98,6 +137,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:93
 msgid ""
@@ -113,6 +155,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:106
 msgid ""
@@ -128,6 +173,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:119
 msgid ""
@@ -158,6 +206,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:146
 msgid ""
@@ -173,6 +224,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:159
 msgid ""
@@ -188,6 +242,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:172
 msgid ""
@@ -218,6 +275,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:246
 msgid ""
@@ -233,6 +293,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:259
 msgid ""
@@ -248,6 +311,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:272
 msgid ""
@@ -278,6 +344,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:299
 msgid ""
@@ -293,6 +362,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:312
 msgid ""
@@ -308,6 +380,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:325
 msgid ""
@@ -338,6 +413,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:352
 msgid ""
@@ -353,6 +431,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:365
 msgid ""
@@ -368,6 +449,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:378
 msgid ""
@@ -398,6 +482,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:405
 msgid ""
@@ -413,6 +500,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:418
 msgid ""
@@ -428,6 +518,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:431
 msgid ""
@@ -458,6 +551,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:458
 msgid ""
@@ -473,6 +569,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:471
 msgid ""
@@ -488,6 +587,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:484
 msgid ""
@@ -503,6 +605,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:498
 msgid ""
@@ -518,6 +623,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:511
 msgid ""
@@ -533,6 +641,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:524
 msgid ""
@@ -563,6 +674,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:550
 msgid ""
@@ -578,6 +692,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:563
 msgid ""
@@ -593,6 +710,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:576
 msgid ""
@@ -608,6 +728,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:589
 msgid ""
@@ -623,6 +746,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:602
 msgid ""
@@ -638,6 +764,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:615
 msgid ""
@@ -653,6 +782,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:628
 msgid ""
@@ -668,6 +800,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:641
 msgid ""
@@ -683,6 +818,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[56]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:654
 msgid ""
@@ -698,6 +836,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[57]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:667
 msgid ""
@@ -713,6 +854,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[58]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:680
 msgid ""
@@ -728,6 +872,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[59]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:693
 msgid ""
@@ -743,6 +890,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[60]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:706
 msgid ""
@@ -758,6 +908,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[61]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:719
 msgid ""
@@ -773,6 +926,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:732
 msgid ""
@@ -788,6 +944,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:745
 msgid ""
@@ -803,6 +962,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/text"
 msgstr ""
+"Вы включаете Взломщик МВ-приводов на максимальную мощность и наблюдаете, как "
+"открывается разлом, сотрясая ваш корабль, когда через него проникает еще "
+"один Ренегат."
 
 #: src-en/data/events_twisted.xml:758
 msgid ""
