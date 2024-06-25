@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 11:56+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-25 12:06+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1694,9 +1694,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/event/text"
 msgstr ""
-".\"ммммМ ,чта у нус кдесЬ ?хооооо ,этсь каранбль Фед'раслЬ ?этсь должон боть "
-"висенО !помалуйст' ,умерить бустро ,мнеть надуед' коворидь с этум глупоть "
-"акцунтем\""
+".\"метнуцка ьтопулг мутэ с ьдировок 'деудан ьтенм ,ортсуб ьтирему "
+",'тсйуламоП !онесив ьтоб ножлод ьстЭ ?Ьлсар'деФ ьлбнарак ьстэ ,хооооО ?Ьседк "
+"сун у атч ,мммМ\""
 
 #: src-en/data/events_ships.xml.append:1850
 msgid ""
