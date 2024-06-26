@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 11:56+0000\n"
+"PO-Revision-Date: 2024-06-26 12:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1305,7 +1305,7 @@ msgstr "Jank"
 #: src-en/data/blueprints.xml.append:2772
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/desc"
-msgstr ""
+msgstr "Это сочетание латунного Сепаратиста и кобальтового Сепаратиста."
 
 #: src-en/data/blueprints.xml.append:2773
 msgid ""
@@ -1336,6 +1336,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[4]"
 msgstr ""
+"После смерти разделяется на нанокобальтового Сепаратиста и обычного "
+"бронзового Сепаратиста."
 
 #: src-en/data/blueprints.xml.append:2788
 msgid ""
@@ -1347,7 +1349,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/title"
-msgstr ""
+msgstr "Кобальтовый Сепаратист"
 
 #: src-en/data/blueprints.xml.append:2790
 msgid ""
@@ -1357,25 +1359,30 @@ msgstr "C. Separatist"
 #: src-en/data/blueprints.xml.append:2795
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[1]"
-msgstr ""
+msgstr "Получает 0.75x урона в бою, но передвигается с 0.8x скоростью."
 
 #: src-en/data/blueprints.xml.append:2796
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[2]"
-msgstr ""
+msgstr "2х скорость ремонта, урон от удушья уменьшен вдвое."
 
 #: src-en/data/blueprints.xml.append:2797
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[3]"
 msgstr ""
+"Пассивная способность: При достижении 25 единиц здоровья или ниже включается "
+"режим выживания и становится невосприимчивым к большинству источников урона."
 
 #: src-en/data/blueprints.xml.append:2802
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/desc"
 msgstr ""
+"Кобальтовый Сепаратист получил тяжелые повреждения и активировал программу "
+"аварийного выживания, превратившись в неуязвимое облако нанитов, "
+"невосприимчивое ко всем видам повреждений."
 
 #: src-en/data/blueprints.xml.append:2803
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/title"
-msgstr ""
+msgstr "Кобальтовый Сепаратист"
 
 #: src-en/data/blueprints.xml.append:2804
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/short"
@@ -1400,6 +1407,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (время перезарядки 20с): Наносит 1 ед. урона, создает "
+"пробоину в текущем отсеке и превращается в кобальтового Сепаратиста."
 
 #: src-en/data/blueprints.xml.append:2817
 msgid ""
@@ -1430,6 +1439,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[3]"
 msgstr ""
+"Активная способность: Объединяется с кобальтовым Сепаратистом, чтобы создать "
+"искаженного Сепаратиста."
 
 #: src-en/data/blueprints.xml.append:2832
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/desc"
@@ -8227,7 +8238,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18037
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_NANO_FORGE_ACCELERANT\"]/title"
-msgstr ""
+msgstr "Выкованный катализатор"
 
 #: src-en/data/blueprints.xml.append:18038
 msgid ""
@@ -8450,7 +8461,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18256
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_CRYSTAL_ARMOR_50\"]/title"
-msgstr ""
+msgstr "Искаженная осколочная броня"
 
 #: src-en/data/blueprints.xml.append:18257
 msgid ""
@@ -8460,7 +8471,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18265
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_TWISTED_CRYSTAL_ARMOR_50\"]/title"
-msgstr ""
+msgstr "Искаженная осколочная броня"
 
 #: src-en/data/blueprints.xml.append:18266
 msgid ""
@@ -8550,6 +8561,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18342
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_TUCO\"]/desc"
 msgstr ""
+"Эта Золотая фигурка из ограниченного тиража Детского казино и Садового "
+"эмпориума Туко позволит вашему экипажу почувствовать себя тепло и уютно. "
+"Дает +30% увеличение скорости перезарядки активных способностей всем членам "
+"вашего экипажа (кроме богомолов, богомолы НЕНАВИДЯТ статуэтки)."
 
 #: src-en/data/blueprints.xml.append:18350
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MALBORO_RED\"]/title"
@@ -9063,6 +9078,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18813
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOLDEN_TUCO\"]/desc"
 msgstr ""
+"Эта Золотая фигурка из ограниченного тиража Детского казино и Садового "
+"эмпориума Туко позволит вашему экипажу почувствовать себя тепло и уютно. "
+"Дает +30% увеличение скорости перезарядки активных способностей всем членам "
+"вашего экипажа (кроме богомолов, богомолы НЕНАВИДЯТ статуэтки)."
 
 #: src-en/data/blueprints.xml.append:18821
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MALBORO_RED\"]/title"
