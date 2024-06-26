@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 11:56+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-26 12:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,6 +17,12 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//ship[@name=\"SHIP_FM_GUNHYDRA_ENEMY\"]/destroyed/text"
 msgstr ""
+"Когда корабль разлетается на части, вы начинаете разбирать его на лом, а "
+"Ясновидящие вызывают вас: \"Вам это удалосссь. Мы полагаем, что некоторые "
+"предссставители Федерации всссе-таки не ублюдки. Мы передадим вам часссть "
+"вознаграждения за сссмерть Винчессстера, а также вы можете получить чертеж, "
+"который мы нашшшли на ссстаром ссскладе богомола. Вот и чудесссно, есссли вы "
+"захотите помочь нам сссобирать долги в будущем... просссто предложение\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:53
 msgid ""
@@ -27,6 +33,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//ship[@name=\"SHIP_FM_GUNHYDRA_ENEMY\"]/deadCrew/text"
 msgstr ""
+"Близнецы энджи мертвы, а Винчестер задыхается и отчаянно борется за жизнь. "
+"\"Ты... почему... Гармония... остановись...\", - из последних сил произносит "
+"богомол. Ваш экипаж начинает разбирать корабль на лом, а Ясновидящие "
+"вызывают вас: \"Вам это удалосссь. Мы полагаем, что некоторые "
+"предссставители Федерации всссе-таки не ублюдки. Мы передадим вам часссть "
+"вознаграждения за сссмерть Винчессстера, а также вы можете получить чертеж, "
+"который мы нашшшли на ссстаром ссскладе богомола. Вот и чудесссно, есссли вы "
+"захотите помочь нам сссобирать долги в будущем... просссто предложение\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:66
 msgid ""
@@ -37,106 +51,163 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DESTROY\"]/text"
 msgstr ""
+"Ясновидящие сборщики долгов повержены. Хорошо, что слизни уже ненавидят вас, "
+"потому что в этот момент они, вероятно, не могли бы ненавидеть вас сильнее. "
+"Винчестер вызывает вас, радостно восклицая: \"Спасибо-спасибо, человек! Вы "
+"хорошо помогаете!\"\n"
+"\t\t\tПока вы разговариваете с Винчестером, ваш экипаж начинает разбирать "
+"корабль Ясновидящих. \"Как вы нашли мой корабль? Только близкие друзья знают "
+"где найти мой корабль, остальные его боятся\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:88
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Алестер попросил меня помочь..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:90
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/text"
 msgstr ""
+"\"Человек с кирпичным молотком просит помощи? Я знал, что он любит кирпич, "
+"но это меня удивило! У него доброе сердце, крепкое словно корпус\", - "
+"говорит он, и его усики на мгновение радостно дергаются. Один из его членов "
+"экипажа на заднем плане показывает на соседнюю консоль и кричит что-то, что "
+"вы не можете разобрать. Богомол вздыхает: \"Похоже, приближаются еще корабли "
+"коллекторов, им нужна моя голова. Извините, мне нечего предложить\".\n"
+"\t\t\t\t\tОдин из близнецов энджи берет управление связью на себя. "
+"\"Предложение: взять чертеж нашего корабля, может пригодиться. Чертеж - одно "
+"из последних, что у нас есть\". Вы соглашаетесь и получаете чертеж их... "
+"мерзкого корабля. \"Я должен идти! Простите!\" - быстро говорит Винчестер."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:95
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/text"
-msgstr ""
+msgstr "Подождите! У меня есть вопрос!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:97
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/text"
 msgstr ""
+"\"У вас ЧТО? Винчестеру пора уходить, пока жадные слизни не появились снова!"
+"\" - огрызается богомол. Он ворчит какое-то время, а потом продолжает. \"Во "
+"имя Винчестеров, полагаю, я многим обязан. У меня есть время только для "
+"одного вопроса. Задавайте, пожалуйста, быстро\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:99
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Почему ваш корабль так выглядит?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:101
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Семейный шедевр Винчестеров - так я его называю. Многие смеются, но когда "
+"я берусь за работу с оружием, мне становится не до смеха\". Он говорит с "
+"серьезным выражением лица. \"Я потратил на корабль большую сумму из "
+"семейного состояния, он очень дорогой. А теперь я должен идти\". У "
+"Винчестера не остается времени на разговоры, и его экипаж желает вам удачи в "
+"вашей миссии, а Винчестер начинает включать свой ССД."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:103
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Отпустить их..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:107
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_WINCHESTER_LEAVE\"]/loadEventList/event[1]/text"
 msgstr ""
+"Винчестер грустно машет рукой, когда активируются двигатели корабля. \"Прощай"
+", новый друг. Умоляю, храни моего лучшего друга\". При этих словах близнец "
+"энджи на вашем корабле тоже грустно машет рукой. ГанБоминация активирует ССД "
+"и уходит в прыжок, исчезая без следа. Вы тоже решаете отправиться в путь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:110
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_WINCHESTER_LEAVE\"]/loadEventList/event[2]/text"
 msgstr ""
+"Винчестер грустно машет рукой, когда активируются двигатели корабля. \"Прощай"
+", новый друг\". ГанБоминация активирует ССД и уходит в прыжок, исчезая без "
+"следа. Вы тоже решаете отправиться в путь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:118
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Почему Ясновидящие преследуют вас?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:120
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Я взял НЕБОЛЬШОЙ кредит, только небольшой! Но они жадные, хотят вернуть "
+"долг прямо сейчас. Лом в другом кошельке богомола, вы понимаете, да? Я "
+"планировал расплатиться с ними после того, как уничтожу настоящую угрозу...\""
+", - замявшись, он понимает, что очень торопится. У Винчестера не остается "
+"времени на разговоры, и его экипаж желает вам удачи в выполнении миссии, а "
+"Винчестер начинает включать ССД."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:122
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Отпустить их..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:128
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Почему бы вам не пойти с нами?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:130
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Клянусь честью семьи Винчестеров, я обещаю, что помогу близнецам энджи с "
+"заданием, это не забота Федерации, пока повстанцы не будут остановлены\". У "
+"Винчестера не остается времени на разговоры, и его экипаж желает вам удачи в "
+"выполнении миссии, а Винчестер начинает включать свой ССД."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:132
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Отпустить их..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:138
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Зачем вам нужен этот корабль?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:140
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"\"Я спасаю близнецов энджи с корабля работорговцев, и они рассказывают мне "
+"правду о Гармонии. Гармония плохая, более плохая, чем повстанцы. Я планирую "
+"ее полностью уничтожить...\" Винчестер на мгновение смеется и продолжает. \"Я"
+" сказал себе: много оружия решает все проблемы. Но, возможно, я использовал "
+"слишком много оружия, и теперь я ищу способ обеспечить корабль энергией\". У "
+"Винчестера не остается времени на разговоры, и его экипаж желает вам удачи в "
+"выполнении миссии, а Винчестер начинает включать свой ССД."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:142
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Отпустить их..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:149
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[@req=\"unique_freddy\"]/text"
-msgstr ""
+msgstr "(Фредди) Попросить Винчестера присоединиться к делу Федерации."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:151
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[@req=\"unique_freddy\"]/event/text"
 msgstr ""
+"Винчестер хмурится, но быстро кивает. \"Фредди прав, мое задание не стоит "
+"того, если все богомолы погибнут из-за повстанцев. Я, добрый Винчестер, "
+"присоединяюсь к миссии! Я продолжу выполнение своего обещания после того, "
+"как повстанцы будут побеждены\", - объясняет он, и в его голосе появляется "
+"уверенность. Один из близнецов энджи, пилотирующий ГанБоминацию, включает "
+"ССД и улетает, высадив Винчестера на борт вашего корабля."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:152
 msgid ""
@@ -146,77 +217,131 @@ msgstr "Винчестер"
 #: src-en/data/events_specialfm_forgemaster.xml.append:158
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[2]/text"
-msgstr ""
+msgstr "Отпустить их..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:166
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_KILLED\"]/text"
 msgstr ""
+"Ясновидящие коллекторы упали замертво, оставив свой корабль без команды. "
+"Хорошо, что слизни уже ненавидят вас, потому что в этот момент они, "
+"вероятно, не могли бы ненавидеть вас сильнее. Винчестер приветствует вас, "
+"радостно восклицая: \"Спасибо-спасибо, человек! Вы хорошо помогаете!\"\n"
+"\t\t\tПока вы разговариваете с Винчестером, ваш экипаж начинает разбирать "
+"корабль Ясновидящих. \"Как вы нашли мой корабль? Только близкие друзья знают "
+"как найти мой корабль, остальные его боятся\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:174
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_KILLED\"]/choice/text"
-msgstr ""
+msgstr "Алестер попросил меня помочь..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:185
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_DESTROY\"]/text"
 msgstr ""
+"\"Проклятье... знал, что не надо было связываться... с подразделением...\" "
+"Когда то, что осталось от корабля Рэндалла, разрушается и сгорает, вы "
+"получаете вызов от Арбора, в котором вас благодарят за добрый поступок и "
+"перенаправляют к Мандельбриссу и Кириет. \"Полагаю, мы должны все объяснить "
+"вам и Алестеру. Видите ли, мы были лучшими друзьями, Кириет и я, но между "
+"нами возникли проблемы, когда мы наконец-то задумались о том, что нам делать "
+"с нашей чудесной технологией. Видите ли, я...\" \"Он хотел использовать наши "
+"исследования и технологии для создания оружия войны, вместо того чтобы "
+"использовать наши знания для распространения мира и процветания\". \"Вы "
+"можете сколько угодно распространять мир, Ки, но когда дело доходит до дела, "
+"оружие - это то, что отличает таких спасителей, как мистер Ренегат, и таких "
+"трусов, как мы, которые прячутся под столом, чтобы избежать опасности\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:188
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Стать посредником в их конфликте."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:194
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_KILLED\"]/text"
 msgstr ""
+"\"Проклятье... знал, что не надо было связываться... с подразделением...\" "
+"Когда вы разбираете пустую оболочку истребителя Ангелов, вы получаете вызов "
+"от Арбора, в котором вас благодарят за добрый поступок и перенаправляют к "
+"Мандельбриссу и Кириет. \"Полагаю, мы должны все объяснить вам и Алестеру. "
+"Видите ли, мы были лучшими друзьями, Кириет и я, но между нами возникли "
+"проблемы, когда мы наконец-то задумались о том, что нам делать с нашей "
+"чудесной технологией. Видите ли, я...\" \"Он хотел использовать наши "
+"исследования и технологии для создания оружия войны, вместо того чтобы "
+"использовать наши знания для распространения мира и процветания\". \"Вы "
+"можете сколько угодно распространять мир, Ки, но когда дело доходит до дела, "
+"оружие - это то, что отличает таких спасителей, как мистер Ренегат, и таких "
+"трусов, как мы, которые прячутся под столом, чтобы избежать опасности\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:197
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_KILLED\"]/choice/text"
-msgstr ""
+msgstr "Стать посредником в их конфликте."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:203
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/text"
 msgstr ""
+"\"Хорошо, тогда решайте сами. С кем вы согласны? Как вы думаете, "
+"действительно ли мир может положить конец конфликтам?\" \"Или оружие может "
+"способствовать процветанию?\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:205
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[1]/text"
 msgstr ""
+"Оружие не всегда можно использовать со злым умыслом. (Встать на сторону "
+"Мандельбрисса)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:207
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"\"Хмм... Полагаю, я могу понять вашу точку зрения. В конце концов, мы бы "
+"сейчас не стояли здесь, если бы вы не спасли нас с помощью силы. Ладно, мы с "
+"Мандельбриссом закончим работу над прототипом в нашей лаборатории и "
+"передадим его вам для тестирования\". Когда Кириет покидает помещение и "
+"отправляется доделывать прототип, Мандельбрисс коротко благодарит вас, после "
+"чего отправляется туда же. Вскоре после этого они появляются рядом с вашим "
+"кораблем с совершенно новым орудием."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:211
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Поблагодарить их и уйти."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:217
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[2]/text"
 msgstr ""
+"Сильным можно быть не только с большими пушками. (Встать на сторону Кириет)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:219
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"\"Хмм... Думаю, я могу понять вашу точку зрения. Сильное оружие не может "
+"помочь человеку вернуться с того света, и, видит бог, большие пушки не "
+"спасли Федерацию во время бойни на Узле 17. Ладно, хорошо, я доделаю "
+"прототип Кириет, и мы передадим его вам, чтобы вы использовали его по своему "
+"усмотрению\". Когда Мандельбрисс покидает помещение, чтобы закончить "
+"прототип, Кириет коротко благодарит вас, после чего отправляется туда же. "
+"Вскоре после этого они появляются у вашего корабля с совершенно новым "
+"орудием."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:223
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Поблагодарить их и уйти."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:232
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/text"
 msgstr ""
+"Кажется, вы на последнем издыхании. Вы долго не протянете, и Алестер решил "
+"пощадить вас. \"Не нужно больше кровопролития, мальчик\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:235
 msgid ""
@@ -227,6 +352,8 @@ msgstr "Капитулировать."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/choice[1]/event/text"
 msgstr ""
+"Алестер отключает оружие. \"Давай, мальчик, сделаем вид, что этого никогда "
+"не было\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:243
 msgid ""
@@ -237,26 +364,39 @@ msgstr "Мы не сдадимся."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/choice[2]/event/text"
 msgstr ""
+"\"Да будет так, мальчик, тогда я не стану сдерживаться\" - отвечает Алестер."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:251
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_COUNTER\"]/text"
 msgstr ""
+"На экране внезапно вспыхивает ярки свет и появляется Алестер. \"У тебе живет "
+"дух воина, мальчик! Давай убедимся, что ты сражаешься со мной честно, хорошо?"
+"\" Алестер кладет руку на терминал корабля. Дисплей связи, на котором лежит "
+"рука Алестера, вспыхивает ярким светом, и вы чувствуете, как ваш корабль "
+"слегка подрагивает."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:263
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_RETALIATE\"]/text"
 msgstr ""
+"Корабль Алестера на мгновение ярко вспыхивает и выпускает две необычно "
+"окрашенные капсулы с дронами на ваш корабль. Это нехорошо."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:271
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_RETALIATE_STRONK\"]/text"
 msgstr ""
+"Корабль Алестера снова ярко светится и запускает в ваш корпус две знакомые "
+"по цвету капсулы с дронами. В тот момент, когда они появляются на ваших "
+"сканерах, вы и, вероятно, остальные члены вашего экипажа внезапно "
+"испытываете ужас. Следует покончить с этим быстро, пока все не вышло из-под "
+"контроля."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:278
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END\"]/text"
-msgstr ""
+msgstr "Бой продолжается..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:281
 msgid ""
@@ -266,12 +406,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:285
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Отступить. (Это временная опция, она дает только самую низкую награду)."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:288
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END\"]/choice[2]/event/text"
 msgstr ""
+"Алестер отключает оружие и снова вызывает вас. \"Неплохо, мальчик, совсем "
+"неплохо! Ты определенно знаешь, как обращаться со своим кораблем. Уверен, у "
+"меня найдется что-нибудь для тебя, и позволь мне также починить твой корпус! "
+"Ты хорошо сражался\". Он ремонтирует ваш корпус и телепортирует несколько "
+"ящиков с ресурсами..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:297
 msgid ""
@@ -281,7 +426,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:305
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END_NOMERCY\"]/text"
-msgstr ""
+msgstr "Бой продолжается..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:308
 msgid ""
@@ -291,12 +436,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:312
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END_NOMERCY\"]/choice[2]/text"
-msgstr ""
+msgstr "Похоже, милосердие отменяется..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:318
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_1_END\"]/text"
 msgstr ""
+"За мгновение до разрушения, все Пластинчатые на корабле Алестера начали "
+"чинить корпус, быстро возвращая его в идеальное состояние! На экране "
+"внезапно вспыхивает яркий свет, и появляется Алестер. \"У тебе живет дух "
+"воина, мальчик! Посмотрим, сможешь ли ты продолжать в том же духе, а?\" "
+"Алестер кладет руку на терминал корабля, лампочка на нем вспыхивает ярким "
+"светом, и вы замечаете, как его корабль слегка подрагивает, пока он "
+"усиливает работу своих систем."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:320
 msgid ""
@@ -306,12 +458,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:324
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_1_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Отступить."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:327
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_1_END\"]/choice[2]/event/text"
 msgstr ""
+"Алестер отключает оружие и снова вызывает вас. \"Неплохо, мальчик, совсем "
+"неплохо! Ты определенно знаешь, как обращаться со своим кораблем. Уверен, у "
+"меня найдется что-нибудь для тебя, и позволь мне также починить твой корпус! "
+"Ты хорошо сражался\". Он ремонтирует ваш корпус и телепортирует несколько "
+"ящиков с ресурсами..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:336
 msgid ""
@@ -322,6 +479,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_2_END\"]/text"
 msgstr ""
+"Вы ожидаете, что на этом все закончится, но вместо этого обнаруживаете "
+"всплеск нанитов, когда активируется Рассеивание ремонтных ботов, быстро "
+"устраняющих повреждения! \"Отличная попытка, мальчик, но тебе придется "
+"сделать больше! Мой корабль хорошо приспособлен для ремонта; множество "
+"пиратов, думающих, что могут украсть мой груз, сделали это почти "
+"обязательным для прохождения через их сектора!\" Сканирование показывает "
+"дальнейшее увеличение мощности."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:346
 msgid ""
@@ -331,12 +495,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:350
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_2_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Отступить."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:353
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_2_END\"]/choice[2]/event/text"
 msgstr ""
+"Алестер отключает оружие и снова вызывает вас. \"Очень впечатляюще, мальчик! "
+"Ты сражаешься с мастерством, которое не многие из тех, кто сталкивался со "
+"мной, когда-либо демонстрировали! Возьми эти ресурсы и орудие из моего "
+"хранилища - прекрасная награда за нашу битву!\" Алестер телепортирует на ваш "
+"корабль несколько небольших ящиков с различными ресурсами, а также орудие из "
+"своих запасов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:362
 msgid ""
@@ -347,16 +517,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/text"
 msgstr ""
+"На корабле Кузнеца срабатывает система экстренного ремонта, одновременно "
+"взрываются десятки ремонтных бомб. \"Ты действительно доводишь меня до "
+"предела, мальчик...\" Ваши сканеры фиксируют очередное увеличение мощности "
+"его корабля. \"Давай закончим на этом, хорошо, мальчик?\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:372
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[1]/text"
-msgstr ""
+msgstr "Закончить на этом."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:375
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[1]/event/text"
 msgstr ""
+"Алестер отключает оружие и снова вызывает вас. \"Ты действительно умеешь "
+"стоять на своем, мальчик! За твои доблестные усилия я награждаю тебя "
+"огромной добычей, а также орудие из моей собственной кузницы! Алестер "
+"телепортирует несколько ящиков с ресурсами, а также орудие из своей кузницы. "
+"\"И позволь мне подлатать твой корпус, мальчик! Отличная битва!\" Алестер "
+"отправляет на ваш корабль нескольких Пластинчатых, которые быстро "
+"ремонтируют корпус и доставляют несколько ящиков с ресурсами..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:384
 msgid ""
@@ -366,12 +547,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:390
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Продолжать бой..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:392
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[2]/event/text"
 msgstr ""
+"\"О, если ты хочешь боя, то ты его получишь, мальчик\", - пара необычных "
+"капсул с дронами отправляются на ваш корабль..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:404
 msgid ""
@@ -11273,7 +11456,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11465
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[1]/crewMember"
-msgstr ""
+msgstr "Ремингтон"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11466
 msgid ""
@@ -11288,7 +11471,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11475
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[2]/crewMember"
-msgstr ""
+msgstr "Моссберг"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11476
 msgid ""
