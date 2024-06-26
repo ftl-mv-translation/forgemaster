@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 13:12+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-27 11:47+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -643,7 +643,7 @@ msgstr ""
 "предел увеличения урона зависят от орудия.\n"
 "\t\n"
 "Кузнец: это КОМПОНЕНТ для ковки адаптивного точечного луча Омияри[50~], "
-"также вам понадобится другой КОМПОНЕНТ в виде точечного лучаЧинкуэда."
+"также вам понадобится другой КОМПОНЕНТ в виде точечного луча Чинкуэда."
 
 #: src-en/data/text_misc.xml.append:329
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive_2\"]"
