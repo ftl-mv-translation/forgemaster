@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 11:56+0000\n"
+"PO-Revision-Date: 2024-06-27 11:47+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -17,55 +17,55 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Лазеры]"
 
 #: src-en/data/events_special_storage.xml.append:42
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Ионы/Энергия]"
 
 #: src-en/data/events_special_storage.xml.append:50
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Лучи]"
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Точечные лучи]"
 
 #: src-en/data/events_special_storage.xml.append:67
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Осколочное]"
 
 #: src-en/data/events_special_storage.xml.append:77
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Взрывное]"
 
 #: src-en/data/events_special_storage.xml.append:88
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Органика]"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Боевое дроны]"
 
 #: src-en/data/events_special_storage.xml.append:107
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Посмотреть рецепты крафта."
 
 #: src-en/data/events_special_storage.xml.append:115
 msgid ""
@@ -76,61 +76,61 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Лазеры]"
 
 #: src-en/data/events_special_storage.xml.append:142
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Ионы/Энергия]"
 
 #: src-en/data/events_special_storage.xml.append:150
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Лучи]"
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Точечные лучи]"
 
 #: src-en/data/events_special_storage.xml.append:167
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Осколочное]"
 
 #: src-en/data/events_special_storage.xml.append:177
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Взрывное]"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Органика]"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Крафт оружия доступен. [Боевое дроны]"
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Посмотреть рецепты крафта."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Посмотреть свой журнал знаний [Кузнец]"
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
@@ -590,103 +590,103 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/text"
-msgstr ""
+msgstr "Выбрать категорию оружия для ковки."
 
 #: src-en/data/events_special_storage.xml.append:751
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть на лазерное оружие."
 
 #: src-en/data/events_special_storage.xml.append:756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть на лазерное оружие."
 
 #: src-en/data/events_special_storage.xml.append:763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть на ионное оружие."
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть на ионное оружие."
 
 #: src-en/data/events_special_storage.xml.append:775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть на лучевое оружие."
 
 #: src-en/data/events_special_storage.xml.append:780
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть на лучевое оружие."
 
 #: src-en/data/events_special_storage.xml.append:787
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть на точечные лучи."
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть на точечные лучи."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть на осколочное оружие."
 
 #: src-en/data/events_special_storage.xml.append:804
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть на осколочное оружие."
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_EXPLOSIVE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть взрывное оружие."
 
 #: src-en/data/events_special_storage.xml.append:817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_EXPLOSIVE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть взрывное оружие."
 
 #: src-en/data/events_special_storage.xml.append:824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть взрывное оружие."
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть взрывное оружие."
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Посмотреть список улучшений оружия"
 
 #: src-en/data/events_special_storage.xml.append:839
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Посмотреть список улучшений"
 
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
@@ -713,7 +713,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
@@ -726,6 +726,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Морозный лазер мод. I и "
+"Облучающий лазер."
 
 #: src-en/data/events_special_storage.xml.append:899
 msgid ""
@@ -750,6 +752,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_FLAMETHROWER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должен быть лазер Огневик и газообразная "
+"масса."
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
@@ -762,6 +766,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_PHASER_SUFFOCATION_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должен быть ланиус и орудие Фазер мод.II."
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
@@ -798,6 +803,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_HUMAN_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать лазер \"Потрошитель повстанцев\", вам необходимо иметь "
+"Облучающий лазер и Тяжелый лазер мод. I."
 
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
@@ -814,17 +821,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr ""
+msgstr "Попросить Алестера настроить Богоубийцу. [Цена: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, вернуться в главное меню."
 
 #: src-en/data/events_special_storage.xml.append:988
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:992
 msgid ""
@@ -837,6 +844,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_DISC_LAUNCHER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должен быть базовый миномет и "
+"Энергетическое противокорпусное орудие."
 
 #: src-en/data/events_special_storage.xml.append:1002
 msgid ""
@@ -849,6 +858,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_ION_TRI_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должен быть Три-ион и Зажигательное ионное "
+"орудие."
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
@@ -861,6 +872,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_CHAINGUN_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Вулкан и Зарядное ионное орудие."
 
 #: src-en/data/events_special_storage.xml.append:1022
 msgid ""
@@ -873,6 +885,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SHOTGUN_ENERGY_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Осколочная пушка мод. III и "
+"Зарядная энергетическая пушка."
 
 #: src-en/data/events_special_storage.xml.append:1032
 msgid ""
@@ -885,6 +899,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Импульсный лазер мод. I и "
+"Энергетическая пушка мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
@@ -897,6 +913,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_2_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Импульсный лазер мод. II и "
+"Энергетическая пушка мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1052
 msgid ""
@@ -909,6 +927,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_3_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Импульсный лазер мод. III и "
+"Энергетическая пушка мод. III."
 
 #: src-en/data/events_special_storage.xml.append:1062
 msgid ""
@@ -921,28 +941,34 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSEDEEP_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, вы должны обладать Тяжелой энергетической пушкой "
+"и Тяжелым ионом."
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SURGE_LASER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить в Импульсный лазер силовое ядро осколочной пушки мод. IV. [Цена: "
+"80~]"
 
 #: src-en/data/events_special_storage.xml.append:1077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SURGE_LASER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Импульсный лазер мод. III и "
+"Осколочная пушка мод. IV."
 
 #: src-en/data/events_special_storage.xml.append:1083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, вернуться в главное меню."
 
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1101
 msgid ""
@@ -955,6 +981,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_MINING_2_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть луч \"Сариса\" и горный луч."
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
@@ -966,7 +993,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_PARTICLE_PIERCE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Чтобы выковать это орудие, необходимы Пучок частиц и луч \"Гвизарма\"."
 
 #: src-en/data/events_special_storage.xml.append:1121
 msgid ""
@@ -979,6 +1006,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, нужно иметь луч \"Фашард\" и что-то по-настоящему "
+"убийственное."
 
 #: src-en/data/events_special_storage.xml.append:1131
 msgid ""
@@ -991,6 +1020,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_EXPLOSION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Малая бомба и луч \"Алебарда\"."
 
 #: src-en/data/events_special_storage.xml.append:1141
 msgid ""
@@ -1003,6 +1033,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Для его создания нужен луч \"Рунка\" плюс Базовый ион или Залповый ион мод. "
+"I."
 
 #: src-en/data/events_special_storage.xml.append:1151
 msgid ""
@@ -1015,6 +1047,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ETERNITY_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть луч \"Пика\" и луч \"Коса\"."
 
 #: src-en/data/events_special_storage.xml.append:1161
 msgid ""
@@ -1023,20 +1056,23 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1166
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"BEAM_PRISM_SCATTER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[CNC + AA] Чтобы выковать это орудие, у вас должны быть Призматическая пушка "
+"и Залповый призматический ион."
 
 #: src-en/data/events_special_storage.xml.append:1172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, вернуться в главное меню."
 
 #: src-en/data/events_special_storage.xml.append:1185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
@@ -1049,6 +1085,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_FUELED_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть точечный луч \"Чинкуэда\" и "
+"ракетница \"Гермес\"."
 
 #: src-en/data/events_special_storage.xml.append:1200
 msgid ""
@@ -1061,18 +1099,24 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть точечный луч \"Дирк\" и "
+"Энергетическая пушка мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_2_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Заменить источник энергии точечного луча \"Мизерикорд\" на ядро "
+"Энергетической пушки мод. II, чтобы выковать точечный луч \"Болиголов\"."
 
 #: src-en/data/events_special_storage.xml.append:1215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_2_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть точечный луч \"Мизерикорд\" и "
+"Осколочная пушка мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1220
 msgid ""
@@ -1085,6 +1129,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_3_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть острие точечный луч \"Стилет\" "
+"и оружие Энергетическая пушка мод. III."
 
 #: src-en/data/events_special_storage.xml.append:1230
 msgid ""
@@ -1097,18 +1143,24 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть точечный луч \"Дирк\" и "
+"Консервативная энергетическая пушка."
 
 #: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_VIRUS_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Улучшить фокусировочную линзу точечного луча \"Анелас\" смертоносными "
+"химикатами Коррозионного лазера. [Цена: 50~]"
 
 #: src-en/data/events_special_storage.xml.append:1245
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_VIRUS_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Коррозионный лазер мод. II и "
+"Рад-точечный луч \"Анелас\"."
 
 #: src-en/data/events_special_storage.xml.append:1250
 msgid ""
@@ -1121,6 +1173,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть луч \"Су-яри\" и точечный луч "
+"\"Чинкуэда\"."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
@@ -1142,7 +1196,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1287
 msgid ""
@@ -1212,7 +1266,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1355
 msgid ""
@@ -1337,12 +1391,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, вернуться в главное меню."
 
 #: src-en/data/events_special_storage.xml.append:1470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ORGANIC\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1474
 msgid ""
@@ -1364,7 +1418,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1498
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Какое оружие вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1502
 msgid ""
@@ -1558,7 +1612,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1696
 msgid ""
@@ -1583,7 +1637,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1720
 msgid ""
@@ -1608,7 +1662,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1742
 msgid ""
@@ -1648,7 +1702,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1769
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1772
 msgid ""
@@ -1688,7 +1742,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1802
 msgid ""
@@ -1728,7 +1782,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1832
 msgid ""
@@ -1778,7 +1832,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1868
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1871
 msgid ""
@@ -1828,7 +1882,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1914
 msgid ""
@@ -1853,7 +1907,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1938
 msgid ""
@@ -1878,7 +1932,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1962
 msgid ""
@@ -1903,7 +1957,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:1989
 msgid ""
@@ -1965,7 +2019,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2046
 msgid ""
@@ -1990,7 +2044,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2073
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2078
 msgid ""
@@ -2005,7 +2059,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2094
 msgid ""
@@ -2020,7 +2074,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2111
 msgid ""
@@ -2035,7 +2089,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_STUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2127
 msgid ""
@@ -2060,7 +2114,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2150
 msgid ""
@@ -2105,7 +2159,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2187
 msgid ""
@@ -2120,7 +2174,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2203
 msgid ""
@@ -2145,7 +2199,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2227
 msgid ""
@@ -2160,7 +2214,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2242
 msgid ""
@@ -2185,7 +2239,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2266
 msgid ""
@@ -2210,7 +2264,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2292
 msgid ""
@@ -2225,7 +2279,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2307
 msgid ""
@@ -2250,7 +2304,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2331
 msgid ""
@@ -2275,7 +2329,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2358
 msgid ""
@@ -2300,7 +2354,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2397
 msgid ""
@@ -2325,7 +2379,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[@req=\"FM_BEAM_MINING_3_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2424
 msgid ""
@@ -2340,7 +2394,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2442
 msgid ""
@@ -2365,7 +2419,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2466
 msgid ""
@@ -2550,7 +2604,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2650
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2656
 msgid ""
@@ -2565,7 +2619,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2666
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_EGG\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2671
 msgid ""
@@ -2580,7 +2634,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2687
 msgid ""
@@ -2605,7 +2659,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2712
 msgid ""
@@ -2620,7 +2674,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2728
 msgid ""
@@ -2645,7 +2699,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2749
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_SPECIAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2754
 msgid ""
@@ -2670,7 +2724,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ETERNITY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2779
 msgid ""
@@ -2695,7 +2749,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM_PRISM_SCATTER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2804
 msgid ""
@@ -2720,7 +2774,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2836
 msgid ""
@@ -2745,7 +2799,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2855
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2860
 msgid ""
@@ -2770,7 +2824,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2879
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2884
 msgid ""
@@ -2785,7 +2839,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2899
 msgid ""
@@ -2810,7 +2864,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2923
 msgid ""
@@ -2860,7 +2914,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_CONS\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2965
 msgid ""
@@ -2885,7 +2939,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:2992
 msgid ""
@@ -2900,7 +2954,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3011
 msgid ""
@@ -2925,7 +2979,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ADAPT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3035
 msgid ""
@@ -2950,7 +3004,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_MEGA\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3067
 msgid ""
@@ -2965,7 +3019,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
@@ -2980,7 +3034,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3092
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3097
 msgid ""
@@ -2995,7 +3049,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3112
 msgid ""
@@ -3020,7 +3074,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_AETHER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3138
 msgid ""
@@ -3045,7 +3099,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_CURSED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3161
 msgid ""
@@ -3070,7 +3124,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3185
 msgid ""
@@ -3085,7 +3139,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3200
 msgid ""
@@ -3120,7 +3174,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3236
 msgid ""
@@ -3135,7 +3189,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3255
 msgid ""
@@ -3165,7 +3219,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3285
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3293
 msgid ""
@@ -3180,7 +3234,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3312
 msgid ""
@@ -3195,7 +3249,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3331
 msgid ""
@@ -3210,7 +3264,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3350
 msgid ""
@@ -3225,7 +3279,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3369
 msgid ""
@@ -3240,7 +3294,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3388
 msgid ""
@@ -3255,7 +3309,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3407
 msgid ""
@@ -3270,7 +3324,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3426
 msgid ""
@@ -3285,7 +3339,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3445
 msgid ""
@@ -3300,7 +3354,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3464
 msgid ""
@@ -3315,7 +3369,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3475
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3483
 msgid ""
@@ -3330,7 +3384,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3502
 msgid ""
@@ -3345,7 +3399,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"BOMB_LOCK\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3521
 msgid ""
@@ -3370,7 +3424,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3545
 msgid ""
@@ -3385,7 +3439,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3556
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3564
 msgid ""
@@ -3415,7 +3469,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3594
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3602
 msgid ""
@@ -3430,7 +3484,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
@@ -3445,7 +3499,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3640
 msgid ""
@@ -3460,7 +3514,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3659
 msgid ""
@@ -3475,7 +3529,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3678
 msgid ""
@@ -3490,7 +3544,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3697
 msgid ""
@@ -3505,7 +3559,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3708
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3716
 msgid ""
@@ -3520,7 +3574,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3727
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3735
 msgid ""
@@ -3535,7 +3589,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3746
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3754
 msgid ""
@@ -3550,7 +3604,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3773
 msgid ""
@@ -3565,7 +3619,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3784
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3792
 msgid ""
@@ -3580,7 +3634,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3803
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3811
 msgid ""
@@ -3595,7 +3649,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3822
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"BOMB_LOCK\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3830
 msgid ""
@@ -3625,7 +3679,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_MEGA_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3872
 msgid ""
@@ -3640,7 +3694,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3887
 msgid ""
@@ -3655,7 +3709,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS_TYPE2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3902
 msgid ""
@@ -3670,7 +3724,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3912
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3917
 msgid ""
@@ -3695,7 +3749,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_MEGA\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3941
 msgid ""
@@ -3710,7 +3764,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3956
 msgid ""
@@ -3725,7 +3779,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3971
 msgid ""
@@ -3740,7 +3794,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:3986
 msgid ""
@@ -3765,7 +3819,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4010
 msgid ""
@@ -3790,7 +3844,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4029
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_BIO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4034
 msgid ""
@@ -3815,7 +3869,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMBLAUNCHER_HULL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4058
 msgid ""
@@ -3840,7 +3894,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MINELAUNCHER_BIO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4082
 msgid ""
@@ -3865,7 +3919,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_MISSILES\"]/choice[@req=\"FM_ION_MISSILES_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4106
 msgid ""
@@ -3890,7 +3944,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4133
 msgid ""
@@ -3905,7 +3959,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4151
 msgid ""
@@ -3932,7 +3986,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"4\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4177
 msgid ""
@@ -3950,7 +4004,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"3\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4198
 msgid ""
@@ -3968,7 +4022,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4218
 msgid ""
@@ -3994,7 +4048,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_MAMMOTH_CANNON\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4243
 msgid ""
@@ -4019,7 +4073,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4276
 msgid ""
@@ -4039,7 +4093,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4295
 msgid ""
@@ -4059,7 +4113,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4314
 msgid ""
@@ -4079,7 +4133,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4334
 msgid ""
@@ -4099,7 +4153,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4350
 msgid ""
@@ -4114,7 +4168,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4363
 msgid ""
@@ -4129,7 +4183,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4376
 msgid ""
@@ -4144,7 +4198,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4389
 msgid ""
@@ -4169,7 +4223,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4414
 msgid ""
@@ -4189,7 +4243,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4433
 msgid ""
@@ -4209,7 +4263,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4452
 msgid ""
@@ -4229,7 +4283,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4471
 msgid ""
@@ -4249,7 +4303,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4490
 msgid ""
@@ -4269,7 +4323,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Приступить к работе?"
 
 #: src-en/data/events_special_storage.xml.append:4509
 msgid ""
