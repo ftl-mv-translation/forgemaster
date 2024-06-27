@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-20 15:24+0000\n"
+"PO-Revision-Date: 2024-06-28 12:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/ru/>\n"
@@ -448,24 +448,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr ""
-"(Прощение) Добавить несколько \"неожиданных гостей вечеринки\", чтобы "
+"(\"Прощение\") Добавить несколько \"неожиданных гостей вечеринки\", чтобы "
 "\"оторваться по полной\"."
 
 #: src-en/data/events_sector_harmony.xml.append:656
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Выстрелить из Прощения."
+msgstr "Выстрелить из \"Прощения\"."
 
 #: src-en/data/events_sector_harmony.xml.append:662
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Ваше Прощение заполняет их судно для вечеринок облаками ионных аномалий. Вы "
-"рады, что первым делом был отключен кислород, и вам не пришлось слышать их "
-"истошные крики, когда их разрывало на части аномальными вихрями. Вы грабите "
-"корабли, стоящие в доке рядом с судном для вечеринок."
+"Ваше \"Прощение\" заполняет их судно для вечеринок облаками ионных аномалий. "
+"Вы рады, что первым делом был отключен кислород, и вам не пришлось слышать "
+"их истошные крики, когда их разрывало на части аномальными вихрями. Вы "
+"грабите корабли, стоящие в доке рядом с судном для вечеринок."
 
 #: src-en/data/events_sector_harmony.xml.append:664
 msgid ""
@@ -917,17 +917,17 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Выстрелить из Прощения."
+msgstr "Выстрелить из \"Прощения\"."
 
 #: src-en/data/events_sector_harmony.xml.append:1462
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Ваше Прощение заполняет их судно для вечеринок облаками ионных аномалий. Вы "
-"рады, что первым делом был отключен кислород, и вам не пришлось слышать их "
-"истошные крики, когда их разрывало на части аномальными вихрями. Вы грабите "
-"корабли, стоящие в доке рядом с судном для вечеринок."
+"Ваше \"Прощение\" заполняет их судно для вечеринок облаками ионных аномалий. "
+"Вы рады, что первым делом был отключен кислород, и вам не пришлось слышать "
+"их истошные крики, когда их разрывало на части аномальными вихрями. Вы "
+"грабите корабли, стоящие в доке рядом с судном для вечеринок."
 
 #: src-en/data/events_sector_harmony.xml.append:1464
 msgid ""
