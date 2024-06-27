@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-26 12:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-28 12:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2582,12 +2582,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/title"
-msgstr "\"Мультипликационный\" залповый лазер."
+msgstr "Залповый лазер \"Множественность\"."
 
 #: src-en/data/blueprints.xml.append:4571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/short"
-msgstr ""
+msgstr "\"Множественность\""
 
 #: src-en/data/blueprints.xml.append:4573
 msgid ""
@@ -3471,7 +3471,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/title"
-msgstr ""
+msgstr "Луч Терра Нова \"Крушитель кораблей\""
 
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
@@ -5982,7 +5982,7 @@ msgstr "Бомбовое оружие; наносит 2 урона систем�
 #: src-en/data/blueprints.xml.append:13068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE\"]/title"
-msgstr "Залповое ружье"
+msgstr "Пробивная митральеза"
 
 #: src-en/data/blueprints.xml.append:13069
 msgid ""
