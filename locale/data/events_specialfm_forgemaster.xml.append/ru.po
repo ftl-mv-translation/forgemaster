@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-28 12:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1879,7 +1879,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1642
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr "Попросить Алестера настроить Богоубийцу. [Цена: 10~]"
+msgstr "Попросить Алестера настроить \"Богоубийцу\". [Цена: 10~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1648
 msgid ""
@@ -1897,7 +1897,7 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Поместить лом в миномет и зарядить его энергией с помощью Энергетического "
-"противокорпусного орудия, чтобы выковать Диковую пусковую установку \"ТАРАНИС"
+"противокорпусного орудия, чтобы выковать диковую пусковую установку \"ТАРАНИС"
 "\". [Цена: 50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1670
@@ -1937,7 +1937,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ION\"]/choice[@req=\"FM_CHAINGUN_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Чтобы выковать это орудие, у вас должны быть Вулкан и Зарядное ионное орудие."
+"Чтобы выковать это орудие, у вас должны быть Вулкан и Зарядную ионную пушку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1695
 msgid ""
@@ -2267,12 +2267,17 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_PINPOINT\"]/choice[@req=\"FM_BEAM_MINING_3_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить точечный луч \"Мизерикорд\" либо точечный луч \"Стилет\" и луч "
+"\"Ишимура\", чтобы выковать точечный луч Терра Нова \"Крушитель кораблей\". "
+"[Цена: 50-70~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1921
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_PINPOINT\"]/choice[@req=\"FM_BEAM_MINING_3_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть точечный луч \"Мизерикорд\" ("
+"или точечный луч \"Стилет\") и луч \"Ишимура\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1926
 msgid ""
@@ -2289,60 +2294,78 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить модуль охлаждения Морозного лазера мод. II в корпус Облучающей "
+"осколочной пушки, чтобы выковать Рассеиватель аномалий \"ХЕЙМОН\". [Цена: "
+"45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1945
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должен быть Морозный лазер мод. II и "
+"пусковая установка Облучающая осколочная пушка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1950
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Наполнить свою Осколочную пушку мод. II кристаллическими наростами, чтобы "
+"выковать Бронзовую осколочную пушку. [Цена: 10~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1955
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать Бронзовую осколочную пушку, у вас должно быть кристаллическое "
+"оружие и Осколочная пушка мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1960
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить технологию эфира в вашу Осколочную пушку мод. IV. [Цена: 60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1965
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Для улучшения Осколочной пушки мод. IV вам понадобятся любые отголоски "
+"утраченных технологий."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1970
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить технологию ланиусов в вашу Осколочную пушку. [Цена: 30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1975
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать осколочную пушку \"Карнифекс\", вам понадобятся Клон-отсек 3-"
+"го уровня, ланиус и Осколочная пушка мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1980
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Зарядную осколочную пушку и Зарядную энергетическую пушку, чтобы "
+"выковать осколочную пушку Рельсовый шредер. [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1985
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Зарядная осколочная пушка и "
+"Зарядная энергетическая пушка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1991
 msgid ""
@@ -2359,120 +2382,161 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Разобрать и объединить ракетницы \"Арес\" и \"Аид\", чтобы создать ракетницу "
+"\"Адское пламя\". [Цена: 90~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2012
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть ракетницы \"Арес\" и \"Аид\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Улучшить маскирующее поле ракетницы \"Никс\" с помощью ядра Энергетического "
+"ошеломителя, чтобы выковать ракетницу \"Чернобог\". [Цена: 70~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2022
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть ракетная установка \"Никс\" и "
+"Энергетический ошеломитель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2027
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Соединить Кристаллическую изолирующую бомбу с Зажигательной бомбой, чтобы "
+"создать Проект #7: Пылающий конец. [Цена: 60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2032
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Изолирующая и Зажигательная "
+"бомбы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2037
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_BIO_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Соединить Кристаллическую изолирующую бомбу с Облучающей бомбой, чтобы "
+"создать Проект #22: Безымянный. [Цена: 80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2042
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_BIO_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Изолирующая и Облучающая бомбы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2047
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMBLAUNCHER_HULL_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Вставить силовое ядро юри-риг Противокорпусного лазера мод. II в миномет "
+"\"Себек\", чтобы создать это орудие. [Цена: 90~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2052
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_BOMBLAUNCHER_HULL_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть миномет \"Себек\" и "
+"Противокорпусный лазер мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2057
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MINELAUNCHER_BIO_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Извлечь ядро ракетницы \"Асклепий\" и поместить его в миномет \"Осирис\". "
+"[Цена: 140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2062
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_MINELAUNCHER_BIO_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть ракетница \"Асклепий\" и "
+"миномет \"Осирис\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2067
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить ракетницу \"Гермес\" и Ионную пушку мод. II, чтобы выковать "
+"тяжелю ракетницу \"Дебилитатум\". [Цена: 65~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2072
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть ракетница \"Гермес\" и Ионная "
+"пушка мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2079
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Перенастроить Оглушающую бомбу, чтобы она рассеивала изнуряющие "
+"кристаллические частицы Нейрокристалла для того, чтобы выковать Индуктор "
+"внушения. [Цена: 25-55~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2084
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть Оглушающая бомба и "
+"Нейрокристалл."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2090
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[ВПЕРЕД БАЛЛИСТИКА] Объединить от двух до четырех Автопушек 1с, чтобы "
+"выковать Пробивную митральезу. [Цена: 20-60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2095
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[ВПЕРЕД БАЛЛИСТИКА] Чтобы выковать это орудие, у вас должно быть от двух до "
+"четырех Автопушек 1с."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2101
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[ВПЕРЕД БАЛЛИСТИКА + CNC] Объединить две Автопушки 2с и 5 боеголовок, чтобы "
+"выковать пушку \"Мамонт\". [Цена: 60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2106
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[ВПЕРЕД БАЛЛИСТИКА + CNC] Чтобы выковать это орудие, у вас должно быть две "
+"Автопушки 2с и 5 боеголовок."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2112
 msgid ""
@@ -2488,13 +2552,15 @@ msgstr "Какое оружие вы хотели бы создать?"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ORGANIC\"]/choice[@req=\"FM_BEAM_BASILISK_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Ваша пиявка пожирает глазами ваш элитный зерномет..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2132
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ORGANIC\"]/choice[@req=\"FM_BEAM_BASILISK_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, нужно иметь по-настоящему ненасытное существо и "
+"высококачественный салат, чтобы утолить его аппетит."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2138
 msgid ""
@@ -2510,13 +2576,14 @@ msgstr "Какое оружие вы хотели бы создать?"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_UPGRADE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Улучшить Металлический зерномет."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2157
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_UPGRADE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы продолжить, вам потребуется Бронзовая осколочная пушка 1--->9 уровня."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2163
 msgid ""
@@ -2527,11 +2594,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание аномального лазера \"ТЛАЛОК\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2173
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/text"
-msgstr ""
+msgstr "Выковать лазер аномалий \"ТЛАЛОК\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2175
 msgid ""
@@ -2552,11 +2620,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Гатлинг-пушки \"Адская вспышка\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2200
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Гатлинг-пушку \"Адская вспышка\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2208
 msgid ""
@@ -2586,12 +2655,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2242
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание огнемета \"Дажьбог\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2244
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/text"
-msgstr ""
+msgstr "Выковать огнемет \"Дажьбог\", используя Гуля."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2246
 msgid ""
@@ -2621,7 +2690,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2262
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "Вы аккуратно помещаете Гуля в топливную камеру огнемета."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2266
 msgid ""
@@ -2631,7 +2700,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2277
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/text"
-msgstr ""
+msgstr "Выковать огнемет \"Дажьбог\", используя фантома."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2279
 msgid ""
@@ -2661,7 +2730,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2295
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "Вы аккуратно помещаете фантома в топливную камеру огнемета."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2299
 msgid ""
@@ -2671,7 +2740,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2310
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/text"
-msgstr ""
+msgstr "Выковать огнемет \"Дажьбог\", используя Мара."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2312
 msgid ""
@@ -2701,7 +2770,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2328
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "Вы аккуратно помещаете Мара в топливную камеру огнемета."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2332
 msgid ""
@@ -2711,7 +2780,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2343
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/text"
-msgstr ""
+msgstr "Выковать огнемет \"Дажьбог\", используя Виденье."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2345
 msgid ""
@@ -2741,7 +2810,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2361
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "Вы аккуратно помещаете Виденье в топливную камеру огнемета."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2365
 msgid ""
@@ -2756,12 +2825,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2383
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание \"Расщепителя\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2385
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать фазер \"Расщепитель\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2387
 msgid ""
@@ -2792,6 +2861,8 @@ msgstr "..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[1]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Ланиус начинает разрушаться, когда вы направляете на него энергию Фазера, "
+"сливаясь с металлом орудия и изменяя его структуру."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2410
 msgid ""
@@ -2806,12 +2877,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Фотонный лазер мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2429
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Фотонный лазер мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2437
 msgid ""
@@ -2841,12 +2912,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2471
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/text"
-msgstr ""
+msgstr "Выковать Фотонный лазер мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2473
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Фотонный лазер мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2481
 msgid ""
@@ -2877,11 +2948,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание лазера \"Потрошитель повстанцев\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2517
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать лазер \"Потрошитель повстанцев\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2519
 msgid ""
@@ -2902,11 +2974,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание индуктора разломов \"Прощение\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2544
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать индуктор разломов \"Прощение\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2554
 msgid ""
@@ -2948,7 +3021,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:2598
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать \"Множественность\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2600
 msgid ""
@@ -2968,19 +3041,19 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2622
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание \"Богоубийцы\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2624
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/text"
-msgstr ""
+msgstr "Изменить настройки орудия с \"Полуавтомат\" на \"Полный автомат\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2626
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/event/text"
 msgstr ""
-"Алестер осторожно берет Богоубийцу и кладет его на верстак. Он подходит к "
-"ящику с инструментами и достает отвертку."
+"Алестер осторожно берет \"Богоубийцу\" и кладет его на верстак. Он подходит "
+"к ящику с инструментами и достает отвертку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2631
 msgid ""
@@ -2991,6 +3064,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"С помощью простой плоской отвертки он отвинчивает заднюю часть корпуса "
+"орудия. Открывается панель с одним большим циферблатом внутри."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2636
 msgid ""
@@ -3001,6 +3076,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Переведя один циферблат с надписью \"ПОЛУ\" вправо, чтобы указать на \"АВТО\""
+", Алестер почесывает затылок. \"Зачем они выставили это на \"Полу\"? Так "
+"странно. Ну, не злоупотребляй этой силой, иначе мне придется забрать ее у "
+"тебя, мальчик!\" - говорит он слегка посмеиваясь. Он возвращает вам орудие."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2642
 msgid ""
@@ -3016,11 +3095,14 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание дисковой пусковой установки "
+"\"ТАРАНИС\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2663
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_1\"]/text"
 msgstr ""
+"Выковать дисковую пусковую установку \"ТАРАНИС\" с помощью миномета \"Геб\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2665
 msgid ""
@@ -3036,6 +3118,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_2\"]/text"
 msgstr ""
+"Выковать дисковую пусковую установку \"ТАРАНИС\" с помощью миномета \"Осирис"
+"\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2684
 msgid ""
@@ -3051,6 +3135,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
 msgstr ""
+"Выковать дисковую пусковую установку \"ТАРАНИС\" с помощью миномета \"Сехмет"
+"\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2704
 msgid ""
@@ -3066,6 +3152,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_STUN\"]/text"
 msgstr ""
+"Выковать дисковую пусковую установку \"ТАРАНИС\" с помощью миномета \"Анубис"
+"\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2723
 msgid ""
@@ -3085,12 +3173,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2747
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание иона \"Цербер\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2749
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать ион \"Цербер\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2757
 msgid ""
@@ -3110,7 +3198,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2772
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вернуться в меню крафта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2784
 msgid ""
@@ -3120,12 +3208,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2791
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Гатлинг-иона \"Веста\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2794
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Выковать Гатлинг-ион \"Веста\", используя Зарядную ионную пушку мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2796
 msgid ""
@@ -3141,6 +3229,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN_2\"]/text"
 msgstr ""
+"Выковать Гатлинг-ион \"Веста\", используя Зарядную ионную пушку мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2815
 msgid ""
@@ -3161,11 +3250,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Энергетического диффузора "
+"\"Эксидия\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2841
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST_PLUS\"]/text"
 msgstr ""
+"Выковать энергетический диффузор+ \"Эксидия\", используя Зарядную "
+"энергетическую пушку+."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2843
 msgid ""
@@ -3181,6 +3274,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST\"]/text"
 msgstr ""
+"Выковать энергетический диффузор \"Эксидия\", используя Зарядную "
+"энергетическую пушку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2863
 msgid ""
@@ -3200,12 +3295,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2887
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Пульсового лазера мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2890
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Пульсовой лазер мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2892
 msgid ""
@@ -3225,12 +3320,13 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2917
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE_2\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Пульсовой лазер мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2920
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST_PLUS\"]/text"
 msgstr ""
+"Выковать Пульсовой лазер мод. II+, используя Энергетическую пушку мод. II+."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2922
 msgid ""
@@ -3246,6 +3342,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST\"]/text"
 msgstr ""
+"Выковать Пульсовой лазер мод. II, используя Энергетическую пушку мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2941
 msgid ""
@@ -3265,12 +3362,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2965
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE_3\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Пульсовой лазер мод. III."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2968
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSE_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Пульсовой лазер мод. III."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2970
 msgid ""
@@ -3290,12 +3387,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание Пульсоглубинной пушки."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2998
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать Пульсоглубинную пушку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3000
 msgid ""
@@ -3315,12 +3412,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание луча \"Ишимура\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3030
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать луч \"Ишимура\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3038
 msgid ""
@@ -3356,11 +3453,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание точечного луча \"Терра Нова\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3080
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[@req=\"FM_BEAM_MINING_3_LIST\"]/text"
 msgstr ""
+"Выковать точечный луч \"Терра Нова\", используя точечный луч \"Мизерикорд\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3082
 msgid ""
@@ -3376,6 +3475,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[@req=\"FM_BEAM_MINING_3_LIST_2\"]/text"
 msgstr ""
+"Выковать точечный луч \"Терра Нова\", используя точечный луч \"Стилет\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3101
 msgid ""
@@ -3395,12 +3495,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3125
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание луча \"Ушная ложка\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3127
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Ушная ложка\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3135
 msgid ""
@@ -3420,7 +3520,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3150
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вернуться в меню крафта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3162
 msgid ""
