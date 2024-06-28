@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-28 14:14+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -701,13 +701,13 @@ msgstr "Абордажные / Боевые дроны. (скоро будет)"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_COMBAT_DRONE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Боевые дроны. (уже на подходе)"
+msgstr "Боевые дроны. (уже скоро)"
 
 #: src-en/data/events_special_storage.xml.append:854
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_COMBAT_DRONE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Боевые дроны. (уже на подходе)"
+msgstr "Боевые дроны. (уже скоро)"
 
 #: src-en/data/events_special_storage.xml.append:864
 msgid ""
