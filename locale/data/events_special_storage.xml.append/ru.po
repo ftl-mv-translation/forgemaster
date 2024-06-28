@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 13:43+0000\n"
+"PO-Revision-Date: 2024-06-28 14:14+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -740,18 +740,22 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Модифицировать стволы Вулкана с помощью радиаторов Огневика, чтобы выковать "
+"Гатлинг-пушку \"Адская вспышка\"."
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Чтобы выковать это орудие, у вас должны быть Вулкан и Огневик."
 
 #: src-en/data/events_special_storage.xml.append:909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_FLAMETHROWER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Использовать газообразную массу в качестве топлива и поджечь ее с помощью "
+"Огневика, чтобы выковать Огнемет Дажьбог."
 
 #: src-en/data/events_special_storage.xml.append:914
 msgid ""
@@ -766,6 +770,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_PHASER_SUFFOCATION_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Растворить ланиуса в энергетическом поле Фазера мод. II, чтобы выковать "
+"\"Расщепитель\"."
 
 #: src-en/data/events_special_storage.xml.append:924
 msgid ""
@@ -779,30 +785,40 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Использовать Ускоритель частиц мод. I и Легкий лазер мод. I, чтобы выковать "
+"Фотонный лазер мод. II."
 
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать Фотонный лазер мод. I, у вас должны быть Ускоритель частиц "
+"мод. I и Легкий лазер мод. I."
 
 #: src-en/data/events_special_storage.xml.append:939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_2_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Использовать Ускоритель частиц мод. II и Легкий лазер мод. II, чтобы "
+"выковать Фотонный лазер мод. II."
 
 #: src-en/data/events_special_storage.xml.append:944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_2_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать Фотонный лазер мод. II, у вас должны быть Ускоритель частиц "
+"мод. II и Легкий лазер мод. II."
 
 #: src-en/data/events_special_storage.xml.append:949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_HUMAN_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить ядро Облучающего лазера в корпус Тяжелого лазера мод. I, чтобы "
+"выковать лазер \"Потрошитель повстанцев\"."
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
@@ -817,12 +833,18 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ION_MEGA_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Воспользовавшись дополнительными ломом, вы создаете более просторный корпус, "
+"чтобы улучшить Пронзающий лазера, устанавливаете телепортационную технологию "
+"Ионной бомбы, а затем изменяете некоторые данные, чего делать, вероятно, не "
+"следовало."
 
 #: src-en/data/events_special_storage.xml.append:964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ION_MEGA_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Для создания этого орудия у вас должно быть большое количество лома, "
+"технология телепортационных Ионных бомб и ядро Пронзающего лазера мод. II."
 
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
@@ -861,6 +883,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_ION_TRI_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Использовать Три-ион и Зажигательный ион, чтобы выковать ионное орудие "
+"\"Цербер\"."
 
 #: src-en/data/events_special_storage.xml.append:1007
 msgid ""
@@ -875,6 +899,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_CHAINGUN_ION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Заменить стволы Вулкана на Зарядную ионизированную энергию, чтобы выковать "
+"Гатлинг-ион \"Веста\"."
 
 #: src-en/data/events_special_storage.xml.append:1017
 msgid ""
@@ -888,6 +914,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SHOTGUN_ENERGY_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Осколочную пушку мод. III и Зарядную энергетическую пушку, чтобы "
+"выковать Энергетический диффузор \"Эксидия\"."
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
@@ -902,6 +930,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Импульсный лазер мод. I и Энергетическую осколочную пушку мод. I, "
+"чтобы выковать Пульсовой лазер мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1037
 msgid ""
@@ -916,6 +946,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_2_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Импульсный лазер мод. II и Энергетическую осколочную пушку мод. "
+"II, чтобы выковать Пульсовой лазер мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1047
 msgid ""
@@ -930,6 +962,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_3_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Импульсный лазер мод. III и Энергетическую осколочную пушку мод. "
+"III, чтобы выковать Пульсовой лазер мод. III."
 
 #: src-en/data/events_special_storage.xml.append:1057
 msgid ""
@@ -944,6 +978,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSEDEEP_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить Тяжелый энергетический лазер и Тяжелый ион, чтобы выковать "
+"Пульсоглубинную пушку."
 
 #: src-en/data/events_special_storage.xml.append:1067
 msgid ""
@@ -984,6 +1020,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_MINING_2_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Разобрать и объединить луч \"Сариса\" и горные лучи, чтобы выковать луч "
+"\"Ишимура\". [Цена: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1106
 msgid ""
@@ -997,6 +1035,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_PARTICLE_PIERCE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить технологию используемую Пучком частиц в корпус луча \"Гвизарма\", "
+"чтобы создать луч \"Ушная ложка\"."
 
 #: src-en/data/events_special_storage.xml.append:1116
 msgid ""
@@ -1009,6 +1049,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Предоставить ботам-убийцам лом, чтобы перенастроить луч \"Фашард\" по своему "
+"усмотрению. [Цена: 110~, 2}, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:1126
 msgid ""
@@ -1023,6 +1065,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_EXPLOSION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Переделать луч \"Алебарда\", чтобы использовать его длину в качестве "
+"телепортационного фиксатора для Малой бомбы и выковать луч \"Валефор\"."
 
 #: src-en/data/events_special_storage.xml.append:1136
 msgid ""
@@ -1036,6 +1080,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, объединить луч \"Рунка\" с Базовым ионом или "
+"Залповым ионом мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1146
 msgid ""
@@ -1050,6 +1096,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ETERNITY_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить луч \"Пика\" и луч \"Коса\", чтобы выковать луч \"Вечность\"."
 
 #: src-en/data/events_special_storage.xml.append:1156
 msgid ""
@@ -1059,10 +1106,13 @@ msgstr ""
 "Чтобы выковать это орудие, у вас должны быть луч \"Пика\" и луч \"Коса\"."
 
 #: src-en/data/events_special_storage.xml.append:1161
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"BEAM_PRISM_SCATTER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[CNC + AA] Объединить Призматическую пушку и Залповый призматический ион, "
+"чтобы выковать Призматический рассеивающий луч."
 
 #: src-en/data/events_special_storage.xml.append:1166
 #, fuzzy
@@ -1088,6 +1138,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_FUELED_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить точечный луч \"Чинкуэда\" в корпус ракетницы \"Гермес\", чтобы "
+"выковать точечный луч \"Паразониум\"."
 
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
@@ -1102,6 +1154,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Заменить источник энергии точечного луча \"Дирк\" на ядро Энергетической "
+"пушки мод. I, чтобы выковать точечный луч \"Эбони\"."
 
 #: src-en/data/events_special_storage.xml.append:1205
 msgid ""
@@ -1132,6 +1186,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_3_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Заменить источник энергии точечного луча \"Стилет\" на ядро Энергетической "
+"пушки мод. III, чтобы выковать точечный луч \"Зеленое сердце\"."
 
 #: src-en/data/events_special_storage.xml.append:1225
 msgid ""
@@ -1146,6 +1202,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Заменить источник энергии точечного луча \"Дирк\" на ядро Консервативной "
+"энергетической пушки, чтобы выковать точечный луч \"Клен\"."
 
 #: src-en/data/events_special_storage.xml.append:1235
 msgid ""
@@ -1176,6 +1234,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Объединить луч \"Су-яри\" и точечный луч \"Чинкуэда\", чтобы выковать "
+"точечный луч \"Омияри\"."
 
 #: src-en/data/events_special_storage.xml.append:1255
 msgid ""
@@ -1232,37 +1292,44 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установите технологию кристаллинов в вашу Осколочную пушку мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать Бронзовую осколочную пушку, вам понадобится ЛЮБОЕ "
+"кристаллическое орудие и Осколочная пушка мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить технологию эфира в вашу Осколочную пушку мод. IV. [Цена: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:1312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Для улучшения Осколочной пушки мод. IV вам понадобятся любые отголоски "
+"утраченных технологий. [Цена: 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить технологию ланиусов в вашу Осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:1322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать осколочную пушку \"Карнифекс\", вам понадобятся Клон-отсек 3-"
+"го уровня, ланиус и Осколочная пушка мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1327
 msgid ""
@@ -1310,6 +1377,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Улучшить маскирующее поле ракетницы \"Никс\" с помощью ядра Энергетического "
+"ошеломителя, чтобы выковать ракетницу \"Чернобог\"."
 
 #: src-en/data/events_special_storage.xml.append:1370
 msgid ""
@@ -1324,6 +1393,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Соединить Кристаллическую изолирующую бомбу с зажигательной бомбой, чтобы "
+"выковать бомбу Овенатор."
 
 #: src-en/data/events_special_storage.xml.append:1380
 msgid ""
@@ -1392,6 +1463,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать это орудие, у вас должны быть тяжелая ракетница \"Гермес\" и "
+"Ионная пушка мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1425
 msgid ""
@@ -1499,12 +1572,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_BATTLE\"]/text"
-msgstr ""
+msgstr "Какой БОЕВОЙ ДРОН вы бы хотели создать?"
 
 #: src-en/data/events_special_storage.xml.append:1532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_BATTLE\"]/choice[1]/text"
-msgstr ""
+msgstr "СКОРО в 0.4.1!"
 
 #: src-en/data/events_special_storage.xml.append:1540
 msgid ""
@@ -1514,18 +1587,21 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/text"
-msgstr ""
+msgstr "Какой БОЕВОЙ ДРОН вы хотели бы создать?"
 
 #: src-en/data/events_special_storage.xml.append:1557
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[1]/text"
-msgstr ""
+msgstr "СКОРО в 0.4.1!"
 
 #: src-en/data/events_special_storage.xml.append:1562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Соединить центральное энергетическое ядро Дрона с усилителем с линзами "
+"Боевого дрона мод. II, чтобы создать энергетический лучевой дрон \"Кто-то "
+"другой назвал его (Бу-Вомп)\"."
 
 #: src-en/data/events_special_storage.xml.append:1567
 msgid ""
@@ -2678,12 +2754,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:2646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание луча \"Валефор\"."
 
 #: src-en/data/events_special_storage.xml.append:2648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\"+, используя луч \"Алебарда\"+."
 
 #: src-en/data/events_special_storage.xml.append:2650
 msgid ""
@@ -2698,7 +2774,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:2664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_EGG\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\", используя луч \"Алебарда\"."
 
 #: src-en/data/events_special_storage.xml.append:2666
 msgid ""
@@ -2713,7 +2789,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:2679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\", используя луч \"Алебарда\"."
 
 #: src-en/data/events_special_storage.xml.append:2681
 msgid ""
@@ -2849,11 +2925,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание точечного луча \"Паразониум\"."
 
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать точечный луч \"Паразониум\"."
 
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
@@ -2873,12 +2950,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:2851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание точечного луча \"Эбони\"."
 
 #: src-en/data/events_special_storage.xml.append:2853
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать точечный луч \"Эбони\"."
 
 #: src-en/data/events_special_storage.xml.append:2855
 msgid ""
@@ -2899,6 +2976,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание точечного луча \"Болиголов\"."
 
 #: src-en/data/events_special_storage.xml.append:2877
 msgid ""
@@ -3893,12 +3971,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:4001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание бомбы Овенатор."
 
 #: src-en/data/events_special_storage.xml.append:4003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать бомбу Овенатор."
 
 #: src-en/data/events_special_storage.xml.append:4005
 msgid ""
