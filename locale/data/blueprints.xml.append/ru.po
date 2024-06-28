@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 12:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-28 14:14+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -7074,12 +7074,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE_ENEMY\"]/title"
-msgstr ""
+msgstr "Овенатор"
 
 #: src-en/data/blueprints.xml.append:15688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE_ENEMY\"]/short"
-msgstr ""
+msgstr "Овенатор"
 
 #: src-en/data/blueprints.xml.append:15689
 msgid ""
