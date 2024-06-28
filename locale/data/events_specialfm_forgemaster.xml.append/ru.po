@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-27 11:47+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-28 12:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1393,7 +1393,7 @@ msgstr "Проверить рецепты кузницы."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1165
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[3]/text"
-msgstr "По пути загляните в раздел \"Модульный корпус\"."
+msgstr "По пути заглянуть в раздел \"Модульный корпус\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1172
 #, fuzzy
@@ -1460,7 +1460,7 @@ msgstr "Проверить рецепты кузницы."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1246
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[3]/text"
-msgstr "По пути загляните в раздел \"Модульный корпус\"."
+msgstr "По пути заглянуть в раздел \"Модульный корпус\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1254
 msgid ""
@@ -6892,593 +6892,766 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/text"
 msgstr ""
+"Здесь вы можете установить и модифицировать свой собственный Модульный "
+"корпус!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7348
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_MODULAR_HULL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить Модульный корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7359
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_HULL_NOPOINTS\"]/text"
 msgstr ""
+"В настоящее время не используется ни одной из ячеек для улучшения, "
+"установите 5 до тех пор, пока не потребуется установить первое Ключевое "
+"улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7363
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"В настоящее время используется 1 из ячеек для улучшения, установите 4 до тех "
+"пор, пока не потребуется установить Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7367
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"В настоящее время используется 2 из ячеек для улучшения, установите 3 до тех "
+"пор, пока не потребуется установить первое Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7371
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"В настоящее время используется 3 из ячеек для улучшения, установите 2 до тех "
+"пор, пока не потребуется установить первое Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7375
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"В настоящее время используется 4 из ячеек для улучшения, установите 1 до тех "
+"пор, пока не потребуется установить первое Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7379
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"В настоящее время используется 5 из ячеек для улучшения, необходимо "
+"установить первое Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7383
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"В настоящее время используется 6 из ячеек для улучшения, установите 4 до тех "
+"пор, пока не потребуется установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7387
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"В настоящее время используется 7 из ячеек для улучшения, установите 3 до тех "
+"пор, пока не потребуется установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7391
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"В настоящее время используется 8 из ячеек для улучшения, установите 2 до тех "
+"пор, пока не потребуется установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7395
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"В настоящее время используется 9 из ячеек для улучшения, установите 1 до тех "
+"пор, пока не потребуется установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7399
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"В настоящее время используется 10 из ячеек для улучшения, необходимо "
+"установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7403
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"В настоящее время используется 11 из ячеек для улучшения, установите 4 до "
+"тех пор, пока не потребуется установить третье Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7407
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"12\"]/text"
 msgstr ""
+"В настоящее время используется 12 из ячеек для улучшения, установите 3 до "
+"тех пор, пока не потребуется установить третье Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7411
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"13\"]/text"
 msgstr ""
+"В настоящее время используется 13 из ячеек для улучшения, установите 2 до "
+"тех пор, пока не потребуется установить третье Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7415
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"В настоящее время используется 14 из ячеек для улучшения, установите 1 до "
+"тех пор, пока не потребуется установить третье Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7419
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"15\"]/text"
 msgstr ""
+"В настоящее время используется 15 из ячеек для улучшения. Вы достигли "
+"предела!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7423
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"16\"]/text"
 msgstr ""
+"В настоящее время используется 16 из ячеек для улучшения... \"Перегрузка\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"17\"]/text"
 msgstr ""
+"В настоящее время используется 17 из ячеек для улучшения... \"Перегрузка II\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7431
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"18\"]/text"
 msgstr ""
+"В настоящее время используется 18 из ячеек для улучшения... \"Перегрузка "
+"III\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7435
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"19\"]/text"
 msgstr ""
+"В настоящее время используется 19 из ячеек для улучшения... \"Перегрузка IV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7439
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"20\"]/text"
 msgstr ""
+"В настоящее время используется 20 из ячеек для улучшения... \"Перегрузка V\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7443
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"21\"]/text"
 msgstr ""
+"В настоящее время используется 21 из ячеек для улучшения... \"Перегрузка VI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7447
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"22\"]/text"
 msgstr ""
+"В настоящее время используется 22 из ячеек для улучшения... \"Перегрузка "
+"VII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7451
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"23\"]/text"
 msgstr ""
+"В настоящее время используется 23 из ячеек для улучшения... \"Перегрузка "
+"VIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7455
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"24\"]/text"
 msgstr ""
+"В настоящее время используется 24 из ячеек для улучшения... \"Перегрузка IX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7459
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"25\"]/text"
 msgstr ""
+"В настоящее время используется 25 из ячеек для улучшения... \"Перегрузка X\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7463
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"26\"]/text"
 msgstr ""
+"В настоящее время используется 26 из ячеек для улучшения... \"Перегрузка XI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7467
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"27\"]/text"
 msgstr ""
+"В настоящее время используется 27 из ячеек для улучшения... \"Перегрузка "
+"XII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7471
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"28\"]/text"
 msgstr ""
+"В настоящее время используется 28 из ячеек для улучшения... \"Перегрузка "
+"XIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7475
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"29\"]/text"
 msgstr ""
+"В настоящее время используется 29 из ячеек для улучшения... \"Перегрузка "
+"XIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7479
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"30\"]/text"
 msgstr ""
+"В настоящее время используется 30 из ячеек для улучшения... \"Перегрузка XV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7483
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"31\"]/text"
 msgstr ""
+"В настоящее время используется 31 из ячеек для улучшения... \"Перегрузка "
+"XVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7487
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"32\"]/text"
 msgstr ""
+"В настоящее время используется 32 из ячеек для улучшения... \"Перегрузка "
+"XVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7491
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"33\"]/text"
 msgstr ""
+"В настоящее время используется 33 из ячеек для улучшения... \"Перегрузка "
+"XVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7495
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"34\"]/text"
 msgstr ""
+"В настоящее время используется 34 из ячеек для улучшения... \"Перегрузка "
+"XIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7499
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"35\"]/text"
 msgstr ""
+"В настоящее время используется 35 из ячеек для улучшения... \"Перегрузка XX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7503
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"36\"]/text"
 msgstr ""
+"В настоящее время используется 36 из ячеек для улучшения... \"Перегрузка "
+"XXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7507
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"37\"]/text"
 msgstr ""
+"В настоящее время используется 37 из ячеек для улучшения... \"Перегрузка "
+"XXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7511
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"38\"]/text"
 msgstr ""
+"В настоящее время используется 38 из ячеек для улучшения... \"Перегрузка "
+"XXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7515
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"39\"]/text"
 msgstr ""
+"В настоящее время используется 39 из ячеек для улучшения... \"Перегрузка "
+"XXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7519
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"40\"]/text"
 msgstr ""
+"В настоящее время используется 40 из ячеек для улучшения... \"Перегрузка "
+"XXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7523
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"41\"]/text"
 msgstr ""
+"В настоящее время используется 41 из ячеек для улучшения... \"Перегрузка "
+"XXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7527
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"42\"]/text"
 msgstr ""
+"В настоящее время используется 42 из ячеек для улучшения... \"Перегрузка "
+"XXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7531
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"43\"]/text"
 msgstr ""
+"В настоящее время используется 43 из ячеек для улучшения... \"Перегрузка "
+"XXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7535
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"44\"]/text"
 msgstr ""
+"В настоящее время используется 44 из ячеек для улучшения... \"Перегрузка "
+"XXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7539
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"45\"]/text"
 msgstr ""
+"В настоящее время используется 45 из ячеек для улучшения... \"Перегрузка "
+"XXX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7543
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"46\"]/text"
 msgstr ""
+"В настоящее время используется 46 из ячеек для улучшения... \"Перегрузка "
+"XXXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7547
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"47\"]/text"
 msgstr ""
+"В настоящее время используется 47 из ячеек для улучшения... \"Перегрузка "
+"XXXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7551
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"48\"]/text"
 msgstr ""
+"В настоящее время используется 48 из ячеек для улучшения... \"Перегрузка "
+"XXXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7555
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"49\"]/text"
 msgstr ""
+"В настоящее время используется 49 из ячеек для улучшения... \"Перегрузка "
+"XXXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7559
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"50\"]/text"
 msgstr ""
+"В настоящее время используется 50 из ячеек для улучшения... \"Перегрузка "
+"XXXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7563
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"51\"]/text"
 msgstr ""
+"В настоящее время используется 51 из ячеек для улучшения... \"Перегрузка "
+"XXXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7567
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"52\"]/text"
 msgstr ""
+"В настоящее время используется 52 из ячеек для улучшения... \"Перегрузка "
+"XXXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7571
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"53\"]/text"
 msgstr ""
+"В настоящее время используется 53 из ячеек для улучшения... \"Перегрузка "
+"XXXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7575
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"54\"]/text"
 msgstr ""
+"В настоящее время используется 54 из ячеек для улучшения... \"Перегрузка "
+"XXXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7579
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"55\"]/text"
 msgstr ""
+"В настоящее время используется 55 из ячеек для улучшения... \"Перегрузка XL\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7583
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"56\"]/text"
 msgstr ""
+"В настоящее время используется 56 из ячеек для улучшения... \"Перегрузка "
+"XLI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7587
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"57\"]/text"
 msgstr ""
+"В настоящее время используется 57 из ячеек для улучшения... \"Перегрузка "
+"XLII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7591
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"58\"]/text"
 msgstr ""
+"В настоящее время используется 58 из ячеек для улучшения... \"Перегрузка "
+"XLIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7595
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"59\"]/text"
 msgstr ""
+"В настоящее время используется 59 из ячеек для улучшения... \"Перегрузка "
+"XLIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7599
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"60\"]/text"
 msgstr ""
+"В настоящее время используется 60 из ячеек для улучшения... \"Перегрузка "
+"XLV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7603
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"61\"]/text"
 msgstr ""
+"В настоящее время используется 61 из ячеек для улучшения... \"Перегрузка "
+"XLVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7607
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"62\"]/text"
 msgstr ""
+"В настоящее время используется 62 из ячеек для улучшения... \"Перегрузка "
+"XLVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7611
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"63\"]/text"
 msgstr ""
+"В настоящее время используется 63 из ячеек для улучшения... \"Перегрузка "
+"XLVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7615
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"64\"]/text"
 msgstr ""
+"В настоящее время используется 64 из ячеек для улучшения... \"Перегрузка "
+"XLIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7619
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"65\"]/text"
 msgstr ""
+"В настоящее время используется 65 из ячеек для улучшения... \"Перегрузка L\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7623
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"66\"]/text"
 msgstr ""
+"В настоящее время используется 66 из ячеек для улучшения... \"Перегрузка LI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7627
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"67\"]/text"
 msgstr ""
+"В настоящее время используется 67 из ячеек для улучшения... \"Перегрузка "
+"LII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7631
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"68\"]/text"
 msgstr ""
+"В настоящее время используется 68 из ячеек для улучшения... \"Перегрузка "
+"LIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7635
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"69\"]/text"
 msgstr ""
+"В настоящее время используется 69 из ячеек для улучшения... \"Перегрузка "
+"LIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7639
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"70\"]/text"
 msgstr ""
+"В настоящее время используется 70 из ячеек для улучшения... \"Перегрузка LV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7643
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"71\"]/text"
 msgstr ""
+"В настоящее время используется 71 из ячеек для улучшения... \"Перегрузка "
+"LVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7647
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"72\"]/text"
 msgstr ""
+"В настоящее время используется 72 из ячеек для улучшения... \"Перегрузка "
+"LVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7651
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"73\"]/text"
 msgstr ""
+"В настоящее время используется 73 из ячеек для улучшения... \"Перегрузка "
+"LVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7655
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"74\"]/text"
 msgstr ""
+"В настоящее время используется 74 из ячеек для улучшения... \"Перегрузка "
+"LIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7659
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"75\"]/text"
 msgstr ""
+"В настоящее время используется 75 из ячеек для улучшения... \"Перегрузка LX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7663
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"76\"]/text"
 msgstr ""
+"В настоящее время используется 76 из ячеек для улучшения... \"Перегрузка "
+"LXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7667
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"77\"]/text"
 msgstr ""
+"В настоящее время используется 77 из ячеек для улучшения... \"Перегрузка "
+"LXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7671
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"78\"]/text"
 msgstr ""
+"В настоящее время используется 78 из ячеек для улучшения... \"Перегрузка "
+"LXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7675
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"79\"]/text"
 msgstr ""
+"В настоящее время используется 79 из ячеек для улучшения... \"Перегрузка "
+"LXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7679
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"80\"]/text"
 msgstr ""
+"В настоящее время используется 80 из ячеек для улучшения... \"Перегрузка "
+"LXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7683
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"81\"]/text"
 msgstr ""
+"В настоящее время используется 81 из ячеек для улучшения... \"Перегрузка "
+"LXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7687
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"82\"]/text"
 msgstr ""
+"В настоящее время используется 82 из ячеек для улучшения... \"Перегрузка "
+"LXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7691
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"83\"]/text"
 msgstr ""
+"В настоящее время используется 83 из ячеек для улучшения... \"Перегрузка "
+"LXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7695
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"84\"]/text"
 msgstr ""
+"В настоящее время используется 84 из ячеек для улучшения... \"Перегрузка "
+"LXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7699
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"85\"]/text"
 msgstr ""
+"В настоящее время используется 85 из ячеек для улучшения... игра окончена, "
+"чувак, игра окончена!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7705
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_MODULE_TRUE\"]/text"
-msgstr ""
+msgstr "Установить модули."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7711
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_MODULE_FALSE\"]/text"
 msgstr ""
+"Вы не можете установить модули сейчас, сначала установите Ключевое улучшение!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7749
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE1_TRUE\"]/text"
-msgstr ""
+msgstr "Установить первое Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7755
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE2_TRUE\"]/text"
-msgstr ""
+msgstr "Установить второе Ключевое улучшение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7761
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE3_TRUE\"]/text"
-msgstr ""
+msgstr "Установить третье (и последнее) Ключевое улучшение!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7767
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONEEXTRA_TRUE\"]/text"
-msgstr ""
+msgstr "Установить дополнительное... Ключевое улучшение?!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7773
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE1_FALSE\"]/text"
 msgstr ""
+"Вы еще не можете установить первое Ключевое улучшение, сначала используйте 5 "
+"из ячеек для улучшения!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7777
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE2_FALSE\"]/text"
 msgstr ""
+"Вы еще не можете установить второе Ключевое улучшение, сначала используйте "
+"10 из ячеек для улучшения!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7781
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE3_FALSE\"]/text"
 msgstr ""
+"Вы еще не можете установить третье (и последнее) Ключевое улучшение, сначала "
+"используйте 15 из ячеек для улучшения!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7785
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONEEXTRA_FALSE\"]/text"
-msgstr ""
+msgstr "Вы не можете установить еще больше Ключевых улучшений, это запрещено!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7789
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_MODULAR_HULL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Проверить установленные модули!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7795
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/text"
-msgstr ""
+msgstr "Я хочу больше!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7797
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/event/text"
 msgstr ""
+"Аластер удивлен вашей просьбой: \"Ты уверен, мальчик? Я не могу "
+"гарантировать твою безопасность, если мы установим больше модулей...\"\n"
+"\t\t\t\t\t(Ваш корабль будет поджигаться/пробиваться дополнительными "
+"пробоинами, когда вы получите урон, и есть низкий шанс, что полученный урон "
+"будет умножен (Множитель увеличивается с каждым дополнительным Ключевым "
+"улучшением))"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7800
 msgid ""
@@ -7489,6 +7662,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/event/choice[1]/event/text"
 msgstr ""
+"Алестер вздыхает: \"Хорошо, только не говори, что я тебя не предупреждал\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7805
 msgid ""
@@ -7503,12 +7677,12 @@ msgstr "Неважно..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:7821
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_infinite_upgradepoints\"]/text"
-msgstr ""
+msgstr "Меня устраивает то, что у меня установлено сейчас."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7823
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_infinite_upgradepoints\"]/event/text"
-msgstr ""
+msgstr "\"Спасибо, что выбрал безопасность, мальчик\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7826
 msgid ""
@@ -7603,29 +7777,29 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:7930
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/text"
-msgstr ""
+msgstr "Какой тип модуля вы хотите установить?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7932
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить общекорабельные модули."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE_COUNT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установите модули мести."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE_COUNT\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "У вас уже установлено 5 модулей мести."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7954
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[4]/text"
-msgstr ""
+msgstr "Установить системные модули."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7960
 msgid ""
@@ -7636,108 +7810,111 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/text"
 msgstr ""
+"Здесь вы можете увидеть общекорабельные модули, которые вы можете установить "
+"(При выборе модуля вы можете посмотреть детальную информацию о нем, прежде "
+"чем установить)."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7971
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[1]/text"
-msgstr ""
+msgstr "Модуль усиленной обшивки [50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7977
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\"]/text"
-msgstr ""
+msgstr "Модуль \"Усиленная обшивка\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7981
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[3]/text"
-msgstr ""
+msgstr "Модуль герметичных систем [65~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7987
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\"]/text"
-msgstr ""
+msgstr "Модуль \"Герметичные системы\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7991
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[5]/text"
-msgstr ""
+msgstr "Модуль отталкивания пробоин [30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7997
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\"]/text"
-msgstr ""
+msgstr "Модуль \"Отражение пробоин\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8001
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[7]/text"
-msgstr ""
+msgstr "Модуль отталкивания пожара [50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8007
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\"]/text"
-msgstr ""
+msgstr "Модуль \"Отражение пожара\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8011
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[9]/text"
-msgstr ""
+msgstr "Модуль устойчивой конструкции [25~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\"]/text"
-msgstr ""
+msgstr "Модуль \"Устойчивая конструкция\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8021
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[11]/text"
-msgstr ""
+msgstr "Модуль протоколы стражей [30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8027
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\"]/text"
-msgstr ""
+msgstr "Модуль \"Протоколы стражей\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8031
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[13]/text"
-msgstr ""
+msgstr "Модуль интеллектуального пола [20~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8037
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\"]/text"
-msgstr ""
+msgstr "Модуль \"Интеллектуальный пол\" [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8041
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[15]/text"
-msgstr ""
+msgstr "Модуль вдохновляющие аэрозоли [90~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8047
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_AERO\"]/text"
-msgstr ""
+msgstr "Модуль вдохновляющие аэрозоли [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8051
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_RESPIRATION\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшенные поля дыхания [45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8057
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_RESPIRATION\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшенные поля дыхания [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8061
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[19]/text"
-msgstr ""
+msgstr "Модуль магнит для лома [25~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8067
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_SCRAP\"]/text"
-msgstr ""
+msgstr "Модуль магнит для лома [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8071
 msgid ""
