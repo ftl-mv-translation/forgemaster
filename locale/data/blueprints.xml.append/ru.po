@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-28 12:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -9135,21 +9135,27 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18867
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/title"
-msgstr ""
+msgstr "Модульный корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18868
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/desc"
 msgstr ""
+"Настраиваемый слой обшивки для вашего корабля, созданный самим великим "
+"Кузнецом. Дает 5% шанс противостоять урону корпуса даже без установленных "
+"модулей."
 
 #: src-en/data/blueprints.xml.append:18874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_LITE\"]/title"
-msgstr ""
+msgstr "Модульный корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18875
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_LITE\"]/desc"
 msgstr ""
+"Менее настраиваемый слой обшивки для вашего корабля, сделанный самим великим "
+"Кузнецом. Никакого дополнительного сопротивления, потому что на вашем "
+"корабле нет места для установки обшивки."
 
 #: src-en/data/blueprints.xml.append:18882
 msgid ""
