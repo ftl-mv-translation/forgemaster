@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-28 14:14+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -8230,16 +8230,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_FLOORING\"]/text"
 msgstr ""
+"Установить Интеллектуальный пол? [+45% скорости передвижения вашего экипажа "
+"и -15% для врагов на вашем корабле, можно установить до 6, используется 1 "
+"ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8268
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_FLOORING\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Интеллектуальный пол."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8270
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_FLOORING\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Интеллектуальный пол установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8277
 msgid ""
@@ -11242,126 +11245,167 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" [на вашем корабле: экипаж получает -13% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10806
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x2) [на вашем корабле: экипаж получает -24.31% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10810
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x3) [на вашем корабле: экипаж получает -34.15% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10814
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x4) [на вашем корабле: экипаж получает -42.71% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10818
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x5) [на вашем корабле: экипаж получает -"
+"50.158% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10822
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x6) [на вашем корабле: экипаж получает -"
+"56.637% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10826
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x7) [на вашем корабле: экипаж получает -"
+"62.275% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10830
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x8) [на вашем корабле: экипаж получает -"
+"67.179% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10834
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x9) [на вашем корабле: экипаж получает -"
+"71.446% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10838
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x10) [на вашем корабле: экипаж получает -"
+"75.158% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10842
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x11) [на вашем корабле: экипаж получает -"
+"78.387% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10846
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"12\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x12) [на вашем корабле: экипаж получает -"
+"81.197% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10850
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"13\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x13) [на вашем корабле: экипаж получает -"
+"83.641% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10854
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x14) [на вашем корабле: экипаж получает -"
+"85.768% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10858
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"15\"]/text"
 msgstr ""
+"Модуль \"Протоколы стражей\" (x15) [на вашем корабле: экипаж получает -"
+"87.618% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10863
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" [на вашем корабле: +45% скорости "
+"передвижения для союзников, -15% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10867
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" (x2) [на вашем корабле: +110.25% скорости "
+"передвижения для союзников, -27.75% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10871
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" (x3) [на вашем корабле: +204.863% скорости "
+"передвижения для союзников, -38.686% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10875
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" (x4) [на вашем корабле: +342.05% скорости "
+"передвижения для союзников, -47.7% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10879
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" (x5) [на вашем корабле: +540.973% скорости "
+"передвижения для союзников, -55.621% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10883
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Модуль \"Интеллектуальный пол\" (x6) [на вашем корабле: +829.411% скорости "
+"передвижения для союзников, -62.285% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10888
 msgid ""
