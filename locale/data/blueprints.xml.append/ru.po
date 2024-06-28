@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 14:14+0000\n"
+"PO-Revision-Date: 2024-06-29 06:55+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -4213,12 +4213,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/title"
-msgstr ""
+msgstr "Эфирная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9047
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/short"
-msgstr ""
+msgstr "Эфир. оск."
 
 #: src-en/data/blueprints.xml.append:9048
 msgid ""
@@ -6814,12 +6814,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15029
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER_ENEMY\"]/title"
-msgstr ""
+msgstr "Эфирная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15030
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER_ENEMY\"]/short"
-msgstr ""
+msgstr "Эфир. оск."
 
 #: src-en/data/blueprints.xml.append:15032
 msgid ""
