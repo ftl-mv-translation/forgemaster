@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 14:14+0000\n"
+"PO-Revision-Date: 2024-06-29 06:55+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -7925,12 +7925,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7971
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[1]/text"
-msgstr "Модуль \"Усиленная обшивка\" [50~]"
+msgstr "Модуль Усиленная обшивка [50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7977
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Усиленная обшивка [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7981
 msgid ""
@@ -7940,7 +7940,7 @@ msgstr "Модуль герметичных систем [65~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7987
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\"]/text"
-msgstr "Модуль \"Герметичные системы\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Герметичные системы [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7991
 msgid ""
@@ -7950,7 +7950,7 @@ msgstr "Модуль отталкивания пробоин [30~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7997
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\"]/text"
-msgstr "Модуль \"Отражение пробоин\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Отражение пробоин [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8001
 msgid ""
@@ -7960,7 +7960,7 @@ msgstr "Модуль отталкивания пожара [50~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8007
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\"]/text"
-msgstr "Модуль \"Отражение пожара\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Отражение пожара [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8011
 msgid ""
@@ -7970,7 +7970,7 @@ msgstr "Модуль устойчивой конструкции [25~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\"]/text"
-msgstr "Модуль \"Устойчивая конструкция\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Устойчивая конструкция [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8021
 msgid ""
@@ -7980,7 +7980,7 @@ msgstr "Модуль протоколы стражей [30~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8027
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\"]/text"
-msgstr "Модуль \"Протоколы стражей\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Протоколы стражей [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8031
 msgid ""
@@ -7990,7 +7990,7 @@ msgstr "Модуль интеллектуального пола [20~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8037
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\"]/text"
-msgstr "Модуль \"Интеллектуальный пол\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Интеллектуальный пол [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8041
 msgid ""
@@ -8000,7 +8000,7 @@ msgstr "Модуль вдохновляющие аэрозоли [90~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8047
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_AERO\"]/text"
-msgstr "Модуль \"Вдохновляющие аэрозоли\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Вдохновляющие аэрозоли [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8051
 msgid ""
@@ -8012,7 +8012,7 @@ msgstr "Модуль улучшенные поля дыхания [45~]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_RESPIRATION\""
 " and not(@lvl)]/text"
-msgstr "Модуль \"Улучшенные поля дыхания\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Улучшенные поля дыхания [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8061
 msgid ""
@@ -8022,7 +8022,7 @@ msgstr "Модуль магнит для лома [25~]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8067
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_SCRAP\"]/text"
-msgstr "Модуль \"Магнит для лома\" [МАКСИМАЛЬНО]"
+msgstr "Модуль Магнит для лома [МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8071
 msgid ""
@@ -8258,16 +8258,20 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_AERO\"]/text"
 msgstr ""
+"Установить Вдохновляющие аэрозоли? [+100% к скорости перезарядки "
+"способностей для вашего экипажа и -30% для врагов на вашем корабле. Эффект "
+"уменьшается вдвое для вашего экипажа на вражеском корабле. Можно установить "
+"до 5, используются 3 ячейки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8294
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_AERO\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Вдохновляющие аэрозоли."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8296
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_AERO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вдохновляющие аэрозоли установлены!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8303
 msgid ""
@@ -8283,16 +8287,20 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_RESPIRATION\"]/text"
 msgstr ""
+"Установить Улучшенные поля дыхания? [Бесполезен без Кислородной "
+"установки!!][-20% урона от удушья за каждую единицу энергии в Кислородной "
+"установке, мультипликативно увеличивается для экипажа вашего корабля. Можно "
+"установить только один раз, используются 2 ячейки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8320
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_RESPIRATION\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Улучшенные поля дыхания."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8322
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_RESPIRATION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшенные поля дыхания установлены!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8329
 msgid ""
@@ -8308,16 +8316,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_SCRAP\"]/text"
 msgstr ""
+"Установить Магнит для лома? [+5% к заработку лома, можно установить до 3, "
+"используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8346
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_SCRAP\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Магнит для лома."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8348
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_SCRAP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Магнит для лома установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8355
 msgid ""
@@ -10175,198 +10185,202 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/text"
 msgstr ""
+"Здесь вы видите Ключевые улучшения, которые можно установить, всего их можно "
+"установить 3, при достижении 5, 10 и 15 ячеек для улучшения (При выборе "
+"модуля вы можете посмотреть детальную информацию о нем, прежде чем "
+"установить)."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9908
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Соляной корпус [150~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9914
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Соляной корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Устаревший реактор Вестников Заката [110~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9924
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Устаревший реактор Вестников Заката [Установлено]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9928
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Фрески для корпуса [85~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9934
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Фрески для корпуса [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обходной трубопровод компрессора [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Обходной трубопровод компрессора [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9948
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Частичные щиты [100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9954
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Частичные щиты [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9958
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Матрицы восходящей связи оружия [95~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9964
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Матрицы восходящей связи оружия [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9968
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Идеальная бортовая эффективность [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9974
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Идеальная бортовая эффективность [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9978
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Бесконечный цикло-барьер [80~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9984
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Бесконечный цикло-барьер [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9988
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Бесконечный цикло-арсенал [120~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9994
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Бесконечный цикло-арсенал [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9998
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Аура метаплазматической коррозии [105~] (Понерфлен)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10004
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Аура метаплазматической коррозии [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10008
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Электромагнитный корпус [100~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10014
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Электромагнитный корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10018
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Калибратор невыразимых орденов [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Калибратор невыразимых орденов [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Поджигатель оружия [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10034
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Поджигатель оружия [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10038
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Нарушающий генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10044
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Нарушающий генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10048
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Защитный генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10054
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Защитный генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10058
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Фазовые частоты лучей [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10064
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Фазовые частоты лучей [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10069
 msgid ""
@@ -10885,263 +10899,262 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"1\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" [+5% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка [+5% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10581
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"2\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x2) [+10% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x2) [+10% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10585
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"3\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x3) [+15% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x3) [+15% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10589
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"4\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x4) [+20% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x4) [+20% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10593
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"5\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x5) [+25% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x5) [+25% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10597
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"6\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x6) [+30% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x6) [+30% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10601
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"7\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x7) [+35% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x7) [+35% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10605
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"8\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x8) [+40% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x8) [+40% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10609
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"9\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x9) [+45% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x9) [+45% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10613
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"10\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x10) [+50% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x10) [+50% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10617
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"11\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x11) [+55% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x11) [+55% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10621
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"12\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x12) [+60% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x12) [+60% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10625
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"13\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x13) [+65% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x13) [+65% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10629
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"14\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x14) [+70% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x14) [+70% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10633
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"15\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x15) [+75% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x15) [+75% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10637
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"16\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x16) [+80% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x16) [+80% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10641
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"17\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x17) [+85% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x17) [+85% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10645
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"18\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x18) [+90% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x18) [+90% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10649
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"19\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x19) [+95% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x19) [+95% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10653
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FORTIFIED\""
 " and @lvl=\"20\"]/text"
-msgstr "Модуль \"Усиленная обшивка\" (x20) [+100% шанс сопротивления корпуса]"
+msgstr "Модуль Усиленная обшивка (x20) [+100% шанс сопротивления корпуса]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10658
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"1\"]/text"
-msgstr "Модуль \"Герметичные системы\" [+10% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы [+10% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10662
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"2\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x2) [+20% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x2) [+20% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10666
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"3\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x3) [+30% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x3) [+30% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10670
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"4\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x4) [+40% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x4) [+40% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10674
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"5\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x5) [+50% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x5) [+50% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10678
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"6\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x6) [+60% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x6) [+60% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10682
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"7\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x7) [+70% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x7) [+70% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10686
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"8\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x8) [+80% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x8) [+80% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10690
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"9\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x9) [+90% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x9) [+90% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10694
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_ENCASED\""
 " and @lvl=\"10\"]/text"
-msgstr "Модуль \"Герметичные системы\" (x10) [+100% шанс сопротивления систем]"
+msgstr "Модуль Герметичные системы (x10) [+100% шанс сопротивления систем]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10699
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"1\"]/text"
-msgstr "Модуль \"Отражение пробоин\" [-10% шанс пробоин от противника]"
+msgstr "Модуль Отражение пробоин [-10% шанс пробоин от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10703
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"2\"]/text"
-msgstr "Модуль \"Отражение пробоин\" (x2) [-20% шанс пробоин от противника]"
+msgstr "Модуль Отражение пробоин (x2) [-20% шанс пробоин от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10707
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"3\"]/text"
-msgstr "Модуль \"Отражение пробоин\" (x3) [-30% шанс пробоин от противника]"
+msgstr "Модуль Отражение пробоин (x3) [-30% шанс пробоин от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10711
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"4\"]/text"
-msgstr "Модуль \"Отражение пробоин\" (x4) [-40% шанс пробоин от противника]"
+msgstr "Модуль Отражение пробоин (x4) [-40% шанс пробоин от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10715
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"5\"]/text"
-msgstr "Модуль \"Отражение пробоин\" (x5) [-50% шанс пробоин от противника]"
+msgstr "Модуль Отражение пробоин (x5) [-50% шанс пробоин от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10720
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"1\"]/text"
-msgstr "Модуль \"Отражение пожара\" [-10% шанс пожара от противника]"
+msgstr "Модуль Отражение пожара [-10% шанс пожара от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10724
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"2\"]/text"
-msgstr "Модуль \"Отражение пожара\" (x2) [-20% шанс пожара от противника]"
+msgstr "Модуль Отражение пожара (x2) [-20% шанс пожара от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10728
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"3\"]/text"
-msgstr "Модуль \"Отражение пожара\" (x3) [-30% шанс пожара от противника]"
+msgstr "Модуль Отражение пожара (x3) [-30% шанс пожара от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10732
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"4\"]/text"
-msgstr "Модуль \"Отражение пожара\" (x4) [-40% шанс пожара от противника]"
+msgstr "Модуль Отражение пожара (x4) [-40% шанс пожара от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10736
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"5\"]/text"
-msgstr "Модуль \"Отражение пожара\" (x5) [-50% шанс пожара от противника]"
+msgstr "Модуль Отражение пожара (x5) [-50% шанс пожара от противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10741
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" [на вашем корабле: -20% урона от саботажа]"
+"Модуль Устойчивая конструкция [на вашем корабле: -20% урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10745
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x2) [на вашем корабле: -36% урона от "
-"саботажа]"
+"Модуль Устойчивая конструкция (x2) [на вашем корабле: -36% урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10749
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"3\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x3) [на вашем корабле: -48.8% урона от "
+"Модуль Устойчивая конструкция (x3) [на вашем корабле: -48.8% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10753
@@ -11149,7 +11162,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"4\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x4) [на вашем корабле: -59.04% урона от "
+"Модуль Устойчивая конструкция (x4) [на вашем корабле: -59.04% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10757
@@ -11157,7 +11170,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"5\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x5) [на вашем корабле: -67.232% урона от "
+"Модуль Устойчивая конструкция (x5) [на вашем корабле: -67.232% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10761
@@ -11165,7 +11178,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"6\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x6) [на вашем корабле: -73.786% урона от "
+"Модуль Устойчивая конструкция (x6) [на вашем корабле: -73.786% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10765
@@ -11173,7 +11186,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"7\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x7) [на вашем корабле: -79.028% урона от "
+"Модуль Устойчивая конструкция (x7) [на вашем корабле: -79.028% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10769
@@ -11181,7 +11194,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"8\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x8) [на вашем корабле: -83.223% урона от "
+"Модуль Устойчивая конструкция (x8) [на вашем корабле: -83.223% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10773
@@ -11189,7 +11202,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"9\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x9) [на вашем корабле: -86.578% урона от "
+"Модуль Устойчивая конструкция (x9) [на вашем корабле: -86.578% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10777
@@ -11197,7 +11210,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"10\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x10) [на вашем корабле: -89.263% урона от "
+"Модуль Устойчивая конструкция (x10) [на вашем корабле: -89.263% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10781
@@ -11205,7 +11218,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"11\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x11) [на вашем корабле: -91.41% урона от "
+"Модуль Устойчивая конструкция (x11) [на вашем корабле: -91.41% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10785
@@ -11213,7 +11226,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"12\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x12) [на вашем корабле: -93.128% урона от "
+"Модуль Устойчивая конструкция (x12) [на вашем корабле: -93.128% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10789
@@ -11221,7 +11234,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"13\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x13) [на вашем корабле: -94.502% урона от "
+"Модуль Устойчивая конструкция (x13) [на вашем корабле: -94.502% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10793
@@ -11229,7 +11242,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"14\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x14) [на вашем корабле: -95.602% урона от "
+"Модуль Устойчивая конструкция (x14) [на вашем корабле: -95.602% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10797
@@ -11237,22 +11250,21 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESILIENT\""
 " and @lvl=\"15\"]/text"
 msgstr ""
-"Модуль \"Устойчивая конструкция\" (x15) [на вашем корабле: -96.482% урона от "
+"Модуль Устойчивая конструкция (x15) [на вашем корабле: -96.482% урона от "
 "саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10802
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"1\"]/text"
-msgstr ""
-"Модуль \"Протоколы стражей\" [на вашем корабле: экипаж получает -13% урона]"
+msgstr "Модуль Протоколы стражей [на вашем корабле: экипаж получает -13% урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10806
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x2) [на вашем корабле: экипаж получает -24.31% "
+"Модуль Протоколы стражей (x2) [на вашем корабле: экипаж получает -24.31% "
 "урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10810
@@ -11260,7 +11272,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"3\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x3) [на вашем корабле: экипаж получает -34.15% "
+"Модуль Протоколы стражей (x3) [на вашем корабле: экипаж получает -34.15% "
 "урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10814
@@ -11268,7 +11280,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"4\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x4) [на вашем корабле: экипаж получает -42.71% "
+"Модуль Протоколы стражей (x4) [на вашем корабле: экипаж получает -42.71% "
 "урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10818
@@ -11276,103 +11288,103 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"5\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x5) [на вашем корабле: экипаж получает -"
-"50.158% урона]"
+"Модуль Протоколы стражей (x5) [на вашем корабле: экипаж получает -50.158% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10822
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"6\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x6) [на вашем корабле: экипаж получает -"
-"56.637% урона]"
+"Модуль Протоколы стражей (x6) [на вашем корабле: экипаж получает -56.637% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10826
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"7\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x7) [на вашем корабле: экипаж получает -"
-"62.275% урона]"
+"Модуль Протоколы стражей (x7) [на вашем корабле: экипаж получает -62.275% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10830
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"8\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x8) [на вашем корабле: экипаж получает -"
-"67.179% урона]"
+"Модуль Протоколы стражей (x8) [на вашем корабле: экипаж получает -67.179% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10834
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"9\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x9) [на вашем корабле: экипаж получает -"
-"71.446% урона]"
+"Модуль Протоколы стражей (x9) [на вашем корабле: экипаж получает -71.446% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10838
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"10\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x10) [на вашем корабле: экипаж получает -"
-"75.158% урона]"
+"Модуль Протоколы стражей (x10) [на вашем корабле: экипаж получает -75.158% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10842
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"11\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x11) [на вашем корабле: экипаж получает -"
-"78.387% урона]"
+"Модуль Протоколы стражей (x11) [на вашем корабле: экипаж получает -78.387% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10846
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"12\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x12) [на вашем корабле: экипаж получает -"
-"81.197% урона]"
+"Модуль Протоколы стражей (x12) [на вашем корабле: экипаж получает -81.197% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10850
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"13\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x13) [на вашем корабле: экипаж получает -"
-"83.641% урона]"
+"Модуль Протоколы стражей (x13) [на вашем корабле: экипаж получает -83.641% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10854
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"14\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x14) [на вашем корабле: экипаж получает -"
-"85.768% урона]"
+"Модуль Протоколы стражей (x14) [на вашем корабле: экипаж получает -85.768% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10858
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"15\"]/text"
 msgstr ""
-"Модуль \"Протоколы стражей\" (x15) [на вашем корабле: экипаж получает -"
-"87.618% урона]"
+"Модуль Протоколы стражей (x15) [на вашем корабле: экипаж получает -87.618% "
+"урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10863
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" [на вашем корабле: +45% скорости "
-"передвижения для союзников, -15% для врагов]"
+"Модуль Интеллектуальный пол [на вашем корабле: +45% скорости передвижения "
+"для союзников, -15% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10867
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" (x2) [на вашем корабле: +110.25% скорости "
+"Модуль Интеллектуальный пол (x2) [на вашем корабле: +110.25% скорости "
 "передвижения для союзников, -27.75% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10871
@@ -11380,7 +11392,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"3\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" (x3) [на вашем корабле: +204.863% скорости "
+"Модуль Интеллектуальный пол (x3) [на вашем корабле: +204.863% скорости "
 "передвижения для союзников, -38.686% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10875
@@ -11388,7 +11400,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"4\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" (x4) [на вашем корабле: +342.05% скорости "
+"Модуль Интеллектуальный пол (x4) [на вашем корабле: +342.05% скорости "
 "передвижения для союзников, -47.7% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10879
@@ -11396,7 +11408,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"5\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" (x5) [на вашем корабле: +540.973% скорости "
+"Модуль Интеллектуальный пол (x5) [на вашем корабле: +540.973% скорости "
 "передвижения для союзников, -55.621% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10883
@@ -11404,7 +11416,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FLOORING\""
 " and @lvl=\"6\"]/text"
 msgstr ""
-"Модуль \"Интеллектуальный пол\" (x6) [на вашем корабле: +829.411% скорости "
+"Модуль Интеллектуальный пол (x6) [на вашем корабле: +829.411% скорости "
 "передвижения для союзников, -62.285% для врагов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10888
@@ -11412,53 +11424,70 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_AERO\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Модуль Вдохновляющие аэрозоли [на вашем корабле: +100% к перезарядке "
+"способностей для вашего экипажа, -30% для вражеского. На вражеском корабле: +"
+"50% к перезарядке способностей для вашего экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10892
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_AERO\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Модуль Вдохновляющие аэрозоли (x2) [на вашем корабле: +200% к перезарядке "
+"способностей для вашего экипажа, -51% для вражеского. На вражеском корабле: +"
+"100% к перезарядке способностей для вашего экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10896
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_AERO\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Модуль Вдохновляющие аэрозоли (x3) [на вашем корабле: +300% к перезарядке "
+"способностей для вашего экипажа, -65.7% для вражеского. На вражеском корабле:"
+" +150% к перезарядке способностей для вашего экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10900
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_AERO\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Модуль Вдохновляющие аэрозоли (x4) [на вашем корабле: +400% к перезарядке "
+"способностей для вашего экипажа, -76.99% для вражеского. На вражеском "
+"корабле: +200% к перезарядке способностей для вашего экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10904
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_AERO\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Модуль Вдохновляющие аэрозоли (x5) [на вашем корабле: +500% к перезарядке "
+"способностей для вашего экипажа, -83.193% для вражеского. На вражеском "
+"корабле: +250% к перезарядке способностей для вашего экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10909
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESPIRATION\"]/text"
 msgstr ""
+"Модуль Улучшенные поля дыхания [на вашем корабле: урон от удушья 0.8х, "
+"мультипликативно увеличивается за каждую единицу энергии в o2]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10914
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_SCRAP\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Модуль Магнит для лома [+5% к заработку лома]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_SCRAP\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Модуль Магнит для лома (x2) [+10% к заработку лома]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10922
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_SCRAP\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Модуль Магнит для лома (x3) [+15% к заработку лома]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10927
 msgid ""
