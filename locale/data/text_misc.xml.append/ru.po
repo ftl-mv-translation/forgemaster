@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-27 11:47+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-28 12:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -941,10 +941,9 @@ msgstr ""
 "также вам понадобится другой КОМПОНЕНТ в виде тяжелой ракетницы \"Гермес\"."
 
 #: src-en/data/text_misc.xml.append:483
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ac_1\"]"
 msgstr ""
-"Совет: ВПЕРЕД БАЛЛИСТИКА!!!\n"
+"Совет: GO BALLISTIC!!\n"
 "\n"
 "Кузнец: это КОМПОНЕНТ для ковки Пробивной митральезы[60-20~], также вам "
 "понадобится другой КОМПОНЕНТ в виде 1-3 других автоматических пушек 1s."
