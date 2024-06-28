@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-28 13:43+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-28 14:14+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1858,7 +1858,7 @@ msgid ""
 " and @lvl=\"0\"]/text"
 msgstr ""
 "Для создания этого орудия у вас должно быть большое количество лома, "
-"технология телепортационных ионных бомб и ядро Пронзающего лазера мод. II."
+"технология телепортационных Ионных бомб и ядро Пронзающего лазера мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1632
 msgid ""
@@ -2170,7 +2170,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Замените источник энергии точечного луча \"Дирк\" на ядро Энергетической "
+"Заменить источник энергии точечного луча \"Дирк\" на ядро Энергетической "
 "пушки мод. I, чтобы выковать точечный луч \"Эбони\". [Цена: 40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1861
@@ -3535,7 +3535,7 @@ msgstr "В данный момент вы просматриваете опис�
 #: src-en/data/events_specialfm_forgemaster.xml.append:3171
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Менавла\", используя Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3180
 msgid ""
@@ -3558,9 +3558,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3210
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_2\"]/text"
 msgstr ""
+"Выковать луч \"Менавла\", используя изолированный Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3219
 msgid ""
@@ -3586,6 +3588,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_3\"]/text"
 msgstr ""
+"Выковать луч \"Менавла\", используя встроенный Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3258
 msgid ""
@@ -3610,7 +3613,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3288
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Менавла\"+, используя Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3297
 msgid ""
@@ -3633,9 +3636,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3327
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_2\"]/text"
 msgstr ""
+"Выковать луч \"Менавла\"+, используя изолированный Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3336
 msgid ""
@@ -3661,6 +3666,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_3\"]/text"
 msgstr ""
+"Выковать луч \"Менавла\"+, используя встроенный Рассеиватель ботов-убийц."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3375
 msgid ""
@@ -3690,12 +3696,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3412
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание луча \"Валефор\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3414
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\"+, используя луч \"Алебарда\"+."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3416
 msgid ""
@@ -3710,7 +3716,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3433
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\", используя луч \"Алебарда\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3435
 msgid ""
@@ -3725,7 +3731,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3452
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_EGG\"]/text"
-msgstr ""
+msgstr "Выковать луч \"Валефор\", используя луч \"Алебарда\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3454
 msgid ""
@@ -3746,11 +3752,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание точечного луча \"Паразониум\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3481
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать точечный луч \"Паразониум\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3483
 msgid ""
@@ -3770,12 +3777,12 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3506
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/text"
-msgstr ""
+msgstr "В данный момент вы просматриваете описание точечного луча \"Эбони\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3508
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Выковать точечный луч \"Эбони\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3510
 msgid ""
@@ -3796,6 +3803,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание точечного луча \"Болиголов\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3535
 msgid ""
