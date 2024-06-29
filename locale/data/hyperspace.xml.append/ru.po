@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-26 12:42+0000\n"
+"PO-Revision-Date: 2024-06-30 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
@@ -541,7 +541,7 @@ msgstr "Моссберг"
 
 #: src-en/data/hyperspace.xml.append:1648
 msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
-msgstr "Рэнделл"
+msgstr "Рэндалл"
 
 #: src-en/data/hyperspace.xml.append:1764
 msgid ""
