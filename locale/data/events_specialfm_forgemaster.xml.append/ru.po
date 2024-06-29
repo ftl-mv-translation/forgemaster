@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-29 07:12+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-06-29 10:43+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -12225,7 +12225,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:11376
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[1]/text"
-msgstr "Помощь Винчестеру."
+msgstr "Помочь Винчестеру."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11378
 msgid ""
@@ -12242,7 +12242,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11387
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[2]/text"
-msgstr "Помощь Ясновидящим-сборщикам долгов."
+msgstr "Помочь Ясновидящим-сборщикам долгов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11389
 msgid ""
@@ -12270,8 +12270,8 @@ msgstr "Сдержать свое слово, не стоило влезать �
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
-"Энджи выглядят очень разочарованными. \"Вы = жестокие. Вызываете у нас "
-"отвращение. Начинаю протокол: Защита лучшего друга\"."
+"Энджи выглядят очень разочарованными. \"Вы = жестокие. Вызывает отвращение. "
+"Начинаю протокол: Защита лучшего друга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11402
 msgid ""
@@ -12304,7 +12304,14 @@ msgstr "Выплатить долг."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11428
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[4]/event/text"
-msgstr "тест"
+msgstr ""
+"\"Заткнись!\" - говорит слизень, явно пребывая в шоке. \"У нассс нет времени "
+"на игры\", - объясняет он. Ваш экипаж начинает перевозить все тысяча сто "
+"лома на \"Долговую Акулу\", и поначалу они выглядят весьма озадаченными. "
+"Винчестер лишился дара речи. Погрязший в долгах, некогда богатый свободный "
+"богомол теперь снова свободный жук. Ясновидящие отменяют охоту на свободного "
+"богомола Винчестера и смотрят вам вслед, когда уходят. \"Ссспасссибо, мы "
+"надеемссся, что большшше вассс не увидим\". Их корабль исчезает в ССД прыжке."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11431
 msgid ""
