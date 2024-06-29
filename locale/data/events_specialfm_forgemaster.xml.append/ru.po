@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-30 11:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -10430,31 +10430,31 @@ msgstr "Фрески для корпуса [85~]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"1\"]/text"
-msgstr "Фрески для корпуса [Установлены]"
+msgstr "Фрески для корпуса [Нарисованы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"0\"]/text"
-msgstr "Обходной трубопровод компрессора [80~]"
+msgstr "Обходной коллектор компрессора [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"1\"]/text"
-msgstr "Обходной трубопровод компрессора [Установлен]"
+msgstr "Обходной коллектор компрессора [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9948
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Частичные щиты [100~]"
+msgstr "Щиты с частицами [100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9954
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Частичные щиты [Установлены]"
+msgstr "Щиты с частицами [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9958
 msgid ""
@@ -10472,13 +10472,13 @@ msgstr "Матрицы восходящей связи оружия [Устан�
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"0\"]/text"
-msgstr "Идеальная бортовая эффективность [140~]"
+msgstr "Совершенная бортовая эффективность [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9974
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"1\"]/text"
-msgstr "Идеальная бортовая эффективность [Установлена]"
+msgstr "Совершенная бортовая эффективность [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9978
 msgid ""
@@ -10597,16 +10597,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_SALT\"]/text"
 msgstr ""
+"Установить Соляной корпус? [+100% шанс сопротивления ионам, ВСЕ органические "
+"члены экипажа получают 0.5 ОЗ/с урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10079
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_SALT\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Соляной корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10081
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_SALT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Соляной корпус установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10088
 msgid ""
@@ -10622,16 +10624,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DUSK\"]/text"
 msgstr ""
+"Установить Устаревший реактор Вестников Заката? [+20% скорость перезарядки "
+"оружия и щитов, характеристики вашего экипажа снижаются на 20%, получаемый "
+"урон +20%]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10105
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DUSK\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Устаревший реактор Вестников Заката."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10107
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DUSK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Устаревший реактор Вестников Заката установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10114
 msgid ""
@@ -10647,16 +10652,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MURAL\"]/text"
 msgstr ""
+"Нарисовать Фрески для корпуса? [Все полезные характеристики экипажа повышены "
+"на +30%, 50% шанс получить 1 дополнительный урон корпусу]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10131
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MURAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Нарисовать Фрески для корпуса."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10133
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MURAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Фрески для корпуса нарисованы!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10140
 msgid ""
@@ -10672,16 +10679,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_COMPRESS\"]/text"
 msgstr ""
+"Установить Обходной коллектор компрессора? [+30% скорость перезарядки "
+"оружия, -60% скорость перезарядки щитов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10157
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_COMPRESS\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Обходной коллектор компрессора."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10159
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_COMPRESS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Обходной коллектор компрессора установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10166
 msgid ""
@@ -10697,16 +10706,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PARTICLE\"]/text"
 msgstr ""
+"Установить Щиты с частицами? [8-слойный Энергетический щит (суммируется с "
+"другими), но скорость перезарядки щитов снижается на 50%]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10183
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PARTICLE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Щиты с частицами."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10185
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PARTICLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Щиты с частицами установлены!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10192
 msgid ""
@@ -10722,16 +10733,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_UPLINK\"]/text"
 msgstr ""
+"Установить Матрицы восходящей связи оружия? [Экипаж получает на 5% меньше "
+"урона и наносит на 25% больше за каждую запитанную единицу оружия, однако "
+"оружие перезаряжается на 40% медленнее]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10209
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_UPLINK\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Матрицы восходящей связи оружия."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10211
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_UPLINK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Матрицы восходящей связи оружия установлены!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10218
 msgid ""
@@ -10747,16 +10761,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PERFECT\"]/text"
 msgstr ""
+"Установить Совершенную бортовую эффективность? [+5% скорость перезарядки "
+"оружия и щитов, +5% ко всем характеристикам экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10235
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PERFECT\"]/choice[1]/text"
-msgstr ""
+msgstr "Усовершенствовать свою бортовую эффективность."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10237
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_PERFECT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Совершенная бортовая эффективность установлена!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10244
 msgid ""
@@ -11025,36 +11041,48 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_SALT\"]/text"
 msgstr ""
+"Соляной корпус [+100% шанс сопротивления ионам, ВСЕ органические члены "
+"экипажа получают 0.5 ОЗ/с урона]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10515
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\"]/text"
 msgstr ""
+"Устаревший реактор Вестников Заката? [+20% скорость перезарядки оружия и "
+"щитов, -20% характеристики вашего экипажа, +20% получаемый урон]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10519
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\"]/text"
 msgstr ""
+"Фрески для корпуса? [Все полезные характеристики экипажа +30%, 50% шанс "
+"получить +1 урон корпусу]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10523
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\"]/text"
 msgstr ""
+"Обходной коллектор компрессора [+30% скорость перезарядки оружия, -60% "
+"скорость перезарядки щитов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10527
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\"]/text"
-msgstr ""
+msgstr "Щиты с частицами [8 целостности щита, -50% скорость перезарядки щитов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10531
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\"]/text"
 msgstr ""
+"Установить Матрицы восходящей связи оружия [-40% перезарядка оружия, +25% "
+"урона экипажа и -5% урона экипажа за каждую запитанную единицу оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10535
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\"]/text"
 msgstr ""
+"Совершенная бортовая эффективность [+5% скорость перезарядки оружия и щитов, "
+"+5% ко всем характеристикам экипажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10539
 msgid ""
