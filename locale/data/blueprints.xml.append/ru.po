@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-29 07:12+0000\n"
+"PO-Revision-Date: 2024-06-30 11:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -212,6 +212,8 @@ msgstr "Королева и страна"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/desc"
 msgstr ""
+"Эти странные богомолы держат знамя старой и забытой земли и являются "
+"обладателями мощной технологии древней Британии."
 
 #: src-en/data/blueprints.xml.append:869
 msgid ""
@@ -227,6 +229,8 @@ msgstr "Двойственность"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/desc"
 msgstr ""
+"Теперь, с новым макетом, кто-то должен поместить его на вражескую версию или "
+"что-то в этом роде."
 
 #: src-en/data/blueprints.xml.append:951
 msgid ""
@@ -259,6 +263,9 @@ msgstr "Нисходящая тьма"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/desc"
 msgstr ""
+"Эти монахи, будучи религиозными и в то же время легко поддающимися гневу, "
+"ведут довольно интересный образ жизни, даже если это и не то, что обычный "
+"Монах считал бы \"верой\"."
 
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
@@ -274,6 +281,10 @@ msgstr "Стервятник"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/desc"
 msgstr ""
+"Стремясь стать по-настоящему неуязвимыми, эти валуны попытались заставить "
+"Маскировку своего корабля работать бесконечно долго, перенаправляя всю "
+"энергию из системы щитов. Им это удалось, но теперь они могут полагаться в "
+"защите только на свою Маскировку и прочность корпуса."
 
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
@@ -289,6 +300,12 @@ msgstr "Дежа Морт"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/desc"
 msgstr ""
+"Этот корабль Затерянных Солнц оснащен самым мощным древним оборудованием, "
+"которое только можно купить за деньги, но из-за ошибки, допущенной во время "
+"экспериментов с ССД, корабль стал нестабильным. Он не может продержаться "
+"более 75 секунд без необходимости совершить еще один сверхсветовой прыжок, "
+"иначе привод катастрофически выйдет из строя и уничтожит корабль. Надеюсь, "
+"вы будете быстры!"
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
@@ -304,6 +321,10 @@ msgstr "Вейдер-1"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/desc"
 msgstr ""
+"После близкого знакомства с самовлюбленными древними эти курильщики решили, "
+"что лучшим вариантом будет взять на вооружение свои пагубные привычки, чтобы "
+"удушать своих анаэробных врагов, и выследить всех до единого древних, пока "
+"не останется ни одного."
 
 #: src-en/data/blueprints.xml.append:1347
 msgid ""
@@ -337,6 +358,9 @@ msgstr "Кулак Министерства"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/desc"
 msgstr ""
+"Эти золтаны устали от того, что ими помыкают и обращаются с ними как с "
+"живыми батарейками. Возможно, они не так опытны, как Миротворцы, но у этих "
+"золтанов есть несколько козырей в рукаве!"
 
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
@@ -352,6 +376,11 @@ msgstr "Кровавая сталь"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/desc"
 msgstr ""
+"Раса ланиусов хорошо известна своими способностями к манипулированию "
+"металлами, и этот корабль в полной мере использует их. С помощью специальной "
+"кузницы этот корабль может переделывать другие орудия в осколочные! (Можно "
+"также установить 10 переключаемых осколочных артиллерий, пока что ради "
+"забавы)"
 
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
@@ -367,6 +396,9 @@ msgstr "Халатность"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/desc"
 msgstr ""
+"У этого корабля одна миссия: наблюдать и познавать жизнь любой ценой. Его "
+"экипаж также охотно изучают смерть и становятся сильнее с каждым погибшим на "
+"их корабле."
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
@@ -382,6 +414,9 @@ msgstr "Конагер"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/desc"
 msgstr ""
+"Это странное судно Инженеров использует прототип фабрики по производству "
+"дронов, которая функционирует как артиллерия, стреляя дронами, чтобы брать "
+"на абордаж вражеские корабли без использования дрон-комплектов!"
 
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
@@ -397,6 +432,11 @@ msgstr "Ключник"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/desc"
 msgstr ""
+"Это странное судно класса \"Пустельга\" может порождать различные виды "
+"призраков на пустых маяках, но из-за невероятно устаревшей технологии вы не "
+"можете установить ни Кислородную установку, ни Телепортатор. Из-за "
+"отсутствия телепортатора один из членов его экипажа обладает способностью "
+"\"разделять\" экипаж и телепортировать двоих из них на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
@@ -412,6 +452,9 @@ msgstr "Божественное Участие"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/desc"
 msgstr ""
+"Этот корабль оснащен чрезвычайно мощным артиллерийским лучом, который "
+"буквально разрывает вражеские корабли. Однако они забыли купить систему "
+"оружия, упс!"
 
 #: src-en/data/blueprints.xml.append:1899
 msgid ""
@@ -427,6 +470,8 @@ msgstr "Каламбур"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/desc"
 msgstr ""
+"Почему никто не смеялся над шутками садовника? Потому что они были слишком "
+"банальными! Какая любимая книга садовника? Война и горох!"
 
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
@@ -442,6 +487,10 @@ msgstr "Другая щека"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/desc"
 msgstr ""
+"Это очень нестабильное судно поощряет вас получать как можно больше урона, "
+"так как в комплекте с ним поставляется несколько ботов-ремонтников, которые "
+"помогут вам восстановить прочность корпуса, потерянное в результате вашей "
+"мстительности."
 
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
@@ -457,6 +506,9 @@ msgstr "Таро"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/desc"
 msgstr ""
+"Похоже, на этом корабле раньше был набор странных карт Таро, но, судя по "
+"всему, они были убраны. В записке, найденной внутри пустой коробки с "
+"картами, говорится: \"Временно убраны из-за недостатка воображения\"."
 
 #: src-en/data/blueprints.xml.append:2137
 msgid ""
@@ -754,6 +806,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2447
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/desc"
 msgstr ""
+"Странное творение обезумевшего ученого, столкнувшегося с эльдрическим ужасом."
 
 #: src-en/data/blueprints.xml.append:2449
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/title"
@@ -771,7 +824,7 @@ msgstr "Может поглощать дружественный экипаж, �
 #: src-en/data/blueprints.xml.append:2458
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/desc"
 msgstr ""
-"Рэнделл Куртен, \"Уникальный экипаж наемников\". Бывший Ангел, "
+"Рэндалл Куртен, \"Уникальный экипаж наемников\". Бывший Ангел, "
 "инсценировавший свою смерть, чтобы покинуть Ангелов, теперь в обстановке "
 "строжайшей секретности работает на любого, кто готов раскошелиться. \n"
 "\t\t\tУ подразделения Анкалагон много денег."
@@ -929,7 +982,7 @@ msgstr "Ancalagon B. Crys."
 #: src-en/data/blueprints.xml.append:2537
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/powerList/power[1]"
-msgstr ""
+msgstr "Воспроизводит кристаллы из черной материи каждые 12 секунд."
 
 #: src-en/data/blueprints.xml.append:2538
 msgid ""
@@ -939,7 +992,7 @@ msgstr "270 здоровья, неподвижен. Исцеляет себе 20
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/desc"
-msgstr ""
+msgstr "Беспомощный кристаллин, заключенный в тюрьму."
 
 #: src-en/data/blueprints.xml.append:2545
 msgid ""
@@ -966,17 +1019,20 @@ msgstr "Не может исцеляться и не может быть кло�
 #: src-en/data/blueprints.xml.append:2553
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[3]"
-msgstr ""
+msgstr "Возвращается в нормальное состояние через 10 секунд."
 
 #: src-en/data/blueprints.xml.append:2558
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/desc"
 msgstr ""
+"Один из лучших друзей Винчестера и брат-близнец Моссберга. Глубоко предан "
+"друзьям и союзникам. Любит настольные игры и комиксы."
 
 #: src-en/data/blueprints.xml.append:2561
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/title"
-msgstr ""
+msgstr "Энджи Защитник Микробов"
 
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
@@ -987,30 +1043,37 @@ msgstr "M. Defender"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Временно получает всего 20% урона и снижает урон от "
+"удушья ближайших союзников на 50%."
 
 #: src-en/data/blueprints.xml.append:2566
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: Находясь в одном отсеке, увеличивает ОЗ и скорость "
+"передвижения своего близнеца на 10%."
 
 #: src-en/data/blueprints.xml.append:2567
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[3]"
-msgstr ""
+msgstr "2.5х скорость ремонта, 0.6х боевой урон"
 
 #: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[4]"
-msgstr ""
+msgstr "Значительно снижен урон от огня и удушья."
 
 #: src-en/data/blueprints.xml.append:2580
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/desc"
 msgstr ""
+"Один из лучших друзей Винчестера и брат-близнец Ремингтона. Глубоко предан "
+"друзьям и союзникам. Любит головоломки, особенно кроссворды."
 
 #: src-en/data/blueprints.xml.append:2583
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/title"
-msgstr ""
+msgstr "Энджи Защитник Феникс"
 
 #: src-en/data/blueprints.xml.append:2584
 msgid ""
@@ -1021,29 +1084,35 @@ msgstr "P. Defender"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Временно наносит всего 20% урона и снижает урон от "
+"огня ближайшим союзникам на 50%."
 
 #: src-en/data/blueprints.xml.append:2588
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: Находясь в одном отсеке, увеличивает ОЗ и скорость "
+"передвижения своего близнеца на 10%."
 
 #: src-en/data/blueprints.xml.append:2589
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[3]"
-msgstr ""
+msgstr "2.5х скорость ремонта, 0.6х боевой урон"
 
 #: src-en/data/blueprints.xml.append:2590
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[4]"
-msgstr ""
+msgstr "Значительно снижен урон от огня и удушья."
 
 #: src-en/data/blueprints.xml.append:2603
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/desc"
 msgstr ""
+"Терзатели - члены давней преступной семьи бродяг, одни из самых "
+"разыскиваемых преступников в галактике."
 
 #: src-en/data/blueprints.xml.append:2604
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/title"
-msgstr ""
+msgstr "Терзатель Гозер"
 
 #: src-en/data/blueprints.xml.append:2605
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/short"
@@ -1053,19 +1122,23 @@ msgstr "Терзатель"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/powerList/power[1]"
 msgstr ""
+"Периодически создает пробоину в текущем отсеке, нанося урон системе, если "
+"таковая имеется."
 
 #: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/powerList/power[2]"
-msgstr ""
+msgstr "200 здоровья, 1.5х скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:2616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/desc"
 msgstr ""
+"Терзатели - члены давней преступной семьи бродяг, одни из самых "
+"разыскиваемых преступников в галактике."
 
 #: src-en/data/blueprints.xml.append:2617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/title"
-msgstr ""
+msgstr "Терзатель Гозер"
 
 #: src-en/data/blueprints.xml.append:2618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/short"
@@ -1075,15 +1148,17 @@ msgstr "Терзатель"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/powerList/power[1]"
 msgstr ""
+"Может принести в жертву союзных призраков, чтобы взять на абордаж вражеское "
+"судно"
 
 #: src-en/data/blueprints.xml.append:2624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/powerList/power[2]"
-msgstr ""
+msgstr "300 здоровья, 1.5х скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/title"
-msgstr ""
+msgstr "Орхидея-Огненная лилия"
 
 #: src-en/data/blueprints.xml.append:2630
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/short"
@@ -1092,6 +1167,9 @@ msgstr "Fire Lily"
 #: src-en/data/blueprints.xml.append:2631
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/desc"
 msgstr ""
+"Огненные лилии, известные как Фул'Яе, - это дружелюбный вид растений, в "
+"основном пацифистских, которые могут усилить ваш экипаж и пополнить запасы "
+"кислорода. Эти орхидеи любят огонь, а не избегают его."
 
 #: src-en/data/blueprints.xml.append:2636
 msgid ""
@@ -1102,22 +1180,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[2]"
-msgstr ""
+msgstr "Не получает урона от огня."
 
 #: src-en/data/blueprints.xml.append:2638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[3]"
 msgstr ""
+"Дружественный экипаж в том же отсеке получает дополнительно 20% "
+"максимального здоровья и 20% скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:2639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[4]"
-msgstr ""
+msgstr "Тушит огонь с половинной скоростью."
 
 #: src-en/data/blueprints.xml.append:2644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/title"
-msgstr ""
+msgstr "Отсутствующая текстура: Человек7"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid ""
@@ -1127,26 +1207,26 @@ msgstr "Missing Texture: Human7"
 #: src-en/data/blueprints.xml.append:2646
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/desc"
-msgstr ""
+msgstr "Вы установили FTL: SOURCE?"
 
 #: src-en/data/blueprints.xml.append:2651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[1]"
-msgstr ""
+msgstr "Пропавшая сила1.txt"
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[2]"
-msgstr ""
+msgstr "Пропавшая сила2.txt"
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[3]"
-msgstr ""
+msgstr "Пропавшая сила3.txt"
 
 #: src-en/data/blueprints.xml.append:2658
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/title"
-msgstr ""
+msgstr "Заядлый курильщик-слизень"
 
 #: src-en/data/blueprints.xml.append:2659
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/short"
@@ -1155,21 +1235,23 @@ msgstr "Smoker Slug"
 #: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/desc"
 msgstr ""
+"После десятилетий курения и убийства древних у этого слизня ужасное "
+"состояние легких."
 
 #: src-en/data/blueprints.xml.append:2665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/powerList/power[1]"
-msgstr ""
+msgstr "4х урон от удушья"
 
 #: src-en/data/blueprints.xml.append:2666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/powerList/power[2]"
-msgstr ""
+msgstr "2х урон от удушья для союзников из-за эффекта от пассивного курения"
 
 #: src-en/data/blueprints.xml.append:2671
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/title"
-msgstr ""
+msgstr "Заядлый курильщик-слизень"
 
 #: src-en/data/blueprints.xml.append:2672
 msgid ""
@@ -1180,26 +1262,30 @@ msgstr "Smoker Slug"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/desc"
 msgstr ""
+"После десятилетий курения и убийства древних у этого слизня ужасное "
+"состояние легких."
 
 #: src-en/data/blueprints.xml.append:2678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/powerList/power[1]"
-msgstr ""
+msgstr "4х урон от удушья"
 
 #: src-en/data/blueprints.xml.append:2679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/powerList/power[2]"
-msgstr ""
+msgstr "2х урон от удушья для всех из-за эффекта от пассивного курения"
 
 #: src-en/data/blueprints.xml.append:2684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/desc"
 msgstr ""
+"Британский элитный экипаж Свободных Богомолов. Вождь Свободных Богомолов с "
+"сильным пристрастием к самому опасному напитку во всей Мультивселенной: чаю."
 
 #: src-en/data/blueprints.xml.append:2685
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/title"
-msgstr ""
+msgstr "Свободный богомол-Крекерджек"
 
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
@@ -1210,6 +1296,9 @@ msgstr "Crackerjack"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Впадает в самое настоящее патриотическое безумие, "
+"нанося удар за ударом по всем врагам в отсеке и значительно увеличивая "
+"скорость передвижения."
 
 #: src-en/data/blueprints.xml.append:2691
 msgid ""
@@ -1219,17 +1308,17 @@ msgstr "Максимальное здоровье снижено до 90"
 #: src-en/data/blueprints.xml.append:2692
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[3]"
-msgstr ""
+msgstr "Получает только 0.7х урона в бою"
 
 #: src-en/data/blueprints.xml.append:2693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[4]"
-msgstr ""
+msgstr "1х скорость передвижения и урон"
 
 #: src-en/data/blueprints.xml.append:2694
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[5]"
-msgstr ""
+msgstr "Очень быстро ломает двери"
 
 #: src-en/data/blueprints.xml.append:2699
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_terminus\"]/desc"
@@ -1246,7 +1335,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:2706
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_terminus\"]/powerList/power"
-msgstr ""
+msgstr ": Оказывается, быть протараненным гигантским червем - это больно!"
 
 #: src-en/data/blueprints.xml.append:2716
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power\"]/desc"
@@ -1263,39 +1352,43 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:2723
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power\"]/powerList/power"
-msgstr ""
+msgstr ": тест на потребление энергии"
 
 #: src-en/data/blueprints.xml.append:2734
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/desc"
-msgstr ""
+msgstr "Ионная ракетница"
 
 #: src-en/data/blueprints.xml.append:2735
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/title"
-msgstr ""
+msgstr "Ионная ракетница"
 
 #: src-en/data/blueprints.xml.append:2736
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/short"
 msgstr "Ion Missile"
 
 #: src-en/data/blueprints.xml.append:2741
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Ионнизированные отсеки наносят 3 ионных урона каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2742
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Получить 100 ОЗ, но нанести только 75% урона."
 
 #: src-en/data/blueprints.xml.append:2754
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/desc"
-msgstr ""
+msgstr "Джанк"
 
 #: src-en/data/blueprints.xml.append:2755
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/title"
-msgstr ""
+msgstr "Джанк"
 
 #: src-en/data/blueprints.xml.append:2756
 msgid ""
@@ -1310,7 +1403,7 @@ msgstr "Это сочетание латунного Сепаратиста и �
 #: src-en/data/blueprints.xml.append:2773
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/title"
-msgstr ""
+msgstr "Искаженный Сепаратист"
 
 #: src-en/data/blueprints.xml.append:2774
 msgid ""
@@ -1320,17 +1413,19 @@ msgstr "T. Separatist"
 #: src-en/data/blueprints.xml.append:2779
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[1]"
-msgstr ""
+msgstr "75 здоровья, получает 0.5x урона от опасностей."
 
 #: src-en/data/blueprints.xml.append:2780
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[2]"
-msgstr ""
+msgstr "Получает 1.25x урона в бою, а враг получает дополнительно 2 ОЗ/с урона."
 
 #: src-en/data/blueprints.xml.append:2781
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 0.75x урона в бою и ремонтирует со скоростью 1.75x."
 
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
@@ -1391,17 +1486,19 @@ msgstr "C. Separatist"
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[1]"
-msgstr ""
+msgstr "Полностью неуязвим для большинства видов урона."
 
 #: src-en/data/blueprints.xml.append:2810
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[2]"
-msgstr ""
+msgstr "Получает постоянный урон от огня и других опасностей."
 
 #: src-en/data/blueprints.xml.append:2811
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[3]"
 msgstr ""
+"Не может управлять системами, ремонтировать, сражаться с экипажем или "
+"заниматься саботажем."
 
 #: src-en/data/blueprints.xml.append:2812
 msgid ""
@@ -1414,11 +1511,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/desc"
 msgstr ""
+"У этого Искаженного Сепаратиста сильная жажда сражений, и когда он побеждает "
+"противника, то впадает в боевое бешенство, поджигая все вокруг."
 
 #: src-en/data/blueprints.xml.append:2818
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/title"
-msgstr ""
+msgstr "Бронзовый Сепаратист"
 
 #: src-en/data/blueprints.xml.append:2819
 msgid ""
@@ -1429,11 +1528,12 @@ msgstr "B. Separatist"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[1]"
 msgstr ""
+"Враги, попавшие под удар, получают 12 ОЗ/с урона, но только 0.4x урона в бою."
 
 #: src-en/data/blueprints.xml.append:2825
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[2]"
-msgstr ""
+msgstr "0.75x скорость ремонта, но 2.25x скорость тушения пожаров."
 
 #: src-en/data/blueprints.xml.append:2826
 msgid ""
@@ -1445,10 +1545,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2832
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/desc"
 msgstr ""
+"Смерть врага на время приводит этого бронзового Сепаратиста в убийственную "
+"ярость: он передвигается с 2x скоростью, игнорирует двери и разжигает пожары "
+"в течение 5с."
 
 #: src-en/data/blueprints.xml.append:2833
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/title"
-msgstr ""
+msgstr "Бронзовый Сепаратист"
 
 #: src-en/data/blueprints.xml.append:2834
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/short"
@@ -1458,31 +1561,33 @@ msgstr "B. Separatist"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[1]"
 msgstr ""
+"- Не может управлять системами, сражаться с экипажем, заниматься саботажем "
+"или ремонтом."
 
 #: src-en/data/blueprints.xml.append:2840
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[2]"
-msgstr ""
+msgstr "- Передвигается с 2х скоростью и игнорирует двери."
 
 #: src-en/data/blueprints.xml.append:2841
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[3]"
-msgstr ""
+msgstr "- Вызывает пожар в текущем отсеке со скоростью один раз в секунду."
 
 #: src-en/data/blueprints.xml.append:2842
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[4]"
-msgstr ""
+msgstr "- Пассивная способность: Исцеляется через 5с."
 
 #: src-en/data/blueprints.xml.append:3038
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/desc"
-msgstr ""
+msgstr "Импульс огня"
 
 #: src-en/data/blueprints.xml.append:3039
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/title"
-msgstr ""
+msgstr "Огненный вторгающийся дрон"
 
 #: src-en/data/blueprints.xml.append:3040
 msgid ""
@@ -1493,16 +1598,18 @@ msgstr "Fire Intruder Drone"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/powerList/power"
 msgstr ""
+": Создает пробоины в вражеском корпусе и случайным образом ионизирует "
+"системы. Также вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:3051
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/desc"
-msgstr ""
+msgstr "Заряженный бой"
 
 #: src-en/data/blueprints.xml.append:3052
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/title"
-msgstr ""
+msgstr "Дрон Анкалагона \"Провозвестник войны\""
 
 #: src-en/data/blueprints.xml.append:3053
 msgid ""
@@ -1512,12 +1619,14 @@ msgstr "Ancalagon Warbringer Drone"
 #: src-en/data/blueprints.xml.append:3058
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/powerList/power[1]"
-msgstr ""
+msgstr "250 здоровья, наносит 1.7х урона в бою."
 
 #: src-en/data/blueprints.xml.append:3059
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/powerList/power[2]"
 msgstr ""
+"Время от времени он наполняется энергией, немного исцеляя себя и нанося "
+"небольшой урон вражескому экипажу."
 
 #: src-en/data/blueprints.xml.append:3064
 msgid ""
@@ -1844,12 +1953,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3367
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/title"
-msgstr ""
+msgstr "Анкалагон \"Провозвестник войны\""
 
 #: src-en/data/blueprints.xml.append:3368
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/short"
-msgstr ""
+msgstr "Пров. войны"
 
 #: src-en/data/blueprints.xml.append:3369
 msgid ""
@@ -1859,12 +1968,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3384
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/title"
-msgstr ""
+msgstr "Анкалагон \"Провозвестник войны\""
 
 #: src-en/data/blueprints.xml.append:3385
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/short"
-msgstr ""
+msgstr "Пров. войны"
 
 #: src-en/data/blueprints.xml.append:3386
 msgid ""
@@ -3709,14 +3818,16 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:7913
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/title"
-msgstr ""
+msgstr "Луч \"HD_Hotfix_26v7\""
 
 #: src-en/data/blueprints.xml.append:7914
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/short"
-msgstr ""
+msgstr "\"HD_Hotfix_26v7\""
 
 #: src-en/data/blueprints.xml.append:7915
 msgid ""
