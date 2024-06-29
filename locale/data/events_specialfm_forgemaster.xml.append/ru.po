@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-29 10:43+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-06-30 11:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -51,7 +51,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DESTROY\"]/text"
 msgstr ""
-"Ясновидящие сборщики долгов повержены. Хорошо, что слизни уже ненавидят вас, "
+"Коллекторы-Ясновидящие повержены. Хорошо, что слизни уже ненавидят вас, "
 "потому что в этот момент они, вероятно, не могли бы ненавидеть вас сильнее. "
 "Винчестер вызывает вас, радостно восклицая: \"Спасибо-спасибо, человек! Вы "
 "хорошо помогаете!\"\n"
@@ -223,7 +223,7 @@ msgstr "Отпустить их..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_KILLED\"]/text"
 msgstr ""
-"Ясновидящие коллекторы упали замертво, оставив свой корабль без команды. "
+"Коллекторы-Ясновидящие упали замертво, оставив свой корабль без команды. "
 "Хорошо, что слизни уже ненавидят вас, потому что в этот момент они, "
 "вероятно, не могли бы ненавидеть вас сильнее. Винчестер приветствует вас, "
 "радостно восклицая: \"Спасибо-спасибо, человек! Вы хорошо помогаете!\"\n"
@@ -242,7 +242,7 @@ msgid ""
 msgstr ""
 "\"Проклятье... знал, что не надо было связываться... с подразделением...\" "
 "Когда то, что осталось от корабля Рэндалла, разрушается и сгорает, вы "
-"получаете вызов от Арбора, в котором вас благодарят за добрый поступок и "
+"получаете вызов с Беседки, в котором вас благодарят за добрый поступок и "
 "перенаправляют к Мандельбриссу и Кириет. \"Полагаю, мы должны все объяснить "
 "вам и Алестеру. Видите ли, мы были лучшими друзьями, Кириет и я, но между "
 "нами возникли проблемы, когда мы наконец-то задумались о том, что нам делать "
@@ -264,7 +264,7 @@ msgid ""
 msgstr ""
 "\"Проклятье... знал, что не надо было связываться... с подразделением...\" "
 "Когда вы разбираете пустую оболочку истребителя Ангелов, вы получаете вызов "
-"от Арбора, в котором вас благодарят за добрый поступок и перенаправляют к "
+"с Беседки, в котором вас благодарят за добрый поступок и перенаправляют к "
 "Мандельбриссу и Кириет. \"Полагаю, мы должны все объяснить вам и Алестеру. "
 "Видите ли, мы были лучшими друзьями, Кириет и я, но между нами возникли "
 "проблемы, когда мы наконец-то задумались о том, что нам делать с нашей "
@@ -6732,132 +6732,178 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Соединить центральное энергетическое ядро Энергетического дрона с усилителем "
+"с линзами Боевого дрона мод. II, чтобы создать \"Кто-нибудь дайте ему имя "
+"(Бу-Вомп)\". [Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6921
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Энергетический дрон с "
+"усилителем и Боевой дрон мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6927
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Перезарядить решетку Тяжелого кристалла мод. I частицами Штурмового дрона, "
+"чтобы выковать Янтарного боевого дрона."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6932
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должены быть Тяжелый кристалл мод. I и "
+"Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6937
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Откалибровать резонансные частоты снарядов Осколочного кристалла, используя "
+"ядро Штурмового дрона, чтобы выковать Кристаллический боевой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6942
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Осколочный кристалл и "
+"Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6947
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Оптимизировать реактор и алгоритмы Консервативного боевого дрона с помощью "
+"компьютера Управляющего дрона, а также построить временную фабрику дронов с "
+"помощью схемы Боевого дрона мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6952
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этот дрон, у вас должны быть Управляющий дрон, Консервативный "
+"боевой дрон и Боевой дрон мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6957
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Впитать в Штурмовой дрон сущность призрака, чтобы создать огнеметный дрон "
+"\"Дажьбог\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6962
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должен быть Штурмовой дрон и газообразная "
+"масса."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6967
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Попросить своего Пластинчатого использовать свои знания в кузнечном деле, "
+"чтобы превратить Боевого дрона мод. II в дрона Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6972
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должен быть Боевой дрон мод. II и опытный "
+"мастер."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6977
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Создать петлю обратной связи между лучами \"Стилет\" и Точечным дроном с "
+"усилителем, чтобы выковать лучевой дрон \"Ишимура\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6982
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этот дрон, у вас должны быть точечный луч \"Стилет\" и "
+"Точечный дрон с усилителем."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6987
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить внутренний загрузочный механизм Импульсного лазера мод. II в "
+"Боевой дрон мод. I, чтобы выковать боевой дрон \"Пустельга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6992
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Импульсного лазера мод. II в "
+"Боевой дрон мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6997
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить Легкий лазер мод. I в корпус Боевого дрона мод. I, чтобы выковать "
+"боевой дрон МФК \"Пустельга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7002
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Легкий лазер мод. I и Боевой "
+"дрон мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7007
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Использовать набор данных Разведдрона, чтобы перенастроить внешний "
+"телепортатор в телепортационного ретрансляционного дрона МФК \"Пикет\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7012
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Разведдрон и модуль Внешнего "
+"восстанавливающего телепортатора."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Извлечь из Оглушающей бомбы компоненты, разрушающие нервную систему, и "
+"интегрировать их в Дрон-вредитель, чтобы создать Боевой дрон \"Сирена\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7022
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Чтобы выковать этого дрона, у вас должны быть Оглушающая бомба и "
+"Дрон-вредитель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7028
 msgid ""
@@ -6868,11 +6914,14 @@ msgstr "Неважно, вернуться в главное меню."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание энергетического лучевого дрона "
+"\"Кто-нибудь дайте ему имя (Бу-Вомп)\" [Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7038
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\"]/text"
 msgstr ""
+"Выковать энергетический лучевой дрон \"Кто-нибудь дайте ему имя (Бу-Вомп)\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7040
 msgid ""
@@ -6888,11 +6937,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Янтарного боевого дрона. [Цена: "
+"37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7060
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать Янтарного дрона."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7062
 msgid ""
@@ -6908,11 +6959,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Кристаллического боевого дрона. "
+"[Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7082
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать Кристаллического дрона."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7084
 msgid ""
@@ -6928,11 +6981,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание боевого дрона К.У.Р.А. [Цена: "
+"110~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7104
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрон К.У.Р.А."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7106
 msgid ""
@@ -6948,11 +7003,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание огнеметного дрона \"Дажьбог\". "
+"[Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7127
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/text"
-msgstr ""
+msgstr "Выковать дрон \"Дажьбог\", используя фантома."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7129
 msgid ""
@@ -6962,12 +7019,12 @@ msgstr "Приступить к работе?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7136
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы осторожно закачиваете газы своего фантома в Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7143
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/text"
-msgstr ""
+msgstr "Выковать дрон \"Дажьбог\", используя Гуля."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7145
 msgid ""
@@ -6977,12 +7034,12 @@ msgstr "Приступить к работе?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7152
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы осторожно закачиваете газы своего гуля в Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7159
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/text"
-msgstr ""
+msgstr "Выковать дрон \"Дажьбог\", используя Мара."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7161
 msgid ""
@@ -6992,12 +7049,12 @@ msgstr "Приступить к работе?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7168
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы осторожно закачиваете газы своего Мара в Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7175
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/text"
-msgstr ""
+msgstr "Выковать дрон \"Дажьбог\", используя Виденье."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7177
 msgid ""
@@ -7007,7 +7064,7 @@ msgstr "Приступить к работе?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7184
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Вы осторожно закачиваете газы своего Виденья в Штурмовой дрон."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7191
 msgid ""
@@ -7018,11 +7075,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Боевого дрона Кузнеца. [Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7201
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрона Кузнеца."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7203
 msgid ""
@@ -7038,11 +7096,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание Боевого дрона \"Ишимура\". [Цена: "
+"37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7222
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрона \"Ишимура\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7224
 msgid ""
@@ -7058,11 +7118,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание боевого дрона \"Пустельга\". "
+"[Цена: 100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7244
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрона \"Пустельга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7249
 msgid ""
@@ -7078,11 +7140,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание боевого дрона МФК \"Пустельга\". "
+"[Цена: 100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7266
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрона МФК \"Пустельга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7268
 msgid ""
@@ -7098,11 +7162,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание телепортационнлого "
+"ретрансляционного дрона МФК \"Пикет\". [Цена: 37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7288
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрон МФК \"Пикет\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7290
 msgid ""
@@ -7118,11 +7184,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/text"
 msgstr ""
+"В данный момент вы просматриваете описание боевого дрона \"Сирена\". [Цена: "
+"37~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7310
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Выковать дрон \"Сирена\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7312
 msgid ""
@@ -7902,7 +7970,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7800
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Пожалуйста-пожалуйста?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7802
 msgid ""
@@ -12231,8 +12299,8 @@ msgstr "Помочь Винчестеру."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Вы атакуете корабль сборщиков долгов-Ясновидящих в лоб. \"Ублюдок, ты "
-"заплатишшшь за это. Боже, как же я ненавижу Федерацию\"."
+"Вы атакуете корабль коллекторов-Ясновидящих в лоб. \"Ублюдок, ты заплатишшшь "
+"за это. Боже, как же я ненавижу Федерацию\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11381
 msgid ""
@@ -12242,14 +12310,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11387
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[2]/text"
-msgstr "Помочь Ясновидящим-сборщикам долгов."
+msgstr "Помочь коллекторам-Ясновидящим."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11389
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[2]/event/text"
 msgstr ""
 "Зачем вам поддерживать корабль, который выглядит ТАК нелепо?! Вы решаете "
-"помочь сборщикам долгов, Винчестер и так уже был на грани. Вы делаете "
+"помочь коллекторам, Винчестер и так уже был на грани. Вы делаете "
 "предупредительный выстрел по причудливому кораблю. Вас тут же вызывает пара "
 "черно-белых энджи. \"Предлагаем прекратить огонь. Винчестер - хороший "
 "богомол, просто его ввела в заблуждение страсть к инженерному делу. "
@@ -12270,7 +12338,7 @@ msgstr "Сдержать свое слово, не стоило влезать �
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
-"Энджи выглядят очень разочарованными. \"Вы = жестокие. Вызывает отвращение. "
+"Энджи выглядят очень разочарованными. \"Вы = жестокие. Вызываете отвращение. "
 "Начинаю протокол: Защита лучшего друга\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11402
@@ -12343,12 +12411,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11446
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[5]/text"
-msgstr ""
+msgstr "Пора уже уходить!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11448
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[5]/event/text"
 msgstr ""
+"Что бы вы ни надеялись сделать здесь, теперь это бессмысленно. Вы улетаете, "
+"пока бой не настиг вас."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11450
 msgid ""
@@ -12369,6 +12439,10 @@ msgstr "Ремингтон"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[1]/text"
 msgstr ""
+"Вы заряжаете свои орудия и атакуете корабль коллекторов-Ясновидящих в лоб. "
+"Один из энджи подлетает к вашему кораблю на маленьком шаттле и вы впускаете "
+"его внутрь. \"Вы = интересные. Поговорим позже, сосредоточьтесь на спасении "
+"Винчестера\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11470
 msgid ""
@@ -12384,6 +12458,10 @@ msgstr "Моссберг"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[2]/text"
 msgstr ""
+"Вы заряжаете свои орудия и атакуете корабль коллекторов-Ясновидящих в лоб. "
+"Один из энджи подлетает к вашему кораблю на маленьком шаттле и вы впускаете "
+"его внутрь. \"Вы = интересные. Поговорим позже, сосредоточьтесь на спасении "
+"Винчестера\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11480
 msgid ""
@@ -12394,6 +12472,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_TAKEN\"]/text"
 msgstr ""
+"\"Мальчик, ты еще здесь? Мне нравится твоя компания, но жизнь Винчестера в "
+"опасности! Пожалуйста, ради меня, отправься на его поиски\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11491
 msgid ""
@@ -12401,9 +12481,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11498
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_COMPLETED_RESCUE\"]/text"
 msgstr ""
+"\"Мальчик, что это? Ты спас Винчестера? Мальчик, ты в порядке в моей "
+"системе. Я запомню это, теперь я у тебя в долгу!\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11501
 msgid ""
@@ -12414,6 +12497,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_INTRO\"]/text"
 msgstr ""
+"Вы расспрашиваете Алестера о странном кристалле в дипломате. \"А, эта старая "
+"вещь. Это чудо техники, выкованное двумя великими учениками, которых я "
+"встретил давным-давно. Ученой-орхидеей и аристократом-кристаллином - "
+"странная пара, конечно, но, несмотря на различия, они быстро подружились. "
+"Однажды Мандельбрисс и Кириет поручили мне изготовить корпус для "
+"экспериментального орудия, в котором использовалось чудесное сочетание "
+"технологий орхидеи и кристаллинов, реликвию которого ты сейчас видишь перед "
+"собой\". Алестер делает небольшую паузу, как бы погружаясь в размышления. "
+"\"Интересно, что случилось с этими двумя... насколько я слышал, они "
+"поссорились из-за своей работы. Не мог бы ты навести о них справки, мальчик? "
+"Я слышал, что Кириет вернулась в регион, но я передам тебе координаты "
+"Мандельбрисса\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11516
 msgid ""
@@ -12424,6 +12519,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_INTRO\"]/choice/event/text"
 msgstr ""
+"Алестер без особых усилий загружает координаты Мандельбрисса на ваш корабль "
+"и просит вас покинуть помещение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11522
 msgid ""
@@ -12433,7 +12530,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11524
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_INTRO\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Удачи тебе, мальчик!\" Алестер кричит вам вслед, когда вы уходите."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11526
 msgid ""
@@ -12443,7 +12540,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11537
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_TAKEN\"]/text"
-msgstr ""
+msgstr "\"Чего ты ждешь, мальчик? Отправляйся туда и помоги этим беднягам!\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11539
 msgid ""
@@ -12454,6 +12551,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_COMPLETED_EXE\"]/text"
 msgstr ""
+"\"Значит, они поспорили о том, к какой стороне им отправиться со своими "
+"открытиями? Не могу сказать, что я никогда не думал об этом, мальчик! Но ты "
+"помог им прийти к соглашению, показав Кириет, что есть много путей к миру? "
+"Впечатляюще, даже по моим меркам! Насколько я помню, она всегда была упрямой "
+"девочкой\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11547
 msgid ""
@@ -12464,6 +12566,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_COMPLETED_REV\"]/text"
 msgstr ""
+"\"Значит, они поспорили о том, к какой стороне им отправиться со своими "
+"открытиями? Не могу сказать, что я никогда не думал об этом, мальчик! Но ты "
+"помог им прийти к соглашению, показав Мандельбриссу, что не все конфликты "
+"можно решить с помощью оружия? Впечатляюще, даже по моим меркам! Насколько я "
+"помню, переубедить этого мальчишку было непросто\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11555
 msgid ""
@@ -12474,6 +12581,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/text"
 msgstr ""
+"Прибыв к маяку, вы сразу же замечаете на планете большое строение, которое "
+"системы вашего корабля распознают как \"Высокая Беседка\". Это "
+"исследовательская станция, где ученые всех мастей проводят эксперименты и "
+"исследования в свое удовольствие, хотя вход туда платный. Приземлившись в "
+"корабельном порту, вы и ваш экипаж направляетесь ко входу в надежде найти "
+"Мандельбрисса внутри."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11573
 msgid ""
@@ -12484,16 +12597,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/choice/event/text"
 msgstr ""
+"Вы рассматриваете строение Высокой Беседки, отмечая ее необычную структуру с "
+"металлической решеткой, составляющей внешние стены здания, и растениями и "
+"лианами, свисающими со стен и стеклянной куполообразной крыши. Дойдя до "
+"входа, охранник спрашивает, есть ли у вас абонемент."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11577
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Оплатить взнос. [-20~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11579
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"Спасибо. Приятного времяпровождения\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11584
 msgid ""
@@ -12503,12 +12620,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11590
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/choice/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "(Член экипажа-орхидея) Ваша орхидея уже имеет абонемент."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11592
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL\"]/choice/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
-msgstr ""
+msgstr "\"Спасибо. Приятного времяпровождения\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11594
 msgid ""
@@ -12519,26 +12636,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/text"
 msgstr ""
+"Войдя в Беседку, вы расспрашиваете орхидей о Мандельбриссе и не сразу "
+"находите его возле одной из лабораторий - и, как ни странно, Кириет тоже "
+"здесь! Подойдя к нему, чтобы представиться, вы ненадолго подслушиваете часть "
+"их разговора. \"Мы уже обсуждали это, Мандельбрисс, я не позволю "
+"использовать наши исследования для создания оружия войны!\" \"Но Кириет, "
+"я... о, привет! Кто вы такие?\" Вы говорите им, что вы - Ренегат, посланный "
+"Алестером, чтобы проведать их, но прежде чем они успевают ответить, все "
+"здание содрогается, и срабатывает несколько сигналов тревоги. Вскоре после "
+"этого вы получаете вызов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11606
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/text"
-msgstr ""
+msgstr "Принять вызов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11608
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/text"
 msgstr ""
+"Вас встречает лицо человека в броне МФК, выкрашенной в синий цвет, как у "
+"неуловимых Ангелов. \"Выдайте Мандельбрисс, Кириет и их исследования или "
+"умрите\". Оглянувшись на пару, вы понимаете, что они шокированы и напуганы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11610
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Сразиться с наемниками."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11612
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Когда вы возвращаетесь на свой корабль, над головой с ревом проносится "
+"странный истребитель Ангелов. Войдя в боевую рубку, вы получаете короткий "
+"вызов с вражеского корабля. \"Я Рэндалл Куртен, бывший Ангел. А ты, Ренегат? "
+"Тебе конец\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11615
 msgid ""
@@ -12548,12 +12681,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11621
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Пусть ваш экипаж схватит пару и передаст их ему."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11623
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Пока ваш экипаж удерживает двух ученых и тащит их, вы получаете второй вызов "
+"от наемников. \"Мудрый выбор, Ренегат. Мы оба выйдем из этого более богатыми "
+"людьми\". Вы бросаете последний взгляд на их лица: Кириет смотрит на вас "
+"широко раскрытыми от ужаса глазами, а Мандельбрисс выкрикивает слова, "
+"которые остаются без внимания. Может, вам и все равно, но остальной части "
+"галактики - точно нет."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11625
 msgid ""
@@ -12564,6 +12703,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE\"]/text"
 msgstr ""
+"Когда ваш корабль проваливается в червоточину, вы понимаете, что это и в "
+"переносном, и в буквальном смысле червоточина: тысячи гигантских червей "
+"врезаются в ваш корпус, покрывая его фекалиями, желчью и слизью, но в "
+"остальном не причиняя ему вреда."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11642
 msgid ""
@@ -12574,16 +12717,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE_2\"]/text"
 msgstr ""
+"Ваш корабль вышел из червоточины, в основном невредимый, но в незнакомом "
+"пространстве. Вы быстро сверяетесь со звездной картой и замечаете тысячи "
+"маяков с надписью \"Пой с Гармонией\". Похоже, вы находитесь рядом с сильно "
+"поврежденной космической станцией."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11652
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE_2\"]/choice/text"
-msgstr ""
+msgstr "Попытаться связаться с ней."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11654
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE_2\"]/choice/event/text"
 msgstr ""
+"Вы вызываете станцию и в ответ слышите тревожное молчание. Вы без проблем "
+"стыкуете свой корабль с космической станцией, и ваш экипаж быстро "
+"поднимается на ее борт."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11657
 msgid ""
@@ -12594,6 +12744,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE_3_PROLOGUE\"]/text"
 msgstr ""
+"Похоже, станция подверглась мощной атаке, и вы задаетесь вопросом, есть ли "
+"на ней выжившие или работающие терминалы. Вы проходите через шлюз и ожидаете "
+"начала процедуры герметизации, удивляясь, что она все еще работает. Когда "
+"она завершается, все присутствующие выходят в длинный извилистый коридор, и "
+"вы начинаете исследовать огромный комплекс космической станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11668
 msgid ""
@@ -12604,6 +12759,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_FUTURE_3_PROLOGUE_2\"]/text"
 msgstr ""
+"Вы и ваш экипаж стоите в холле станции и наблюдаете за окружающей "
+"обстановкой. Никто не прибыл вас встречать. Трупы, или, по крайней мере, то, "
+"что от них осталось, разбросаны в коридоре, придавая серо-белому интерьеру "
+"зловещий багровый оттенок органики.\n"
+"\t\t\t[С этого момента вы будете исследовать космическую станцию. Поскольку "
+"вам трудно сразу же отправиться к подозрительным маякам, первым шагом к "
+"выяснению происходящего может стать изучение этой станции. Обязательно "
+"заглядывайте в меню ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11680
 msgid ""
@@ -12614,41 +12777,48 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/text"
 msgstr ""
+"Вы и ваш экипаж договорились, что это будет ваша первоначальная точка "
+"встречи, и начинаете прочесывать судно. Что бы вы хотели сделать?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11696
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Исследовать."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11698
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Куда бы вы хотели отправиться?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11700
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"Войти в ближайший к шлюзу отсек, обозначенный как \"Кладовая уборщиков\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11704
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться на запад и исследовать область с надписью \"Пост охраны\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11708
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/choice[3]/text"
 msgstr ""
+"Минуя пункт охраны, осмотреть \"АПАРТАМЕНТЫ А\" на предмет возможных "
+"выживших или свидетелей нападения."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11712
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/choice[4]/text"
 msgstr ""
+"Отправиться на север и следовать по стрелкам, указывающим на \"Закусочную "
+"Мидо\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11716
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[1]/event/choice[@req=\"marker_opened_metal_door_plaza\"]/text"
-msgstr ""
+msgstr "Отправиться прямо на центральную площадь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11720
 msgid ""
@@ -12658,17 +12828,19 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11727
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "Осмотреть ближайший труп."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11732
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[3]/text"
-msgstr ""
+msgstr "Посмотреть карту ближайших станций."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11734
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[3]/event/text"
 msgstr ""
+"Монитор, похоже, разрушен, так как в верхней половине экрана торчит погнутая "
+"железная труба. Думаю, вы не сможете проверить карту..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11736
 msgid ""
@@ -12678,121 +12850,143 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11744
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_AIRLOCK_HUB\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11754
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/text"
 msgstr ""
+"Вы входите в тесную каморку уборщика в полном одиночестве, а ваш экипаж "
+"охраняет дверь.\n"
+"\n"
+"\t\t\tОна от пола до потолка уставлена инструментами, так что, возможно, вы "
+"будете часто возвращаться сюда за инструментами, когда обнаружите, что они "
+"вам нужны."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11760
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"fm_fs_power_cutter\"]/text"
-msgstr ""
+msgstr "Вы нашли и взяли в кладовой Электрический резак."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11765
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"marker_checked_plaza_door\"]/text"
 msgstr ""
+"Взять Электрический резак, он может пригодиться для открытия дверей на "
+"площади."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11770
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"fm_fs_crowbar\"]/text"
-msgstr ""
+msgstr "Вы нашли и взяли в кладовой Монтировку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11775
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"marker_need_crowbar\"]/text"
-msgstr ""
+msgstr "Взять Монтировку, он может пригодиться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11780
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"fm_fs_grappling_hook\"]/text"
-msgstr ""
+msgstr "У вас уже есть Крюк."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11785
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"fm_fs_rope\"]/text"
 msgstr ""
+"(ВЕРЕВКА) Соединить веревку с крюком, найденным в кладовой, чтобы получилась "
+"Крюк-кошка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11792
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Выйти из помещения и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11799
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_POWER_CUTTER\"]/text"
 msgstr ""
+"Взяв с собой Электрический резак, вы можете использовать его для вскрытия "
+"более прочных бронированных или укрепленных дверей, если у вас будет "
+"достаточно времени."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11802
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_POWER_CUTTER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Выйти из помещения и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11809
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_CROWBAR\"]/text"
 msgstr ""
+"Взять с собой Монтировку - она может пригодиться для вскрытия дверей или "
+"решеток."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11812
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_CROWBAR\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Выйти из помещения и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11818
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_MAKE_GRAPPLING_HOOK\"]/text"
 msgstr ""
+"Вы создали Крюк-кошка, используя клейкую ленту и крюк, которые вы нашли "
+"здесь. Возможно, с его помощью вы сможете достать дипломат?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11821
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_MAKE_GRAPPLING_HOOK\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Выйти из помещения и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11831
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/text"
 msgstr ""
+"Вы решаете отправиться на пост охраны. Над автоматической дверью висит "
+"эмблема щита, которая, похоже, повреждена огнем оружия. На ней написано: \"ХЬ"
+" А ПЭ НИЕ\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11835
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"marker_orchid_child_alive\"]/text"
-msgstr ""
+msgstr "(Карточка безопасности) Открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11841
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"marker_fm_fs_security_hub_clear\"]/text"
-msgstr ""
+msgstr "(Карточка безопасности) Открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11846
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"fm_fs_keycard_1\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Карточка безопасности) Открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11852
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"fm_fs_keycard_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Попытаться открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11857
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11865
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Неважно, вернуться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11873
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_NO_CARD\"]/text"
 msgstr ""
+"Дверь не открывается, но электронный сенсор, похоже, работает. Чтобы попасть "
+"в это помещение, вам необходимо иметь при себе какое-то удостоверение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11875
 msgid ""
@@ -12803,6 +12997,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD\"]/text"
 msgstr ""
+"Сенсоры двери фиксируют ваше присутствие, и дверь открывается - возможно, "
+"она отреагировала на вашу карточку доступа? Вы и ваш экипаж проходите в "
+"помещение.\n"
+"\t\t\tВ темноте за дверью вы можете различить фигуру гуманоида. Судя по "
+"всему, это сгорбившийся в кресле за пультом охраны мужчина лет тридцати. "
+"Пальцы его правой руки сжимают пистолет, а большой палец лежит на спусковом "
+"крючке."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11885
 msgid ""
@@ -12813,66 +13014,99 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_2\"]/text"
 msgstr ""
+"Охранник, однако, не единственный убитый.\n"
+"\t\t\tВы видите тело небольшого человекоподобного робота, довольно сильно "
+"поврежденное. Похоже, он пытался вмешаться в схватку и был в результате "
+"уничтожен.\n"
+"\t\t\tЗдесь также находится тело молодой орхидеи с большой дырой в голове, "
+"на вид ей около десяти лет."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11896
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_2\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Осмотреть тело охранника в поисках чего-нибудь полезного."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11902
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD\"]/text"
 msgstr ""
+"Вы подходите к телу охранника.\n"
+"\t\t\tВ этот момент тело ребенка-орхидеи поднимается с пола и смотрит на "
+"вас. Обычно вы бы обрадовались, увидев кого-то живого, но у этого \"существа"
+"\" в черепе большая дыра размером с кулак."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11907
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD\"]/choice[1]/text"
-msgstr ""
+msgstr "Не рисковать, немедленно открыть огонь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11912
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD\"]/choice[2]/text"
-msgstr ""
+msgstr "Познакомиться со странной орхидеей."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11917
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD\"]/choice[3]/text"
-msgstr ""
+msgstr "К черту все, бежим."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11923
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_SHOOT\"]/text"
 msgstr ""
+"Вы поднимаете пистолет и стреляете ребенку-орхидее в голову, пробивая дыру "
+"во лбу и заставляя его судорожно дергаться, разбрызгивая мозговое вещество и "
+"другие жидкости. Странно, но ребенок СНОВА встает на ноги. Вы и ваш экипаж "
+"выпускаете в него около 15 снарядов, пока в нем не остается больше дыр, чем "
+"тела. Наконец он перестает двигаться. Что, черт возьми, происходит?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11925
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_SHOOT\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Попробовать еще раз обыскать тело охранника."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11931
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_GREET\"]/text"
 msgstr ""
+"Вы доброжелательно, хотя и слегка нервно, приветствуете странного ребенка-"
+"орхидею. Оно начинает пронзительно КРИЧАТЬ и с дикой скоростью, которую вы "
+"никогда не видели, бросается на вас. К черту все это, вы поднимаете пистолет "
+"и стреляете ребенку-орхидее в голову, пробивая дыру во лбу и заставляя его "
+"судорожно дергаться, разбрызгивая мозговое вещество и другие жидкости тела. "
+"Странно, но ребенок СНОВА встает на ноги. Вы и ваш экипаж выпускаете в него "
+"около 15 патронов, пока в нем не остается больше дыр, чем тел. Наконец он "
+"перестает двигаться. Что, черт возьми, происходит?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11934
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_GREET\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Попробовать еще раз обыскать тело охранника."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11940
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_RUN\"]/text"
 msgstr ""
+"Вы выбегаете в коридор, дверь автоматически захлопывается за вами.\n"
+"\t\t\tРебенок-орхидея вскрикивает высоким визгливым голосом, и стучит в "
+"дверь позади вас.\n"
+"\t\t\tЗатем вы слышите, как его крошечные орхидейные ножки бегут в "
+"противоположном направлении, и какой-то стук. Похоже, он не может "
+"последовать за вами, у него нету при себе карточки безопасности."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11946
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_CARD_CHILD_RUN\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Осмотреть тело охранника в поисках чего-нибудь полезного."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11952
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_ORCHID_CHILD_ALIVE\"]/text"
 msgstr ""
+"Вы и ваш экипаж снова входите в помещение с оружием наизготовку, внимательно "
+"высматривая странного ребенка-орхидею. Похоже, его нигде нет. Вы заметили, "
+"что вентиляционная шахта в дальнем углу помещения была открыта, и "
+"подозреваете, что он покинул комнату."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11954
 msgid ""
@@ -12883,61 +13117,74 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/text"
 msgstr ""
+"Теперь, когда в помещении (вроде бы) безопасно для исследования, что вы "
+"будете делать?\n"
+"\t\t\tВы быстро осматриваете тело охранника, но, кроме бесполезного "
+"пистолета в его руке, он, похоже, уже был кем-то ограблен."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11970
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать рабочий стол."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11975
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[@req=\"marker_terminal_powered\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Найти что-нибудь в терминале компьютера."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11980
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[@req=\"marker_terminal_powered\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Найти что-нибудь в терминале компьютера."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11985
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[@req=\"marker_fuse_inserted\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Проверить электрощит."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11990
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[@req=\"marker_fuse_inserted\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обыскать помещение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12003
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB\"]/choice[7]/text"
-msgstr ""
+msgstr "Неважно, вернуться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12009
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_DESK\"]/text"
 msgstr ""
+"В самом столе вы находите лишь бесполезные канцелярские принадлежности, "
+"ничего полезного. Вы обнаруживаете в столе ящик поменьше, который выглядит "
+"неуместно, но когда вы с силой открываете его, все, что вы находите, - это "
+"несколько пыльных семейных фотографий, похоже, мертвого охранника в кресле."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12011
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_DESK\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Какая досада."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12017
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_TERMINAL_OFF\"]/text"
 msgstr ""
+"Вы нажимаете кнопку питания на терминале, но ничего не происходит. Вы и один "
+"из членов вашего экипажа осматриваете внутренности терминала, и оказывается, "
+"что он находится в рабочем состоянии, просто на него не поступает питание. "
+"Если вы хотите использовать его, вам придется придумать, как снова подать на "
+"него питание."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12020
 msgid ""
@@ -12948,21 +13195,38 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_TERMINAL_USE\"]/text"
 msgstr ""
+"Вы нажимаете кнопку питания на терминале, и примерно через 15 секунд после "
+"запуска он оживает. Терминал, похоже, введен в режим принудительного запуска "
+"какого-то программного обеспечения. Появляется логотип компании с надписью "
+"\"РЕЕСТР ИДЕНТИФИКАЦИИ ГОСТЕЙ СТАНЦИИ БЕЛЛОНА\". Есть кнопка \"ВЫХОД\", "
+"чтобы закрыть программу, но для этого требуются полномочия администратора. В "
+"результате единственное, к чему вы можете получить доступ, - это программа-"
+"регистратор. Когда вы нажимаете кнопку \"Инициализировать\", появляется "
+"приглашение: \"Пожалуйста, вставьте пустой гостевой идентификатор, чтобы "
+"начать\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12031
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_TERMINAL_USE\"]/choice[@req=\"fm_fs_blank_id\"]/text"
 msgstr ""
+"С помощью терминала безопасности создать временный идентификатор для себя и "
+"своего экипажа, используя Идентификационную карточку вы сможете открыть "
+"двери лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12036
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_TERMINAL_USE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Вернуться назад, у меня нет того, о чем здесь идет речь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12042
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_TERMINAL_IDCARD_GAIN\"]/text"
 msgstr ""
+"Вы вставляете пустую идентификационную карточку и регистрируете гостевой "
+"идентификатор для себя и своего экипажа, следуя подсказкам на экране ("
+"удивительно удобным для пользователя). Машина наклеивает магнитную полосу на "
+"каждую из ваших карточек и выдает их обратно. Вы уверены, что со временем "
+"они вам пригодятся."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12046
 msgid ""
@@ -12973,56 +13237,74 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_SEARCH_ROOM\"]/text"
 msgstr ""
+"Обыскав пункт охраны, вы заметили, что из оружейной комнаты забрали все "
+"оружие, но есть запасные боеприпасы, если они вам нужны. Вы мысленно "
+"отмечаете ее местоположение, чтобы вернуться туда позже.\n"
+"\n"
+"\t\t\tТакже в оружейной вы находите блок предохранителей с выцветшей "
+"надписью \"Резервное питание\". Предохранитель отсутствует."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12059
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_SEARCH_ROOM\"]/choice[1]/text"
-msgstr ""
+msgstr "(ЗАПАСНОЙ ПРЕДОХРАНИТЕЛЬ) Вставить новый предохранитель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12064
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_SEARCH_ROOM\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжать поиски, вряд ли вы сможете починить его без запчастей."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12069
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_SEARCH_ROOM\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, оставить коробку в покое."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12076
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/text"
 msgstr ""
+"Вставив новый предохранитель, вы щелкаете несколькими переключателями, чтобы "
+"включить его.\n"
+"\n"
+"\t\t\tСлева от блока предохранителей находится небольшой монитор, который "
+"загорается. Он сообщает: \"Пожалуйста, выберите место для перенаправления "
+"энергии. Линии электропередач на этом объекте повреждены, и в соответствии с "
+"протоколом безопасности X3Р17-A2 только одна из систем может быть запитана "
+"одновременно, пока линии не будут восстановлены."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12084
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/choice[1]/text"
-msgstr ""
+msgstr "Направить энергию на освещение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12089
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/choice[2]/text"
-msgstr ""
+msgstr "Направить питание на общие розетки."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12094
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/choice[3]/text"
-msgstr ""
+msgstr "Направить питание на компьютерный терминал."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12099
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/choice[4]/text"
-msgstr ""
+msgstr "Подайте питание на комнату отдыха."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12104
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_INSERTED\"]/choice[5]/text"
-msgstr ""
+msgstr "Неважно, оставить в покое блок предохранителей и продолжить поиск."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12111
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_LIGHTS\"]/text"
 msgstr ""
+"Вы направляете питание на освещение помещений. Аварийное освещение тускнеет, "
+"а основное вспыхивает. Единственное, что вы замечаете, - это сотни, "
+"возможно, тысячи царапин на стенах. А также следы выстрелов из оружия по "
+"всем стенам."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12114
 msgid ""
@@ -13033,6 +13315,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_OUTLETS\"]/text"
 msgstr ""
+"Вы направляете питание на розетки в помещениях. Кофеварка возле стола "
+"оживает. Вы и ваш экипаж быстро завариваете чашку кофе, чтобы перевести дух."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12123
 msgid ""
@@ -13043,6 +13327,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_BREAK\"]/text"
 msgstr ""
+"Вы направляете энергию в комнату отдыха. Вы и ваш экипаж заходите в комнату "
+"отдыха и отдыхаете на удобных диванах, чтобы перевести дух, а один из членов "
+"вашего экипажа следит за дверью на случай появления угрозы.\n"
+"\t\t\tЧерез некоторое время вы решаете, что хорошо отдохнули, и продолжаете "
+"путь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12134
 msgid ""
@@ -13053,6 +13342,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_SECURITY_HUB_FUSE_TERMINAL\"]/text"
 msgstr ""
+"Вы направляете питание на компьютерный терминал. Теперь вы сможете "
+"использовать терминал безопасности за столом охранника."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12143
 msgid ""
@@ -13063,107 +13354,121 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/text"
 msgstr ""
+"Вы попадаете в зону, обозначенную как \"АПАРТАМЕНТЫ А\". Многие помещения "
+"забаррикадированы как изнутри, так и снаружи. Немного чересчур, но, "
+"возможно, эти люди были в отчаянии. Чтобы проникнуть в эти помещения, "
+"потребуется много времени. Однако несколько помещений, похоже, не сильно "
+"забаррикадированы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12156
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[1]/text"
-msgstr ""
+msgstr "Подойти к комнате 107A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12161
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[2]/text"
-msgstr ""
+msgstr "Подойти к комнате 115A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12166
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[3]/text"
-msgstr ""
+msgstr "Подойти к комнате 120A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12171
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[4]/text"
-msgstr ""
+msgstr "Подойти к комнате 129A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12176
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12184
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_A\"]/choice[6]/text"
-msgstr ""
+msgstr "Неважно, вернуться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12195
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_APPROACH\"]/text"
 msgstr ""
+"Эта дверь видала лучшие времена, а считыватель карточек на ручке сильно "
+"поврежден."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12198
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_APPROACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12203
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_APPROACH\"]/choice[2]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12208
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_APPROACH\"]/choice[@req=\"marker_fm_fs_apartment_107a_all_clear\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12213
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_APPROACH\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12222
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_LISTEN\"]/text"
-msgstr ""
+msgstr "Внутри ничего не слышно, возможно, здесь безопасно?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12225
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_LISTEN\"]/choice[1]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12230
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_LISTEN\"]/choice[2]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12235
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_LISTEN\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12246
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_KNOCK\"]/text"
 msgstr ""
+"Вы осторожно стучите в дверь, а ваш экипаж занимает позиции для прикрытия в "
+"случае необходимости. Никто не отвечает."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12249
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_KNOCK\"]/choice[1]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12254
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_KNOCK\"]/choice[2]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12259
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_KNOCK\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12265
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_ENTER\"]/text"
 msgstr ""
+"Вы пытаетесь открыть дверь, но она, как ни странно, заперта. К счастью, она "
+"сделана не из невероятно прочного материала. Вы много раз ударяете по двери, "
+"пока она не слетает с петель. Вы не можете поверить, что на станции вообще "
+"используются петли, но, должно быть, это роскошь или предпочтение ее "
+"жильцов. Вы и ваш экипаж входите в комнату с оружием наизготовку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12267
 msgid ""
@@ -13174,6 +13479,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_ENTER_2\"]/text"
 msgstr ""
+"Осмотрев комнату, вы не можете поверить, насколько она грязная. Комната "
+"небольшая, выглядит довольно уныло и находится в относительно плохом "
+"состоянии. Повсюду валяется металлолом, а на стеллажах нет ничего, за "
+"исключением нескольких пыльных предметов. Кровать не заправлена, а простыни "
+"испачканы.\n"
+"\n"
+"\t\t\tБольшую часть комнаты занимает письменный стол, оставляя мало места "
+"для других вещей. На столе разбросаны личные вещи: расческа, старые часы, "
+"несколько журавликов оригами и небольшой компьютерный терминал. Владельца "
+"вещей нигде не видно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12280
 msgid ""
@@ -13184,73 +13499,88 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_HUB\"]/text"
 msgstr ""
+"Быстро убедившись, что комната безопасна, вы начинаете поиски выживших, "
+"информации или чего-нибудь еще полезного."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12294
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Осмотреть стол."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12299
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "Проверить шкаф."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12304
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_HUB\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из комнаты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12316
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET\"]/text"
 msgstr ""
+"Вы находите здесь несколько пар грязной одежды и несколько старых картонных "
+"коробок. Отбросив несколько бесполезных, например, с надписью \"Спортивная "
+"обувь\", вы находите одну, которая привлекает ваше внимание.\n"
+"\n"
+"\t\t\tНа коробке написано \"Запасные части\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12321
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET\"]/choice[1]/text"
-msgstr ""
+msgstr "Открыть коробку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12326
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET\"]/choice[2]/text"
-msgstr ""
+msgstr "Осмотреть стол."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12331
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET\"]/choice[3]/text"
-msgstr ""
+msgstr "Из-за грязного белья вы чувствуете себя плохо, вы выходите из комнаты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12337
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_OPEN_BOX\"]/text"
 msgstr ""
+"Открыв коробку, вы обнаруживаете множество запасных кабелей, несколько "
+"старых жестких дисков с отверстиями, стекло для дисплея монитора и несколько "
+"предохранителей."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12340
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_OPEN_BOX\"]/choice[1]/text"
-msgstr ""
+msgstr "Осмотреть стол."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12345
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_OPEN_BOX\"]/choice[@req=\"fm_fs_fuse\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Вы уже взяли запасной предохранитель, неразумно носить с собой слишком "
+"много. Вы и ваш экипаж всегда можете вернуться в эту комнату, если вам "
+"понадобится больше."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12350
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_OPEN_BOX\"]/choice[@req=\"fm_fs_fuse\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Взять с собой предохранитель, он может пригодиться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12355
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_OPEN_BOX\"]/choice[4]/text"
-msgstr ""
+msgstr "Из-за грязного белья вы чувствуете себя плохо, вы выходите из комнаты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12361
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_CLOSET_TAKE_FUSE\"]/text"
 msgstr ""
+"Вы забираете с собой запасной предохранитель и продолжаете обыскивать "
+"комнату в поисках припасов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12364
 msgid ""
@@ -13261,276 +13591,416 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/text"
 msgstr ""
+"Это запыленный старый стол, возможно, сентиментальный предмет, который "
+"хозяин привез с собой. На нем лежат какие-то бумаги, в которых говорится о "
+"счетах и пропущенных платежах, ежедневник, позволяющий организовать работу, "
+"и работающий компьютерный терминал."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12378
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/choice[1]/text"
-msgstr ""
+msgstr "Прочитать бумаги."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12383
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/choice[2]/text"
-msgstr ""
+msgstr "Прочитать ежедневник."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12388
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/choice[3]/text"
-msgstr ""
+msgstr "Включить терминал."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12393
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/choice[4]/text"
-msgstr ""
+msgstr "Осмотреть шкаф."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12398
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK\"]/choice[5]/text"
-msgstr ""
+msgstr "Из-за грязного белья вы чувствуете себя плохо, вы выходите из комнаты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12409
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL\"]/text"
 msgstr ""
+"Вы загружаете терминал. У пользователя есть новостная статья и несколько "
+"файлов в папке \"Музыка\".\n"
+"\n"
+"\t\t\tЧто вы хотите проверить в первую очередь?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12414
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Прочитать новостную статью."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12419
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL\"]/choice[2]/text"
-msgstr ""
+msgstr "Проверить музыкальные файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12424
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL\"]/choice[3]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12436
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS\"]/text"
 msgstr ""
+"Статья гласит. ЕЖЕДНЕВНАЯ БЕЛЛОНА\n"
+"\n"
+"\t\t\tЭКСТРЕННАЯ ТЕКСТОВАЯ ТРАНСЛЯЦИЯ ОТ КОМАНДИРА КОСМИЧЕСКОЙ СТАНЦИИ "
+"\"БЕЛЛОНА\" БРОМВЕЛЛА РУДКИНА.\n"
+"\n"
+"\t\t\tНесколько кораблей Гармонии вошли в пространство нашего маяка и "
+"направляются для исследования нашего убежища. НЕМЕДЛЕННО СЛЕДУЙТЕ ПРОТОКОЛУ "
+"'XETA' ДЛЯ ВАШЕЙ БЕЗОПАСНОСТИ."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12445
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS\"]/choice[1]/text"
-msgstr ""
+msgstr "Продолжить чтение..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12450
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12457
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS_2\"]/text"
 msgstr ""
+"Мы заблокируем все исходящие сообщения со станции, чтобы Гармония не смогла "
+"сообщить о нашем маяке ульевому разуму, но мы не знаем, насколько опасной "
+"будет неизбежная битва внутри станции. С БОГОМ.\n"
+"\n"
+"\t\t\tСогласно календарю терминала, эта передача была отправлена на все "
+"персональные терминалы в прошлом месяце, около 30 дней назад. Вы также "
+"заметили, что дата в календаре ошибочается примерно на 4 года. Или вы "
+"находитесь на 4 года в будущем? ...нет, этого не может быть. Вы уверены, что "
+"это должно быть ошибкой."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12463
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить музыкальные файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12468
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_NEWS_2\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12480
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC\"]/text"
 msgstr ""
+"Вы открываете папку \"Музыка\" и находите несколько аудиофайлов.\n"
+"\n"
+"\t\t\tВот файлы, которые вы нашли. Они не имеют названия.\n"
+"\n"
+"\t\t\tЗапись 323: Последнее обновление 32 дня назад\n"
+"\n"
+"\t\t\tЗапись 324: Последнее обновление 30 дней назад\n"
+"\n"
+"\t\t\tЗапись 325: Последнее обновление 29 дней назад\n"
+"\n"
+"\t\t\tЗапись 326: Последнее обновление 27 дней назад"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12493
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC\"]/choice[1]/text"
-msgstr ""
+msgstr "Выбрать запись в каталоге файлов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12499
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12511
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/text"
-msgstr ""
+msgstr "Выбрать файл:"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12513
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[1]/text"
-msgstr ""
+msgstr "Прослушать запись 323."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12518
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[2]/text"
-msgstr ""
+msgstr "Прослушать запись 324."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12523
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[3]/text"
-msgstr ""
+msgstr "Прослушать запись 325."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12528
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[4]/text"
-msgstr ""
+msgstr "Прослушать запись 326."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12533
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[5]/text"
-msgstr ""
+msgstr "Я передумал, прочитать новостную статью."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12538
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_DIRECTORY\"]/choice[6]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12545
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323\"]/text"
 msgstr ""
+"Из терминала доносится хрипловатый, печальный мужской голос, похоже, "
+"принадлежащий человеку:\n"
+"\n"
+"\t\t\t\"Запись 323, не могу поверить, что у меня уже более трехсот "
+"обновлений на борту этой дыры. Я не могу заставить себя что-либо делать, я "
+"тону в долгах, а эти облачнолицые негодяи, по сути, захватили весь сектор. "
+"Интересно, как обстоят дела в соседних секторах? Не то чтобы это имело "
+"значение, любой корабль, который мы посылаем к маяку \"ВЫХОД\", никогда не "
+"возвращается. Я очень надеюсь, что у командира Рудкина есть долгосрочный "
+"план для нас, иначе так остатки наших рас могут провести всю свою жизнь "
+"здесь, пока Гармония не найдет нас\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12552
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12560
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323_2\"]/text"
 msgstr ""
+"Мужчина прочищает горло, затем вводит команду в терминал.\n"
+"\t\t\t\"Завершить запись\". Запись заканчивается."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12566
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить другие файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12571
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323_2\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12578
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324\"]/text"
 msgstr ""
+"Из терминала доносится хрипловатый, очень обеспокоенный мужской голос:\n"
+"\n"
+"\n"
+"\t\t\t\"Запись 324, я только что получил экстренное сообщение от командира "
+"Рудкина. Мы действительно запускаем протокол XETA? Будет массовая паника. "
+"Это очень плохо. Я побежал в кафе и купил всю еду и воду, какую только смог, "
+"- очереди были огромные. К счастью, командирразрешил нам носить оружие на "
+"борту космической станции как раз для таких случаев. Не уверен, что оно "
+"поможет против этих тварей\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12586
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12592
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324_2\"]/text"
 msgstr ""
+"В голосе мужчины звучит почти счастье: \"Дана, в кои-то веки я рад, что тебя "
+"больше нет с нами. Этот проклятый галактический конфликт никогда не "
+"закончится, это не мир для такой прекрасной души, как ты...\".\n"
+"\n"
+"\t\t\tНесколько мгновений он тихо всхлипывает.\n"
+"\n"
+"\t\t\t\"...конец записи\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12601
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить другие файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12606
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324_2\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12613
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325\"]/text"
 msgstr ""
+"Из терминала доносится более энергичный, но испуганный мужской голос:\n"
+"\n"
+"\t\t\t\"Запись 325, они здесь. Я слышал, как они вломились в соседние "
+"аппартаменты Колзапиролика. Этот старый богомолец устроил чертовски сильный "
+"отпор, но, клянусь, я слышал громкий, непрерывный высокочастотный гул? А "
+"потом ледяную тишину. Я НЕ ПОЙДУ ТУДА. Я забаррикадировал дверь всем, что "
+"было в комнате. Я выключу весь свет и буду держаться подальше от двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12620
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12627
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325_2\"]/text"
 msgstr ""
+"Я не забрал сына из школы сегодня, и я слишком труслив, чтобы найти его.\n"
+"\n"
+"\t\t\tЯ такой неудачник...\"\n"
+"\n"
+"\t\t\tВ записи 3 минуты тишины.\n"
+"\n"
+"\t\t\t\"... конец записи\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12638
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить другие файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12643
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325_2\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12649
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326\"]/text"
 msgstr ""
+"Из терминала доносится радостный, бодрый мужской голос:\n"
+"\n"
+"\t\t\t\"Запись 326, Младший вернулся домой! Должно быть, он забыл ключ, так "
+"как попросил меня впустить его. Конечно, я его отец, почему бы мне не "
+"впустить его?\"\n"
+"\n"
+"\t\t\tВы слышите разные приглушенные голоса, говорящие на разных тонах и с "
+"разными акцентами, и все они говорят в унисон очень тихо на заднем плане. "
+"Они повторяют: \"Пой. Пой. Пой. Пой с нами. Пой с нами\". Возможно, это "
+"доносится из-за двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12658
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12665
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_2\"]/text"
 msgstr ""
+"Мужчина продолжает говорить, как ни в чем не бывало\n"
+"\t\t\t\"...что это, Джуниор? Хочешь, чтобы я пошел с тобой?\n"
+"\t\t\t...ты нашел маму? Она в стыковочном отсеке? Тогда пойдем к Дане, все "
+"будет как в старые добрые времена!\".\n"
+"\n"
+"\t\t\tВы слышите, как мужчина спокойно отодвигает какие-то предметы от "
+"двери. \"Я только немного... приберусь\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12674
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_2\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12681
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_3\"]/text"
 msgstr ""
+"Проходит около двух минут, и вы слышите, как открывается дверь. Вы слышите "
+"громкий СТУК и звук, похожий на то, что тяжелый предмет тащат прочь. Вдалеке "
+"вы клянетесь, что слышите какой-то громкий, непрерывный высокочастотный гул."
+"\n"
+"\n"
+"\t\t\tВы больше не слышите голосов, и в течение примерно 57 минут в записи "
+"стоит мертвая тишина. После этого вы слышите голос робота.\n"
+"\n"
+"\t\t\t\"Лимит записи достигнут. Конец записи\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12690
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Проверить другие файлы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12695
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_3\"]/choice[2]/text"
 msgstr ""
+"Достаточно, выключить терминал, чтобы сэкономить оставшуюся энергию станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12704
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_1\"]/text"
 msgstr ""
+"Вы поднимаете первый попавшийся под руку листок. На нем написано:\n"
+"\n"
+"\t\t\t\"Дорогой Йозеф,\n"
+"\t\t\tВ связи с особенностями вашего пребывания у нас, уборка будет "
+"производиться раз в неделю, если нет других указаний.\n"
+"\t\t\tЕсли вам требуется уборка раньше этого срока, пожалуйста, сообщите нам "
+"об этом.\n"
+"\t\t\tВаша арендная плата будет вычитаться раз в месяц наперед.\n"
+"\t\t\tС уважением,\n"
+"\t\t\tАдминистрация\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12714
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Прочитать больше."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12721
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Ладно, хватит."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12727
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_2\"]/text"
 msgstr ""
+"Вы поднимаете первый попавшийся под руку листок. На нем написано:\n"
+"\n"
+"\t\t\tВы поднимаете счет на оплату ежемесячных счетов. Он содержит:\n"
+"\n"
+"\t\t\t[300~] Аренда помещения\n"
+"\t\t\t[15~] Счет за телефон\n"
+"\t\t\t[35~] Счет за воду\n"
+"\t\t\t[100~] Счет за электричество\n"
+"\t\t\t[20~] Счет за кабельное телевидение"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12738
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Прочитать больше. Моя мирская любознательность безгранична!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12745
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Ладно, хватит, это не мое дело."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12751
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_3\"]/text"
 msgstr ""
+"Уважаемый Джозеф Маллард,\n"
+"\n"
+"\t\t\tВы получаете это письмо в соответствии с положениями закона о честной "
+"практике взыскания долгов, принятого слизнями. Как правило, основная польза "
+"от этого закона заключается в том, чтобы коллекторы вели себя ответственно. "
+"Это означает, что они, как правило, обязаны предоставлять вам "
+"соответствующую информацию о долге, который вы, возможно, не можете погасить."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12757
 msgid ""
@@ -13541,16 +14011,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_4\"]/text"
 msgstr ""
+"Обычно эта информация предоставляется в виде сообщения, подобного этому. Это "
+"сообщение информирует вас о том, что ваша задолженность по оплате налога на "
+"вдыхаемый воздух принадлежащий слизням составляет [1 200,00~].\n"
+"\t\t\tЕсли в течение тридцати (30) дней после получения данного сообщения вы "
+"не сообщите в письменной форме об обратном, что вы уже погасили этот налог, "
+"проценты по вашему долгу будут начисляться по 100% ежемесячной процентной "
+"ставке до тех пор, пока долг не будет погашен.\n"
+"\t\t\tИскренне Ваш,\n"
+"\t\t\tАгентство Долговых Акул Слизней"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12773
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_PAPERWORK_4\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Ладно, хватит, это нам ничуть не поможет."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12779
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_DAY_PLANNER\"]/text"
 msgstr ""
+"Его ежедневник, в основном пустой, похоже, этот человек не очень "
+"ответственный и купил его, чтобы почувствовать себя лучше или создать "
+"видимость ответственности перед другими.\n"
+"\n"
+"\t\t\tВы замечаете несколько записей в разделе \"ПРИМЕЧАНИЯ\". Единственная, "
+"которая кажется важной, называется \"Протокол XETA\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12787
 msgid ""
@@ -13561,71 +14046,93 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_DAY_PLANNER_2\"]/text"
 msgstr ""
+"Протокол XETA: Если Протокол XETA вступает в силу, вводится военное "
+"положение до тех пор, пока угроза Гармонии не будет нейтрализована. "
+"Пожалуйста, используйте предоставленное вам огнестрельное оружие для "
+"самообороны, прячьтесь везде, где сможете забаррикадироваться, а команды "
+"безопасности сделают все возможное, чтобы вам не причинили вреда. Если к "
+"вашей двери подойдет ЛЮБОЕ существо, независимо от того, как оно звучит, НЕ "
+"ОТКРЫВАЙТЕ ее, пока ваши терминалы не получат разрешение. Мы узнали, что "
+"Гармония начала использовать образцы голоса, чтобы подражать другим расам."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12797
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_DAY_PLANNER_2\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закончить чтение заметок ежедневника."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12808
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_APPROACH\"]/text"
 msgstr ""
+"Вы подходите к двери в апартаменты 115A. По сравнению с другими дверями "
+"дверь выглядит странно чистой и аккуратной."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12811
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_APPROACH\"]/choice[@req=\"marker_115a_no_listen\"]/text"
-msgstr ""
+msgstr "Вы отказываетесь приближать свое ухо к этой двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12816
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_APPROACH\"]/choice[2]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12821
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_APPROACH\"]/choice[3]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12826
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_APPROACH\"]/choice[4]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12837
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN\"]/text"
 msgstr ""
+"Вы слышите механический, синтезированный гул, доносящееся из комнаты. "
+"Мелодия навевает тоску, но в то же время странно притягивает."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12840
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN\"]/choice[1]/text"
-msgstr ""
+msgstr "Продолжить случать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12845
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN\"]/choice[2]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12862
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2\"]/text"
 msgstr ""
+"Мелодия повторяется снова и снова, то громче, то тише, как будто что-то в "
+"комнате движется во время ее исполнения. Слова и мысли, которые не "
+"принадлежат вам, начинают проникать в ваше сознание: \"Пой. Пой. Пой\". "
+"Снова и снова, как мантру. Ваши глаза стекленеют, и несколько членов экипажа "
+"выглядят обеспокоенными. Один из членов команды хватает вас за плечи и "
+"трясет, пытаясь вывести вас из транса. \"Капитан, вы в порядке?\" - "
+"спрашивает он."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12865
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Объяснить, что это была какая-то инвазивная частота."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12870
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Соврать, сказать, что это пустяк."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12876
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2_TRUTH\"]/text"
 msgstr ""
+"\"Капитан, тогда нам следует держаться подальше от этой двери. Мы еще точно "
+"не знаем, что происходит\". Ваш член экипажа говорит, явно обеспокоенный. Вы "
+"соглашаетесь и отводите ухо от двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12879
 msgid ""
@@ -13636,158 +14143,194 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2_LIE\"]/text"
 msgstr ""
+"\"Я понимаю, возможно, у меня была паранойя. Простите меня, капитан, я не "
+"должен был прикасаться к вам\", - говорит он."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12889
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN_2_LIE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Все в порядке, не беспокойтесь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12901
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/text"
 msgstr ""
+"Вы осторожно стучите в дверь, а ваш экипаж занимает позиции для прикрытия в "
+"случае необходимости. Гудение не прекращается, но в дело вступает новый, "
+"ОЧЕНЬ ГРОМКИЙ звук: Вы слышите, как предметы в комнате разлетаются на куски, "
+"сопровождаемые новым звуком: громким, постоянным, высокочастотным гулом. Вы "
+"решаете, что заходить внутрь - ужасная идея."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12904
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/choice[@req=\"marker_orchid_child_assimilated\"]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12909
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/choice[@req=\"marker_orchid_child_alive\"]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12914
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы отказываетесь приближать свое ухо к этой двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12919
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12924
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12935
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_2\"]/text"
 msgstr ""
+"Вы осторожно стучите в дверь, а ваш экипаж занимает позиции для прикрытия в "
+"случае необходимости. Вы снова слышите это проклятое дитя орхидей, на этот "
+"раз из-за двери. Оно кричит и неоднократно ударяет в дверь, а вы и ваш "
+"экипаж осторожно отступаете от двери. Громкий, непрерывный, высокочастотный "
+"гул приближается к двери, и вы слышите приглушенный голос: \"Пой. Пой. Пой.\""
+" Снова и снова, как мантра. Голос поглощает крики орхидеи. Она громко рычит, "
+"как будто в крайнем напряжении, а потом совсем затихает. Гудение также "
+"прекращается на несколько часов, но на самом деле это всего лишь несколько "
+"мгновений. Внезапно за дверью раздаются ДВА голоса, оба повторяют одну и ту "
+"же фразу. \"Пой. Пой. Пой.\" Снова и снова.\n"
+"\n"
+"\t\t\tВы решаете, что заходить внутрь - это УЖАСНАЯ идея."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12941
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_2\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы отказываетесь приближать свое ухо к этой двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12946
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_2\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12952
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_2\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12963
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_3\"]/text"
 msgstr ""
+"Вы осторожно стучите в дверь, а ваш экипаж занимает позиции для прикрытия в "
+"случае необходимости. Гудение не прекращается, вы слышите, как предметы в "
+"комнате рассыпаются еще больше, сопровождаемое тем же проклятым звуком: "
+"громким, постоянным, высокочастотным гулом. На этот раз звук исходит из двух "
+"источников. Слышны два разных голоса, которые повторяют одну и ту же мантру: "
+"\"Пой. Пой. Пой.\", как заклинание.\n"
+"\n"
+"\t\t\tВы решаете, что войти внутрь равносильно самоубийству. Вам нравится "
+"быть живым."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12969
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_3\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы отказываетесь приближать свое ухо к этой двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12974
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_3\"]/choice[@req=\"marker_115a_no_listen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12980
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_KNOCK_3\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12992
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_APPROACH\"]/text"
 msgstr ""
+"Эта дверь представляет собой черную металлическую дверь в готическом стиле с "
+"позолотой по центру и краям двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_APPROACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13000
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_APPROACH\"]/choice[@req=\"marker_fm_fs_apartment_120a_all_clear\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13005
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_APPROACH\"]/choice[3]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13012
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_APPROACH\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13023
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_KNOCK\"]/text"
 msgstr ""
+"Вы стучите в дверь, но никто не реагирует на ваш стук. Вы и ваш экипаж "
+"пожимаете плечами."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13027
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_KNOCK\"]/choice[1]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13032
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_KNOCK\"]/choice[2]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13037
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_KNOCK\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13048
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_LISTEN\"]/text"
-msgstr ""
+msgstr "Вы прикладываете ухо к двери и не слышите ничего интересного."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13051
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_LISTEN\"]/choice[1]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13056
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_LISTEN\"]/choice[2]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13062
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_LISTEN\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13068
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER\"]/text"
 msgstr ""
+"Вы пытаетесь открыть дверь. Она не кажется запертой, но совсем не поддается. "
+"Вы зовете нескольких членов экипажа, и, используя участок стены рядом с "
+"дверью как опору, вам удается взломать дверь с помощью валяющейся рядом "
+"трубы и грубой силы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13070
 msgid ""
@@ -13798,6 +14341,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER_2\"]/text"
 msgstr ""
+"Вы и ваш экипаж стремительно входите в комнату, держа оружие наготове. "
+"Комната выкрашена в светло-розовый цвет. Кровать застелена чистым розовым "
+"пледом и белой простыней. В углу на кровати навалена целая куча плюшевых "
+"игрушек: крошечный арбуз с глазами-пупырышками, скелет в костюме, белый "
+"щенок с золотым мехом вокруг глаз и золотыми пятнами вокруг одного уха, а "
+"также розовая аксолотль. В дальнем углу комнаты висит картина с изображением "
+"прекрасного сада.\n"
+"\n"
+"\n"
+"\t\t\tРядом с картиной - книжная полка, заставленная толстыми книгами. Вы не "
+"узнаете авторов ни одной из этих книг, возможно, они были написаны недавно. "
+"Шкаф широко распахнут и кажется прибранным."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13084
 msgid ""
@@ -13808,26 +14363,36 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER_3\"]/text"
 msgstr ""
+"Это маленький круглый столик, украшенный крошечными наклейками с "
+"изображением различных вымышленных персонажей. На нем - фиолетовый карандаш, "
+"маленькая голубая сойка, оранжевый кот с нелепой соломинкой во рту, белая "
+"мышь. Есть также стопка, кажется, крошечных магнитных идентификационных "
+"карточек. Похоже, они не имеют маркировки."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13093
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER_3\"]/choice[@req=\"marker_blank_id_taken\"]/text"
-msgstr ""
+msgstr "У вас уже есть множество магнитных идентификационных карточек."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13098
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER_3\"]/choice[@req=\"fm_fs_blank_id\"]/text"
-msgstr ""
+msgstr "Взять магнитную идентификационную карточку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13103
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_ENTER_3\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Скорее всего, они нам не понадобятся. Вы покидаете комнату."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13110
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_120A_TAKE_ID_CARD\"]/text"
 msgstr ""
+"Возможно, с его помощью вы сможете зарегистрировать себя для идентификации "
+"на станции, если системы безопасности еще работают.\n"
+"\n"
+"\t\t\tВы берете с собой достаточно, чтобы при необходимости зарегистрировать "
+"всех членов экипажа."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13117
 msgid ""
@@ -13838,66 +14403,75 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_APPROACH\"]/text"
 msgstr ""
+"Эта дверь безвкусная и обычная, не слишком грязная и не слишком чистая. Она "
+"ничем не выделяется среди других в этом жилом блоке."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13131
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_APPROACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13136
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_APPROACH\"]/choice[2]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13141
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_APPROACH\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13152
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_KNOCK\"]/text"
 msgstr ""
+"Вы стучите в дверь, но ответа нет. Вы слышите приглушенные голоса внутри, и "
+"они звучат агрессивно, как будто они спорят."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13155
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_KNOCK\"]/choice[1]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13160
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_KNOCK\"]/choice[2]/text"
-msgstr ""
+msgstr "Приложить ухо к двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13165
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_KNOCK\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13176
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_LISTEN\"]/text"
 msgstr ""
+"Приложив ухо к двери вы слышите, что в комнате идет громкий спор. Вы не "
+"можете разобрать слов, а когда пытаетесь сконцентрироваться на них, то "
+"слышите лишь высокочастотный гул. Вы чувствуете легкое головокружение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13179
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_LISTEN\"]/choice[1]/text"
-msgstr ""
+msgstr "Войти в апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13184
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_LISTEN\"]/choice[2]/text"
-msgstr ""
+msgstr "Постучать в дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13189
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_LISTEN\"]/choice[@req=\"marker_129a_nobody_there_why\"]/text"
 msgstr ""
+"(Провести дальнейшее расследование) Попросить одного из членов экипажа "
+"приложить ухо к двери и рассказать, что он слышит."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13195
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_LISTEN\"]/choice[4]/text"
-msgstr ""
+msgstr "Неважно, лучше проверить другие апартаменты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13203
 msgid ""
@@ -13908,101 +14482,136 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[1]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он клянется, что "
+"слышит колыбельную. Странно..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13210
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[2]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он утверждает, что "
+"слышит ожесточенный бой со взрывами. Это не то, что вы слышали."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13211
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[3]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он слышит, как "
+"электрогитара по кругу играет его любимую песню."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13212
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[4]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он утверждает, что "
+"снова и снова слышит фразу \"Следуй за красным\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13213
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[5]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он утверждает, что "
+"слышит многочисленные рекламные ролики, которые он привык слушать во время "
+"просмотра любимых передач на своем терминале."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13214
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//textList[@name=\"TEXT_129A_LISTEN_CREW\"]/text[6]"
 msgstr ""
+"Один из членов вашего экипажа прикладывает ухо к двери. Он отказывается "
+"рассказывать вам о том, что услышал, но, судя по всему, он очень встревожен."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13222
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_ENTER\"]/text"
 msgstr ""
+"Вы пробуете дверь апартаментов. Она не заперта, даже не требуется "
+"электронная карта. Вы входите в комнату. Спор, который вы подслушали, "
+"кажется, утихает, когда вы входите. Комната выкрашена в небесно-голубой "
+"цвет, а пол - в уродливый желтый. Странно и неуютно в этой комнате то, но "
+"она кажется никем не тронутой. В комнате нет ни мебели, ни пыли, ни "
+"насекомых, ни украшений, ни повреждений, ни розеток, ни кровати - буквально "
+"ничего. Как будто комната существует в лиминальном пространстве.\n"
+"\n"
+"\t\t\tВы решили не задерживаться здесь и не выяснять, исчезнете ли вы, если "
+"останетесь здесь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13228
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_129A_ENTER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Выйти из комнаты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13244
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MIDO\"]/text"
 msgstr ""
+"Вы прибываете в закусочную, которая, похоже, полностью разграблена, а на "
+"полу рассыпаны какие-то химикаты. Вы не собираетесь рисковать и "
+"отказываетесь заходить в \"Закусочную Дино\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13246
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MIDO\"]/choice[1]/text"
-msgstr ""
+msgstr "Исследовать комплекс, минуя ресторан."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13251
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MIDO\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13260
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MIDO\"]/choice[3]/text"
-msgstr ""
+msgstr "Развернуться и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13272
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/text"
 msgstr ""
+"Миновав закусочную \"Закусочную Дино\", вы оказываетесь перед лазерной "
+"металлической дверью безопасности. На двери висит табличка с надписью "
+"\"Центральная площадь\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13276
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/choice[@req=\"marker_opened_metal_door_plaza\"]/text"
 msgstr ""
+"Вы проходите через отверстие, которое вы создали с помощью Электрического "
+"резака."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13281
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/choice[@req=\"fm_fs_power_cutter\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Использовать Электрический резак, чтобы открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13287
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/choice[@req=\"fm_fs_power_cutter\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Попытаться открыть дверь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13292
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13300
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Развернуться и вернуться к шлюзу."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13306
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR_NO\"]/text"
 msgstr ""
+"Вы осматриваете панель, замок, ручку, даже выключатель или кнопку. Поиски "
+"ничего не дают. Должно быть, это дверь безопасности, отгораживающая эту "
+"часть станции от центральной части комплекса. Если вы хотите пройти через "
+"эту дверь, вам придется найти способ пробиться через нее силой."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13309
 msgid ""
@@ -14013,16 +14622,22 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR_CUT_OPEN\"]/text"
 msgstr ""
+"С помощью Электрического резака вы прорезаете в двери достаточно большое "
+"отверстие, чтобы пройти через него. К счастью, ваши действия не вызывают "
+"сигнала тревоги."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13317
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_METAL_DOOR_CUT_OPEN\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Пройти через новое отверстие."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13324
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED\"]/text"
 msgstr ""
+"Вы и ваш экипаж достигли центральной площади. Это огромное помещение, по "
+"крайней мере, более 30 метров в высоту. На мгновение вы почти забываете, что "
+"находитесь на космической станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13327
 msgid ""
@@ -14033,112 +14648,144 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/text"
 msgstr ""
+"Вы прибыли на центральную площадь. Она украшена садом (который сейчас завял "
+"из-за отсутствия ухода) и несколькими неработающими фонтанами с подсветкой, "
+"скорее всего, для того, чтобы устраивать цветные фонтанные шоу для прохожих. "
+"В центре всего этого находится большой стеклянный цилиндрический лифт, "
+"прикрепленный к стеклянной трубе. Похоже, что он поднимается только вверх от "
+"вашего текущего местоположения. На этой площади есть еще 3 большие "
+"бронированные двери, которые примерно такого же размера и формы, как и та, "
+"через которую вы только что вошли."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13341
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/choice[@req=\"fm_fs_elevator_id\"]/text"
 msgstr ""
+"(ИДЕНТИФИКАТОР ГОСТЯ) Попытаться войти в лифт, используя гостевые "
+"идентификаторы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13346
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/choice[@req=\"fm_fs_blank_id\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"(ПУСТОЙ ИДЕНТИФИКАТОР) Попробовать войти в лифт, используя пустые "
+"идентификаторы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13351
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/choice[@req=\"fm_fs_blank_id\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Попытаться войти в лифт."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13356
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/choice[4]/text"
 msgstr ""
+"Развернуться и вернуться к отверстию в металлической бронированной двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13361
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ACCESS_GRANTED_HUB\"]/choice[5]/text"
-msgstr ""
+msgstr "Вернуться в точку встречи."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13377
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_NORMAL\"]/text"
 msgstr ""
+"Вы пытаетесь войти в лифт, и на маленьком дисплее появляется предупреждающее "
+"сообщение. \"Неавторизованным гостям станции запрещено находиться на верхних "
+"уровнях доступа. Пожалуйста, зарегистрируйтесь в службе безопасности, чтобы "
+"пройти дальше\". Похоже, в лифте установлена система безопасности."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13381
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_NORMAL\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Разочарованный, вы возвращаетесь назад."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13386
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_NORMAL\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13396
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_BLANK\"]/text"
 msgstr ""
+"Вы проводите пустым идентификатором по панели лифта. Появляется небольшое "
+"предупреждение, но дверь не открывается. \"ОШИБКА! Удостоверение не прошло "
+"регистрацию на посте охраны! Доступ запрещен\". Похоже, пустых "
+"идентификаторов недостаточно, чтобы обойти систему безопасности лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13400
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_BLANK\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Разочарованный, вы возвращаетесь назад."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13405
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_DENIED_BLANK\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13415
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_GRANTED\"]/text"
 msgstr ""
+"Вы сканируете свою идентификационную карточку, и на дисплее появляется "
+"небольшое сообщение. \"Доступ разрешен!\"\n"
+"\n"
+"\t\t\tДвери лифта открываются, и вы и ваш экипаж заходите внутрь. Вы "
+"находитесь на 1-м этаже, куда бы вы хотели отправиться?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13422
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_GRANTED\"]/choice[1]/text"
-msgstr ""
+msgstr "Выбрать 2-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_GRANTED\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 3-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13432
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CENTRAL_PLAZA_ELEVATOR_ACCESS_GRANTED\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13447
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/text"
 msgstr ""
+"Вы осматриваете лежащие поблизости тела. Похоже, это мертвый богомол на "
+"клешне которого закреплен металлический щит, рядом - мертвый валун с дырой "
+"размером с вашу голову в туловище и левом плече."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13449
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/text"
-msgstr ""
+msgstr "Осмотреть их более внимательно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13451
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/text"
-msgstr ""
+msgstr "Какую их часть вы хотите осмотреть?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13453
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Осмотреть раны."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13455
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Судя по всему, раны получены в результате напряженной битвы, но вы не можете "
+"определить, какое оружие могло нанести им такой урон и сколько ран они "
+"получили перед смертью."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13457
 msgid ""
@@ -14148,12 +14795,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:13463
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[@req=\"fm_fs_keycard_1_found\"]/text"
-msgstr ""
+msgstr "Обыскать их вещи."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13465
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[@req=\"fm_fs_keycard_1_found\"]/event/text"
 msgstr ""
+"Вы уже обыскали их и нашли ключ-карту, больше ничего ценного, похоже, у них "
+"нет."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13467
 msgid ""
@@ -14163,12 +14812,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:13473
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Обыскать их вещи."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13475
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Порывшись в сумке мертвого богомола, которую он нес, вы находите маленькую "
+"электронную карточку. На ней написано \"Уровень доступа 1\". Вы кладете "
+"карточку в карман."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13477
 msgid ""
@@ -14179,21 +14831,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[4]/text"
 msgstr ""
+"На всякий случай просканировать помещение на наличие признаков жизни, "
+"биологических и других опасностей."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13488
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[5]/text"
-msgstr ""
+msgstr "Попытаться найти удостоверения личности в их одежде."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13492
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK\"]/choice/event/choice[6]/text"
-msgstr ""
+msgstr "Неважно, мертвые тела вызывают у вас отвращение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13500
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK_SCAN\"]/text"
 msgstr ""
+"Просканируйте их тела на наличие опасных веществ. Вы обнаруживаете следы "
+"разрушенных наноботов, вживленных в их плоть. Они похожи на наномашины, "
+"используемые Гармонией и Сепаратистами, но это гораздо более совершенная "
+"версия."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13502
 msgid ""
@@ -14203,7 +14861,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:13508
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK_ID\"]/text"
-msgstr ""
+msgstr "В идентификаторе валуна записано \"Зульп\", а Богомола - \"Кульпийхн\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13510
 msgid ""
@@ -14214,26 +14872,36 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_1_ARRIVE\"]/text"
 msgstr ""
+"Двери лифта закрываются, и лифт быстро поднимается по центральной шахте на 1-"
+"й этаж.\n"
+"\n"
+"\t\t\tЛифт издает одиночное \"Динь!\", и двери раздвигаются перед вами. Что "
+"вы хотите сделать сейчас?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13538
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_1_ARRIVE\"]/choice[1]/text"
-msgstr ""
+msgstr "Выбрать 2-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13543
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_1_ARRIVE\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 3-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13548
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_1_ARRIVE\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13559
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ARRIVE\"]/text"
 msgstr ""
+"Двери лифта закрываются, и лифт быстро поднимается по центральной шахте на 2-"
+"й этаж.\n"
+"\n"
+"\t\t\tЛифт издает одиночное \"Динь!\", и двери раздвигаются перед вами. Что "
+"вы хотите сделать сейчас?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13566
 msgid ""
@@ -14243,17 +14911,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:13571
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ARRIVE\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 3-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13576
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ARRIVE\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13587
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ARRIVE\"]/text"
 msgstr ""
+"Двери лифта закрываются, и лифт быстро поднимается по центральной шахте на 3-"
+"й этаж.\n"
+"\n"
+"\t\t\tЛифт издает одиночное \"Динь!\", и двери раздвигаются перед вами. Что "
+"вы хотите сделать сейчас?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13594
 msgid ""
@@ -14263,17 +14936,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:13599
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ARRIVE\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 2-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13604
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ARRIVE\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13615
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ENTER\"]/text"
 msgstr ""
+"Вы сканируете свой идентификатор, и на дисплее появляется небольшое "
+"сообщение. \"Доступ разрешен!\"\n"
+"\n"
+"\t\t\tДвери лифта раздвигаются, и вы и ваш экипаж заходите внутрь. Вы "
+"находитесь на 2-м этаже, куда бы вы хотели отправиться?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13622
 msgid ""
@@ -14283,17 +14961,22 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:13627
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ENTER\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 3-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13632
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_2_ENTER\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13642
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ENTER\"]/text"
 msgstr ""
+"Вы сканируете свой идентификатор, и на дисплее появляется небольшое "
+"сообщение. \"Доступ разрешен!\"\n"
+"\n"
+"\t\t\tДвери лифта раздвигаются, и вы и ваш экипаж заходите внутрь. Вы "
+"находитесь на 3-м этаже, куда бы вы хотели отправиться?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13649
 msgid ""
@@ -14303,48 +14986,57 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:13654
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ENTER\"]/choice[2]/text"
-msgstr ""
+msgstr "Выбрать 2-й этаж."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13659
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ELEVATOR_3_ENTER\"]/choice[3]/text"
-msgstr ""
+msgstr "Выйти из лифта."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13670
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/text"
 msgstr ""
+"Вы оказываетесь на центральной площади 2-го этажа. По оформлению она почти "
+"такая же, как и площадь на 1-м этаже, но прилегающие к ней помещения "
+"отличаются.\n"
+"\n"
+"\t\t\tВы с облегчением вздыхаете, обнаружив, что аварийные укрепленные двери "
+"работают только на юге. Северные, западные и восточные коридоры находятся в "
+"свободном доступе."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13677
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Осмотреть прилегающие объекты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13682
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "Обыскать тела на площади."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13687
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/choice[3]/text"
-msgstr ""
+msgstr "Спросить членов своего экипажа, что они думают о сложившейся ситуации."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13692
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/choice[4]/text"
-msgstr ""
+msgstr "(ИДЕНТИФИКАТОР ГОСТЯ) Войти в лифт."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13697
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2ND_PLAZA_HUB\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13707
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_PLAZA_2_CORPSES\"]/text"
 msgstr ""
+"Вы осматриваете тела тех, кто лежит на площади, но на этот раз не находите "
+"ничего полезного или интересного. Вы продолжаете идти, чтобы выжить."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13710
 msgid ""
@@ -14354,7 +15046,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:13717
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_PLAZA_2_CREW_TALK\"]/text"
-msgstr ""
+msgstr "ВАРИАНТЫ РАЗГОВОРА С ЭКИПАЖЕМ ЗДЕСЬ"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13720
 msgid ""
@@ -14364,107 +15056,122 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:13730
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/text"
-msgstr ""
+msgstr "Какую область вы хотели бы исследовать?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13734
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[1]/text"
-msgstr ""
+msgstr "Отправиться на запад и исследовать крыло с надписью \"Крыло Коалиции\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13739
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[2]/text"
 msgstr ""
+"Отправиться на восток и исследовать крыло с надписью \"Крыло Федерации\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13744
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[3]/text"
 msgstr ""
+"Отправиться на север и свернуть налево по другому коридору, чтобы "
+"исследовать палубу отдыха и торговый центр."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13749
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[4]/text"
-msgstr ""
+msgstr "Отправиться на север, в секцию гидропоники и реактора станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13754
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[5]/text"
-msgstr ""
+msgstr "(ИДЕНТИФИКАТОР ГОСТЯ) Войти в лифт."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13759
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_2NDFLOOR_EXPLORE\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13772
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_HUB\"]/text"
 msgstr ""
+"Вы прибыли в сектор гидропоники. Как вам, возможно, уже известно, "
+"гидропоника - это вид садоводства и часть гидрокультуры, которая включает "
+"выращивание растений, обычно сельскохозяйственных культур, без почвы, с "
+"использованием минеральных питательных растворов в водном растворителе. Судя "
+"по всему, станция использует гидропонику как способ получения кислорода для "
+"остальных помещений."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13775
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Тщательно обследовать территорию."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13780
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "Выйти из сектора гидропоники."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13785
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_HUB\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13798
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/text"
 msgstr ""
+"Вы обыскиваете сектор гидропоники. Многие помещения просто заполнены "
+"различными экзотическими растениями, за которыми автоматически ухаживают "
+"машины. Вы мысленно отмечаете огнетушитель, который висит на одной из стен, "
+"на случай, если он вам понадобится."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13801
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[@req=\"marker_case_obtained\"]/text"
-msgstr ""
+msgstr "Вы уже нашли дипломат."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13806
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[@req=\"marker_case_fell\"]/text"
-msgstr ""
+msgstr "Дипломат упал в пропасть внизу, и теперь до него не добраться."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13812
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[3]/text"
-msgstr ""
+msgstr "Продолжать искать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13817
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[@req=\"marker_extinguisher_obtained\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы уже нашли огнетушитель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13822
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[@req=\"marker_extinguisher_obtained\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Взять огнетушитель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13827
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[6]/text"
-msgstr ""
+msgstr "Выйти из сектора гидропоники."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13832
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13842
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_EXTINGUISHER_GET\"]/text"
 msgstr ""
+"Вы берете огнетушитель - он всегда пригодится, если загорится какая-нибудь "
+"часть станции."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13846
 msgid ""
@@ -14475,16 +15182,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH_2\"]/text"
 msgstr ""
+"В самом конце секции гидропоники находится большое помещение с подиумом и "
+"большим провалом вниз почти на 100 метров. На дне обрыва видны различные "
+"механизмы, которые, похоже, поддерживают функции корабля, но вы надеетесь, "
+"что не упадете, так как падение невозможно пережить. Вы продолжаете "
+"осматриваться и замечаете странное зрелище: тело человека на карнизе, на "
+"котором ему ТОЧНО не следовало находиться, примерно в 4-6 метрах от подиума. "
+"Тело скомкано в кучу, скорее всего, кости были сломаны при падении. Рядом с "
+"ними лежит металлический дипломат, и вы задаетесь вопросом, почему или как "
+"он оказался там. Неужели он прыгнул? Что может быть внутри этого дипломата?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13861
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Придумать план как добраться до дипломата."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13867
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH_2\"]/choice[2]/text"
 msgstr ""
+"Вам нужен этот дипломат, но сначала стоит подумать, как его достать. Вы "
+"решаете вернуться на площадь."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13873
 msgid ""
@@ -14494,12 +15212,12 @@ msgstr "Что бы вы хотели сделать?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:13877
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH_OPTIONS\"]/choice[@req=\"FM_FS_LIST_MAGNET_SUCCESS\"]/text"
-msgstr ""
+msgstr "(МАГНИТНЫЙ ИНСТРУМЕНТ) Вы достали дипломат с помощью магнита!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13882
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_HYDROPONICS_SEARCH_OPTIONS\"]/choice[@req=\"FM_FS_LIST_MAGNET_FAIL\"]/text"
-msgstr ""
+msgstr "(МАГНИТНЫЙ ИНСТРУМЕНТ)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:13887
 msgid ""
@@ -14622,7 +15340,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_HUB\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14026
 msgid ""
@@ -14682,7 +15400,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:14080
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_LABS_GRAVITY_EMITTER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Взять его с собой, он кажется очень удобным."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14088
 msgid ""
@@ -14927,7 +15645,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:14344
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[12]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14353
 msgid ""
@@ -15102,7 +15820,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:14570
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать помещение."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14575
 msgid ""
@@ -15317,13 +16035,13 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:14839
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[4]/text"
-msgstr ""
+msgstr "(ИДЕНТИФИКАТОР ГОСТЯ) Войти в лифт."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14844
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14854
 msgid ""
@@ -15352,7 +16070,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14885
 msgid ""
@@ -15373,7 +16091,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_1\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14914
 msgid ""
@@ -15402,7 +16120,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_CLEARED\"]/choice[@req=\"pilot\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "[Проверить свой ИНВЕНТАРЬ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14943
 msgid ""
