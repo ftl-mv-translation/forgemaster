@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-30 11:42+0000\n"
+"PO-Revision-Date: 2024-07-01 12:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1631,12 +1631,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/desc"
-msgstr ""
+msgstr "Заряженный разведчик"
 
 #: src-en/data/blueprints.xml.append:3065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/title"
-msgstr ""
+msgstr "Дрон-монитор Анкалагон"
 
 #: src-en/data/blueprints.xml.append:3066
 msgid ""
@@ -1646,21 +1646,25 @@ msgstr "Ancalagon Monitor Drone"
 #: src-en/data/blueprints.xml.append:3071
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 здоровья, наносит 0.3x урона в бою."
 
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[2]"
 msgstr ""
+"Пассивно истощает здоровье врагов в отсеке и предотвращает их клонирование, "
+"если они умирают в том же отсеке, что и этот дрон."
 
 #: src-en/data/blueprints.xml.append:3073
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[3]"
 msgstr ""
+"Время от времени он насыщается энергией, исцеляя всех союзников на обоих "
+"кораблях на 20 ОЗ и нанося всем членам вражеского экипажа 10 ОЗ урона."
 
 #: src-en/data/blueprints.xml.append:3078
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/title"
-msgstr ""
+msgstr "Дрон-наладчик"
 
 #: src-en/data/blueprints.xml.append:3079
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/short"
@@ -1718,7 +1722,7 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:3110
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_drone_battle2\"]/title"
-msgstr ""
+msgstr "Боевой дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:3111
 msgid ""
@@ -1756,7 +1760,7 @@ msgstr "ДРОН"
 
 #: src-en/data/blueprints.xml.append:3132
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/title"
-msgstr ""
+msgstr "Обслуживающий дрон"
 
 #: src-en/data/blueprints.xml.append:3133
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/short"
@@ -1779,12 +1783,18 @@ msgstr "Дрон-солдат мод. II [Охрана]"
 #: src-en/data/blueprints.xml.append:3148
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/short"
-msgstr ""
+msgstr "Б. дрон II [П]"
 
 #: src-en/data/blueprints.xml.append:3149
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Управляемый бортовой дрон, который перед "
+"боем можно переключить в противопехотный режим или в абордажный режим. Имеет "
+"больше здоровья и наносит больше урона, чем мод. I.\n"
+"\n"
+"\t\t\t-200 ОЗ, 1.5х боевой урон\n"
+"\t\t\t-0.5x скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:3165
 msgid ""
@@ -1794,161 +1804,247 @@ msgstr "Дрон-солдат мод. II [Абордаж]"
 #: src-en/data/blueprints.xml.append:3166
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/short"
-msgstr ""
+msgstr "Б. дрон II [А]"
 
 #: src-en/data/blueprints.xml.append:3167
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Управляемый бортовой дрон, который перед боем "
+"можно переключить в противопехотный режим или в абордажный режим. Имеет "
+"больше здоровья и наносит больше урона, чем мод. I.\n"
+"\n"
+"\t\t\t-200 ОЗ, 1.5х боевой урон\n"
+"\t\t\t-0.5x скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:3183
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/title"
-msgstr ""
+msgstr "Искаженный дрон-наладчик"
 
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/short"
-msgstr ""
+msgstr "И. др.-налад."
 
 #: src-en/data/blueprints.xml.append:3185
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/desc"
 msgstr ""
+"Этот управляемый дрон древнего экипажа может ремонтировать с безумной "
+"скоростью и предоставляет другие вспомогательные преимущества.\n"
+"\n"
+"\t\t\t-110 ОЗ, 4x скорость ремонта, 1.5x скорость передвижения\n"
+"\t\t\t-Исцеляет ближайший экипаж на 1 ОЗ/с, видит соседние отсеки\n"
+"\t\t\t-При уничтожении наносит оглушение на 9с.\n"
+"\t\t\t-Во время работы увеличивает здоровье всех членов экипажа энджи на "
+"40%, а сопротивление опасностям - на 20%. Также увеличивает скорость "
+"передвижения на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3203
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/title"
-msgstr ""
+msgstr "Искаженный дрон Инь-Янь [Бортовой]"
 
 #: src-en/data/blueprints.xml.append:3204
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/short"
-msgstr ""
+msgstr "И. Инь-Янь [Б]"
 
 #: src-en/data/blueprints.xml.append:3205
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Корабельный] Переключаемый дрон, специализирующийся на той "
+"или иной задаче, но никогда на обеих одновременно.\n"
+"\n"
+"\t\t\t-125 здоровья, невосприимчив к огню, видит соседние отсеки, 1.5х "
+"скорость передвижения\n"
+"\t\t\t-Бортовой режим: не может сражаться, 2.5х скорость ремонта и обладает "
+"максимальными навыками\n"
+"\t\t\t-Абордажный режим: 3.0х боевой урон, 1.5х урон в дальнем бою\n"
+"\t\t\t-Во время работы увеличивает здоровье всех членов экипажа энджи на "
+"40%, а сопротивление опасностям - на 20%. Также увеличивает скорость "
+"передвижения на 30% и урон на 50%.\n"
+"\t\t\t-При питании увеличивает здоровье всех членов экипажа энджи на 40%, а "
+"сопротивление опасностям - на 20%. Также увеличивает скорость передвижения "
+"на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3223
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/title"
-msgstr ""
+msgstr "Искаженный дрон Инь-Янь [Абордажный]"
 
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/short"
-msgstr ""
+msgstr "И. Инь-Янь [А]"
 
 #: src-en/data/blueprints.xml.append:3225
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Переключаемый дрон, специализирующийся на той "
+"или иной задаче, но никогда на обеих одновременно.\n"
+"\n"
+"\t\t\t-125 здоровья, невосприимчив к огню, видит соседние отсеки, 1.5х "
+"скорость передвижения\n"
+"\t\t\t-Бортовой режим: не может сражаться, 2.5х скорость ремонта и обладает "
+"максимальными навыками\n"
+"\t\t\t-Абордажный режим: 3.0х боевой урон, 1.5х урон в дальнем бою\n"
+"\t\t\t-Во время работы увеличивает здоровье всех членов экипажа энджи на "
+"40%, а сопротивление опасностям - на 20%. Также увеличивает скорость "
+"передвижения на 30% и урон на 50%.\n"
+"\t\t\t-При питании увеличивает здоровье всех членов экипажа энджи на 40%, а "
+"сопротивление опасностям - на 20%. Также увеличивает скорость передвижения "
+"на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/title"
-msgstr ""
+msgstr "Искаженный боевой дрон мод. II† [Противопехотный]"
 
 #: src-en/data/blueprints.xml.append:3245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/short"
-msgstr ""
+msgstr "И. боевой II [П]"
 
 #: src-en/data/blueprints.xml.append:3246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Управляемый бортовой дрон, который перед "
+"боем можно переключить в противопехотный режим или абордажный режим. Имеет "
+"больше здоровья и наносит больше урона, чем мод. I.\n"
+"\n"
+"\t\t\t-200 ОЗ, 1.5х боевой урон\n"
+"\t\t\t-0.5x скорость передвижения\n"
+"\t\t\t-Во время работы увеличивает здоровье всех членов экипажа энджи на "
+"40%, а сопротивление опасностям - на 20%. Также увеличивает скорость "
+"передвижения на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3262
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/title"
-msgstr ""
+msgstr "Искаженный боевой дрон мод. II† [Абордажный]"
 
 #: src-en/data/blueprints.xml.append:3263
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/short"
-msgstr ""
+msgstr "И. боевой II [А]"
 
 #: src-en/data/blueprints.xml.append:3264
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Управляемый бортовой дрон, который перед боем "
+"можно переключить в противопехотный режим или абордажный режим. Имеет больше "
+"здоровья и наносит больше урона, чем мод. I.\n"
+"\n"
+"\t\t\t-200 ОЗ, 1.5х боевой урон\n"
+"\t\t\t-0.5x скорость передвижения\n"
+"\t\t\t-Во время работы увеличивает здоровье всех членов экипажа энджи на "
+"40%, а сопротивление опасностям - на 20%. Также увеличивает скорость "
+"передвижения на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3281
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/title"
-msgstr ""
+msgstr "Искаженный дрон-хирург [Противопехотный]"
 
 #: src-en/data/blueprints.xml.append:3282
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/short"
-msgstr ""
+msgstr "И. хирург [П]"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Медицинский дрон, переделанный хирургом-"
+"убийцей повстанцев, способный вести бой.\n"
+"\n"
+"\t\t\t-100 ОЗ, 1.2x скорость передвижения\n"
+"\t\t\t-1.5x боевой урон, более высокая скорость атаки\n"
+"\t\t\t-Исцеляет ближайших союзников на 7 ОЗ/с\n"
+"\t\t\t-При питании увеличивает здоровье всех членов экипажа энджи на 40%, а "
+"сопротивление опасностям - на 20%. Также увеличивает скорость передвижения "
+"на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/title"
-msgstr ""
+msgstr "Искаженный дрон-хирург [Абордажный]"
 
 #: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/short"
-msgstr ""
+msgstr "И. хирург [А]"
 
 #: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Медицинский дрон, переделанный хирургом-убийцей "
+"повстанцев, способный вести бой.\n"
+"\n"
+"\t\t\t-100 ОЗ, 1.2x скорость передвижения\n"
+"\t\t\t-1.5x боевой урон, более высокая скорость атаки\n"
+"\t\t\t-Исцеляет ближайших союзников на 7 ОЗ/с\n"
+"\t\t\t-При питании увеличивает здоровье всех членов экипажа энджи на 40%, а "
+"сопротивление опасностям - на 20%. Также увеличивает скорость передвижения "
+"на 30% и урон на 50%."
 
 #: src-en/data/blueprints.xml.append:3320
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"MANNING_ENEMY_2\"]/title"
-msgstr ""
+msgstr "Управляющий дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:3321
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"MANNING_ENEMY_2\"]/short"
-msgstr ""
+msgstr "Управл."
 
 #: src-en/data/blueprints.xml.append:3322
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"MANNING_ENEMY_2\"]/desc"
 msgstr ""
+"Управляемый, может обслуживать системы на вашем корабле на 2-м уровне "
+"навыков. Предоставляет дополнительную единицу энергии системе в которой "
+"находится."
 
 #: src-en/data/blueprints.xml.append:3339
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/title"
-msgstr ""
+msgstr "Зажигательный абордажник"
 
 #: src-en/data/blueprints.xml.append:3340
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/short"
-msgstr ""
+msgstr "Зажигательный абордажник"
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Разгуливает по вражескому кораблю, сжигая все на "
+"своем пути. А еще ионизирует, просто ради развлечения."
 
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/title"
-msgstr ""
+msgstr "Зажигательный абордажник"
 
 #: src-en/data/blueprints.xml.append:3354
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/short"
-msgstr ""
+msgstr "Зажигательный абордажник"
 
 #: src-en/data/blueprints.xml.append:3355
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Разгуливает по вражескому кораблю, сжигая все на "
+"своем пути. А еще ионизирует, просто ради развлечения."
 
 #: src-en/data/blueprints.xml.append:3367
 msgid ""
@@ -1964,6 +2060,11 @@ msgstr "Пров. войны"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Чрезвычайно мощный боевой дрон, регулярно "
+"заряжающийся энергией.\n"
+"\t\t\tНаносит: 1 ионный, 1 системный урон, оглушает на 4 секунды, наносит 10 "
+"урона вражескому экипажу, а затем исцеляет себя на 20 ОЗ.\n"
+"\t\t\tИмеет более высокие показатели здоровья и урона"
 
 #: src-en/data/blueprints.xml.append:3384
 msgid ""
@@ -1979,6 +2080,11 @@ msgstr "Пров. войны"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Чрезвычайно мощный боевой дрон, регулярно "
+"заряжающийся энергией.\n"
+"\t\t\tНаносит: 1 ионный, 1 системный урон, оглушает на 4 секунды, наносит 10 "
+"урона вражескому экипажу, а затем исцеляет себя на 20 ОЗ.\n"
+"\t\t\tИмеет более высокие показатели здоровья и урона"
 
 #: src-en/data/blueprints.xml.append:3403
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/desc"
@@ -1995,12 +2101,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3411
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/desc"
@@ -2017,12 +2123,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3428
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3439
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/desc"
@@ -2039,12 +2145,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3457
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/desc"
@@ -2061,12 +2167,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3463
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3474
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/desc"
@@ -2083,12 +2189,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3492
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/desc"
@@ -2105,12 +2211,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3499
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3510
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/desc"
@@ -2127,12 +2233,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3517
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3518
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3528
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/desc"
@@ -2149,12 +2255,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3535
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3536
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3546
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/desc"
@@ -2171,16 +2277,16 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3553
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3554
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3564
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy10\"]/desc"
-msgstr ""
+msgstr "Бобы. Какое странное и уморительное стечение обстоятельств!"
 
 #: src-en/data/blueprints.xml.append:3565
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy10\"]/title"
@@ -2212,11 +2318,11 @@ msgstr "Стоит ему попасть, и ты - труп."
 
 #: src-en/data/blueprints.xml.append:3617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/desc"
-msgstr ""
+msgstr "ПОМОГИИИИ МНЕЕЕЕ"
 
 #: src-en/data/blueprints.xml.append:3618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/title"
-msgstr ""
+msgstr "МАЛЕНЬКАЯ БУКАШКА ГОРИТ"
 
 #: src-en/data/blueprints.xml.append:3619
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/short"
@@ -2225,12 +2331,12 @@ msgstr "BURNING BUG"
 #: src-en/data/blueprints.xml.append:3624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/powerList/power[1]"
-msgstr ""
+msgstr ": -ПОМОГИТЕ ЕМУ, ОН ГОРИТ"
 
 #: src-en/data/blueprints.xml.append:3625
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/powerList/power[2]"
-msgstr ""
+msgstr ": -ПОМОЧЬ"
 
 #: src-en/data/blueprints.xml.append:3635
 msgid ""
@@ -2262,12 +2368,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3683
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3694
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/desc"
@@ -2284,12 +2390,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3712
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/desc"
@@ -2306,12 +2412,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3720
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3730
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/desc"
@@ -2328,12 +2434,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3738
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3748
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/desc"
@@ -2350,12 +2456,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3755
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3756
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3766
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/desc"
@@ -2372,12 +2478,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3773
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3774
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3784
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/desc"
@@ -2394,12 +2500,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3791
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3792
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3802
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/desc"
@@ -2416,12 +2522,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3809
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3820
 msgid ""
@@ -2453,12 +2559,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3877
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - как вам вообще удалось выбрать это"
 
 #: src-en/data/blueprints.xml.append:3878
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - серьезно, это очень впечатляет"
 
 #: src-en/data/blueprints.xml.append:3888
 msgid ""
@@ -2478,27 +2584,29 @@ msgstr "Стоит ему попасть, и ты - труп."
 #: src-en/data/blueprints.xml.append:3965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/title"
-msgstr ""
+msgstr "Буллсквид"
 
 #: src-en/data/blueprints.xml.append:3966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/short"
-msgstr ""
+msgstr "Буллсквид"
 
 #: src-en/data/blueprints.xml.append:3968
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/desc"
 msgstr ""
+"Выстреливает живым, злобным, едким шаром токсичных отходов, который вызывает "
+"хаос на вражеском корабле"
 
 #: src-en/data/blueprints.xml.append:3969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/tooltip"
-msgstr ""
+msgstr "Неизвестно"
 
 #: src-en/data/blueprints.xml.append:3979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/spawnCrew/name"
-msgstr ""
+msgstr "Рожденный кислотой"
 
 #: src-en/data/blueprints.xml.append:4039
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/title"
@@ -2511,10 +2619,17 @@ msgstr "Даждьбог"
 #: src-en/data/blueprints.xml.append:4041
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/desc"
 msgstr ""
+"Неказистый огнемет, который поджигает отсеки корабля. На нем написано: "
+"\"ПРЕДУПРЕЖДЕНИЕ, СКЛОНЕН К ПЕРЕГРЕВУ\". По крайней мере, так гласила "
+"надпись, пока вы не оторвали ее, но ничего не поделаешь. Спектральные газы, "
+"сжигаемые этим оружием, иногда сгущаются настолько, что порождают нового "
+"Гуля. Не стоит об этом беспокоиться."
 
 #: src-en/data/blueprints.xml.append:4042
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/tooltip"
 msgstr ""
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеские щиты "
+"разрушены, и обрушьте ад на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:4094
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/title"
@@ -2647,10 +2762,17 @@ msgstr "Даждьбог"
 #: src-en/data/blueprints.xml.append:4436
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/desc"
 msgstr ""
+"Неказистый огнемет, который поджигает отсеки корабля. На нем написано: "
+"\"ПРЕДУПРЕЖДЕНИЕ, СКЛОНЕН К ПЕРЕГРЕВУ\". По крайней мере, так гласила "
+"надпись, пока вы не оторвали ее, но ничего не поделаешь. Спектральные газы, "
+"сжигаемые этим оружием, иногда сгущаются настолько, что порождают нового "
+"Гуля. Не стоит об этом беспокоиться."
 
 #: src-en/data/blueprints.xml.append:4437
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/tooltip"
 msgstr ""
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеские щиты "
+"разрушены, и обрушьте ад на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:4495
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/title"
@@ -2762,11 +2884,18 @@ msgstr "Даждьбог"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/desc"
 msgstr ""
+"Неказистый огнемет, который поджигает отсеки корабля. На нем написано: "
+"\"ПРЕДУПРЕЖДЕНИЕ, СКЛОНЕН К ПЕРЕГРЕВУ\". По крайней мере, так гласила "
+"надпись, пока вы не оторвали ее, но ничего не поделаешь. Спектральные газы, "
+"сжигаемые этим оружием, иногда сгущаются настолько, что порождают нового "
+"Гуля. Не стоит об этом беспокоиться."
 
 #: src-en/data/blueprints.xml.append:4719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/tooltip"
 msgstr ""
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеские щиты "
+"разрушены, и обрушьте ад на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:4798
 msgid ""
@@ -3306,10 +3435,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6644
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/desc"
 msgstr ""
+"Выстреливает 2 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6645
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/tooltip"
 msgstr ""
+"Выстреливает 2 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6681
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/title"
@@ -3322,10 +3455,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6683
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/desc"
 msgstr ""
+"Выстреливает 3 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6684
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/tooltip"
 msgstr ""
+"Выстреливает 3 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6720
 msgid ""
@@ -3341,11 +3478,15 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/desc"
 msgstr ""
+"Выстреливает 3 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/tooltip"
 msgstr ""
+"Выстреливает 3 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6759
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/title"
@@ -3358,10 +3499,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/desc"
 msgstr ""
+"Выстреливает 4 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6762
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/tooltip"
 msgstr ""
+"Выстреливает 4 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:6799
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/title"
@@ -3470,12 +3615,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:7064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ENERGIZED\"]/title"
-msgstr ""
+msgstr "Заряженный Рельсовый шредер"
 
 #: src-en/data/blueprints.xml.append:7065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ENERGIZED\"]/short"
-msgstr ""
+msgstr "Заряженный Рельсовый шредер"
 
 #: src-en/data/blueprints.xml.append:7066
 msgid ""
@@ -3530,12 +3675,14 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7227
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/desc"
-msgstr ""
+msgstr "Выстреливает 2 заряженных ионных заряда, наносящих 1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:7228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/tooltip"
 msgstr ""
+"Выстреливает 2 заряженных лазерных заряда, которые пробивают 1 щит и наносят "
+"1 ионный урон."
 
 #: src-en/data/blueprints.xml.append:7270
 msgid ""
@@ -4850,6 +4997,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/desc"
 msgstr ""
+"Замаскированная ракета, заряженная энергией ионной технологии. Быстро "
+"перемещается, всегда попадает, наносит длительное оглушение и 3 ионного "
+"урона в отсеке."
 
 #: src-en/data/blueprints.xml.append:10310
 msgid ""
@@ -4892,6 +5042,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/desc"
 msgstr ""
+"Замаскированная ракета, заряженная энергией ионной технологии. Быстро "
+"перемещается, всегда попадает, наносит длительное оглушение и 3 ионных урона "
+"в отсеке."
 
 #: src-en/data/blueprints.xml.append:10410
 msgid ""
@@ -4934,6 +5087,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/desc"
 msgstr ""
+"Замаскированная ракета, заряженная энергией ионной технологии. Быстро "
+"перемещается, всегда попадает, наносит длительное оглушение и 3 ионных урона "
+"в отсеке."
 
 #: src-en/data/blueprints.xml.append:10510
 msgid ""
@@ -5560,6 +5716,11 @@ msgstr "Даждьбог"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Неказистый огнемет, который поджигает отсеки корабля. На нем написано: "
+"\"ПРЕДУПРЕЖДЕНИЕ, СКЛОНЕН К ПЕРЕГРЕВУ\". По крайней мере, так гласила "
+"надпись, пока вы не оторвали ее, но ничего не поделаешь. Спектральные газы, "
+"сжигаемые этим оружием, иногда сгущаются настолько, что порождают нового "
+"Гуля. Не стоит об этом беспокоиться."
 
 #: src-en/data/blueprints.xml.append:11914
 msgid ""
@@ -5884,8 +6045,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/tooltip"
 msgstr ""
-"НЕ пробивает щиты и не разрушает их, стреляйте, когда вражеских щитов не "
-"будет, и обрушьте ад на их корабль. Устраивает тонны пожаров."
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеских щитов "
+"не будет, и обрушьте ад на вражеский корабль. Устраивает тонны пожаров."
 
 #: src-en/data/blueprints.xml.append:12670
 msgid ""
@@ -6486,11 +6647,18 @@ msgstr "Даждьбог"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/desc"
 msgstr ""
+"Неказистый огнемет, который поджигает отсеки корабля. На нем написано: "
+"\"ПРЕДУПРЕЖДЕНИЕ, СКЛОНЕН К ПЕРЕГРЕВУ\". По крайней мере, так гласила "
+"надпись, пока вы не оторвали ее, но ничего не поделаешь. Спектральные газы, "
+"сжигаемые этим оружием, иногда сгущаются настолько, что порождают нового "
+"Гуля. Не стоит об этом беспокоиться."
 
 #: src-en/data/blueprints.xml.append:13985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/tooltip"
 msgstr ""
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеские щиты "
+"разрушены, и обрушьте ад на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:14052
 msgid ""
@@ -6620,7 +6788,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14440
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/title"
-msgstr ""
+msgstr "Дисковая пусковая установка \"ТАРАНИС\""
 
 #: src-en/data/blueprints.xml.append:14441
 msgid ""
@@ -6631,6 +6799,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/desc"
 msgstr ""
+"Энергетическая пушка, объединенная с технологией \"лезвие\", стреляет "
+"тяжелым заряженным диском, который пробивает все щиты и наносит урон всему, "
+"к чему прикасается, даже окружающей среде."
 
 #: src-en/data/blueprints.xml.append:14444
 msgid ""
@@ -7156,6 +7327,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_ENEMY\"]/desc"
 msgstr ""
+"Замаскированная ракета, заряженная энергией ионной технологии. Быстро "
+"перемещается, всегда попадает, наносит длительное оглушение и 3 ионных урона "
+"в отсеке."
 
 #: src-en/data/blueprints.xml.append:15602
 msgid ""
@@ -8309,42 +8483,42 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18005
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_SHIELDS\"]/title"
-msgstr ""
+msgstr "Заряженные щиты"
 
 #: src-en/data/blueprints.xml.append:18006
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_SHIELDS\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:18013
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_CLOAKING\"]/title"
-msgstr ""
+msgstr "Заряженная маскировка"
 
 #: src-en/data/blueprints.xml.append:18014
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_CLOAKING\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:18021
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_WEAPONS\"]/title"
-msgstr ""
+msgstr "Заряженное оружие"
 
 #: src-en/data/blueprints.xml.append:18022
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_WEAPONS\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:18029
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_MEDBAY\"]/title"
-msgstr ""
+msgstr "Заряженный Медотсек"
 
 #: src-en/data/blueprints.xml.append:18030
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ENERGIZED_ROOM_MEDBAY\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:18037
 msgid ""
