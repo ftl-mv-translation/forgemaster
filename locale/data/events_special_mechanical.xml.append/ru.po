@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-22 11:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-01 12:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mechanicalxmlappend/ru/>\n"
 "Language: ru\n"
@@ -67,19 +67,16 @@ msgid ""
 msgstr "Недоступно: Уже уволен."
 
 #: src-en/data/events_special_mechanical.xml.append:1305
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_TUCO_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Перетасовать карты"
 
 #: src-en/data/events_special_mechanical.xml.append:1315
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/text"
 msgstr "КАРТЫ (WIP)"
 
 #: src-en/data/events_special_mechanical.xml.append:1317
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/tooltip"
 msgstr "Разыграть карту (WIP)"
@@ -90,7 +87,6 @@ msgid ""
 msgstr "Неактивный"
 
 #: src-en/data/events_special_mechanical.xml.append:1333
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
 msgstr ""
@@ -108,7 +104,6 @@ msgid ""
 msgstr "Заглянуть в ее глубины"
 
 #: src-en/data/events_special_mechanical.xml.append:1338
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/event/text"
 msgstr ""
@@ -116,17 +111,15 @@ msgstr ""
 "понять, что же за энергия в нем течет. Внезапно вы начинаете видеть, как "
 "возникают галактики, которые расширяются, словно желая показать свои звезды, "
 "которые, в свою очередь, показывают свои планеты. Вы с благоговением "
-"наблюдаете, позволяя увидеть ваш собственный корабль, находящийся на орбите "
+"наблюдаете, и даже видите свой собственный корабль, находящийся на орбите "
 "одного из миров."
 
 #: src-en/data/events_special_mechanical.xml.append:1343
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/text"
 msgstr "Изучить его."
 
 #: src-en/data/events_special_mechanical.xml.append:1345
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/event/text"
 msgstr ""
