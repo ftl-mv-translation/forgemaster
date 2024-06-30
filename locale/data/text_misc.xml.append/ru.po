@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-30 11:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-01 12:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -71,7 +71,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:41
 msgid "data/text_misc.xml.append$//text[@name=\"flamethrower\"]"
 msgstr ""
-"НЕ пробивает щиты и не разрушает их, стреляйте, когда вражеские щиты "
+"НЕ проникает сквозь щиты и не разрушает их, стреляйте, когда вражеские щиты "
 "отключены, и обрушьте ад на их корабль!"
 
 #: src-en/data/text_misc.xml.append:42
