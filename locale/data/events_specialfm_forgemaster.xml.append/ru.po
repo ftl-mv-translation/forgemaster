@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-01 12:42+0000\n"
+"PO-Revision-Date: 2024-07-02 20:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -1773,7 +1773,7 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Использовать газообразную массу в качестве топлива и поджечь ее с помощью "
-"Огневика, чтобы выковать Огнемет Дажьбог. [Цена: 50~]"
+"Огневика, чтобы выковать огнемет \"Дажьбог\". [Цена: 50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1577
 msgid ""
@@ -1879,7 +1879,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1642
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr "Попросить Алестера настроить \"Богоубийцу\". [Цена: 10~]"
+msgstr "Попросить Алестера настроить \"Убийцу богов\". [Цена: 10~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1648
 msgid ""
@@ -2599,7 +2599,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:2173
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/text"
-msgstr "Выковать лазер аномалий \"ТЛАЛОК\"."
+msgstr "Выковать аномальный лазер \"ТЛАЛОК\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2175
 msgid ""
@@ -3041,7 +3041,7 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2622
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/text"
-msgstr "В данный момент вы просматриваете описание \"Богоубийцы\"."
+msgstr "В данный момент вы просматриваете описание \"Убийцы богов\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2624
 msgid ""
@@ -3052,8 +3052,8 @@ msgstr "Изменить настройки орудия с \"Полуавтом
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/event/text"
 msgstr ""
-"Алестер осторожно берет \"Богоубийцу\" и кладет его на верстак. Он подходит "
-"к ящику с инструментами и достает отвертку."
+"Алестер осторожно берет \"Убийцу богов\" и кладет его на верстак. Он "
+"подходит к ящику с инструментами и достает отвертку."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2631
 msgid ""
