@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-01 12:42+0000\n"
+"PO-Revision-Date: 2024-07-02 20:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -1636,7 +1636,7 @@ msgstr "Заряженный разведчик"
 #: src-en/data/blueprints.xml.append:3065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/title"
-msgstr "Дрон-монитор Анкалагон"
+msgstr "Дрон-монитор Анкалагона"
 
 #: src-en/data/blueprints.xml.append:3066
 msgid ""
@@ -2666,12 +2666,12 @@ msgstr "ТЕСТ"
 #: src-en/data/blueprints.xml.append:4231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/title"
-msgstr ""
+msgstr "\"Убийца богов\" [Противокорпусный]"
 
 #: src-en/data/blueprints.xml.append:4232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/short"
-msgstr ""
+msgstr "Убийца [Корпус]"
 
 #: src-en/data/blueprints.xml.append:4234
 msgid ""
@@ -2684,16 +2684,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/tooltip"
 msgstr ""
+"Время перезарядки уменьшается, чем чаще он стреляет. Цепь можно составить до "
+"7 раз!"
 
 #: src-en/data/blueprints.xml.append:4275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/title"
-msgstr ""
+msgstr "\"Убийца богов\" [Фотон]"
 
 #: src-en/data/blueprints.xml.append:4276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/short"
-msgstr ""
+msgstr "\"Убийца\" [Фотон]"
 
 #: src-en/data/blueprints.xml.append:4278
 msgid ""
@@ -2706,16 +2708,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/tooltip"
 msgstr ""
+"Время перезарядки уменьшается, чем чаще он стреляет. Цепь можно составить до "
+"7 раз!"
 
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/title"
-msgstr ""
+msgstr "\"Убийца богов\" [Ион]"
 
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/short"
-msgstr ""
+msgstr "\"Убийца\" [Ион]"
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
@@ -2728,16 +2732,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/tooltip"
 msgstr ""
+"Время перезарядки уменьшается, чем чаще он стреляет. Цепь можно составить до "
+"7 раз!"
 
 #: src-en/data/blueprints.xml.append:4385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/title"
-msgstr ""
+msgstr "\"Убийца богов\" [Да]"
 
 #: src-en/data/blueprints.xml.append:4386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/short"
-msgstr ""
+msgstr "\"Убийца\" [Да]"
 
 #: src-en/data/blueprints.xml.append:4388
 msgid ""
@@ -2750,6 +2756,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/tooltip"
 msgstr ""
+"Время перезарядки уменьшается, чем чаще он стреляет. Цепь можно составить до "
+"7 раз!"
 
 #: src-en/data/blueprints.xml.append:4434
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/title"
@@ -2776,11 +2784,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4495
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/title"
-msgstr ""
+msgstr "Предупреждение о сбое"
 
 #: src-en/data/blueprints.xml.append:4496
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/short"
-msgstr ""
+msgstr "Нет сбоя"
 
 #: src-en/data/blueprints.xml.append:4497
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/desc"
@@ -2793,22 +2801,24 @@ msgstr "ТЕСТ"
 #: src-en/data/blueprints.xml.append:4529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/title"
-msgstr ""
+msgstr "Зарядный снайпер"
 
 #: src-en/data/blueprints.xml.append:4530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/short"
-msgstr ""
+msgstr "З. снайпер"
 
 #: src-en/data/blueprints.xml.append:4532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/desc"
 msgstr ""
+"Производит один выстрел, который становится тем мощнее, чем дольше вы ждете "
+"выстрела."
 
 #: src-en/data/blueprints.xml.append:4533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/tooltip"
-msgstr ""
+msgstr "Наносит 2 урона и пробивает 1 слой щита за заряд."
 
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
@@ -2824,6 +2834,8 @@ msgstr "\"Множественность\""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/desc"
 msgstr ""
+"Сконструированное на основе побежденных Флагманов, это орудие в некоторой "
+"степени повторяет мощный залп и схему прицеливания Флагманов повстанцев."
 
 #: src-en/data/blueprints.xml.append:4591
 msgid ""
@@ -2833,42 +2845,51 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/title"
-msgstr ""
+msgstr "Похищающий лазер \"Персефона\""
 
 #: src-en/data/blueprints.xml.append:4632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/short"
-msgstr ""
+msgstr "\"Персефона\""
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/desc"
 msgstr ""
+"Из-за трудностей с установкой громоздкого телепортационного оборудования на "
+"борту некоторых исследовательских кораблей ракушки-Ученые из другого "
+"измерения разработали этот новый способ односторонней телепортации экипажа "
+"без согласия. Это не больно... почти."
 
 #: src-en/data/blueprints.xml.append:4635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/tooltip"
-msgstr ""
+msgstr "Производит один выстрел, который похищает всех членов экипажа в отсеке."
 
 #: src-en/data/blueprints.xml.append:4672
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/title"
-msgstr ""
+msgstr "Импульсный аномальный лазер \"ТЛАЛОК\""
 
 #: src-en/data/blueprints.xml.append:4673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/short"
-msgstr ""
+msgstr "\"ТЛАЛОК\""
 
 #: src-en/data/blueprints.xml.append:4674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/desc"
 msgstr ""
+"Оказывается, охлаждение радиоактивных лазерных снарядов до абсолютного нуля "
+"создает довольно странные пространственные аномалии! И мы на основе этой "
+"технологии собрали для вас орудие!"
 
 #: src-en/data/blueprints.xml.append:4675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/tooltip"
 msgstr ""
+"Аномальный лазер, выпускает 2 снаряда, наносит 1 системный урон, пробивает 2 "
+"щита. Много вспомогательных эффектов."
 
 #: src-en/data/blueprints.xml.append:4716
 msgid ""
@@ -2900,67 +2921,79 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/title"
-msgstr ""
+msgstr "\"Расщепитель\""
 
 #: src-en/data/blueprints.xml.append:4799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/short"
-msgstr ""
+msgstr "\"Расщепитель\""
 
 #: src-en/data/blueprints.xml.append:4801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/desc"
 msgstr ""
+"Оригинальные чертежи этого орудия были созданы недовольным ракушкой-Ученым, "
+"который хотел, чтобы все испытали те муки, которые он испытывал в момент "
+"удушья. Энергия этого фазового орудия насыщена анаэробными микробами, "
+"которые прикрепляются к существам и высасывают кислород, разъедая тела, что "
+"приводит к удушью."
 
 #: src-en/data/blueprints.xml.append:4802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/tooltip"
 msgstr ""
+"Выпускает пронзающий заряд ионного лазера, от которого попавшие под его "
+"действие члены экипажа задыхаются, получают 3х урона от удушья и очень "
+"медленно истощают кислород в отсеке."
 
 #: src-en/data/blueprints.xml.append:4871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/title"
-msgstr ""
+msgstr "Фотонный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:4872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/short"
-msgstr ""
+msgstr "Фотон I"
 
 #: src-en/data/blueprints.xml.append:4873
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/desc"
 msgstr ""
+"Выпускает фотонный разряд, который может разрушать щиты, как обычные лазеры, "
+"но наносит только системный урон с низким шансом вызвать пожар или пробоину."
 
 #: src-en/data/blueprints.xml.append:4960
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/title"
-msgstr ""
+msgstr "Фотонный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:4961
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/short"
-msgstr ""
+msgstr "Фотон II"
 
 #: src-en/data/blueprints.xml.append:4962
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/desc"
 msgstr ""
+"Выпускает фотонный разряд, который может разрушать щиты, как обычные лазеры, "
+"но наносит только системный урон с низким шансом вызвать пожар или пробоину."
 
 #: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/title"
-msgstr ""
+msgstr "\"Потрошитель повстанцев\""
 
 #: src-en/data/blueprints.xml.append:5050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/short"
-msgstr ""
+msgstr "П. повст."
 
 #: src-en/data/blueprints.xml.append:5051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/desc"
-msgstr ""
+msgstr "Любимое орудие Коалиции. Отлично убивает человеческих выродков."
 
 #: src-en/data/blueprints.xml.append:5071
 msgid ""
@@ -2988,37 +3021,42 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/title"
-msgstr ""
+msgstr "Индуктор разломов \"Прощение\""
 
 #: src-en/data/blueprints.xml.append:5171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/short"
-msgstr ""
+msgstr "Прощение"
 
 #: src-en/data/blueprints.xml.append:5172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/desc"
 msgstr ""
+"Лаборатория, в которой он был создан, была уничтожена в результате "
+"загадочной аварии, но чертежи уцелели. Выпускает разумные штормы ионного "
+"разрушения при попадании, пробивает два щита."
 
 #: src-en/data/blueprints.xml.append:5193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномалия"
 
 #: src-en/data/blueprints.xml.append:5236
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/title"
-msgstr ""
+msgstr "Гнун Слунг"
 
 #: src-en/data/blueprints.xml.append:5237
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/short"
-msgstr ""
+msgstr "Гнун Слунг"
 
 #: src-en/data/blueprints.xml.append:5239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/desc"
 msgstr ""
+"Когда слизни приходят за деньгами, они не ломают вам ноги, а расплавляют "
+"ваши органы. Платите по долгам."
 
 #: src-en/data/blueprints.xml.append:5256
 msgid ""
@@ -3044,42 +3082,46 @@ msgstr "Тест"
 #: src-en/data/blueprints.xml.append:5342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/title"
-msgstr ""
+msgstr "Пусковая установка дронов-хакеров"
 
 #: src-en/data/blueprints.xml.append:5343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/short"
-msgstr ""
+msgstr "Дрон-хакер"
 
 #: src-en/data/blueprints.xml.append:5344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/desc"
 msgstr ""
+"Выпускает дрона-микрохакера. Автоматически взламывает отсек, в который "
+"попал, и оглушает находящиеся в нем врагов на 5 секунд."
 
 #: src-en/data/blueprints.xml.append:5389
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/title"
-msgstr ""
+msgstr "Древесный палач"
 
 #: src-en/data/blueprints.xml.append:5390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/short"
-msgstr ""
+msgstr "Древ. пал."
 
 #: src-en/data/blueprints.xml.append:5391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/desc"
 msgstr ""
+"Детище двух знаменитых ученых, объединивших чудесные технологии кристаллинов "
+"и цветочных орхидей, чтобы создать орудие, достойное имени \"Палач\"."
 
 #: src-en/data/blueprints.xml.append:5431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE_STATBOOST\"]/title"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE_STATBOOST\"]/short"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5434
 msgid ""
@@ -3089,27 +3131,30 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:5488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/title"
-msgstr ""
+msgstr "Древесный восстановитель"
 
 #: src-en/data/blueprints.xml.append:5489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/short"
-msgstr ""
+msgstr "Древ. восст."
 
 #: src-en/data/blueprints.xml.append:5490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/desc"
 msgstr ""
+"Детище двух знаменитых ученых, объединивших чудесные технологии кристаллинов "
+"и цветочных орхидей для создания орудия, способного служить добрым целям, не "
+"провоцируя насилие."
 
 #: src-en/data/blueprints.xml.append:5531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV_STATBOOST\"]/title"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV_STATBOOST\"]/short"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5534
 msgid ""
@@ -3118,72 +3163,88 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
 #: src-en/data/blueprints.xml.append:5594
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/title"
-msgstr ""
+msgstr "Заклинатель света Анкалагона"
 
 #: src-en/data/blueprints.xml.append:5595
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/short"
-msgstr ""
+msgstr "Закл. света"
 
 #: src-en/data/blueprints.xml.append:5596
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/desc"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Это орудие стреляет двумя "
+"парами мощных лазеров. На ярлыке написано \"Собственность подразделения "
+"Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:5619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:5669
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/title"
-msgstr ""
+msgstr "Заклинатель света Анкалагона"
 
 #: src-en/data/blueprints.xml.append:5670
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/short"
-msgstr ""
+msgstr "Закл. света"
 
 #: src-en/data/blueprints.xml.append:5671
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/desc"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Это орудие стреляет двумя "
+"парами мощных лазеров. На ярлыке написано \"Собственность подразделения "
+"Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:5695
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:5746
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/title"
-msgstr ""
+msgstr "Защитный заклинатель света"
 
 #: src-en/data/blueprints.xml.append:5747
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/short"
-msgstr ""
+msgstr "З. закл. света"
 
 #: src-en/data/blueprints.xml.append:5748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/desc"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Это орудие стреляет двумя "
+"парами мощных лазеров. На ярлыке написано \"Собственность подразделения "
+"Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:5787
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/title"
-msgstr ""
+msgstr "Терминус"
 
 #: src-en/data/blueprints.xml.append:5788
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/short"
-msgstr ""
+msgstr "Терминус"
 
 #: src-en/data/blueprints.xml.append:5789
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/desc"
 msgstr ""
+"Последнее секретное орудие древних, забытое в искривлениями между "
+"реальностями, как средство защиты от его использования. Такое орудие может "
+"появиться только в том случае, если ткань реальности будет растянута до "
+"предела..."
 
 #: src-en/data/blueprints.xml.append:5810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/tooltip"
-msgstr ""
+msgstr "ВЗРЫВВВВ"
 
 #: src-en/data/blueprints.xml.append:5811
 msgid ""
@@ -3208,12 +3269,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS_STATBOOST\"]/title"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS_STATBOOST\"]/short"
-msgstr ""
+msgstr "ПРИМЕНИТЬ_СТАТБУСТ"
 
 #: src-en/data/blueprints.xml.append:5939
 msgid ""
@@ -3223,117 +3284,134 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:6079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/title"
-msgstr ""
+msgstr "Зарядный лазер \"Финитум\""
 
 #: src-en/data/blueprints.xml.append:6080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/short"
-msgstr ""
+msgstr "Зар. \"Финитум\""
 
 #: src-en/data/blueprints.xml.append:6082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/desc"
 msgstr ""
+"Специальные заряды для Защитного лазера. Использует динамическую энтропию "
+"для хранения до 169 выстрелов."
 
 #: src-en/data/blueprints.xml.append:6083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/tooltip"
-msgstr ""
+msgstr "Защитный лазер; 1 урон, 1 выстрел. 9с перезарядка."
 
 #: src-en/data/blueprints.xml.append:6125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/title"
-msgstr ""
+msgstr "Ионная пушка \"Цербер\""
 
 #: src-en/data/blueprints.xml.append:6126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/short"
-msgstr ""
+msgstr "Цербер"
 
 #: src-en/data/blueprints.xml.append:6128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/desc"
 msgstr ""
+"Для кровожадного золтана внутри каждого из нас. Три-ион с зажигательным "
+"усилителем. Заметно быстрее заряжается."
 
 #: src-en/data/blueprints.xml.append:6129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон. Может поразить и вывести из "
+"строя щиты, а также системы."
 
 #: src-en/data/blueprints.xml.append:6174
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/title"
-msgstr ""
+msgstr "Дисковая пусковая установка \"ТАРАНИС\""
 
 #: src-en/data/blueprints.xml.append:6175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/short"
-msgstr ""
+msgstr "\"ТАРАНИС\""
 
 #: src-en/data/blueprints.xml.append:6177
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/desc"
 msgstr ""
+"Энергетическая пушка, объединенная с технологией \"лезвие\", стреляет "
+"тяжелым заряженным диском, который пробивает все щиты и наносит урон всему, "
+"к чему прикасается, даже окружающей среде."
 
 #: src-en/data/blueprints.xml.append:6178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/tooltip"
 msgstr ""
+"Выпускает пронзающий заряд, наносящий урон ионами, системе и корпусу. "
+"Бойтесь его. И оглушение тоже!"
 
 #: src-en/data/blueprints.xml.append:6219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/title"
-msgstr ""
+msgstr "Гатлинг-ион \"Веста\""
 
 #: src-en/data/blueprints.xml.append:6220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/short"
-msgstr ""
+msgstr "\"Веста\""
 
 #: src-en/data/blueprints.xml.append:6222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/desc"
 msgstr ""
+"Конечно, можно просто убить их обычным Вулканом... но что, если заставить их "
+"СТРАДАТЬ?"
 
 #: src-en/data/blueprints.xml.append:6223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:6271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/title"
-msgstr ""
+msgstr "Гатлинг-пушка \"Адская вспышка\""
 
 #: src-en/data/blueprints.xml.append:6272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/short"
-msgstr ""
+msgstr "Адская вспышка"
 
 #: src-en/data/blueprints.xml.append:6274
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/desc"
-msgstr ""
+msgstr "Некоторые Ренегаты просто хотят увидеть, как горит Мультивселенная."
 
 #: src-en/data/blueprints.xml.append:6294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:6357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/title"
-msgstr ""
+msgstr "Энергетический диффузор \"Эксидия\""
 
 #: src-en/data/blueprints.xml.append:6358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/short"
-msgstr ""
+msgstr "Диф. Эксидия"
 
 #: src-en/data/blueprints.xml.append:6359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/desc"
 msgstr ""
+"Энергетический диффузор, который выпускает 3 снаряда, наносящих урон ионами "
+"и корпусу, и 4 снаряда, наносящих урон корпусу, а также отнимает 1 энергию у "
+"системных отсеков в течение 12 секунд. Эффект истощения суммируется по силе, "
+"но его продолжительность ограничена 12 секундами и не суммируется."
 
 #: src-en/data/blueprints.xml.append:6378
 msgid ""
@@ -3360,17 +3438,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6442
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/title"
-msgstr ""
+msgstr "Энергетический диффузор \"Эксидия\""
 
 #: src-en/data/blueprints.xml.append:6443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/short"
-msgstr ""
+msgstr "Диф. Эксидия"
 
 #: src-en/data/blueprints.xml.append:6444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/desc"
 msgstr ""
+"Энергетический диффузор, который выпускает 3 снаряда, наносящих урон ионами "
+"и корпусу, и 4 снаряда, наносящих урон корпусу, а также отнимает 1 энергию у "
+"системных отсеков в течение 12 секунд. Эффект истощения суммируется по силе, "
+"но его продолжительность ограничена 12 секундами и не суммируется."
 
 #: src-en/data/blueprints.xml.append:6463
 msgid ""
@@ -3397,40 +3479,44 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/title"
-msgstr ""
+msgstr "Энергетическая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:6528
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/short"
-msgstr ""
+msgstr "Энер. оск."
 
 #: src-en/data/blueprints.xml.append:6530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/desc"
 msgstr ""
+"Энергетическая осколочная пушка, наносящая ионный урон, а также отнимающая "
+"энергию у пораженных систем на 10 секунд."
 
 #: src-en/data/blueprints.xml.append:6572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/title"
-msgstr ""
+msgstr "Энергетическая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:6573
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/short"
-msgstr ""
+msgstr "Энер. оск."
 
 #: src-en/data/blueprints.xml.append:6574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/desc"
 msgstr ""
+"Энергетическая осколочная пушка, наносящая ионный урон, а также отнимающая "
+"энергию у пораженных систем на 10 секунд."
 
 #: src-en/data/blueprints.xml.append:6642
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/title"
-msgstr ""
+msgstr "Пульсовой лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:6643
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/short"
-msgstr ""
+msgstr "Пул. лазер I"
 
 #: src-en/data/blueprints.xml.append:6644
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/desc"
@@ -3446,11 +3532,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6681
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/title"
-msgstr ""
+msgstr "Пульсовой лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:6682
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/short"
-msgstr ""
+msgstr "Пул. лазер II"
 
 #: src-en/data/blueprints.xml.append:6683
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/desc"
@@ -3467,12 +3553,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/title"
-msgstr ""
+msgstr "Пульсовой лазер мод. II†"
 
 #: src-en/data/blueprints.xml.append:6721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/short"
-msgstr ""
+msgstr "Пул. лазер II†"
 
 #: src-en/data/blueprints.xml.append:6722
 msgid ""
@@ -3490,11 +3576,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6759
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/title"
-msgstr ""
+msgstr "Пульсовой лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:6760
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/short"
-msgstr ""
+msgstr "Пул. лазер III"
 
 #: src-en/data/blueprints.xml.append:6761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/desc"
@@ -3510,20 +3596,22 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6799
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/title"
-msgstr ""
+msgstr "Пульсоглубинная пушка"
 
 #: src-en/data/blueprints.xml.append:6800
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/short"
-msgstr ""
+msgstr "Пульсоглуб."
 
 #: src-en/data/blueprints.xml.append:6801
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/desc"
 msgstr ""
+"Сочетает в себе энергетическую и ионную технологии. Наносит 2 дополнительных "
+"ионных урона при попадании в отсек. Может создавать пожары и пробоины."
 
 #: src-en/data/blueprints.xml.append:6823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:6824
 msgid ""
@@ -3548,59 +3636,67 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОНТУЗИЯ"
 
 #: src-en/data/blueprints.xml.append:6901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Готовность: Наносит 15 единиц урона и оглушает на 2с."
 
 #: src-en/data/blueprints.xml.append:6931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/title"
-msgstr ""
+msgstr "Рельсовый шредер"
 
 #: src-en/data/blueprints.xml.append:6932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/short"
-msgstr ""
+msgstr "Рельс. шред."
 
 #: src-en/data/blueprints.xml.append:6933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/desc"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:6934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/tooltip"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:6975
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/title"
-msgstr ""
+msgstr "Рельсовый шредер"
 
 #: src-en/data/blueprints.xml.append:6976
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/short"
-msgstr ""
+msgstr "Рельс. шред."
 
 #: src-en/data/blueprints.xml.append:6977
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/desc"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:6978
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/tooltip"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:7019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ROD\"]/title"
-msgstr ""
+msgstr "РЕЛЬСОВЫЙ ШРЕДЕР"
 
 #: src-en/data/blueprints.xml.append:7020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ROD\"]/short"
-msgstr ""
+msgstr "РЕЛЬСОВЫЙ ШРЕДЕР"
 
 #: src-en/data/blueprints.xml.append:7021
 msgid ""
@@ -3634,44 +3730,48 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:7109
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/title"
-msgstr ""
+msgstr "Рельсовый шредер†"
 
 #: src-en/data/blueprints.xml.append:7110
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/short"
-msgstr ""
+msgstr "Рельс. шред.†"
 
 #: src-en/data/blueprints.xml.append:7111
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/desc"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:7112
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/tooltip"
 msgstr ""
+"Это странное изобретение может зарядить до 3 зарядов, выстреливая 3 разными "
+"заряженными электричеством зарядами."
 
 #: src-en/data/blueprints.xml.append:7154
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/title"
-msgstr ""
+msgstr "Динки ион"
 
 #: src-en/data/blueprints.xml.append:7155
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/short"
-msgstr ""
+msgstr "Динки ион"
 
 #: src-en/data/blueprints.xml.append:7156
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/desc"
-msgstr ""
+msgstr "Ионное орудие, избавленное от лишних деталей ценой потери точности."
 
 #: src-en/data/blueprints.xml.append:7182
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:7225
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/title"
-msgstr ""
+msgstr "Би-ион"
 
 #: src-en/data/blueprints.xml.append:7226
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/short"
-msgstr ""
+msgstr "Би-ион"
 
 #: src-en/data/blueprints.xml.append:7227
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/desc"
@@ -3687,42 +3787,48 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/title"
-msgstr ""
+msgstr "Луч \"Ушная ложка\""
 
 #: src-en/data/blueprints.xml.append:7271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/short"
-msgstr ""
+msgstr "Луч Уш. ложка"
 
 #: src-en/data/blueprints.xml.append:7272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/desc"
 msgstr ""
+"Улей придумал это орудие, найдя книгу по истории человечества и перебирая "
+"странные названия. Это название позабавило их больше всего.\n"
+"\t\t\tОднако луч не слишком смешон, когда ваш экипаж сгорает заживо."
 
 #: src-en/data/blueprints.xml.append:7275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/tooltip"
-msgstr ""
+msgstr "Создает пожары и наносит 3 системных урона за отсек. Пробивает 3 щита"
 
 #: src-en/data/blueprints.xml.append:7303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/title"
-msgstr ""
+msgstr "Луч \"Ишимура\""
 
 #: src-en/data/blueprints.xml.append:7304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/short"
-msgstr ""
+msgstr "Луч Ишимура"
 
 #: src-en/data/blueprints.xml.append:7305
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/desc"
 msgstr ""
+"Ходили слухи о новом прототипе шахтного лазера \"Зульфикар разрушителя "
+"планет\", созданном компанией \"Зульфикар Индастриз\" и предназначенном для "
+"разрушения целых планет. Похоже, это были не слухи."
 
 #: src-en/data/blueprints.xml.append:7306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие, 2 урона корпусу, 3 урона системе за отсек."
 
 #: src-en/data/blueprints.xml.append:7329
 msgid ""
@@ -3732,77 +3838,95 @@ msgstr "Луч Терра Нова \"Крушитель кораблей\""
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/short"
-msgstr ""
+msgstr "Точечный луч \"Терра Нова\""
 
 #: src-en/data/blueprints.xml.append:7331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/desc"
 msgstr ""
+"Теперь, когда Зульфикар перешел к разработке оружия, они перепрофилировали "
+"свой ранний проект \"Планетарного разрушителя\" на разрушение кораблей. "
+"Вызывает до 4 пробоин на вражеских кораблях после очень небольшой паузы."
 
 #: src-en/data/blueprints.xml.append:7349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие, 8 урона корпусу, 8 урона системам, 120 урона экипажу"
 
 #: src-en/data/blueprints.xml.append:7384
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/title"
-msgstr ""
+msgstr "Луч \"Менавла\""
 
 #: src-en/data/blueprints.xml.append:7385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/short"
-msgstr ""
+msgstr "Менавла"
 
 #: src-en/data/blueprints.xml.append:7386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/desc"
 msgstr ""
+"Когда Гильдия заявила, что создает луч, который убивает так быстро, что это "
+"будет законно, потому что никто не доживет до того, чтобы сообщить об "
+"этом... Они не шутили."
 
 #: src-en/data/blueprints.xml.append:7387
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/tooltip"
 msgstr ""
+"Лучевое орудие мощностью 4 единицы энергии, наносящее огромный урон "
+"вражескому экипажу. Крайне дорогое, но отлично подходит для уничтожения "
+"экипажа."
 
 #: src-en/data/blueprints.xml.append:7428
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/title"
-msgstr ""
+msgstr "Луч \"Менавла\"†"
 
 #: src-en/data/blueprints.xml.append:7429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/short"
-msgstr ""
+msgstr "Менавла†"
 
 #: src-en/data/blueprints.xml.append:7430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/desc"
 msgstr ""
+"Когда Гильдия заявила, что создает луч, который убивает так быстро, что это "
+"будет законно, потому что никто не доживет до того, чтобы сообщить об "
+"этом... Они не шутили."
 
 #: src-en/data/blueprints.xml.append:7431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/tooltip"
 msgstr ""
+"Лучевое орудие, наносящее огромный урон вражескому экипажу. Оглушает, "
+"пробивает щиты и вызывает пожар. Чрезвычайно энергозатратное, но отлично "
+"подходит для уничтожения экипажа."
 
 #: src-en/data/blueprints.xml.append:7470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/title"
-msgstr ""
+msgstr "Луч \"Валефор\""
 
 #: src-en/data/blueprints.xml.append:7471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/short"
-msgstr ""
+msgstr "Луч Валефор"
 
 #: src-en/data/blueprints.xml.append:7472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/desc"
 msgstr ""
+"Сильно нагревает воздух, создавая многочисленные взрывы, когда проносится "
+"над вражеским кораблем! Взрывы наносят урон всем членам экипажа, находящимся "
+"в отсеке. Взрывы также наносят урон корпусу, системе и экипажу."
 
 #: src-en/data/blueprints.xml.append:7493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/tooltip"
-msgstr ""
+msgstr "ВЗРЫВВВВ"
 
 #: src-en/data/blueprints.xml.append:7494
 msgid ""
@@ -3826,7 +3950,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_LASER\"]/title"
-msgstr ""
+msgstr "Взрывной лазер"
 
 #: src-en/data/blueprints.xml.append:7552
 msgid ""
@@ -3841,22 +3965,26 @@ msgstr "Стоит ему попасть, и ты - труп."
 #: src-en/data/blueprints.xml.append:7591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/title"
-msgstr ""
+msgstr "Луч \"Валефор\""
 
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/short"
-msgstr ""
+msgstr "Луч Валефор"
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/desc"
 msgstr ""
+"Сильно нагревает воздух, создавая многочисленные взрывы, когда проносится "
+"над вражеским кораблем! Взрывы наносят урон всем членам экипажа, находящимся "
+"в отсеке. Взрывы также наносят урон корпусу, системе и экипажу. Мужчина из "
+"Флориды оставил свой меч внутри, не трогайте."
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/tooltip"
-msgstr ""
+msgstr "ВЗРЫВВВВ"
 
 #: src-en/data/blueprints.xml.append:7615
 msgid ""
@@ -3880,22 +4008,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/title"
-msgstr ""
+msgstr "Луч \"Валефор\"†"
 
 #: src-en/data/blueprints.xml.append:7674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/short"
-msgstr ""
+msgstr "Луч Валефор†"
 
 #: src-en/data/blueprints.xml.append:7675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/desc"
 msgstr ""
+"Сильно нагревает воздух, создавая многочисленные взрывы, когда проносится "
+"над вражеским кораблем!"
 
 #: src-en/data/blueprints.xml.append:7696
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "ВЗРЫВВВВ"
 
 #: src-en/data/blueprints.xml.append:7697
 msgid ""
@@ -3919,17 +4049,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/title"
-msgstr ""
+msgstr "Луч \"Контос\""
 
 #: src-en/data/blueprints.xml.append:7756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/short"
-msgstr ""
+msgstr "\"Контос\""
 
 #: src-en/data/blueprints.xml.append:7757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/desc"
 msgstr ""
+"Выпускает поток альфа-частиц, разрушающих щит. Наносит ионный урон каждой "
+"плитке в отсеке."
 
 #: src-en/data/blueprints.xml.append:7775
 msgid ""
@@ -3949,20 +4081,24 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7831
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/title"
-msgstr ""
+msgstr "Луч Анкалагона"
 
 #: src-en/data/blueprints.xml.append:7832
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/short"
-msgstr ""
+msgstr "Луч Анкал."
 
 #: src-en/data/blueprints.xml.append:7833
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/desc"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Оно выпускает длинный луч, "
+"который медленно вызывает разложение любого живого существа. На ярлыке "
+"написано: \"Собственность подразделения Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:7874
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:7913
 #, fuzzy
@@ -3980,6 +4116,8 @@ msgstr "\"HD_Hotfix_26v7\""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/desc"
 msgstr ""
+"Экспериментальное анти-гармоничное ионно-лучевое орудие. Предназначено для "
+"нанесения повышенного урона экипажу энджи."
 
 #: src-en/data/blueprints.xml.append:7934
 msgid ""
@@ -4001,142 +4139,175 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/title"
-msgstr ""
+msgstr "Луч \"Вечность\""
 
 #: src-en/data/blueprints.xml.append:7993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/short"
-msgstr ""
+msgstr "Луч \"Вечность\""
 
 #: src-en/data/blueprints.xml.append:7994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/desc"
-msgstr ""
+msgstr "Косит флот, как его земной сородич косит траву."
 
 #: src-en/data/blueprints.xml.append:7995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие, 2 урона корпусу, 3 урона системе за отсек."
 
 #: src-en/data/blueprints.xml.append:8033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. I"
 
 #: src-en/data/blueprints.xml.append:8034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:8035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. II"
 
 #: src-en/data/blueprints.xml.append:8062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:8063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. III"
 
 #: src-en/data/blueprints.xml.append:8089
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:8090
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8115
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. IV"
 
 #: src-en/data/blueprints.xml.append:8116
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:8117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. V"
 
 #: src-en/data/blueprints.xml.append:8143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:8144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8145
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:8170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Эбони\""
 
 #: src-en/data/blueprints.xml.append:8171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/short"
-msgstr ""
+msgstr "\"Эбони\""
 
 #: src-en/data/blueprints.xml.append:8172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 2 ионных урона при попадании в отсек и "
+"заряжается быстрее, чем \"Дирк\". Может вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:8191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:8192
 msgid ""
@@ -4158,22 +4329,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8249
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Болиголов\""
 
 #: src-en/data/blueprints.xml.append:8250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/short"
-msgstr ""
+msgstr "\"Болиголов\""
 
 #: src-en/data/blueprints.xml.append:8251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 3 ионных урона при попадании в отсек, оглушает "
+"всех членов экипажа в отсеке и заряжается быстрее, чем \"Мизерикорд\". Может "
+"вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:8270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:8271
 msgid ""
@@ -4195,22 +4370,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Болиголов\"†"
 
 #: src-en/data/blueprints.xml.append:8329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/short"
-msgstr ""
+msgstr "\"Болиголов\"†"
 
 #: src-en/data/blueprints.xml.append:8330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 3 ионных урона при попадании в отсек, оглушает "
+"всех членов экипажа в отсеке и заряжается быстрее, чем \"Мизерикорд\". Может "
+"вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:8349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:8350
 msgid ""
@@ -4232,22 +4411,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Зеленое сердце\""
 
 #: src-en/data/blueprints.xml.append:8408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/short"
-msgstr ""
+msgstr "Зеленое сердце"
 
 #: src-en/data/blueprints.xml.append:8409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 4 ионных урона при попадании в отсек, оглушает "
+"всех членов экипажа в отсеке и заряжается быстрее, чем \"Стилет\". Может "
+"вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:8428
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:8429
 msgid ""
@@ -4269,22 +4452,25 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Клен\""
 
 #: src-en/data/blueprints.xml.append:8488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/short"
-msgstr ""
+msgstr "\"Клен\""
 
 #: src-en/data/blueprints.xml.append:8489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 2 ионных урона при попадании в отсек и не "
+"потребляет энергии. Может вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:8508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:8509
 msgid ""
@@ -4306,97 +4492,117 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Омияри\""
 
 #: src-en/data/blueprints.xml.append:8567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/short"
-msgstr ""
+msgstr "\"Омияри\""
 
 #: src-en/data/blueprints.xml.append:8568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/desc"
 msgstr ""
+"Потенциально испаряющий корабль точечный луч, адаптирующийся к окружающей "
+"обстановке. Увеличивается невероятно быстро, при каждом выстреле цепочка "
+"наносит 1.25 урона больше."
 
 #: src-en/data/blueprints.xml.append:8569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие, 1 урон за отсек."
 
 #: src-en/data/blueprints.xml.append:8597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Эгротатио\""
 
 #: src-en/data/blueprints.xml.append:8598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/short"
-msgstr ""
+msgstr "\"Эгротатио\""
 
 #: src-en/data/blueprints.xml.append:8599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/desc"
 msgstr ""
+"Невероятно нестабильное биооружие, созданное только самыми безумными "
+"ракушками-Учеными, поражает экипаж смертельным вирусом, медленно "
+"уничтожающим команду вражеских кораблей."
 
 #: src-en/data/blueprints.xml.append:8600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/tooltip"
 msgstr ""
+"Осторожно! Осечка этого орудия однажды уничтожила целую колонию ракушек, так "
+"что не стоит стрелять из него слишком близко к своим абордажникам."
 
 #: src-en/data/blueprints.xml.append:8647
 msgid ""
 "data/blueprints.xml.append$//powerEffect[@name=\"fm_virus_pinpoint_virus\"]/buttonText"
-msgstr ""
+msgstr "КАШЕЛЬ"
 
 #: src-en/data/blueprints.xml.append:8648
 msgid ""
 "data/blueprints.xml.append$//powerEffect[@name=\"fm_virus_pinpoint_virus\"]/tooltip"
-msgstr ""
+msgstr "Готовность: Заполнить отсек этим дурацким вирусом."
 
 #: src-en/data/blueprints.xml.append:8732
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Эгротатио\"†"
 
 #: src-en/data/blueprints.xml.append:8733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/short"
-msgstr ""
+msgstr "\"Эгротатио\"†"
 
 #: src-en/data/blueprints.xml.append:8734
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/desc"
 msgstr ""
+"Невероятно нестабильное биооружие, созданное только самыми безумными "
+"ракушками-Учеными, поражает экипаж смертельным вирусом, медленно "
+"уничтожающим команду вражеских кораблей."
 
 #: src-en/data/blueprints.xml.append:8735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/tooltip"
 msgstr ""
+"Осторожно! Осечка этого орудия однажды уничтожила целую колонию ракушек, так "
+"что не стоит стрелять из него слишком близко к своим абордажникам."
 
 #: src-en/data/blueprints.xml.append:8786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/title"
-msgstr ""
+msgstr "Кристаллизованный нанолуч"
 
 #: src-en/data/blueprints.xml.append:8787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/short"
-msgstr ""
+msgstr "Кр. нанолуч"
 
 #: src-en/data/blueprints.xml.append:8788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/desc"
 msgstr ""
+"Это детище ученых кристаллинов использует странные кристаллизованные "
+"наноботы, чтобы заманивать противников в ловушку, заставляя всех членов "
+"вражеского экипажа на корабле противника запирать отсек, в котором они "
+"находятся в данный момент."
 
 #: src-en/data/blueprints.xml.append:8789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/tooltip"
 msgstr ""
+"Лучевое орудие, наносящее огромный урон вражескому экипажу. Оглушает, "
+"пробивает щиты и вызывает пожар. Крайне дорогое, но отлично подходит для "
+"уничтожения экипажа."
 
 #: src-en/data/blueprints.xml.append:8867
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM_LASER\"]/title"
-msgstr ""
+msgstr "Изолирующий лазер"
 
 #: src-en/data/blueprints.xml.append:8868
 msgid ""
@@ -4411,62 +4617,80 @@ msgstr "Стоит ему попасть, и ты - труп."
 #: src-en/data/blueprints.xml.append:8912
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/title"
-msgstr ""
+msgstr "Рассеиватель аномалий \"ХЕЙМОН\""
 
 #: src-en/data/blueprints.xml.append:8913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/short"
-msgstr ""
+msgstr "\"ХЕЙМОН\""
 
 #: src-en/data/blueprints.xml.append:8914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/desc"
 msgstr ""
+"Используя технологию Морозного лазера для охлаждения радиоактивного "
+"космического мусора до абсолютного нуля, ткань пространства-времени можно "
+"дестабилизировать для вашего удобства в виде легко выстреливаемых болтов."
 
 #: src-en/data/blueprints.xml.append:8915
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/tooltip"
 msgstr ""
+"Болты наносят 1 системный урон, пробивают 3 щита, изолируют и имеют шанс "
+"поджечь или создать пробоину в любом отсеке. Обрушивает хаос на вражеский "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:8956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/title"
-msgstr ""
+msgstr "Рассеиватель аномалий \"ХЕЙМОН\"†"
 
 #: src-en/data/blueprints.xml.append:8957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/short"
-msgstr ""
+msgstr "\"ХЕЙМОН\"†"
 
 #: src-en/data/blueprints.xml.append:8958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/desc"
 msgstr ""
+"Используя технологию Морозного лазера для охлаждения радиоактивного "
+"космического мусора до абсолютного нуля, ткань пространства-времени можно "
+"дестабилизировать для вашего удобства в виде легко выстреливаемых болтов."
 
 #: src-en/data/blueprints.xml.append:8959
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/tooltip"
 msgstr ""
+"Болты наносят 1 системный урон, пробивают 3 щита, изолируют и имеют шанс "
+"поджечь или создать пробоину в любом отсеке. Обрушивает хаос на вражеский "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:9001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/title"
-msgstr ""
+msgstr "Рассеиватель аномалий \"ХЕЙМОН\"††"
 
 #: src-en/data/blueprints.xml.append:9002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/short"
-msgstr ""
+msgstr "\"ХЕЙМОН\"††"
 
 #: src-en/data/blueprints.xml.append:9003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/desc"
 msgstr ""
+"Используя технологию Морозного лазера для охлаждения радиоактивного "
+"космического мусора до абсолютного нуля, ткань пространства-времени можно "
+"дестабилизировать для вашего удобства в виде легко выстреливаемых болтов."
 
 #: src-en/data/blueprints.xml.append:9004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/tooltip"
 msgstr ""
+"Болты наносят 1 системный урон, пробивают 3 щита, изолируют и имеют шанс "
+"поджечь или создать пробоину в любом отсеке. Обрушивает хаос на вражеский "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:9046
 msgid ""
@@ -4482,516 +4706,594 @@ msgstr "Эфир. оск."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/desc"
 msgstr ""
+"Прототип осколочной пушки обелисков, которое так и не прошло стадию "
+"испытаний. Стреляет разрушительными очередями древних обломков."
 
 #: src-en/data/blueprints.xml.append:9049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/tooltip"
 msgstr ""
+"Прототип осколочной пушки обелисков, которое так и не прошло стадию "
+"испытаний. Стреляет разрушительными очередями древних обломков."
 
 #: src-en/data/blueprints.xml.append:9094
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/title"
-msgstr ""
+msgstr "Бронзовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/short"
-msgstr ""
+msgstr "Бронз. оск."
 
 #: src-en/data/blueprints.xml.append:9096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/desc"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/title"
-msgstr ""
+msgstr "Индиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/short"
-msgstr ""
+msgstr "Индиум. оск."
 
 #: src-en/data/blueprints.xml.append:9142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/desc"
 msgstr ""
+"Более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, вы могли бы сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/tooltip"
 msgstr ""
+"Более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, вы могли бы сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/title"
-msgstr ""
+msgstr "Рениумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/short"
-msgstr ""
+msgstr "Рениум. оск."
 
 #: src-en/data/blueprints.xml.append:9188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, можно сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/tooltip"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, можно сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9233
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/title"
-msgstr ""
+msgstr "Серебряная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9234
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/short"
-msgstr ""
+msgstr "Сереб. оск."
 
 #: src-en/data/blueprints.xml.append:9235
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Возможно, вы могли бы сделать ее еще "
+"более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9236
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/tooltip"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Возможно, вы могли бы сделать ее еще "
+"более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/title"
-msgstr ""
+msgstr "Палладиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/short"
-msgstr ""
+msgstr "Паллад. оск."
 
 #: src-en/data/blueprints.xml.append:9282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/desc"
-msgstr ""
+msgstr "Поднимать ее становится все труднее. Но это вас не остановит."
 
 #: src-en/data/blueprints.xml.append:9283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/tooltip"
-msgstr ""
+msgstr "Поднимать ее становится все труднее. Но это вас не остановит."
 
 #: src-en/data/blueprints.xml.append:9327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Иридиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/short"
-msgstr ""
+msgstr "Иридиум. оск."
 
 #: src-en/data/blueprints.xml.append:9329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/desc"
 msgstr ""
+"Ваш экипаж громко стонет, когда вы пытаетесь ее установить. Даже в условиях "
+"космоса перемещение этой штуки практически невозможно из-за ее чудовищной "
+"массы."
 
 #: src-en/data/blueprints.xml.append:9330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/tooltip"
 msgstr ""
+"Ваш экипаж громко стонет, когда вы пытаетесь ее установить. Даже в условиях "
+"космоса перемещение этой штуки практически невозможно из-за ее чудовищной "
+"массы."
 
 #: src-en/data/blueprints.xml.append:9374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/title"
-msgstr ""
+msgstr "Платиновая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/short"
-msgstr ""
+msgstr "Платин. оск."
 
 #: src-en/data/blueprints.xml.append:9376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/desc"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:9377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/tooltip"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:9421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/title"
-msgstr ""
+msgstr "Осмианская осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/short"
-msgstr ""
+msgstr "Осмиан. оск."
 
 #: src-en/data/blueprints.xml.append:9423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/desc"
-msgstr ""
+msgstr "Нет, нашлось еще более тяжелое."
 
 #: src-en/data/blueprints.xml.append:9424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/tooltip"
-msgstr ""
+msgstr "Нет, нашлось еще более тяжелое."
 
 #: src-en/data/blueprints.xml.append:9468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/title"
-msgstr ""
+msgstr "Нобелиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/short"
-msgstr ""
+msgstr "Нобел. оск."
 
 #: src-en/data/blueprints.xml.append:9470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/desc"
 msgstr ""
+"Вы начинаете проваливаться в сон, когда думаете об этой осколочной пушке. "
+"Она такая тяжелая, что от одной мысли о ней голова становится тяжелой."
 
 #: src-en/data/blueprints.xml.append:9471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/tooltip"
 msgstr ""
+"Вы начинаете проваливаться в сон, когда думаете об этой осколочной пушке. "
+"Она такая тяжелая, что от одной мысли о ней голова становится тяжелой."
 
 #: src-en/data/blueprints.xml.append:9515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/title"
-msgstr ""
+msgstr "Хассиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:9516
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/short"
-msgstr ""
+msgstr "Хассиум. оск."
 
 #: src-en/data/blueprints.xml.append:9517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/desc"
-msgstr ""
+msgstr "Большая. Самая тяжелая девочка. Раздавите их."
 
 #: src-en/data/blueprints.xml.append:9518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/tooltip"
-msgstr ""
+msgstr "Большая. Самая тяжелая девочка. Раздавите их."
 
 #: src-en/data/blueprints.xml.append:9563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/title"
-msgstr ""
+msgstr "Бронзовая осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/short"
-msgstr ""
+msgstr "Бронз. оск.†"
 
 #: src-en/data/blueprints.xml.append:9565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/desc"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Индиумная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Индиум. оск.†"
 
 #: src-en/data/blueprints.xml.append:9611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/desc"
 msgstr ""
+"Более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, вы могли бы сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, вы могли бы сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Рениумная осколочная пушка †"
 
 #: src-en/data/blueprints.xml.append:9656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Рениум. оск.†"
 
 #: src-en/data/blueprints.xml.append:9657
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, можно сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, можно сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:9702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/title"
-msgstr ""
+msgstr "Серебряная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9703
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/short"
-msgstr ""
+msgstr "Сереб. оск.†"
 
 #: src-en/data/blueprints.xml.append:9704
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Возможно, вы могли бы сделать ее еще "
+"более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/tooltip"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Возможно, вы могли бы сделать ее еще "
+"более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:9749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Палладиумная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Паллад. оск.†"
 
 #: src-en/data/blueprints.xml.append:9751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Поднимать ее становится все труднее. Но это вас не остановит."
 
 #: src-en/data/blueprints.xml.append:9752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Поднимать ее становится все труднее. Но это вас не остановит."
 
 #: src-en/data/blueprints.xml.append:9796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Иридиумная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Иридиум. оск.†"
 
 #: src-en/data/blueprints.xml.append:9798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/desc"
 msgstr ""
+"Ваш экипаж громко стонет, когда вы пытаетесь ее установить. Даже в условиях "
+"космоса перемещение этой штуки практически невозможно из-за ее чудовищной "
+"массы."
 
 #: src-en/data/blueprints.xml.append:9799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Ваш экипаж громко стонет, когда вы пытаетесь ее установить. Даже в условиях "
+"космоса перемещение этой штуки практически невозможно из-за ее чудовищной "
+"массы."
 
 #: src-en/data/blueprints.xml.append:9843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Платиновая осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9844
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Платин. оск.†"
 
 #: src-en/data/blueprints.xml.append:9845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:9846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:9890
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Осмианская осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9891
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Осмиан. оск.†"
 
 #: src-en/data/blueprints.xml.append:9892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Нет, нашлось еще более тяжелое."
 
 #: src-en/data/blueprints.xml.append:9893
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Нет, нашлось еще более тяжелое."
 
 #: src-en/data/blueprints.xml.append:9937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Нобелиумная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Нобелиум. оск.†"
 
 #: src-en/data/blueprints.xml.append:9939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/desc"
 msgstr ""
+"Вы начинаете проваливаться в сон, когда думаете об этой осколочной пушке. "
+"Она такая тяжелая, что от одной мысли о ней голова становится тяжелой."
 
 #: src-en/data/blueprints.xml.append:9940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Вы начинаете проваливаться в сон, когда думаете об этой осколочной пушке. "
+"Она такая тяжелая, что от одной мысли о ней голова становится тяжелой."
 
 #: src-en/data/blueprints.xml.append:9984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Хассиумная осколочная пушка†"
 
 #: src-en/data/blueprints.xml.append:9985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Хассиум. оск.†"
 
 #: src-en/data/blueprints.xml.append:9986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Большая. Самая тяжелая девочка. Раздавите их."
 
 #: src-en/data/blueprints.xml.append:9987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Большая. Самая тяжелая девочка. Раздавите их."
 
 #: src-en/data/blueprints.xml.append:10035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_CURSED\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Карнифекс\""
 
 #: src-en/data/blueprints.xml.append:10036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_CURSED\"]/short"
-msgstr ""
+msgstr "Карнифекс оск."
 
 #: src-en/data/blueprints.xml.append:10038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_CURSED\"]/desc"
 msgstr ""
+"Осколочная пушка чужеземного происхождения, вы не совсем понимаете, как и "
+"почему она работает, но знаете, что она использует технологию клонов для "
+"порождения временных ланиусов. Также с вероятностью 30% из нее появляются "
+"ланиусы-Сварщики."
 
 #: src-en/data/blueprints.xml.append:10104
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/title"
-msgstr ""
+msgstr "Разрывная тяжелая ракетница \"Адское пламя\""
 
 #: src-en/data/blueprints.xml.append:10105
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/short"
-msgstr ""
+msgstr "Адское пламя"
 
 #: src-en/data/blueprints.xml.append:10106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/desc"
 msgstr ""
+"Это орудие выпускает шквал ракет \"Адское пламя\", наносящих тяжелые "
+"повреждения корпусу и способных поджечь несколько отсеков."
 
 #: src-en/data/blueprints.xml.append:10107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_PLAYER\"]/title"
-msgstr ""
+msgstr "Разрывная тяжелая ракетница \"Адское пламя\"†"
 
 #: src-en/data/blueprints.xml.append:10150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_PLAYER\"]/short"
-msgstr ""
+msgstr "Адское пламя†"
 
 #: src-en/data/blueprints.xml.append:10151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_PLAYER\"]/desc"
 msgstr ""
+"Это орудие выпускает шквал ракет \"Адское пламя\", наносящих тяжелые "
+"повреждения корпусу и способных поджечь несколько отсеков."
 
 #: src-en/data/blueprints.xml.append:10152
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10195
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA\"]/title"
-msgstr ""
+msgstr "Разрывная тяжелая ракетница \"Адское пламя\"††"
 
 #: src-en/data/blueprints.xml.append:10196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA\"]/short"
-msgstr ""
+msgstr "Адское пламя††"
 
 #: src-en/data/blueprints.xml.append:10197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA\"]/desc"
 msgstr ""
+"Это орудие выпускает шквал ракет \"Адское пламя\", наносящих тяжелые "
+"повреждения корпусу и способных поджечь несколько отсеков."
 
 #: src-en/data/blueprints.xml.append:10198
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA_PISSED\"]/title"
-msgstr ""
+msgstr "Разрывная тяжелая ракетница \"Адское пламя\"++"
 
 #: src-en/data/blueprints.xml.append:10242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA_PISSED\"]/short"
-msgstr ""
+msgstr "Адское пламя++"
 
 #: src-en/data/blueprints.xml.append:10243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA_PISSED\"]/desc"
-msgstr ""
+msgstr "Если вы читаете это, то вы очень разозлили Кузнеца."
 
 #: src-en/data/blueprints.xml.append:10244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA_PISSED\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/title"
-msgstr ""
+msgstr "Ракетница \"Чернобог\""
 
 #: src-en/data/blueprints.xml.append:10285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/short"
-msgstr ""
+msgstr "\"Чернобог\""
 
 #: src-en/data/blueprints.xml.append:10286
 msgid ""
@@ -5031,12 +5333,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10384
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/title"
-msgstr ""
+msgstr "Ракетница \"Чернобог\"†"
 
 #: src-en/data/blueprints.xml.append:10385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/short"
-msgstr ""
+msgstr "\"Чернобог\"†"
 
 #: src-en/data/blueprints.xml.append:10386
 msgid ""
@@ -5076,12 +5378,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/title"
-msgstr ""
+msgstr "Ракетница \"Чернобог\"††"
 
 #: src-en/data/blueprints.xml.append:10485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/short"
-msgstr ""
+msgstr "\"Чернобог\"††"
 
 #: src-en/data/blueprints.xml.append:10486
 msgid ""
@@ -5121,62 +5423,77 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10585
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/title"
-msgstr ""
+msgstr "Тяжелая ракетница \"Дебилитатум\""
 
 #: src-en/data/blueprints.xml.append:10586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/short"
-msgstr ""
+msgstr "Дебилитатум"
 
 #: src-en/data/blueprints.xml.append:10587
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/desc"
 msgstr ""
+"Это невероятное орудие запускает особую дрон-капсулу, которая прикрепляется "
+"к системам, нанося 3 ионных урона каждые 13с."
 
 #: src-en/data/blueprints.xml.append:10588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/title"
-msgstr ""
+msgstr "Аномальная ракетница \"Арнгрим\""
 
 #: src-en/data/blueprints.xml.append:10646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/short"
-msgstr ""
+msgstr "\"Арнгрим\""
 
 #: src-en/data/blueprints.xml.append:10647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/desc"
 msgstr ""
+"Это орудие запускает две ракеты, каждая из которых изолирует отсек и наносит "
+"большой урон био/системам. Высокий шанс вызвать пожар."
 
 #: src-en/data/blueprints.xml.append:10648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10695
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/title"
-msgstr ""
+msgstr "Миномет \"Ба-Пеф\""
 
 #: src-en/data/blueprints.xml.append:10696
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/short"
-msgstr ""
+msgstr "\"Ба-Пеф\""
 
 #: src-en/data/blueprints.xml.append:10697
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/desc"
 msgstr ""
+"Как и его тезка, миномет \"Террор\". Выпускает 5 мин по несколько меньшему "
+"радиусу, наносит 2х урон по отсекам без систем.\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 5 прыжков за 21 "
+"боеголовку."
 
 #: src-en/data/blueprints.xml.append:10701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/tooltip"
 msgstr ""
+">Как и его тезка, миномет \"Террор\". Выпускает 5 мин по несколько меньшему "
+"радиусу, наносит 2х урон по отсекам без систем.\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 5 прыжков за 21 "
+"боеголовку."
 
 #: src-en/data/blueprints.xml.append:10740
 msgid ""
@@ -5192,6 +5509,11 @@ msgstr "Натиск"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ROYAL_MINELAUNCHER\"]/desc"
 msgstr ""
+"Похоже, что минометы появились гораздо раньше, чем вы ожидали. Эта, похоже, "
+"намного сильнее своих современных собратьев.\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 2 прыжка за 6 "
+"боеголовок."
 
 #: src-en/data/blueprints.xml.append:10746
 msgid ""
@@ -5202,124 +5524,171 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/title"
-msgstr ""
+msgstr "Миномет \"Грязная бомба\""
 
 #: src-en/data/blueprints.xml.append:10785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/short"
-msgstr ""
+msgstr "Грязная бомба"
 
 #: src-en/data/blueprints.xml.append:10786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/desc"
 msgstr ""
+"Ужасающее оружие, сконструированное как одно из самых мощных орудий убийства "
+"из когда-либо созданных. Выпускает 5 \"грязных\" мин, которые наполняют "
+"отсеки токсичным газом на 20с.\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 4 прыжка за 15 "
+"боеголовок, но увеличивает общую дурную славу на 2. Вы псих."
 
 #: src-en/data/blueprints.xml.append:10790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/tooltip"
 msgstr ""
+"Ужасающее оружие, сконструированное как одно из самых мощных орудий убийства "
+"из когда-либо созданных. Выпускает 5 \"грязных\" мин, которые наполняют "
+"отсеки токсичным газом на 20с.\n"
+"\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 4 прыжка за 15 "
+"боеголовок, но увеличивает общую дурную славу на 2. Вы псих."
 
 #: src-en/data/blueprints.xml.append:10908
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE\"]/title"
-msgstr ""
+msgstr "Проект #7: Пылающий конец"
 
 #: src-en/data/blueprints.xml.append:10909
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE\"]/short"
-msgstr ""
+msgstr "Проект #7"
 
 #: src-en/data/blueprints.xml.append:10910
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE\"]/desc"
 msgstr ""
+"Чертежи этого орудия и его аналога, Проекта #22, были созданы ученой-"
+"кристаллином, посвятившим себя изучению способов убийства всех форм жизни в "
+"галактике. Сейчас ее уже нет в живых, но вы гордитесь тем, что продолжаете "
+"ее дело. В этом орудии используются обогащенный фтором кристаллы, для "
+"воспламенения ЛЮБОГО предмета."
 
 #: src-en/data/blueprints.xml.append:10911
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE\"]/tooltip"
 msgstr ""
+"Заставляет гореть все типы экипажей, даже валунов. Все члены экипажа "
+"получают 1.75х урон от огня и тушат пожары на 70% медленнее. Время действия "
+"15 секунд."
 
 #: src-en/data/blueprints.xml.append:10971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO\"]/title"
-msgstr ""
+msgstr "Проект #22: Безымянный"
 
 #: src-en/data/blueprints.xml.append:10972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO\"]/short"
-msgstr ""
+msgstr "Проект #22"
 
 #: src-en/data/blueprints.xml.append:10973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO\"]/desc"
 msgstr ""
+"Чертежи этого орудия и его аналога, Проекта #7, были созданы ученой-"
+"кристаллином, посвятившим себя изучению способов убийства всех форм жизни в "
+"галактике. Сейчас ее уже нет в живых, но вы гордитесь тем, что продолжаете "
+"ее дело. В этом случае используются нанокоррозийные кристаллы, стирающие ДНК "
+"цели."
 
 #: src-en/data/blueprints.xml.append:10974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO\"]/tooltip"
 msgstr ""
+"Эта бомба не позволяет экипажу, попавшему под удар, исцеляться в Медотсеке "
+"или возрождаться в Клон-отсеке. Время действия - 30 секунд. Отлично подходит "
+"для уничтожения экипажей кораблей с Клон-отсеком."
 
 #: src-en/data/blueprints.xml.append:11035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH\"]/title"
-msgstr ""
+msgstr "Компактификатор"
 
 #: src-en/data/blueprints.xml.append:11036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH\"]/short"
-msgstr ""
+msgstr "Компактификатор"
 
 #: src-en/data/blueprints.xml.append:11037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH\"]/desc"
-msgstr ""
+msgstr "Компактификатор АРОМАТ ЗДЕСЬ"
 
 #: src-en/data/blueprints.xml.append:11038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH\"]/tooltip"
-msgstr ""
+msgstr "Компактификатор АРОМАТ ЗДЕСЬ"
 
 #: src-en/data/blueprints.xml.append:11076
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/title"
-msgstr ""
+msgstr "Динамо Анкалагона"
 
 #: src-en/data/blueprints.xml.append:11077
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/short"
-msgstr ""
+msgstr "Динамо"
 
 #: src-en/data/blueprints.xml.append:11078
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/desc"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Похоже, что оно вырабатывает "
+"огромное количество энергии, способной напрямую поразить вражеский корабль. "
+"На ярлыке написано: \"Собственность подразделение Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:11079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/tooltip"
 msgstr ""
+"Орудие, созданное из металлов, которые вы не можете определить, и "
+"кристаллов, которые гудят с необычной силой. Похоже, что оно вырабатывает "
+"огромное количество энергии, способной напрямую поразить вражеский корабль. "
+"На ярлыке написано: \"Собственность подразделение Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:11096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:11140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_IMPRISMENT_INDUCER\"]/title"
-msgstr ""
+msgstr "Индуктор внушения"
 
 #: src-en/data/blueprints.xml.append:11141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_IMPRISMENT_INDUCER\"]/short"
-msgstr ""
+msgstr "Индуктор"
 
 #: src-en/data/blueprints.xml.append:11142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_IMPRISMENT_INDUCER\"]/desc"
 msgstr ""
+"Орудие, состоящее из излучателей твердого света и витиеватых кристаллических "
+"линз, способное сделать уязвимым для атаки даже самый выносливый экипаж. "
+"Заключает всех пораженных членов экипажа в кристаллическую тюрьму, где они "
+"получают 2x урона в бою с экипажем и огня. Однако орудие наносит только 1.3х "
+"урона, и пока экипаж находится в тюрьме, он не задыхается."
 
 #: src-en/data/blueprints.xml.append:11143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_IMPRISMENT_INDUCER\"]/tooltip"
 msgstr ""
+"Орудие, состоящее из излучателей твердого света и витиеватых кристаллических "
+"линз, способное сделать уязвимым для атаки даже самый выносливый экипаж. "
+"Заключает всех пораженных членов экипажа в кристаллическую тюрьму, где они "
+"получают 2x урона в бою с экипажем и огня. Однако орудие наносит только 1.3х "
+"урона, и пока экипаж находится в тюрьме, он не задыхается."
 
 #: src-en/data/blueprints.xml.append:11187
 msgid ""
@@ -5329,159 +5698,187 @@ msgstr "Василиск"
 #: src-en/data/blueprints.xml.append:11188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK\"]/short"
-msgstr ""
+msgstr "Василиск"
 
 #: src-en/data/blueprints.xml.append:11189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK\"]/desc"
 msgstr ""
+"Это причудливое биооружие было создано с помощью мутагенов, соединивших "
+"пиявку с зернометом. Надолго оглушает экипаж."
 
 #: src-en/data/blueprints.xml.append:11190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK\"]/tooltip"
 msgstr ""
+"Лучевое орудие, которое потребляет 2 энергии, которое оглушает вражеский "
+"экипаж, пробивает 2 щита и имеет небольшой шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:11228
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_BEAM_PLAYER\"]/title"
-msgstr ""
+msgstr "Боевой дрон \"Касай\" мод. II [Луч]"
 
 #: src-en/data/blueprints.xml.append:11229
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_BEAM_PLAYER\"]/short"
-msgstr ""
+msgstr "Касай II [Луч]"
 
 #: src-en/data/blueprints.xml.append:11230
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_BEAM_PLAYER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Создан Касаймииикором. Боевой переключаемый дрон, "
+"способный переключаться между лазерным и лучевым оружием. Двигается быстрее, "
+"чем обычный мод. II. Быстрый и яркий, как золтанский цирк!"
 
 #: src-en/data/blueprints.xml.append:11246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_LASER_PLAYER\"]/title"
-msgstr ""
+msgstr "Боевой дрон \"Касай\" мод. II [Лазер]"
 
 #: src-en/data/blueprints.xml.append:11247
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_LASER_PLAYER\"]/short"
-msgstr ""
+msgstr "Касай мод. II [Л]"
 
 #: src-en/data/blueprints.xml.append:11248
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_LASER_PLAYER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Создан Касаймииикором. Боевой переключаемый дрон, "
+"способный переключаться между лазерным и лучевым оружием. Двигается быстрее, "
+"чем обычный мод. II. Быстрый и яркий, как золтанский цирк!"
 
 #: src-en/data/blueprints.xml.append:11265
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_DEFENSE_3_MEGA\"]/title"
-msgstr ""
+msgstr "Защитный дрон \"Касай\" мод. III††"
 
 #: src-en/data/blueprints.xml.append:11266
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_DEFENSE_3_MEGA\"]/short"
-msgstr ""
+msgstr "Защ. Касай III††"
 
 #: src-en/data/blueprints.xml.append:11267
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_DEFENSE_3_MEGA\"]/desc"
 msgstr ""
+"Создан Касаймииикором. Защитный дрон, способный поражать цель лазерами или "
+"твердыми снарядами. Стреляет быстрее, чем обычный мод. III. Быстрый и яркий, "
+"как золтанский цирк!\n"
+"\t\t\tПерезарядка: 98 МС"
 
 #: src-en/data/blueprints.xml.append:11284
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_HACKER_DRONE\"]/title"
-msgstr ""
+msgstr "Дрон-хакер"
 
 #: src-en/data/blueprints.xml.append:11285
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_HACKER_DRONE\"]/short"
-msgstr ""
+msgstr "Дрон-хакер"
 
 #: src-en/data/blueprints.xml.append:11286
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_HACKER_DRONE\"]/desc"
 msgstr ""
+"Выпускает дрона-микрохакера. Автоматически взламывает отсек, в который "
+"попал, и оглушает находящиеся в нем врагов на 5 секунд."
 
 #: src-en/data/blueprints.xml.append:11303
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[5]/title"
-msgstr ""
+msgstr "Драконий дрон [Лазер]"
 
 #: src-en/data/blueprints.xml.append:11304
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[5]/short"
-msgstr ""
+msgstr "Дракон [Л]"
 
 #: src-en/data/blueprints.xml.append:11305
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[5]/desc"
-msgstr ""
+msgstr "ОГНЕМЕТНЫЙ ДРОН ЗДЕСЬ"
 
 #: src-en/data/blueprints.xml.append:11321
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_COMBAT_1_LASER\"]/title"
-msgstr ""
+msgstr "Боевой дрон Анкалагона мод. I [Лазер]"
 
 #: src-en/data/blueprints.xml.append:11322
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_COMBAT_1_LASER\"]/short"
-msgstr ""
+msgstr "Б. Анкал. I [Л]"
 
 #: src-en/data/blueprints.xml.append:11323
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_COMBAT_1_LASER\"]/desc"
 msgstr ""
+"Дрон, созданный из неизвестных вам металлов и кристаллов, которые гудят с "
+"необычайной силой. Этот стреляет парой мощных лазеров. На ярлыке написано: "
+"\"Собственность подразделения Анкалагон\"."
 
 #: src-en/data/blueprints.xml.append:11341
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_DEFENSE_3_LASER\"]/title"
-msgstr ""
+msgstr "Защитный дрон Анкалагона мод. I"
 
 #: src-en/data/blueprints.xml.append:11342
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_DEFENSE_3_LASER\"]/short"
-msgstr ""
+msgstr "Защ. Анкал. I"
 
 #: src-en/data/blueprints.xml.append:11343
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_DEFENSE_3_LASER\"]/desc"
 msgstr ""
+"Дрон, созданный из металлов, которые вы не можете определить, и кристаллов, "
+"которые гудят с необычной силой. Этот стреляет шквалом защитных снарядов. На "
+"ярлыке написано \"Собственность подразделения Анкалагон\".\n"
+"\t\t\tПерезарядка: 115 МС"
 
 #: src-en/data/blueprints.xml.append:11361
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_BEAM1\"]/title"
-msgstr ""
+msgstr "Энергетический боевой дрон мод. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:11362
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_BEAM1\"]/short"
-msgstr ""
+msgstr "Э. боев. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:11363
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_BEAM1\"]/desc"
 msgstr ""
+"Дрон, способный одновременно наносить ионный и корпусной урон. В настоящее "
+"время настроен на медленное перемещение и стрельбу энергетическим лучом."
 
 #: src-en/data/blueprints.xml.append:11379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_BEAM1_DRONE\"]/title"
-msgstr ""
+msgstr "Энергетический лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:11408
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_PINPOINT1\"]/title"
-msgstr ""
+msgstr "Энергетический боевой дрон мод. I [Точечный луч]"
 
 #: src-en/data/blueprints.xml.append:11409
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_PINPOINT1\"]/short"
-msgstr ""
+msgstr "Э. боев. I [Т]"
 
 #: src-en/data/blueprints.xml.append:11410
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ENERGY_COMBAT_PINPOINT1\"]/desc"
 msgstr ""
+"Дрон, способный одновременно наносить ионный и корпусной урон. В настоящее "
+"время настроен на быстрое перемещение и стрельбу энергетическими точечными "
+"лучами."
 
 #: src-en/data/blueprints.xml.append:11429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_PINPOINT1_DRONE\"]/title"
-msgstr ""
+msgstr "Энергетический точечный дрон"
 
 #: src-en/data/blueprints.xml.append:11458
 msgid ""
@@ -5491,12 +5888,14 @@ msgstr "\"Ликвидатор\" мод. II"
 #: src-en/data/blueprints.xml.append:11459
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBAT1\"]/short"
-msgstr ""
+msgstr "Ликвид. II"
 
 #: src-en/data/blueprints.xml.append:11460
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBAT1\"]/desc"
 msgstr ""
+"Мощный дрон, обладающий древним лучом, способный двигаться гораздо быстрее, "
+"чем ему, вероятно, следовало бы :)"
 
 #: src-en/data/blueprints.xml.append:11477
 msgid ""
@@ -5518,7 +5917,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11480
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_BEAM_2_DRONE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:11507
 msgid ""
@@ -5528,12 +5927,14 @@ msgstr "\"Ликвидатор\" мод. III"
 #: src-en/data/blueprints.xml.append:11508
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBAT2\"]/short"
-msgstr ""
+msgstr "Ликвид. III"
 
 #: src-en/data/blueprints.xml.append:11509
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBAT2\"]/desc"
 msgstr ""
+"Мощный дрон, обладающий древним лучом, способный двигаться гораздо быстрее, "
+"чем ему, вероятно, следовало бы :)"
 
 #: src-en/data/blueprints.xml.append:11526
 msgid ""
@@ -5555,22 +5956,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_BEAM_3_DRONE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:11556
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBATR\"]/title"
-msgstr ""
+msgstr "Дворянский ликвидатор мод. III"
 
 #: src-en/data/blueprints.xml.append:11557
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBATR\"]/short"
-msgstr ""
+msgstr "Д. ликв. III"
 
 #: src-en/data/blueprints.xml.append:11558
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBATR\"]/desc"
 msgstr ""
+"Мощный дрон, обладающий древним лучом и способный двигаться гораздо быстрее, "
+"чем следовало бы, теперь в розовом цвете! :)"
 
 #: src-en/data/blueprints.xml.append:11575
 msgid ""
@@ -5592,21 +5995,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11578
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ROYAL_BEAM_3_DRONE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:11615
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AMBER_DRONE\"]/title"
-msgstr ""
+msgstr "Янтарный дрон"
 
 #: src-en/data/blueprints.xml.append:11616
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AMBER_DRONE\"]/short"
-msgstr ""
+msgstr "Янт. дрон"
 
 #: src-en/data/blueprints.xml.append:11617
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AMBER_DRONE\"]/desc"
 msgstr ""
+"Дрон, способный как поджигать, так и изолировать отсеки своими снарядами."
 
 #: src-en/data/blueprints.xml.append:11631
 msgid ""
@@ -5622,21 +6026,25 @@ msgstr "Янтарь"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AMBER_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Выпускает 1 тяжелый и взрывоопасный кристаллический осколок, который "
+"пробивает 1 слой щита, изолирует отсеки и создает пожары."
 
 #: src-en/data/blueprints.xml.append:11673
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CRYSTAL_DRONE\"]/title"
-msgstr ""
+msgstr "Кристаллический боевой дрон"
 
 #: src-en/data/blueprints.xml.append:11674
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CRYSTAL_DRONE\"]/short"
-msgstr ""
+msgstr "Кр. боев. дрон"
 
 #: src-en/data/blueprints.xml.append:11675
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CRYSTAL_DRONE\"]/desc"
 msgstr ""
+"Этот дрон обладает мощным арсеналом, выпуская при каждом выстреле поток "
+"разрушительных кристаллов."
 
 #: src-en/data/blueprints.xml.append:11690
 msgid ""
@@ -5646,7 +6054,7 @@ msgstr "Осколочный кристалл"
 #: src-en/data/blueprints.xml.append:11691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Оскол. крист."
 
 #: src-en/data/blueprints.xml.append:11692
 msgid ""
@@ -5692,15 +6100,17 @@ msgstr "К.У.Р.А."
 
 #: src-en/data/blueprints.xml.append:11813
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/title"
-msgstr ""
+msgstr "Огнеметный дрон \"Дажьбог\""
 
 #: src-en/data/blueprints.xml.append:11814
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/short"
-msgstr ""
+msgstr "Д. \"Дажьбог\""
 
 #: src-en/data/blueprints.xml.append:11815
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/desc"
 msgstr ""
+"Этот дрон быстро испепелит вражеский корабль, при условии, что у него нету "
+"щитов, способных его остановить."
 
 #: src-en/data/blueprints.xml.append:11829
 msgid ""
@@ -5725,228 +6135,250 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11914
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FORGEMAN_DRONE\"]/title"
-msgstr ""
+msgstr "Боевой дрон Кузнеца"
 
 #: src-en/data/blueprints.xml.append:11915
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FORGEMAN_DRONE\"]/short"
-msgstr ""
+msgstr "Боев. д. Кузнеца"
 
 #: src-en/data/blueprints.xml.append:11916
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FORGEMAN_DRONE\"]/desc"
 msgstr ""
+"Дрон, созданный по подобию собственного корабля Кузнеца. Его уникальная "
+"обшивка делает его неуязвимым для защитных дронов. Эта версия, похоже, "
+"вооружена одним из лучших лучей Кузнеца."
 
 #: src-en/data/blueprints.xml.append:11930
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Луч \"Валефор\""
 
 #: src-en/data/blueprints.xml.append:11931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Луч Валефор"
 
 #: src-en/data/blueprints.xml.append:11932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Сильно нагревает воздух, создавая многочисленные взрывы, когда проносится "
+"над вражеским кораблем! Взрывы наносят урон всем членам экипажа, находящимся "
+"в отсеке. Взрывы также наносят урон корпусу, системе и экипажу."
 
 #: src-en/data/blueprints.xml.append:11983
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ISHIMURA_DRONE\"]/title"
-msgstr ""
+msgstr "Лучевой дрон \"Ишимура\""
 
 #: src-en/data/blueprints.xml.append:11984
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ISHIMURA_DRONE\"]/short"
-msgstr ""
+msgstr "Д. Ишимура"
 
 #: src-en/data/blueprints.xml.append:11985
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ISHIMURA_DRONE\"]/desc"
 msgstr ""
+"Тяжелый дрон с еще более тяжелым горным оборудованием, перепрофилированный "
+"для уничтожения всех врагов, которые имеют глупость встать на его пути."
 
 #: src-en/data/blueprints.xml.append:11999
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ISHIMURA_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Луч \"Ишимура\""
 
 #: src-en/data/blueprints.xml.append:12000
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ISHIMURA_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Луч Ишимура"
 
 #: src-en/data/blueprints.xml.append:12001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ISHIMURA_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Ходили слухи о новом прототипе шахтного лазера \"Зульфикар разрушителя "
+"планет\", созданном компанией \"Зульфикар Индастриз\" и предназначенном для "
+"разрушения целых планет. Похоже, это были не слухи."
 
 #: src-en/data/blueprints.xml.append:12028
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_KESTREL_DRONE\"]/title"
-msgstr ""
+msgstr "Боевой дрон \"Пустельга\""
 
 #: src-en/data/blueprints.xml.append:12029
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_KESTREL_DRONE\"]/short"
-msgstr ""
+msgstr "Б. др. Пустельга"
 
 #: src-en/data/blueprints.xml.append:12030
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_KESTREL_DRONE\"]/desc"
-msgstr ""
+msgstr "Как и подобает боевому дрону, он обстреливает цель очередью лазеров."
 
 #: src-en/data/blueprints.xml.append:12044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_KESTREL_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Лазерный рассеивающий дрон \"Пустельга\""
 
 #: src-en/data/blueprints.xml.append:12045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_KESTREL_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Расс. др. Пуст."
 
 #: src-en/data/blueprints.xml.append:12046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_KESTREL_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Стреляет шквалом лазеров."
 
 #: src-en/data/blueprints.xml.append:12084
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_KESTREL_DRONE\"]/title"
-msgstr ""
+msgstr "Боевой дрон МФК \"Пустельга\""
 
 #: src-en/data/blueprints.xml.append:12085
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_KESTREL_DRONE\"]/short"
-msgstr ""
+msgstr "Б. МФК Пуст."
 
 #: src-en/data/blueprints.xml.append:12086
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_KESTREL_DRONE\"]/desc"
-msgstr ""
+msgstr "Этот дрон выпускает по цели несколько легких лазеров."
 
 #: src-en/data/blueprints.xml.append:12100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_KESTREL_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Рассеивающий лучевой дрон МФК \"Пустельга\""
 
 #: src-en/data/blueprints.xml.append:12101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_KESTREL_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Расс. МФК Пуст."
 
 #: src-en/data/blueprints.xml.append:12102
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_KESTREL_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Стреляет шквалом легких лазеров."
 
 #: src-en/data/blueprints.xml.append:12143
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_PICKET_DRONE\"]/title"
-msgstr ""
+msgstr "Телепортационный ретрансляционный дрон МФК \"Пикет\""
 
 #: src-en/data/blueprints.xml.append:12144
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_PICKET_DRONE\"]/short"
-msgstr ""
+msgstr "Тел. рет. МФК"
 
 #: src-en/data/blueprints.xml.append:12145
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_PICKET_DRONE\"]/desc"
 msgstr ""
+"Этот дрон будет постоянно брать на абордаж вражеский корабль с помощью "
+"высококвалифицированных солдат, но не сможет пробиться через любые щиты."
 
 #: src-en/data/blueprints.xml.append:12160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_PICKET_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Пусковой абордажный дрон \"Пикет\""
 
 #: src-en/data/blueprints.xml.append:12161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_PICKET_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Пуск. аборд. др."
 
 #: src-en/data/blueprints.xml.append:12162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MFK_PICKET_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Абордажное оружие."
 
 #: src-en/data/blueprints.xml.append:12210
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/title"
-msgstr ""
+msgstr "Боевой дрон \"Сирена\""
 
 #: src-en/data/blueprints.xml.append:12211
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/short"
-msgstr ""
+msgstr "Дрон Сирена"
 
 #: src-en/data/blueprints.xml.append:12212
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/desc"
 msgstr ""
+"Этот дрон быстро ионизирует вражеские щиты и может надолго оглушить экипаж."
 
 #: src-en/data/blueprints.xml.append:12226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SIREN_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Оглушающий излучатель"
 
 #: src-en/data/blueprints.xml.append:12227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SIREN_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Огл. излуч."
 
 #: src-en/data/blueprints.xml.append:12228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SIREN_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Оглушает пораженный экипаж на долгое время и наносит ионный урон."
 
 #: src-en/data/blueprints.xml.append:12266
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_BEAM_HULLNT\"]/title"
-msgstr ""
+msgstr "Ремонтный лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:12267
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_BEAM_HULLNT\"]/short"
-msgstr ""
+msgstr "Рем. луч. др."
 
 #: src-en/data/blueprints.xml.append:12268
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_BEAM_HULLNT\"]/desc"
 msgstr ""
+"Восстанавливает структурную целостность вражеского корабля и наносит урон "
+"экипажу, чтобы легче было его убивать."
 
 #: src-en/data/blueprints.xml.append:12282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PRO_HULL_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Луч \"Ишимура\""
 
 #: src-en/data/blueprints.xml.append:12283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PRO_HULL_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Луч Ишимура"
 
 #: src-en/data/blueprints.xml.append:12284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PRO_HULL_DRONE_WEAPON\"]/desc"
-msgstr ""
+msgstr "Оружие для ремонтного дрона"
 
 #: src-en/data/blueprints.xml.append:12312
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/title"
-msgstr ""
+msgstr "Артиллерия \"Амальгама\""
 
 #: src-en/data/blueprints.xml.append:12313
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/short"
-msgstr ""
+msgstr "Амальгама"
 
 #: src-en/data/blueprints.xml.append:12314
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/desc"
 msgstr ""
+"Очень редкая пушка, устанавливаемая на корабль, хотя ее и не видно под всем "
+"этим оружием. Накладывает 20 различных случайных эффектов. Интересно, какой "
+"безумец мог создать такое?"
 
 #: src-en/data/blueprints.xml.append:12315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/tooltip"
 msgstr ""
+"Очень редкая пушка, устанавливаемая на корабль, хотя ее и не видно под всем "
+"этим оружием. Накладывает 20 различных случайных эффектов. Интересно, какой "
+"безумец мог создать такое?"
 
 #: src-en/data/blueprints.xml.append:12397
 msgid ""
@@ -5970,29 +6402,35 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_INVIS\"]/tooltip"
 msgstr ""
-"Очень редкая пушка, применяемая на корабле, хотя под всем этим вооружением "
-"его не видно. Наносит 20 различных случайных эффектов. Кто знает, какой "
-"безумец мог создать нечто подобное?"
+"Очень редкая пушка, устанавливаемая на корабль, хотя ее и не видно под всем "
+"этим оружием. Накладывает 20 различных случайных эффектов. Интересно, какой "
+"безумец мог создать такое?"
 
 #: src-en/data/blueprints.xml.append:12497
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_INVIS\"]/title"
-msgstr ""
+msgstr "Индуктор разломов \"Прощение\""
 
 #: src-en/data/blueprints.xml.append:12498
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_INVIS\"]/short"
-msgstr ""
+msgstr "Прощение"
 
 #: src-en/data/blueprints.xml.append:12499
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_INVIS\"]/desc"
 msgstr ""
+"Лаборатория, в которой она была создана, была уничтожена в результате "
+"загадочной аварии, но чертежи уцелели. Выпускает разумные штормы ионного "
+"разрушения при попадании, пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:12500
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_INVIS\"]/tooltip"
 msgstr ""
+"Лаборатория, в которой она была создана, была уничтожена в результате "
+"загадочной аварии, но чертежи уцелели. Выпускает разумные штормы ионного "
+"разрушения при попадании, пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:12521
 msgid ""
@@ -6085,7 +6523,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 13] Ионное оружие может выводить из строя системы, не "
-"нанося повреждений корпусу. Это орудие поджигает пораженные отсеки."
+"нанося урона корпусу. Это орудие поджигает пораженные отсеки."
 
 #: src-en/data/blueprints.xml.append:12720
 msgid ""
@@ -6102,7 +6540,7 @@ msgstr "Ионная бомба"
 #: src-en/data/blueprints.xml.append:12763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ARTY\"]/short"
-msgstr ""
+msgstr "Ион. бомба"
 
 #: src-en/data/blueprints.xml.append:12765
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ARTY\"]/desc"
@@ -6142,22 +6580,25 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12834
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_TOGGLE_FIRE_INVIS\"]/title"
-msgstr ""
+msgstr "Переключаемая осколочная пушка [З]"
 
 #: src-en/data/blueprints.xml.append:12835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_TOGGLE_FIRE_INVIS\"]/short"
-msgstr ""
+msgstr "Пер. оск. [З]"
 
 #: src-en/data/blueprints.xml.append:12837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_TOGGLE_FIRE_INVIS\"]/desc"
 msgstr ""
+"Особая осколочная пушка, выпускающая 7 снарядов, каждый из которых всегда "
+"вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:12838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_TOGGLE_FIRE_INVIS\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 7 единиц урона."
 
 #: src-en/data/blueprints.xml.append:12880
 msgid ""
@@ -6226,7 +6667,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_PLAYER_ARTY\"]/tooltip"
-msgstr "С каждым выстрелом перезарядка уменьшается."
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:13025
 msgid ""
@@ -6265,111 +6706,143 @@ msgstr "Залповый"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE\"]/tooltip"
 msgstr ""
+"1 урон 4 выстрела заряжаемого оружия, 85% шанс не использовать боеприпасы, "
+"10% шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13107
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_CASELESS\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Беспатронный]"
 
 #: src-en/data/blueprints.xml.append:13108
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_CASELESS\"]/short"
-msgstr ""
+msgstr "Митрал. [Бесп.]"
 
 #: src-en/data/blueprints.xml.append:13109
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_CASELESS\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13110
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_CASELESS\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HV\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Высокая скорость]"
 
 #: src-en/data/blueprints.xml.append:13147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HV\"]/short"
-msgstr ""
+msgstr "Митрал. [ВС]"
 
 #: src-en/data/blueprints.xml.append:13148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HV\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HV\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FREE\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Переработчик]"
 
 #: src-en/data/blueprints.xml.append:13188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FREE\"]/short"
-msgstr ""
+msgstr "Митрал. [Пер.]"
 
 #: src-en/data/blueprints.xml.append:13189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FREE\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FREE\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HE\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Сотрясение]"
 
 #: src-en/data/blueprints.xml.append:13227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HE\"]/short"
-msgstr ""
+msgstr "Митрал. [Сотр.]"
 
 #: src-en/data/blueprints.xml.append:13228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HE\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13229
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HE\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [ЭМИ]"
 
 #: src-en/data/blueprints.xml.append:13287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/short"
-msgstr ""
+msgstr "Митрал. [ЭМИ]"
 
 #: src-en/data/blueprints.xml.append:13288
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел, 1 урон, 77% шанс не использовать боеприпасы, 10% шанс "
+"создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13309
 msgid ""
@@ -6392,112 +6865,138 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13367
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HEAT\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Частицы]"
 
 #: src-en/data/blueprints.xml.append:13368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HEAT\"]/short"
-msgstr ""
+msgstr "Митрал. [Част.]"
 
 #: src-en/data/blueprints.xml.append:13369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HEAT\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HEAT\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_INCENDIARY\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Зажигание]"
 
 #: src-en/data/blueprints.xml.append:13408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_INCENDIARY\"]/short"
-msgstr ""
+msgstr "Митрал. [З]"
 
 #: src-en/data/blueprints.xml.append:13409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_INCENDIARY\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_INCENDIARY\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FLECHETTE\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Снаряды]"
 
 #: src-en/data/blueprints.xml.append:13447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FLECHETTE\"]/short"
-msgstr ""
+msgstr "Митрал. [С]"
 
 #: src-en/data/blueprints.xml.append:13448
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FLECHETTE\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах на энергию."
 
 #: src-en/data/blueprints.xml.append:13449
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_FLECHETTE\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_RAD\"]/title"
-msgstr ""
+msgstr "Пробивная митральеза [Рад]"
 
 #: src-en/data/blueprints.xml.append:13503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_RAD\"]/short"
-msgstr ""
+msgstr "Митрал. [Рад]"
 
 #: src-en/data/blueprints.xml.append:13504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_RAD\"]/desc"
 msgstr ""
+"Попытка вдохнуть новую жизнь в устаревшее оборудование. Это орудие состоит "
+"из нескольких легких автопушек, позволяющих вести огонь залпом до 4 "
+"выстрелов при очень низких затратах энергии. (Для победы: Военные "
+"преступления!)"
 
 #: src-en/data/blueprints.xml.append:13505
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_RAD\"]/tooltip"
 msgstr ""
+"Оружие. 1 выстрел и 1 ионный урон, 85% шанс не использовать боеприпасы, 10% "
+"шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:13554
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/title"
-msgstr ""
+msgstr "Клонопушка Рипли [Шеф]†"
 
 #: src-en/data/blueprints.xml.append:13555
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/short"
-msgstr ""
+msgstr "Кл. Рипли [Ш]†"
 
 #: src-en/data/blueprints.xml.append:13557
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/desc"
 msgstr ""
+"Ни одно орудие не вызывало более серьезных этических разногласий, но если "
+"оно работает, значит, работает. Почему установка вызывает пожары? Ирония "
+"судьбы. Наносит урон корпусу и имеет большой шанс вызвать пожар. Из-за "
+"особой конфигурации его нельзя модифицировать."
 
 #: src-en/data/blueprints.xml.append:13558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:13616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/title"
-msgstr ""
+msgstr "Клонопушка Рипли [Симб]†"
 
 #: src-en/data/blueprints.xml.append:13617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/short"
-msgstr ""
+msgstr "Клон. Рипли [С]†"
 
 #: src-en/data/blueprints.xml.append:13619
 msgid ""
@@ -6510,36 +7009,45 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/tooltip"
 msgstr ""
+"Ни одно орудие не вызывало больших этических разногласий, но если оно "
+"работает, значит, работает. По крайней мере, теперь жизнь вашего симбионта "
+"будет чуть менее несчастной, чем раньше. Наносит ионный урон с большим "
+"шансом создать пробоину."
 
 #: src-en/data/blueprints.xml.append:13680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI\"]/title"
-msgstr ""
+msgstr "Плазменная пушка \"Кай\" мод. I"
 
 #: src-en/data/blueprints.xml.append:13681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI\"]/short"
-msgstr ""
+msgstr "Плаз. Кай I"
 
 #: src-en/data/blueprints.xml.append:13683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI\"]/desc"
 msgstr ""
+"Это необычное орудие выпускает болты плазмы, наносящие урон как ионам, так и "
+"системам. При попадании может даже повредить щиты. Особая конфигурация не "
+"позволяет модифицировать его."
 
 #: src-en/data/blueprints.xml.append:13684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносит 2 урона с низким шансом поджога и создать "
+"пробоину."
 
 #: src-en/data/blueprints.xml.append:13720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI2\"]/title"
-msgstr ""
+msgstr "Плазменная пушка \"Кай\" мод. I"
 
 #: src-en/data/blueprints.xml.append:13721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI2\"]/short"
-msgstr ""
+msgstr "Плаз. Кай I"
 
 #: src-en/data/blueprints.xml.append:13723
 msgid ""
@@ -6552,86 +7060,105 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI2\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносит 2 урона с низким шансом поджога и создать "
+"пробоину."
 
 #: src-en/data/blueprints.xml.append:13762
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_1\"]/title"
-msgstr ""
+msgstr "Коррозионный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:13763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_1\"]/short"
-msgstr ""
+msgstr "Корроз. лаз. I"
 
 #: src-en/data/blueprints.xml.append:13765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_1\"]/desc"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_1\"]/tooltip"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_2\"]/title"
-msgstr ""
+msgstr "Коррозионный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:13819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_2\"]/short"
-msgstr ""
+msgstr "Корроз. лаз. II"
 
 #: src-en/data/blueprints.xml.append:13821
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_2\"]/desc"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_2\"]/tooltip"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13873
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_3\"]/title"
-msgstr ""
+msgstr "Коррозионный лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:13874
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_3\"]/short"
-msgstr ""
+msgstr "Корроз. лаз. III"
 
 #: src-en/data/blueprints.xml.append:13876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_3\"]/desc"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CORROSIVE_3\"]/tooltip"
 msgstr ""
+"Этот шедевр науки, благодаря упорным трудам расы ракушек наделяют лазеры "
+"особым свойством, вызывающим коррозию у пораженных членов экипажа."
 
 #: src-en/data/blueprints.xml.append:13938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Импульсный аномальный лазер \"ТЛАЛОК\""
 
 #: src-en/data/blueprints.xml.append:13939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/short"
-msgstr ""
+msgstr "\"ТЛАЛОК\""
 
 #: src-en/data/blueprints.xml.append:13940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/desc"
 msgstr ""
+"Оказывается, охлаждение радиоактивных лазерных снарядов до абсолютного нуля "
+"создает довольно странные пространственные аномалии! И мы на основе этой "
+"технологии собрали для вас орудие!"
 
 #: src-en/data/blueprints.xml.append:13941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/tooltip"
 msgstr ""
+"Аномальный лазер, выпускает 2 заряда, наносит 1 системный урон, пробивает 3 "
+"щита. Накладывает множество вспомогательных эффектов."
 
 #: src-en/data/blueprints.xml.append:13982
 msgid ""
@@ -6663,37 +7190,48 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/title"
-msgstr ""
+msgstr "\"Расщепитель\""
 
 #: src-en/data/blueprints.xml.append:14053
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Расщепитель\""
 
 #: src-en/data/blueprints.xml.append:14055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/desc"
 msgstr ""
+"Оригинальные чертежи этого орудия были созданы недовольным ракушкой-Ученым, "
+"который хотел, чтобы все испытали те муки, которые он испытывал в момент "
+"удушья. Энергия этого фазового орудия насыщена анаэробными микробами, "
+"которые прикрепляются к существам и высасывают кислород, разъедая тела, что "
+"приводит к удушью."
 
 #: src-en/data/blueprints.xml.append:14056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает пронзающий заряд ионного лазера, от которого попавшие под его "
+"действие члены экипажа задыхаются, получают 3х урона от удушья и очень "
+"медленно истощают кислород в отсеке."
 
 #: src-en/data/blueprints.xml.append:14122
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_ENEMY\"]/title"
-msgstr ""
+msgstr "Фотонный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:14123
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_ENEMY\"]/short"
-msgstr ""
+msgstr "Фотон I"
 
 #: src-en/data/blueprints.xml.append:14124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_ENEMY\"]/desc"
 msgstr ""
+"Выпускает фотонный взрыв, который может разрушать щиты, как обычные лазеры, "
+"но наносит только системный урон с низким шансом вызвать пожар. Корабль "
+"должен быть близок к разрушению, чтобы это могло его уничтожить."
 
 #: src-en/data/blueprints.xml.append:14125
 msgid ""
@@ -6703,17 +7241,20 @@ msgstr "Тест"
 #: src-en/data/blueprints.xml.append:14181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Фотонный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:14182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Фотон II"
 
 #: src-en/data/blueprints.xml.append:14183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2_ENEMY\"]/desc"
 msgstr ""
+"Выпускает фотонный заряд, который может разрушать щиты, как обычные лазеры, "
+"но наносит только системный урон с низким шансом вызвать пожар. Корабль "
+"должен быть близок к разрушению, чтобы это могло его уничтожить."
 
 #: src-en/data/blueprints.xml.append:14184
 msgid ""
@@ -6723,17 +7264,17 @@ msgstr "Тест"
 #: src-en/data/blueprints.xml.append:14240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/title"
-msgstr ""
+msgstr "\"Потрошитель повстанцев\""
 
 #: src-en/data/blueprints.xml.append:14241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/short"
-msgstr ""
+msgstr "П. повст."
 
 #: src-en/data/blueprints.xml.append:14242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/desc"
-msgstr ""
+msgstr "Любимое орудие Коалиции. Отлично убивает человеческих выродков."
 
 #: src-en/data/blueprints.xml.append:14243
 msgid ""
@@ -6743,47 +7284,56 @@ msgstr "Тест"
 #: src-en/data/blueprints.xml.append:14320
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/title"
-msgstr ""
+msgstr "Индуктор разломов \"Прощение\""
 
 #: src-en/data/blueprints.xml.append:14321
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/short"
-msgstr ""
+msgstr "Прощение"
 
 #: src-en/data/blueprints.xml.append:14322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/desc"
 msgstr ""
+"Лаборатория, в которой она была создана, была уничтожена в результате "
+"загадочной аварии, но чертежи уцелели. Выпускает разумные штормы ионного "
+"разрушения при попадании, пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:14323
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/tooltip"
 msgstr ""
+"Аномальный лазер, выпускает 2 заряда, наносит 1 системный урон, пробивает 3 "
+"щита. Накладывает множество вспомогательных эффектов."
 
 #: src-en/data/blueprints.xml.append:14346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/spawnCrew/name"
-msgstr ""
+msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:14391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/title"
-msgstr ""
+msgstr "Ионная пушка \"Цербер\""
 
 #: src-en/data/blueprints.xml.append:14392
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/short"
-msgstr ""
+msgstr "Цербер"
 
 #: src-en/data/blueprints.xml.append:14394
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/desc"
 msgstr ""
+"Для кровожадного золтана внутри каждого из нас. Три-ион с зажигательным "
+"усилителем. Заметно быстрее заряжается."
 
 #: src-en/data/blueprints.xml.append:14395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон. Может поразить и вывести из "
+"строя щиты, а также системы."
 
 #: src-en/data/blueprints.xml.append:14440
 msgid ""
@@ -6793,7 +7343,7 @@ msgstr "Дисковая пусковая установка \"ТАРАНИС\""
 #: src-en/data/blueprints.xml.append:14441
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/short"
-msgstr ""
+msgstr "\"ТАРАНИС\""
 
 #: src-en/data/blueprints.xml.append:14443
 msgid ""
@@ -6807,291 +7357,352 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает пронзающий заряд, наносящий урон ионами, системе и корпусу. "
+"Бойтесь его. И оглушение тоже!"
 
 #: src-en/data/blueprints.xml.append:14484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/title"
-msgstr ""
+msgstr "Гатлинг-ион \"Веста\""
 
 #: src-en/data/blueprints.xml.append:14485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Веста\""
 
 #: src-en/data/blueprints.xml.append:14487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/desc"
 msgstr ""
+"Конечно, можно просто убить их обычным Вулканом... но что, если заставить их "
+"СТРАДАТЬ?"
 
 #: src-en/data/blueprints.xml.append:14488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:14539
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Ушная ложка\""
 
 #: src-en/data/blueprints.xml.append:14540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE_ENEMY\"]/short"
-msgstr ""
+msgstr "Луч Уш. ложка"
 
 #: src-en/data/blueprints.xml.append:14541
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE_ENEMY\"]/desc"
 msgstr ""
+"Улей придумал это орудие, найдя книгу по истории человечества и перебирая "
+"странные названия. Это название позабавило их больше всего.\n"
+"\t\t\tОднако луч не слишком смешон, когда ваш экипаж сгорает заживо."
 
 #: src-en/data/blueprints.xml.append:14544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Создает пожары и наносит 3 системных урона за отсек. Пробивает 3 щита"
 
 #: src-en/data/blueprints.xml.append:14571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Ишимура\""
 
 #: src-en/data/blueprints.xml.append:14572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Луч Ишимура"
 
 #: src-en/data/blueprints.xml.append:14573
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/desc"
 msgstr ""
+"Ходили слухи о новом прототипе шахтного лазера \"Зульфикар разрушителя "
+"планет\", созданном компанией \"Зульфикар Индастриз\" и предназначенном для "
+"разрушения целых планет. Похоже, это были не слухи."
 
 #: src-en/data/blueprints.xml.append:14574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие, 2 урона корпусу, 3 урона системе за отсек."
 
 #: src-en/data/blueprints.xml.append:14598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Менавла\""
 
 #: src-en/data/blueprints.xml.append:14599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_ENEMY\"]/short"
-msgstr ""
+msgstr "Менавла"
 
 #: src-en/data/blueprints.xml.append:14600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_ENEMY\"]/desc"
 msgstr ""
+"Когда Гильдия заявила, что создает луч, который убивает так быстро, что это "
+"будет законно, потому что никто не доживет до того, чтобы сообщить об "
+"этом... Они не шутили."
 
 #: src-en/data/blueprints.xml.append:14601
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_ENEMY\"]/tooltip"
 msgstr ""
+"Лучевое орудие мощностью 4 единицы энергии, наносящее огромный урон "
+"вражескому экипажу. Крайне дорогое, но отлично подходит для уничтожения "
+"экипажа."
 
 #: src-en/data/blueprints.xml.append:14635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Валефор\""
 
 #: src-en/data/blueprints.xml.append:14636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/short"
-msgstr ""
+msgstr "Луч Валефор"
 
 #: src-en/data/blueprints.xml.append:14637
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/desc"
 msgstr ""
+"Сильно нагревает воздух, создавая многочисленные взрывы, когда проносится "
+"над вражеским кораблем!"
 
 #: src-en/data/blueprints.xml.append:14638
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "ВЗРЫВВВВ"
 
 #: src-en/data/blueprints.xml.append:14681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Контос\""
 
 #: src-en/data/blueprints.xml.append:14682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Контос\""
 
 #: src-en/data/blueprints.xml.append:14683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/desc"
 msgstr ""
+"Выпускает поток альфа-частиц, разрушающих щит. Наносит ионный урон каждой "
+"плитке в отсеке."
 
 #: src-en/data/blueprints.xml.append:14748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. I"
 
 #: src-en/data/blueprints.xml.append:14749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:14750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. II"
 
 #: src-en/data/blueprints.xml.append:14777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:14778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. III"
 
 #: src-en/data/blueprints.xml.append:14804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:14805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14806
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/tooltip"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. IV"
 
 #: src-en/data/blueprints.xml.append:14831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4_ENEMY\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:14832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4_ENEMY\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14857
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Паразониум\" мод. V"
 
 #: src-en/data/blueprints.xml.append:14858
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5_ENEMY\"]/short"
-msgstr ""
+msgstr "Паразониум"
 
 #: src-en/data/blueprints.xml.append:14859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5_ENEMY\"]/desc"
 msgstr ""
+"Улучшенный луч, использующий для стрельбы боеголовки, хранящиеся в "
+"охлаждающей жидкости вашего корабля. Может быть перекалиброван, чтобы "
+"вытягивать охлаждающую жидкость из большего количества боеголовок!"
 
 #: src-en/data/blueprints.xml.append:14885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Эбони\""
 
 #: src-en/data/blueprints.xml.append:14886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Эбони\""
 
 #: src-en/data/blueprints.xml.append:14887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1_ENEMY\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 2 ионных урона при попадании в отсек и "
+"заряжается быстрее, чем \"Дирк\". Может вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:14888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:14917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Болиголов\""
 
 #: src-en/data/blueprints.xml.append:14918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Болиголов\""
 
 #: src-en/data/blueprints.xml.append:14919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_ENEMY\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 3 ионных урона при попадании в отсек, оглушает "
+"всех членов экипажа в отсеке и заряжается быстрее, чем \"Мизерикорд\". Может "
+"вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:14920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:14949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3_ENEMY\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Зеленое сердце\""
 
 #: src-en/data/blueprints.xml.append:14950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3_ENEMY\"]/short"
-msgstr ""
+msgstr "Зеленое сердце"
 
 #: src-en/data/blueprints.xml.append:14951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3_ENEMY\"]/desc"
 msgstr ""
+"Комбинация энергетической технологии и технологии точечного луча. Не наносит "
+"системного урона, но наносит 4 ионных урона при попадании в отсек, оглушает "
+"всех членов экипажа в отсеке и заряжается быстрее, чем \"Стилет\". Может "
+"вызывать пожары."
 
 #: src-en/data/blueprints.xml.append:14952
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:14983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/title"
-msgstr ""
+msgstr "Рассеиватель аномалий \"ХЕЙМОН\""
 
 #: src-en/data/blueprints.xml.append:14984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/short"
-msgstr ""
+msgstr "\"ХЕЙМОН\""
 
 #: src-en/data/blueprints.xml.append:14985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/desc"
 msgstr ""
+"Используя технологию Морозного лазера для охлаждения радиоактивного "
+"космического мусора до абсолютного нуля, ткань пространства-времени можно "
+"дестабилизировать для вашего удобства в виде легко выстреливаемых болтов."
 
 #: src-en/data/blueprints.xml.append:14986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/tooltip"
 msgstr ""
+"Болты наносят 1 системный урон, пробивают 3 щита, изолируют и имеют шанс "
+"поджечь или создать пробоину в любом отсеке. Обрушивает хаос на вражеский "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:15029
 msgid ""
@@ -7106,222 +7717,252 @@ msgstr "Эфир. оск."
 #: src-en/data/blueprints.xml.append:15032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER_ENEMY\"]/desc"
-msgstr ""
+msgstr "ДРЕВНЯЯ ОСКОЛОЧНАЯ ПУШКА АРОМАТ ЗДЕСЬ"
 
 #: src-en/data/blueprints.xml.append:15078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/title"
-msgstr ""
+msgstr "Бронзовая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/short"
-msgstr ""
+msgstr "Бронз. оск."
 
 #: src-en/data/blueprints.xml.append:15080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/desc"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Индиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Индиум. оск."
 
 #: src-en/data/blueprints.xml.append:15127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_ENEMY\"]/desc"
 msgstr ""
+"Более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, вы могли бы сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:15171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Рениумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Рениум. оск."
 
 #: src-en/data/blueprints.xml.append:15173
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Может быть, можно сделать ее еще "
+"тяжелее?"
 
 #: src-en/data/blueprints.xml.append:15174
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/title"
-msgstr ""
+msgstr "Серебряная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/short"
-msgstr ""
+msgstr "Сереб. оск."
 
 #: src-en/data/blueprints.xml.append:15220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/desc"
 msgstr ""
+"Еще более тяжелая металлическая осколочная пушка, пропитанная кристаллами, "
+"стреляющая дополнительными снарядами. Возможно, вы могли бы сделать ее еще "
+"более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15221
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Палладиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Паллад. оск."
 
 #: src-en/data/blueprints.xml.append:15268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Поднимать ее становится все труднее. Но это вас не остановит."
 
 #: src-en/data/blueprints.xml.append:15313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Иридиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Иридиум. оск."
 
 #: src-en/data/blueprints.xml.append:15315
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/desc"
 msgstr ""
+"Ваш экипаж громко стонет, когда вы пытаетесь ее установить. Даже в условиях "
+"космоса перемещение этой штуки практически невозможно из-за ее чудовищной "
+"массы."
 
 #: src-en/data/blueprints.xml.append:15316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Платиновая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15361
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Платин. оск."
 
 #: src-en/data/blueprints.xml.append:15362
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:15363
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Вы уверены, что это самое тяжелое оружие из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:15407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Осмианская осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Осмиан. оск."
 
 #: src-en/data/blueprints.xml.append:15409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Нет, нашлось еще более тяжелое."
 
 #: src-en/data/blueprints.xml.append:15410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Нобелиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Нобел. оск."
 
 #: src-en/data/blueprints.xml.append:15456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/desc"
 msgstr ""
+"Вы начинаете проваливаться в сон, когда думаете об этой осколочной пушке. "
+"Она такая тяжелая, что от одной мысли о ней голова становится тяжелой."
 
 #: src-en/data/blueprints.xml.append:15501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Хассиумная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:15502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Хассиум. оск."
 
 #: src-en/data/blueprints.xml.append:15503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Большая. Самая тяжелая девочка. Раздавите их."
 
 #: src-en/data/blueprints.xml.append:15504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Тяжелая металлическая осколочная пушка, выкованная из кристаллов. Может "
+"быть, вы могли бы сделать ее более тяжелой?"
 
 #: src-en/data/blueprints.xml.append:15555
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_ENEMY\"]/title"
-msgstr ""
+msgstr "Ракетница \"Адское пламя\""
 
 #: src-en/data/blueprints.xml.append:15556
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_ENEMY\"]/short"
-msgstr ""
+msgstr "Адское пламя"
 
 #: src-en/data/blueprints.xml.append:15557
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_ENEMY\"]/desc"
 msgstr ""
+"Это орудие выпускает шквал ракет \"Адское пламя\", наносящих тяжелые "
+"повреждения корпусу и способных поджечь несколько отсеков."
 
 #: src-en/data/blueprints.xml.append:15558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 5 ракет; наносит 2 урона каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:15599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_ENEMY\"]/title"
-msgstr ""
+msgstr "Ракетница \"Чернобог\""
 
 #: src-en/data/blueprints.xml.append:15600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Чернобог\""
 
 #: src-en/data/blueprints.xml.append:15601
 msgid ""
@@ -7339,22 +7980,26 @@ msgstr "Выпускает 1 ракету; наносит 3 единицы ур�
 #: src-en/data/blueprints.xml.append:15645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL_ENEMY\"]/title"
-msgstr ""
+msgstr "Миномет \"Ба-Пеф\""
 
 #: src-en/data/blueprints.xml.append:15646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL_ENEMY\"]/short"
-msgstr ""
+msgstr "\"Ба-Пеф\""
 
 #: src-en/data/blueprints.xml.append:15647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL_ENEMY\"]/desc"
 msgstr ""
+"Как и его тезка, миномет \"Террор\". Выпускает 5 мин по несколько меньшему "
+"радиусу, наносит 2х урон по отсекам без систем."
 
 #: src-en/data/blueprints.xml.append:15648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL_ENEMY\"]/tooltip"
 msgstr ""
+"Как и его тезка, миномет \"Террор\". Выпускает 5 мин по несколько меньшему "
+"радиусу, наносит 2х урон по отсекам без систем."
 
 #: src-en/data/blueprints.xml.append:15687
 msgid ""
@@ -7370,51 +8015,67 @@ msgstr "Овенатор"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE_ENEMY\"]/desc"
 msgstr ""
+"Чертежи этого орудия и его аналога, Проекта #22, были созданы ученой-"
+"кристаллином, посвятившим себя изучению способов убийства всех форм жизни в "
+"галактике. Сейчас ее уже нет в живых, но вы гордитесь тем, что продолжаете "
+"ее дело. В этом орудии используются обогащенный фтором кристаллы, для "
+"воспламенения ЛЮБОГО предмета."
 
 #: src-en/data/blueprints.xml.append:15690
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE_ENEMY\"]/tooltip"
 msgstr ""
+"Заставляет гореть все типы экипажей, даже валунов. Все члены экипажа "
+"получают 2х урона от огня и тушат пожары на 70% медленнее. Время действия 15 "
+"секунд."
 
 #: src-en/data/blueprints.xml.append:15750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO_ENEMY\"]/title"
-msgstr ""
+msgstr "Проект #22"
 
 #: src-en/data/blueprints.xml.append:15751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO_ENEMY\"]/short"
-msgstr ""
+msgstr "Проект #22"
 
 #: src-en/data/blueprints.xml.append:15752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO_ENEMY\"]/desc"
 msgstr ""
+"Чертежи этого орудия и его аналога \"Овенатора\", были созданы ученой-"
+"кристаллином, посвятившим себя изучению способов убийства всех форм жизни в "
+"галактике. Сейчас ее уже нет в живых, но вы гордитесь тем, что продолжаете "
+"ее дело. В этом случае используются нанокоррозийные кристаллы, стирающие ДНК "
+"цели."
 
 #: src-en/data/blueprints.xml.append:15753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_BIO_ENEMY\"]/tooltip"
 msgstr ""
+"Эта бомба не позволяет экипажу, попавшему под удар, исцеляться в Медотсеке "
+"или возрождаться в Клон-отсеке. Время действия - 30 секунд. Отлично подходит "
+"для уничтожения экипажей кораблей с Клон-отсеком."
 
 #: src-en/data/blueprints.xml.append:15814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH_ENEMY\"]/title"
-msgstr ""
+msgstr "Компактификатор"
 
 #: src-en/data/blueprints.xml.append:15815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH_ENEMY\"]/short"
-msgstr ""
+msgstr "Компактификатор"
 
 #: src-en/data/blueprints.xml.append:15816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH_ENEMY\"]/desc"
-msgstr ""
+msgstr "Компактификатор АРОМАТ ЗДЕСЬ"
 
 #: src-en/data/blueprints.xml.append:15818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRUNCH_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Компаратор"
 
 #: src-en/data/blueprints.xml.append:15857
 msgid ""
@@ -7424,17 +8085,21 @@ msgstr "Василиск"
 #: src-en/data/blueprints.xml.append:15858
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK_ENEMY\"]/short"
-msgstr ""
+msgstr "Василиск"
 
 #: src-en/data/blueprints.xml.append:15859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK_ENEMY\"]/desc"
 msgstr ""
+"Это причудливое биооружие было создано с помощью мутагенов, соединивших "
+"пиявку с зернометом. Надолго оглушает экипаж."
 
 #: src-en/data/blueprints.xml.append:15860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_BASILISK_ENEMY\"]/tooltip"
 msgstr ""
+"Лучевое орудие, которое потребляет 2 энергии, которое оглушает вражеский "
+"экипаж, пробивает 2 щита и имеет небольшой шанс создать пробоину"
 
 #: src-en/data/blueprints.xml.append:15898
 msgid ""
@@ -7444,17 +8109,21 @@ msgstr "Ионная бомба"
 #: src-en/data/blueprints.xml.append:15899
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ENEMY_ARTY\"]/short"
-msgstr ""
+msgstr "Ион. бомба"
 
 #: src-en/data/blueprints.xml.append:15901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ENEMY_ARTY\"]/desc"
 msgstr ""
+"Самотелепортирующаяся бомба, использующая ионный урон для вывода из строя "
+"систем. Может быть нацелена на собственный корабль."
 
 #: src-en/data/blueprints.xml.append:15902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ENEMY_ARTY\"]/tooltip"
 msgstr ""
+"Бомбовое орудие; требует наличия боеголовки; не наносит обычный урон, но "
+"наносит 4 ионных урона. Может быть нацелено на ваш собственный корабль."
 
 #: src-en/data/blueprints.xml.append:15932
 msgid ""
@@ -7498,6 +8167,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_ENEMY_ARTY_CHAIN\"]/tooltip"
 msgstr ""
+"Бомбовое орудие; требует наличия боеголовки; наносит 1 урона системам и "
+"создает пробоину в корпусе. Может быть нацелено на ваш собственный корабль."
 
 #: src-en/data/blueprints.xml.append:16031
 msgid ""
@@ -7520,7 +8191,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Адаптивный луч, с каждым выстрелом урон увеличивается на 1.5."
 
 #: src-en/data/blueprints.xml.append:16067
 msgid ""
@@ -7540,12 +8211,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:16070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_ENEMY_ARTY\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:16113
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY_ENEMY\"]/title"
-msgstr ""
+msgstr "\"Ликвидатор\" мод. III"
 
 #: src-en/data/blueprints.xml.append:16114
 msgid ""
@@ -7563,26 +8234,30 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TAINTED_BEAM_3_ARTY_ENEMY\"]/tooltip"
 msgstr ""
+"Лучевое орудие с уроном в 5 единиц за отсек. Оглушает врагов на 9 секунд, "
+"гарантированно вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:16150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/title"
-msgstr ""
+msgstr "Гатлинг-ион \"Веста\""
 
 #: src-en/data/blueprints.xml.append:16151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/short"
-msgstr ""
+msgstr "\"Веста\""
 
 #: src-en/data/blueprints.xml.append:16153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/desc"
 msgstr ""
+"Конечно, можно просто убить их обычным Вулканом... но что, если заставить их "
+"СТРАДАТЬ?"
 
 #: src-en/data/blueprints.xml.append:16154
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/tooltip"
-msgstr ""
+msgstr "С каждым выстрелом перезарядка ускоряется."
 
 #: src-en/data/blueprints.xml.append:16203
 msgid ""
@@ -7605,7 +8280,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16207
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"UNSPOOLER_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Добыча с босса."
 
 #: src-en/data/blueprints.xml.append:16249
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/title"
@@ -7625,6 +8300,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16309
 msgid ""
@@ -7646,7 +8322,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ANCIENT_FOCUS_2_SMOKER\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:16343
 msgid ""
@@ -7669,6 +8345,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16404
 msgid ""
@@ -7689,6 +8366,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16467
 msgid ""
@@ -7712,6 +8390,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16531
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/title"
@@ -7731,6 +8410,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16591
 msgid ""
@@ -7754,6 +8434,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_BABYORCHID_TWEAK\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 3 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16637
 msgid ""
@@ -7873,7 +8554,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:16899
 msgid ""
@@ -7888,12 +8569,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_SHADOW\"]/desc"
-msgstr ""
+msgstr "Выпускает теневой поток обломков."
 
 #: src-en/data/blueprints.xml.append:16903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_SHADOW\"]/tooltip"
 msgstr ""
+"Выпускает поток обломков по случайной области, наносящий до 7 единиц урона."
 
 #: src-en/data/blueprints.xml.append:16949
 msgid ""
@@ -7913,7 +8595,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16952
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW_ADAPT\"]/tooltip"
-msgstr ""
+msgstr "Лучевое орудие наносит 1 урон за отсек"
 
 #: src-en/data/blueprints.xml.append:16984
 msgid ""
