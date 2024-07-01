@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-30 11:42+0000\n"
+"PO-Revision-Date: 2024-07-02 20:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -177,7 +177,7 @@ msgstr "Посмотреть сведения Проекта #7: Пылающи�
 #: src-en/data/events_special_storage.xml.append:281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_PROJECT22\"]/text"
-msgstr "Посмотреть сведения Проект #22: Неназванный."
+msgstr "Посмотреть сведения Проект #22: Безымянный."
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
@@ -755,7 +755,7 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Использовать газообразную массу в качестве топлива и поджечь ее с помощью "
-"Огневика, чтобы выковать Огнемет Дажьбог."
+"Огневика, чтобы выковать огнемет \"Дажьбог\"."
 
 #: src-en/data/events_special_storage.xml.append:914
 msgid ""
@@ -849,7 +849,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr "Попросить Алестера настроить \"Богоубийцу\". [Цена: 10~]"
+msgstr "Попросить Алестера настроить \"Убийцу богов\". [Цена: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:975
 msgid ""
@@ -1786,7 +1786,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/text"
-msgstr "Выковать лазер аномалий \"ТЛАЛОК\"."
+msgstr "Выковать аномальный лазер \"ТЛАЛОК\"."
 
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
@@ -2156,7 +2156,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:2004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_GODKILLER\"]/text"
-msgstr "В данный момент вы просматриваете описание \"Богоубийцы\"."
+msgstr "В данный момент вы просматриваете описание \"Убийцы богов\"."
 
 #: src-en/data/events_special_storage.xml.append:2006
 msgid ""
@@ -4940,142 +4940,189 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
 msgstr ""
+"(Искаженный дрон Инь-Янь) Установить режим работы дрона. [Текущий режим: "
+"Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:4771
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[11]/text"
 msgstr ""
+"(Искаженный дрон Инь-Янь) Установить режим работы дрона. [Текущий режим: "
+"Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:4775
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[12]/text"
 msgstr ""
+"(Искаженный боевой дрон мод. II) Установить режим работы дрона. [Текущий "
+"режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:4779
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[13]/text"
 msgstr ""
+"(Искаженный боевой дрон мод. II) Установить режим работы дрона. [Текущий "
+"режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:4783
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[14]/text"
 msgstr ""
+"(Искаженный дрон-хирург) Установить режим работы дрона. [Текущий режим: "
+"Защита]"
 
 #: src-en/data/events_special_storage.xml.append:4787
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[15]/text"
 msgstr ""
+"(Искаженный дрон-хирург) Установить режим работы дрона. [Текущий режим: "
+"Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:4791
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[16]/text"
 msgstr ""
+"(\"Убийца богов\") Настроить состояние \"Убийцы богов\". [Текущий режим: "
+"Противокорпусный]"
 
 #: src-en/data/events_special_storage.xml.append:4795
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[17]/text"
 msgstr ""
+"(\"Убийца богов\") Настроить состояние \"Убийцы богов\". [Текущий режим: "
+"Фотон]"
 
 #: src-en/data/events_special_storage.xml.append:4799
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
 msgstr ""
+"(\"Убийца богов\") Настроить состояние \"Убийцы богов\". [Текущий режим: Ион]"
 
 #: src-en/data/events_special_storage.xml.append:4803
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[19]/text"
 msgstr ""
+"(\"Убийца богов\") Настроить состояние \"Убийцы богов\". [Текущий режим: Да]"
 
 #: src-en/data/events_special_storage.xml.append:4810
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[20]/text"
 msgstr ""
+"(Энергетический лучевой дрон) Установить режим работы дрона. [Текущий режим: "
+"Точечный луч]"
 
 #: src-en/data/events_special_storage.xml.append:4815
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[21]/text"
 msgstr ""
+"(Энергетический лучевой дрон) Установить режим работы дрона. [Текущий режим: "
+"Луч]"
 
 #: src-en/data/events_special_storage.xml.append:4823
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[22]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Стандарт, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4831
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[23]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы [Текущий режим: Беспатронный, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4839
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[24]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Высокая скорость, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4847
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[25]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Переработчик, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4855
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[26]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Сотрясение 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4863
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[27]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: ЭМИ, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4871
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[28]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Частицы, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4879
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[29]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Зажигание, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4887
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[30]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Снаряды, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4895
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[31]/text"
 msgstr ""
+"(Пробивная митральеза) Изменить тип огня, заряжаемые для вашей Пробивной "
+"митральезы. [Текущий режим: Рад, 1 мощность]"
 
 #: src-en/data/events_special_storage.xml.append:4914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [мощность 2/перезарядка 11/урон 3/боеголовок "
+"20/пробоина 20%/пожар 10%]"
 
 #: src-en/data/events_special_storage.xml.append:4918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[1]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 30 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 9/урон 3/боеголовок 30/пробоина 30%/пожар 30%]"
 
 #: src-en/data/events_special_storage.xml.append:4920
 msgid ""
@@ -5101,6 +5148,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[2]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 40 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 4/боеголовок 40/пробоина 40%/пожар 50%]"
 
 #: src-en/data/events_special_storage.xml.append:4938
 msgid ""
@@ -5126,6 +5175,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[3]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 50 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 5/боеголовок 50/пробоина 50%/пожар 70%]"
 
 #: src-en/data/events_special_storage.xml.append:4956
 msgid ""
@@ -5151,6 +5202,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[4]/text"
 msgstr ""
+"Настроить орудие на 4 мощности, 60 боеголовок для стрельбы. [мощность 4/"
+"перезарядка 14/урон 7/боеголовок 60/пробоина 70%/пожар 100%/оглушение 100%]"
 
 #: src-en/data/events_special_storage.xml.append:4974
 msgid ""
@@ -5181,11 +5234,16 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [мощность 2/перезарядка 9/урон 3/боеголовок 30/"
+"пробоина 30%/пожар 30%]"
 
 #: src-en/data/events_special_storage.xml.append:4999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[1]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 20 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 11/урон 3/боеголовок 20/пробоина 20%/пожар 10%]"
 
 #: src-en/data/events_special_storage.xml.append:5001
 msgid ""
@@ -5211,6 +5269,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[2]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 40 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 4/боеголовок 40/пробоина 40%/пожар 50%]"
 
 #: src-en/data/events_special_storage.xml.append:5019
 msgid ""
@@ -5236,6 +5296,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[3]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 50 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 5/боеголовок 50/пробоина 50%/пожар 70%]"
 
 #: src-en/data/events_special_storage.xml.append:5037
 msgid ""
@@ -5261,6 +5323,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[4]/text"
 msgstr ""
+"Настроить орудие на 4 мощности, 60 боеголовок для стрельбы. [мощность 4/"
+"перезарядка 14/урон 7/боеголовок 60/пробоина 70%/пожар 100%/оглушение 100%]"
 
 #: src-en/data/events_special_storage.xml.append:5055
 msgid ""
@@ -5296,6 +5360,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[1]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 20 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 11/урон 3/боеголовок 20/пробоина 20%/пожар 10%]"
 
 #: src-en/data/events_special_storage.xml.append:5082
 msgid ""
@@ -5321,6 +5387,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[2]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 30 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 9/урон 3/боеголовок 30/пробоина 30%/пожар 30%]"
 
 #: src-en/data/events_special_storage.xml.append:5100
 msgid ""
@@ -5346,6 +5414,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[3]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 50 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 5/боеголовок 50/пробоина 50%/пожар 70%]"
 
 #: src-en/data/events_special_storage.xml.append:5118
 msgid ""
@@ -5371,6 +5441,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[4]/text"
 msgstr ""
+"Настроить орудие на 4 мощности, 60 боеголовок для стрельбы. [мощность 4/"
+"перезарядка 14/урон 7/боеголовок 60/пробоина 70%/пожар 100%/оглушение 100%]"
 
 #: src-en/data/events_special_storage.xml.append:5136
 msgid ""
@@ -5406,6 +5478,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[1]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 20 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 11/урон 3/боеголовок 20/пробоина 20%/пожар 10%]"
 
 #: src-en/data/events_special_storage.xml.append:5163
 msgid ""
@@ -5431,6 +5505,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[2]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 30 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 9/урон 3/боеголовок 30/пробоина 30%/пожар 30%]"
 
 #: src-en/data/events_special_storage.xml.append:5181
 msgid ""
@@ -5456,6 +5532,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[3]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 40 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 4/боеголовок 40/пробоина 40%/пожар 50%]"
 
 #: src-en/data/events_special_storage.xml.append:5199
 msgid ""
@@ -5481,6 +5559,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[4]/text"
 msgstr ""
+"Настроить орудие на 4 мощности, 60 боеголовок для стрельбы. [мощность 4/"
+"перезарядка 14/урон 7/боеголовок 60/пробоина 70%/пожар 100%/оглушение 100%]"
 
 #: src-en/data/events_special_storage.xml.append:5217
 msgid ""
@@ -5516,6 +5596,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[1]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 20 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 11/урон 3/боеголовок 20/пробоина 20%/пожар 10%]"
 
 #: src-en/data/events_special_storage.xml.append:5244
 msgid ""
@@ -5541,6 +5623,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[2]/text"
 msgstr ""
+"Настроить орудие на 2 мощности, 30 боеголовок для стрельбы. [мощность 2/"
+"перезарядка 9/урон 3/боеголовок 30/пробоина 30%/пожар 30%]"
 
 #: src-en/data/events_special_storage.xml.append:5262
 msgid ""
@@ -5566,6 +5650,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[3]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 40 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 4/боеголовок 40/пробоина 40%/пожар 50%]"
 
 #: src-en/data/events_special_storage.xml.append:5280
 msgid ""
@@ -5591,6 +5677,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[4]/text"
 msgstr ""
+"Настроить орудие на 3 мощности, 50 боеголовок для стрельбы. [мощность 3/"
+"перезарядка 11/урон 5/боеголовок 50/пробоина 50%/пожар 70%]"
 
 #: src-en/data/events_special_storage.xml.append:5298
 msgid ""
