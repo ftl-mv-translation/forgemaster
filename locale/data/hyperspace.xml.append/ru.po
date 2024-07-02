@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-01 12:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-02 20:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -661,19 +661,18 @@ msgstr ""
 "случайному отсеку при попадании, а также оглушают экипаж и изолируют отсек."
 
 #: src-en/data/hyperspace.xml.append:1836
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
-"УСТОЙЧИВЫЕ ОТСЕКИ, ВАРИАТИВНЫЕ:\n"
-"\t\t\t\t\tУ этого врага есть один или несколько устойчивых отсеков, "
-"отмеченных серой рамкой и значком \"У\" в левом верхнем углу. Устойчивые "
+"УКРЕПЛЕННЫЕ ОТСЕКИ, ВАРИАТИВНЫЕ:\n"
+"\t\t\t\t\tУ этого врага есть один или несколько укрепленных отсеков, "
+"отмеченных серой рамкой и значком \"У\" в левом верхнем углу. Укрепленные "
 "отсеки НЕ ПОЛУЧАЮТ системного урона от оружия, но могут быть повреждены "
-"экипажем и пожарами. Устойчивые отсеки, как и обычные, получают урон от "
+"экипажем и пожарами. Укрепленные отсеки, как и обычные, получают урон от "
 "ионов и по корпусу.\n"
 "\t\t\t\t\tЗначок \"У\" на отсеке корабля указывает на этот статус, и в "
-"зависимости от того, насколько он насыщен, отсек с большей вероятностью "
+"зависимости от того, насколько заполнен значок, отсек с большей вероятностью "
 "будет устойчив к урону от оружия."
 
 #: src-en/data/hyperspace.xml.append:1843
@@ -966,8 +965,8 @@ msgstr "ПЕРЕКОВКА"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Ремонтирует 10 системных и 2 корпусных единиц урона. Сильно "
-"лечит Кузнеца и разжигает пожары."
+"Готов: Ремонтирует 10 системных и 2 корпусных единиц урона. Сильно лечит "
+"Кузнеца и разжигает пожары."
 
 #: src-en/data/hyperspace.xml.append:4844
 msgid ""
@@ -975,13 +974,11 @@ msgid ""
 msgstr "ПЕРЕКОВКА"
 
 #: src-en/data/hyperspace.xml.append:4845
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Ремонтирует 10 системных и 2 корпусных единиц урона. Сильно "
-"лечит Кузнеца и разжигает пожары. Не получает урона во время действия "
-"способности."
+"Готов: Ремонтирует 10 единиц систем и 2 единицы корпуса. Сильно исцеляет "
+"себя и разжигает пожары. Не получает урона во время действия способности."
 
 #: src-en/data/hyperspace.xml.append:4926
 msgid ""
@@ -989,11 +986,10 @@ msgid ""
 msgstr "ПЕРЕКОВКА"
 
 #: src-en/data/hyperspace.xml.append:4927
-#, fuzzy
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Ремонтирует 4 системных и 1 корпусных единиц урона. Исцеляет "
-"Пластинчатого на 20 ОЗ. Не получает урона во время действия способности."
+"Готов: Ремонтирует 4 единиц систем и 1 единицу корпуса. Исцеляет себе 20 ОЗ. "
+"Не получает урона во время действия способности."
 
 #: src-en/data/hyperspace.xml.append:4979
 msgid ""
@@ -1004,7 +1000,7 @@ msgstr "ПОЛИРОВКА"
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
 msgstr ""
-"Готовность: Наносит врагам 15 ОЗ урона и исцеляется на 20 ОЗ. Становится "
+"Готов: Наносит врагам 15 ОЗ урона и исцеляется на 20 ОЗ. Становится "
 "невосприимчивым к оглушению, наносит 20% дополнительного урона в дальнем "
 "бою, получает 70% сопротивления ко всему урону и 2х скорость передвижения в "
 "течение всего времени. Отсек становится полностью устойчивым к системному "
@@ -1096,7 +1092,7 @@ msgstr "ОГОНЬ"
 #: src-en/data/hyperspace.xml.append:5402
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
-msgstr "Готовность: Разжечь пожар."
+msgstr "Готов: Разжечь пожар."
 
 #: src-en/data/hyperspace.xml.append:5469
 msgid ""
@@ -1106,7 +1102,7 @@ msgstr "ИОНИЗИРОВАТЬ"
 #: src-en/data/hyperspace.xml.append:5470
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
-msgstr "Готовность: Нанести ионный урон и оглушить."
+msgstr "Готов: Нанести ионный урон и оглушить."
 
 #: src-en/data/hyperspace.xml.append:5536
 msgid ""
@@ -1116,7 +1112,7 @@ msgstr "ПРОБОИНА"
 #: src-en/data/hyperspace.xml.append:5537
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
-msgstr "Готовность: Создать пробоину и нанести урон экипажу."
+msgstr "Готов: Создать пробоину и нанести урон экипажу."
 
 #: src-en/data/hyperspace.xml.append:5609
 msgid ""
@@ -1127,7 +1123,7 @@ msgstr "ОМНИ"
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
-msgstr "Готовность: Наносит ВСЕ эффекты кристалла."
+msgstr "Готов: Наносит ВСЕ эффекты кристалла."
 
 #: src-en/data/hyperspace.xml.append:5677
 msgid ""
@@ -1138,7 +1134,7 @@ msgstr "ПУСТОТА"
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
-msgstr "Готовность: Породить случайный кристалл"
+msgstr "Готов: Породить случайный кристалл"
 
 #: src-en/data/hyperspace.xml.append:5776
 msgid ""
@@ -1149,9 +1145,9 @@ msgstr "ЩИТ"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает значительно меньший урон (на 80%), сопротивляется "
-"попыткам контроля разума и на 50% снижает урон от удушья, получаемый "
-"ближайшими союзниками в течение 15 секунд."
+"Готов: Получает значительно меньший урон (на 80%), сопротивляется попыткам "
+"контроля разума и на 50% снижает урон от удушья, получаемый ближайшими "
+"союзниками в течение 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:5875
 msgid ""
@@ -1162,9 +1158,9 @@ msgstr "ЩИТ"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает значительно меньший урон (на 80%), сопротивляется "
-"попыткам контроля разума и уменьшает урон от огня на 50% получаемый "
-"ближайшими союзниками в течение 15 секунд."
+"Готов: Получает значительно меньший урон (на 80%), сопротивляется попыткам "
+"контроля разума и уменьшает урон от огня на 50% получаемый ближайшими "
+"союзниками в течение 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:6626
 msgid ""
@@ -1173,8 +1169,7 @@ msgstr "ПОГЛОЩЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:6627
 msgid "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
-msgstr ""
-"Готовность: Наносит 1 системный урон и создает пробоину в текущем отсеке"
+msgstr "Готов: Наносит 1 системный урон и создает пробоину в текущем отсеке"
 
 #: src-en/data/hyperspace.xml.append:6662
 msgid ""
@@ -1185,7 +1180,7 @@ msgstr "ЖЕРТВА"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Убивает всех дружественных призраков в одном отсеке, отправив их "
+"Готов: Убивает всех дружественных призраков в одном отсеке, отправив их "
 "копии на вражеский корабль"
 
 #: src-en/data/hyperspace.xml.append:7110
@@ -1197,8 +1192,8 @@ msgstr "ЧАЕПИТИЕ"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Наносит 50 единиц урона всем врагам в отсеке в течение 5 секунд "
-"с помощью разрушительных яростных рубящих ударов. Скорость передвижения "
+"Готов: Наносит 50 единиц урона всем врагам в отсеке в течение 5 секунд с "
+"помощью разрушительных яростных рубящих ударов. Скорость передвижения "
 "увеличивается до 9х на время действия эффекта."
 
 #: src-en/data/hyperspace.xml.append:7318
@@ -1257,7 +1252,7 @@ msgstr "В ОГНЕ"
 
 #: src-en/data/hyperspace.xml.append:8500
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
-msgstr "Готовность: Разжечь пожар."
+msgstr "Готов: Разжечь пожар."
 
 #: src-en/data/hyperspace.xml.append:10223
 msgid ""
@@ -1268,8 +1263,8 @@ msgstr "СНЯТИЕ ОГРАНИЧЕНИЙ"
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/tooltip"
 msgstr ""
-"Готовность: Увеличивает наносимый урон, снижает получаемый урон, но "
-"прекращает вырабатывать энергию на время действия."
+"Готов: Увеличивает наносимый урон, снижает получаемый урон, но прекращает "
+"вырабатывать энергию на время действия."
 
 #: src-en/data/hyperspace.xml.append:10669
 msgid ""
@@ -1279,7 +1274,7 @@ msgstr "Разжигание"
 #: src-en/data/hyperspace.xml.append:10670
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "Готовность: Воспламеняет себя и разжигает пожар"
+msgstr "Готов: Воспламеняет себя и разжигает пожар"
 
 #: src-en/data/hyperspace.xml.append:10694
 msgid ""
@@ -1289,7 +1284,7 @@ msgstr "Разжигание"
 #: src-en/data/hyperspace.xml.append:10695
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "Готовность: Воспламеняет себя и разжигает пожар"
+msgstr "Готов: Воспламеняет себя и разжигает пожар"
 
 #: src-en/data/hyperspace.xml.append:10797
 msgid ""
@@ -1300,8 +1295,8 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 "
-"урона вражеским системам. Может быть быстро использовано, но медленно "
+"Готов: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 урона "
+"вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:10833
@@ -1313,10 +1308,9 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и наносит 15 единиц урона вражескому "
-"экипажу и 1 единицу урона вражеским системам. Медленно регенерирует "
-"потерянное здоровье и некоторое количество дополнительного в течение 26 "
-"секунд."
+"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу "
+"и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
+"здоровье и некоторое количество дополнительного в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:10868
 msgid ""
@@ -1327,9 +1321,9 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и лечит всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье и некоторое количество дополнительного в течение 13 секунд."
+"Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
+"отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
+"некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:10908
 msgid ""
@@ -1340,9 +1334,9 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и лечит всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье и некоторое количество дополнительного в течение 13 секунд."
+"Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
+"отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
+"некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:10950
 msgid ""
@@ -1353,8 +1347,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 40 единиц урона и полностью ремонтирует текущую "
-"систему. Медленно регенерирует потерянное здоровье в течение 26 секунд."
+"Готов: Получает 40 единиц урона и полностью ремонтирует текущую систему. "
+"Медленно регенерирует потерянное здоровье в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:10986
 msgid ""
@@ -1365,8 +1359,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 50 единиц урона и наносит 30 единиц урона вражескому "
-"экипажу и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
+"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу "
+"и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
 "получаемый урон."
 
 #: src-en/data/hyperspace.xml.append:11022
@@ -1378,8 +1372,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 "
-"урона вражеским системам. Может быть быстро использовано, но медленно "
+"Готов: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 урона "
+"вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11060
@@ -1391,10 +1385,10 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 30 единиц урона и исцеляет всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье, исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления "
-"удушью на 13 секунд."
+"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа "
+"в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
+"исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления удушью на "
+"13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11111
 msgid ""
@@ -1405,8 +1399,8 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 "
-"урона вражеским системам. Может быть быстро использовано, но медленно "
+"Готов: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 урона "
+"вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11147
@@ -1418,10 +1412,9 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и наносит 15 единиц урона вражескому "
-"экипажу и 1 единицу урона вражеским системам. Медленно регенерирует "
-"потерянное здоровье и некоторое количество дополнительного в течение 26 "
-"секунд."
+"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу "
+"и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
+"здоровье и некоторое количество дополнительного в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:11182
 msgid ""
@@ -1432,9 +1425,9 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и лечит всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье и некоторое количество дополнительного в течение 13 секунд."
+"Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
+"отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
+"некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11222
 msgid ""
@@ -1445,9 +1438,9 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 25 единиц урона и лечит всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье и некоторое количество дополнительного в течение 13 секунд."
+"Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
+"отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
+"некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11264
 msgid ""
@@ -1458,8 +1451,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 40 единиц урона и полностью ремонтирует текущую "
-"систему. Медленно регенерирует потерянное здоровье в течение 26 секунд."
+"Готов: Получает 40 единиц урона и полностью ремонтирует текущую систему. "
+"Медленно регенерирует потерянное здоровье в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:11300
 msgid ""
@@ -1470,8 +1463,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 50 единиц урона и наносит 30 единиц урона вражескому "
-"экипажу и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
+"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу "
+"и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
 "получаемый урон."
 
 #: src-en/data/hyperspace.xml.append:11336
@@ -1483,8 +1476,8 @@ msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 "
-"урона вражеским системам. Может быть быстро использовано, но медленно "
+"Готов: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 урона "
+"вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11374
@@ -1496,10 +1489,10 @@ msgstr "ЗАЖЕЧЬ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"Готовность: Получает 30 единиц урона и исцеляет всех дружественных членов "
-"экипажа в отсеке до полного здоровья. Медленно регенерирует потерянное "
-"здоровье, исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления "
-"удушью на 13 секунд."
+"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа "
+"в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
+"исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления удушью на "
+"13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11999
 msgid ""
@@ -1509,7 +1502,7 @@ msgstr "СЖЕЧЬ"
 #: src-en/data/hyperspace.xml.append:12000
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "Готовность: Разжигает пожар в текущем отсеке."
+msgstr "Готов: Разжигает пожар в текущем отсеке."
 
 #: src-en/data/hyperspace.xml.append:13409
 #, fuzzy
@@ -1538,12 +1531,12 @@ msgstr "Органы, пожалуйста!"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов Гильдии тип Б и получите Хранитель разума."
+"Победите Искаженного Ренегата Гильдии тип Б и получите Хранитель разума."
 
 #: src-en/data/hyperspace.xml.append:15720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15721
 msgid ""
@@ -1559,13 +1552,13 @@ msgstr "Рекорд Мультивселенной"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Вестников Заката тип Б и получите Сумеречные "
+"Победите Искаженного Ренегата-Вестников Заката тип Б и получите Сумеречные "
 "жилеты."
 
 #: src-en/data/hyperspace.xml.append:15728
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15729
 msgid ""
@@ -1581,13 +1574,13 @@ msgstr "Упрочняющие наниты"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-энджи тип В и получите Стимулятор дронов \"Кай"
+"Победите Искаженного Ренегата-энджи тип В и получите Стимулятор дронов \"Кай"
 "\"."
 
 #: src-en/data/hyperspace.xml.append:15736
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15737
 msgid ""
@@ -1602,12 +1595,12 @@ msgstr "Британия"
 #: src-en/data/hyperspace.xml.append:15742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
-msgstr "Победите Искаженных Ренегатов-Свободных Богомолов тип Б и получите Чай."
+msgstr "Победите Искаженного Ренегата-Свободных Богомолов тип Б и получите Чай."
 
 #: src-en/data/hyperspace.xml.append:15744
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15745
 msgid ""
@@ -1622,12 +1615,12 @@ msgstr "Символика"
 #: src-en/data/hyperspace.xml.append:15750
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
-msgstr "Победите Искаженных Ренегатов-Сепаратистов тип Б и получите Магатаму."
+msgstr "Победите Искаженного Ренегата-Сепаратистов тип Б и получите Магатаму."
 
 #: src-en/data/hyperspace.xml.append:15752
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15753
 msgid ""
@@ -1643,12 +1636,12 @@ msgstr "Зерг Раш"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов Улья тип Б и получите Катализатор феромонов."
+"Победите Искаженного Ренегата Улья тип Б и получите Катализатор феромонов."
 
 #: src-en/data/hyperspace.xml.append:15760
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15761
 msgid ""
@@ -1664,13 +1657,13 @@ msgstr "Принуждение к миру"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Монахов тип Б и получите Эфирные щиты "
+"Победите Искаженного Ренегата-Монахов тип Б и получите Эфирные щиты "
 "вознесения."
 
 #: src-en/data/hyperspace.xml.append:15768
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15769
 msgid ""
@@ -1686,13 +1679,13 @@ msgstr "СОПРОТИВЛЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-валунов тип В и получите Реликвию свободы "
+"Победите Искаженного Ренегата-валунов тип В и получите Реликвию свободы "
 "валунов."
 
 #: src-en/data/hyperspace.xml.append:15776
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15777
 msgid ""
@@ -1708,13 +1701,13 @@ msgstr "Последний час"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Затерянных Солнц тип Б и получите "
+"Победите Искаженного Ренегата-Затерянных Солнц тип Б и получите "
 "Перезагрузчик реальности."
 
 #: src-en/data/hyperspace.xml.append:15784
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15785
 msgid ""
@@ -1729,12 +1722,12 @@ msgstr "Чистильщик Чистильщик"
 #: src-en/data/hyperspace.xml.append:15790
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
-msgstr "Победите Искаженных Ренегатов-слизней тип В и получите Мальборо Квазар."
+msgstr "Победите Искаженного Ренегата-слизней тип В и получите Мальборо Квазар."
 
 #: src-en/data/hyperspace.xml.append:15792
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15793
 msgid ""
@@ -1742,16 +1735,15 @@ msgid ""
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15797
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/name"
-msgstr "Кент"
+msgstr "НИ могу"
 
 #: src-en/data/hyperspace.xml.append:15798
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Стелс тип Б и получите, и получите, и "
+"Победите Искаженного Ренегата-Стелс тип Б и получите, и получите, и "
 "получите, и получите, и получите, и получите, и получите, и получите, и "
 "получите, и получите, и получите, и получите, и получите, и получите, и "
 "получите, и получите, и получите, и получите, и получите, и получите, и "
@@ -1761,7 +1753,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15800
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15801
 msgid ""
@@ -1777,12 +1769,12 @@ msgstr "Халява исключена"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-золтан тип В и получите Снятие ограничений."
+"Победите Искаженного Ренегата-золтан тип В и получите Снятие ограничений."
 
 #: src-en/data/hyperspace.xml.append:15808
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15809
 msgid ""
@@ -1798,13 +1790,13 @@ msgstr "Маяк"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-ланиусов тип Б и получите Металлическое "
+"Победите Искаженного Ренегата-ланиусов тип Б и получите Металлическое "
 "огненное сердце."
 
 #: src-en/data/hyperspace.xml.append:15816
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15817
 msgid ""
@@ -1820,12 +1812,12 @@ msgstr "Карантин"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-ракушек тип В и получите Горючее биооружие."
+"Победите Искаженного Ренегата-ракушек тип В и получите Горючее биооружие."
 
 #: src-en/data/hyperspace.xml.append:15824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15825
 msgid ""
@@ -1841,13 +1833,13 @@ msgstr "автялк яанремециЛ"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Инженеров тип Б и получите Стимулятор дронов "
+"Победите Искаженного Ренегата-Инженеров тип Б и получите Стимулятор дронов "
 "мод. II."
 
 #: src-en/data/hyperspace.xml.append:15832
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15833
 msgid ""
@@ -1863,12 +1855,12 @@ msgstr "Привратник"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-Пустельга тип Б и получите Холодильник Гозера."
+"Победите Искаженного Ренегата-Пустельгу тип Б и получите Холодильник Гозера."
 
 #: src-en/data/hyperspace.xml.append:15840
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15841
 msgid ""
@@ -1884,13 +1876,13 @@ msgstr "Луч правосудия"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов Федерации тип Б и получите Искаженный "
+"Победите Искаженного Ренегата Федерации тип Б и получите Искаженный "
 "изготовитель боеприпасов."
 
 #: src-en/data/hyperspace.xml.append:15848
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15849
 msgid ""
@@ -1905,12 +1897,12 @@ msgstr "Весельчак"
 #: src-en/data/hyperspace.xml.append:15854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/description"
-msgstr "Победите Искаженных Ренегатов-орхидей тип Б и получите друзей."
+msgstr "Победите Искаженного Ренегата-орхидей тип Б и получите друзей."
 
 #: src-en/data/hyperspace.xml.append:15856
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15857
 msgid ""
@@ -1926,13 +1918,13 @@ msgstr "Пулевой ад"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/description"
 msgstr ""
-"Победите Искаженных Ренегатов-кристаллинов тип В и получите Искаженную "
+"Победите Искаженного Ренегата-кристаллинов тип В и получите Искаженную "
 "осколочную броню."
 
 #: src-en/data/hyperspace.xml.append:15864
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15865
 msgid ""
@@ -1952,7 +1944,7 @@ msgstr "Победите Искаженного Ренегата-Туко тип
 #: src-en/data/hyperspace.xml.append:15872
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15873
 msgid ""
@@ -1973,7 +1965,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15880
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15881
 msgid ""
@@ -1994,7 +1986,7 @@ msgstr "нет времени"
 
 #: src-en/data/hyperspace.xml.append:15889
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15890
 msgid ""
@@ -2003,24 +1995,22 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15894
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/name"
-msgstr "Бесплатные товары!"
+msgstr "Халява!"
 
 #: src-en/data/hyperspace.xml.append:15895
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/description"
-msgstr ""
-"Примите предложение Искаженных Ренегатов-золтан тип В и получите бесплатные "
-"товары."
+msgstr "Примите предложение Искаженного Ренегата-золтан тип В и получите лом."
 
 #: src-en/data/hyperspace.xml.append:15897
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[1]"
-msgstr "ух ты, бесплатные товары?!"
+msgstr "ух ты, халява?!"
 
 #: src-en/data/hyperspace.xml.append:15898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
-msgstr "Искаженные Ренегаты побеждены"
+msgstr "Искаженный Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:15899
 msgid ""
