@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-04 09:59+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-04 10:00+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -6965,7 +6965,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13554
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/title"
-msgstr "Клонопушка Рипли [Шеф]†"
+msgstr "Клонопульта Рипли [Шеф]†"
 
 #: src-en/data/blueprints.xml.append:13555
 msgid ""
@@ -6990,7 +6990,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/title"
-msgstr "Клонопушка Рипли [Симб]†"
+msgstr "Клонопульта Рипли [Симб]†"
 
 #: src-en/data/blueprints.xml.append:13617
 msgid ""
@@ -8283,11 +8283,11 @@ msgstr "Добыча с босса."
 
 #: src-en/data/blueprints.xml.append:16249
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/title"
-msgstr ""
+msgstr "Клонопушка [Детеныш]"
 
 #: src-en/data/blueprints.xml.append:16250
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/short"
-msgstr ""
+msgstr "Клоноп. [Д]"
 
 #: src-en/data/blueprints.xml.append:16252
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/desc"
@@ -8326,12 +8326,12 @@ msgstr "Лучевое орудие наносит 1 урон за отсек"
 #: src-en/data/blueprints.xml.append:16343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/title"
-msgstr ""
+msgstr "Клонопульта [Крестоносец]"
 
 #: src-en/data/blueprints.xml.append:16344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/short"
-msgstr ""
+msgstr "Клоноп. [К]"
 
 #: src-en/data/blueprints.xml.append:16346
 msgid ""
@@ -8349,17 +8349,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16404
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/title"
-msgstr ""
+msgstr "Клонопульта [Вождь]"
 
 #: src-en/data/blueprints.xml.append:16405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/short"
-msgstr ""
+msgstr "Клоноп. [К]"
 
 #: src-en/data/blueprints.xml.append:16407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/desc"
 msgstr ""
+"Ни одно орудие не вызывало более серьезных этических разногласий, но если "
+"оно работает, значит, работает. Почему установка вызывает пожары? Ирония "
+"судьбы."
 
 #: src-en/data/blueprints.xml.append:16408
 msgid ""
@@ -8370,12 +8373,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16467
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL\"]/title"
-msgstr ""
+msgstr "Клонопульта [Симбионт]"
 
 #: src-en/data/blueprints.xml.append:16468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL\"]/short"
-msgstr ""
+msgstr "Клоноп. [С]"
 
 #: src-en/data/blueprints.xml.append:16470
 msgid ""
@@ -8393,11 +8396,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:16531
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/title"
-msgstr ""
+msgstr "Клонопушка [Детеныш]"
 
 #: src-en/data/blueprints.xml.append:16532
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/short"
-msgstr ""
+msgstr "Клоноп. [Д]"
 
 #: src-en/data/blueprints.xml.append:16534
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/desc"
@@ -8419,7 +8422,7 @@ msgstr "Клонопульта [Дети]"
 #: src-en/data/blueprints.xml.append:16592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_BABYORCHID_TWEAK\"]/short"
-msgstr ""
+msgstr "Клоноп. [Дети]"
 
 #: src-en/data/blueprints.xml.append:16594
 msgid ""
@@ -8449,6 +8452,12 @@ msgstr "Осколкомет"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_CRYSTAL\"]/desc"
 msgstr ""
+"Особый миномет, использующий кристаллические снаряды, заряженные "
+"взрывчаткой. Не использует боеприпасы, но может пробить только 2 слоя щитов."
+"\n"
+"\n"
+"\t\t\tНа пустых маяках дает возможность задержать флот на 1 прыжок за 5 "
+"боеголовок, не влияет на дурную славу."
 
 #: src-en/data/blueprints.xml.append:16643
 msgid ""
@@ -8469,7 +8478,7 @@ msgstr "Осколкомет"
 #: src-en/data/blueprints.xml.append:16689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE1\"]/desc"
-msgstr ""
+msgstr "2 лазера, 10% пожар"
 
 #: src-en/data/blueprints.xml.append:16690
 msgid ""
@@ -8491,6 +8500,8 @@ msgstr "Осколкомет"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE2\"]/desc"
 msgstr ""
+"Выпускает 2 кристалла, 40% шанс вызвать пожар 40% шанс создать пробоину, "
+"проникает через 1 слой щита"
 
 #: src-en/data/blueprints.xml.append:16735
 msgid ""
@@ -8512,6 +8523,9 @@ msgstr "Осколкомет"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE3\"]/desc"
 msgstr ""
+"Выпускает 2 магнитных осколка, 1 урон, 10% шанс вызвать пожар 50% шанс "
+"создать пробоину, проникает через 10 слоев щита, 100% точность, двойной урон "
+"по отсекам без систем, 5с оглушения"
 
 #: src-en/data/blueprints.xml.append:16778
 msgid ""
@@ -8521,11 +8535,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:16824
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/title"
-msgstr ""
+msgstr "Теневой лазер"
 
 #: src-en/data/blueprints.xml.append:16825
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/short"
-msgstr ""
+msgstr "Тенев. лаз."
 
 #: src-en/data/blueprints.xml.append:16827
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/desc"
@@ -8537,18 +8551,20 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/tooltip"
 msgstr ""
+"Выпускает 2 лазерных заряда, наносящих 1 урон каждый и 2х урона в отсеках "
+"без систем."
 
 #: src-en/data/blueprints.xml.append:16866
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/title"
-msgstr ""
+msgstr "Теневой точечный луч"
 
 #: src-en/data/blueprints.xml.append:16867
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/short"
-msgstr ""
+msgstr "Тенев. точ."
 
 #: src-en/data/blueprints.xml.append:16868
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/desc"
-msgstr ""
+msgstr "Теневой точечный луч."
 
 #: src-en/data/blueprints.xml.append:16869
 msgid ""
@@ -8558,12 +8574,12 @@ msgstr "Лучевое орудие наносит 1 урон за отсек"
 #: src-en/data/blueprints.xml.append:16899
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_SHADOW\"]/title"
-msgstr ""
+msgstr "Теневая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:16900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_SHADOW\"]/short"
-msgstr ""
+msgstr "Тенев. оск."
 
 #: src-en/data/blueprints.xml.append:16902
 msgid ""
@@ -8579,17 +8595,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW_ADAPT\"]/title"
-msgstr ""
+msgstr "Теневой адаптивный точечный луч"
 
 #: src-en/data/blueprints.xml.append:16950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW_ADAPT\"]/short"
-msgstr ""
+msgstr "Т. ад. точ."
 
 #: src-en/data/blueprints.xml.append:16951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW_ADAPT\"]/desc"
-msgstr ""
+msgstr "Теневой точечный луч, который становится мощнее после каждого выстрела."
 
 #: src-en/data/blueprints.xml.append:16952
 msgid ""
@@ -8599,12 +8615,12 @@ msgstr "Лучевое орудие наносит 1 урон за отсек"
 #: src-en/data/blueprints.xml.append:16984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW_PLAYER\"]/title"
-msgstr ""
+msgstr "Теневой лазер†"
 
 #: src-en/data/blueprints.xml.append:16985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW_PLAYER\"]/short"
-msgstr ""
+msgstr "Тенев. лаз.†"
 
 #: src-en/data/blueprints.xml.append:16987
 msgid ""
@@ -8617,16 +8633,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW_PLAYER\"]/tooltip"
 msgstr ""
+"Выпускает 2 лазерных заряда, наносящих 1 урон каждый и 2х урона в отсеках "
+"без систем."
 
 #: src-en/data/blueprints.xml.append:17027
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/title"
-msgstr ""
+msgstr "Искаженная дроно-артиллерия"
 
 #: src-en/data/blueprints.xml.append:17028
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/short"
-msgstr ""
+msgstr "Дрон-арт."
 
 #: src-en/data/blueprints.xml.append:17029
 msgid ""
@@ -8645,17 +8663,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_ENGINEER_FACTORY\"]/spawnCrew/name"
-msgstr ""
+msgstr "Дроно-артиллерия"
 
 #: src-en/data/blueprints.xml.append:17113
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BARRAGE_FLAK_SHIELD\"]/title"
-msgstr ""
+msgstr "Залповая защитная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:17114
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BARRAGE_FLAK_SHIELD\"]/short"
-msgstr ""
+msgstr "Залповая защитная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:17116
 msgid ""
@@ -8665,12 +8683,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17137
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BARRAGE_FLAK_SHIELD2\"]/title"
-msgstr ""
+msgstr "Залповая защитная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:17138
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BARRAGE_FLAK_SHIELD2\"]/short"
-msgstr ""
+msgstr "Залповая защитная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:17140
 msgid ""
@@ -8680,12 +8698,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17169
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель фантомов"
 
 #: src-en/data/blueprints.xml.append:17170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель фантомов"
 
 #: src-en/data/blueprints.xml.append:17172
 msgid ""
@@ -8695,12 +8713,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17207
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Альфа-фантомов"
 
 #: src-en/data/blueprints.xml.append:17208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Альфа-фантомов"
 
 #: src-en/data/blueprints.xml.append:17210
 msgid ""
@@ -8710,12 +8728,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Гулей"
 
 #: src-en/data/blueprints.xml.append:17246
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Гулей"
 
 #: src-en/data/blueprints.xml.append:17248
 msgid ""
@@ -8725,12 +8743,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Гулей"
 
 #: src-en/data/blueprints.xml.append:17284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Гулей"
 
 #: src-en/data/blueprints.xml.append:17286
 msgid ""
@@ -8740,12 +8758,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17321
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Маров"
 
 #: src-en/data/blueprints.xml.append:17322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Маров"
 
 #: src-en/data/blueprints.xml.append:17324
 msgid ""
@@ -8755,12 +8773,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Маров"
 
 #: src-en/data/blueprints.xml.append:17360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Маров"
 
 #: src-en/data/blueprints.xml.append:17362
 msgid ""
@@ -8770,12 +8788,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Видений"
 
 #: src-en/data/blueprints.xml.append:17398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Видений"
 
 #: src-en/data/blueprints.xml.append:17400
 msgid ""
@@ -8785,12 +8803,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Видений"
 
 #: src-en/data/blueprints.xml.append:17436
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Альфа-Видений"
 
 #: src-en/data/blueprints.xml.append:17438
 msgid ""
@@ -8800,12 +8818,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_UNIQUE_DESSIUS_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Уникальный залповый призыватель Дессиуса"
 
 #: src-en/data/blueprints.xml.append:17474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_UNIQUE_DESSIUS_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Уникальный залповый призыватель Дессиуса"
 
 #: src-en/data/blueprints.xml.append:17476
 msgid ""
@@ -8815,12 +8833,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17511
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBELEANOR_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Алеенор"
 
 #: src-en/data/blueprints.xml.append:17512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBELEANOR_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Алеенор"
 
 #: src-en/data/blueprints.xml.append:17514
 msgid ""
@@ -8830,12 +8848,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBGOZER_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Гозера"
 
 #: src-en/data/blueprints.xml.append:17550
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBGOZER_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Гозера"
 
 #: src-en/data/blueprints.xml.append:17552
 msgid ""
@@ -8845,12 +8863,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17587
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBPSYCH_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Физ"
 
 #: src-en/data/blueprints.xml.append:17588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBPSYCH_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Физ"
 
 #: src-en/data/blueprints.xml.append:17590
 msgid ""
@@ -8860,12 +8878,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBSCOLERI_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Колери"
 
 #: src-en/data/blueprints.xml.append:17626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBSCOLERI_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Колери"
 
 #: src-en/data/blueprints.xml.append:17628
 msgid ""
@@ -8875,12 +8893,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBSLIMER_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Слимера"
 
 #: src-en/data/blueprints.xml.append:17664
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBSLIMER_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Слимера"
 
 #: src-en/data/blueprints.xml.append:17666
 msgid ""
@@ -8890,12 +8908,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBVINZ_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Вина"
 
 #: src-en/data/blueprints.xml.append:17702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBVINZ_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Вина"
 
 #: src-en/data/blueprints.xml.append:17704
 msgid ""
@@ -8905,12 +8923,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBZUUL_SPAWN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Залповый призыватель Зулу"
 
 #: src-en/data/blueprints.xml.append:17740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_GBZUUL_SPAWN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Залповый призыватель Зулу"
 
 #: src-en/data/blueprints.xml.append:17742
 msgid ""
@@ -8920,184 +8938,188 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 #: src-en/data/blueprints.xml.append:17784
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_UNBROKEN_ARMOR\"]/title"
-msgstr ""
+msgstr "Непробиваемая броня"
 
 #: src-en/data/blueprints.xml.append:17785
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_UNBROKEN_ARMOR\"]/desc"
 msgstr ""
+"Повышает сопротивление корпуса на 50% от текущего сопротивления корпуса, "
+"если ни одна система не повреждена и ни одна плитка не пробита."
 
 #: src-en/data/blueprints.xml.append:17793
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"INSTANT_SYSTEMS\"]/title"
-msgstr ""
+msgstr "Максимальный ускоритель системы"
 
 #: src-en/data/blueprints.xml.append:17794
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"INSTANT_SYSTEMS\"]/desc"
 msgstr ""
+"Маскировка, Взломщик, Контроль разума и Временной манипулятор мгновенно "
+"перезаряжаются."
 
 #: src-en/data/blueprints.xml.append:17802
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_SHIELDS\"]/title"
-msgstr ""
+msgstr "Авторемонт щита"
 
 #: src-en/data/blueprints.xml.append:17803
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_SHIELDS\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему щитов."
 
 #: src-en/data/blueprints.xml.append:17811
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_ENGINES\"]/title"
-msgstr ""
+msgstr "Авторемонт двигателей"
 
 #: src-en/data/blueprints.xml.append:17812
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_ENGINES\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему двигателей."
 
 #: src-en/data/blueprints.xml.append:17820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_OXYGEN\"]/title"
-msgstr ""
+msgstr "Авторемонт кислородной установки"
 
 #: src-en/data/blueprints.xml.append:17821
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_OXYGEN\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует кислородную установку."
 
 #: src-en/data/blueprints.xml.append:17829
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_WEAPONS\"]/title"
-msgstr ""
+msgstr "Авторемонт оружия"
 
 #: src-en/data/blueprints.xml.append:17830
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_WEAPONS\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему оружия."
 
 #: src-en/data/blueprints.xml.append:17838
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_DRONES\"]/title"
-msgstr ""
+msgstr "Авторемонт дронов"
 
 #: src-en/data/blueprints.xml.append:17839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_DRONES\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему дронов."
 
 #: src-en/data/blueprints.xml.append:17847
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MEDICAL\"]/title"
-msgstr ""
+msgstr "Авторемонт медотсека"
 
 #: src-en/data/blueprints.xml.append:17848
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MEDICAL\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует медотсек."
 
 #: src-en/data/blueprints.xml.append:17856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_PILOT\"]/title"
-msgstr ""
+msgstr "Авторемонт рулевой рубки"
 
 #: src-en/data/blueprints.xml.append:17857
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_PILOT\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует рулевую рубку."
 
 #: src-en/data/blueprints.xml.append:17865
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_SENSORS\"]/title"
-msgstr ""
+msgstr "Авторемонт сенсоров"
 
 #: src-en/data/blueprints.xml.append:17866
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_SENSORS\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует сенсоры."
 
 #: src-en/data/blueprints.xml.append:17874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_DOORS\"]/title"
-msgstr ""
+msgstr "Авторемонт дверей"
 
 #: src-en/data/blueprints.xml.append:17875
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_DOORS\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует двери."
 
 #: src-en/data/blueprints.xml.append:17883
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TELEPORTER\"]/title"
-msgstr ""
+msgstr "Авторемонт телепортатора"
 
 #: src-en/data/blueprints.xml.append:17884
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TELEPORTER\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует телепортатор."
 
 #: src-en/data/blueprints.xml.append:17892
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_CLOAKING\"]/title"
-msgstr ""
+msgstr "Авторемонт маскировки"
 
 #: src-en/data/blueprints.xml.append:17893
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_CLOAKING\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует маскировку."
 
 #: src-en/data/blueprints.xml.append:17901
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Авторемонт артилерии"
 
 #: src-en/data/blueprints.xml.append:17902
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_ARTILLERY\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует артиллерию."
 
 #: src-en/data/blueprints.xml.append:17910
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_BATTERY\"]/title"
-msgstr ""
+msgstr "Авторемонт батареи"
 
 #: src-en/data/blueprints.xml.append:17911
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_BATTERY\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует батарею."
 
 #: src-en/data/blueprints.xml.append:17919
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MIND\"]/title"
-msgstr ""
+msgstr "Авторемонт контроля разума"
 
 #: src-en/data/blueprints.xml.append:17920
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MIND\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему контроля разума."
 
 #: src-en/data/blueprints.xml.append:17928
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_HACKING\"]/title"
-msgstr ""
+msgstr "Авторемонт взломщика"
 
 #: src-en/data/blueprints.xml.append:17929
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_HACKING\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему взломщика."
 
 #: src-en/data/blueprints.xml.append:17937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TEMPORAL\"]/title"
-msgstr ""
+msgstr "Авторемонт временного манипулятора"
 
 #: src-en/data/blueprints.xml.append:17938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TEMPORAL\"]/desc"
-msgstr ""
+msgstr "Этот модуль автоматически ремонтирует систему временного манипулятора."
 
 #: src-en/data/blueprints.xml.append:17947
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_PURGE_AUG\"]/title"
-msgstr ""
+msgstr "ЧИСТИЛЬЩИК"
 
 #: src-en/data/blueprints.xml.append:17948
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_PURGE_AUG\"]/desc"
@@ -9105,41 +9127,48 @@ msgstr "Вы никогда не должны это видеть."
 
 #: src-en/data/blueprints.xml.append:17955
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAMMING_SPEED\"]/title"
-msgstr ""
+msgstr "Скорость тарана"
 
 #: src-en/data/blueprints.xml.append:17956
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"RAMMING_SPEED\"]/desc"
 msgstr ""
+"Этот корабль способен таранить вражеские суда, рискуя целостностью корпуса и "
+"двигателями."
 
 #: src-en/data/blueprints.xml.append:17963
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAMMING_SPEED\"]/title"
-msgstr ""
+msgstr "Скорость тарана"
 
 #: src-en/data/blueprints.xml.append:17964
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_RAMMING_SPEED\"]/desc"
 msgstr ""
+"Этот корабль способен таранить вражеские корабли, рискуя целостностью "
+"корпуса и двигателями. С мощными двигателями достигается огромная скорость "
+"тарана."
 
 #: src-en/data/blueprints.xml.append:17971
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MARKER_OBTAINED_FORGE\"]/title"
-msgstr ""
+msgstr "Голокузница Кузнеца"
 
 #: src-en/data/blueprints.xml.append:17972
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MARKER_OBTAINED_FORGE\"]/desc"
 msgstr ""
+"Может быть размещен на любом корабле. Позволяет бесплатно ковать предметы на "
+"складе."
 
 #: src-en/data/blueprints.xml.append:17979
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FORGEMASTER_ION_ARMOR\"]/title"
-msgstr ""
+msgstr "ИОННАЯ БРОНЯ"
 
 #: src-en/data/blueprints.xml.append:17980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FORGEMASTER_ION_ARMOR\"]/desc"
-msgstr ""
+msgstr "Вы - монстр"
 
 #: src-en/data/blueprints.xml.append:17987
 msgid ""
@@ -9149,17 +9178,19 @@ msgstr "ОШИБКА"
 #: src-en/data/blueprints.xml.append:17988
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_SUPER_AUTO_COOLDOWN\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:17996
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_NANO_FORGE_REPAIR\"]/title"
 msgstr ""
+"Позволяет вашему экипажу ремонтировать системы оружия, маскировки, дверей, "
+"кислорода, двигателей и щиты в 2.5 раза быстрее."
 
 #: src-en/data/blueprints.xml.append:17997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_NANO_FORGE_REPAIR\"]/desc"
-msgstr ""
+msgstr "Вы не должны этого видеть."
 
 #: src-en/data/blueprints.xml.append:18005
 msgid ""
@@ -9210,48 +9241,57 @@ msgstr "Выкованный катализатор"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_NANO_FORGE_ACCELERANT\"]/desc"
 msgstr ""
+"Дает 25% шанс противостоять всем типам урона, а также тушит пожары и "
+"заделывать пробоины."
 
 #: src-en/data/blueprints.xml.append:18046
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_CRUCIBLE_PLATING_PLAYER\"]/title"
-msgstr ""
+msgstr "Пластинчатая обшивка"
 
 #: src-en/data/blueprints.xml.append:18047
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_CRUCIBLE_PLATING_PLAYER\"]/desc"
 msgstr ""
+"Чрезвычайно прочная обшивка корпуса. Дает 25% шанс противостоять "
+"повреждениям корпуса, повреждениям системы и ионным повреждениям."
 
 #: src-en/data/blueprints.xml.append:18055
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_MEDBAY_NANO_FORGEMASTER_ENEMY\"]/title"
-msgstr ""
+msgstr "Кованные медботы"
 
 #: src-en/data/blueprints.xml.append:18056
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_MEDBAY_NANO_FORGEMASTER_ENEMY\"]/desc"
 msgstr ""
+"Исцеляет ваш экипаж на корабле, пока работает медотсек. Лечит со скоростью 1 "
+"ОЗ/с. Лечение увеличивается в зависимости от мощности системы."
 
 #: src-en/data/blueprints.xml.append:18064
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_REVIVE\"]/title"
-msgstr ""
+msgstr "Корабль-который-не-умирает"
 
 #: src-en/data/blueprints.xml.append:18065
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_REVIVE\"]/desc"
-msgstr ""
+msgstr "Это должно быть всегда скрыто."
 
 #: src-en/data/blueprints.xml.append:18072
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_SEPARATIST_TELEPORT\"]/title"
-msgstr ""
+msgstr "Телепортационная сеть"
 
 #: src-en/data/blueprints.xml.append:18073
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_SEPARATIST_TELEPORT\"]/desc"
 msgstr ""
+"Наряду с нанесением 2.7 ОЗ/с урона всем врагам на борту, позволяет экипажу "
+"телепортироваться в другие части корабля, находясь в определенных системных "
+"отсеках."
 
 #: src-en/data/blueprints.xml.append:18081
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_GUNBOM\"]/title"
-msgstr ""
+msgstr "Крейсер ГАНБОМ"
 
 #: src-en/data/blueprints.xml.append:18082
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_GUNBOM\"]/desc"
@@ -9269,7 +9309,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18099
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TWISTED_STEALTH\"]/title"
-msgstr ""
+msgstr "Искаженный стелс-крейсер"
 
 #: src-en/data/blueprints.xml.append:18100
 msgid ""
@@ -9279,53 +9319,59 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18108
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_REGEN\"]/title"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:18109
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_REGEN\"]/desc"
-msgstr ""
+msgstr "Уменьшает максимальное ОЗ, увеличивает регенерацию."
 
 #: src-en/data/blueprints.xml.append:18117
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_BIG\"]/title"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:18118
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_BIG\"]/desc"
-msgstr ""
+msgstr "Вдвое снижен урон, ОЗ уменьшены вдвое."
 
 #: src-en/data/blueprints.xml.append:18126
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_AIR\"]/title"
-msgstr ""
+msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:18127
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_AIR\"]/desc"
-msgstr ""
+msgstr "Теряют иммунитет к огню, полают иммунитет к удушью."
 
 #: src-en/data/blueprints.xml.append:18135
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/title"
-msgstr ""
+msgstr "Газообразные стимуляторы."
 
 #: src-en/data/blueprints.xml.append:18136
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/desc"
 msgstr ""
+"Экипаж получает 40% сопротивления оглушению и на 10% меньше урона от удушья."
 
 #: src-en/data/blueprints.xml.append:18144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_WEAPONS_BEAM_PIERCE\"]/title"
-msgstr ""
+msgstr "Улучшение фазы луча"
 
 #: src-en/data/blueprints.xml.append:18145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_WEAPONS_BEAM_PIERCE\"]/desc"
-msgstr ""
+msgstr "Улучшение - дает всем лучевым орудиям +1 пробития щита."
 
 #: src-en/data/blueprints.xml.append:18152
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EX_BEAM_PIERCE\"]/title"
-msgstr ""
+msgstr "Фазовые частоты лучей [В]"
 
 #: src-en/data/blueprints.xml.append:18153
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EX_BEAM_PIERCE\"]/desc"
 msgstr ""
+"Пробивание щита вашим лучевым оружием и артиллерией увеличено на 1.\n"
+"    \n"
+"\t\t[В] - Будучи внешним лабораторным улучшением, этот модуль дает свой "
+"обычный эффект, но занимает слот модуля. Может быть бесплатно преобразовано "
+"во внутреннюю версию в меню внутренних улучшений в категории \"Оружие\"."
 
 #: src-en/data/blueprints.xml.append:18163
 msgid ""
@@ -9336,93 +9382,132 @@ msgstr "Взломщик МВ-приводов К.У.Р.А."
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"CURA_MVBOSS_SPAWNER\"]/desc"
 msgstr ""
+"Может находить и взламывать МВ-приводы абсурдно мощных крейсеров "
+"Мультивселенной из других Искаженных реальностей. Для этого требуется 2 "
+"топлива, но процессе выполнения квеста можно породить любого МВ-босса. "
+"Всегда порождает их на новом уровне сложности \"Самоубийственная миссия\". "
+"Согласно К.У.Р.А., они приносят другие награды, чем раньше, и что-то "
+"произойдет, если вы победите их всех..."
 
 #: src-en/data/blueprints.xml.append:18172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AGGRESSIVE_GHOST_SPLITTER\"]/title"
-msgstr ""
+msgstr "АГРЕССИВНЫЙ быстрый делитель (TM)"
 
 #: src-en/data/blueprints.xml.append:18173
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AGGRESSIVE_GHOST_SPLITTER\"]/desc"
 msgstr ""
+"Запатентованная ТЕХНОЛОГИЯ РАЗДЕЛЕНИЯ призраков из другой вселенной. Быстро "
+"убивает всех призраков на корабле и переносит их насильственно расщепленные "
+"тела на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:18180
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOZER_FRIDGE\"]/title"
-msgstr ""
+msgstr "Холодильник Гозера"
 
 #: src-en/data/blueprints.xml.append:18181
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOZER_FRIDGE\"]/desc"
 msgstr ""
+"Этот мини-холодильник отлично подходит для хранения напитков и "
+"скоропортящихся продуктов. Кроме того, ваши призраки больше не смогут "
+"проходить сквозь двери, но зато они стали невероятно живучими! Все призраки "
+"в вашем экипаже получают +70% максимального здоровья и +30% скорости "
+"передвижения."
 
 #: src-en/data/blueprints.xml.append:18188
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FREEDOM_ROCK\"]/title"
-msgstr ""
+msgstr "Реликвия свободы валунов"
 
 #: src-en/data/blueprints.xml.append:18189
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FREEDOM_ROCK\"]/desc"
 msgstr ""
+"Эта крошечная статуэтка придает бодрости вашему экипажу валунов, и они "
+"увеличивают скорость передвижения до 1.8х!"
 
 #: src-en/data/blueprints.xml.append:18196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DEPRESSION_EMITTER\"]/title"
-msgstr ""
+msgstr "Излучатель депрессии"
 
 #: src-en/data/blueprints.xml.append:18197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DEPRESSION_EMITTER\"]/desc"
 msgstr ""
+"\"Жизнь - это боль, я ненавижу...\" Известная цитата знаменитого серийного "
+"убийцы Джереми 986-го. Эта реликвия содержит вечную сущность Джереми, "
+"выдающегося представителя пиявок. Излучает ауру депрессии, которая замедляет "
+"скорость передвижения и лечения всех врагов на 20%."
 
 #: src-en/data/blueprints.xml.append:18204
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BRAIN_DONATION\"]/title"
-msgstr ""
+msgstr "Хранитель разума"
 
 #: src-en/data/blueprints.xml.append:18205
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BRAIN_DONATION\"]/desc"
 msgstr ""
+"Амброзия. Этот тяжелый коктейль из наркотиков делает ваш экипаж "
+"невосприимчивым к контролю разума."
 
 #: src-en/data/blueprints.xml.append:18212
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DEATH_VESTS2\"]/title"
-msgstr ""
+msgstr "Сумеречные жилеты"
 
 #: src-en/data/blueprints.xml.append:18213
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DEATH_VESTS2\"]/desc"
 msgstr ""
+"Добавляет эффект смерти всем союзникам, не являющимся золтанами, заставляя "
+"их взрываться, нанося врагам 45 единиц урона, и иногда вызывая пожары. Не "
+"заменяет уже имеющиеся эффекты смерти у экипажа."
 
 #: src-en/data/blueprints.xml.append:18221
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TEA_EARL\"]/title"
-msgstr ""
+msgstr "Чай Эрл Грей"
 
 #: src-en/data/blueprints.xml.append:18222
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TEA_EARL\"]/desc"
 msgstr ""
+"Вкусный чай, который понравится даже ее королевскому высочеству. Дает всем "
+"союзным богомолам +20% скорости ремонта и +15 максимального здоровья."
 
 #: src-en/data/blueprints.xml.append:18230
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER\"]/title"
-msgstr ""
+msgstr "Катализатор феромонов"
 
 #: src-en/data/blueprints.xml.append:18231
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER\"]/desc"
 msgstr ""
+"Это небольшое устройство позволяет усилить эффект от феромонов, но снижает "
+"время действия всех способностей богомолов на 20%."
 
 #: src-en/data/blueprints.xml.append:18239
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS\"]/title"
-msgstr ""
+msgstr "Горючее биооружие"
 
 #: src-en/data/blueprints.xml.append:18240
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS\"]/desc"
 msgstr ""
+"Это биооружие заражает всех членов вашего экипажа, наделяя их активной "
+"способностью \"Зажечь\", даже тех, у кого уже есть активные способности. "
+"После заражения носитель не может от него избавиться. Что касается расы "
+"ракушек, то существующие у них способность \"Зажечь\" улучшаются, как "
+"правило, за счет уменьшения здоровья или большему урону по себе."
 
 #: src-en/data/blueprints.xml.append:18248
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ZOLTAN_LIMIT_RELEASE\"]/title"
-msgstr ""
+msgstr "Снятие ограничений золтан"
 
 #: src-en/data/blueprints.xml.append:18249
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ZOLTAN_LIMIT_RELEASE\"]/desc"
 msgstr ""
+"Ваши золтаны получают активную способность, которая снижает получаемый урон "
+"на 40% и увеличивает наносимый урон на 30%. Пока эта способность активна, "
+"они не выделяют энергию. Кроме того, золтаны получают дополнительные 15 "
+"единиц здоровья, а ваш корабль - золтанский щит на 5 единиц целостности."
 
 #: src-en/data/blueprints.xml.append:18256
 msgid ""
@@ -9433,6 +9518,9 @@ msgstr "Искаженная осколочная броня"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_CRYSTAL_ARMOR_50\"]/desc"
 msgstr ""
+"Эта кристаллическая броня функционирует аномальным образом. В 50% случаев, "
+"когда вы получаете урон по корпусу, она раскалывается на 3 взрывные "
+"кристаллические мины."
 
 #: src-en/data/blueprints.xml.append:18265
 msgid ""
@@ -9443,86 +9531,105 @@ msgstr "Искаженная осколочная броня"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_TWISTED_CRYSTAL_ARMOR_50\"]/desc"
 msgstr ""
+"Эта кристаллическая броня функционирует аномальным образом. В 50% случаев, "
+"когда вы получаете урон по корпусу, она раскалывается на 3 взрывные "
+"кристаллические мины."
 
 #: src-en/data/blueprints.xml.append:18274
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_SPEED_2\"]/title"
-msgstr ""
+msgstr "Стимулятор дронов мод. II"
 
 #: src-en/data/blueprints.xml.append:18275
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_SPEED_2\"]/desc"
 msgstr ""
+"Ваши дроны увеличивают скорость передвижения в три раза, а также на 50% "
+"повышают урон в бою/при саботаже и скорость ремонта/тушения. Складывается с "
+"другими усилителями."
 
 #: src-en/data/blueprints.xml.append:18282
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_WEAPONS_REPLICATOR_2\"]/title"
-msgstr ""
+msgstr "Искаженный изготовитель боеприпасов"
 
 #: src-en/data/blueprints.xml.append:18283
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_WEAPONS_REPLICATOR_2\"]/desc"
-msgstr ""
+msgstr "Улучшение - 60% шанс не использовать боеголовку при стрельбе."
 
 #: src-en/data/blueprints.xml.append:18290
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Стимулятор дронов \"Кай\""
 
 #: src-en/data/blueprints.xml.append:18291
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_COOLDOWN\"]/desc"
-msgstr ""
+msgstr "Дроны вашего экипажа перезаряжают свои способности в два раза быстрее."
 
 #: src-en/data/blueprints.xml.append:18298
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"NANOMACHINE_ARMOR_ENEMY\"]/title"
-msgstr ""
+msgstr "НАНОМАШИНА_БРОНЯ"
 
 #: src-en/data/blueprints.xml.append:18299
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"NANOMACHINE_ARMOR_ENEMY\"]/desc"
-msgstr ""
+msgstr "Дроны вашего экипажа перезаряжают свои способности в два раза быстрее."
 
 #: src-en/data/blueprints.xml.append:18306
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ORCHID_KINDLING_ENEMY\"]/title"
-msgstr ""
+msgstr "Садовый хворост"
 
 #: src-en/data/blueprints.xml.append:18307
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ORCHID_KINDLING_ENEMY\"]/desc"
 msgstr ""
+"Дает вашей Орхидее-Огненной лилии активную способность разжигать пожар "
+"каждые 15 секунд."
 
 #: src-en/data/blueprints.xml.append:18314
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ORCHID_KINDLING\"]/title"
-msgstr ""
+msgstr "Хворост для теплицы"
 
 #: src-en/data/blueprints.xml.append:18315
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ORCHID_KINDLING\"]/desc"
 msgstr ""
+"Дает вашей орхидее-Огненной лилии активную способность разжигать пожары "
+"каждые 15 секунд."
 
 #: src-en/data/blueprints.xml.append:18322
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FIRE_HEART\"]/title"
-msgstr ""
+msgstr "Металлическое огненное сердце"
 
 #: src-en/data/blueprints.xml.append:18323
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FIRE_HEART\"]/desc"
 msgstr ""
+"\"Разжигай пожары, почувствуй жар!\" Все обычные члены экипажа ланиусов "
+"исцеляются от огня со скоростью 3 ОЗ/с, медленнее расходуют кислород (на 70% "
+"меньше) и наносят на 20% меньше боевого урона."
 
 #: src-en/data/blueprints.xml.append:18330
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS_ENEMY\"]/title"
-msgstr ""
+msgstr "[В] Горючее биооружие"
 
 #: src-en/data/blueprints.xml.append:18331
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS_ENEMY\"]/desc"
 msgstr ""
+"Этот патогенный паразит заражает всех членов вашего экипажа, наделяя их "
+"активной способностью \"Зажечь\", даже тех, у кого уже есть активные "
+"способности. После заражения носитель не может от него избавиться.\n"
+"\t\t\t[В] - Будучи внешним лабораторным улучшением, этот модуль дает свой "
+"обычный эффект, но занимает слот модуля. Может быть бесплатно преобразовано "
+"во внутреннюю версию в меню внутренних улучшений \"Экзотика\"."
 
 #: src-en/data/blueprints.xml.append:18341
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_TUCO\"]/title"
-msgstr ""
+msgstr "Золотой Туко"
 
 #: src-en/data/blueprints.xml.append:18342
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_TUCO\"]/desc"
@@ -9534,7 +9641,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18350
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MALBORO_RED\"]/title"
-msgstr ""
+msgstr "Мальборо Квазар"
 
 #: src-en/data/blueprints.xml.append:18351
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MALBORO_RED\"]/desc"
@@ -9547,62 +9654,77 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"REALITY_RELOADER\"]/title"
-msgstr ""
+msgstr "Перезагрузчик реальности"
 
 #: src-en/data/blueprints.xml.append:18360
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"REALITY_RELOADER\"]/desc"
 msgstr ""
+"Этот таинственный перезагрузчик также увеличивает скорость перезарядки щита. "
+"На 15% увеличивается скорость перезарядки оружия и щита."
 
 #: src-en/data/blueprints.xml.append:18368
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_UPG_AETHER_SHIELDS\"]/title"
-msgstr ""
+msgstr "Эфирные щиты вознесения"
 
 #: src-en/data/blueprints.xml.append:18369
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_UPG_AETHER_SHIELDS\"]/desc"
 msgstr ""
+"Эффекты: Дает дополнительные 6 единиц целостности энергетического щита, "
+"которые складываются с другими энергетическими щитами."
 
 #: src-en/data/blueprints.xml.append:18376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_ZERG_CREW_STIMS\"]/title"
-msgstr ""
+msgstr "Феромоны зергов"
 
 #: src-en/data/blueprints.xml.append:18377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_ZERG_CREW_STIMS\"]/desc"
 msgstr ""
+"Феромоны, повышающие силу, которые распространяются через систему "
+"жизнеобеспечения. Каждый уровень энергии уменьшает время действия активной "
+"способности на 10%, увеличивает урон на 10% и скорость передвижения на 33%. "
+"Действует на оба корабля."
 
 #: src-en/data/blueprints.xml.append:18385
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_LOSTSUN\"]/title"
-msgstr ""
+msgstr "Перезагружающее реальность судно"
 
 #: src-en/data/blueprints.xml.append:18386
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_LOSTSUN\"]/desc"
 msgstr ""
+"Это судно может продержаться в бою только 75 секунд, прежде чем разорвется "
+"на части из-за ССД. Заканчивайте битвы быстро или мгновенно погибните."
 
 #: src-en/data/blueprints.xml.append:18394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_DRONE_REPAIR_SYSTEM\"]/title"
-msgstr ""
+msgstr "Инструменты для ремонта дрона"
 
 #: src-en/data/blueprints.xml.append:18395
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_DRONE_REPAIR_SYSTEM\"]/desc"
 msgstr ""
+"Этот корабль оснащен аварийными инструментами для ремонта дронов, что "
+"позволяет вашему экипажу ремонтировать систему контроля дронов на 40% "
+"быстрее."
 
 #: src-en/data/blueprints.xml.append:18403
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_ORCHID_HEAL\"]/title"
-msgstr ""
+msgstr "Вегетационный каламбурчик"
 
 #: src-en/data/blueprints.xml.append:18404
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_ORCHID_HEAL\"]/desc"
 msgstr ""
+"Орхидеи накладывают эффект исцеления на 0.4 ОЗ/с на всех союзников, "
+"находящихся в том же отсеке."
 
 #: src-en/data/blueprints.xml.append:18411
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_ZOLTAN_PERSONAL_SHIELD\"]/title"
-msgstr ""
+msgstr "Защита персонала"
 
 #: src-en/data/blueprints.xml.append:18412
 msgid ""
@@ -9612,56 +9734,67 @@ msgstr "Золтаны получают +15 здоровья."
 #: src-en/data/blueprints.xml.append:18419
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_SUPER_DEPRESSION\"]/title"
-msgstr ""
+msgstr "Уменьшитель мотивации"
 
 #: src-en/data/blueprints.xml.append:18420
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_SUPER_DEPRESSION\"]/desc"
 msgstr ""
+"Накладывает эффект депрессии на вражеский экипаж, вызывая истощение +1 "
+"энергии из их собственных систем."
 
 #: src-en/data/blueprints.xml.append:18427
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ABILITY_DEPRESS_TOGGLE\"]/title"
-msgstr ""
+msgstr "Вы не должны это видеть, хвастун."
 
 #: src-en/data/blueprints.xml.append:18428
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ABILITY_DEPRESS_TOGGLE\"]/desc"
 msgstr ""
+"Предполагается, что это скрытый модуль, который заставляет способность "
+"работать, когда это необходимо."
 
 #: src-en/data/blueprints.xml.append:18436
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_TAROT_CARDS\"]/title"
-msgstr ""
+msgstr "Карты Таро"
 
 #: src-en/data/blueprints.xml.append:18437
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_TAROT_CARDS\"]/desc"
-msgstr ""
+msgstr "Необычная колода карт, обладающая мощными и непредсказуемыми эффектами."
 
 #: src-en/data/blueprints.xml.append:18444
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_BLESSING\"]/title"
-msgstr ""
+msgstr "Искаженное благословение"
 
 #: src-en/data/blueprints.xml.append:18445
+#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_BLESSING\"]/desc"
 msgstr ""
+"Более темная версия обычного золтанского благословения, даруемая кем-то, "
+"кого лучше не называть. Позволяет избежать гнева, но при этом никогда им не "
+"воспользоваться. Опустошает вражеское судно в начале боя."
 
 #: src-en/data/blueprints.xml.append:18451
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PACIFISTIC_REGENERATION\"]/title"
-msgstr ""
+msgstr "Пацифистская регенерация"
 
 #: src-en/data/blueprints.xml.append:18452
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PACIFISTIC_REGENERATION\"]/desc"
 msgstr ""
+"За каждого живого вражеского члена экипажа на борту вашего корабля, все "
+"союзники постоянно регенерируют по 2.0 ОЗ/с. Предоставляет также "
+"энергетический щит на 5 единиц целостности."
 
 #: src-en/data/blueprints.xml.append:18468
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TWISTED_KLEPTOCRACY\"]/title"
-msgstr ""
+msgstr "Искаженный крейсер Клептократии"
 
 #: src-en/data/blueprints.xml.append:18469
 msgid ""
@@ -9671,66 +9804,98 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18477
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_ANCIENT_BOUNTY\"]/title"
-msgstr ""
+msgstr "Кодекс эфирных целей"
 
 #: src-en/data/blueprints.xml.append:18478
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_ANCIENT_BOUNTY\"]/desc"
 msgstr ""
+"Отыскав собственные технологии эфира, эти ненавидящие обелисков слизни "
+"решили, что нет лучшего способа использовать их, чем очистить "
+"Мультивселенную от всех древних, а также всех, кто достаточно глуп, чтобы "
+"встать на их пути. Чтобы добиться этого, они превратили свою крайне вредную "
+"привычку курить в оружие, которое увеличивает урон от удушья на 100% за "
+"каждый уровень жизнеобеспечения. К сожалению, из-за своей губительной для "
+"здоровья природы Мальборо Квазар также немного влияет на ваш корабль, "
+"заставляя всех членов экипажа получать дополнительные 25% урона от удушья."
 
 #: src-en/data/blueprints.xml.append:18486
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DECREPIT_MURDERBOTS\"]/title"
-msgstr ""
+msgstr "Ветхие наномашины"
 
 #: src-en/data/blueprints.xml.append:18487
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DECREPIT_MURDERBOTS\"]/desc"
 msgstr ""
+"Эти древние боты-убийцы, обветшавшие за долгие годы, теперь обладают лишь "
+"малой толикой прежней мощи. Но это не значит, что они бесполезны - они по-"
+"прежнему кромсают вражеских абордажников как бумагу. Пока двери "
+"функционируют, эти боты-убийцы наносят врагам 2 ОЗ/с урона, и еще 1 ОЗ/с за "
+"каждый включенный уровень дверей. В то время как наноботы разрывают "
+"вражеский экипаж на части, они также выделяют нейротоксин, который "
+"заставляет экипаж получать дополнительные 25% урона от всех других "
+"источников за каждый уровень работающих дверей."
 
 #: src-en/data/blueprints.xml.append:18495
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANCIENT_MURDERBOTS\"]/title"
-msgstr ""
+msgstr "Разрушительные наномашины"
 
 #: src-en/data/blueprints.xml.append:18496
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANCIENT_MURDERBOTS\"]/desc"
 msgstr ""
+"Обычно после такого долгого времени эти наномашины давно бы вышли из строя, "
+"но благодаря жестокости предыдущих владельцев они сохранялись и "
+"использовались очень долгое время. За каждый уровень питания дверей враги "
+"получают 2 ОЗ/с урона, а также 30% дополнительного урона от всех источников. "
+"Кроме того, у всех анаэробных обитателей будет потерян иммунитет к удушью."
 
 #: src-en/data/blueprints.xml.append:18504
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ROYAL_MURDERBOTS\"]/title"
-msgstr ""
+msgstr "Дворянские наномашины"
 
 #: src-en/data/blueprints.xml.append:18505
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ROYAL_MURDERBOTS\"]/desc"
 msgstr ""
+"Несмотря на долгие тысячелетия бездействия, эти наномашины прекрасно "
+"сохранились. Они быстро испепеляют экипаж корабля и почти мгновенно тушат "
+"пожары. Кроме того, все дружественные члены экипажа на борту вашего корабля "
+"получают полный иммунитет к огню."
 
 #: src-en/data/blueprints.xml.append:18514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HYPER_ADVANCED_VENTILATION\"]/title"
-msgstr ""
+msgstr "Гиперрегулируемая вентиляция"
 
 #: src-en/data/blueprints.xml.append:18515
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HYPER_ADVANCED_VENTILATION\"]/desc"
-msgstr ""
+msgstr "Делает именно то, что написано на жестянке."
 
 #: src-en/data/blueprints.xml.append:18523
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_MANTIS_UPGRADER\"]/title"
-msgstr ""
+msgstr "Королевский чай"
 
 #: src-en/data/blueprints.xml.append:18524
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_MANTIS_UPGRADER\"]/desc"
 msgstr ""
+"Любимый напиток бессмертного монарха, правящего далеким кластером Британия. "
+"Каждый уровень системы жизнеобеспечения, на который подается питание, "
+"повышает боевой урон всех членов экипажа на 15%, но при этом снижает "
+"скорость ремонта на 25%. Может быть использовано для модернизации/"
+"преобразования экипажа богомолов в меню склада, хотя ее величество потребует "
+"плату за свое могущество..."
 
 #: src-en/data/blueprints.xml.append:18531
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TWISTED_FREEMANTIS\"]/title"
-msgstr ""
+msgstr "Искаженный крейсер Свободных Богомолов"
 
 #: src-en/data/blueprints.xml.append:18532
 msgid ""
@@ -9740,26 +9905,29 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18540
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_FLAK_FORGE\"]/title"
-msgstr ""
+msgstr "Кованная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:18542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_FLAK_FORGE\"]/desc"
-msgstr ""
+msgstr "Кованная осколочная пушка выброса"
 
 #: src-en/data/blueprints.xml.append:18549
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_HULL_ARM\"]/title"
-msgstr ""
+msgstr "Самооружие"
 
 #: src-en/data/blueprints.xml.append:18550
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_HULL_ARM\"]/desc"
 msgstr ""
+"Универсальная система, способная захватывать дроны и примагничивать обломки. "
+"Кроме того, он может захватывать оторванные куски корпуса, чтобы разобрать "
+"их на металлолом.(-90% лома, но полученный урон преобразуется в лом)"
 
 #: src-en/data/blueprints.xml.append:18556
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_TWISTED_ROCK\"]/title"
-msgstr ""
+msgstr "Искаженный крейсер валунов"
 
 #: src-en/data/blueprints.xml.append:18557
 msgid ""
@@ -9769,17 +9937,23 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18564
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_DECONSTRUCTIVE_GAS\"]/title"
-msgstr ""
+msgstr "Разлагающий газ"
 
 #: src-en/data/blueprints.xml.append:18565
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_DECONSTRUCTIVE_GAS\"]/desc"
 msgstr ""
+"Эта ужасающая смесь нейротоксинов и вирусных агентов со временем уничтожит "
+"всех вражеских абордажников. Разрушая абордажников таким образом, вы "
+"получаете ценные научные данные, которые экипаж ракушек может использовать "
+"для своего усиления. Кроме того, все вражеские экипажи, погибшие на борту "
+"вашего корабля, не могут быть клонированы из-за серьезных генетических "
+"повреждений."
 
 #: src-en/data/blueprints.xml.append:18572
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DECONSTUCT_HEALTH_BOOST\"]/title"
-msgstr ""
+msgstr "Деконструктивный рост здоровья"
 
 #: src-en/data/blueprints.xml.append:18573
 msgid ""
@@ -9789,7 +9963,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_BOARDING_SPLITTER\"]/title"
-msgstr ""
+msgstr "Жертвенный портал абордажников"
 
 #: src-en/data/blueprints.xml.append:18584
 msgid ""
@@ -9799,17 +9973,20 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_SUMMON\"]/title"
-msgstr ""
+msgstr "Холодильник с приведениями"
 
 #: src-en/data/blueprints.xml.append:18593
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_SUMMON\"]/desc"
 msgstr ""
+"Таинственный холодильник, наполненный газом и непостижимой силой. Что бы ни "
+"находилось внутри, похоже, оно получает огромное удовольствие от смерти "
+"ваших врагов..."
 
 #: src-en/data/blueprints.xml.append:18604
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_PURGE\"]/title"
-msgstr ""
+msgstr "Призрачный Чистильщик"
 
 #: src-en/data/blueprints.xml.append:18605
 msgid ""
@@ -9819,72 +9996,72 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18621
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_2\"]/title"
-msgstr ""
+msgstr "Поврежденный перезарядчик"
 
 #: src-en/data/blueprints.xml.append:18622
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_2\"]/desc"
-msgstr ""
+msgstr "7% перезарядка"
 
 #: src-en/data/blueprints.xml.append:18629
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_3\"]/title"
-msgstr ""
+msgstr "Индивидуальный перезарядчик"
 
 #: src-en/data/blueprints.xml.append:18630
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_3\"]/desc"
-msgstr ""
+msgstr "10% перезарядки"
 
 #: src-en/data/blueprints.xml.append:18640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_PLATED\"]/title"
-msgstr ""
+msgstr "Благо пластинчатых"
 
 #: src-en/data/blueprints.xml.append:18641
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_PLATED\"]/desc"
-msgstr ""
+msgstr "Экипаж Пластинчатых получает +1 заряд способностей."
 
 #: src-en/data/blueprints.xml.append:18649
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEARMOR\"]/title"
-msgstr ""
+msgstr "Дар бронирования"
 
 #: src-en/data/blueprints.xml.append:18650
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEARMOR\"]/desc"
-msgstr ""
+msgstr "Модульный корпус имеет +5 ячеек."
 
 #: src-en/data/blueprints.xml.append:18658
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON\"]/title"
-msgstr ""
+msgstr "Благословение кузниц"
 
 #: src-en/data/blueprints.xml.append:18659
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON\"]/desc"
-msgstr ""
+msgstr "Кузнец всегда будет появляться."
 
 #: src-en/data/blueprints.xml.append:18665
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON_2\"]/title"
-msgstr ""
+msgstr "Великое благословение кузниц"
 
 #: src-en/data/blueprints.xml.append:18666
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON_2\"]/desc"
-msgstr ""
+msgstr "У Кузнеца есть более крупный магазин."
 
 #: src-en/data/blueprints.xml.append:18672
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_ANCWEAPON\"]/title"
-msgstr ""
+msgstr "Благословение глупцов"
 
 #: src-en/data/blueprints.xml.append:18673
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_ANCWEAPON\"]/desc"
-msgstr ""
+msgstr "Кристаллы Анкалагона наносят на 50% меньше урона."
 
 #: src-en/data/blueprints.xml.append:18679
 msgid ""
@@ -9894,152 +10071,191 @@ msgstr "Благословение искажения"
 #: src-en/data/blueprints.xml.append:18680
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_TERMINUS\"]/desc"
-msgstr ""
+msgstr "Характеристики вашего корабля и экипажа увеличиваются на 5%."
 
 #: src-en/data/blueprints.xml.append:18688
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOZER_FRIDGE\"]/title"
-msgstr ""
+msgstr "Холодильник Гозера"
 
 #: src-en/data/blueprints.xml.append:18689
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOZER_FRIDGE\"]/desc"
 msgstr ""
+"Этот мини-холодильник отлично подходит для хранения напитков и "
+"скоропортящихся продуктов. Кроме того, ваши призраки больше не смогут "
+"проходить сквозь двери, но зато они стали невероятно живучими! Все призраки "
+"в вашем экипаже получают +70% максимального здоровья и +30% скорости "
+"передвижения."
 
 #: src-en/data/blueprints.xml.append:18696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FREEDOM_ROCK\"]/title"
-msgstr ""
+msgstr "Реликвия свободы валунов"
 
 #: src-en/data/blueprints.xml.append:18697
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FREEDOM_ROCK\"]/desc"
 msgstr ""
+"Эта крошечная статуэтка придает бодрости вашему экипажу валунов, и они "
+"увеличивают скорость передвижения до 1.8х!"
 
 #: src-en/data/blueprints.xml.append:18704
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEPRESSION_EMITTER\"]/title"
-msgstr ""
+msgstr "Излучатель депрессии"
 
 #: src-en/data/blueprints.xml.append:18705
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEPRESSION_EMITTER\"]/desc"
 msgstr ""
+"\"Жизнь - это боль, я ненавижу...\" Известная цитата знаменитого серийного "
+"убийцы Джереми 986-го. Эта реликвия содержит вечную сущность Джереми, "
+"выдающегося представителя пиявок. Излучает ауру депрессии, которая замедляет "
+"скорость передвижения и лечения всех врагов на 20%."
 
 #: src-en/data/blueprints.xml.append:18712
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_BRAIN_DONATION\"]/title"
-msgstr ""
+msgstr "Хранитель разума"
 
 #: src-en/data/blueprints.xml.append:18713
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_BRAIN_DONATION\"]/desc"
 msgstr ""
+"Амброзия. Этот тяжелый коктейль из наркотиков делает ваш экипаж "
+"невосприимчивым к контролю разума."
 
 #: src-en/data/blueprints.xml.append:18720
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEATH_VESTS2\"]/title"
-msgstr ""
+msgstr "Сумеречные жилеты"
 
 #: src-en/data/blueprints.xml.append:18721
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEATH_VESTS2\"]/desc"
 msgstr ""
+"Добавляет эффект смерти всем союзникам, не являющимся золтанами, заставляя "
+"их взрываться, нанося врагам 45 единиц урона, и иногда вызывая пожары. Не "
+"заменяет уже имеющиеся эффекты смерти у экипажа."
 
 #: src-en/data/blueprints.xml.append:18729
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_TEA_EARL\"]/title"
-msgstr ""
+msgstr "Чай Эрл Грей"
 
 #: src-en/data/blueprints.xml.append:18730
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_TEA_EARL\"]/desc"
 msgstr ""
+"Вкусный чай, который понравится даже ее королевскому высочеству. Дает всем "
+"союзным богомолам +20% скорости ремонта и +15 максимального здоровья."
 
 #: src-en/data/blueprints.xml.append:18738
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_MAGATAMA\"]/title"
-msgstr ""
+msgstr "Магатама"
 
 #: src-en/data/blueprints.xml.append:18739
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_MAGATAMA\"]/desc"
 msgstr ""
+"Эффекты: +40% скорости исцеления экипажа, 5% сопротивляемости урону для "
+"экипажа."
 
 #: src-en/data/blueprints.xml.append:18746
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MANTIS_RELOADER\"]/title"
-msgstr ""
+msgstr "Катализатор феромонов"
 
 #: src-en/data/blueprints.xml.append:18747
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MANTIS_RELOADER\"]/desc"
 msgstr ""
+"Это небольшое устройство позволяет усилить эффект от феромонов, но снижает "
+"время действия всех способностей богомолов на 20%."
 
 #: src-en/data/blueprints.xml.append:18754
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER_ENEMY\"]/title"
-msgstr ""
+msgstr "Катализатор феромонов"
 
 #: src-en/data/blueprints.xml.append:18755
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER_ENEMY\"]/desc"
 msgstr ""
+"Это небольшое устройство позволяет усилить эффект от феромонов, но снижает "
+"время действия всех способностей богомолов на 20%."
 
 #: src-en/data/blueprints.xml.append:18763
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_COMBUSTION_VIRUS\"]/title"
-msgstr ""
+msgstr "Горючее биооружие"
 
 #: src-en/data/blueprints.xml.append:18764
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_COMBUSTION_VIRUS\"]/desc"
 msgstr ""
+"Это биооружие заражает всех членов вашего экипажа, наделяя их активной "
+"способностью \"Зажечь\", даже тех, у кого уже есть активные способности. "
+"После заражения носитель не может от него избавиться. Что касается расы "
+"ракушек, то существующие у них способность \"Зажечь\" улучшаются, как "
+"правило, за счет уменьшения здоровья или большему урону по себе."
 
 #: src-en/data/blueprints.xml.append:18772
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_LAB_ZOLTAN_LIMIT_RELEASE\"]/title"
-msgstr ""
+msgstr "Снятие ограничений золтан"
 
 #: src-en/data/blueprints.xml.append:18773
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_LAB_ZOLTAN_LIMIT_RELEASE\"]/desc"
 msgstr ""
+"Ваши золтаны получают активную способность, которая снижает получаемый урон "
+"на 40% и увеличивает наносимый урон на 30%. Пока эта способность активна, "
+"они не выделяют энергию. Кроме того, золтаны получают дополнительные 15 "
+"единиц здоровья, а ваш корабль - золтанский щит на 5 единиц целостности."
 
 #: src-en/data/blueprints.xml.append:18780
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_SPEED_2\"]/title"
-msgstr ""
+msgstr "Стимулятор дронов мод. II"
 
 #: src-en/data/blueprints.xml.append:18781
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_SPEED_2\"]/desc"
 msgstr ""
+"Ваши дроны увеличивают скорость передвижения в три раза, а также на 50% "
+"повышают урон в бою/при саботаже и скорость ремонта/тушения. Складывается с "
+"другими усилителями."
 
 #: src-en/data/blueprints.xml.append:18788
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_WEAPONS_REPLICATOR_2\"]/title"
-msgstr ""
+msgstr "Искаженный изготовитель боеприпасов"
 
 #: src-en/data/blueprints.xml.append:18789
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_WEAPONS_REPLICATOR_2\"]/desc"
-msgstr ""
+msgstr "Улучшение - 60% шанс не использовать боеголовку при стрельбе."
 
 #: src-en/data/blueprints.xml.append:18796
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Стимулятор дронов \"Кай\""
 
 #: src-en/data/blueprints.xml.append:18797
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_COOLDOWN\"]/desc"
-msgstr ""
+msgstr "Дроны вашего экипажа перезаряжают свои способности в два раза быстрее."
 
 #: src-en/data/blueprints.xml.append:18804
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FIRE_HEART\"]/title"
-msgstr ""
+msgstr "Металлическое огненное сердце"
 
 #: src-en/data/blueprints.xml.append:18805
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FIRE_HEART\"]/desc"
 msgstr ""
+"\"Разжигай пожары, почувствуй жар!\" Все обычные члены экипажа ланиусов "
+"исцеляются от огня со скоростью 3 ОЗ/с, медленнее расходуют кислород (на 70% "
+"меньше) и наносят на 20% меньше боевого урона."
 
 #: src-en/data/blueprints.xml.append:18812
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOLDEN_TUCO\"]/title"
-msgstr ""
+msgstr "Золотой Туко"
 
 #: src-en/data/blueprints.xml.append:18813
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOLDEN_TUCO\"]/desc"
@@ -10051,7 +10267,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18821
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MALBORO_RED\"]/title"
-msgstr ""
+msgstr "Мальборо Квазар"
 
 #: src-en/data/blueprints.xml.append:18822
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MALBORO_RED\"]/desc"
@@ -10064,40 +10280,44 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18830
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_REALITY_RELOADER\"]/title"
-msgstr ""
+msgstr "Перезагрузчик реальности"
 
 #: src-en/data/blueprints.xml.append:18831
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_REALITY_RELOADER\"]/desc"
 msgstr ""
+"Этот таинственный перезагрузчик также увеличивает скорость перезарядки щита. "
+"На 15% увеличивается скорость перезарядки оружия и щита."
 
 #: src-en/data/blueprints.xml.append:18839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FM_UPG_AETHER_SHIELDS\"]/title"
-msgstr ""
+msgstr "Эфирные щиты вознесения"
 
 #: src-en/data/blueprints.xml.append:18840
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FM_UPG_AETHER_SHIELDS\"]/desc"
 msgstr ""
+"Эффекты: Дает дополнительные 6 единиц целостности энергетического щита, "
+"которые складываются с другими энергетическими щитами."
 
 #: src-en/data/blueprints.xml.append:18847
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_TERMINUS\"]/title"
-msgstr ""
+msgstr "Награда за победу над боссом"
 
 #: src-en/data/blueprints.xml.append:18848
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_TERMINUS\"]/desc"
-msgstr ""
+msgstr "Эффекты: все характеристики экипажа +40%."
 
 #: src-en/data/blueprints.xml.append:18857
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_UPGRADE_EXTRANOTCHES\"]/title"
-msgstr ""
+msgstr "Модульный стабилизатор корпуса"
 
 #: src-en/data/blueprints.xml.append:18858
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_UPGRADE_EXTRANOTCHES\"]/desc"
-msgstr ""
+msgstr "Увеличивает лимит улучшений."
 
 #: src-en/data/blueprints.xml.append:18867
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/title"
@@ -10126,675 +10346,729 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18882
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FORTIFIED\"]/title"
-msgstr ""
+msgstr "Усиленная обшивка"
 
 #: src-en/data/blueprints.xml.append:18883
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FORTIFIED\"]/desc"
-msgstr ""
+msgstr "+5% сопротивления корпуса"
 
 #: src-en/data/blueprints.xml.append:18890
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_ENCASED\"]/title"
-msgstr ""
+msgstr "Герметичные системы"
 
 #: src-en/data/blueprints.xml.append:18891
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_ENCASED\"]/desc"
-msgstr ""
+msgstr "+10% сопротивления систем"
 
 #: src-en/data/blueprints.xml.append:18898
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_NO_BREACH\"]/title"
-msgstr ""
+msgstr "Отражение пробоин"
 
 #: src-en/data/blueprints.xml.append:18899
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_NO_BREACH\"]/desc"
-msgstr ""
+msgstr "-10% шанс появления пробоины"
 
 #: src-en/data/blueprints.xml.append:18906
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_NO_FIRE\"]/title"
-msgstr ""
+msgstr "Отражение пожара"
 
 #: src-en/data/blueprints.xml.append:18907
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_NO_FIRE\"]/desc"
-msgstr ""
+msgstr "-10% шанс на возникновение пожара"
 
 #: src-en/data/blueprints.xml.append:18914
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESILIENT\"]/title"
-msgstr ""
+msgstr "Устойчивая конструкция"
 
 #: src-en/data/blueprints.xml.append:18915
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESILIENT\"]/desc"
-msgstr ""
+msgstr "-20% урона от саботажа на корабле"
 
 #: src-en/data/blueprints.xml.append:18922
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_GUARDIAN\"]/title"
-msgstr ""
+msgstr "Протоколы стражей"
 
 #: src-en/data/blueprints.xml.append:18923
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_GUARDIAN\"]/desc"
-msgstr ""
+msgstr "Ваш экипаж получает на 13% меньше урона (мультипликативно)"
 
 #: src-en/data/blueprints.xml.append:18930
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FLOORING\"]/title"
-msgstr ""
+msgstr "Интеллигентные полы"
 
 #: src-en/data/blueprints.xml.append:18931
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FLOORING\"]/desc"
 msgstr ""
+"Ваш экипаж передвигается на 45% быстрее на вашем корабле, а вражеский экипаж "
+"передвигается на 15% медленнее на вашем корабле (мультипликативно)"
 
 #: src-en/data/blueprints.xml.append:18938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_AERO\"]/title"
-msgstr ""
+msgstr "Вдохновляющие аэрозоли"
 
 #: src-en/data/blueprints.xml.append:18939
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_AERO\"]/desc"
 msgstr ""
+"Ваш экипаж перезаряжает способности на 100% быстрее (линейно), вражеский "
+"экипаж перезаряжает способности на 30% медленнее (мультипликативно)"
 
 #: src-en/data/blueprints.xml.append:18946
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESPIRATION\"]/title"
-msgstr ""
+msgstr "Улучшенные поля дыхания"
 
 #: src-en/data/blueprints.xml.append:18947
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESPIRATION\"]/desc"
 msgstr ""
+"0.8х скорость удушья для вашего экипажа на корабле, увеличивается в "
+"несколько раз за каждую мощность вашей кислородной установки (при 0 мощности "
+"эффекта нет)"
 
 #: src-en/data/blueprints.xml.append:18954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SCRAP\"]/title"
-msgstr ""
+msgstr "Магнит для лома"
 
 #: src-en/data/blueprints.xml.append:18955
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SCRAP\"]/desc"
 msgstr ""
+"Маленький магнит для сбора лома, который увеличивает поступления лома на 5%"
 
 #: src-en/data/blueprints.xml.append:18963
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE1\"]/title"
-msgstr ""
+msgstr "Защитный призматический культиватор"
 
 #: src-en/data/blueprints.xml.append:18964
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE1\"]/desc"
-msgstr ""
+msgstr "60% шанса выстрелить 2 лазерами, наносящими 1 урон (10% шанс на пожар)"
 
 #: src-en/data/blueprints.xml.append:18971
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE2\"]/title"
-msgstr ""
+msgstr "Защитный кристаллический культиватор"
 
 #: src-en/data/blueprints.xml.append:18972
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE2\"]/desc"
 msgstr ""
+"60% шанс активировать месть и выпустить 2 кристалла наносящих по 1 урону(40% "
+"шанс пожара, проникает через 1 слой щита)"
 
 #: src-en/data/blueprints.xml.append:18979
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE3\"]/title"
-msgstr ""
+msgstr "Защитный кузнечный культиватор"
 
 #: src-en/data/blueprints.xml.append:18980
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE3\"]/desc"
 msgstr ""
+"60% шанс выстрелить двумя магнитными осколками, наносящими 1 урон(проникает "
+"через 10 слоев щита, 100% точность, 10% шанс вызвать пожар 50% шанс создать "
+"пробоину двойной урон по отсекам без систем)"
 
 #: src-en/data/blueprints.xml.append:18988
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_MED\"]/title"
-msgstr ""
+msgstr "Модульная турель (Мед)"
 
 #: src-en/data/blueprints.xml.append:18989
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_MED\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:18996
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_OXYGEN\"]/title"
-msgstr ""
+msgstr "Модульная турель (Кислород)"
 
 #: src-en/data/blueprints.xml.append:18997
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_OXYGEN\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19004
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TELEPORTER\"]/title"
-msgstr ""
+msgstr "Модульная турель (Телепортатор)"
 
 #: src-en/data/blueprints.xml.append:19005
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TELEPORTER\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19012
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Модульная турель (Артиллерия)"
 
 #: src-en/data/blueprints.xml.append:19013
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ARTILLERY\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19020
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_CLOAKING\"]/title"
-msgstr ""
+msgstr "Модульная турель (Маскировка)"
 
 #: src-en/data/blueprints.xml.append:19021
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_CLOAKING\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19028
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_MIND\"]/title"
-msgstr ""
+msgstr "Модульная турель (Контроль разума)"
 
 #: src-en/data/blueprints.xml.append:19029
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_MIND\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19036
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_HACKING\"]/title"
-msgstr ""
+msgstr "Модульная турель (Взломщик)"
 
 #: src-en/data/blueprints.xml.append:19037
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_HACKING\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19044
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DRONES\"]/title"
-msgstr ""
+msgstr "Модульная турель (Дроны)"
 
 #: src-en/data/blueprints.xml.append:19045
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DRONES\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19052
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ENGINES\"]/title"
-msgstr ""
+msgstr "Модульная турель (Двигатели)"
 
 #: src-en/data/blueprints.xml.append:19053
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ENGINES\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19060
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_WEAPONS\"]/title"
-msgstr ""
+msgstr "Модульная турель (Оружие)"
 
 #: src-en/data/blueprints.xml.append:19061
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_WEAPONS\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19068
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SHIELDS\"]/title"
-msgstr ""
+msgstr "Модульная турель (Щиты)"
 
 #: src-en/data/blueprints.xml.append:19069
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SHIELDS\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19076
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SENSORS\"]/title"
-msgstr ""
+msgstr "Модульная турель (Сенсоры)"
 
 #: src-en/data/blueprints.xml.append:19077
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SENSORS\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19084
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DOORS\"]/title"
-msgstr ""
+msgstr "Модульная турель (Двери)"
 
 #: src-en/data/blueprints.xml.append:19085
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DOORS\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_PILOT\"]/title"
-msgstr ""
+msgstr "Модульная турель (Рулевая рубка)"
 
 #: src-en/data/blueprints.xml.append:19093
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_PILOT\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19100
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_BATTERY\"]/title"
-msgstr ""
+msgstr "Модульная турель (Батарея)"
 
 #: src-en/data/blueprints.xml.append:19101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_BATTERY\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19108
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TEMPORAL\"]/title"
-msgstr ""
+msgstr "Модульная турель (Временной манипулятор)"
 
 #: src-en/data/blueprints.xml.append:19109
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TEMPORAL\"]/desc"
-msgstr ""
+msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/дронам в этой системе."
 
 #: src-en/data/blueprints.xml.append:19117
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SHIELDS\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Щиты)"
 
 #: src-en/data/blueprints.xml.append:19118
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SHIELDS\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19125
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ENGINES\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Двигатели)"
 
 #: src-en/data/blueprints.xml.append:19126
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ENGINES\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19133
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MED\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Медицина)"
 
 #: src-en/data/blueprints.xml.append:19134
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MED\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19141
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_OXYGEN\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Кислород)"
 
 #: src-en/data/blueprints.xml.append:19142
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_OXYGEN\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19149
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Телепортатор)"
 
 #: src-en/data/blueprints.xml.append:19150
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19157
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_CLOAKING\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Маскировка)"
 
 #: src-en/data/blueprints.xml.append:19158
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_CLOAKING\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19165
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Артиллерия)"
 
 #: src-en/data/blueprints.xml.append:19166
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19173
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MIND\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Контроль разума)"
 
 #: src-en/data/blueprints.xml.append:19174
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MIND\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19181
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_HACKING\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Взломщик)"
 
 #: src-en/data/blueprints.xml.append:19182
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_HACKING\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_WEAPONS\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Оружие)"
 
 #: src-en/data/blueprints.xml.append:19190
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_WEAPONS\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DRONES\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Дроны)"
 
 #: src-en/data/blueprints.xml.append:19198
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DRONES\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_PILOT\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Рулевая рубка)"
 
 #: src-en/data/blueprints.xml.append:19206
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_PILOT\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SENSORS\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Сенсоры)"
 
 #: src-en/data/blueprints.xml.append:19214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SENSORS\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19221
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DOORS\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Двери)"
 
 #: src-en/data/blueprints.xml.append:19222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DOORS\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19229
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_BATTERY\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Батарея)"
 
 #: src-en/data/blueprints.xml.append:19230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_BATTERY\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19237
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\"]/title"
-msgstr ""
+msgstr "Улучшение системы (Временной манипулятор)"
 
 #: src-en/data/blueprints.xml.append:19238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\"]/desc"
-msgstr ""
+msgstr "Скорость ремонта +40%, скорость саботажа -40% в этой системе."
 
 #: src-en/data/blueprints.xml.append:19245
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MIND_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Модульный корпус перезарядки контроля разума"
 
 #: src-en/data/blueprints.xml.append:19246
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MIND_COOLDOWN\"]/desc"
 msgstr ""
+"Уменьшает время перезарядки системы контроля разума на 5 секунд. Считается "
+"одним улучшением ячейки."
 
 #: src-en/data/blueprints.xml.append:19253
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Модульный корпус перезарядки маскировки"
 
 #: src-en/data/blueprints.xml.append:19254
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\"]/desc"
 msgstr ""
+"Уменьшает время перезарядки системы маскировки на 5 секунд. Считается одним "
+"улучшением ячейки."
 
 #: src-en/data/blueprints.xml.append:19261
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_HACK_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Модульный корпус перезарядки взломщика"
 
 #: src-en/data/blueprints.xml.append:19262
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_HACK_COOLDOWN\"]/desc"
 msgstr ""
+"Уменьшает время перезарядки системы взломщика на 5 секунд. Считается одним "
+"улучшением ячейки."
 
 #: src-en/data/blueprints.xml.append:19269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Модульный корпус перезарядки временного манипулятора"
 
 #: src-en/data/blueprints.xml.append:19270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\"]/desc"
 msgstr ""
+"Уменьшает время перезарядки системы временного манипулятора на 5 секунд. "
+"Считается одним улучшением ячейки."
 
 #: src-en/data/blueprints.xml.append:19279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RAPID_MIND\"]/title"
-msgstr ""
+msgstr "Ускоренный церебральный манипулятор"
 
 #: src-en/data/blueprints.xml.append:19280
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RAPID_MIND\"]/desc"
 msgstr ""
+"Система контроля разума перезаряжается на 10 секунд быстрее, но действует "
+"лишь на восьмую часть времени."
 
 #: src-en/data/blueprints.xml.append:19287
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SALT\"]/title"
-msgstr ""
+msgstr "Соляной корпус"
 
 #: src-en/data/blueprints.xml.append:19288
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SALT\"]/desc"
-msgstr ""
+msgstr "+100% ионный ресурс, органический экипаж получает 0.5 ОЗ/с урона"
 
 #: src-en/data/blueprints.xml.append:19295
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DUSK\"]/title"
-msgstr ""
+msgstr "Устаревший реактор Вестников Заката"
 
 #: src-en/data/blueprints.xml.append:19296
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DUSK\"]/desc"
 msgstr ""
+"+20% к скорости перезарядки оружия и щита, характеристики экипажа "
+"уменьшаются на 20% (получаемый урон +20%)"
 
 #: src-en/data/blueprints.xml.append:19303
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_COMPRESS\"]/title"
-msgstr ""
+msgstr "Обходной коллектор компрессора"
 
 #: src-en/data/blueprints.xml.append:19304
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_COMPRESS\"]/desc"
 msgstr ""
+"Оружие перезаряжается на 30% быстрее, но скорость перезарядки щита "
+"уменьшается на 60%."
 
 #: src-en/data/blueprints.xml.append:19311
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_PARTICLE\"]/title"
-msgstr ""
+msgstr "Щиты с частицами"
 
 #: src-en/data/blueprints.xml.append:19312
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_PARTICLE\"]/desc"
 msgstr ""
+"8-слойный Энергетический щит (суммируется с другими), но скорость "
+"перезарядки щитов снижается на 50%]"
 
 #: src-en/data/blueprints.xml.append:19319
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPLINK\"]/title"
-msgstr ""
+msgstr "Матрицы восходящей связи оружия"
 
 #: src-en/data/blueprints.xml.append:19320
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPLINK\"]/desc"
 msgstr ""
+"Экипаж получает на 5% меньше урона и наносит на 25% больше за каждую "
+"запитанную единицу оружия, однако оружие перезаряжается на 40% медленнее."
 
 #: src-en/data/blueprints.xml.append:19327
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_PERFECT\"]/title"
-msgstr ""
+msgstr "Безупречная бортовая эффективность"
 
 #: src-en/data/blueprints.xml.append:19328
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_PERFECT\"]/desc"
-msgstr ""
+msgstr "+5% ко всему (характеристики экипажа, перезарядка, щит)"
 
 #: src-en/data/blueprints.xml.append:19335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MURAL\"]/title"
-msgstr ""
+msgstr "Фрески для корпуса"
 
 #: src-en/data/blueprints.xml.append:19336
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MURAL\"]/desc"
 msgstr ""
+"Все полезные характеристики экипажа +30%, 50% шанс получить +1 урон корпусу."
 
 #: src-en/data/blueprints.xml.append:19349
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTSHIELD\"]/title"
-msgstr ""
+msgstr "Бесконечный цикло-барьер"
 
 #: src-en/data/blueprints.xml.append:19350
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTSHIELD\"]/desc"
 msgstr ""
+"Противник проникает на 1 слой щита меньше, +50% перезарядки за "
+"неиспользованную единицу энергии, 1-0.8^(пустые единицы энергии+1) шанс "
+"полностью избежать/ уничтожить нелучевой снаряд (увеличивается с единицами "
+"энергии)."
 
 #: src-en/data/blueprints.xml.append:19358
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTWEAPON\"]/title"
-msgstr ""
+msgstr "Бесконечный цикло-арсенал"
 
 #: src-en/data/blueprints.xml.append:19359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTWEAPON\"]/desc"
 msgstr ""
+"Вражеские орудия заряжаются на 5% медленнее, но заряжается на 15% быстрее за "
+"каждую неиспользованную единицу мощности системы оружия."
 
 #: src-en/data/blueprints.xml.append:19367
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CREWKILL\"]/title"
-msgstr ""
+msgstr "Аура метаплазматической коррозии"
 
 #: src-en/data/blueprints.xml.append:19368
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CREWKILL\"]/desc"
-msgstr ""
+msgstr "Вражеский экипаж получает 1.5х урона, но только 50% боевого урона."
 
 #: src-en/data/blueprints.xml.append:19375
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MAGNETIC\"]/title"
-msgstr ""
+msgstr "Электромагнитный корпус"
 
 #: src-en/data/blueprints.xml.append:19376
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MAGNETIC\"]/desc"
 msgstr ""
+"+30% сопротивление ионам, +50% скорость деионизации, +10% сопротивление "
+"системам, +10% добыча лома, синие опции магнитного крана, -3 мощность "
+"реактора"
 
 #: src-en/data/blueprints.xml.append:19383
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESISTSMASH\"]/title"
-msgstr ""
+msgstr "Калибратор невыразимых орденов"
 
 #: src-en/data/blueprints.xml.append:19384
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESISTSMASH\"]/desc"
 msgstr ""
+"+40% шанс пробоины, сопротивление корпуса, систем и ионам уменьшается на "
+"15%, скорость перезарядки оружия уменьшается на 10%."
 
 #: src-en/data/blueprints.xml.append:19391
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_WEAPON_IGNITE\"]/title"
-msgstr ""
+msgstr "Поджигатель оружия"
 
 #: src-en/data/blueprints.xml.append:19392
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_WEAPON_IGNITE\"]/desc"
-msgstr ""
+msgstr "+50% скорости перезарядки оружия, стрельба поджигает систему оружия"
 
 #: src-en/data/blueprints.xml.append:19399
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/title"
-msgstr ""
+msgstr "Нарушающий генератор помех"
 
 #: src-en/data/blueprints.xml.append:19400
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/desc"
 msgstr ""
+"-20% скорости перезарядки противника, -20% перезарядки щита, +5с перезарядки "
+"маскировки, +5с перезарядки взломщика."
 
 #: src-en/data/blueprints.xml.append:19407
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\"]/title"
-msgstr ""
+msgstr "Защитный генератор помех"
 
 #: src-en/data/blueprints.xml.append:19408
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\"]/desc"
 msgstr ""
+"-30% перезарядки щита противника, +5с к перезарядке маскировки противника."
 
 #: src-en/data/blueprints.xml.append:19415
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_BEAM_PIERCE\"]/title"
-msgstr ""
+msgstr "Фазовые частоты лучей"
 
 #: src-en/data/blueprints.xml.append:19416
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_BEAM_PIERCE\"]/desc"
 msgstr ""
+"-10% к перезарядке, пробивает +1 щит лучевым оружием/пронзающими дронами"
 
 #: src-en/data/blueprints.xml.append:19425
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_INFERNO_CORE\"]/title"
-msgstr ""
+msgstr "Ядро Инферно"
 
 #: src-en/data/blueprints.xml.append:19426
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_INFERNO_CORE\"]/desc"
 msgstr ""
+"Проникает через +1 слой щита взамен на 30% шанса пожара, +30% шанса пожара ("
+"не влияет на первый эффект)"
 
 #: src-en/data/blueprints.xml.append:19437
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_ROCK_ARMOR\"]/title"
-msgstr ""
+msgstr "Антикаменная броня"
 
 #: src-en/data/blueprints.xml.append:19438
 msgid ""
@@ -10804,7 +11078,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19445
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_AUTO_COOLDOWN\"]/title"
-msgstr ""
+msgstr "Антиавтоматический перезарядчик"
 
 #: src-en/data/blueprints.xml.append:19446
 msgid ""
@@ -10814,7 +11088,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19453
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_SHIELD_RECHARGE\"]/title"
-msgstr ""
+msgstr "Антищитовой усилитель"
 
 #: src-en/data/blueprints.xml.append:19454
 msgid ""
@@ -10824,7 +11098,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19461
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_ION_ARMOR\"]/title"
-msgstr ""
+msgstr "Антиионное поле"
 
 #: src-en/data/blueprints.xml.append:19462
 msgid ""
@@ -10834,7 +11108,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19468
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_SYSTEM_CASING\"]/title"
-msgstr ""
+msgstr "Антититаниумные системы"
 
 #: src-en/data/blueprints.xml.append:19469
 msgid ""
@@ -10844,7 +11118,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19475
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/title"
-msgstr ""
+msgstr "Репеллент против поломок"
 
 #: src-en/data/blueprints.xml.append:19476
 msgid ""
@@ -10854,7 +11128,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19483
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FAST_CLOAK\"]/title"
-msgstr ""
+msgstr "Антимаскировочный ускоритель"
 
 #: src-en/data/blueprints.xml.append:19484
 msgid ""
@@ -10864,7 +11138,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19491
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FAST_HACK\"]/title"
-msgstr ""
+msgstr "Антихакерский ускоритель"
 
 #: src-en/data/blueprints.xml.append:19492
 msgid ""
@@ -10885,11 +11159,13 @@ msgstr "Импульс II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/desc"
 msgstr ""
+"Улучшенный Импульсный лазер. По-прежнему очень эффективный, но требует "
+"больше энергии."
 
 #: src-en/data/blueprints.xml.append:19583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/tooltip"
-msgstr ""
+msgstr "Импульсный лазер; 1 урон, 2 выстрела. 13 секунд перезарядка."
 
 #: src-en/data/blueprints.xml.append:19584
 msgid ""
@@ -10908,11 +11184,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:19672
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/desc"
-msgstr ""
+msgstr "МЯСНЫЕ МУЖИКИ"
 
 #: src-en/data/blueprints.xml.append:19673
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/title"
-msgstr ""
+msgstr "МЯСО"
 
 #: src-en/data/blueprints.xml.append:19674
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/short"
@@ -10921,39 +11197,39 @@ msgstr "MEAT"
 #: src-en/data/blueprints.xml.append:19679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/powerList/power[1]"
-msgstr ""
+msgstr ": Вирусные мясоеды"
 
 #: src-en/data/blueprints.xml.append:19680
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_meatman\"]/powerList/power[2]"
-msgstr ""
+msgstr ": Средний уровень"
 
 #: src-en/data/blueprints.xml.append:19735
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADDON_INSTALLED_FORGEMASTER\"]/title"
-msgstr ""
+msgstr "Спасибо за установку FORGEMASTER!"
 
 #: src-en/data/blueprints.xml.append:19736
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADDON_INSTALLED_FORGEMASTER\"]/desc"
-msgstr ""
+msgstr "Спасибо за установку FORGEMASTER!"
 
 #: src-en/data/blueprints.xml.append:19744
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IZD_NANOBOT_DEFENSE_SYSTEM\"]/title"
-msgstr ""
+msgstr "(IZD_NANOBOT_DEFENSE_SYSTEM)"
 
 #: src-en/data/blueprints.xml.append:19745
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"IZD_NANOBOT_DEFENSE_SYSTEM\"]/desc"
-msgstr ""
+msgstr "Вы не должны это видеть. Подпись, \"Обниматель призраков\""
 
 #: src-en/data/blueprints.xml.append:19752
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"INTERNALIZED_AUG_COUNTER\"]/title"
-msgstr ""
+msgstr "(IZD_NANOBOT_DEFENSE_SYSTEM)"
 
 #: src-en/data/blueprints.xml.append:19753
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"INTERNALIZED_AUG_COUNTER\"]/desc"
-msgstr ""
+msgstr "Вы не должны это видеть. Подпись, \"Обниматель призраков\""
