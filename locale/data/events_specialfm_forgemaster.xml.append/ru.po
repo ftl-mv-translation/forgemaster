@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-02 20:42+0000\n"
+"PO-Revision-Date: 2024-07-04 10:00+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -8243,17 +8243,17 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:8080
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_VENGEANCE\"]/choice[1]/text"
-msgstr ""
+msgstr "Защитный призматический культиватор [50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8086
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_VENGEANCE\"]/choice[2]/text"
-msgstr ""
+msgstr "Защитный кристаллический культиватор [65~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8092
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_VENGEANCE\"]/choice[3]/text"
-msgstr ""
+msgstr "Защитный кузнечный культиватор [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8098
 msgid ""
@@ -8549,16 +8549,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE1\"]/text"
 msgstr ""
+"Установить Защитный призматический культиватор? [2 лазера (10% шанс на пожар)"
+" 60% мести, использует 1 ячейку]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8373
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE1\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Защитный призматический культиватор."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8375
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Защитный призматический культиватор установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8382
 msgid ""
@@ -8573,17 +8575,17 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8397
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE2\"]/text"
-msgstr ""
+msgstr "Защитный кристаллический культиватор"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8399
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE2\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Защитный кристаллический культиватор."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8401
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Защитный кристаллический культиватор установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8408
 msgid ""
@@ -8599,16 +8601,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE3\"]/text"
 msgstr ""
+"Установить Защитный кузнечный культиватор? [2 магнитных осколка (10% шанс "
+"пожара, 50% шанс пробоины, проникает через 10 щитов, двойной урон по отсекам "
+"без систем, 5с оглушения) 60% шанс мести, использует 3 ячейки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8425
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE3\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Защитный кузнечный культиватор."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Защитный кузнечный культиватор установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8434
 msgid ""
@@ -8760,7 +8765,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8599
 msgid ""
@@ -8854,7 +8859,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8675
 msgid ""
@@ -8948,7 +8953,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8751
 msgid ""
@@ -9042,7 +9047,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8827
 msgid ""
@@ -9136,7 +9141,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8903
 msgid ""
@@ -9230,7 +9235,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8979
 msgid ""
@@ -9324,7 +9329,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9055
 msgid ""
@@ -9418,7 +9423,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9131
 msgid ""
@@ -9554,7 +9559,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9238
 msgid ""
@@ -9648,7 +9653,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9314
 msgid ""
@@ -9784,7 +9789,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9421
 msgid ""
@@ -9920,7 +9925,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9528
 msgid ""
@@ -10056,7 +10061,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9635
 msgid ""
@@ -10150,7 +10155,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9711
 msgid ""
@@ -10244,7 +10249,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9787
 msgid ""
@@ -10338,7 +10343,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль улучшение системы [Максимально]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9863
 msgid ""
@@ -10788,24 +10793,30 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTSHIELD\"]/text"
 msgstr ""
+"Установить Бесконечный цикло-барьер?[15% шанс уничтожения входящий снаряд "
+"щитами, за каждую неиспользованную единицу мощности системы щитов шанс не "
+"уничтожить снаряд уменьшается на относительные 15%, также дает +50% к "
+"скорости перезарядки щитов за каждую неиспользованную энергию]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10261
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTSHIELD\"]/choice[@req=\"shields\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Вы не можете установить Бесконечный цикло-барьер, вам нужна система щитов "
+"для подачи питания."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10265
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTSHIELD\"]/choice[@req=\"shields\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Установить Бесконечный цикло-барьер"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10267
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTSHIELD\"]/choice[@req=\"shields\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Бесконечный цикло-барьер установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10274
 msgid ""
@@ -11088,6 +11099,10 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\"]/text"
 msgstr ""
+"Бесконечный цикло-барьер[15% шанс уничтожения входящий снаряд щитами, за "
+"каждую неиспользованную единицу мощности системы щитов шанс не уничтожить "
+"снаряд уменьшается на относительные 15%, также дает +50% к скорости "
+"перезарядки щитов за каждую неиспользованную энергию]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10543
 msgid ""
@@ -11727,349 +11742,460 @@ msgstr "Модуль Магнит для лома (x3) [+15% к заработк
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Защитный призматический культиватор [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10931
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x2) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10935
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x3) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10939
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x4) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10943
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x5) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10947
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x6) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10951
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x7) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10955
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x8) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10959
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x9) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10963
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x10) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10967
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x11) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10971
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"12\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x12) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10975
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"13\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x13) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10979
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x14) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10983
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"15\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x15) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10987
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"16\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x16) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10991
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"17\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x17) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"18\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x18) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10999
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"19\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x19) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11003
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"20\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x20) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11007
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"21\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x21) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11011
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"22\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x22) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11015
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"23\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x23) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11019
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"24\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x24) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11023
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"25\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x25) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11027
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"26\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x26) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11031
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"27\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x27) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11035
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"28\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x28) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11039
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"29\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x29) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11043
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"30\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x30) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11047
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE1\""
 " and @lvl=\"31\"]/text"
 msgstr ""
+"Защитный призматический культиватор(x31+) [60% шанс выстрелить 2 лазерами]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11052
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11056
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x2) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11060
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x3) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11064
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x4) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11068
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x5) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11072
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x6) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11076
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x7) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11080
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x8) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11084
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x9) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11088
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x10) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11092
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x11) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11096
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"12\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x12) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11100
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"13\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x13) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11104
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x14) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11108
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"15\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x15) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11112
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE2\""
 " and @lvl=\"16\"]/text"
 msgstr ""
+"Защитный кристаллический культиватор(x16) [60% шанс активировать месть и "
+"выпустить 2 кристалла(40% шанс пожара, 40% шанс пробоины, проникает через 1 "
+"слой щита)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11118
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Установить Защитный кузнечный культиватор [60% шанс мести, выпускает 2 "
+"магнитных фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 "
+"щитов, двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11122
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x2) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11126
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x3) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11130
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x4) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11134
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x5) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11138
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x6) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11142
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x7) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11146
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x8) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11150
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x9) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11154
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x10) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11158
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"Защитный кузнечный культиватор(x11+) [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11170
 msgid ""
