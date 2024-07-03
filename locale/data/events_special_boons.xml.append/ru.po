@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 04:48+0000\n"
+"PO-Revision-Date: 2024-07-04 09:59+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_boonsxmlappend/ru/>\n"
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 "Из ниоткуда вы слышите голос, обращающийся к вам. \"Дар [Бронирования] у-у-"
 "установлен. Установлен! Дар обеспечивает: Устойчивость модульного корпуса "
-"повышена, дает +2 полезных улучшения. Если -вы- видели п-п-предыдущего "
+"повышена, дает +2 улучшений ячеек. Если -вы- видели п-п-предыдущего "
 "претендента, поблагодарите его. Советую вам -навестить- меня\"."
 
 #: src-en/data/events_special_boons.xml.append:15
