@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-02 20:42+0000\n"
+"PO-Revision-Date: 2024-07-04 10:00+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -5355,6 +5355,9 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [3 мощности/11с перезарядка/4 урона/40 "
+"боеголовок/40% шанс на пробоину/50% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5080
 msgid ""
@@ -5473,6 +5476,9 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [3 мощности/11с перезарядка/5 урона/50 "
+"боеголовок/50% шанс на пробоину/70% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5161
 msgid ""
@@ -5591,6 +5597,9 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [4 мощности/14с перезарядка/7 урона/60 "
+"боеголовок/70% шанс на пробоину/100% шанс на пожар/100% шанс оглушения]"
 
 #: src-en/data/events_special_storage.xml.append:5242
 msgid ""
@@ -5834,11 +5843,16 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [2 мощности/0с перезарядка/1 урон/100% шанс на "
+"пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[1]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/проникает сквозь "
+"щиты/1 системный урон/15 урона экипажу/100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5426
 msgid ""
@@ -5864,6 +5878,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[2]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/"
+"100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5444
 msgid ""
@@ -5889,6 +5905,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[3]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/1 "
+"системный урон/15 урона экипажу/изолирует отсеки/50% шанс на пробоину/500% "
+"шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5462
 msgid ""
@@ -5919,11 +5938,16 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [2 мощности/0с перезарядка/проникает сквозь "
+"щиты/1 системный урон/15 урона экипажу/100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[1]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 урон/100% шанс "
+"на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5489
 msgid ""
@@ -5949,6 +5973,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[2]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/"
+"100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5507
 msgid ""
@@ -5974,6 +6000,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[3]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/1 "
+"системный урон/15 урона экипажу/изолирует отсеки/50% шанс на пробоину/500% "
+"шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5525
 msgid ""
@@ -6004,11 +6033,16 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [2 мощности/0с перезарядка/1 ионный урон/100% "
+"шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[1]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 урон/100% шанс "
+"на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5552
 msgid ""
@@ -6034,6 +6068,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[2]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/проникает сквозь "
+"щиты/1 системный урон/15 урона экипажу/100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5570
 msgid ""
@@ -6059,6 +6095,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[3]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/1 "
+"системный урон/15 урона экипажу/изолирует отсеки/50% шанс на пробоину/500% "
+"шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5588
 msgid ""
@@ -6089,11 +6128,17 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/text"
 msgstr ""
+"На какую мощность вы хотите настроить орудие?\n"
+"\t\t\tТекущие характеристики: [2 мощности/0с перезарядка/1 ионный урон/1 "
+"системный урон/15 урона экипажу/изолирует отсеки/50% шанс на пробоину/50% "
+"шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[1]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 урон/100% шанс "
+"на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5615
 msgid ""
@@ -6119,6 +6164,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[2]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/проникает сквозь "
+"щиты/1 системный урон/15 урона экипажу/100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5633
 msgid ""
@@ -6144,6 +6191,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[3]/text"
 msgstr ""
+"Установить орудие на 2 мощности. [2 мощности/0с перезарядка/1 ионный урон/"
+"100% шанс на пожар]"
 
 #: src-en/data/events_special_storage.xml.append:5651
 msgid ""
@@ -6213,7 +6262,7 @@ msgstr "Вы уверены, что хотите изменить настрой
 #: src-en/data/events_special_storage.xml.append:5702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_ENERGY_COMBAT_BEAM1\"]/choice[1]/text"
-msgstr ""
+msgstr "Перевести дрон в режим точечного луча."
 
 #: src-en/data/events_special_storage.xml.append:5704
 msgid ""
@@ -6244,6 +6293,8 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_FM_RVS_AC_CHARGE\"]/text"
 msgstr ""
+"Выбрать тип боеприпасов, которые вы хотите зарядить в свою Пробивную "
+"митральезу."
 
 #: src-en/data/events_special_storage.xml.append:5853
 msgid ""
@@ -6254,42 +6305,54 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[23]/mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Показать параметры скорости тарана."
 
 #: src-en/data/events_special_storage.xml.append:5936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/text"
-msgstr ""
+msgstr "Выбрать, насколько сильно вы хотите протаранить противника."
 
 #: src-en/data/events_special_storage.xml.append:5939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_4\"]/text"
 msgstr ""
+"(Эфирный ускоритель) Показать параметры скорости тарана. Наносит 12 урона и "
+"10 себе."
 
 #: src-en/data/events_special_storage.xml.append:5944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"LOCKED_RAMMING_SPEED\"]/text"
 msgstr ""
+"Отправить на таран этот хлам во вражескую систему изо всех сил, нанося 10 "
+"повреждений корпусу как вам, так и противнику, а также вашим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:5949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_6\"]/text"
 msgstr ""
+"(Улучшенные двигатели + Эфирный ускоритель) Показать параметры скорости "
+"тарана. Наносит 15 урона и 12 себе."
 
 #: src-en/data/events_special_storage.xml.append:5954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_6\"]/text"
 msgstr ""
+"(Улучшенные двигатели) Показать параметры скорости тарана. Наносит 13 урона "
+"и 12 себе."
 
 #: src-en/data/events_special_storage.xml.append:5959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_8\"]/text"
 msgstr ""
+"(Улучшенные двигатели) Показать параметры скорости тарана. Наносит 18 урона "
+"и 15 себе."
 
 #: src-en/data/events_special_storage.xml.append:5964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_8\"]/text"
 msgstr ""
+"(Улучшенные двигатели + Эфирный ускоритель) Показать параметры скорости "
+"тарана. Наносит 30 урона и 20 себе."
 
 #: src-en/data/events_special_storage.xml.append:5969
 msgid ""
@@ -6310,16 +6373,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 10 урона "
+"выбранной системе, но вы получите 10 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:5989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:5991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:5997
 msgid ""
@@ -6329,12 +6396,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6011
 msgid ""
@@ -6344,12 +6413,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6025
 msgid ""
@@ -6359,12 +6430,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6033
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6038
 msgid ""
@@ -6374,12 +6447,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6052
 msgid ""
@@ -6389,12 +6464,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6066
 msgid ""
@@ -6420,16 +6497,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 12 урона "
+"выбранной системе, но вы получите 10 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:6096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:6098
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6104
 msgid ""
@@ -6439,12 +6520,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6118
 msgid ""
@@ -6454,12 +6537,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6132
 msgid ""
@@ -6469,12 +6554,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6145
 msgid ""
@@ -6484,12 +6571,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6159
 msgid ""
@@ -6499,12 +6588,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6173
 msgid ""
@@ -6530,16 +6621,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 13 урона "
+"выбранной системе, но вы получите 12 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:6205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:6207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6213
 msgid ""
@@ -6549,12 +6644,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6227
 msgid ""
@@ -6564,12 +6661,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6241
 msgid ""
@@ -6579,12 +6678,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6254
 msgid ""
@@ -6594,12 +6695,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6268
 msgid ""
@@ -6609,12 +6712,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6282
 msgid ""
@@ -6640,16 +6745,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 15 урона "
+"выбранной системе, но вы получите 12 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:6308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:6310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6316
 msgid ""
@@ -6659,12 +6768,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6330
 msgid ""
@@ -6674,12 +6785,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6336
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6344
 msgid ""
@@ -6689,12 +6802,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6357
 msgid ""
@@ -6704,12 +6819,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6371
 msgid ""
@@ -6719,12 +6836,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6385
 msgid ""
@@ -6750,16 +6869,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 18 урона "
+"выбранной системе, но вы получите 15 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:6413
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:6415
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6421
 msgid ""
@@ -6769,12 +6892,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6435
 msgid ""
@@ -6784,12 +6909,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6441
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6449
 msgid ""
@@ -6799,12 +6926,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6462
 msgid ""
@@ -6814,12 +6943,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6476
 msgid ""
@@ -6829,12 +6960,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[6]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6490
 msgid ""
@@ -6860,16 +6993,20 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/text"
 msgstr ""
+"На какую вражескую систему вы хотите нацелиться? Это нанесет 30 урона "
+"выбранной системе, но вы получите 20 урона своим двигателям."
 
 #: src-en/data/events_special_storage.xml.append:6518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[1]/text"
-msgstr ""
+msgstr "Нацелиться на их оружие."
 
 #: src-en/data/events_special_storage.xml.append:6520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6526
 msgid ""
@@ -6879,12 +7016,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/text"
-msgstr ""
+msgstr "Нацеиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6540
 msgid ""
@@ -6894,12 +7033,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[3]/text"
-msgstr ""
+msgstr "Нацелиться на их дроны."
 
 #: src-en/data/events_special_storage.xml.append:6548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6554
 msgid ""
@@ -6909,12 +7050,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6560
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[4]/text"
-msgstr ""
+msgstr "Нацелиться на их двигатели."
 
 #: src-en/data/events_special_storage.xml.append:6562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[4]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6567
 msgid ""
@@ -6924,12 +7067,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[5]/text"
-msgstr ""
+msgstr "Нацелиться на их маскировку."
 
 #: src-en/data/events_special_storage.xml.append:6575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[5]/event/text"
 msgstr ""
+"Вы включаете двигатели на полную мощность и тараните вражеский корабль изо "
+"всех сил."
 
 #: src-en/data/events_special_storage.xml.append:6581
 msgid ""
@@ -6939,12 +7084,14 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[6]/text"
-msgstr ""
+msgstr "Нацелиться на их телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:6589
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[6]/event/text"
 msgstr ""
+"Вы переводите всю мощность на свои двигатели и частично активируете систему "
+"ССД, тараня вражеский корабль на почти сверхсветовой скорости."
 
 #: src-en/data/events_special_storage.xml.append:6595
 msgid ""
@@ -7180,13 +7327,13 @@ msgstr "Заняться чем-то другим."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Провести чаепитие с лучшим чаем Ее Величества."
 
 #: src-en/data/events_special_storage.xml.append:6818
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Кодекс эфирных целей) Проверить Кодекс на предмет потенциальных целей."
 
 #: src-en/data/events_special_storage.xml.append:6822
 msgid ""
@@ -7217,6 +7364,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/text"
 msgstr ""
+"Сама реальность кровоточит от всего того хаоса, который вы устроили с "
+"помощью взломщика МВ-приводов."
 
 #: src-en/data/events_special_storage.xml.append:6850
 msgid ""
@@ -7227,6 +7376,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/text"
 msgstr ""
+"Ядро нестабильной, изменяющей реальность сущности внезапно появляется из "
+"разлома и сталкивается с вашим кораблем. Оно впивается в корпус, и вы не "
+"можете удалить его, какие бы способы вы ни использовали. Однако ваш корабль, "
+"похоже, значительно улучшился от его присутствия."
 
 #: src-en/data/events_special_storage.xml.append:6855
 msgid ""
@@ -7237,6 +7390,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
+"Эта древняя реликвия повышает все характеристики членов вашего экипажа на "
+"40%, даже те, которыми они изначально не обладают... Модуль был навсегда "
+"встроен!]"
 
 #: src-en/data/events_special_storage.xml.append:6859
 msgid ""
@@ -7247,6 +7403,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Зловещий на вид разлом открывается, и из него появляется объект "
+"непостижимого хаоса. Он приближается к вашему кораблю и залетает прямо в "
+"грузовой отсек."
 
 #: src-en/data/events_special_storage.xml.append:6865
 msgid ""
@@ -7257,6 +7416,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. За каждый "
+"набор из 3 кораблей, которые вы победите, еще 3 станут доступны для вызова. "
+"Вызов Искаженного МВ-босса требует 2{.\n"
+"\t\t\t[ПРИМЕЧАНИЕ: Все награды с этих боссов НЕ складываются]"
 
 #: src-en/data/events_special_storage.xml.append:6883
 msgid ""
@@ -7281,7 +7444,7 @@ msgstr "Вы уже победили Искаженных пиявок."
 #: src-en/data/events_special_storage.xml.append:6900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[5]/text"
-msgstr ""
+msgstr "Искаженные кристаллины тип В - выпадает Искаженный кристалл брони."
 
 #: src-en/data/events_special_storage.xml.append:6902
 msgid ""
@@ -7307,7 +7470,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6920
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[7]/text"
-msgstr ""
+msgstr "Искаженные пиявки тип В - выпадает странный излучатель."
 
 #: src-en/data/events_special_storage.xml.append:6922
 msgid ""
@@ -7335,7 +7498,7 @@ msgstr "Вы уже победили Искаженные орхидеи."
 #: src-en/data/events_special_storage.xml.append:6944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[11]/text"
-msgstr ""
+msgstr "Искаженная Пустельга тип Б - ...холодильник?"
 
 #: src-en/data/events_special_storage.xml.append:6946
 msgid ""
@@ -7800,7 +7963,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_1\"]/text"
-msgstr ""
+msgstr "Искаженная Пустельга тип Б - ...холодильник?"
 
 #: src-en/data/events_special_storage.xml.append:7352
 msgid ""
@@ -7839,7 +8002,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_1\"]/text"
-msgstr ""
+msgstr "Искаженные кристаллины тип В - выпадает Искаженный кристалл брони."
 
 #: src-en/data/events_special_storage.xml.append:7382
 msgid ""
@@ -7865,7 +8028,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_3\"]/text"
-msgstr ""
+msgstr "Искаженные пиявки тип В - выпадает странный излучатель."
 
 #: src-en/data/events_special_storage.xml.append:7402
 msgid ""
@@ -7944,6 +8107,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_AUGMENTEDLANIUS\"]/text"
 msgstr ""
+"Кодекс мигает зеленым светом, указывая на присутствие в этом районе эфирной "
+"техники. Корабль не обелисков, но, когда речь идет о подобной технике, "
+"приходится довольствоваться тем, что есть."
 
 #: src-en/data/events_special_storage.xml.append:7506
 msgid ""
@@ -10199,6 +10365,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение фазы луча.\n"
+"\t\t[Эффекты: пробитие щита лучевым оружием и артиллерией увеличивается на "
+"1, может быть установлено до 2 раз]"
 
 #: src-en/data/events_special_storage.xml.append:9664
 msgid ""
@@ -10929,30 +11098,40 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"В настоящее время активное освящение: Благо пластинчатых\n"
+"\t\tПластинчатый экипаж может накапливать больше зарядов способностей."
 
 #: src-en/data/events_special_storage.xml.append:10309
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"В настоящее время активное освящение: Дар бронирования\n"
+"\t\tМодульный корпус может быть оснащен еще двумя ячейками."
 
 #: src-en/data/events_special_storage.xml.append:10314
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"В настоящее время активное освящение: Благословение кузниц\n"
+"\t\tАлестер будет бесплатно посещать все обычные сектора."
 
 #: src-en/data/events_special_storage.xml.append:10319
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"В настоящее время активное освящение: Великое благословение кузниц\n"
+"\t\tУ Алестера всегда будет больший магазин с лучшими товарами."
 
 #: src-en/data/events_special_storage.xml.append:10324
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"В настоящее время активное освящение: Благословение глупцов\n"
+"\t\tКристаллы Анкалагона наносят только 50% урона."
 
 #: src-en/data/events_special_storage.xml.append:10329
 msgid ""
