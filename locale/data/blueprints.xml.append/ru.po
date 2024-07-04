@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-05 10:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1783,14 +1783,14 @@ msgstr "Дрон-солдат мод. II [Охрана]"
 #: src-en/data/blueprints.xml.append:3148
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/short"
-msgstr "Б. дрон II [П]"
+msgstr "Солдат II [О]"
 
 #: src-en/data/blueprints.xml.append:3149
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Управляемый бортовой дрон, который перед "
-"боем можно переключить в противопехотный режим или в абордажный режим. Имеет "
+"[ТЕКУЩИЙ РЕЖИМ: Бортовой] Управляемый бортовой дрон, который перед боем "
+"можно переключить в противопехотный режим или в абордажный режим. Имеет "
 "больше здоровья и наносит больше урона, чем мод. I.\n"
 "\n"
 "\t\t\t-200 ОЗ, 1.5х боевой урон\n"
@@ -1804,7 +1804,7 @@ msgstr "Дрон-солдат мод. II [Абордаж]"
 #: src-en/data/blueprints.xml.append:3166
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/short"
-msgstr "Б. дрон II [А]"
+msgstr "Солдат II [А]"
 
 #: src-en/data/blueprints.xml.append:3167
 msgid ""
@@ -1825,7 +1825,7 @@ msgstr "Искаженный дрон-наладчик"
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/short"
-msgstr "И. др.-налад."
+msgstr "И. Наладчик"
 
 #: src-en/data/blueprints.xml.append:3185
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/desc"
@@ -1854,8 +1854,8 @@ msgstr "И. Инь-Янь [Б]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Корабельный] Переключаемый дрон, специализирующийся на той "
-"или иной задаче, но никогда на обеих одновременно.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Бортовой] Переключаемый дрон, специализирующийся на той или "
+"иной задаче, но никогда на обеих одновременно.\n"
 "\n"
 "\t\t\t-125 здоровья, невосприимчив к огню, видит соседние отсеки, 1.5х "
 "скорость передвижения\n"
@@ -1901,12 +1901,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/title"
-msgstr "Искаженный боевой дрон мод. II† [Противопехотный]"
+msgstr "Искаженный дрон-солдат мод. II† [Противопехотный]"
 
 #: src-en/data/blueprints.xml.append:3245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/short"
-msgstr "И. боевой II [П]"
+msgstr "И. Солдат II [П]"
 
 #: src-en/data/blueprints.xml.append:3246
 msgid ""
@@ -1925,12 +1925,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3262
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/title"
-msgstr "Искаженный боевой дрон мод. II† [Абордажный]"
+msgstr "Искаженный дрон-солдат мод. II† [Абордажный]"
 
 #: src-en/data/blueprints.xml.append:3263
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/short"
-msgstr "И. боевой II [А]"
+msgstr "И. солдат II [А]"
 
 #: src-en/data/blueprints.xml.append:3264
 msgid ""
@@ -2020,7 +2020,7 @@ msgstr "Зажигательный абордажник"
 #: src-en/data/blueprints.xml.append:3340
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/short"
-msgstr "Зажигательный абордажник"
+msgstr "Зажиг. аборд."
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -2037,7 +2037,7 @@ msgstr "Зажигательный абордажник"
 #: src-en/data/blueprints.xml.append:3354
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/short"
-msgstr "Зажигательный абордажник"
+msgstr "Зажиг. аборд."
 
 #: src-en/data/blueprints.xml.append:3355
 msgid ""
@@ -5739,7 +5739,7 @@ msgstr "Боевой дрон \"Касай\" мод. II [Лазер]"
 #: src-en/data/blueprints.xml.append:11247
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_2_LASER_PLAYER\"]/short"
-msgstr "Касай мод. II [Л]"
+msgstr "Касай II [Л]"
 
 #: src-en/data/blueprints.xml.append:11248
 msgid ""
@@ -5965,7 +5965,7 @@ msgstr "Дворянский ликвидатор мод. III"
 #: src-en/data/blueprints.xml.append:11557
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCIENT_BEAM_COMBATR\"]/short"
-msgstr "Д. ликв. III"
+msgstr "Двор. ликв. III"
 
 #: src-en/data/blueprints.xml.append:11558
 msgid ""
@@ -6004,7 +6004,7 @@ msgstr "Янтарный дрон"
 #: src-en/data/blueprints.xml.append:11616
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AMBER_DRONE\"]/short"
-msgstr "Янт. дрон"
+msgstr "Янтарь"
 
 #: src-en/data/blueprints.xml.append:11617
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AMBER_DRONE\"]/desc"
@@ -6036,7 +6036,7 @@ msgstr "Кристаллический боевой дрон"
 #: src-en/data/blueprints.xml.append:11674
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_CRYSTAL_DRONE\"]/short"
-msgstr "Кр. боев. дрон"
+msgstr "Крист. боевой"
 
 #: src-en/data/blueprints.xml.append:11675
 msgid ""
@@ -6103,7 +6103,7 @@ msgstr "Огнеметный дрон \"Дажьбог\""
 
 #: src-en/data/blueprints.xml.append:11814
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/short"
-msgstr "Д. \"Дажьбог\""
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:11815
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/desc"
@@ -6139,7 +6139,7 @@ msgstr "Боевой дрон Кузнеца"
 #: src-en/data/blueprints.xml.append:11915
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FORGEMAN_DRONE\"]/short"
-msgstr "Боев. д. Кузнеца"
+msgstr "Боевой Кузнец"
 
 #: src-en/data/blueprints.xml.append:11916
 msgid ""
@@ -6175,7 +6175,7 @@ msgstr "Лучевой дрон \"Ишимура\""
 #: src-en/data/blueprints.xml.append:11984
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ISHIMURA_DRONE\"]/short"
-msgstr "Д. Ишимура"
+msgstr "Ишимура"
 
 #: src-en/data/blueprints.xml.append:11985
 msgid ""
@@ -6210,7 +6210,7 @@ msgstr "Боевой дрон \"Пустельга\""
 #: src-en/data/blueprints.xml.append:12029
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_KESTREL_DRONE\"]/short"
-msgstr "Б. др. Пустельга"
+msgstr "Б. Пустельга"
 
 #: src-en/data/blueprints.xml.append:12030
 msgid ""
@@ -6302,7 +6302,7 @@ msgstr "Боевой дрон \"Сирена\""
 #: src-en/data/blueprints.xml.append:12211
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/short"
-msgstr "Дрон Сирена"
+msgstr "Сирена"
 
 #: src-en/data/blueprints.xml.append:12212
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/desc"
@@ -6332,7 +6332,7 @@ msgstr "Ремонтный лучевой дрон"
 #: src-en/data/blueprints.xml.append:12267
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_COMBAT_BEAM_HULLNT\"]/short"
-msgstr "Рем. луч. др."
+msgstr "Ремонт. луч"
 
 #: src-en/data/blueprints.xml.append:12268
 msgid ""
@@ -8287,7 +8287,7 @@ msgstr "Клонопушка [Детеныш]"
 
 #: src-en/data/blueprints.xml.append:16250
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/short"
-msgstr "Клоноп. [Д]"
+msgstr "Клон [Д]"
 
 #: src-en/data/blueprints.xml.append:16252
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/desc"
@@ -8331,7 +8331,7 @@ msgstr "Клонопульта [Крестоносец]"
 #: src-en/data/blueprints.xml.append:16344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/short"
-msgstr "Клоноп. [К]"
+msgstr "Клон [К]"
 
 #: src-en/data/blueprints.xml.append:16346
 msgid ""
@@ -8354,7 +8354,7 @@ msgstr "Клонопульта [Вождь]"
 #: src-en/data/blueprints.xml.append:16405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/short"
-msgstr "Клоноп. [К]"
+msgstr "Клон [К]"
 
 #: src-en/data/blueprints.xml.append:16407
 msgid ""
@@ -8378,7 +8378,7 @@ msgstr "Клонопульта [Симбионт]"
 #: src-en/data/blueprints.xml.append:16468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL\"]/short"
-msgstr "Клоноп. [С]"
+msgstr "Клон [С]"
 
 #: src-en/data/blueprints.xml.append:16470
 msgid ""
@@ -8400,7 +8400,7 @@ msgstr "Клонопушка [Детеныш]"
 
 #: src-en/data/blueprints.xml.append:16532
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/short"
-msgstr "Клоноп. [Д]"
+msgstr "Клон [Д]"
 
 #: src-en/data/blueprints.xml.append:16534
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/desc"
@@ -8422,7 +8422,7 @@ msgstr "Клонопульта [Дети]"
 #: src-en/data/blueprints.xml.append:16592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_BABYORCHID_TWEAK\"]/short"
-msgstr "Клоноп. [Дети]"
+msgstr "Клон [Дети]"
 
 #: src-en/data/blueprints.xml.append:16594
 msgid ""
@@ -10061,7 +10061,7 @@ msgstr "Благословение глупцов"
 #: src-en/data/blueprints.xml.append:18673
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_ANCWEAPON\"]/desc"
-msgstr "Кристаллы Анкалагона наносят на 50% меньше урона."
+msgstr "Кристаллы Анкалагона получают на 50% меньше урона."
 
 #: src-en/data/blueprints.xml.append:18679
 msgid ""
