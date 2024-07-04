@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-02 20:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-04 09:59+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2695,7 +2695,7 @@ msgstr "\"Убийца богов\" [Фотон]"
 #: src-en/data/blueprints.xml.append:4276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/short"
-msgstr "\"Убийца\" [Фотон]"
+msgstr "Убийца [Фотон]"
 
 #: src-en/data/blueprints.xml.append:4278
 msgid ""
@@ -2719,7 +2719,7 @@ msgstr "\"Убийца богов\" [Ион]"
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/short"
-msgstr "\"Убийца\" [Ион]"
+msgstr "Убийца [Ион]"
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
@@ -2743,7 +2743,7 @@ msgstr "\"Убийца богов\" [Да]"
 #: src-en/data/blueprints.xml.append:4386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/short"
-msgstr "\"Убийца\" [Да]"
+msgstr "Убийца [Да]"
 
 #: src-en/data/blueprints.xml.append:4388
 msgid ""
@@ -2828,7 +2828,7 @@ msgstr "Залповый лазер \"Множественность\"."
 #: src-en/data/blueprints.xml.append:4571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/short"
-msgstr "\"Множественность\""
+msgstr "Множественность"
 
 #: src-en/data/blueprints.xml.append:4573
 msgid ""
@@ -2850,7 +2850,7 @@ msgstr "Похищающий лазер \"Персефона\""
 #: src-en/data/blueprints.xml.append:4632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/short"
-msgstr "\"Персефона\""
+msgstr "Персефона"
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
@@ -2874,7 +2874,7 @@ msgstr "Импульсный аномальный лазер \"ТЛАЛОК\""
 #: src-en/data/blueprints.xml.append:4673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/short"
-msgstr "\"ТЛАЛОК\""
+msgstr "ТЛАЛОК"
 
 #: src-en/data/blueprints.xml.append:4674
 msgid ""
@@ -2926,7 +2926,7 @@ msgstr "\"Расщепитель\""
 #: src-en/data/blueprints.xml.append:4799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/short"
-msgstr "\"Расщепитель\""
+msgstr "Расщепитель"
 
 #: src-en/data/blueprints.xml.append:4801
 msgid ""
@@ -3289,7 +3289,7 @@ msgstr "Зарядный лазер \"Финитум\""
 #: src-en/data/blueprints.xml.append:6080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/short"
-msgstr "Зар. \"Финитум\""
+msgstr "Зар. Финитум"
 
 #: src-en/data/blueprints.xml.append:6082
 msgid ""
@@ -3335,7 +3335,7 @@ msgstr "Дисковая пусковая установка \"ТАРАНИС\""
 #: src-en/data/blueprints.xml.append:6175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/short"
-msgstr "\"ТАРАНИС\""
+msgstr "ТАРАНИС"
 
 #: src-en/data/blueprints.xml.append:6177
 msgid ""
@@ -3360,7 +3360,7 @@ msgstr "Гатлинг-ион \"Веста\""
 #: src-en/data/blueprints.xml.append:6220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/short"
-msgstr "\"Веста\""
+msgstr "Веста"
 
 #: src-en/data/blueprints.xml.append:6222
 msgid ""
@@ -3838,7 +3838,7 @@ msgstr "Луч Терра Нова \"Крушитель кораблей\""
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/short"
-msgstr "Точечный луч \"Терра Нова\""
+msgstr "Терра Нова"
 
 #: src-en/data/blueprints.xml.append:7331
 msgid ""
@@ -4054,7 +4054,7 @@ msgstr "Луч \"Контос\""
 #: src-en/data/blueprints.xml.append:7756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/short"
-msgstr "\"Контос\""
+msgstr "Контос"
 
 #: src-en/data/blueprints.xml.append:7757
 msgid ""
@@ -4107,10 +4107,9 @@ msgid ""
 msgstr "Луч \"HD_Hotfix_26v7\""
 
 #: src-en/data/blueprints.xml.append:7914
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/short"
-msgstr "\"HD_Hotfix_26v7\""
+msgstr "HD_Hotfix_26v7"
 
 #: src-en/data/blueprints.xml.append:7915
 msgid ""
@@ -4144,7 +4143,7 @@ msgstr "Луч \"Вечность\""
 #: src-en/data/blueprints.xml.append:7993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/short"
-msgstr "Луч \"Вечность\""
+msgstr "Вечность"
 
 #: src-en/data/blueprints.xml.append:7994
 msgid ""
@@ -4294,7 +4293,7 @@ msgstr "Точечный луч \"Эбони\""
 #: src-en/data/blueprints.xml.append:8171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/short"
-msgstr "\"Эбони\""
+msgstr "Эбони"
 
 #: src-en/data/blueprints.xml.append:8172
 msgid ""
@@ -4334,7 +4333,7 @@ msgstr "Точечный луч \"Болиголов\""
 #: src-en/data/blueprints.xml.append:8250
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/short"
-msgstr "\"Болиголов\""
+msgstr "Болиголов"
 
 #: src-en/data/blueprints.xml.append:8251
 msgid ""
@@ -4375,7 +4374,7 @@ msgstr "Точечный луч \"Болиголов\"†"
 #: src-en/data/blueprints.xml.append:8329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/short"
-msgstr "\"Болиголов\"†"
+msgstr "Болиголов†"
 
 #: src-en/data/blueprints.xml.append:8330
 msgid ""
@@ -4457,7 +4456,7 @@ msgstr "Точечный луч \"Клен\""
 #: src-en/data/blueprints.xml.append:8488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/short"
-msgstr "\"Клен\""
+msgstr "Клен"
 
 #: src-en/data/blueprints.xml.append:8489
 msgid ""
@@ -4497,7 +4496,7 @@ msgstr "Точечный луч \"Омияри\""
 #: src-en/data/blueprints.xml.append:8567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/short"
-msgstr "\"Омияри\""
+msgstr "Омияри"
 
 #: src-en/data/blueprints.xml.append:8568
 msgid ""
@@ -4520,7 +4519,7 @@ msgstr "Точечный луч \"Эгротатио\""
 #: src-en/data/blueprints.xml.append:8598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/short"
-msgstr "\"Эгротатио\""
+msgstr "Эгротатио"
 
 #: src-en/data/blueprints.xml.append:8599
 msgid ""
@@ -4555,7 +4554,7 @@ msgstr "Точечный луч \"Эгротатио\"†"
 #: src-en/data/blueprints.xml.append:8733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/short"
-msgstr "\"Эгротатио\"†"
+msgstr "Эгротатио†"
 
 #: src-en/data/blueprints.xml.append:8734
 msgid ""
@@ -4622,7 +4621,7 @@ msgstr "Рассеиватель аномалий \"ХЕЙМОН\""
 #: src-en/data/blueprints.xml.append:8913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/short"
-msgstr "\"ХЕЙМОН\""
+msgstr "ХЕЙМОН"
 
 #: src-en/data/blueprints.xml.append:8914
 msgid ""
@@ -4648,7 +4647,7 @@ msgstr "Рассеиватель аномалий \"ХЕЙМОН\"†"
 #: src-en/data/blueprints.xml.append:8957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/short"
-msgstr "\"ХЕЙМОН\"†"
+msgstr "ХЕЙМОН†"
 
 #: src-en/data/blueprints.xml.append:8958
 msgid ""
@@ -4674,7 +4673,7 @@ msgstr "Рассеиватель аномалий \"ХЕЙМОН\"††"
 #: src-en/data/blueprints.xml.append:9002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/short"
-msgstr "\"ХЕЙМОН\"††"
+msgstr "ХЕЙМОН††"
 
 #: src-en/data/blueprints.xml.append:9003
 msgid ""
@@ -5293,7 +5292,7 @@ msgstr "Ракетница \"Чернобог\""
 #: src-en/data/blueprints.xml.append:10285
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/short"
-msgstr "\"Чернобог\""
+msgstr "Чернобог"
 
 #: src-en/data/blueprints.xml.append:10286
 msgid ""
@@ -5338,7 +5337,7 @@ msgstr "Ракетница \"Чернобог\"†"
 #: src-en/data/blueprints.xml.append:10385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/short"
-msgstr "\"Чернобог\"†"
+msgstr "Чернобог†"
 
 #: src-en/data/blueprints.xml.append:10386
 msgid ""
@@ -5383,7 +5382,7 @@ msgstr "Ракетница \"Чернобог\"††"
 #: src-en/data/blueprints.xml.append:10485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/short"
-msgstr "\"Чернобог\"††"
+msgstr "Чернобог††"
 
 #: src-en/data/blueprints.xml.append:10486
 msgid ""
@@ -5451,7 +5450,7 @@ msgstr "Аномальная ракетница \"Арнгрим\""
 #: src-en/data/blueprints.xml.append:10646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/short"
-msgstr "\"Арнгрим\""
+msgstr "Арнгрим"
 
 #: src-en/data/blueprints.xml.append:10647
 msgid ""
@@ -5473,7 +5472,7 @@ msgstr "Миномет \"Ба-Пеф\""
 #: src-en/data/blueprints.xml.append:10696
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/short"
-msgstr "\"Ба-Пеф\""
+msgstr "Ба-Пеф"
 
 #: src-en/data/blueprints.xml.append:10697
 msgid ""
@@ -6971,7 +6970,7 @@ msgstr "Клонопушка Рипли [Шеф]†"
 #: src-en/data/blueprints.xml.append:13555
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/short"
-msgstr "Кл. Рипли [Ш]†"
+msgstr "Клон. Рипли [Ш]†"
 
 #: src-en/data/blueprints.xml.append:13557
 msgid ""
@@ -7143,7 +7142,7 @@ msgstr "Импульсный аномальный лазер \"ТЛАЛОК\""
 #: src-en/data/blueprints.xml.append:13939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/short"
-msgstr "\"ТЛАЛОК\""
+msgstr "ТЛАЛОК"
 
 #: src-en/data/blueprints.xml.append:13940
 msgid ""
@@ -7195,7 +7194,7 @@ msgstr "\"Расщепитель\""
 #: src-en/data/blueprints.xml.append:14053
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/short"
-msgstr "\"Расщепитель\""
+msgstr "Расщепитель"
 
 #: src-en/data/blueprints.xml.append:14055
 msgid ""
@@ -7343,7 +7342,7 @@ msgstr "Дисковая пусковая установка \"ТАРАНИС\""
 #: src-en/data/blueprints.xml.append:14441
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/short"
-msgstr "\"ТАРАНИС\""
+msgstr "ТАРАНИС"
 
 #: src-en/data/blueprints.xml.append:14443
 msgid ""
@@ -7368,7 +7367,7 @@ msgstr "Гатлинг-ион \"Веста\""
 #: src-en/data/blueprints.xml.append:14485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/short"
-msgstr "\"Веста\""
+msgstr "Веста"
 
 #: src-en/data/blueprints.xml.append:14487
 msgid ""
@@ -7462,7 +7461,7 @@ msgstr "Луч \"Валефор\""
 #: src-en/data/blueprints.xml.append:14636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/short"
-msgstr "Луч Валефор"
+msgstr "Валефор"
 
 #: src-en/data/blueprints.xml.append:14637
 msgid ""
@@ -7484,7 +7483,7 @@ msgstr "Луч \"Контос\""
 #: src-en/data/blueprints.xml.append:14682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/short"
-msgstr "\"Контос\""
+msgstr "Контос"
 
 #: src-en/data/blueprints.xml.append:14683
 msgid ""
@@ -7615,7 +7614,7 @@ msgstr "Точечный луч \"Эбони\""
 #: src-en/data/blueprints.xml.append:14886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1_ENEMY\"]/short"
-msgstr "\"Эбони\""
+msgstr "Эбони"
 
 #: src-en/data/blueprints.xml.append:14887
 msgid ""
@@ -7638,7 +7637,7 @@ msgstr "Точечный луч \"Болиголов\""
 #: src-en/data/blueprints.xml.append:14918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_ENEMY\"]/short"
-msgstr "\"Болиголов\""
+msgstr "Болиголов"
 
 #: src-en/data/blueprints.xml.append:14919
 msgid ""
@@ -7686,7 +7685,7 @@ msgstr "Рассеиватель аномалий \"ХЕЙМОН\""
 #: src-en/data/blueprints.xml.append:14984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/short"
-msgstr "\"ХЕЙМОН\""
+msgstr "ХЕЙМОН"
 
 #: src-en/data/blueprints.xml.append:14985
 msgid ""
@@ -7962,7 +7961,7 @@ msgstr "Ракетница \"Чернобог\""
 #: src-en/data/blueprints.xml.append:15600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_ENEMY\"]/short"
-msgstr "\"Чернобог\""
+msgstr "Чернобог"
 
 #: src-en/data/blueprints.xml.append:15601
 msgid ""
@@ -7985,7 +7984,7 @@ msgstr "Миномет \"Ба-Пеф\""
 #: src-en/data/blueprints.xml.append:15646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL_ENEMY\"]/short"
-msgstr "\"Ба-Пеф\""
+msgstr "Ба-Пеф"
 
 #: src-en/data/blueprints.xml.append:15647
 msgid ""
@@ -8178,7 +8177,7 @@ msgstr "Луч \"Цукияри\""
 #: src-en/data/blueprints.xml.append:16032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_ARTY_CHAIN\"]/short"
-msgstr "Луч \"Цукияри\""
+msgstr "Цукияри"
 
 #: src-en/data/blueprints.xml.append:16033
 msgid ""
@@ -8245,7 +8244,7 @@ msgstr "Гатлинг-ион \"Веста\""
 #: src-en/data/blueprints.xml.append:16151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/short"
-msgstr "\"Веста\""
+msgstr "Веста"
 
 #: src-en/data/blueprints.xml.append:16153
 msgid ""
