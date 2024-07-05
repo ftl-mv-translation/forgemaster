@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-04 10:00+0000\n"
+"PO-Revision-Date: 2024-07-05 22:07+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -8012,16 +8012,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/text"
 msgstr ""
+"Хотите установить свой собственный Модульный корпус? [5% сопротивления "
+"повреждениям корпуса, позволяет устанавливать дальнейшие улучшения. "
+"Заблокировано, поэтому не подлежит возврату!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7848
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Модульный корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7850
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Модульный корпус Алестера установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7856
 msgid ""
@@ -8031,12 +8034,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:7864
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/choice[2]/text"
-msgstr ""
+msgstr "Установить ВНУТРЕННИЙ Модульный корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7866
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/choice[2]/event/text"
 msgstr ""
+"Вы говорите Алестеру, чтобы он разместил его в ваши внутренние модули... "
+"\"Хорошо, мальчик\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7872
 msgid ""
@@ -8052,6 +8057,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/text"
 msgstr ""
+"Хотите установить свой собственный Модульный корпус? [Позволяет "
+"устанавливать дальнейшие улучшения. Заблокировано, поэтому не подлежит "
+"возврату!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7889
 msgid ""
@@ -8061,7 +8069,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7891
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Модульный корпус Алестера установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7897
 msgid ""
@@ -8071,12 +8079,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:7905
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/choice[2]/text"
-msgstr ""
+msgstr "Установить ВНУТРЕННИЙ Модульный корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7907
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/choice[2]/event/text"
 msgstr ""
+"Вы говорите Алестеру, чтобы он разместил его в ваши внутренние модули... "
+"\"Хорошо, мальчик\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7913
 msgid ""
