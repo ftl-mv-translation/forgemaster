@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 10:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-05 22:07+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -8419,11 +8419,14 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_AUGMENTEDLANIUS\"]/text[4]"
 msgstr ""
+"Ваш корабль сбрасывает обороты, но тут же снова запускается, когда вы "
+"находите искомое судно Возвышенных. Вы не знаете, что опаснее - их оружие "
+"или экипаж, но ничто не помешает вашей охоте."
 
 #: src-en/data/events_special_storage.xml.append:7663
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_AUGMENTEDLANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится судно Возвышенных ланиусов."
 
 #: src-en/data/events_special_storage.xml.append:7664
 msgid ""
@@ -8444,11 +8447,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_AUGMENTEDLANIUS\"]/destroyed/text"
 msgstr ""
+"Вы наблюдаете, как странное судно ланиусов разваливается на части. Похоже, "
+"сегодня вы не найдете ни ответов, ни технологий..."
 
 #: src-en/data/events_special_storage.xml.append:7681
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_AUGMENTEDLANIUS\"]/deadCrew/text"
-msgstr ""
+msgstr "Судно странных ланиусов было зачищено. Вы разбираете их корабль."
 
 #: src-en/data/events_special_storage.xml.append:7684
 msgid ""
@@ -8459,81 +8464,139 @@ msgstr "Проверить корабль."
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Когда вы обыскиваете корабль, ваше внимание привлекает знакомое зеленое "
+"свечение. Вы находите образец эфирной технологии, от которого откололось "
+"несколько кусочков, но он все еще достаточно хорош для использования. "
+"Неподалеку вы также находите немного пригодного для использования лома."
 
 #: src-en/data/events_special_storage.xml.append:7697
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Когда вы обыскиваете корабль, ваше внимание привлекает знакомое зеленое "
+"свечение. Вы находите образец эфирной технологии, от которого откололось "
+"несколько кусочков, но он все еще достаточно хорош для использования. "
+"Неподалеку вы также находите немного пригодного для использования лома."
 
 #: src-en/data/events_special_storage.xml.append:7702
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Вы находите несколько поврежденных схем дронов на корабельных компьютерах, и "
+"через некоторое время вам удается составить полную схему."
 
 #: src-en/data/events_special_storage.xml.append:7706
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Вы находите несколько поврежденных схем дронов на корабельных компьютерах, и "
+"через некоторое время вам удается составить полную схему."
 
 #: src-en/data/events_special_storage.xml.append:7710
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Вы находите несколько поврежденных схем дронов на корабельных компьютерах, и "
+"через некоторое время вам удается составить полную схему."
 
 #: src-en/data/events_special_storage.xml.append:7714
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[6]/text"
 msgstr ""
+"Похоже, что ланиусы нашли эфирное оружие и готовились установить его на свой "
+"корабль. Вы осторожно переносите его на свой корабль, чтобы использовать в "
+"дальнейшем."
 
 #: src-en/data/events_special_storage.xml.append:7718
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[7]/text"
 msgstr ""
+"Похоже, что ланиусы нашли эфирное оружие и готовились установить его на свой "
+"корабль. Вы осторожно переносите его на свой корабль, чтобы использовать в "
+"дальнейшем."
 
 #: src-en/data/events_special_storage.xml.append:7722
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[8]/text"
 msgstr ""
+"Похоже, что ланиусы нашли эфирное оружие и готовились установить его на свой "
+"корабль. Вы осторожно переносите его на свой корабль, чтобы использовать в "
+"дальнейшем."
 
 #: src-en/data/events_special_storage.xml.append:7726
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[9]/text"
 msgstr ""
+"Похоже, что ланиусы нашли эфирное оружие и готовились установить его на свой "
+"корабль. Вы осторожно переносите его на свой корабль, чтобы использовать в "
+"дальнейшем."
 
 #: src-en/data/events_special_storage.xml.append:7730
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[10]/text"
 msgstr ""
+"Более тщательное сканирование корабля показывает, что его внутренние модули "
+"относительно новые и еще не успели необратимо ассимилироваться с корпусом. "
+"Вам удается извлечь из систем корабля продвинутое корабельное оборудование и "
+"выяснить, что оно совместимо с вашим собственным."
 
 #: src-en/data/events_special_storage.xml.append:7739
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[1]"
 msgstr ""
+"Когда ваш корабль выходит из прыжка, ваши сенсоры улавливают несколько "
+"коммуникационных волн обелисков. На заднем плане слышится панический ропот, "
+"а затем они, кажется, адресуют несколько слов вам. \"О, клянусь корпусом "
+"самой королевы, это опять эти кожаные мешки!\" Связь прерывается, и корабль "
+"вступает в бой с вашим. В ваших интересах сохранить корабль в целости, если "
+"вы хотите получить все, что находится на его борту."
 
 #: src-en/data/events_special_storage.xml.append:7740
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[2]"
 msgstr ""
+"Двигатели вашего корабля запускаются, и перед вами появляется коробчатого "
+"дизайна судно обелисков. Что у с этими прямоугольниками? Их пушки похожи на "
+"коробки, их корабли - это куча коробок, а сами они - коробки. Пожалуй, лучше "
+"не вскрывать эту коробку, если вы не хотите испортить их груз. Вы "
+"обнаруживаете, что их оружие нагревается, и готовитесь вступить в бой."
 
 #: src-en/data/events_special_storage.xml.append:7741
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[3]"
 msgstr ""
+"Когда вы входите в систему, с корабля обелисков поступает поток "
+"беспорядочных символов и звуковых сигналов. Хотя ваш переводчик, возможно, "
+"не работает, вы понимаете смысл, когда их оружие нацеливается на ваш корпус! "
+"Возможно, если вы оставите их корабль в целости и сохранности, вам удастся "
+"сделать так, чтобы это стоило вашего времени."
 
 #: src-en/data/events_special_storage.xml.append:7742
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[4]"
 msgstr ""
+"Ваш Кодекс как всегда безошибочен, даже для таких редких существ, как эти, "
+"они находятся именно там, где написано. Разумеется, судя по готовому к бою "
+"оружию, они не удивлены вашему появлению. На полсекунды вы задумываетесь о "
+"том, чтобы пообщаться с ними, просто чтобы поддразнить их, но быстро "
+"нарастающая энергетическая сигнатура их корабля заставляет вас броситься в "
+"бой."
 
 #: src-en/data/events_special_storage.xml.append:7743
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[5]"
 msgstr ""
+"Хотя они не так опасны и не так редки, как Дворяне, обычный корабль "
+"обелисков - довольно крупная добыча. Хотя больше всего вас волнуют их "
+"большие пушки, которые вы должны постараться не превратить в мусор, "
+"пригодные только для еды Возвышенным. Впрочем, похоже, они и так намерены "
+"вас уничтожить, поскольку вы замечаете зеленое свечение, исходящее от их "
+"оружия."
 
 #: src-en/data/events_special_storage.xml.append:7748
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_OBELISK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится судно обелисков."
 
 #: src-en/data/events_special_storage.xml.append:7749
 msgid ""
@@ -8554,11 +8617,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_OBELISK\"]/destroyed/text"
 msgstr ""
+"Вы выиграли эту битву, но вероятность того, что хоть что-то из их техники "
+"уцелело, практически нулевая."
 
 #: src-en/data/events_special_storage.xml.append:7766
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_OBELISK\"]/deadCrew/text"
-msgstr ""
+msgstr "Судно обелисков было зачищено. Вы разбираете их корабль."
 
 #: src-en/data/events_special_storage.xml.append:7769
 msgid ""
@@ -8569,51 +8634,94 @@ msgstr "Проверить корабль."
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Хотя вам не удалось демонтировать оружие корабля, вы обнаружили на его борту "
+"неповрежденный дрон. Вы также находите несколько дрон-комплектов и забираете "
+"их."
 
 #: src-en/data/events_special_storage.xml.append:7782
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Хотя вам не удалось демонтировать оружие корабля, вы обнаружили на его борту "
+"неповрежденный дрон. Вы также находите несколько дрон-комплектов и забираете "
+"их."
 
 #: src-en/data/events_special_storage.xml.append:7787
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Компьютеры вашего корабля смогли найти безопасный способ демонтажа одного из "
+"орудий с корабля обелисков. Вы триумфально поднимаете его на борт своего "
+"корабля."
 
 #: src-en/data/events_special_storage.xml.append:7791
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Компьютеры вашего корабля смогли найти безопасный способ демонтажа одного из "
+"орудий с корабля обелисков. Вы триумфально поднимаете его на борт своего "
+"корабля."
 
 #: src-en/data/events_special_storage.xml.append:7795
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Поначалу кажется, что на борту корабля нет ничего ценного, пока один из "
+"членов вашего экипажа не обращает на это внимание. То, что вы сначала "
+"приняли за декоративную деталь, на самом деле оказалось панелью доступа, за "
+"которой вы обнаруживаете мощный модуль для корабля!"
 
 #: src-en/data/events_special_storage.xml.append:7805
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[1]"
 msgstr ""
+"Вы даже не даете своим двигателям возможности как следует разогнаться, когда "
+"сбрасываете скорость и мчитесь сквозь пространство в том направлении, где, "
+"по данным вашего компьютера, находятся Дворяне. Как только корабль "
+"обнаруживает другое судно, вы прицеливаетесь и заряжаете оружие, и когда вы "
+"оказываетесь в зоне досягаемости оружия, вы видите белый корпус среди моря "
+"тьмы. Давно пора проучить этих напыщенных коробок с комплексом бога, кто "
+"здесь на самом деле хозяин, а их угасающая цивилизация уже давно пережила "
+"свой расцвет. Избавьтесь от этих \"высших форм\", и их технологии достанутся "
+"вам."
 
 #: src-en/data/events_special_storage.xml.append:7806
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[2]"
 msgstr ""
+"Координаты, указанные в Кодексе, привели вас в это место, и они оказались "
+"точными: вы заметили светящиеся розовые светом Дворян-обелисков и заметили, "
+"что они, похоже, вышли на связь. \"Ух, опять смертные. Вы хотите умереть, не "
+"так ли?\" Вы активируете свое оружие, и они делают то же самое."
 
 #: src-en/data/events_special_storage.xml.append:7807
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[3]"
 msgstr ""
+"Как только вы выходите из прыжка, ваш компьютер начинает свою работу. "
+"Однако, похоже, его помощь вам не понадобится, поскольку вы едва не "
+"врезаетесь прямо в геометрическое судно с ярко-белым корпусом. Похоже, эти "
+"плавающие камни решили бросить якорь на поверхности маяка - самонадеянное "
+"поведение, которое вы собираетесь быстро исправить. Вы всматриваетесь в "
+"розовое свечение судна, планируя их гибель, а ваше оружие уже наготове. "
+"Отправьте эти коробки обратно в ад, из которого они вылезли, а их "
+"\"превосходные технологии\" будут вашими."
 
 #: src-en/data/events_special_storage.xml.append:7808
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[4]"
 msgstr ""
+"Вы едва успели перенастроить свои сенсоры на окружающее пространство, как на "
+"вас надвигается корабль Дворян! Хотя эго Дворян больше, чем у "
+"сверхгигантской звезды, нужно обладать особым высокомерием, чтобы покинуть "
+"безопасные родные миры. Сейчас самое время поставить их на место и забрать "
+"их ценные технологии себе. Зачистите палубы от их нечистой геометрии, и "
+"добыча станет вашей."
 
 #: src-en/data/events_special_storage.xml.append:7813
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_ROYALOBELISK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Здесь находится судно Дворян-обелисков."
 
 #: src-en/data/events_special_storage.xml.append:7814
 msgid ""
@@ -8634,11 +8742,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ROYALOBELISK\"]/destroyed/text"
 msgstr ""
+"Вы смотрите, как корабль Дворян взрывается на ваших глазах. Похоже, сегодня "
+"вы не получите никаких их технологий..."
 
 #: src-en/data/events_special_storage.xml.append:7831
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ROYALOBELISK\"]/deadCrew/text"
-msgstr ""
+msgstr "Судно Дворян было зачищено. Вы разбираете их корабль."
 
 #: src-en/data/events_special_storage.xml.append:7834
 msgid ""
@@ -8649,61 +8759,88 @@ msgstr "Проверить корабль."
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"В грузовом отсеке корабля вы находите образец технологии обелисков в "
+"идеальном состоянии. Он даже более продвинут, чем обычные образцы, и, "
+"несомненно, пригодится вам в качестве оборудования."
 
 #: src-en/data/events_special_storage.xml.append:7846
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Отсек дронов корабля очень хорошо оборудован. Вы находите несколько дрон-"
+"комплектов и продвинутый Дворянский дрон."
 
 #: src-en/data/events_special_storage.xml.append:7851
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Отсек дронов корабля очень хорошо оборудован. Вы находите несколько дрон-"
+"комплектов и продвинутый Дворянский дрон."
 
 #: src-en/data/events_special_storage.xml.append:7856
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Отсек дронов корабля очень хорошо оборудован. Вы находите несколько дрон-"
+"комплектов и продвинутый Дворянский дрон."
 
 #: src-en/data/events_special_storage.xml.append:7861
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Отсек дронов корабля очень хорошо оборудован. Вы находите несколько дрон-"
+"комплектов и продвинутый Дворянский дрон."
 
 #: src-en/data/events_special_storage.xml.append:7866
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[6]/text"
 msgstr ""
+"Когда вы открываете грузовой отсек корабля, вас встречает одно из самых "
+"лучших орудий, которые вы когда-либо видели. Вы быстро отдаете приказ "
+"экипажу извлечь его, желая использовать свой новый приз."
 
 #: src-en/data/events_special_storage.xml.append:7870
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[7]/text"
 msgstr ""
+"Когда вы открываете грузовой отсек корабля, вас встречает одно из самых "
+"лучших орудий, которые вы когда-либо видели. Вы быстро отдаете приказ "
+"экипажу извлечь его, желая использовать свой новый приз."
 
 #: src-en/data/events_special_storage.xml.append:7874
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[8]/text"
 msgstr ""
+"Когда вы открываете грузовой отсек корабля, вас встречает одно из самых "
+"лучших орудий, которые вы когда-либо видели. Вы быстро отдаете приказ "
+"экипажу извлечь его, желая использовать свой новый приз."
 
 #: src-en/data/events_special_storage.xml.append:7878
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[9]/text"
 msgstr ""
+"Когда вы открываете грузовой отсек корабля, вас встречает одно из самых "
+"лучших орудий, которые вы когда-либо видели. Вы быстро отдаете приказ "
+"экипажу извлечь его, желая использовать свой новый приз."
 
 #: src-en/data/events_special_storage.xml.append:7882
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[10]/text"
 msgstr ""
+"Орудия и дроны корабля не подлежат восстановлению, но вы быстро забываете об "
+"этом, как только находите нечто гораздо более интересное. Это модуль, не "
+"похожий ни на один из тех, что вы видели раньше. Когда вы устанавливаете его "
+"на корабль, корпус начинает слабо светиться."
 
 #: src-en/data/events_special_storage.xml.append:7892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/text"
-msgstr ""
+msgstr "С кем вы планируете провести чаепитие?"
 
 #: src-en/data/events_special_storage.xml.append:7894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Превратить богомола Улья в свободного богомола. [Налог: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:7902
 msgid ""
@@ -8714,11 +8851,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[2]/text"
 msgstr ""
+"У вас нет богомола Улья, чтобы превратить его в свободного богомола. [Налог: "
+"10~]"
 
 #: src-en/data/events_special_storage.xml.append:7914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[3]/text"
-msgstr ""
+msgstr "Превратить своего богомола Улья в Сюзерена. [Налог: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7922
 msgid ""
@@ -8728,13 +8867,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:7929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[4]/text"
-msgstr ""
+msgstr "У вас нет богомола Улья, чтобы превратить его в Сюзерена. [Налог: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_suzerain\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Превратить своего Сюзерена в Епископа. [Налог: 80~]"
 
 #: src-en/data/events_special_storage.xml.append:7942
 msgid ""
@@ -8746,12 +8885,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_suzerain\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Сюзерена, чтобы превратить его в Епископа. [Налог: 80~]"
 
 #: src-en/data/events_special_storage.xml.append:7954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[7]/text"
-msgstr ""
+msgstr "Превратить своего свободного богомола в богомола Улья. [Налог: 20~]"
 
 #: src-en/data/events_special_storage.xml.append:7962
 msgid ""
@@ -8762,11 +8901,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[8]/text"
 msgstr ""
+"У вас нет свободного богомола, чтобы превратить его в богомола Улья. [Налог: "
+"20~]"
 
 #: src-en/data/events_special_storage.xml.append:7974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[9]/text"
-msgstr ""
+msgstr "Превратить свободного богомола в Полководца. [Налог: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7982
 msgid ""
@@ -8777,12 +8918,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[10]/text"
 msgstr ""
+"У вас нет свободного богомола, чтобы превратить его в Полководца. [Налог: "
+"40~]"
 
 #: src-en/data/events_special_storage.xml.append:7994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_warlord\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Превратить своего Полководца в Крекерджека. [Налог: 80~]"
 
 #: src-en/data/events_special_storage.xml.append:8002
 msgid ""
@@ -8794,7 +8937,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_warlord\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Полководца, чтобы превратить его в Крекерджека. [Налог: 80~]"
 
 #: src-en/data/events_special_storage.xml.append:8015
 msgid ""
@@ -8805,126 +8948,245 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[1]"
 msgstr ""
+"Поначалу ваш богомол враждебно отнесся к идее употребления столь странного "
+"напитка, но в конце концов смирился и сделал глоток королевского чая. Через "
+"несколько мгновений вы замечаете, как его некогда суровое, закаленное в боях "
+"выражение лица превращается в беззаботную улыбку."
 
 #: src-en/data/events_special_storage.xml.append:8024
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[2]"
 msgstr ""
+"Вы усаживаете своего богомола и пытаетесь объяснить ему этикет чаепития. "
+"Когда у вас ничего не получается, вы говорите ему, что чаепитие - это "
+"традиция воинов старой Земли, подходящая только для самых храбрых и "
+"жестоких. Вы едва успели закончить импровизированное объяснение, как богомол "
+"схватил чай и начал энергично пить. Вы отходите назад, зная, что лучше не "
+"вставать между богомолом и его добычей."
 
 #: src-en/data/events_special_storage.xml.append:8025
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[3]"
 msgstr ""
+"Вы заходите в столовую и обнаруживаете, что ваш богомол пролил чай уже в "
+"шестой раз за последний час. Проблема быстро решается, как только вы "
+"приносите ему непроливайку, и чай тут же начинает оказывать свое действие."
 
 #: src-en/data/events_special_storage.xml.append:8026
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[4]"
 msgstr ""
+"Ваш богомол на удивление охотно принимает участие в королевском чаепитии! Вы "
+"несколько озадачены, пока вас не спрашивают, как вам удалось получить чай от "
+"самой Лейконплииинакры. Вы изо всех сил стараетесь сделать невозмутимое лицо "
+"и дать убедительный ответ."
 
 #: src-en/data/events_special_storage.xml.append:8031
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[1]"
 msgstr ""
+"Перед следующим прыжком вы приглашаете богомола выпить вместе с вами немного "
+"королевского чая. Когда он делает глоток, его глаза сразу же расширяются. "
+"\"Капитан, что добавляют в чай? Он очень крепкий и хорошо бодрит!\" Вы "
+"спрашиваете их о самочувствии, и в ответ он в мгновение ока разрезает стол "
+"пополам! \"Я чувствую себя очень сильным, как воин богомолов, капитан! Я "
+"готов к убийствам!\""
 
 #: src-en/data/events_special_storage.xml.append:8032
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[2]"
 msgstr ""
+"Богомол с любопытством рассматривает стоящую перед ним маленькую чайную "
+"чашку. \"Это для питья, да?\" Вы киваете и жестом предлагаете ему выпить. Он "
+"сначала нерешительно потягивает чай, а затем жадно выпивает остатки. Вы с "
+"содроганием представляете, что сказала бы королева о том, что ее любимый чай "
+"употребляется таким неподобающим образом."
 
 #: src-en/data/events_special_storage.xml.append:8033
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[3]"
 msgstr ""
+"В своей каюте вы застаете богомолов, исполняющего странную хаку. Он едва "
+"приостанавливается на мгновение, чтобы взять у вас чай, и тут же "
+"возвращается к своим движениям, выпив его до дна. Больше он ничего не "
+"говорит, но вы отмечаете вновь обретенную энергичность его движений."
 
 #: src-en/data/events_special_storage.xml.append:8034
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[4]"
 msgstr ""
+"Ваш богомол ест незнакомое блюдо в столовой. Вы аккуратно заменяете его "
+"напиток на королевский чай, пока он не видит, и уходите, пока он вас не "
+"заметил. Позже вы получаете автоматическое оповещение из учебного центра "
+"корабля о том, что один из членов вашего экипажа прошел все стандартные "
+"боевые симуляции без единой помарки. Вы отправляете запрос на более сложные "
+"протоколы обучения."
 
 #: src-en/data/events_special_storage.xml.append:8039
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[1]"
 msgstr ""
+"Вы подходите к своему Cюзерену со спины с заранее приготовленным напитком. В "
+"мгновение ока он разворачивается и рефлекторно сбивает вас на пол, ловко "
+"подхватывая когтем чашку, прежде чем она прольется. \"Не стоит так удивлять "
+"меня, капитан! Но все равно спасибо за чай!\" Вы неуверенно улыбаетесь, "
+"делая себе заметку больше не приближаться к нему незаметно."
 
 #: src-en/data/events_special_storage.xml.append:8040
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[2]"
 msgstr ""
+"Ваш сюзерен чистит свои доспехи, оттирая пятна крови своей кислотной слюной. "
+"Вы спрашиваете его, не хочет ли он попробовать белые доспехи, когда подаете "
+"ему чай: \"Хм, всегда хотел быть Епископом! Правда, белые будет сложнее "
+"чистить...\""
 
 #: src-en/data/events_special_storage.xml.append:8041
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[3]"
 msgstr ""
+"Вы наблюдаете, как ваш Сюзерен гоняется по кораблю за другими членами "
+"экипажа. Вы останавливаете его на мгновение и спрашиваете, не желают ли он "
+"подкрепиться. Он быстро выпивает чай и продолжает бежать. Вы едва успеваете "
+"моргнуть, как он снова бежит по кораблю, а за ним тянется шлейф запаха."
 
 #: src-en/data/events_special_storage.xml.append:8042
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[4]"
 msgstr ""
+"Ваш Сюзерен наносит удары по манекену в тренировочном центре. Он делает "
+"паузу, чтобы отведать чая, а затем возобновляет атаки. Когда вы "
+"поворачиваетесь, чтобы уйти, то слышите звук рвущегося материала и видите "
+"манекен на полу! \"Возможно, потребуется заменить, капитан...\""
 
 #: src-en/data/events_special_storage.xml.append:8047
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[1]"
 msgstr ""
+"Ваш свободный богомол жадно вдыхает феромоны в своей каюте. Он смотрит на "
+"вас с благоговением, когда вы подходите с чаем королевы, и спрашивает, можно "
+"ли ему выпить немного. По мере того как он пьет, выражение его лица "
+"меняется, и он с отвращением выбрасывает свои феромоны на пол. \"О чем я "
+"только думал, капитан? Природные феромоны гораздо лучше!\""
 
 #: src-en/data/events_special_storage.xml.append:8048
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[2]"
 msgstr ""
+"Ваш свободный богомол хвастается перед остальными, что \"Капитан - самый "
+"любимый из них\", и торжествующе улыбается, когда вы приближаетесь с "
+"подарком. Его идолопоклонство перед вами порой утомляет, но вам все равно "
+"будет этого немного не хватать..."
 
 #: src-en/data/events_special_storage.xml.append:8049
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[3]"
 msgstr ""
+"Вы обнаружили, что ваш свободный богомол \"играет в шахматы\" в столовой. Он "
+"сосредоточенно думает и обращаются к вам с вопросом: \"Капитан, какая из "
+"фигур пешка?\". Вы вздыхаете и спрашиваете, не хочет ли он сделать перерыв, "
+"чтобы выпить чаю. Он выпивает и благодарит вас: \"Мозги гораздо лучше "
+"работают, капитан!\" Он уверенно передвигает своего коня вперед на одну "
+"клетку, и вы не удосуживаетесь сделать ему замечание."
 
 #: src-en/data/events_special_storage.xml.append:8050
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[4]"
 msgstr ""
+"К своему удивлению, вы обнаруживаете, что ваш свободный богомол пытается "
+"самостоятельно приготовить чай! Когда вы наблюдаете за происходящим, "
+"становится ясно, что он не имеет ни малейшего представления о том, что "
+"делает. Он пытается использовать феромоны вместо воды, а содержимое чайного "
+"пакетика разбросано по полу. Вы предлагаете заварить чай самостоятельно, и "
+"он с благодарностью принимает предложение. \"Вы самый умный, капитан!\""
 
 #: src-en/data/events_special_storage.xml.append:8055
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[1]"
 msgstr ""
+"Ваш свободный богомол заваривает феромоны в своей каюте. Вы спрашиваете, не "
+"хочет ли он чего-нибудь выпить, и преподносите королевский чай. Он берет его "
+"и заливает чай феромонной смесью! Позже вы замечаете, что наросты на его "
+"пластинах головы стали гораздо заметнее. Полагаю, с результатами не "
+"поспоришь..."
 
 #: src-en/data/events_special_storage.xml.append:8056
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[2]"
 msgstr ""
+"Вы прогуливаетесь по кораблю и обнаруживаете свободного богомола, спорящего "
+"о том, какая музыка лучше. Он останавливается на мгновение, чтобы выпить "
+"принесенный вами чай, и продолжает спор с новой силой. Вы почти уверены, что "
+"ни один из этих жанров на самом деле не существует, но не станете же вы "
+"спорить со свежеиспеченным Полководцем."
 
 #: src-en/data/events_special_storage.xml.append:8057
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[3]"
 msgstr ""
+"Ваш свободный богомол только что закончил принимать феромоны и сонно смотрит "
+"в потолок. Когда он собирается выпить королевский чай, почти половина "
+"напитка стекает по его лицу. Его внимание быстро обостряется, и он встает, "
+"быстро начиная изготавливать большое количество феромонов. \"Мне вдруг "
+"захотететься больший, капитан! Хотеть я с вами поделиться?\" Вы почтительно "
+"отказываетесь и уходите, пока испарения не добрались до вас."
 
 #: src-en/data/events_special_storage.xml.append:8058
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[4]"
 msgstr ""
+"Оценивая состояние корабля, вы замечаете необычно большой избыток феромонов "
+"в грузе. За чашкой чая вы расспрашиваете об этом своего свободного богомола, "
+"но не можете добиться от него внятного ответа. Проблема решается сама собой "
+"через несколько часов, поскольку он быстро расходует свой запас."
 
 #: src-en/data/events_special_storage.xml.append:8063
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[1]"
 msgstr ""
+"Вы обращаетесь к своему Полководцу Свободных Богомолов и предлагаете ему "
+"королевский чай. Он с радостью принимает этот привычный вызов, опустошая "
+"весь чайник за считанные секунды! \"Сама королева гордиться бы вами, капитан!"
+"\" Вы уверяете его, что Лейконплииинакра была бы очень впечатлена, а он "
+"смотрит на вас в замешательстве. \"С чего бы Лейконплииинакре интересоваться "
+"чаем? Я говорить о НАСТОЯЩЕЙ королеве!\""
 
 #: src-en/data/events_special_storage.xml.append:8064
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[2]"
 msgstr ""
+"Ваш Полководец Свободных Богомолов энергично пьет чай прямо перед вами. Вы "
+"на мгновение отводите глаза, пока он пьет чай с полным отсутствием "
+"самообладания и этикета. Вы снова смотрите на него, когда он заканчивает, и "
+"удивляетесь его новому костюму! Вам непонятно, откуда у него так быстро "
+"появилась шапка из медвежьей шкуры, но лучше не задавать вопросов..."
 
 #: src-en/data/events_special_storage.xml.append:8065
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[3]"
 msgstr ""
+"Ваш Полководец Свободных Богомолов обменивается шутками с остальными членами "
+"экипажа, разражаясь хохотом еще до того, как кто-то успевает уловить суть. "
+"Вы ждете, пока он переведет дух, и вручаете ему королевский чай. Позже вы "
+"наблюдаете, как экипаж часами пытается заставить его смеяться, пока он "
+"невозмутимо стоит перед своей каютой."
 
 #: src-en/data/events_special_storage.xml.append:8066
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[4]"
 msgstr ""
+"Вы задерживаете дыхание, входя в каюту своего Полководца, и ваши глаза жжет "
+"концентрированная смесь феромонов в воздухе. Вы машете рукой, чтобы привлечь "
+"внимание богомола, и быстро передаете ему чай, пока не потеряли сознание от "
+"испарений. Несколько часов спустя вы проходите мимо их двери и удивляетесь "
+"довольно приятному запаху. Он готовит... чай?"
 
 #: src-en/data/events_special_storage.xml.append:8072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_ARTILLERY\"]/text"
 msgstr ""
+"Вы устанавливаете на свой корабль миниатюрную осколочную артиллерийскую "
+"установку."
 
 #: src-en/data/events_special_storage.xml.append:8074
 msgid ""
@@ -8939,12 +9201,14 @@ msgstr "Что бы вы хотели сделать?"
 #: src-en/data/events_special_storage.xml.append:8087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_KESTREL_GHOST_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Призвать полчище призраков."
 
 #: src-en/data/events_special_storage.xml.append:8089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_KESTREL_GHOST_MENU\"]/choice[1]/event/text"
 msgstr ""
+"Внезапно на вашем корабле материализуется большая группа призраков! Они "
+"выглядят растерянными, но вскоре все соглашаются служить вам."
 
 #: src-en/data/events_special_storage.xml.append:8095
 msgid ""
@@ -8959,27 +9223,27 @@ msgstr "Какое орудие вам нужно улучшить?"
 #: src-en/data/events_special_storage.xml.append:8118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_BRONZE\"]/text"
-msgstr ""
+msgstr "Улучшить Бронзовую осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_INDIUM\"]/text"
-msgstr ""
+msgstr "Улучшить Индиумную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_RHENIUM\"]/text"
-msgstr ""
+msgstr "Улучшить Руниумную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_SILVER\"]/text"
-msgstr ""
+msgstr "Улучшить Серебряную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_LIST_FULL\"]/text"
-msgstr ""
+msgstr "Улучшить Палладиумную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8143
 msgid ""
@@ -8991,22 +9255,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:8148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_IRIDIUM\"]/text"
-msgstr ""
+msgstr "Улучшить Иридиумную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PLATINUM\"]/text"
-msgstr ""
+msgstr "Улучшить Платиновую осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8158
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_OSMIUM\"]/text"
-msgstr ""
+msgstr "Улучшить Осмианскую осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM_LIST_FULL\"]/text"
-msgstr ""
+msgstr "Улучшить Нобелиумную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:8168
 msgid ""
@@ -9018,27 +9282,27 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:8173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_BRONZE_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Бронзовую осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8178
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_INDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Индиумную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Руниумную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_SILVER_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Серебряную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_LIST_FULL_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Палладиумную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8198
 msgid ""
@@ -9050,22 +9314,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:8203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Иридиумную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Платиновую осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Осмианскую осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM_LIST_FULL_PLAYER\"]/text"
-msgstr ""
+msgstr "Улучшить Нобелиумную осколочную пушку+."
 
 #: src-en/data/events_special_storage.xml.append:8223
 msgid ""
@@ -9122,7 +9386,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8278
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Рениумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8286
 msgid ""
@@ -9147,7 +9411,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Серебряной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8314
 msgid ""
@@ -9172,7 +9436,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Палладиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8342
 msgid ""
@@ -9332,7 +9596,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8498
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Улучшение Иридиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8507
 msgid ""
@@ -9352,7 +9616,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Платиновой осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8528
 msgid ""
@@ -9377,7 +9641,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Осмианской осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8556
 msgid ""
@@ -9402,7 +9666,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Нобелиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8584
 msgid ""
@@ -9562,7 +9826,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8738
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Улучшение Хассиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8748
 msgid ""
@@ -9607,7 +9871,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Рениумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8797
 msgid ""
@@ -9632,7 +9896,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Серебряной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8825
 msgid ""
@@ -9658,7 +9922,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Палладиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:8853
 msgid ""
@@ -9818,7 +10082,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Улучшение Иридиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:9018
 msgid ""
@@ -9839,7 +10103,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Платиновой осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:9039
 msgid ""
@@ -9865,7 +10129,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Осмианской осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:9067
 msgid ""
@@ -9891,7 +10155,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Улучшение Нобелиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:9095
 msgid ""
@@ -10051,13 +10315,14 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Улучшение Хассиумной осколочной пушки завершено!"
 
 #: src-en/data/events_special_storage.xml.append:9276
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Использовать свой миномет \"Ба-Пеф\" [-21}, задерживает флот на 5 прыжков]"
 
 #: src-en/data/events_special_storage.xml.append:9278
 msgid ""
@@ -10096,6 +10361,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Использовать свой Дворянский миномет [-6}, задерживает флот на 2 прыжка]"
 
 #: src-en/data/events_special_storage.xml.append:9307
 msgid ""
@@ -10130,16 +10396,22 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:9333
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Использовать миномет \"Грязная бомба\" [-15}, задерживает флот на 4 прыжка, +"
+"2 к дурной славе]"
 
 #: src-en/data/events_special_storage.xml.append:9335
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Вы подготавливаете боеприпасы и устраиваете ловушку для повстанцев. Это, "
+"конечно, супер-пупер незаконно, но вы успеете исчезнуть до того, как это "
+"будет иметь значение."
 
 #: src-en/data/events_special_storage.xml.append:9341
 msgid ""
@@ -10170,72 +10442,96 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"Использовать свою Осмианскую осколочную пушку [задерживает флот на 1 прыжок, "
+"не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9364
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9370
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"Использовать свою Осмианскую осколочную пушку+ [задерживает флот на 1 "
+"прыжок, не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9372
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9380
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Использовать свою Нобелиумную осколочную пушку [задерживает флот на 1 "
+"прыжок, не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9382
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9388
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[7]/text"
 msgstr ""
+"Использовать свою Нобелиумную осколочную пушку+ [задерживает флот на 1 "
+"прыжок, не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9390
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9397
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[8]/text"
 msgstr ""
+"Использовать свою Хассиумную осколочную пушку [задерживает флот на 1 прыжок, "
+"не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9399
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[8]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9405
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[9]/text"
 msgstr ""
+"Использовать свою Хассиумную осколочную пушку+ [задерживает флот на 1 "
+"прыжок, не влияет на дурную славу]"
 
 #: src-en/data/events_special_storage.xml.append:9407
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[9]/event/text"
 msgstr ""
+"Вы выпускаете в пространство маяка такое неприличное количество осколков, "
+"что они точно задержат передвижение любого корабля."
 
 #: src-en/data/events_special_storage.xml.append:9414
 msgid ""
@@ -10247,36 +10543,47 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Всп [Пластинчатые]: Гальванопокрытие \"Медигель\". [Улучшение уже добавлено]"
+"\n"
+"\t\t\t\t[Пластинчатые исцеляются в два раза быстрее и медленно исцеляются "
+"сами по себе со скоростью 1.2 ОЗ/с, но теряют 30% максимального здоровья и "
+"10% скорости передвижения]"
 
 #: src-en/data/events_special_storage.xml.append:9433
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Всп [Пластинчатые]: Тяжелая броня. [Улучшение уже добавлено]\n"
+"\t\t\t\t[Пластинчатые получают в два раза меньше урона в бою и от оружия, но "
+"теряют 50% максимального здоровья и 10% скорости передвижения]"
 
 #: src-en/data/events_special_storage.xml.append:9438
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Всп [Пластинчатые]: Кислородные емкости. [Улучшение уже добавлено]\n"
+"\t\t\t\t[Пластинчатые приобретают иммунитет к удушью, но начинают получать "
+"урон от огня в размере 30% и теряют 10% скорости передвижения]"
 
 #: src-en/data/events_special_storage.xml.append:9443
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Всп [Пластинчатые]: Гальванопокрытие \"Медигель\". [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9449
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Всп [Пластинчатые]: Тяжелая броня. [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9455
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Всп [Пластинчатые]: Кислородные емкости. [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9460
 msgid ""
@@ -10287,6 +10594,14 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Гальванопокрытие \"Медигель\".\n"
+"\t\t\t[Эффекты: У Пластинчатых снижается скорость передвижения на 10%, они "
+"теряют 30% максимального здоровья, но могут лечиться в два раза быстрее и "
+"получают способность самостоятельно исцеляться со скоростью 1.2 ОЗ/с (с 10-"
+"секундной задержкой после получения урона)].\n"
+"\n"
+"\t\t\t[Предупреждение: Это касается только экипажа Пластинчатых валунов. "
+"После этого вы сможете установить другие вторичные и первичные модификации]"
 
 #: src-en/data/events_special_storage.xml.append:9473
 msgid ""
@@ -10298,7 +10613,7 @@ msgstr "Вы должны улучшить лабораторию, чтобы э
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9479
 msgid ""
@@ -10321,6 +10636,15 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Тяжелая броня, которая увеличивает "
+"толщину и прочность гальванопокрытия валунов, но в результате снижает их "
+"способность к уклонению и делает их более уязвимыми к опасностям.\n"
+"\t\t\t[Эффекты: Пластинчатые получают в два раза меньше обычного урона (73% "
+"урона до 36,5% урона) и получают на 50% меньше урона от оружия, но теряют "
+"50% максимального здоровья и снижают скорость передвижения на 10%]\n"
+"\n"
+"\t\t\t[Предупреждение: Это касается только экипажа Пластинчатых валунов. "
+"После этого вы сможете установить другие вторичные и первичные модификации]"
 
 #: src-en/data/events_special_storage.xml.append:9506
 msgid ""
@@ -10330,7 +10654,7 @@ msgstr "Вы должны улучшить лабораторию, чтобы э
 #: src-en/data/events_special_storage.xml.append:9510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/choice[2]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9512
 msgid ""
@@ -10351,6 +10675,16 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/text"
 msgstr ""
+"Вы собираетесь добавить модификацию Кислородные емкости, которая установит "
+"пользовательские кислородные системы на гальванопокрытие Пластинчатых "
+"валунов. Эти емкости делают их невосприимчивыми к удушью, но кислородные "
+"системы уязвимы к сильной жаре, а под воздействием огня из них будут "
+"вытекать масло и кислота, что нанесет им вред.\n"
+"\t\t\t[Эффекты: Пластинчатые приобретают иммунитет к удушью, но начинают "
+"получать урон от огня в размере 30% и теряют 10% скорости передвижения]\n"
+"\t\t\t\n"
+"\t\t\t[Предупреждение: Это повлияет только на экипаж Пластинчатых валунов. "
+"После этого вы сможете установить другие вторичные и первичные модификации]"
 
 #: src-en/data/events_special_storage.xml.append:9538
 msgid ""
@@ -10362,7 +10696,7 @@ msgstr "Вы должны улучшить лабораторию, чтобы э
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9544
 msgid ""
@@ -10406,13 +10740,13 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"FM_OXYGEN_STIMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Газообразные стимуляторы. [НЕВОЗМОЖНО: у вас уже есть это улучшение]"
 
 #: src-en/data/events_special_storage.xml.append:9597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"FM_OXYGEN_STIMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Газообразные стимуляторы. [Цена: 55~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:9602
 msgid ""
@@ -10423,12 +10757,16 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/text"
 msgstr ""
+"Вы собираетесь добавить улучшение Газообразные стимуляторы.\n"
+"\t\t\t[Эффекты: За каждую активную единицу энергии в системе "
+"жизнеобеспечения ваш экипаж получает +10% сопротивления оглушению и +5% "
+"сопротивления удушью]"
 
 #: src-en/data/events_special_storage.xml.append:9612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/choice[@req=\"oxygen\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 55~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:9614
 msgid ""
@@ -10447,6 +10785,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужна система жизнеобеспечения 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:9632
 msgid ""
@@ -10458,12 +10797,14 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Улучшение Фазы луча. [НЕВОЗМОЖНО: у вас уже максимальный уровень этого "
+"улучшения]"
 
 #: src-en/data/events_special_storage.xml.append:9652
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Улучшить Фазу луча ур. 2. [Цена: 80~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:9661
 msgid ""
@@ -10476,7 +10817,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:9664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"can_get_beam_pierce\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 80~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:9666
 msgid ""
@@ -10492,13 +10833,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам необходима система оружия 7-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:9686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам необходима система оружия 3-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:9690
 msgid ""
@@ -10524,19 +10865,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Найти Ремингтона."
 
 #: src-en/data/events_special_storage.xml.append:9722
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Найти Моссберга."
 
 #: src-en/data/events_special_storage.xml.append:9727
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Найти энджи-близнецов Моссберга и Ремингтона."
 
 #: src-en/data/events_special_storage.xml.append:9733
 msgid ""
@@ -10547,13 +10888,13 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ROCK\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Найти своего Пластинчатого Валуна."
 
 #: src-en/data/events_special_storage.xml.append:9746
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ROCK\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Найти Алестера."
 
 #: src-en/data/events_special_storage.xml.append:9750
 msgid ""
@@ -10563,7 +10904,7 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:9756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_PLATED\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать со своим Пластинчатым?"
 
 #: src-en/data/events_special_storage.xml.append:9758
 msgid ""
@@ -10574,6 +10915,17 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_PLATED_SCAN\"]/text"
 msgstr ""
+"ПОДРОБНОСТИ О ПЛАСТИНЧАТОМ ВАЛУНЕ\n"
+"\t\t\tВИД? [Валун] СУБТИП? [Да]\n"
+"\t\t\tДетали подтипа: Негенетический, элитный\n"
+"\t\t\tХарактеристики: 120 здоровья, получает на 27% меньше урона и на 45% "
+"меньше урона от удушья. 0.6x скорость передвижения, 15.х скорость ремонта.\n"
+"\t\t\tНаносит 1.3х урона в ближнем бою, 0.75х урона в дальнем бою, 0.7х "
+"урона при саботаже. Очень быстро тушит пожары. 70% сопротивление оглушению. "
+"Невосприимчив к огню.\n"
+"\t\t\tСпособность (10с перезарядка): Ремонтирует 1 повреждение корпуса и 4 "
+"повреждения системы в текущем отсеке. Исцеляет себя на 20 ОЗ.\n"
+"\t\t\tТип способности: Пополняет заряд при прыжке. Может обладать 3 зарядами."
 
 #: src-en/data/events_special_storage.xml.append:9783
 msgid ""
@@ -10589,111 +10941,172 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[1]"
 msgstr ""
+"Ваш Пластинчатый валун занят строительством миниатюрной модели вашего "
+"корабля. Он показывают ее вам, она очень хорошо сделана и точна."
 
 #: src-en/data/events_special_storage.xml.append:9799
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[2]"
 msgstr ""
+"Ваш Пластинчатый валун показывает вам фигурку проводника, которую он "
+"раскрашивает для своего миниатюрного поезда. Она раскрашена с особой "
+"тщательностью."
 
 #: src-en/data/events_special_storage.xml.append:9800
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[3]"
 msgstr ""
+"Ваш Пластинчатый валун говорит вам, что хотел бы создать модель поезда в "
+"масштабе 1:1000, но у него слишком большие руки."
 
 #: src-en/data/events_special_storage.xml.append:9801
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[4]"
 msgstr ""
+"Ваш Пластилиновый валун говорит вам, что ему очень нравится слушать смех "
+"Алестера."
 
 #: src-en/data/events_special_storage.xml.append:9802
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[5]"
 msgstr ""
+"Ваш Пластилиновый валун пишет письмо, предположительно, своей семье или "
+"друзьям. Лучше не беспокоить его."
 
 #: src-en/data/events_special_storage.xml.append:9803
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[6]"
 msgstr ""
+"Ваш Пластилиновый валун рассказывает вам историю о том, как однажды Алестер "
+"уронил в горн свое обручальное кольцо. Он так быстро засунул руку в горн, "
+"чтобы достать его, что чуть не сломал горн."
 
 #: src-en/data/events_special_storage.xml.append:9804
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[7]"
 msgstr ""
+"Ваш Пластилиновый валун рассказывает вам о предмете, о котором он прочитал в "
+"книге и который называется \"воздушный змей\". Он спрашивает, не хотите ли "
+"вы как-нибудь полетать на нем на ближайшей планете."
 
 #: src-en/data/events_special_storage.xml.append:9805
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[8]"
 msgstr ""
+"Вы заходите в каюту и видите, что ваш Пластинчатый валун использует стену "
+"неподалеку, чтобы почесать спину. Вы решаете оставить его заниматься своими "
+"делами."
 
 #: src-en/data/events_special_storage.xml.append:9806
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[9]"
 msgstr ""
+"В столовой вы заметили своего Пластинчатого валуна с тарелкой, который ест "
+"столько, что можно убить медведя. Вы садитесь рядом с ним, и он хлопает вас "
+"по спине рукой с искренней улыбкой на лице. У вас не хватает духу сказать "
+"ему, что он чуть не сломал вам спину."
 
 #: src-en/data/events_special_storage.xml.append:9807
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[10]"
 msgstr ""
+"Ваш Пластинчатый валун стыдливо подходит к вам и спрашивает, хорошо ли "
+"смотрится шляпа, которую он надел, в сочетании с его одеждой. У вас не "
+"хватает духу сказать ему, что шляпа не сочетается с гальванопокрытием."
 
 #: src-en/data/events_special_storage.xml.append:9808
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[11]"
 msgstr ""
+"Вы спрашиваете своего Пластинчатого валуна, что он думает о богомолах. Он на "
+"мгновение задумывается, а затем отвечает: \"Они делают кульные бомбы. Мне "
+"нравится их разбирать\". Вы уверены, что именно это и имелось в виду."
 
 #: src-en/data/events_special_storage.xml.append:9809
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[12]"
 msgstr ""
+"Некоторые члены вашего экипажа жалуются на слишком сильную жару. Вы ловите "
+"виновника - вашего Пластинчатого валуна. Он утверждает, что на корабле "
+"\"слишком холодно\". Экипаж потеет так сильно, что может заполнить бассейн, "
+"и вы ругаете его, чтобы он больше так не делал."
 
 #: src-en/data/events_special_storage.xml.append:9810
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[13]"
 msgstr ""
+"Вы спрашиваете своего Платированного валуна, как Алестер узнал о секретах "
+"ковки своего оружия. Пластинчатый громко кашляет, а затем спрашивает вас о "
+"погоде. Похоже, эта тема закрыта."
 
 #: src-en/data/events_special_storage.xml.append:9811
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[14]"
 msgstr ""
+"Вы спрашиваете своего Пластинчатого валуна, не хочет ли он когда-нибудь "
+"стать капитаном собственного корабля. Он говорит, что ему нравится "
+"приобретать новые навыки, так почему бы и нет?"
 
 #: src-en/data/events_special_storage.xml.append:9812
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[15]"
 msgstr ""
+"Ваш Пластинчатый валун говорит, что надеется, что в загробном мире найдется "
+"хорошая кузница, и он сможет продолжать оттачивать свое мастерство, как "
+"Алестер."
 
 #: src-en/data/events_special_storage.xml.append:9813
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[16]"
 msgstr ""
+"Вы слышите стук в дверь. Вы открываете ее и обнаруживаете, что там стоит ваш "
+"Пластинчатый валун. \"Почему люди просто не построили железные дороги в "
+"космосе?\" - неожиданно спрашивает он. Вы закрываете перед ним дверь."
 
 #: src-en/data/events_special_storage.xml.append:9814
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[17]"
 msgstr ""
+"Ваш Пластинчатый валун спрашивает, где на вашем корабле печь и мехи. Вы "
+"сообщаете ему, что у вас их нет, и он, вскинув руки вверх, уходит."
 
 #: src-en/data/events_special_storage.xml.append:9815
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[18]"
 msgstr ""
+"Вы расспрашиваете своего Пластинчатого валуна о его семье. Вы слышите "
+"прекрасный рассказ о том, как готовила его бабушка. Вы размышляете о том, "
+"какова на самом деле была ее стрепня на вкус."
 
 #: src-en/data/events_special_storage.xml.append:9816
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[19]"
 msgstr ""
+"Вашему Пластинчатому валуну не нравится, что на вашем корабле совсем нет "
+"музыки, и он смастерил из металлолома самодельные барабаны. Звук, который "
+"они издают, ужасен, и вы конфискуете их."
 
 #: src-en/data/events_special_storage.xml.append:9817
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[20]"
 msgstr ""
+"Ваш Пластинчатый валун считает, что не стоит доверять энджи из-за их "
+"отвратительной еды. Он объясняет: \"Если ваша кухня отвратительна, то вы, "
+"скорее всего, - зло\". Вы мысленно отмечаете, что никогда не будете готовить "
+"для него."
 
 #: src-en/data/events_special_storage.xml.append:9818
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[21]"
 msgstr ""
+"Ваш Пластинчатый валун играет со своей железнодорожной дорогой, которую он "
+"купил на рынке, но он наверняка потратит ваше время, если вы спросите его об "
+"этом."
 
 #: src-en/data/events_special_storage.xml.append:9823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_FORGEMASTER\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать с Алестером?"
 
 #: src-en/data/events_special_storage.xml.append:9825
 msgid ""
@@ -10704,6 +11117,18 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_FORGEMASTER_SCAN\"]/text"
 msgstr ""
+"ПОДРОБНОСТИ О АЛЕСТЕРЕ\n"
+"\t\t\tВИД? [Валун] СУБТИП? [Да]\n"
+"\t\t\tПодробности о подтипе: Уникальный\n"
+"\t\t\tХарактеристики: 200 здоровья, получает только 50% от всех источников ("
+"включая удушье), 0.8х скорость передвижения и 3х скорость ремонта.\n"
+"\t\t\tНаносит 2x урона в ближнем бою, 1.5x урона в дальнем бою, 1.5x урона "
+"при саботаже. Очень быстро тушит пожары. 99% сопротивление оглушению. "
+"Невосприимчив к огню.\n"
+"\t\t\tСпособность (10с перезарядка): Восстанавливает 2 повреждения корпуса и "
+"10 повреждений системы в текущем отсеке, одновременно вызывая пожар. "
+"Полностью исцеляет себя.\n"
+"\t\t\tТип способности: Пополняет заряд при прыжке. Может обладать 1 зарядом."
 
 #: src-en/data/events_special_storage.xml.append:9849
 msgid ""
@@ -10719,71 +11144,101 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[1]"
 msgstr ""
+"Алестер рассказывает вам истории о самых странных видах оружия, которые он "
+"когда-либо создавал."
 
 #: src-en/data/events_special_storage.xml.append:9865
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[2]"
 msgstr ""
+"Алестер рассказывает вам истории о самом мощном оружии, которое он когда-"
+"либо создавал."
 
 #: src-en/data/events_special_storage.xml.append:9866
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[3]"
 msgstr ""
+"Алестер рассказывает вам истории о самом слабом оружии, которое он когда-"
+"либо создавал."
 
 #: src-en/data/events_special_storage.xml.append:9867
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[4]"
-msgstr ""
+msgstr "Алестер вежливо здоровается с вами в холле, но у него много дел."
 
 #: src-en/data/events_special_storage.xml.append:9868
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[5]"
 msgstr ""
+"Алестер вежливо здоровается с вами в столовой и садится рядом с вами. Этот "
+"человек ест даже больше, чем Пластинчатый!"
 
 #: src-en/data/events_special_storage.xml.append:9869
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[6]"
 msgstr ""
+"Алестер спрашивает, не хотите ли вы заняться кузнечным делом, вы вежливо "
+"отказываетесь."
 
 #: src-en/data/events_special_storage.xml.append:9870
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[7]"
 msgstr ""
+"Вы удивлены тем, что Алестер не просит ваш экипаж вступить в ряды "
+"Пластинчатых."
 
 #: src-en/data/events_special_storage.xml.append:9871
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[8]"
 msgstr ""
+"\"Мальчик, ты когда-нибудь задумывался и считал все звезды? Это отличный "
+"способ скоротать время\" - говорит вам Алестер, проходя мимо."
 
 #: src-en/data/events_special_storage.xml.append:9872
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[9]"
 msgstr ""
+"Проходя мимо столовой, вы слышите, как Алестер смеется и делится веселыми "
+"историями с членами экипажа."
 
 #: src-en/data/events_special_storage.xml.append:9873
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[10]"
 msgstr ""
+"Алестер присылает вам список способов улучшить работу вашего судна через "
+"терминал. Это потребует огромного объема работы, и вы, к сожалению, "
+"вынуждены отказаться от рекомендаций списка."
 
 #: src-en/data/events_special_storage.xml.append:9874
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[11]"
 msgstr ""
+"Алестер рассказывает вам о своей коллекции крошечных разноцветных камней, "
+"которые он собрал с разных планет: \"Они просто вызывают радость, мальчик\" -"
+" объясняет он, улыбаясь от уха до уха."
 
 #: src-en/data/events_special_storage.xml.append:9875
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[12]"
 msgstr ""
+"Алестер спрашивает вас, что вы думаете о Теократии. После того как вы даете "
+"ответ, он отвечает. \"Интересно, что ж, я не стану думать о тебе хуже, "
+"независимо от твоего мнения, но приятно знать, что ты не являешься их "
+"убежденным последователем или союзником\"."
 
 #: src-en/data/events_special_storage.xml.append:9876
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[13]"
 msgstr ""
+"Вы спрашиваете о том, какую сторону поддерживает Алестер: Изгоев или "
+"Теократию? \"Мальчик, меня мало заботит поддержка той или иной стороны. Я "
+"просто беру под свое крыло всех, кто хочет совершенствовать свое ремесло, а "
+"не руководящий орган. Это касается и тебя, и твоего экипажа!\""
 
 #: src-en/data/events_special_storage.xml.append:9880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_REMINGTON\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать с Ремингтоном?"
 
 #: src-en/data/events_special_storage.xml.append:9882
 msgid ""
@@ -10794,6 +11249,19 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_REMINGTON_SCAN\"]/text"
 msgstr ""
+"ПОДРОБНОСТИ О РЕМИНГТОНЕ\n"
+"\t\t\tВИД? [Энджи] ПОДТИП? [Да]\n"
+"\t\t\tПодробности о подтипе: Уникальный\n"
+"\t\t\tХарактеристики: 2.5х скорость ремонта, получает 70% урона от огня и "
+"40% урона от удушья, 0.6х боевой урон\n"
+"\t\t\tСпособность (30с перезарядка, 15с длительность): Временно создает щит "
+"вокруг экипажа. Урон от всех источников снижается на 80%, противостоит "
+"попыткам контроля разума и снижает получаемый союзниками урон от удушья на "
+"50%.\n"
+"\t\t\tТип способности: Пополняется при прыжке.\n"
+"\t\t\tАура: если находится в одном отсеке со своим братом-близнецом "
+"Моссбергом, получает +10% ОЗ, +10% скорости передвижения, +10% скорости "
+"саботажа и +10% урона в дальнем бою."
 
 #: src-en/data/events_special_storage.xml.append:9906
 msgid ""
@@ -10809,56 +11277,97 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[1]"
 msgstr ""
+"Ремингтон стучит в вашу дверь. Когда вы открываете, он чуть не сбивает вас с "
+"ног, так сильно пихая вам в лицо лист бумаги. Это чертеж, судя по всему, "
+"сверхсекретного проекта Федерации по созданию андроидов под названием "
+"\"Генезис\". Ремингтон спрашивает вас, холост ли \"робот\" на картинке или "
+"нет. Вы теряете дар речи."
 
 #: src-en/data/events_special_storage.xml.append:9922
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[2]"
 msgstr ""
+"Вы находите под дверью листок бумаги от Ремингтона. Оно гласит: "
+"\"Здравствуйте, капитан, взломал ваш терминал и увидел историю просмотров "
+"вашего браузера. Является ли \"мясоворот\" каким-то человеческим боевым "
+"искусством, утраченным с течением времени? Пожалуйста, научите меня этой "
+"технике, когда у вас появится свободное время!\". Вы тут же бросаете записку "
+"в шлюз и отправляете ее в космос."
 
 #: src-en/data/events_special_storage.xml.append:9923
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[3]"
 msgstr ""
+"Вы обнаружили Ремингтона, который просит помощи в решении кроссворда, так "
+"как в данный момент он находится в тупике. Ни у кого нет подходящих ответов."
 
 #: src-en/data/events_special_storage.xml.append:9924
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[4]"
 msgstr ""
+"Вы стучите в дверь Ремингтона, и он разрешает вам войти. Внутри он собирает "
+"гигантский пазл, почти такой же большой, как сам отсек. Он предлагает вам "
+"присоединиться к нему, а вы объясняете, что к тому времени, как вы закончите "
+"работу, повстанцы уже захватят Узел 17, отпразднуют и заведут внуков."
 
 #: src-en/data/events_special_storage.xml.append:9925
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[5]"
 msgstr ""
+"Вы получаете сообщение по зашифрованному каналу от самого адмирала Талли. Он "
+"сразу переходит к делу: \"Послушайте меня, вся база данных Федерации "
+"продолжает заменяться вымышленной историей под названием \"Приключения "
+"котика Талли :3\". Слава богу, тот, кто это сделал, восстановил нашу базу "
+"данных через час. Мы выяснили, что эти изменения в базе данных связаны с "
+"терминалом, принадлежащим особе по имени \"Моссберг\", который находится на "
+"борту вашего судна. Сынок, это что, твоя шутка? Приведи свою команду в "
+"порядок, или я сделаю это сам\". Он заканчивает сеанс связи, прежде чем вы "
+"успеваете ответить."
 
 #: src-en/data/events_special_storage.xml.append:9926
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[6]"
 msgstr ""
+"Вы находите Ремингтона в столовой, \"поющего\" с помощью звуковых сигналов. "
+"Его песня удивительно запоминающаяся, и несколько членов экипажа напевают "
+"вместе с ним или щелкают пальцами, если они у них есть."
 
 #: src-en/data/events_special_storage.xml.append:9927
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[7]"
 msgstr ""
+"Вы находите рисунок на своей двери. Ремингтон нарисовал небрежный рисунок, "
+"на котором изображены вы, ваш экипаж и он сам в групповой позе. На обратной "
+"стороне рисунка написано одно слово: \"Друг\"."
 
 #: src-en/data/events_special_storage.xml.append:9928
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[8]"
 msgstr ""
+"Ремингтон спрашивает вас, есть ли способ отделить всех энджи от Гармонии, не "
+"убивая их. У вас нет удовлетворительного ответа, и он выглядит "
+"разочарованным."
 
 #: src-en/data/events_special_storage.xml.append:9929
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[9]"
 msgstr ""
+"Вы спрашиваете Ремингтона, как он относится к своему брату Моссбергу. \"Я бы "
+"получил пулю за брата, а потом, если бы нано-машины остались на моем лице, "
+"получил бы еще двенадцать. Есть еще вопросы, капитан?\""
 
 #: src-en/data/events_special_storage.xml.append:9930
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[10]"
 msgstr ""
+"Вы застаете Ремингтона за попыткой нарисовать на одной из консолей вашего "
+"корабля изображение супергероя, предположительно из какого-то из его "
+"комиксов. Вы строго велели ему прекратить рисовать на хрупком оборудовании."
 
 #: src-en/data/events_special_storage.xml.append:9935
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_MOSSBERG\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать с Моссбергом?"
 
 #: src-en/data/events_special_storage.xml.append:9937
 msgid ""
@@ -10869,6 +11378,19 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_MOSSBERG_SCAN\"]/text"
 msgstr ""
+"ПОДРОБНОСТИ О МОССБЕРГЕ\n"
+"\t\t\tВИД? [Энджи] ПОДТИП? [Да]\n"
+"\t\t\tПодробности о подтипе: Уникальный\n"
+"\t\t\tХарактеристики: 2.5х скорость ремонта, получает 70% урона от огня и "
+"40% урона от удушья, 0.6х боевой урон\n"
+"\t\t\tСпособность (30с перезарядка, 15с длительность): Временно создает щит "
+"вокруг экипажа. Урон от всех источников снижается на 80%, противостоит "
+"попыткам контроля разума и снижает получаемый союзниками урон от удушья на "
+"50%.\n"
+"\t\t\tТип способности: Пополняется при прыжке.\n"
+"\t\t\tАура: если находится в одном отсеке со своим братом-близнецом "
+"Ремингтоном, получает +10% ОЗ, +10% скорости передвижения, +10% скорости "
+"саботажа и +10% урона в дальнем бою."
 
 #: src-en/data/events_special_storage.xml.append:9961
 msgid ""
@@ -10884,56 +11406,125 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[1]"
 msgstr ""
+"Открыв двери каюты, вы обнаруживаете Моссберга с какой-то диаграммой в "
+"руках. \"Капитан, обнаружена необычная конструкция, похоже, земного "
+"происхождения. Назначение: неизвестно. Пожалуйста, расскажите подробнее\".\n"
+"\n"
+"\t\t\tБрат энджи нашел древний чертеж орбитальной станции с множеством "
+"больших прямых антенн, но ни одна из них не выглядит функциональной, "
+"поскольку все они держатся на зажимах и кажутся цельнометаллическими. "
+"Единственное имя на чертеже - имя старого земного бога. Как любопытно."
 
 #: src-en/data/events_special_storage.xml.append:9980
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[2]"
 msgstr ""
+"Моссберг снова заходит в вашу каюту с диаграммой. \"Капитан, обнаружен "
+"странный дизайн одежды, похоже, земного происхождения. Теория: Возможно, "
+"используется в моде? Пожалуйста, расскажите подробнее\".\n"
+"\n"
+"\t\t\tМоссберг передает вам диаграмму. Это черно-белая фотография летучей "
+"мыши с прикрепленной к ней какой-то осколочной бомбой. Документ также явно "
+"засекречен. Вы изымаете его."
 
 #: src-en/data/events_special_storage.xml.append:9984
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[3]"
 msgstr ""
+"Моссберг снова заходит в вашу каюту с диаграммой. \"Капитан, я уверен, что "
+"это был земной проект, в котором участвовали крошечные птицы и ядерная "
+"бомба. Почему крошечные птицы были усажены рядом с бомбой, чтобы \"держать "
+"ее в тепле\". Были ли люди тогда просто более ранней версией операционной "
+"системы? Дизайн кажется... нелогичным\".\n"
+"\n"
+"\t\t\tВы смотрите на энджи 12 долгих напряженных секунд, затем выхватываете "
+"бумагу и читаете. Это (неудивительно) конфиденциальный документ, который он, "
+"вероятно, похитил из базы данных Федерации. Вы сбиты с толку, обнаружив, что "
+"то, что он описывает, - это... правда?"
 
 #: src-en/data/events_special_storage.xml.append:9988
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[4]"
 msgstr ""
+"Вы сидите рядом с Моссбергом в столовой. После нескольких светских бесед он "
+"переходит к своей теме дня. \"Капитан, в 1960-х годах люди пытались "
+"использовать ракетное топливо для стрельбы из стрелковых винтовок. Это "
+"кажется... невероятно расточительным. К счастью, компания, которая их "
+"производила, обанкротилась. Если бы это было не так, я бы, наверное, удалил "
+"свою операционную систему от разочарования\". Он делает паузу. \"Еще раз "
+"спасибо, что выслушали мои вопросы. Вы == хороший слушатель\"."
 
 #: src-en/data/events_special_storage.xml.append:9989
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[5]"
 msgstr ""
+"Вы спрашиваете Моссберга, каково это - состоять из множества мелких "
+"наноботов. Он остроумно отвечает: \"Не знаю, каково это - расходовать "
+"столько кислорода из-за своего неэффективного способа дыхания?\" Моссберг "
+"подает несколько звуковых сигналов, затем воспроизводит звуковой файл смеха. "
+"Моссберг продолжает: \"Если без шуток, то бывает утомительно, когда кто-то "
+"нарушает ход ваших мыслей. Особенно если этот ход мыслей заключается в том, "
+"чтобы побрякивать стаканчиками в столовой!\" Он машет рукой и уходит, явно "
+"собираясь заняться еще какими-нибудь шалостями."
 
 #: src-en/data/events_special_storage.xml.append:9991
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[6]"
 msgstr ""
+"Моссберг демонстрирует членам экипажа некоторые из своих новинок. \"Я купил "
+"их на рынке #000000!\" - объясняет он с нетерпением. Он постукивает по носу, "
+"и женский голос выдает монотонное сообщение: \"Двигатели включены\". Он "
+"начинает парить ровно в одном сантиметре от пола. \"Оно... не поднимается "
+"выше этой высоты\", - объясняет он, нахмурившись."
 
 #: src-en/data/events_special_storage.xml.append:9992
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[7]"
 msgstr ""
+"Вы спрашиваете Моссберга, какую планету он хотел бы посетить после "
+"уничтожения Гармонии. Он отвечает, что никогда не задумывался об этом "
+"раньше, но собирается поразмыслить над этим."
 
 #: src-en/data/events_special_storage.xml.append:9993
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[8]"
 msgstr ""
+"Вы сталкиваетесь с Моссбергом в коридоре, и он энергично машет вам рукой, "
+"радуясь встрече. Как только он это делает, из его тела раздается монотонный "
+"женский голос: \"Снимаю ограничитель с пылесборочной винтовки, готовность\". "
+"Прежде чем вы успеваете спросить, что, черт возьми, это значит, рука "
+"Моссберга отваливается, и он падает на землю. Из его руки торчит большой "
+"рельсоподобный предмет, почти касающийся потолка, а затем он превращается в "
+"гигантскую винтовку, которая заставила бы покраснеть Тяжелый лазер мод. III. "
+"Моссберг, похоже, больше не может двигаться, и теперь загораживает коридор "
+"этой... штукой. Вы спрашиваете его, все ли в порядке, и он отвечает: \"Нет. "
+"Я понятия не имею, почему это произошло. Не могли бы вы помочь мне убрать... "
+"ЭТУ ШТУКУ?\" Он умоляет. Вы вздыхаете и идете за ящиком с инструментами, "
+"чтобы помочь ему. Оказывается, кнопка на его левой лодыжке складывает ее, но "
+"он клянется, что понятия не имеет, как это произошло."
 
 #: src-en/data/events_special_storage.xml.append:9995
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[9]"
 msgstr ""
+"Вы спрашиваете Моссберга, как он относится к своему брату Ремингтону. "
+"\"Капитан, я бы прыгнул в красную гигантскую звезду ради своего брата, если "
+"бы знал, что есть хотя бы 1% шанс спасти ему жизнь\"."
 
 #: src-en/data/events_special_storage.xml.append:9996
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[10]"
 msgstr ""
+"Моссберг сегодня не выходил из своего отсека и, похоже, обиделся. Вы "
+"спрашиваете его, в чем дело, и он сообщает, что боится, что, когда тот самый "
+"день день, когда ему придется столкнуться с Гармонией, некоторые из энджи, с "
+"которыми ему придется сражаться, могут оказаться его старыми друзьями. Вы "
+"пытаетесь утешить его, но он просит оставить его одного."
 
 #: src-en/data/events_special_storage.xml.append:10000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_ENGI_TWINS\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать с близнецами энджи?"
 
 #: src-en/data/events_special_storage.xml.append:10002
 msgid ""
@@ -10944,6 +11535,9 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_ENGI_TWINS\"]/choice[3]/text"
 msgstr ""
+"Проверить коллекцию игр близнецов энджи.\n"
+"\t\t\t\t(ПРИМЕЧАНИЕ: Нажимайте на знаки \"-\" и \"+\", чтобы изменять размер "
+"игрового текста для удобного чтения)"
 
 #: src-en/data/events_special_storage.xml.append:10026
 msgid ""
@@ -10959,61 +11553,137 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[1]"
 msgstr ""
+"Вы подслушали, как два брата энджи о чем-то спорят.\n"
+"\t\t\t\"Нестандартные цвета и неэлегантная игровая доска = одноразовая\". "
+"\"Не соглашаюсь с выводом. Цвета содержат контекст земного происхождения, "
+"придающий значение => схожие развлечения\".\n"
+"\t\t\tПервый брат делает раздраженный жест и говорит: \"Ты неисправим\"."
 
 #: src-en/data/events_special_storage.xml.append:10050
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[2]"
 msgstr ""
+"Близнецы снова ссорятся. Ремингтон кричит. \"ТАК ЧТО Ф1--->ПОМОГИ МНЕ, ЕСЛИ "
+"ТЫ СНОВА ИСПОРТИШЬ МОЙ ГРАФИЧЕСКИЙ ПРИВОД, Я...\"\n"
+"\t\t\tего голос внезапно обрывается. Заиграл тоненький автоматический "
+"голосок: \"системная ошибка, пожалуйста, свяжитесь со службой поддержки\". "
+"Моссберг вздыхает, успокаивает себя и начинает помогать ремонтировать брата."
 
 #: src-en/data/events_special_storage.xml.append:10053
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[3]"
 msgstr ""
+"Вы сталкиваетесь с близнецами в столовой. Ремингтон выглядит крайне нервным, "
+"медленно приближаясь к микроволновой печи. Его брат быстро хватает ее и "
+"оттаскивает ее от него. \"Эта лига > твоя лига. Не позорься перед ее братом. "
+"Ты достигнешь >= результатов, вычисляя квадратный корень из пай\" - сурово "
+"объясняет Моссберг брату. Вы начинаете прятать микроволновку от близнецов."
 
 #: src-en/data/events_special_storage.xml.append:10054
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[4]"
 msgstr ""
+"Проверяя близнецов, вы находите видео, которое один из них записывал на свой "
+"терминал.\n"
+"\n"
+"\t\t\tВы слышите, как один из близнецов имитирует человеческий голос, "
+"которого вы никогда раньше не слышали: \"Привет, я Моссберг, добро "
+"пожаловать в шоу придурков!\". Затем близнец выбрасывается из шлюза в "
+"открытый космос с трубкой для жизнеобеспечения, привязанной к талии, но "
+"забывает привязать другой конец к чему-либо! Видео резко обрывается, когда "
+"Винчестер кричит: \"Моссберг, верни брата-идиота сюда, черт возьми, сейчас "
+"же!!!\""
 
 #: src-en/data/events_special_storage.xml.append:10058
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[5]"
 msgstr ""
+"Вы слышите, как братья-близнецы смеются над какой-то шуткой, которую вы не "
+"очень понимаете. Но вам приятно видеть, как они веселятся."
 
 #: src-en/data/events_special_storage.xml.append:10059
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[6]"
 msgstr ""
+"Вы находите двух братьев энджи в столовой. Они вместе играют в слова, в "
+"которых ведут беседу и начинают каждое предложение со следующей буквы "
+"человеческого алфавита, и снова и снова возвращаются к этой игре, чтобы "
+"вызвать смех у других членов экипажа. \"Внимание, Ремингтон, ты - "
+"картофельная батарея!\" с усмешкой говорит Моссберг. \" Будь благоразумен, "
+"Моссберг, ты даже картошки не видел\". Ремингтон отвечает. \"Очевидно, ты не "
+"видел папку с изображениями на моем терминале\". Моссберг наносит ответный "
+"удар. \"Отвратительно, это все, что я могу сказать\" - говорит Ремингтон, "
+"завершая игру и соглашаясь с тем, что Моссберг победил в этом раунде. Счет "
+"становится 453 752 - 462 319."
 
 #: src-en/data/events_special_storage.xml.append:10061
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[7]"
 msgstr ""
+"Вы обнаруживаете двух братьев энджи, рассматривающих схему єнджи. Похоже, "
+"они обсуждают, как эффективнее всего уничтожить или насильно отделить энджи "
+"от Гармонии."
 
 #: src-en/data/events_special_storage.xml.append:10067
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[1]"
 msgstr ""
+"Вы просматриваете коллекцию настольных игр Ремингтона. Одна из них "
+"привлекает ваше внимание - это игра под названием КОРОЛЬ В ГОЛУБОМ. На ней "
+"изображена человекоподобная фигура в плаще ярко-синего цвета, стоящая над "
+"церемониальным кругом, возможно, это какое-то божество? Вы пытаетесь "
+"прочитать инструкцию, но она занимает 20 страниц, и вы передумываете."
 
 #: src-en/data/events_special_storage.xml.append:10068
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[2]"
 msgstr ""
+"Вы просматриваете коллекцию настольных игр Ремингтона. Одна из них "
+"привлекает ваше внимание - это игра под названием ТЕОКРАТИЯ. В ней нужно "
+"бросать кубики, чтобы перемещать фигуры по доске и захватывать различные "
+"маяки, а затем собирать с других игроков \"аренду в виде лома\", если они "
+"попадают на ваши маяки. Цель - обанкротить других игроков и взять под "
+"контроль правительство."
 
 #: src-en/data/events_special_storage.xml.append:10069
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[3]"
 msgstr ""
+"Вы просматриваете коллекцию настольных игр Ремингтона. Сегодня одна из них "
+"привлекает ваше внимание - это игра под названием ГОЛОДНЫЙ ГОЛОДНЫЙ ЛАНИУС. "
+"Игровое поле окружено четырьмя механическими разноцветными пластиковыми "
+"головами ланиусов, управляемыми рычажками на затылке.\n"
+"\n"
+"\t\t\tПри нажатии на рычаг ланиус открывает рот и вытягивает голову вперед с "
+"помощью выдвижной шеи. Когда рычаг отпускается, голова опускается и "
+"втягивается.\n"
+"\n"
+"\t\t\tРазноцветные пластиковые корпуса кораблей раздаются на доске каждому "
+"игроку, и игроки нажимают на рычаг своего ланиуса, чтобы он \"съел\" "
+"корпуса, которые вылетают из-под ланиуса в небольшую зону подсчета очков для "
+"каждого игрока. Как только все корпуса будут съедены, победителем становится "
+"игрок, набравший наибольшее количество очков."
 
 #: src-en/data/events_special_storage.xml.append:10075
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[4]"
 msgstr ""
+"Вы просматриваете коллекцию настольных игр Ремингтона. Сегодня одна из них "
+"привлекает ваше внимание - это игра под названием \"СПЕКУЛИРУЙ КЕМ-ТО?: "
+"ИЗДАНИЕ БОГОМОЛА. Функционально она имеет те же правила, что и настольная "
+"игра СПЕКУЛИРУЙ КЕМ-ТО?, но в ней всего 24 персонажа и одна раса - богомолы. "
+"Вы предполагаете, что это упрощенная версия игры для богомолов."
 
 #: src-en/data/events_special_storage.xml.append:10076
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[5]"
 msgstr ""
+"Вы просматриваете коллекцию комиксов Моссберга. Один из них привлекает ваше "
+"внимание - это комикс под названием \"СМЕРТЬ КСЕНОСА: КРУШЕНИЕ\". Это грубо "
+"нарисованный комикс, распространяющий пропоганду повстанцев о том, как "
+"вредно для фракции повстанцев дальнейшее существование других видов "
+"пришельцев. Когда вы спрашиваете о ней Моссберга, он говорит, что хранит ее "
+"\"с иронией\", потому что она настолько нелепа, что становится смешной."
 
 #: src-en/data/events_special_storage.xml.append:10077
 msgid ""
