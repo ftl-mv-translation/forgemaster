@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-04 09:59+0000\n"
+"PO-Revision-Date: 2024-07-05 22:07+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
@@ -1536,7 +1536,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15721
 msgid ""
@@ -1558,7 +1558,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15728
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15729
 msgid ""
@@ -1580,7 +1580,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15736
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15737
 msgid ""
@@ -1600,7 +1600,7 @@ msgstr "Победите Искаженного Ренегата-Свободн�
 #: src-en/data/hyperspace.xml.append:15744
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15745
 msgid ""
@@ -1620,7 +1620,7 @@ msgstr "Победите Искаженного Ренегата-Сепарат�
 #: src-en/data/hyperspace.xml.append:15752
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15753
 msgid ""
@@ -1641,7 +1641,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15760
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15761
 msgid ""
@@ -1663,7 +1663,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15768
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15769
 msgid ""
@@ -1685,7 +1685,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15776
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15777
 msgid ""
@@ -1707,7 +1707,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15784
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15785
 msgid ""
@@ -1727,7 +1727,7 @@ msgstr "Победите Искаженного Ренегата-слизней 
 #: src-en/data/hyperspace.xml.append:15792
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15793
 msgid ""
@@ -1753,7 +1753,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15800
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15801
 msgid ""
@@ -1774,7 +1774,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15808
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15809
 msgid ""
@@ -1796,7 +1796,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15816
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15817
 msgid ""
@@ -1817,7 +1817,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15825
 msgid ""
@@ -1839,7 +1839,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15832
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15833
 msgid ""
@@ -1860,7 +1860,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15840
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15841
 msgid ""
@@ -1876,13 +1876,13 @@ msgstr "Луч правосудия"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
 msgstr ""
-"Победите Искаженного Ренегата Федерации тип Б и получите Искаженный "
+"Победите Искаженных Ренегатов Федерации тип Б и получите Искаженный "
 "изготовитель боеприпасов."
 
 #: src-en/data/hyperspace.xml.append:15848
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15849
 msgid ""
@@ -1902,7 +1902,7 @@ msgstr "Победите Искаженного Ренегата-орхидей 
 #: src-en/data/hyperspace.xml.append:15856
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15857
 msgid ""
@@ -1924,7 +1924,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15864
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15865
 msgid ""
@@ -1944,7 +1944,7 @@ msgstr "Победите Искаженного Ренегата-Туко тип
 #: src-en/data/hyperspace.xml.append:15872
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15873
 msgid ""
@@ -1965,7 +1965,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15880
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15881
 msgid ""
@@ -1986,7 +1986,7 @@ msgstr "нет времени"
 
 #: src-en/data/hyperspace.xml.append:15889
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15890
 msgid ""
@@ -2010,7 +2010,7 @@ msgstr "ух ты, халява?!"
 #: src-en/data/hyperspace.xml.append:15898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
-msgstr "Искаженный Ренегат побежден"
+msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15899
 msgid ""
