@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 10:42+0000\n"
+"PO-Revision-Date: 2024-07-05 22:07+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/ru/>\n"
@@ -371,133 +371,133 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CLAN_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Клановцев, используя типа Б крейсера Гильдии, "
+"Победите Искаженных Ренегатов-Клановцев используя типа Б крейсера Гильдии, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_DUSK_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Вестников Заката, используя тип Б крейсера "
+"Победите Искаженных Ренегатов-Вестников Заката, используя тип Б крейсера "
 "Вестников Заката, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:95
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGI_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата энджи, используя тип В крейсера энджи, чтобы "
+"Победите Искаженных Ренегатов-энджи, используя тип В крейсера энджи, чтобы "
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:97
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FMANTIS_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата свободных богомолов, используя Тип Б крейсера "
+"Победите Искаженных Ренегатов-Свободных Богомолов, используя Тип Б крейсера "
 "Свободных богомолов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:98
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SEPPY_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Сепаратистов, используя Тип Б крейсера "
+"Победите Искаженных Ренегатов-Сепаратистов, используя Тип Б крейсера "
 "Сепаратистов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:99
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MANTIS_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата богомолов, используя Тип Б крейсера Улья, "
+"Победите Искаженных Ренегатов-богомолов, используя Тип Б крейсера Улья, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:101
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MONK_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Монахов, используя Тип Б крейсера Монахов, "
+"Победите Искаженных Ренегатов-Монахов, используя Тип Б крейсера Монахов, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:102
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LOSTSUN_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Затерянных Солнц, используя Тип Б крейсера "
+"Победите Искаженных Ренегатов-Затерянных Солнц, используя Тип Б крейсера "
 "Затерянных Солнц, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ROCK_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата валунов, используя тип В крейсера Теократии, "
+"Победите Искаженных Ренегатов-валунов, используя тип В крейсера Теократии, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SLUG_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата слизней, используя тип В крейсера "
+"Победите Искаженных Ренегатов-слизней, используя тип В крейсера "
 "Клептократии, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:106
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_STEALTH_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата-стелса, используя Тип Б стелс-крейсера, чтобы "
+"Победите Искаженных Ренегатов-стелс, используя Тип Б стелс-крейсера, чтобы "
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:107
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ZOLTAN_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата золтанов, используя тип В крейсера "
+"Победите Искаженных Ренегатов-золтанов, используя тип В крейсера "
 "Министерства, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:109
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LANIUS_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата ланиусов, используя Тип Б крейсера ланиусов, "
+"Победите Искаженных Ренегатов-ланиусов, используя Тип Б крейсера ланиусов, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:110
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SHELL_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата ракушек, используя тип В крейсера ракушек, "
+"Победите Искаженных Ренегатов-ракушек, используя тип В крейсера ракушек, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:111
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGINEER_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Инженеров, используя Тип Б крейсера Инженеров, "
+"Победите Искаженных Ренегатов-Инженеров, используя Тип Б крейсера Инженеров, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_KESTREL_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата-Пустельгу, используя Тип Б крейсера Пустельга, "
+"Победите Искаженных Ренегатов-Пустельгу, используя Тип Б крейсера Пустельга, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:114
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ORCHID_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата орхидей, используя Тип Б крейсера орхидей, "
+"Победите Искаженных Ренегатов-орхидей, используя Тип Б крейсера орхидей, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:115
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FED_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата Федерации, используя Тип Б крейсера Федерации, "
+"Победите Искаженных Ренегатов Федерации, используя Тип Б крейсера Федерации, "
 "чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:117
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CRYSTAL_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата кристаллинов, используя тип В крейсера империи "
+"Победите Искаженных Ренегатов-кристаллинов, используя тип В крейсера империи "
 "кристаллионов, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:118
@@ -511,7 +511,7 @@ msgstr ""
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LEECH_unlock\"]"
 msgstr ""
-"Победите Искаженного Ренегата пиявок, используя тип В крейсера пиявок, чтобы "
+"Победите Искаженных Ренегатов-пиявок, используя тип В крейсера пиявок, чтобы "
 "разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:129
