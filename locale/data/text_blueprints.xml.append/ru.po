@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 11:56+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-05 10:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -317,7 +317,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:81
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_class\"]"
-msgstr "Искаженный Ренегат Федерации"
+msgstr "Искаженные Ренегаты Федерации"
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
@@ -335,7 +335,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_class\"]"
-msgstr "Искаженный Ренегат-Затерянное Солнце"
+msgstr "Искаженные Ренегаты-Затерянные Солнца"
 
 #: src-en/data/text_blueprints.xml.append:86
 msgid ""
@@ -352,7 +352,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:89
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_class\"]"
-msgstr "Искаженный Ренегат-золтан"
+msgstr "Искаженные Ренегаты-золтаны"
 
 #: src-en/data/text_blueprints.xml.append:90
 msgid ""
