@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-05 10:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -11235,7 +11235,7 @@ msgid ""
 "append:choice[5]/text"
 msgstr ""
 "В настоящее время активное освящение: Благословение глупцов\n"
-"\t\tКристаллы Анкалагона наносят только 50% урона."
+"\t\tКристаллы Анкалагона получают только 50% урона."
 
 #: src-en/data/events_special_storage.xml.append:10329
 msgid ""
