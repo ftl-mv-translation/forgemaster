@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-18 20:18+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/ru/>\n"
 "Language: ru\n"
@@ -3176,8 +3176,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2519
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
-msgstr ""
-"Получить Элитный тяжелый кристалл мод. I за 10 особых осколочных очков."
+msgstr "Получить Элитный тяжелый кристалл мод. I за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2521
 msgid ""
@@ -4146,8 +4145,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3287
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD_PLAYER\"]/text"
-msgstr ""
-"Получить Пробудитель разломов мод. 0.5† за 20 особых осколочных очков."
+msgstr "Получить Пробудитель разломов мод. 0.5† за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3289
 msgid ""
@@ -4343,7 +4341,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3443
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN\"]/text"
-msgstr "Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
+msgstr ""
+"Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3445
 msgid ""
@@ -4358,7 +4357,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3455
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN_HONOR\"]/text"
-msgstr "Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
+msgstr ""
+"Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3457
 msgid ""
@@ -5019,8 +5019,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_FIRE\"]/text"
 msgstr ""
-"Получить Мультирежимную осколочную пушку [Заж] за 20 особых осколочных "
-"очков."
+"Получить Мультирежимную осколочную пушку [Заж] за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3985
 msgid ""
@@ -5053,8 +5052,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_TOXIC\"]/text"
 msgstr ""
-"Получить Мультирежимную осколочную пушку [Рад] за 20 особых осколочных "
-"очков."
+"Получить Мультирежимную осколочную пушку [Рад] за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4009
 msgid ""
@@ -5069,8 +5067,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4019
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHELL_LAUNCHER\"]/text"
-msgstr ""
-"Получить Токсическую пусковую установку за 13 особых осколочных очков."
+msgstr "Получить Токсическую пусковую установку за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4021
 msgid ""
@@ -7650,8 +7647,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6083
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONYC\"]/text"
-msgstr ""
-"Получить Клонопульту [Кристаллический эквиноид] за 13 осколочных очков."
+msgstr "Получить Клонопульту [Кристаллический эквиноид] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6085
 msgid ""
