@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-22 11:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_jukeboxxmlappend/ru/>\n"
 "Language: ru\n"
@@ -23,22 +23,22 @@ msgstr "FM: Искаженный"
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "FM: Беллона 1 этаж"
 
 #: src-en/data/events_special_jukebox.xml.append:17
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "FM: Беллона 2 этаж"
 
 #: src-en/data/events_special_jukebox.xml.append:24
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "FM: Беллона 3 этаж"
 
 #: src-en/data/events_special_jukebox.xml.append:31
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "FM: Мрачный конец будущего"
