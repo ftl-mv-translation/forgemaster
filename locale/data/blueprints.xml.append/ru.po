@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-06 13:40+0000\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -3306,7 +3306,7 @@ msgstr "Защитный лазер; 1 урон, 1 выстрел. 9с пере�
 #: src-en/data/blueprints.xml.append:6125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/title"
-msgstr "Ионная пушка \"Цербер\""
+msgstr "Ионный бластер \"Цербер\""
 
 #: src-en/data/blueprints.xml.append:6126
 msgid ""
@@ -6965,12 +6965,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13554
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/title"
-msgstr "Клонопульта Рипли [Шеф]†"
+msgstr "Клонопульта Рипли [Вождь]†"
 
 #: src-en/data/blueprints.xml.append:13555
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/short"
-msgstr "Клон. Рипли [Ш]†"
+msgstr "Клон. Рипли [В]†"
 
 #: src-en/data/blueprints.xml.append:13557
 msgid ""
@@ -7313,7 +7313,7 @@ msgstr "Аномальный кристалл"
 #: src-en/data/blueprints.xml.append:14391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/title"
-msgstr "Ионная пушка \"Цербер\""
+msgstr "Ионный бластер \"Цербер\""
 
 #: src-en/data/blueprints.xml.append:14392
 msgid ""
@@ -8331,7 +8331,7 @@ msgstr "Клонопульта [Крестоносец]"
 #: src-en/data/blueprints.xml.append:16344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/short"
-msgstr "Клон [К]"
+msgstr "Клон [В]"
 
 #: src-en/data/blueprints.xml.append:16346
 msgid ""
@@ -8354,7 +8354,7 @@ msgstr "Клонопульта [Вождь]"
 #: src-en/data/blueprints.xml.append:16405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL\"]/short"
-msgstr "Клон [К]"
+msgstr "Клон [В]"
 
 #: src-en/data/blueprints.xml.append:16407
 msgid ""
