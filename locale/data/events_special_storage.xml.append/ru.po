@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 22:07+0000\n"
+"PO-Revision-Date: 2024-07-06 13:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -11628,9 +11628,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[1]"
 msgstr ""
-"Вы просматриваете коллекцию настольных игр Ремингтона. Одна из них "
-"привлекает ваше внимание - это игра под названием КОРОЛЬ В ГОЛУБОМ. На ней "
-"изображена человекоподобная фигура в плаще ярко-синего цвета, стоящая над "
+"Вы изучаете коллекцию настольных игр Ремингтона. Одна из них привлекает ваше "
+"внимание - это игра под названием КОРОЛЬ В ГОЛУБОМ. На ней изображена "
+"человекоподобная фигура в плаще ярко-синего цвета, стоящая над "
 "церемониальным кругом, возможно, это какое-то божество? Вы пытаетесь "
 "прочитать инструкцию, но она занимает 20 страниц, и вы передумываете."
 
@@ -11638,18 +11638,17 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[2]"
 msgstr ""
-"Вы просматриваете коллекцию настольных игр Ремингтона. Одна из них "
-"привлекает ваше внимание - это игра под названием ТЕОКРАТИЯ. В ней нужно "
-"бросать кубики, чтобы перемещать фигуры по доске и захватывать различные "
-"маяки, а затем собирать с других игроков \"аренду в виде лома\", если они "
-"попадают на ваши маяки. Цель - обанкротить других игроков и взять под "
-"контроль правительство."
+"Вы изучаете коллекцию настольных игр Ремингтона. Одна из них привлекает ваше "
+"внимание - это игра под названием ТЕОКРАТИЯ. В ней нужно бросать кубики, "
+"чтобы перемещать фигуры по доске и захватывать различные маяки, а затем "
+"собирать с других игроков \"аренду в виде лома\", если они попадают на ваши "
+"маяки. Цель - обанкротить других игроков и взять под контроль правительство."
 
 #: src-en/data/events_special_storage.xml.append:10069
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[3]"
 msgstr ""
-"Вы просматриваете коллекцию настольных игр Ремингтона. Сегодня одна из них "
+"Вы изучаете коллекцию настольных игр Ремингтона. Сегодня одна из них "
 "привлекает ваше внимание - это игра под названием ГОЛОДНЫЙ ГОЛОДНЫЙ ЛАНИУС. "
 "Игровое поле окружено четырьмя механическими разноцветными пластиковыми "
 "головами ланиусов, управляемыми рычажками на затылке.\n"
@@ -11668,11 +11667,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[4]"
 msgstr ""
-"Вы просматриваете коллекцию настольных игр Ремингтона. Сегодня одна из них "
-"привлекает ваше внимание - это игра под названием \"СПЕКУЛИРУЙ КЕМ-ТО?: "
+"Вы изучаете коллекцию настольных игр Ремингтона. Сегодня одна из них "
+"привлекает ваше внимание - это игра под названием \"ПРЕДПОЛАГАТЬ КОГО-ТО?: "
 "ИЗДАНИЕ БОГОМОЛА. Функционально она имеет те же правила, что и настольная "
-"игра СПЕКУЛИРУЙ КЕМ-ТО?, но в ней всего 24 персонажа и одна раса - богомолы. "
-"Вы предполагаете, что это упрощенная версия игры для богомолов."
+"игра ПРЕДПОЛАГАТЬ КОГО-ТО?, но в ней всего 24 персонажа и одна раса - "
+"богомолы. Вы предполагаете, что это упрощенная версия игры для богомолов."
 
 #: src-en/data/events_special_storage.xml.append:10076
 msgid ""
@@ -11689,28 +11688,58 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[6]"
 msgstr ""
+"Вы изучаете коллекцию настольных игр Ремингтона. Сегодня одна из них "
+"привлекает ваше внимание - это игра под названием ПРЕДПОЛАГАТЬ КОГО-ТО? "
+"Каждый игрок начинает игру с доской, на которой изображены 336 человек, по "
+"24 на каждую расу. Каждый игрок выбирает карту по своему усмотрению из "
+"отдельной стопки карт, содержащей те же 336 изображений.\n"
+"\t\t\tЦель игры - первым определить, какую карту выбрал соперник.\n"
+"\n"
+"\t\t\tИгроки поочередно задают различные вопросы \"да\" или \"нет\", чтобы "
+"исключить кандидатов, например:\n"
+"\n"
+"\t\t\t\"Носит ли ваш персонаж шляпу?\"\n"
+"\t\t\t\"Есть ли у вашего персонаж когти?\"\n"
+"\t\t\t\"Есть ли у вашего персонаж тело, состоящее из физической материи?\"\n"
+"\t\t\t\"Обладает ли ваш персонаж свободной волей?\".\n"
+"\t\t\tЗатем игрок исключает кандидатов (в зависимости от ответа соперника), "
+"переворачивая эти изображения вниз, пока не останется только одно. Согласно "
+"правилам, вопрос о расе персонажа другого игрока считает недопустимым."
 
 #: src-en/data/events_special_storage.xml.append:10088
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[7]"
 msgstr ""
+"Вы изучаете коллекцию комиксов Моссберга. Сегодня один из них привлекает "
+"ваше внимание - это комикс под названием \"БоевойСерп: 80к\". В нем "
+"изображены богомолы в гигантских силовых доспехах, сражающиеся против злых "
+"сил старейшин энджи."
 
 #: src-en/data/events_special_storage.xml.append:10089
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[8]"
 msgstr ""
+"Вы изучаете коллекцию комиксов Моссберга. Сегодня один из них привлекает "
+"ваше внимание - это комикс под названием \"Авалиман\". В нем рассказывается "
+"о человеке, переодетом в птицу, который борется с преступностью после того, "
+"как его дедушка и бабушка были убиты. Он борется с преступностью и помещает "
+"суперпреступников в \"Убежище Федерации\"."
 
 #: src-en/data/events_special_storage.xml.append:10100
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Похоже, ваши Технопаты не могут воспроизвести ключевой компонент техники "
+"Анкалагона."
 
 #: src-en/data/events_special_storage.xml.append:10104
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Похоже, ваши Технопаты не могут воспроизвести ключевой компонент техники "
+"Анкалагона."
 
 #: src-en/data/events_special_storage.xml.append:10110
 msgid ""
@@ -11721,80 +11750,103 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[31]/mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Использовать свой запас ярости."
 
 #: src-en/data/events_special_storage.xml.append:10138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/text"
 msgstr ""
+"Вы продумываете свои варианты. При этом вы чувствуете, что за вами наблюдают."
 
 #: src-en/data/events_special_storage.xml.append:10141
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Выпустить на волю небольшое количество ярости. (1 урон по корпусу "
+"противника, 1 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Незначительный эффект, конечно. Однако на поле боя ни один удар не пропадет "
+"даром."
 
 #: src-en/data/events_special_storage.xml.append:10149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[2]/text"
 msgstr ""
+"Выпустить на волю небольшое количество ярости. (1 урон по корпусу "
+"противника, 1 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Использовать значительное количество ярости. (7 урона по корпусу противника, "
+"незначительный вспомогательный эффект, 7 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Решающий удар, склоняющий чашу весов в вашу пользу. Вы чувствуете "
+"головокружение, но после отдыха все должно пройти."
 
 #: src-en/data/events_special_storage.xml.append:10164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[4]/text"
 msgstr ""
+"Использовать значительное количество ярости. (7 урона по корпусу противника, "
+"незначительный вспомогательный эффект, 7 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Высвободить значительное количество ярости. (14 урона по корпусу противника, "
+"вспомогательные эффекты, 14 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"14\"]/event/text"
 msgstr ""
+"Сокрушительный удар, приближающий победу. Корабль содрогается, словно "
+"подхваченный ветром."
 
 #: src-en/data/events_special_storage.xml.append:10181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[6]/text"
 msgstr ""
+"Высвободить значительное количество ярости. (14 урона по корпусу противника, "
+"вспомогательные эффекты, 14 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10186
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"21\"]/text"
 msgstr ""
+"Высвободить разрушительную ярость. (21 урон по корпусу противника, "
+"вспомогательные эффекты, игнорирует сопротивление, 21 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"21\"]/event/text"
-msgstr ""
+msgstr "Все мысли о милосердии исчезли. Вдалеке слышится смех."
 
 #: src-en/data/events_special_storage.xml.append:10201
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[8]/text"
 msgstr ""
+"Высвободить разрушительную ярость. (21 урон по корпусу противника, "
+"вспомогательные эффекты, игнорирует сопротивление, 21 цена ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10206
 msgid ""
@@ -11815,52 +11867,62 @@ msgstr "Вы решаете ничего не делать и готовитес
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[31]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Искаженное благословение) Погрузиться в темную медитацию."
 
 #: src-en/data/events_special_storage.xml.append:10229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/text"
-msgstr ""
+msgstr "Как долго вы будете предаваться размышлениям о своей ярости?"
 
 #: src-en/data/events_special_storage.xml.append:10231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[1]/text"
-msgstr ""
+msgstr "Медитировать недолго. (получить 1 ярость)"
 
 #: src-en/data/events_special_storage.xml.append:10233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[1]/event/text"
 msgstr ""
+"Даже ежедневных разочарований вашего экипажа достаточно, чтобы подпитывать "
+"ваше благословение."
 
 #: src-en/data/events_special_storage.xml.append:10238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[2]/text"
-msgstr ""
+msgstr "Медитировать в течение 1 прыжка. (получить 7 ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[2]/event/text"
 msgstr ""
+"Вы вспоминаете, когда в последний раз враг сбежал. Вы сжимаете зубы от "
+"отчаяния."
 
 #: src-en/data/events_special_storage.xml.append:10250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[4]/text"
-msgstr ""
+msgstr "Медитировать в течение 2 прыжков. (получить 14 ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10252
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[4]/event/text"
 msgstr ""
+"Вы вспоминаете, когда в последний раз одного из членов вашего экипажа убили "
+"слишком рано. Неизбежно это или нет, но с этим нельзя мириться."
 
 #: src-en/data/events_special_storage.xml.append:10262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[6]/text"
-msgstr ""
+msgstr "Медитировать в течение 3 прыжков. (получить 21 ярости)"
 
 #: src-en/data/events_special_storage.xml.append:10264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[6]/event/text"
 msgstr ""
+"Вам снятся кошмары о том, как бесчисленное множество таких же, как вы, "
+"Ренегатов разрывают на куски многочисленные Флагманы по всей "
+"Мультивселенной. Вы решаете, что все до единого их жизни должны быть "
+"отомщены... Полностью."
 
 #: src-en/data/events_special_storage.xml.append:10274
 msgid ""
