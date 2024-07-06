@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mainxmlappend/ru/>\n"
 "Language: ru\n"
@@ -24,13 +24,11 @@ msgid ""
 msgstr "Ваш особенный осколочный ресурс."
 
 #: src-en/data/events_special_main.xml.append:53
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
 msgstr "Ваш базовый осколочный ресурс."
 
 #: src-en/data/events_special_main.xml.append:68
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_ARM_TWISTEDROCK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "Лом для вашего корпуса. Победите врага, чтобы собрать все это!"
+msgstr "Лом для вашего корпуса. Победите врага, чтобы получить все это!"
