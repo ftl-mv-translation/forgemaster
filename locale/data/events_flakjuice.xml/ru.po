@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-06 13:40+0000\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/ru/>\n"
@@ -674,7 +674,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:503
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[21]/text"
-msgstr ""
+msgstr "Получить Малую бомбу за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:505
 msgid ""
@@ -689,7 +689,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:515
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_2\"]/text"
-msgstr ""
+msgstr "Получить Пробойную бомбу мод. II за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:517
 msgid ""
@@ -703,7 +703,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:527
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[23]/text"
-msgstr ""
+msgstr "Получить Зажигательную бомбу за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:529
 msgid ""
@@ -717,7 +717,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:539
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[24]/text"
-msgstr ""
+msgstr "Получить Ионную бомбу за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:541
 msgid ""
@@ -731,7 +731,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:551
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[25]/text"
-msgstr ""
+msgstr "Получить Исцеляющую бомбу за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:553
 msgid ""
@@ -746,7 +746,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:563
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ_SHATTER\"]/text"
-msgstr ""
+msgstr "Получить Осколкомет за 0 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:565
 msgid ""
@@ -761,7 +761,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:575
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_1\"]/text"
-msgstr ""
+msgstr "Получить Осколкомет за 4 осколочных очка."
 
 #: src-en/data/events_flakjuice.xml:577
 msgid ""
@@ -776,7 +776,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:587
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ\"]/text"
-msgstr ""
+msgstr "Получить Осколкомет за 0 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:589
 msgid ""
@@ -791,7 +791,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:599
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_1\"]/text"
-msgstr ""
+msgstr "Получить Защитный лазер за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:601
 msgid ""
@@ -806,7 +806,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:611
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_2\"]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. I за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:613
 msgid ""
@@ -834,7 +834,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:635
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[32]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. II за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:637
 msgid ""
@@ -848,7 +848,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:647
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[33]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. III за 21 осколочное очко."
 
 #: src-en/data/events_flakjuice.xml:649
 msgid ""
@@ -863,7 +863,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:659
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_8\"]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. IV за 26 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:661
 msgid ""
@@ -877,7 +877,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:671
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[35]/text"
-msgstr ""
+msgstr "Получить Тяжелый лазер мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:673
 msgid ""
@@ -891,7 +891,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:683
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[36]/text"
-msgstr ""
+msgstr "Получить Тяжелый лазер мод. II за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:685
 msgid ""
@@ -906,7 +906,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:695
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_3\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый лазер мод. III за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:697
 msgid ""
@@ -921,7 +921,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:707
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Получить Цепной тяжелый лазер за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:709
 msgid ""
@@ -936,7 +936,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:719
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Пронзающий тяжелый лазер за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:721
 msgid ""
@@ -950,7 +950,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:731
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[40]/text"
-msgstr ""
+msgstr "Получить Противокорпусный лазер мод. I за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:733
 msgid ""
@@ -964,7 +964,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:743
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[41]/text"
-msgstr ""
+msgstr "Получить Противокорпусный лазер мод. II за 15 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:745
 msgid ""
@@ -979,7 +979,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:755
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_3\"]/text"
-msgstr ""
+msgstr "Получить Противокорпусный лазер мод. III за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:757
 msgid ""
@@ -994,7 +994,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:767
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Получить Цепной противокорпусный лазер за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:769
 msgid ""
@@ -1009,7 +1009,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:779
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT\"]/text"
-msgstr ""
+msgstr "Получить Легкий лазер мод. I за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:781
 msgid ""
@@ -1024,7 +1024,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:791
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_2\"]/text"
-msgstr ""
+msgstr "Получить Легкий лазер мод. II за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:793
 msgid ""
@@ -1039,7 +1039,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:803
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Пронзающий лазер мод. I за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:805
 msgid ""
@@ -1054,7 +1054,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:815
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE_2\"]/text"
-msgstr ""
+msgstr "Получить Пронзающий лазер мод. II за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:817
 msgid ""
@@ -1069,7 +1069,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:827
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Получить Цепной импульсный лазер за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:829
 msgid ""
@@ -1084,7 +1084,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:839
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_2\"]/text"
-msgstr ""
+msgstr "Получить цепной Вулкан за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:841
 msgid ""
@@ -1099,7 +1099,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:851
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядный лазер мод. I за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:853
 msgid ""
@@ -1114,7 +1114,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:863
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/text"
-msgstr ""
+msgstr "Получить Зарядный лазер мод. II за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:865
 msgid ""
@@ -1129,7 +1129,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:875
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/text"
-msgstr ""
+msgstr "Получить Зарядный лазер мод. III за 20 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:877
 msgid ""
@@ -1144,7 +1144,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:887
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить Цепнозарядный лазер за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:889
 msgid ""
@@ -1159,7 +1159,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:899
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/text"
-msgstr ""
+msgstr "Получить Адаптивный лазер за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:901
 msgid ""
@@ -1174,7 +1174,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:911
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Огневик за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:913
 msgid ""
@@ -1189,7 +1189,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:923
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_STUN\"]/text"
-msgstr ""
+msgstr "Получить Нейронный лазер за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:925
 msgid ""
@@ -1204,7 +1204,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:935
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_1\"]/text"
-msgstr ""
+msgstr "Получить Морозный лазер мод. I за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:937
 msgid ""
@@ -1219,7 +1219,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:947
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2\"]/text"
-msgstr ""
+msgstr "Получить Морозный лазер мод. II за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:949
 msgid ""
@@ -1234,7 +1234,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:959
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Морозный лазер мод. II† за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:961
 msgid ""
@@ -1249,7 +1249,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:971
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BIO\"]/text"
-msgstr ""
+msgstr "Получить Облучающий лазер за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:973
 msgid ""
@@ -1264,7 +1264,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:983
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE\"]/text"
-msgstr ""
+msgstr "Получить Ускоритель частиц мод. I за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:985
 msgid ""
@@ -1279,7 +1279,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:995
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE_2\"]/text"
-msgstr ""
+msgstr "Получить Ускоритель частиц мод. II за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:997
 msgid ""
@@ -1294,7 +1294,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1007
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
-msgstr ""
+msgstr "Получить Пучок частиц за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1009
 msgid ""
@@ -1309,7 +1309,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1019
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE\"]/text"
-msgstr ""
+msgstr "Получить Ракетницу с ускорителем частиц за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1021
 msgid ""
@@ -1324,7 +1324,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1031
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Ракетницу с ускорителем частиц† за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1033
 msgid ""
@@ -1339,7 +1339,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1043
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ENERGY\"]/text"
-msgstr ""
+msgstr "Получить Энергетическую ракетницу за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1045
 msgid ""
@@ -1353,7 +1353,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1055
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[67]/text"
-msgstr ""
+msgstr "Получить Простой ион за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1057
 msgid ""
@@ -1367,7 +1367,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1067
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[68]/text"
-msgstr ""
+msgstr "Получить Залповый ион мод. I за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1069
 msgid ""
@@ -1382,7 +1382,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1079
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_3\"]/text"
-msgstr ""
+msgstr "Получить Залповый ион мод. II за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1081
 msgid ""
@@ -1396,7 +1396,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1091
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[70]/text"
-msgstr ""
+msgstr "Получить Залповый ион мод. III за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1093
 msgid ""
@@ -1411,7 +1411,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1103
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_HEAVY\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый ион за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1105
 msgid ""
@@ -1426,7 +1426,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1115
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_TRI\"]/text"
-msgstr ""
+msgstr "Получить Три-ион за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1117
 msgid ""
@@ -1441,7 +1441,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1127
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_INSTANT\"]/text"
-msgstr ""
+msgstr "Получить Упреждающий ионный бластер за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1129
 msgid ""
@@ -1456,7 +1456,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1139
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Получить Адаптивный ион за 11осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1141
 msgid ""
@@ -1471,7 +1471,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1151
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядный ион за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1153
 msgid ""
@@ -1486,7 +1486,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1163
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN_2\"]/text"
-msgstr ""
+msgstr "Получить Зарядный ион мод. II за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1165
 msgid ""
@@ -1501,7 +1501,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1175
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN\"]/text"
-msgstr ""
+msgstr "Получить Энергетически ошеломитель мод. I за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1177
 msgid ""
@@ -1516,7 +1516,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1187
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_2\"]/text"
-msgstr ""
+msgstr "Получить Энергетически ошеломитель мод. II за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1189
 msgid ""
@@ -1531,7 +1531,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1199
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_HEAVY\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый энергетически ошеломитель за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1201
 msgid ""
@@ -1546,7 +1546,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1211
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядный энергетически ошеломитель за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1213
 msgid ""
@@ -1561,7 +1561,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1223
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Зарядный энергетически ошеломитель† за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1225
 msgid ""
@@ -1576,7 +1576,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1235
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_DISCO\"]/text"
-msgstr ""
+msgstr "Получить Диско-фазер за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1237
 msgid ""
@@ -1591,7 +1591,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1247
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_1\"]/text"
-msgstr ""
+msgstr "Получить Фазер мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1249
 msgid ""
@@ -1606,7 +1606,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1259
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_2\"]/text"
-msgstr ""
+msgstr "Получить Фазер мод. II за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1261
 msgid ""
@@ -1621,7 +1621,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1271
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Зажигательный ионный бластер за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1273
 msgid ""
@@ -1636,7 +1636,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1283
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_BIO\"]/text"
-msgstr ""
+msgstr "Получить Залповую радионную пушку за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1285
 msgid ""
@@ -1651,7 +1651,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1295
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_1\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Лето\" за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1297
 msgid ""
@@ -1666,7 +1666,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1307
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_2\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую ракетницу \"Артемида\" за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1309
 msgid ""
@@ -1680,7 +1680,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1319
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[89]/text"
-msgstr ""
+msgstr "Получить Тяжелую ракетницу \"Гермес\" за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1321
 msgid ""
@@ -1695,7 +1695,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1331
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую ракетницу \"Арес\" за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1333
 msgid ""
@@ -1710,7 +1710,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1343
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую ракетницу \"Арес\"† за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1345
 msgid ""
@@ -1739,7 +1739,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1367
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2\"]/text"
-msgstr ""
+msgstr "Получить залповую ракетницу \"Гидра\" за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1369
 msgid ""
@@ -1754,7 +1754,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1379
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить залповую ракетницу \"Гидра\"† за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1381
 msgid ""
@@ -1769,7 +1769,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1391
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CLOAK\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Никс\" за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1393
 msgid ""
@@ -1784,7 +1784,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1403
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Аид\" за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1405
 msgid ""
@@ -1799,7 +1799,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1415
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Аид\"† за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1417
 msgid ""
@@ -1814,7 +1814,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1427
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FREE\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Мом\" за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1429
 msgid ""
@@ -1829,7 +1829,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1439
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BIO\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Асклепий\" за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1441
 msgid ""
@@ -1844,7 +1844,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1451
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_STUN\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Ерида\" за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1453
 msgid ""
@@ -1859,7 +1859,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1463
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_1\"]/text"
-msgstr ""
+msgstr "Получить луч \"Спетум\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1465
 msgid ""
@@ -1873,7 +1873,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1475
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[102]/text"
-msgstr ""
+msgstr "Получить луч \"Алебарда\" за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1477
 msgid ""
@@ -1888,7 +1888,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1487
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить луч \"Алебарда\"† за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1489
 msgid ""
@@ -1902,7 +1902,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1499
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[104]/text"
-msgstr ""
+msgstr "Получить луч \"Глефа\" за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1501
 msgid ""
@@ -1917,7 +1917,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1511
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4\"]/text"
-msgstr ""
+msgstr "Получить луч \"Вульж\" за 27 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1513
 msgid ""
@@ -1931,7 +1931,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1523
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[106]/text"
-msgstr ""
+msgstr "Получить луч \"Пика\" за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1525
 msgid ""
@@ -1946,7 +1946,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1535
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_LONG_2\"]/text"
-msgstr ""
+msgstr "Получить луч \"Пика\" мод. II за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1537
 msgid ""
@@ -1961,7 +1961,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1547
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SCYTHE\"]/text"
-msgstr ""
+msgstr "Получить луч \"Коса\" за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1549
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1559
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить луч \"Корсека\" за 15 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1561
 msgid ""
@@ -1991,7 +1991,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1571
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить луч \"Гвизарма\" за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1573
 msgid ""
@@ -2005,7 +2005,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1583
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[111]/text"
-msgstr ""
+msgstr "Получить луч \"Факел\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1585
 msgid ""
@@ -2020,7 +2020,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1595
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить луч \"Факел\"† за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1597
 msgid ""
@@ -2035,7 +2035,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1607
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить пронзающий луч \"Факел\" за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1609
 msgid ""
@@ -2050,7 +2050,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1619
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_INSTANT\"]/text"
-msgstr ""
+msgstr "Получить упреждающий луч \"Факел\" за 20 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1621
 msgid ""
@@ -2065,7 +2065,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1631
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BREACH\"]/text"
-msgstr ""
+msgstr "Получить луч \"Рунка\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1633
 msgid ""
@@ -2079,7 +2079,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1643
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[116]/text"
-msgstr ""
+msgstr "Получить луч \"Люцерн\" за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1645
 msgid ""
@@ -2094,7 +2094,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1655
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HULL_2\"]/text"
-msgstr ""
+msgstr "Получить луч \"Люцерн\" мод. II за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1657
 msgid ""
@@ -2109,7 +2109,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1667
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_MINING\"]/text"
-msgstr ""
+msgstr "Получить шахтерский луч \"Зульфикар\" за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1669
 msgid ""
@@ -2124,7 +2124,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1679
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT\"]/text"
-msgstr ""
+msgstr "Получить луч \"Су-яри\" за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1681
 msgid ""
@@ -2139,7 +2139,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1691
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_2\"]/text"
-msgstr ""
+msgstr "Получить луч \"Кама-яри\" за 22 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1693
 msgid ""
@@ -2153,7 +2153,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1703
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[121]/text"
-msgstr ""
+msgstr "Получить рад-луч \"Фокон\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1705
 msgid ""
@@ -2168,7 +2168,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1715
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить рад-луч \"Корбмн\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1717
 msgid ""
@@ -2183,7 +2183,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1727
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_STUN\"]/text"
-msgstr ""
+msgstr "Получить луч \"Партизан\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1729
 msgid ""
@@ -2198,7 +2198,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1739
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE\"]/text"
-msgstr ""
+msgstr "Получить луч \"Фашард\" за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1741
 msgid ""
@@ -2213,7 +2213,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1751
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить луч \"Фашард\"† за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1753
 msgid ""
@@ -2228,7 +2228,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1763
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_1\"]/text"
-msgstr ""
+msgstr "Получить точечный луч \"Дирк\" за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1765
 msgid ""
@@ -2243,7 +2243,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1775
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_2\"]/text"
-msgstr ""
+msgstr "Получить точечный луч \"Мизерикорд\" за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1777
 msgid ""
@@ -2258,7 +2258,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1787
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_3\"]/text"
-msgstr ""
+msgstr "Получить точечный луч \"Стилет\" за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1789
 msgid ""
@@ -2273,7 +2273,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1799
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить точечный луч \"Чинкуэда\" за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1801
 msgid ""
@@ -2288,7 +2288,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1811
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO\"]/text"
-msgstr ""
+msgstr "Получить точечный рад-луч \"Анелас\" за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1813
 msgid ""
@@ -2303,7 +2303,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1823
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить точечный рад-луч \"Анелас\"† за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1825
 msgid ""
@@ -2317,7 +2317,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1835
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[132]/text"
-msgstr ""
+msgstr "Получить Пусковую установку бомб за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1837
 msgid ""
@@ -2332,7 +2332,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1847
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_1\"]/text"
-msgstr ""
+msgstr "Получить Пробойную бомбу за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1849
 msgid ""
@@ -2346,7 +2346,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1859
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[134]/text"
-msgstr ""
+msgstr "Получить Зажигательную бомбу за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1861
 msgid ""
@@ -2361,7 +2361,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1871
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_FREE\"]/text"
-msgstr ""
+msgstr "Получить Репликационную бомбу за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1873
 msgid ""
@@ -2375,7 +2375,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1883
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[136]/text"
-msgstr ""
+msgstr "Получить Ионную бомбу за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1885
 msgid ""
@@ -2390,7 +2390,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1895
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_STUN\"]/text"
-msgstr ""
+msgstr "Получить Оглушающую бомбу за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1897
 msgid ""
@@ -2405,7 +2405,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1907
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BIO\"]/text"
-msgstr ""
+msgstr "Получить Облучающую бомбу за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1909
 msgid ""
@@ -2420,7 +2420,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1919
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_LOCK\"]/text"
-msgstr ""
+msgstr "Получить Кристаллическую изолирующую бомбу за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1921
 msgid ""
@@ -2434,7 +2434,7 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:1931
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[140]/text"
-msgstr ""
+msgstr "Получить Медицинскую бомбу за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1933
 msgid ""
@@ -2449,7 +2449,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1943
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM\"]/text"
-msgstr ""
+msgstr "Получить Ремонтную бомбу за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1945
 msgid ""
@@ -2464,7 +2464,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1955
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM_STRONG\"]/text"
-msgstr ""
+msgstr "Получить Ремонтную бомбу™ за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1957
 msgid ""
@@ -2479,7 +2479,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1967
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BUFF\"]/text"
-msgstr ""
+msgstr "Получить Стимулирующую бомбу за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1969
 msgid ""
@@ -2494,7 +2494,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1979
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_1\"]/text"
-msgstr ""
+msgstr "Получить Энергетическую пушку мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1981
 msgid ""
@@ -2509,7 +2509,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1991
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2\"]/text"
-msgstr ""
+msgstr "Получить Энергетическую пушку мод. II за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1993
 msgid ""
@@ -2524,7 +2524,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2003
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Энергетическую пушку мод. II† за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2005
 msgid ""
@@ -2539,7 +2539,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2015
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_3\"]/text"
-msgstr ""
+msgstr "Получить Энергетическую пушку мод. III за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2017
 msgid ""
@@ -2554,7 +2554,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2027
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_HULL\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую энергетическую пушку за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2029
 msgid ""
@@ -2569,7 +2569,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2039
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый энергетический ошеломитель за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2041
 msgid ""
@@ -2584,7 +2584,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2051
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Энергетический ошеломитель† за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2053
 msgid ""
@@ -2599,7 +2599,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2063
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Получить Цепную энергетическую пушку за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2065
 msgid ""
@@ -2614,7 +2614,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2075
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядную энергетическую пушку за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2077
 msgid ""
@@ -2629,7 +2629,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2087
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Зарядную энергетическую пушку† за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2089
 msgid ""
@@ -2644,7 +2644,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2099
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_1\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. I за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2101
 msgid ""
@@ -2659,7 +2659,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2111
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. II за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2113
 msgid ""
@@ -2674,7 +2674,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2123
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. II† за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2125
 msgid ""
@@ -2689,7 +2689,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2135
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_3\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. III за 18 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2137
 msgid ""
@@ -2704,7 +2704,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2147
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_4\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. IV за 22 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2149
 msgid ""
@@ -2719,7 +2719,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2159
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHARGE\"]/text"
-msgstr ""
+msgstr "Получить Зарядное осколочное орудие за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2161
 msgid ""
@@ -2734,7 +2734,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2171
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить Цепное осколочное орудие за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2173
 msgid ""
@@ -2749,7 +2749,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2183
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_INSTANT\"]/text"
-msgstr ""
+msgstr "Получить Упреждающую осколочную пушку мод за 20 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2185
 msgid ""
@@ -2764,7 +2764,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2195
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Поджигающее осколочное орудие за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2197
 msgid ""
@@ -2779,7 +2779,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2207
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_ION\"]/text"
-msgstr ""
+msgstr "Получить Наэлектризованное осколочное орудие за 20 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2209
 msgid ""
@@ -2794,7 +2794,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2219
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC\"]/text"
-msgstr ""
+msgstr "Получить Облучающее осколочное орудие за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2221
 msgid ""
@@ -2809,7 +2809,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2231
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Облучающее осколочное орудие† за 19 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2233
 msgid ""
@@ -2824,7 +2824,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2243
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1\"]/text"
-msgstr ""
+msgstr "Получить Зерномет за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2245
 msgid ""
@@ -2839,7 +2839,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2255
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Элитный зерномет мод. I за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2257
 msgid ""
@@ -2854,7 +2854,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2267
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2\"]/text"
-msgstr ""
+msgstr "Получить Зерномет мод. II за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2269
 msgid ""
@@ -2869,7 +2869,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2279
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Элитный зерномет мод. II за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2281
 msgid ""
@@ -2884,7 +2884,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2291
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый зерномет за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2293
 msgid ""
@@ -2899,7 +2899,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2303
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый элитный зерномет за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2305
 msgid ""
@@ -2914,7 +2914,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2315
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL\"]/text"
-msgstr ""
+msgstr "Получить Противокорпусный зерномет за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2317
 msgid ""
@@ -2930,6 +2930,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/text"
 msgstr ""
+"Получить Элитный противокорпусный зерномет за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2329
 msgid ""
@@ -2944,7 +2945,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2339
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Солнечный зерномет за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2341
 msgid ""
@@ -2959,7 +2960,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2351
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить Цепной зерномет за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2353
 msgid ""
@@ -2974,7 +2975,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2363
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Элитный цепной зерномет за 17 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2365
 msgid ""
@@ -2989,7 +2990,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2375
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE\"]/text"
-msgstr ""
+msgstr "Получить Зарядный зерномет за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2377
 msgid ""
@@ -3004,7 +3005,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2387
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Элитный зарядный зерномет за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2389
 msgid ""
@@ -3019,7 +3020,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2399
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_1\"]/text"
-msgstr ""
+msgstr "Получить Споромет мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2401
 msgid ""
@@ -3034,7 +3035,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2411
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_2\"]/text"
-msgstr ""
+msgstr "Получить Споромет мод. II за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2413
 msgid ""
@@ -3049,7 +3050,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2423
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_HEAVY\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый споромет за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2425
 msgid ""
@@ -3064,7 +3065,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2435
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить Цепной споромет за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2437
 msgid ""
@@ -3079,7 +3080,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2447
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Оглушающий споромет за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2449
 msgid ""
@@ -3095,6 +3096,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1\"]/text"
 msgstr ""
+"Получить Кристаллический импульсный лазер мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2461
 msgid ""
@@ -3110,6 +3112,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Получить Элитный кристаллический импульсный лазер мод. I за 13 особых "
+"осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2473
 msgid ""
@@ -3125,6 +3129,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2\"]/text"
 msgstr ""
+"Получить Кристаллический импульсный лазер мод. II за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2485
 msgid ""
@@ -3140,6 +3145,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Получить Элитный кристаллический импульсный лазер мод. II за 17 особых "
+"осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2497
 msgid ""
@@ -3154,7 +3161,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2507
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый кристалл мод. I за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2509
 msgid ""
@@ -3169,7 +3176,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2519
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
-msgstr ""
+msgstr "Получить Элитный тяжелый кристалл мод. I за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2521
 msgid ""
@@ -3184,7 +3191,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2531
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый тяжелый кристалл мод. II за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2533
 msgid ""
@@ -3200,6 +3207,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Получить Элитный тяжелый кристалл мод. II за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2545
 msgid ""
@@ -3214,7 +3222,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2555
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN\"]/text"
-msgstr ""
+msgstr "Получить Нейрокристалл за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2557
 msgid ""
@@ -3229,7 +3237,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2567
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
-msgstr ""
+msgstr "Получить Элитный нейрокристалл за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2569
 msgid ""
@@ -3244,7 +3252,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2579
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN\"]/text"
-msgstr ""
+msgstr "Получить Осколочный кристалл за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2581
 msgid ""
@@ -3259,7 +3267,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2591
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
-msgstr ""
+msgstr "Получить Элитный осколочный кристалл за 19 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2593
 msgid ""
@@ -3274,7 +3282,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2603
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядный кристалл за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2605
 msgid ""
@@ -3289,7 +3297,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2615
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
-msgstr ""
+msgstr "Получить Элитный зарядный кристалл за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2617
 msgid ""
@@ -3304,7 +3312,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2627
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_1\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Геб\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2629
 msgid ""
@@ -3319,7 +3327,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2639
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_2\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Осирис\" за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2641
 msgid ""
@@ -3334,7 +3342,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2651
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_3\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Ра\" за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2653
 msgid ""
@@ -3349,7 +3357,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2663
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FREE\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Небетхед\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2665
 msgid ""
@@ -3364,7 +3372,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2675
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Сехмет\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2677
 msgid ""
@@ -3379,7 +3387,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2687
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_BREACH\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Себек\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2689
 msgid ""
@@ -3394,7 +3402,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2699
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_STUN\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Анубис\" за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2701
 msgid ""
@@ -3409,7 +3417,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2711
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Получить Осколкомет за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2713
 msgid ""
@@ -3424,7 +3432,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2723
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_KERNEL\"]/text"
-msgstr ""
+msgstr "Получить Лозовой миномет за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2725
 msgid ""
@@ -3439,7 +3447,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2735
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить Консервативный лазер за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2737
 msgid ""
@@ -3454,7 +3462,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2747
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить луч \"Эспонтон\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2749
 msgid ""
@@ -3469,7 +3477,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2759
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить Консервативный ион за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2761
 msgid ""
@@ -3484,7 +3492,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2771
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Тюхе\" за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2773
 msgid ""
@@ -3499,7 +3507,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2783
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить Консервативную бомбу за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2785
 msgid ""
@@ -3514,7 +3522,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2795
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить Консервативную энергетическую пушку за 11 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2797
 msgid ""
@@ -3529,7 +3537,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2807
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Получить рад-луч \"Пельта\" за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2809
 msgid ""
@@ -3544,7 +3552,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2819
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZENITH_1\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Зенит\" мод. I за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2821
 msgid ""
@@ -3559,7 +3567,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2831
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LANCE_1\"]/text"
-msgstr ""
+msgstr "Получить луч \"Копье\" мод. I за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2833
 msgid ""
@@ -3574,7 +3582,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2843
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CLUSTER\"]/text"
-msgstr ""
+msgstr "Получить Ремонтную бомбу за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2845
 msgid ""
@@ -3589,7 +3597,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2855
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Предвестник\" мод. I за 22 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2857
 msgid ""
@@ -3604,7 +3612,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2867
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Предвестник\" мод. II за 25 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2869
 msgid ""
@@ -3619,7 +3627,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2879
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Предвестник\" мод. III за 28 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2881
 msgid ""
@@ -3634,7 +3642,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2891
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Бойня\" за 25 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2893
 msgid ""
@@ -3649,7 +3657,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2903
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr ""
+msgstr "Получить Телепортер боезарядов за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2905
 msgid ""
@@ -3664,7 +3672,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2915
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Натиск\" за 19 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2917
 msgid ""
@@ -3679,7 +3687,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2927
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr ""
+msgstr "Получить луч \"Ликвидатор\" мод. I за 24 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2929
 msgid ""
@@ -3694,7 +3702,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2939
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
-msgstr ""
+msgstr "Получить луч \"Ликвидатор\" мод. II за 26 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2941
 msgid ""
@@ -3709,7 +3717,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2951
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
-msgstr ""
+msgstr "Получить луч \"Ликвидатор\" мод. III за 29 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2953
 msgid ""
@@ -3724,7 +3732,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2963
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_HAVOC\"]/text"
-msgstr ""
+msgstr "Получить луч \"Опустошитель\" за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2965
 msgid ""
@@ -3740,6 +3748,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
 msgstr ""
+"Получить точечный луч \"Чистильщик\" мод. I за 22 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2977
 msgid ""
@@ -3755,6 +3764,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr ""
+"Получить точечный луч \"Чистильщик\" мод. II за 25 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:2989
 msgid ""
@@ -3769,7 +3779,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:2999
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr ""
+msgstr "Получить Плазменную пушку мод. I за 19 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3001
 msgid ""
@@ -3784,7 +3794,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3011
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr ""
+msgstr "Получить Плазменную пушку мод. II за 23 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3013
 msgid ""
@@ -3799,7 +3809,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3023
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Получить бомбу \"Умиротворитель\" за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3025
 msgid ""
@@ -3814,7 +3824,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3035
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_LASER_3\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Предвестник\" мод. III за 28 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3037
 msgid ""
@@ -3829,7 +3839,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3047
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BEAM_3\"]/text"
-msgstr ""
+msgstr "Получить луч \"Ликвидатор\" мод. III за 29 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3049
 msgid ""
@@ -3844,7 +3854,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3059
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_HAVOC\"]/text"
-msgstr ""
+msgstr "Получить луч \"Опустошитель\" за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3061
 msgid ""
@@ -3859,7 +3869,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3071
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_FOCUS\"]/text"
-msgstr ""
+msgstr "Получить точечный луч \"Чистильщик\" за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3073
 msgid ""
@@ -3874,7 +3884,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3083
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_MISSILES\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Бойня\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3085
 msgid ""
@@ -3889,7 +3899,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3095
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BOMB\"]/text"
-msgstr ""
+msgstr "Получить Телепортер боезарядов за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3097
 msgid ""
@@ -3904,7 +3914,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3107
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_ION_2\"]/text"
-msgstr ""
+msgstr "Получить Плазменную пушку мод. II за 23 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3109
 msgid ""
@@ -3919,7 +3929,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3119
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_REPAIR\"]/text"
-msgstr ""
+msgstr "Получить Ремонтный луч за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3121
 msgid ""
@@ -3935,6 +3945,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRASH_LASER\"]/text"
 msgstr ""
+"Получить не удалось найти mu_TITLE_DEFUNCT_LASER за 0 особых осколочных "
+"очков."
 
 #: src-en/data/events_flakjuice.xml:3133
 msgid ""
@@ -3949,7 +3961,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3143
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HARDSCIFI\"]/text"
-msgstr ""
+msgstr "Получить лазерный луч за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3145
 msgid ""
@@ -3965,6 +3977,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_SYLVAN\"]/text"
 msgstr ""
+"Получить Улучшенный импульсный лазер мод. II за 17 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3157
 msgid ""
@@ -3980,6 +3993,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_5_SYLVAN\"]/text"
 msgstr ""
+"Получить Улучшенный импульсный лазер мод. III за 21 особое осколочное очко."
 
 #: src-en/data/events_flakjuice.xml:3169
 msgid ""
@@ -3994,7 +4008,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3179
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4_SYLVAN\"]/text"
-msgstr ""
+msgstr "Получить луч \"Сцука\" за 27 особое осколочное очко."
 
 #: src-en/data/events_flakjuice.xml:3181
 msgid ""
@@ -4010,6 +4024,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD_3\"]/text"
 msgstr ""
+"Получить Золотую осколочную пушку мод. II за 56 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3193
 msgid ""
@@ -4024,7 +4039,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3203
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HORSE_GUN\"]/text"
-msgstr ""
+msgstr "Получить Плюшевую пушку Элли Эквиноида за 2 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3205
 msgid ""
@@ -4039,7 +4054,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3215
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ROCK\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Дианеш\" за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3217
 msgid ""
@@ -4054,7 +4069,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3227
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BISHOP\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Апостол\" за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3229
 msgid ""
@@ -4069,7 +4084,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3239
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_CHAIN\"]/text"
-msgstr ""
+msgstr "Получить Адаптивный фазер за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3241
 msgid ""
@@ -4085,6 +4100,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE_SPECIAL\"]/text"
 msgstr ""
+"Получить осколочную пушку \"Спичечный коробок\" за 18 особых осколочных "
+"очков."
 
 #: src-en/data/events_flakjuice.xml:3253
 msgid ""
@@ -4099,7 +4116,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3263
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CHERRI\"]/text"
-msgstr ""
+msgstr "Получить \"Черри бомбу\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3265
 msgid ""
@@ -4114,7 +4131,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3275
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD\"]/text"
-msgstr ""
+msgstr "Получить Пробудитель разломов мод. 0.5 за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3277
 msgid ""
@@ -4129,7 +4146,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3287
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD_PLAYER\"]/text"
-msgstr ""
+msgstr "Получить Пробудитель разломов мод. 0.5† за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3289
 msgid ""
@@ -4144,7 +4161,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3299
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SALT_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Получить Соляную пусковую установку за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3301
 msgid ""
@@ -4159,7 +4176,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3311
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD\"]/text"
-msgstr ""
+msgstr "Получить Золотую осколочную пушку за 36 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3313
 msgid ""
@@ -4174,7 +4191,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3323
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SHELL\"]/text"
-msgstr ""
+msgstr "Получить луч \"Циклоп\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3325
 msgid ""
@@ -4189,7 +4206,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3335
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZOLTAN_DELETER\"]/text"
-msgstr ""
+msgstr "Получить \"Стиратель\" золтан за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3337
 msgid ""
@@ -4204,7 +4221,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION1\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Вдоводел\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3349
 msgid ""
@@ -4219,7 +4236,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3359
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION2\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Изверг\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3361
 msgid ""
@@ -4235,6 +4252,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION3\"]/text"
 msgstr ""
+"Получить гатлинг \"Чертовски большая пушка\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3373
 msgid ""
@@ -4249,7 +4267,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3383
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION4\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Вертушка\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3385
 msgid ""
@@ -4264,7 +4282,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3395
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION5\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Пиу пиу пиу\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3397
 msgid ""
@@ -4279,7 +4297,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3407
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION6\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Экскалибур\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3409
 msgid ""
@@ -4294,7 +4312,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3419
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION7\"]/text"
-msgstr ""
+msgstr "Получить гатлинг Вулкан мод. II за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3421
 msgid ""
@@ -4309,7 +4327,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3431
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION8\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Отладчик\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3433
 msgid ""
@@ -4325,6 +4343,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN\"]/text"
 msgstr ""
+"Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3445
 msgid ""
@@ -4340,6 +4359,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN_HONOR\"]/text"
 msgstr ""
+"Получить гатлинг \"Пробудитель разломов\" за 200 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3457
 msgid ""
@@ -4354,7 +4374,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3467
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr ""
+msgstr "Получить гатлинг \"Убийца богов\" за 1999 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3469
 msgid ""
@@ -4369,7 +4389,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3479
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BARREL\"]/text"
-msgstr ""
+msgstr "Получить ствол Гатлинга за 6 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3481
 msgid ""
@@ -4384,7 +4404,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3491
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BASE\"]/text"
-msgstr ""
+msgstr "Получить корпус Гатлинга за 9 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3493
 msgid ""
@@ -4399,7 +4419,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3503
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CIVILIAN_1\"]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. I за 12 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3505
 msgid ""
@@ -4414,7 +4434,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3515
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MILITIA_1\"]/text"
-msgstr ""
+msgstr "Получить Импульсный лазер мод. II за 17 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3517
 msgid ""
@@ -4429,7 +4449,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3527
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FEDERATION_1\"]/text"
-msgstr ""
+msgstr "Получить Тяжелый лазер мод. II за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3529
 msgid ""
@@ -4444,7 +4464,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3539
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_COALITION_1\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Ерида\" за 11 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3541
 msgid ""
@@ -4459,7 +4479,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3551
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DUSKBRINGER_1\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую энергетическую пушку за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3553
 msgid ""
@@ -4474,7 +4494,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3563
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FREEMANTIS_1\"]/text"
-msgstr ""
+msgstr "Получить Оглушающую бомбу за 12 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3565
 msgid ""
@@ -4489,7 +4509,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3575
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_1\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Сехмет\" за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3577
 msgid ""
@@ -4504,7 +4524,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3587
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_2\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Аид\" за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3589
 msgid ""
@@ -4519,7 +4539,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3599
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_1\"]/text"
-msgstr ""
+msgstr "Получить Пусковую установку бомб за 9 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3601
 msgid ""
@@ -4534,7 +4554,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3611
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_2\"]/text"
-msgstr ""
+msgstr "Получить Легкий лазер мод. II за 11 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3613
 msgid ""
@@ -4549,7 +4569,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3623
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_REBEL_1\"]/text"
-msgstr ""
+msgstr "Получить Зарядный лазер мод. II за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3625
 msgid ""
@@ -4564,7 +4584,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3635
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ROCK_1\"]/text"
-msgstr ""
+msgstr "Получить Тяжелую ракетницу \"Гермес\" за 12 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3637
 msgid ""
@@ -4579,7 +4599,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3647
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_1\"]/text"
-msgstr ""
+msgstr "Получить луч \"Пика\" за 12 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3649
 msgid ""
@@ -4594,7 +4614,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3659
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_2\"]/text"
-msgstr ""
+msgstr "Получить луч \"Люцерн\" за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3661
 msgid ""
@@ -4609,7 +4629,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3671
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SLUG_1\"]/text"
-msgstr ""
+msgstr "Получить рад-луч \"Фокон\" за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3673
 msgid ""
@@ -4624,7 +4644,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3683
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CLAN_1\"]/text"
-msgstr ""
+msgstr "Получить Облучающий лазер за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3685
 msgid ""
@@ -4639,7 +4659,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3695
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_KNIGHT_1\"]/text"
-msgstr ""
+msgstr "Получить рад-луч \"Корбмн\" за 11 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3697
 msgid ""
@@ -4654,7 +4674,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3707
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SHELL_1\"]/text"
-msgstr ""
+msgstr "Получить Противокорпусный лазер мод. I за 11 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3709
 msgid ""
@@ -4669,7 +4689,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3719
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LEECH_1\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. II за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3721
 msgid ""
@@ -4684,7 +4704,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3731
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CULTIST_1\"]/text"
-msgstr ""
+msgstr "Получить пронзающий луч \"Факел\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3733
 msgid ""
@@ -4699,7 +4719,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3743
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DYNASTY_1\"]/text"
-msgstr ""
+msgstr "Получить луч \"Рунка\" за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3745
 msgid ""
@@ -4714,7 +4734,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3755
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LANIUS_1\"]/text"
-msgstr ""
+msgstr "Получить Осколочную пушку мод. II за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3757
 msgid ""
@@ -4727,9 +4747,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:3767
+#, fuzzy
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_1\"]/text"
-msgstr ""
+msgstr "Получить \"Слагаемое\" за 17 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3769
 msgid ""
@@ -4742,9 +4763,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:3779
+#, fuzzy
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_2\"]/text"
-msgstr ""
+msgstr "Получить \"Вычитатель\" за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3781
 msgid ""
@@ -4757,9 +4779,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_flakjuice.xml:3791
+#, fuzzy
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_3\"]/text"
-msgstr ""
+msgstr "Получить \"Умножитель\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3793
 msgid ""
@@ -4774,7 +4797,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3803
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_4\"]/text"
-msgstr ""
+msgstr "Получить \"Делитель\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3805
 msgid ""
@@ -4789,7 +4812,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3815
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_5\"]/text"
-msgstr ""
+msgstr "Получить \"Уравнитель\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3817
 msgid ""
@@ -4804,7 +4827,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3827
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_6\"]/text"
-msgstr ""
+msgstr "Получить \"Процент\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3829
 msgid ""
@@ -4819,7 +4842,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3839
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_7\"]/text"
-msgstr ""
+msgstr "Получить \"Больше\" за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3841
 msgid ""
@@ -4834,7 +4857,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3851
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BATTERY\"]/text"
-msgstr ""
+msgstr "Получить луч с блоком питания за 10 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3853
 msgid ""
@@ -4849,7 +4872,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3863
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_3\"]/text"
-msgstr ""
+msgstr "Получить луч \"Цукияри\" за 34 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3865
 msgid ""
@@ -4864,7 +4887,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3875
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BIG_ION\"]/text"
-msgstr ""
+msgstr "Получить луч \"Большая ионная пушка\" за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3877
 msgid ""
@@ -4879,7 +4902,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3887
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVRECYCLER\"]/text"
-msgstr ""
+msgstr "Получить луч Самоподдерживающую бомбу за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3889
 msgid ""
@@ -4894,7 +4917,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3899
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_DRAIN\"]/text"
-msgstr ""
+msgstr "Получить Большую поглощающую бомбу за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3901
 msgid ""
@@ -4909,7 +4932,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3911
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FROST_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Зарядный замораживатель за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3913
 msgid ""
@@ -4924,7 +4947,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3923
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAIN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить Цепнозарядную ионную пушку за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3925
 msgid ""
@@ -4939,7 +4962,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3935
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_OBSIDIAN\"]/text"
-msgstr ""
+msgstr "Получить Обсидиановую ракетницу за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3937
 msgid ""
@@ -4954,7 +4977,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3947
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SNIPER\"]/text"
-msgstr ""
+msgstr "Получить лазер \"Точновцель\" за 15 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3949
 msgid ""
@@ -4969,7 +4992,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3959
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_STEEL\"]/text"
-msgstr ""
+msgstr "Получить стальную осколочную пушку за 22 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3961
 msgid ""
@@ -4984,7 +5007,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3971
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SLOTGUN\"]/text"
-msgstr ""
+msgstr "Получить Слотопушку за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3973
 msgid ""
@@ -5000,6 +5023,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_FIRE\"]/text"
 msgstr ""
+"Получить Мультирежимную осколочную пушку [Заж] за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3985
 msgid ""
@@ -5015,6 +5039,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_ION\"]/text"
 msgstr ""
+"Получить Мультирежимную осколочную пушку [Элект] за 20 особых осколочных "
+"очков."
 
 #: src-en/data/events_flakjuice.xml:3997
 msgid ""
@@ -5030,6 +5056,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_TOXIC\"]/text"
 msgstr ""
+"Получить Мультирежимную осколочную пушку [Рад] за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4009
 msgid ""
@@ -5044,7 +5071,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4019
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHELL_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Получить Токсическую пусковую установку за 13 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4021
 msgid ""
@@ -5059,7 +5086,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4031
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"UNSPOOLER\"]/text"
-msgstr ""
+msgstr "Получить ракетницу \"Паслен\" за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4033
 msgid ""
@@ -5074,7 +5101,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4043
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_GIANT\"]/text"
-msgstr ""
+msgstr "Получить миномет \"Фараон\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4045
 msgid ""
@@ -5089,7 +5116,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4055
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Получить легкий зарядный лазер за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4057
 msgid ""
@@ -5104,7 +5131,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4067
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Янтарную пусковую установку за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4069
 msgid ""
@@ -5119,7 +5146,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4079
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"STRAWBERRY\"]/text"
-msgstr ""
+msgstr "Получить Клубничную пушку за 19 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4081
 msgid ""
@@ -5134,7 +5161,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4091
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_ELITE\"]/text"
-msgstr ""
+msgstr "Получить Повышающую бомбу за 16 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4093
 msgid ""
@@ -5149,7 +5176,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4103
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GASTER_BLASTER\"]/text"
-msgstr ""
+msgstr "Получить луч \"Бластер\" за 27 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4105
 msgid ""
@@ -5164,7 +5191,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4115
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/text"
-msgstr ""
+msgstr "Получить Старый импульсный лазер мод. I за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4117
 msgid ""
@@ -5179,7 +5206,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4127
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/text"
-msgstr ""
+msgstr "Получить Старый импульсный лазер мод. II за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4129
 msgid ""
@@ -5194,7 +5221,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4139
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/text"
-msgstr ""
+msgstr "Получить Старый импульсный лазер мод. III за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4141
 msgid ""
@@ -5209,7 +5236,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4151
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Получить Старый тяжелый лазер мод. I за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4153
 msgid ""
@@ -5224,7 +5251,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4163
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_1\"]/text"
-msgstr ""
+msgstr "Получить старую ракетницу \"Лето\" за 4 осколочных очка."
 
 #: src-en/data/events_flakjuice.xml:4165
 msgid ""
@@ -5239,7 +5266,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4175
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_2\"]/text"
-msgstr ""
+msgstr "Получить старую ракетницу \"Артемида\" за 5 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4177
 msgid ""
@@ -5254,7 +5281,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4187
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_3\"]/text"
-msgstr ""
+msgstr "Получить старую ракетницу \"Гермес\" за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4189
 msgid ""
@@ -5284,7 +5311,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4211
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_ACCURACY\"]/text"
-msgstr ""
+msgstr "Получить Модуль точности за 5 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4213
 msgid ""
@@ -5299,7 +5326,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4223
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Рад-модуль за 3 осколочных очка."
 
 #: src-en/data/events_flakjuice.xml:4225
 msgid ""
@@ -5314,7 +5341,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4235
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модуль перезарядки за 8 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4237
 msgid ""
@@ -5329,7 +5356,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4247
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модуль изоляции за 6 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4249
 msgid ""
@@ -5344,7 +5371,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4259
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модуль пронзания за 4 осколочных очка."
 
 #: src-en/data/events_flakjuice.xml:4261
 msgid ""
@@ -5359,7 +5386,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4271
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_STUN\"]/text"
-msgstr ""
+msgstr "Получить нейронный модуль за 4 осколочных очка."
 
 #: src-en/data/events_flakjuice.xml:4273
 msgid ""
@@ -5374,7 +5401,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4283
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Модуль поджога за 6 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4285
 msgid ""
@@ -5389,7 +5416,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4295
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_HULL\"]/text"
-msgstr ""
+msgstr "Получить Противокорпусный модуль за 7 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4297
 msgid ""
@@ -5404,7 +5431,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4307
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_POWER\"]/text"
-msgstr ""
+msgstr "Получить Модуль мощности за 6 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4309
 msgid ""
@@ -5419,7 +5446,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4319
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4321
 msgid ""
@@ -5434,7 +5461,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4331
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4333
 msgid ""
@@ -5449,7 +5476,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4343
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4345
 msgid ""
@@ -5464,7 +5491,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4355
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4357
 msgid ""
@@ -5479,7 +5506,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4367
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4369
 msgid ""
@@ -5494,7 +5521,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4379
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4381
 msgid ""
@@ -5509,7 +5536,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4391
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4393
 msgid ""
@@ -5524,7 +5551,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4403
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4405
 msgid ""
@@ -5539,7 +5566,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4415
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4417
 msgid ""
@@ -5554,7 +5581,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4427
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4429
 msgid ""
@@ -5569,7 +5596,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4439
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4441
 msgid ""
@@ -5584,7 +5611,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4451
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4453
 msgid ""
@@ -5599,7 +5626,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4463
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4465
 msgid ""
@@ -5614,7 +5641,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4475
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4477
 msgid ""
@@ -5629,7 +5656,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4487
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4489
 msgid ""
@@ -5644,7 +5671,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4499
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4501
 msgid ""
@@ -5659,7 +5686,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4511
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4513
 msgid ""
@@ -5674,7 +5701,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4523
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4525
 msgid ""
@@ -5689,7 +5716,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4535
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4537
 msgid ""
@@ -5704,7 +5731,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4547
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4549
 msgid ""
@@ -5719,7 +5746,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4559
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4561
 msgid ""
@@ -5734,7 +5761,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4571
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4573
 msgid ""
@@ -5749,7 +5776,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4583
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4585
 msgid ""
@@ -5764,7 +5791,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4595
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4597
 msgid ""
@@ -5779,7 +5806,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4607
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4609
 msgid ""
@@ -5794,7 +5821,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4619
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4621
 msgid ""
@@ -5809,7 +5836,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4631
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4633
 msgid ""
@@ -5824,7 +5851,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4643
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4645
 msgid ""
@@ -5839,7 +5866,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4655
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4657
 msgid ""
@@ -5854,7 +5881,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4667
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный лазер за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4669
 msgid ""
@@ -5869,7 +5896,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4679
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4681
 msgid ""
@@ -5884,7 +5911,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4691
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4693
 msgid ""
@@ -5899,7 +5926,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4703
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4705
 msgid ""
@@ -5914,7 +5941,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4715
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4717
 msgid ""
@@ -5929,7 +5956,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4727
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4729
 msgid ""
@@ -5944,7 +5971,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4739
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4741
 msgid ""
@@ -5959,7 +5986,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4751
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4753
 msgid ""
@@ -5974,7 +6001,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4763
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4765
 msgid ""
@@ -5989,7 +6016,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4775
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4777
 msgid ""
@@ -6004,7 +6031,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4787
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4789
 msgid ""
@@ -6019,7 +6046,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4799
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4801
 msgid ""
@@ -6034,7 +6061,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4811
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4813
 msgid ""
@@ -6049,7 +6076,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4823
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4825
 msgid ""
@@ -6064,7 +6091,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4835
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4837
 msgid ""
@@ -6079,7 +6106,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4847
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4849
 msgid ""
@@ -6094,7 +6121,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4859
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4861
 msgid ""
@@ -6109,7 +6136,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4871
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4873
 msgid ""
@@ -6124,7 +6151,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4883
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4885
 msgid ""
@@ -6139,7 +6166,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4895
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4897
 msgid ""
@@ -6154,7 +6181,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4907
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный луч за 16 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4909
 msgid ""
@@ -6169,7 +6196,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4919
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4921
 msgid ""
@@ -6184,7 +6211,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4931
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4933
 msgid ""
@@ -6199,7 +6226,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4943
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4945
 msgid ""
@@ -6214,7 +6241,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4955
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4957
 msgid ""
@@ -6229,7 +6256,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4967
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4969
 msgid ""
@@ -6244,7 +6271,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4979
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4981
 msgid ""
@@ -6259,7 +6286,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:4991
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:4993
 msgid ""
@@ -6274,7 +6301,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5003
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5005
 msgid ""
@@ -6289,7 +6316,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5015
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5017
 msgid ""
@@ -6304,7 +6331,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5027
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5029
 msgid ""
@@ -6319,7 +6346,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5039
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5041
 msgid ""
@@ -6334,7 +6361,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5051
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5053
 msgid ""
@@ -6349,7 +6376,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5063
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5065
 msgid ""
@@ -6364,7 +6391,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5075
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5077
 msgid ""
@@ -6379,7 +6406,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5087
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5089
 msgid ""
@@ -6394,7 +6421,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5099
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5101
 msgid ""
@@ -6409,7 +6436,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5111
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5113
 msgid ""
@@ -6424,7 +6451,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5123
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5125
 msgid ""
@@ -6439,7 +6466,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5135
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5137
 msgid ""
@@ -6454,7 +6481,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5147
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5149
 msgid ""
@@ -6469,7 +6496,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5159
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5161
 msgid ""
@@ -6484,7 +6511,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5171
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5173
 msgid ""
@@ -6499,7 +6526,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5183
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5185
 msgid ""
@@ -6514,7 +6541,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5195
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5197
 msgid ""
@@ -6529,7 +6556,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5207
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульную ракетницу за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5209
 msgid ""
@@ -6544,7 +6571,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5219
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5221
 msgid ""
@@ -6559,7 +6586,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5231
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5233
 msgid ""
@@ -6574,7 +6601,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5243
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5245
 msgid ""
@@ -6589,7 +6616,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5255
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5257
 msgid ""
@@ -6604,7 +6631,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5267
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5269
 msgid ""
@@ -6619,7 +6646,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5279
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5281
 msgid ""
@@ -6634,7 +6661,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5291
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5293
 msgid ""
@@ -6649,7 +6676,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5303
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5305
 msgid ""
@@ -6664,7 +6691,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5315
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5317
 msgid ""
@@ -6679,7 +6706,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5327
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5329
 msgid ""
@@ -6694,7 +6721,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5339
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5341
 msgid ""
@@ -6709,7 +6736,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5351
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5353
 msgid ""
@@ -6724,7 +6751,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5363
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5365
 msgid ""
@@ -6739,7 +6766,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5375
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5377
 msgid ""
@@ -6754,7 +6781,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5387
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5389
 msgid ""
@@ -6769,7 +6796,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5399
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5401
 msgid ""
@@ -6784,7 +6811,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5411
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5413
 msgid ""
@@ -6799,7 +6826,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5423
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5425
 msgid ""
@@ -6814,7 +6841,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5435
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5437
 msgid ""
@@ -6829,7 +6856,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5447
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5449
 msgid ""
@@ -6844,7 +6871,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5459
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5461
 msgid ""
@@ -6859,7 +6886,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5471
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5473
 msgid ""
@@ -6874,7 +6901,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5483
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5485
 msgid ""
@@ -6889,7 +6916,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5495
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5497
 msgid ""
@@ -6904,7 +6931,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5507
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5509
 msgid ""
@@ -6919,7 +6946,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5519
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5521
 msgid ""
@@ -6934,7 +6961,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5531
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5533
 msgid ""
@@ -6949,7 +6976,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5543
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5545
 msgid ""
@@ -6964,7 +6991,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5555
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5557
 msgid ""
@@ -6979,7 +7006,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5567
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Получить Модульный ион за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5569
 msgid ""
@@ -6994,7 +7021,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5579
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"POWER_CORE\"]/text"
-msgstr ""
+msgstr "Получить Энергоядро за 14 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5581
 msgid ""
@@ -7009,7 +7036,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5591
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_RECON\"]/text"
-msgstr ""
+msgstr "Получить Проектор [Разведка] за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5593
 msgid ""
@@ -7024,7 +7051,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5603
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_BAIT\"]/text"
-msgstr ""
+msgstr "Получить Проектор [Приманка] за 10 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5605
 msgid ""
@@ -7039,7 +7066,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5615
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HARPOON_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Получить гарпунное орудие \"Оекпииитан\" за 12 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5617
 msgid ""
@@ -7054,7 +7081,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5627
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Пусто] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5629
 msgid ""
@@ -7069,7 +7096,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5639
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BABYORCHID\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Дети] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5641
 msgid ""
@@ -7084,7 +7111,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5651
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ANCIENT\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Обелиск] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5653
 msgid ""
@@ -7099,7 +7126,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5663
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BIRD\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Певчая птичка] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5665
 msgid ""
@@ -7114,7 +7141,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5675
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AVATAR\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Когнитив] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5677
 msgid ""
@@ -7129,7 +7156,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5687
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AUGMENTED\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Возвышенный] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5689
 msgid ""
@@ -7144,7 +7171,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5699
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BISHOP\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Епископ] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5701
 msgid ""
@@ -7159,7 +7186,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5711
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CHIEF\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Вождь] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5713
 msgid ""
@@ -7174,7 +7201,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5723
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CLAN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Клановец] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5725
 msgid ""
@@ -7189,7 +7216,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5735
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_COMMANDO\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Коммандо] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5737
 msgid ""
@@ -7204,7 +7231,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5747
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRUSADER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Крестоносец] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5749
 msgid ""
@@ -7219,7 +7246,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5759
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Кристаллин] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5761
 msgid ""
@@ -7234,7 +7261,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5771
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SSLG\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [ГОСВ] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5773
 msgid ""
@@ -7249,7 +7276,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5783
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CULTIST\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Культист] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5785
 msgid ""
@@ -7264,7 +7291,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5795
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEFEND\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Защитник] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5797
 msgid ""
@@ -7279,7 +7306,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5807
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DUSK\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Вестник Заката] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5809
 msgid ""
@@ -7294,7 +7321,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5819
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGINEER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Инженер] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5821
 msgid ""
@@ -7309,7 +7336,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5831
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGI\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Энджи] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5833
 msgid ""
@@ -7324,7 +7351,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5843
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Фантом] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5845
 msgid ""
@@ -7339,7 +7366,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5855
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM_ALPHA\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Альфа-Фантом] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5857
 msgid ""
@@ -7354,7 +7381,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5867
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Гуль] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5869
 msgid ""
@@ -7369,7 +7396,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5879
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL_ALPHA\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Альфа-Гуль] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5881
 msgid ""
@@ -7384,7 +7411,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5891
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Мар] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5893
 msgid ""
@@ -7399,7 +7426,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5903
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE_ALPHA\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Альфа-Мар] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5905
 msgid ""
@@ -7414,7 +7441,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5915
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Виденье] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5917
 msgid ""
@@ -7429,7 +7456,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5927
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH_ALPHA\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Альфа-Виденье] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5929
 msgid ""
@@ -7444,7 +7471,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5939
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HATCH\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Детеныш] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5941
 msgid ""
@@ -7459,7 +7486,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5951
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HUMAN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Человек] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5953
 msgid ""
@@ -7474,7 +7501,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5963
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LANIUS\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ланиус] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5965
 msgid ""
@@ -7489,7 +7516,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5975
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MANTIS\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Богомол] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5977
 msgid ""
@@ -7504,7 +7531,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5987
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_FREEMANTIS\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Свободный богомол] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:5989
 msgid ""
@@ -7519,7 +7546,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:5999
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MEDIC\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Медик] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6001
 msgid ""
@@ -7534,7 +7561,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6011
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MONK\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Монах] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6013
 msgid ""
@@ -7549,7 +7576,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6023
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ORCHID\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Орхидея] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6025
 msgid ""
@@ -7564,7 +7591,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6035
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_VAMPWEED\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Вампсорняк] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6037
 msgid ""
@@ -7579,7 +7606,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6047
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_OUTCAST\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Изгой] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6049
 msgid ""
@@ -7594,7 +7621,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6059
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PEACE\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Миротворец] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6061
 msgid ""
@@ -7609,7 +7636,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6071
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONY\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Эквиноид] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6073
 msgid ""
@@ -7624,7 +7651,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6083
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONYC\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Кристаллический эквиноид] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6085
 msgid ""
@@ -7639,7 +7666,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6095
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_QUEEN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Королева] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6097
 msgid ""
@@ -7654,7 +7681,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6107
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADIANT\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Лучезарный] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6109
 msgid ""
@@ -7669,7 +7696,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6119
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADICAL\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Мученик] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6121
 msgid ""
@@ -7684,7 +7711,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6131
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEVORAK\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Деворак] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6133
 msgid ""
@@ -7699,7 +7726,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6143
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RANGER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Рейнджер] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6145
 msgid ""
@@ -7714,7 +7741,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6155
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ROCK\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Валун] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6157
 msgid ""
@@ -7729,7 +7756,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6167
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SABO\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Диверсант] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6169
 msgid ""
@@ -7744,7 +7771,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6179
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SENTINEL\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Часовой] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6181
 msgid ""
@@ -7759,7 +7786,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6191
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SEPARATIST\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Сепаратист] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6193
 msgid ""
@@ -7774,7 +7801,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6203
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ракушка] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6205
 msgid ""
@@ -7789,7 +7816,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6215
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MECH\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ракушка-Механик] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6217
 msgid ""
@@ -7804,7 +7831,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6227
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MEDIC\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ракушка-Ученый] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6229
 msgid ""
@@ -7819,7 +7846,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6239
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_GUARDIAN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ракушка-Страж] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6241
 msgid ""
@@ -7834,7 +7861,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6251
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SLUG\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Слизняк] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6253
 msgid ""
@@ -7849,7 +7876,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6263
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HEKTAR\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Гектар] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6265
 msgid ""
@@ -7864,7 +7891,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6275
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SOLDIER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Солдат] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6277
 msgid ""
@@ -7879,7 +7906,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6287
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SPIDER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Паук] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6289
 msgid ""
@@ -7894,7 +7921,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6299
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SUZERAIN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Сюзерен] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6301
 msgid ""
@@ -7909,7 +7936,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6311
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WARLORD\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Полководец] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6313
 msgid ""
@@ -7924,7 +7951,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6323
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SYMBIOTE\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Симбионт] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6325
 msgid ""
@@ -7939,7 +7966,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6335
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WEAVER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ткач] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6337
 msgid ""
@@ -7954,7 +7981,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WELDER\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Сварщик] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6349
 msgid ""
@@ -7969,7 +7996,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6359
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ZOLTAN\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Золтан] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6361
 msgid ""
@@ -7984,7 +8011,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6371
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LEECH\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Пиявка] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6373
 msgid ""
@@ -7999,7 +8026,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6383
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AMPERE\"]/text"
-msgstr ""
+msgstr "Получить Клонопульту [Ампер] за 13 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6385
 msgid ""
@@ -8014,7 +8041,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:6395
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ROYAL_MISSILES\"]/text"
-msgstr ""
+msgstr "Получить Древнюю ракетницу за 20 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:6397
 msgid ""
