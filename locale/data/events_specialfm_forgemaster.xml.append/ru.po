@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 22:07+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-06 13:40+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -8064,7 +8064,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7889
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Модульный корпус (легкий)."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7891
 msgid ""
@@ -8161,7 +8161,7 @@ msgstr "Модуль Герметичные системы [МАКСИМАЛЬН
 #: src-en/data/events_specialfm_forgemaster.xml.append:7991
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[5]/text"
-msgstr "Модуль отталкивания пробоин [30~]"
+msgstr "Модуль Отражения пробоин [30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7997
 msgid ""
@@ -8171,7 +8171,7 @@ msgstr "Модуль Отражение пробоин [МАКСИМАЛЬНО]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8001
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[7]/text"
-msgstr "Модуль отталкивания пожара [50~]"
+msgstr "Модуль Отражения пожара [50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8007
 msgid ""
@@ -8249,6 +8249,11 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_VENGEANCE\"]/text"
 msgstr ""
+"Здесь вы можете увидеть модули мести, которые вы можете установить (вы "
+"можете выбрать опцию и увидеть эффекты перед установкой). Все модули "
+"складываются независимо, и несколько одинаковых модулей увеличивают "
+"количество срабатываний за удар. [Вы можете установить только 5 модулей "
+"мести!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8080
 msgid ""
@@ -8638,92 +8643,92 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8451
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/text"
-msgstr ""
+msgstr "Здесь вы можете выбрать систему, в которую вы хотите установить модули."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8453
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "Оружие."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8459
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "Щиты."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8465
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "Двигатели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8471
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "Медотсек."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8477
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "Клон-отсек."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8483
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"drones\"]/text"
-msgstr ""
+msgstr "Дроны."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8489
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"oxygen\"]/text"
-msgstr ""
+msgstr "Кислородная установка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8495
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "Телепортатор."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8501
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "Маскировка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8507
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"artillery\"]/text"
-msgstr ""
+msgstr "Артиллерия."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8513
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "Взломщик."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8519
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "Контроль разума."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8525
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"temporal\"]/text"
-msgstr ""
+msgstr "Временной манипулятор."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8531
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[14]/text"
-msgstr ""
+msgstr "Рулевая рубка."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8537
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "Сенсоры."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8543
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"doors\"]/text"
-msgstr ""
+msgstr "Двери."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8549
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SYSTEMS\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "Батарея."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8555
 msgid ""
@@ -8733,31 +8738,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8564
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему оружия?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8566
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8568
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Оружие)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8570
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8572
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему оружия!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8579
 msgid ""
@@ -8781,25 +8788,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8601
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Оружие): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8603
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8605
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему оружия!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8612
 msgid ""
@@ -8817,7 +8826,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_WEAPONS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8633
 msgid ""
@@ -8827,31 +8836,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8640
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему щитов?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8642
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8644
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Щиты)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8646
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8648
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему щитов!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8655
 msgid ""
@@ -8875,25 +8886,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8677
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Щиты): [Пока он включен, враги получают "
+"7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8679
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8681
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему щитов!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8688
 msgid ""
@@ -8911,7 +8924,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SHIELDS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8709
 msgid ""
@@ -8921,31 +8934,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8716
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему двигателей?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8718
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8720
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Двигатели)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8722
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8724
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему двигателей!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8731
 msgid ""
@@ -8969,25 +8984,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8753
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Двигатели): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8755
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8757
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему двигателей!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8764
 msgid ""
@@ -9005,7 +9022,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ENGINES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8785
 msgid ""
@@ -9015,31 +9032,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8792
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в медицинскую систему (Медотсек/Клон-отсек)?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8794
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8796
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Медицина)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8798
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8800
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в ваш медицинский отсек!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8807
 msgid ""
@@ -9063,25 +9082,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8829
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Медицина): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8831
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8833
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в ваш медицинский отсек!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8840
 msgid ""
@@ -9099,7 +9120,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8861
 msgid ""
@@ -9109,31 +9130,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8868
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему дронов?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8870
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8872
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Дроны)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8874
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8876
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему дронов!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8883
 msgid ""
@@ -9157,25 +9180,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8905
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Дроны): [Пока он включен, враги получают "
+"7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8907
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8909
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему дронов!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8916
 msgid ""
@@ -9193,7 +9218,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DRONES\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8937
 msgid ""
@@ -9203,31 +9228,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в кислородную установку?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8946
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8948
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Кислородная установка)? [+40% скорости "
+"ремонта, на 40% меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8950
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8952
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу кислородную установку!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8959
 msgid ""
@@ -9251,25 +9278,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8981
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Кислородная установка): [Пока он "
+"включен, враги получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8983
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8985
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу кислородню установку!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8992
 msgid ""
@@ -9287,7 +9316,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_OXYGEN\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9013
 msgid ""
@@ -9297,31 +9326,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9020
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему телепортера?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9022
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Телепортер)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9026
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему телепортера!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9035
 msgid ""
@@ -9345,25 +9376,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9057
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Телепортер): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9059
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9061
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему телепортера!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9068
 msgid ""
@@ -9381,7 +9414,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TELEPORTER\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9089
 msgid ""
@@ -9391,31 +9424,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9096
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему маскировки?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9098
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9100
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Маскирвока)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9102
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9104
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему маскировки!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9111
 msgid ""
@@ -9439,25 +9474,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9133
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Маскировка): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9135
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9137
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему маскировки!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9144
 msgid ""
@@ -9475,31 +9512,33 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9164
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9166
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Маскировка)? [На 5 секунд быстрее "
+"перезарядка системы, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9168
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить Модуль перезарядки системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9170
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Модуль перезарядки системы был установлен в вашу систему Маскировки!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9176
 msgid ""
@@ -9517,7 +9556,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_CLOAKING\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9196
 msgid ""
@@ -9527,31 +9566,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9203
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему артиллерии?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9205
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9207
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Артиллерия)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9209
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9211
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему артиллерии!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9218
 msgid ""
@@ -9575,25 +9616,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9240
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Артиллерия): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9242
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9244
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему артиллерии!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9251
 msgid ""
@@ -9611,7 +9654,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_ARTILLERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9272
 msgid ""
@@ -9621,31 +9664,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9279
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему взломщика?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9281
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9283
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Взломщик)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9285
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9287
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему взломщика!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9294
 msgid ""
@@ -9669,25 +9714,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9316
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Взломщик): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9318
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9320
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу систему взломщика!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9327
 msgid ""
@@ -9705,31 +9752,33 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9347
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9349
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Взломщик)? [На 5 секунд быстрее "
+"перезарядка системы, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9351
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить Модуль перезарядки системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9353
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Модуль перезарядки системы был установлен в вашу систему Взломщика!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9359
 msgid ""
@@ -9747,7 +9796,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_HACKING\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9379
 msgid ""
@@ -9757,31 +9806,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9386
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему контроля разума?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9388
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9390
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Контроль разума)? [+40% скорости ремонта, на "
+"40% меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9392
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9394
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу систему контроля разума!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9401
 msgid ""
@@ -9805,25 +9856,28 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9423
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Контроль разума): [Пока он включен, "
+"враги получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9425
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Интеграция микротурелей была установлена в вашу систему контроля разума!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9434
 msgid ""
@@ -9841,31 +9895,34 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9454
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9456
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Контроль разума)? [На 5 секунд быстрее "
+"перезарядка системы, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9458
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить Модуль перезарядки системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9460
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Модуль перезарядки системы был установлен в вашу систему Контроля разума!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9466
 msgid ""
@@ -9883,7 +9940,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_MIND\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9486
 msgid ""
@@ -9893,31 +9950,34 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9493
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в систему временного манипулятора?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9495
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9497
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Временной манипулятор)? [+40% скорости "
+"ремонта, на 40% меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9499
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9501
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Улучшение системы было установлено в вашу систему временного манипулятора!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9508
 msgid ""
@@ -9941,25 +10001,29 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9530
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Временной манипулятор): [Пока он "
+"включен, враги получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9532
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9534
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Интеграция микротурелей была установлена в вашу систему временного "
+"манипулятора!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9541
 msgid ""
@@ -9977,31 +10041,35 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9561
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9563
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Временной манипулятор)? [На 5 секунд "
+"быстрее перезарядка системы, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9565
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить Модуль перезарядки системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9567
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Модуль перезарядки системы был установлен в вашу систему Временного "
+"манипулятора!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9573
 msgid ""
@@ -10019,7 +10087,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_TEMPORAL\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль перезарядки системы[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9593
 msgid ""
@@ -10029,31 +10097,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9600
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в подсистему Рулевой рубки?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9602
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9604
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Рулевая рубка)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9606
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9608
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу подсистему Рулевой рубки!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9615
 msgid ""
@@ -10077,25 +10147,28 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9637
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Рулевая рубка): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9639
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9641
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Интеграция микротурелей была установлена в вашу подсистему рулевой рубки!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9648
 msgid ""
@@ -10113,7 +10186,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_PILOT\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9669
 msgid ""
@@ -10123,31 +10196,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9676
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в подсистему сенсоров?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9678
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9680
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Сенсоры)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9682
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9684
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу подсистему сенсоров!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9691
 msgid ""
@@ -10171,25 +10246,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9713
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Сенсоры): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9715
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9717
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу подсистему сенсоров!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9724
 msgid ""
@@ -10207,7 +10284,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_SENSORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9745
 msgid ""
@@ -10217,31 +10294,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9752
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в подсистему дверей?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9754
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9756
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Двери)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9758
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9760
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу подсистему дверей!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9767
 msgid ""
@@ -10265,25 +10344,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9789
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Дроны): [Пока он включен, враги получают "
+"7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9791
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9793
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу подсистему дверей!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9800
 msgid ""
@@ -10301,7 +10382,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_DOORS\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9821
 msgid ""
@@ -10311,31 +10392,33 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:9828
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/text"
-msgstr ""
+msgstr "Что вы хотите установить в подсистему батареи?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9830
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль улучшения системы[40~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9832
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить улучшение системы (Батарея)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9834
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить улучшение системы."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9836
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Улучшение системы было установлено в вашу подсистему батареи!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9843
 msgid ""
@@ -10359,25 +10442,27 @@ msgstr "Модуль улучшение системы [Максимально]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей[45~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9865
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Установить Интеграцию микротурелей (Батарея): [Пока он включен, враги "
+"получают 7 ОЗ/с урона в этом отсеке, используется 1 ячейка]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9867
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Установить турели."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9869
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Интеграция микротурелей была установлена в вашу подсистему бетареи!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9876
 msgid ""
@@ -10395,7 +10480,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_SYSTEM_BATTERY\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Модуль Интеграция микротурелей[МАКСИМАЛЬНО]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9897
 msgid ""
@@ -10415,193 +10500,193 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"0\"]/text"
-msgstr "Соляной корпус [150~]"
+msgstr "Ключевое улучшение Соляной корпус [150~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9914
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"1\"]/text"
-msgstr "Соляной корпус [Установлен]"
+msgstr "Ключевое улучшение Соляной корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"0\"]/text"
-msgstr "Устаревший реактор Вестников Заката [110~]"
+msgstr "Ключевое улучшение Устаревший реактор Вестников Заката [110~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9924
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"1\"]/text"
-msgstr "Устаревший реактор Вестников Заката [Установлено]"
+msgstr "Ключевое улучшение Устаревший реактор Вестников Заката [Установлено]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9928
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"0\"]/text"
-msgstr "Фрески для корпуса [85~]"
+msgstr "Ключевое улучшение Фрески для корпуса [85~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9934
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"1\"]/text"
-msgstr "Фрески для корпуса [Нарисованы]"
+msgstr "Ключевое улучшение Фрески для корпуса [Нарисованы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"0\"]/text"
-msgstr "Обходной коллектор компрессора [80~]"
+msgstr "Ключевое улучшение Обходной коллектор компрессора [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"1\"]/text"
-msgstr "Обходной коллектор компрессора [Установлен]"
+msgstr "Ключевое улучшение Обходной коллектор компрессора [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9948
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Щиты с частицами [100~]"
+msgstr "Ключевое улучшение Щиты с частицами [100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9954
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Щиты с частицами [Установлены]"
+msgstr "Ключевое улучшение Щиты с частицами [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9958
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr "Матрицы восходящей связи оружия [95~]"
+msgstr "Ключевое улучшение Матрицы восходящей связи оружия [95~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9964
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr "Матрицы восходящей связи оружия [Установлены]"
+msgstr "Ключевое улучшение Матрицы восходящей связи оружия [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9968
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"0\"]/text"
-msgstr "Совершенная бортовая эффективность [140~]"
+msgstr "Ключевое улучшение Совершенная бортовая эффективность [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9974
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"1\"]/text"
-msgstr "Совершенная бортовая эффективность [Установлена]"
+msgstr "Ключевое улучшение Совершенная бортовая эффективность [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9978
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"0\"]/text"
-msgstr "Бесконечный цикло-барьер [80~] (Перебалансирован!)"
+msgstr "Ключевое улучшение Бесконечный цикло-барьер [80~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9984
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"1\"]/text"
-msgstr "Бесконечный цикло-барьер [Установлен]"
+msgstr "Ключевое улучшение Бесконечный цикло-барьер [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9988
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"0\"]/text"
-msgstr "Бесконечный цикло-арсенал [120~] (Перебалансирован!)"
+msgstr "Ключевое улучшение Бесконечный цикло-арсенал [120~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9994
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"1\"]/text"
-msgstr "Бесконечный цикло-арсенал [Установлен]"
+msgstr "Ключевое улучшение Бесконечный цикло-арсенал [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9998
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"0\"]/text"
-msgstr "Аура метаплазматической коррозии [105~] (Понерфлен)"
+msgstr "Ключевое улучшение Аура метаплазматической коррозии [105~] (Понерфлен)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10004
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"1\"]/text"
-msgstr "Аура метаплазматической коррозии [Установлена]"
+msgstr "Ключевое улучшение Аура метаплазматической коррозии [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10008
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"0\"]/text"
-msgstr "Электромагнитный корпус [100~] (Перебалансирован!)"
+msgstr "Ключевое улучшение Электромагнитный корпус [100~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10014
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"1\"]/text"
-msgstr "Электромагнитный корпус [Установлен]"
+msgstr "Ключевое улучшение Электромагнитный корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10018
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"0\"]/text"
-msgstr "Калибратор невыразимых орденов [100~] (Новинка!)"
+msgstr "Ключевое улучшение Невероятный калибратор боеприпасов [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"1\"]/text"
-msgstr "Калибратор невыразимых орденов [Установлен]"
+msgstr "Ключевое улучшение Невероятный калибратор боеприпасов [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"0\"]/text"
-msgstr "Поджигатель оружия [100~] (Новинка!)"
+msgstr "Ключевое улучшение Поджигатель оружия [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10034
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"1\"]/text"
-msgstr "Поджигатель оружия [Установлен]"
+msgstr "Ключевое улучшение Поджигатель оружия [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10038
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Нарушающий генератор помех [100~] (Новинка!)"
+msgstr "Ключевое улучшение Нарушающий генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10044
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Нарушающий генератор помех [Установлен]"
+msgstr "Ключевое улучшение Нарушающий генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10048
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Защитный генератор помех [100~] (Новинка!)"
+msgstr "Ключевое улучшение Защитный генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10054
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Защитный генератор помех [Установлен]"
+msgstr "Ключевое улучшение Защитный генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10058
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"0\"]/text"
-msgstr "Фазовые частоты лучей [100~] (Новинка!)"
+msgstr "Ключевое улучшение Фазовые частоты лучей [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10064
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"1\"]/text"
-msgstr "Фазовые частоты лучей [Установлены]"
+msgstr "Ключевое улучшение Фазовые частоты лучей [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10069
 msgid ""
@@ -10843,24 +10928,29 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTWEAPON\"]/text"
 msgstr ""
+"Установить Бесконечный цикло-арсенал? [На 5% более быстрая перезарядка "
+"оружия, затем добавляется +15% за каждую неиспользованную единицу энергии "
+"системы оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10295
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTWEAPON\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Вы не можете установить Модуль бесконечный цикло-арсенал, вам нужна система "
+"оружия, из которой вы будете получать энергию."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10299
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTWEAPON\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Установить Бесконечный цикло-арсенал."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10301
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTWEAPON\"]/choice[@req=\"weapons\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Модуль бесконечный цикло-арсенал установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10308
 msgid ""
@@ -10877,16 +10967,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_CREWKILL\"]/text"
 msgstr ""
+"Установить Ауру метаплазматической коррозии? [Вражеский экипаж получает 1.5х "
+"урона от всего, но только 50% в бою]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10325
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_CREWKILL\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Ауру метаплазматической коррозии."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10327
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_CREWKILL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Аура метаплазматической коррозии установлена!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10334
 msgid ""
@@ -10902,16 +10994,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MAGNETIC\"]/text"
 msgstr ""
+"Установить Электромагнитный корпус [+30% ионный ресурс, +50% скорость "
+"деионизации, +10% системный ресурс, +10% лома, эффект магнитного крана, -3 "
+"реактор]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10351
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MAGNETIC\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Электромагнитный корпус."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10353
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MAGNETIC\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Электромагнитный корпус установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10360
 msgid ""
@@ -10927,16 +11022,19 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_RESISTSMASH\"]/text"
 msgstr ""
+"Установить Невероятный калибратор боеприпасов? [+30% ионный ресурс, +50% "
+"скорость деионизации, +10% системный ресурс, +10% лома, эффект магнитного "
+"крана, -3 реактор]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10377
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_RESISTSMASH\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Невероятный калибратор боеприпасов."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10379
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_RESISTSMASH\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Невероятный калибратор боеприпасов установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10385
 msgid ""
@@ -10952,16 +11050,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_WEAPON_IGNITE\"]/text"
 msgstr ""
+"Установить Поджигатель оружия? [Ускоряет на 50% перезарядку, стрельба из "
+"оружия воспламеняет вашу оружейную систему]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10402
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_WEAPON_IGNITE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Поджигатель оружия."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10404
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_WEAPON_IGNITE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Поджигатель оружия установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10410
 msgid ""
@@ -10977,16 +11077,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_OFFENSE_SCRAMBLE\"]/text"
 msgstr ""
+"Установить Нарушающий генератор помех? [На 20% уменьшает скорость "
+"перезарядки оружия противника и на 30% перезарядки щита]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_OFFENSE_SCRAMBLE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Нарушающий генератор помех."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10429
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_OFFENSE_SCRAMBLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Нарушающий генератор помех установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10435
 msgid ""
@@ -11002,16 +11104,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DEFENSE_SCRAMBLE\"]/text"
 msgstr ""
+"Установить Защитный генератор помех? [На 20% уменьшает скорость перезарядки "
+"щита противника, на 5с замедляет перезарядку маскировки противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10452
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DEFENSE_SCRAMBLE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Защитный генератор помех."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10454
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_DEFENSE_SCRAMBLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Защитный генератор помех установлен!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10460
 msgid ""
@@ -11024,19 +11128,22 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10475
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_BEAM_PIERCE\"]/text"
 msgstr ""
+"Установить Фазовые частоты лучей? [На 10% увеличивает скорость перезарядки, +"
+"1 пробитие щита к лучевому оружию (и лучевым дронам)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10477
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_BEAM_PIERCE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить Фазовые частоты лучей."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10479
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_BEAM_PIERCE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Фазовые частоты лучей установлены!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10485
 msgid ""
@@ -11052,6 +11159,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/text"
 msgstr ""
+"Здесь вы можете увидеть, какие Модули/Ключевые улучшения у вас установлены."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10504
 msgid ""
@@ -11118,41 +11226,59 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\"]/text"
 msgstr ""
+"Бесконечный цикло-арсенал [На 5% более быстрая перезарядка оружия, затем "
+"добавляется +15% за каждую неиспользованную единицу энергии системы оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10547
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\"]/text"
 msgstr ""
+"Аура метаплазматической коррозии [Вражеский экипаж получает 1.5х урона от "
+"всего, но только 50% в бою]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10551
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\"]/text"
 msgstr ""
+"Электромагнитный корпус [+30% ионный ресурс, +50% скорость деионизации, +10% "
+"системный ресурс, +10% лома, эффект магнитного крана, -3 реактор]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10555
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\"]/text"
 msgstr ""
+"Невероятный калибратор боеприпасов [+30% ионный ресурс, +50% скорость "
+"деионизации, +10% системный ресурс, +10% лома, эффект магнитного крана, -3 "
+"реактор]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10559
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\"]/text"
 msgstr ""
+"Поджигатель оружия [Ускоряет на 50% перезарядку, стрельба из оружия "
+"воспламеняет вашу оружейную систему]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10563
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/text"
 msgstr ""
+"Нарушающий генератор помех [На 20% уменьшает скорость перезарядки оружия "
+"противника и на 30% перезарядки щита]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10567
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\"]/text"
 msgstr ""
+"Защитный генератор помех [На 20% уменьшает скорость перезарядки щита "
+"противника, на 5с замедляет перезарядку маскировки противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10571
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\"]/text"
 msgstr ""
+"Фазовые частоты лучей [На 10% увеличивает скорость перезарядки, +1 пробитие "
+"щита к лучевому оружию (и лучевым дронам)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10577
 msgid ""
@@ -12211,181 +12337,226 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\"]/text"
 msgstr ""
+"Установить улучшение системы (Оружие)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11174
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\"]/text"
 msgstr ""
+"Установить улучшение системы (Щиты)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11178
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\"]/text"
 msgstr ""
+"Установить улучшение системы (Двигатели)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11182
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\"]/text"
 msgstr ""
+"Установить улучшение системы (Медицина)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11186
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\"]/text"
 msgstr ""
+"Установить улучшение системы (Дроны)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11190
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\"]/text"
 msgstr ""
+"Установить улучшение системы (Кислородная установка)? [+40% скорости "
+"ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11194
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\"]/text"
 msgstr ""
+"Установить улучшение системы (Телепортер)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11198
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\"]/text"
 msgstr ""
+"Установить улучшение системы (Маскировка)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11202
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\"]/text"
 msgstr ""
+"Установить улучшение системы (Артиллерия)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11206
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\"]/text"
 msgstr ""
+"Установить улучшение системы (Взломщик)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11210
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\"]/text"
 msgstr ""
+"Установить улучшение системы (Контроль разума)? [+40% скорости ремонта, на "
+"40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11214
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\"]/text"
 msgstr ""
+"Установить улучшение системы (Временной манипулятор)? [+40% скорости "
+"ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11218
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\"]/text"
 msgstr ""
+"Установить улучшение системы (Рулевая рубка)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11222
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\"]/text"
 msgstr ""
+"Установить улучшение системы (Сенсоры)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11226
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\"]/text"
 msgstr ""
+"Установить улучшение системы (Двери)? [+40% скорости ремонта, на 40% меньше "
+"урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11230
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\"]/text"
 msgstr ""
+"Установить улучшение системы (Батарея)? [+40% скорости ремонта, на 40% "
+"меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11235
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_WEAPONS\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Оружие) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11239
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SHIELDS\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Щиты) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11243
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ENGINES\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Двигатели) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11247
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MED\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Медицина) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11251
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DRONES\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Дроны) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11255
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_OXYGEN\"]/text"
 msgstr ""
+"Модуль Интеграции микротурелей (Кислородная установка) [7 ОЗ/с урона в "
+"системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11259
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TELEPORTER\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Телепортер) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11263
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_CLOAKING\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Маскировка) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11267
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_ARTILLERY\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Артиллерия) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11271
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_HACKING\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Взломщик) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11275
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_MIND\"]/text"
 msgstr ""
+"Модуль Интеграции микротурелей (Контроль разума) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11279
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_TEMPORAL\"]/text"
 msgstr ""
+"Модуль Интеграции микротурелей (Временной манипулятор) [7 ОЗ/с урона в "
+"системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11283
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_PILOT\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Рулевая рубка) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11287
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_SENSORS\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Сенсоры) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11291
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_DOORS\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Двери) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11295
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TURRET_BATTERY\"]/text"
-msgstr ""
+msgstr "Модуль Интеграции микротурелей (Батарея) [7 ОЗ/с урона в системе]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11300
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\"]/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Маскировка)? [На 5 секунд быстрее "
+"перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11304
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\"]/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Взломщик)? [На 5 секунд быстрее "
+"перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11308
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\"]/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Контроль разума)? [На 5 секунд быстрее "
+"перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11312
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\"]/text"
 msgstr ""
+"Установить Модуль перезарядки системы(Временной манипулятор)? [На 5 секунд "
+"быстрее перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11335
 msgid ""
