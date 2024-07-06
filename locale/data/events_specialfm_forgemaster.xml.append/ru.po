@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-06 13:40+0000\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -1316,10 +1316,9 @@ msgid ""
 msgstr "Ознакомиться с его богатой коллекцией реликвий и диковинок."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1106
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[6]/text"
-msgstr "Изменил точку зрения. Атаковать!"
+msgstr "Передумать. Атаковать!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1111
 msgid ""
@@ -1396,10 +1395,9 @@ msgid ""
 msgstr "По пути заглянуть в раздел \"Модульный корпус\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1172
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[4]/text"
-msgstr "Изменил точку зрения. Атаковать!"
+msgstr "Передумать. Атаковать!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1177
 msgid ""
@@ -2103,8 +2101,8 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Для его создания нужен луч \"Рунка\" плюс базовая Ионная пушка или Залповый "
-"ион мод. I."
+"Для его создания нужен луч \"Рунка\" плюс базовый Ионный бластер или "
+"Залповый ион мод. I."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1811
 msgid ""
@@ -2484,8 +2482,8 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Чтобы выковать это орудие, у вас должны быть ракетница \"Гермес\" и Ионная "
-"пушка мод. II."
+"Чтобы выковать это орудие, у вас должны быть ракетница \"Гермес\" и Ионный "
+"бластер мод. II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2079
 msgid ""
@@ -8009,6 +8007,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7846
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/text"
 msgstr ""
@@ -8054,6 +8053,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7887
+#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/text"
 msgstr ""
