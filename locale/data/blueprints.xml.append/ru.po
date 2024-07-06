@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 22:07+0000\n"
+"PO-Revision-Date: 2024-07-06 13:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -9015,7 +9015,7 @@ msgstr "Авторемонт медотсека"
 #: src-en/data/blueprints.xml.append:17848
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MEDICAL\"]/desc"
-msgstr "Этот модуль автоматически ремонтирует медотсек."
+msgstr "Этот модуль автоматически ремонтирует медицинский отсек."
 
 #: src-en/data/blueprints.xml.append:17856
 msgid ""
@@ -10997,7 +10997,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19383
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESISTSMASH\"]/title"
-msgstr "Калибратор невыразимых орденов"
+msgstr "Невероятный калибратор боеприпасов"
 
 #: src-en/data/blueprints.xml.append:19384
 #, fuzzy
