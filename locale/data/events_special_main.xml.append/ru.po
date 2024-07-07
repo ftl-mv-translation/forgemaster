@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-22 11:42+0000\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mainxmlappend/ru/>\n"
@@ -14,10 +14,9 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_main.xml.append:32
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_RAGE_TWISTEDMONK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "Причитающийся вам долг."
+msgstr "Ваш долг."
 
 #: src-en/data/events_special_main.xml.append:44
 msgid ""
