@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1500,22 +1500,20 @@ msgstr ""
 "четырех Автопушек 1с."
 
 #: src-en/data/events_special_storage.xml.append:1445
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА + CNC] Объединить две Автопушки 2с и 5 боеголовок, чтобы "
+"[GO BALLISTIC + CNC] Объединить две Автопушки 2с и V5 боеголовок, чтобы "
 "выковать пушку \"Мамонт\"."
 
 #: src-en/data/events_special_storage.xml.append:1450
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА + CNC] Чтобы выковать это орудие, у вас должно быть две "
-"Автопушки 2с и 5 боеголовок."
+"[GO BALLISTIC + CNC] Чтобы выковать это орудие, у вас должно быть две "
+"Автопушки 2с и V5 боеголовок."
 
 #: src-en/data/events_special_storage.xml.append:1456
 msgid ""
