@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1373,10 +1373,9 @@ msgid ""
 msgstr ": - Ионнизированные отсеки наносят 3 ионных урона каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2742
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[2]"
-msgstr ": - Получить 100 ОЗ, но нанести только 75% урона."
+msgstr ": - Имеет 100 ОЗ, но получает только 75% урона."
 
 #: src-en/data/blueprints.xml.append:2754
 #, fuzzy
@@ -1416,16 +1415,14 @@ msgid ""
 msgstr "75 здоровья, получает 0.5x урона от опасностей."
 
 #: src-en/data/blueprints.xml.append:2780
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[2]"
-msgstr "Получает 1.25x урона в бою, а враг получает дополнительно 2 ОЗ/с урона."
+msgstr "Наносит 1.25x урона в бою, и выбранный враг теряет 2 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:2781
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[3]"
-msgstr "Наносит 0.75x урона в бою и ремонтирует со скоростью 1.75x."
+msgstr "Получает 0.75x урона в бою и ремонтирует со скоростью 1.75x."
 
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
@@ -10976,10 +10973,11 @@ msgid ""
 msgstr "Аура метаплазматической коррозии"
 
 #: src-en/data/blueprints.xml.append:19368
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CREWKILL\"]/desc"
-msgstr "Вражеский экипаж получает 1.5х урона, но только 50% боевого урона."
+msgstr ""
+"Вражеский экипаж получает 1.5х урона от ВСЕГО, но урон в бою уменьшается до "
+"50%."
 
 #: src-en/data/blueprints.xml.append:19375
 msgid ""
@@ -11028,7 +11026,7 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/desc"
 msgstr ""
 "-20% скорости перезарядки противника, -20% перезарядки щита, +5с перезарядки "
-"маскировки, +5с перезарядки взломщика."
+"для маскировки, +5с перезарядки для взломщика."
 
 #: src-en/data/blueprints.xml.append:19407
 msgid ""
@@ -11047,11 +11045,11 @@ msgid ""
 msgstr "Фазовые частоты лучей"
 
 #: src-en/data/blueprints.xml.append:19416
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_BEAM_PIERCE\"]/desc"
 msgstr ""
-"-10% к перезарядке, пробивает +1 щит лучевым оружием/пронзающими дронами"
+"-10% к перезарядке орудий, +1 проникновение сквозь щит лучевым оружием и "
+"дронам"
 
 #: src-en/data/blueprints.xml.append:19425
 msgid ""
