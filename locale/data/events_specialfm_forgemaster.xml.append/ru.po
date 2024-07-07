@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -11128,12 +11128,11 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10475
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_BEAM_PIERCE\"]/text"
 msgstr ""
-"Установить Фазовые частоты лучей? [На 10% увеличивает скорость перезарядки, +"
-"1 пробитие щита к лучевому оружию (и лучевым дронам)]"
+"Установить Фазовые частоты лучей? [На 10% увеличивает скорость перезарядки "
+"орудий, +1 проникновение сквозь щит к лучевым орудиям и дронам]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10477
 msgid ""
@@ -11273,12 +11272,11 @@ msgstr ""
 "противника, на 5с замедляет перезарядку маскировки противника]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10571
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\"]/text"
 msgstr ""
-"Фазовые частоты лучей [На 10% увеличивает скорость перезарядки, +1 пробитие "
-"щита к лучевому оружию (и лучевым дронам)]"
+"Фазовые частоты лучей [На 10% увеличивает скорость перезарядки орудий, +1 "
+"проникновение сквозь щит к лучевым орудиям и дронам]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10577
 msgid ""
@@ -12820,8 +12818,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM_COMPLETED_RESCUE\"]/text"
 msgstr ""
-"\"Мальчик, что это? Ты спас Винчестера? Мальчик, ты в порядке в моей "
-"системе. Я запомню это, теперь я у тебя в долгу!\""
+"\"Мальчик, ну как? Ты спас Винчестера? Мальчик, ты в порядке в моей системе. "
+"Я запомню это, теперь я у тебя в долгу!\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11501
 msgid ""
