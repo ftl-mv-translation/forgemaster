@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-06 13:40+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-07 13:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -1131,10 +1131,9 @@ msgid ""
 msgstr "ПУСТОТА"
 
 #: src-en/data/hyperspace.xml.append:5678
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
-msgstr "Готов: Породить случайный кристалл"
+msgstr "Готов: Порождает случайный кристалл"
 
 #: src-en/data/hyperspace.xml.append:5776
 msgid ""
@@ -1241,9 +1240,9 @@ msgstr "ЭПИДЕМИЯ"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/tooltip"
 msgstr ""
-"Автоматически: Распространяет вирус, используя свою биомассу и ближайших "
-"мясных существ, вызывает постоянное повреждение с течением времени у себя и "
-"других мясных существ."
+"Автоматический: Распространяет вирус, используя свою биомассу и ближайших "
+"мясных существ, вызывает урон с течением времени у себя и других мясных "
+"существ."
 
 #: src-en/data/hyperspace.xml.append:8499
 msgid ""
