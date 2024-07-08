@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-09 09:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -988,7 +988,7 @@ msgstr "ПЕРЕКОВКА"
 #: src-en/data/hyperspace.xml.append:4927
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
 msgstr ""
-"Готов: Ремонтирует 4 единиц систем и 1 единицу корпуса. Исцеляет себе 20 ОЗ. "
+"Готов: Ремонтирует 4 единиц систем и 1 единицу корпуса. Исцеляется на 20 ОЗ. "
 "Не получает урона во время действия способности."
 
 #: src-en/data/hyperspace.xml.append:4979
