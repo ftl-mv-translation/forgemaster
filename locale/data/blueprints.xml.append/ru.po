@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-09 09:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -718,7 +718,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[4]"
 msgstr ""
 "Активная способность: Ремонтирует 2 единицы корпуса, 10 единиц систем в "
-"текущем отсеке, исцеляет себе 100 ОЗ. Разжигает пожар. Один раз за прыжок."
+"текущем отсеке, исцеляется на 100 ОЗ. Разжигает пожар. Один раз за прыжок."
 
 #: src-en/data/blueprints.xml.append:2417
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/desc"
@@ -758,7 +758,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[4]"
 msgstr ""
 "Активная способность: Ремонтирует 1 единицу корпуса и 4 единиц систем в "
-"текущем отсеке. Исцеляет себе 20 ОЗ. Восстанавливает заряд при прыжке."
+"текущем отсеке. Исцеляется на 20 ОЗ. Восстанавливает заряд при прыжке."
 
 #: src-en/data/blueprints.xml.append:2432
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/desc"
@@ -800,7 +800,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[4]"
 msgstr ""
 "Активная способность: Наносит врагам урон 15 ОЗ, а себе дает ряд усилений в "
-"течение 15 секунд. Делает отсек невосприимчивой к урону системам на 15 "
+"течение 15 секунд. Делает отсек невосприимчивым к системному урону на 15 "
 "секунд."
 
 #: src-en/data/blueprints.xml.append:2447
@@ -886,7 +886,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/powerList/power[2]"
-msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
+msgstr "165 здоровья, неподвижен. Исцеляется на 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2488
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/desc"
@@ -910,7 +910,7 @@ msgstr "Оглушает врагов и наносит 1 ионный урон 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/powerList/power[2]"
-msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
+msgstr "165 здоровья, неподвижен. Исцеляется на 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
@@ -935,7 +935,7 @@ msgstr "Открывает пробоины и наносит 30 урона эк
 #: src-en/data/blueprints.xml.append:2510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/powerList/power[2]"
-msgstr "165 здоровья, неподвижен. Исцеляет себе 10 здоровья каждые 7 секунд."
+msgstr "165 здоровья, неподвижен. Исцеляется на 10 здоровья каждые 7 секунд."
 
 #: src-en/data/blueprints.xml.append:2516
 msgid ""
@@ -962,7 +962,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/powerList/power[2]"
-msgstr "200 здоровья, неподвижен. Исцеляет себе 20 здоровья каждые 13 секунд."
+msgstr "200 здоровья, неподвижен. Исцеляется на 20 здоровья каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2530
 msgid ""
@@ -987,7 +987,7 @@ msgstr "Воспроизводит кристаллы из черной мате
 #: src-en/data/blueprints.xml.append:2538
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/powerList/power[2]"
-msgstr "270 здоровья, неподвижен. Исцеляет себе 20 здоровья каждые 12 секунд."
+msgstr "270 здоровья, неподвижен. Исцеляется на 20 здоровья каждые 12 секунд."
 
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
@@ -8946,7 +8946,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:17793
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"INSTANT_SYSTEMS\"]/title"
-msgstr "Максимальный ускоритель системы"
+msgstr "Макс. ускор. системы"
 
 #: src-en/data/blueprints.xml.append:17794
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"INSTANT_SYSTEMS\"]/desc"
@@ -8977,7 +8977,7 @@ msgstr "Этот модуль автоматически ремонтирует 
 #: src-en/data/blueprints.xml.append:17820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_OXYGEN\"]/title"
-msgstr "Авторемонт кислородной установки"
+msgstr "Авторемонт кислорода"
 
 #: src-en/data/blueprints.xml.append:17821
 msgid ""
@@ -9017,7 +9017,7 @@ msgstr "Этот модуль автоматически ремонтирует 
 #: src-en/data/blueprints.xml.append:17856
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_PILOT\"]/title"
-msgstr "Авторемонт рулевой рубки"
+msgstr "Авторем. рулевой рубки"
 
 #: src-en/data/blueprints.xml.append:17857
 msgid ""
@@ -9047,7 +9047,7 @@ msgstr "Этот модуль автоматически ремонтирует 
 #: src-en/data/blueprints.xml.append:17883
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TELEPORTER\"]/title"
-msgstr "Авторемонт телепортатора"
+msgstr "Авторемонт телепорта"
 
 #: src-en/data/blueprints.xml.append:17884
 msgid ""
@@ -9087,7 +9087,7 @@ msgstr "Этот модуль автоматически ремонтирует 
 #: src-en/data/blueprints.xml.append:17919
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_MIND\"]/title"
-msgstr "Авторемонт контроля разума"
+msgstr "Авторемонт контр. разума"
 
 #: src-en/data/blueprints.xml.append:17920
 msgid ""
@@ -9107,7 +9107,7 @@ msgstr "Этот модуль автоматически ремонтирует 
 #: src-en/data/blueprints.xml.append:17937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_AUTOREPAIR_TEMPORAL\"]/title"
-msgstr "Авторемонт временного манипулятора"
+msgstr "Авторемонт врем. манипул."
 
 #: src-en/data/blueprints.xml.append:17938
 msgid ""
@@ -9340,7 +9340,7 @@ msgstr "Теряют иммунитет к огню, полают иммунит
 
 #: src-en/data/blueprints.xml.append:18135
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/title"
-msgstr "Газообразные стимуляторы."
+msgstr "Газообразные стимулят."
 
 #: src-en/data/blueprints.xml.append:18136
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/desc"
@@ -9359,7 +9359,7 @@ msgstr "Улучшение - дает всем лучевым орудиям +1 
 
 #: src-en/data/blueprints.xml.append:18152
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EX_BEAM_PIERCE\"]/title"
-msgstr "Фазовые частоты лучей [В]"
+msgstr "Фазовые част. лучей [В]"
 
 #: src-en/data/blueprints.xml.append:18153
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EX_BEAM_PIERCE\"]/desc"
@@ -9389,7 +9389,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AGGRESSIVE_GHOST_SPLITTER\"]/title"
-msgstr "АГРЕССИВНЫЙ быстрый делитель (TM)"
+msgstr "АГРЕС. быстр. делитель TM"
 
 #: src-en/data/blueprints.xml.append:18173
 msgid ""
@@ -9509,7 +9509,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18256
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_CRYSTAL_ARMOR_50\"]/title"
-msgstr "Искаженная осколочная броня"
+msgstr "Искажен. оскол. броня"
 
 #: src-en/data/blueprints.xml.append:18257
 msgid ""
@@ -9522,7 +9522,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18265
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_TWISTED_CRYSTAL_ARMOR_50\"]/title"
-msgstr "Искаженная осколочная броня"
+msgstr "Искажен. оскол. броня"
 
 #: src-en/data/blueprints.xml.append:18266
 msgid ""
@@ -9548,7 +9548,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18282
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_WEAPONS_REPLICATOR_2\"]/title"
-msgstr "Искаженный изготовитель боеприпасов"
+msgstr "Искажен. изгот. боеприп."
 
 #: src-en/data/blueprints.xml.append:18283
 msgid ""
@@ -9599,7 +9599,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18322
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FIRE_HEART\"]/title"
-msgstr "Металлическое огненное сердце"
+msgstr "Металл. огненное сердце"
 
 #: src-en/data/blueprints.xml.append:18323
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FIRE_HEART\"]/desc"
@@ -10222,7 +10222,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18788
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_WEAPONS_REPLICATOR_2\"]/title"
-msgstr "Искаженный изготовитель боеприпасов"
+msgstr "Искажен. изгот. боеприп."
 
 #: src-en/data/blueprints.xml.append:18789
 msgid ""
@@ -10241,7 +10241,7 @@ msgstr "Дроны вашего экипажа перезаряжают свои
 
 #: src-en/data/blueprints.xml.append:18804
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FIRE_HEART\"]/title"
-msgstr "Металлическое огненное сердце"
+msgstr "Металл. огненное сердце"
 
 #: src-en/data/blueprints.xml.append:18805
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FIRE_HEART\"]/desc"
@@ -10318,7 +10318,7 @@ msgstr "Увеличивает лимит улучшений."
 
 #: src-en/data/blueprints.xml.append:18867
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/title"
-msgstr "Модульный корпус Алестера"
+msgstr "Модульн. корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18868
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/desc"
@@ -10330,7 +10330,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_LITE\"]/title"
-msgstr "Модульный корпус Алестера"
+msgstr "Модульн. корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18875
 msgid ""
