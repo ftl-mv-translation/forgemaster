@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-07-09 09:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -600,61 +600,61 @@ msgstr "Выбрать категорию оружия для ковки."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть на лазерное оружие."
+msgstr "Посмотреть лазерное оружие."
 
 #: src-en/data/events_special_storage.xml.append:756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть на лазерное оружие."
+msgstr "Посмотреть лазерное оружие."
 
 #: src-en/data/events_special_storage.xml.append:763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть на ионное оружие."
+msgstr "Посмотреть ионное оружие."
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть на ионное оружие."
+msgstr "Посмотреть ионное оружие."
 
 #: src-en/data/events_special_storage.xml.append:775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть на лучевое оружие."
+msgstr "Посмотреть лучевое оружие."
 
 #: src-en/data/events_special_storage.xml.append:780
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть на лучевое оружие."
+msgstr "Посмотреть лучевое оружие."
 
 #: src-en/data/events_special_storage.xml.append:787
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть на точечные лучи."
+msgstr "Посмотреть точечные лучи."
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть на точечные лучи."
+msgstr "Посмотреть точечные лучи."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть на осколочное оружие."
+msgstr "Посмотреть осколочное оружие."
 
 #: src-en/data/events_special_storage.xml.append:804
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть на осколочное оружие."
+msgstr "Посмотреть осколочное оружие."
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
@@ -1292,7 +1292,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Установите технологию кристаллинов в вашу Осколочную пушку мод. II."
+msgstr "Установить технологию кристаллинов в вашу Осколочную пушку мод. II."
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
