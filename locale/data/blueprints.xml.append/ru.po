@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-09 09:42+0000\n"
+"PO-Revision-Date: 2024-07-10 10:42+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -9414,7 +9414,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18188
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FREEDOM_ROCK\"]/title"
-msgstr "Реликвия свободы валунов"
+msgstr "Релик. свободы валунов"
 
 #: src-en/data/blueprints.xml.append:18189
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FREEDOM_ROCK\"]/desc"
@@ -9495,7 +9495,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18248
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ZOLTAN_LIMIT_RELEASE\"]/title"
-msgstr "Снятие ограничений золтан"
+msgstr "Снятие огранич. золтан"
 
 #: src-en/data/blueprints.xml.append:18249
 msgid ""
@@ -9535,7 +9535,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18274
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_SPEED_2\"]/title"
-msgstr "Стимулятор дронов мод. II"
+msgstr "Стимулятор дронов II"
 
 #: src-en/data/blueprints.xml.append:18275
 msgid ""
@@ -9651,7 +9651,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18359
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"REALITY_RELOADER\"]/title"
-msgstr "Перезагрузчик реальности"
+msgstr "Перезагр. реальности"
 
 #: src-en/data/blueprints.xml.append:18360
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"REALITY_RELOADER\"]/desc"
@@ -9662,7 +9662,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18368
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_UPG_AETHER_SHIELDS\"]/title"
-msgstr "Эфирные щиты вознесения"
+msgstr "Эфир. щиты вознесения"
 
 #: src-en/data/blueprints.xml.append:18369
 msgid ""
@@ -9698,7 +9698,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18394
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_DRONE_REPAIR_SYSTEM\"]/title"
-msgstr "Инструменты для ремонта дрона"
+msgstr "Ремонтн. средства дронов"
 
 #: src-en/data/blueprints.xml.append:18395
 msgid ""
@@ -9710,7 +9710,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18403
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_ORCHID_HEAL\"]/title"
-msgstr "Вегетационный каламбурчик"
+msgstr "Вегетационный каламбур."
 
 #: src-en/data/blueprints.xml.append:18404
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_ORCHID_HEAL\"]/desc"
@@ -9838,7 +9838,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18495
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANCIENT_MURDERBOTS\"]/title"
-msgstr "Разрушительные наномашины"
+msgstr "Разрушит. наномашины"
 
 #: src-en/data/blueprints.xml.append:18496
 msgid ""
@@ -9866,7 +9866,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18514
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HYPER_ADVANCED_VENTILATION\"]/title"
-msgstr "Гиперрегулируемая вентиляция"
+msgstr "Гиперрегул. вентиляция"
 
 #: src-en/data/blueprints.xml.append:18515
 msgid ""
@@ -9902,12 +9902,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18540
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_FLAK_FORGE\"]/title"
-msgstr "Кованная осколочная пушка"
+msgstr "Кованная оск. пушка"
 
 #: src-en/data/blueprints.xml.append:18542
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_FLAK_FORGE\"]/desc"
-msgstr "Кованная осколочная пушка выброса"
+msgstr "Кованный оск. выброса"
 
 #: src-en/data/blueprints.xml.append:18549
 msgid ""
@@ -9950,7 +9950,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18572
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DECONSTUCT_HEALTH_BOOST\"]/title"
-msgstr "Деконструктивный рост здоровья"
+msgstr "Деконстр. рост здоровья"
 
 #: src-en/data/blueprints.xml.append:18573
 msgid ""
@@ -9960,7 +9960,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18583
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_BOARDING_SPLITTER\"]/title"
-msgstr "Жертвенный портал абордажников"
+msgstr "Жертв. портал абордаж."
 
 #: src-en/data/blueprints.xml.append:18584
 msgid ""
@@ -9970,7 +9970,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_SUMMON\"]/title"
-msgstr "Холодильник с приведениями"
+msgstr "Холодильн. с приведен."
 
 #: src-en/data/blueprints.xml.append:18593
 msgid ""
@@ -9983,7 +9983,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18604
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_PURGE\"]/title"
-msgstr "Призрачный Чистильщик"
+msgstr "Призрачн. Чистильщик"
 
 #: src-en/data/blueprints.xml.append:18605
 msgid ""
@@ -9993,7 +9993,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:18621
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_2\"]/title"
-msgstr "Поврежденный перезарядчик"
+msgstr "Поврежд. перезарядчик"
 
 #: src-en/data/blueprints.xml.append:18622
 msgid ""
@@ -10003,7 +10003,7 @@ msgstr "7% перезарядка"
 #: src-en/data/blueprints.xml.append:18629
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RELOADER_REWARD_3\"]/title"
-msgstr "Индивидуальный перезарядчик"
+msgstr "Индивид. перезарядчик"
 
 #: src-en/data/blueprints.xml.append:18630
 msgid ""
@@ -10043,7 +10043,7 @@ msgstr "Кузнец всегда будет появляться."
 #: src-en/data/blueprints.xml.append:18665
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON_2\"]/title"
-msgstr "Великое благословение кузниц"
+msgstr "Велик. благосл. кузниц"
 
 #: src-en/data/blueprints.xml.append:18666
 msgid ""
@@ -10063,7 +10063,7 @@ msgstr "Кристаллы Анкалагона получают на 50% мен
 #: src-en/data/blueprints.xml.append:18679
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_TERMINUS\"]/title"
-msgstr "Благословение искажения"
+msgstr "Благослов. искажения"
 
 #: src-en/data/blueprints.xml.append:18680
 msgid ""
@@ -10087,7 +10087,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18696
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FREEDOM_ROCK\"]/title"
-msgstr "Реликвия свободы валунов"
+msgstr "Релик. свободы валунов"
 
 #: src-en/data/blueprints.xml.append:18697
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FREEDOM_ROCK\"]/desc"
@@ -10168,7 +10168,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18754
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER_ENEMY\"]/title"
-msgstr "Катализатор феромонов"
+msgstr "Катализ. феромонов"
 
 #: src-en/data/blueprints.xml.append:18755
 msgid ""
@@ -10195,7 +10195,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18772
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_LAB_ZOLTAN_LIMIT_RELEASE\"]/title"
-msgstr "Снятие ограничений золтан"
+msgstr "Снятие огранич. золтан"
 
 #: src-en/data/blueprints.xml.append:18773
 msgid ""
@@ -10209,7 +10209,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18780
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_SPEED_2\"]/title"
-msgstr "Стимулятор дронов мод. II"
+msgstr "Стимулятор дронов II"
 
 #: src-en/data/blueprints.xml.append:18781
 msgid ""
@@ -10277,7 +10277,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18830
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_REALITY_RELOADER\"]/title"
-msgstr "Перезагрузчик реальности"
+msgstr "Перезагр. реальности"
 
 #: src-en/data/blueprints.xml.append:18831
 msgid ""
@@ -10289,7 +10289,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18839
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FM_UPG_AETHER_SHIELDS\"]/title"
-msgstr "Эфирные щиты вознесения"
+msgstr "Эфир. щиты вознесения"
 
 #: src-en/data/blueprints.xml.append:18840
 msgid ""
@@ -10309,16 +10309,16 @@ msgstr "Эффекты: все характеристики экипажа +40%.
 #: src-en/data/blueprints.xml.append:18857
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_UPGRADE_EXTRANOTCHES\"]/title"
-msgstr "Модульный стабилизатор корпуса"
+msgstr "Мод. стабилиз. корпуса"
 
 #: src-en/data/blueprints.xml.append:18858
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_UPGRADE_EXTRANOTCHES\"]/desc"
-msgstr "Увеличивает лимит улучшений."
+msgstr "Увелич. лимит улучш."
 
 #: src-en/data/blueprints.xml.append:18867
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/title"
-msgstr "Модульн. корпус Алестера"
+msgstr "Мод. корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18868
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL\"]/desc"
@@ -10330,7 +10330,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18874
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_LITE\"]/title"
-msgstr "Модульн. корпус Алестера"
+msgstr "Мод. корпус Алестера"
 
 #: src-en/data/blueprints.xml.append:18875
 msgid ""
@@ -10415,7 +10415,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_AERO\"]/title"
-msgstr "Вдохновляющие аэрозоли"
+msgstr "Вдохновл. аэрозоли"
 
 #: src-en/data/blueprints.xml.append:18939
 msgid ""
@@ -10427,7 +10427,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18946
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESPIRATION\"]/title"
-msgstr "Улучшенные поля дыхания"
+msgstr "Улучш. поля дыхания"
 
 #: src-en/data/blueprints.xml.append:18947
 msgid ""
@@ -10451,7 +10451,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18963
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE1\"]/title"
-msgstr "Защитный призматический культиватор"
+msgstr "Защ. призм. культиватор"
 
 #: src-en/data/blueprints.xml.append:18964
 msgid ""
@@ -10461,7 +10461,7 @@ msgstr "60% шанса выстрелить 2 лазерами, наносящи
 #: src-en/data/blueprints.xml.append:18971
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE2\"]/title"
-msgstr "Защитный кристаллический культиватор"
+msgstr "Защ. кристал. культиват."
 
 #: src-en/data/blueprints.xml.append:18972
 msgid ""
@@ -10473,7 +10473,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18979
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE3\"]/title"
-msgstr "Защитный кузнечный культиватор"
+msgstr "Защ. кузнеч. культиват."
 
 #: src-en/data/blueprints.xml.append:18980
 msgid ""
@@ -10496,7 +10496,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:18996
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_OXYGEN\"]/title"
-msgstr "Модульная турель (Кислород)"
+msgstr "Мод. турель (Кислород)"
 
 #: src-en/data/blueprints.xml.append:18997
 msgid ""
@@ -10506,7 +10506,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19004
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TELEPORTER\"]/title"
-msgstr "Модульная турель (Телепортатор)"
+msgstr "Мод. турель (Телепорт.)"
 
 #: src-en/data/blueprints.xml.append:19005
 msgid ""
@@ -10516,7 +10516,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19012
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ARTILLERY\"]/title"
-msgstr "Модульная турель (Артиллерия)"
+msgstr "Мод. турель (Артиллер.)"
 
 #: src-en/data/blueprints.xml.append:19013
 msgid ""
@@ -10526,7 +10526,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19020
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_CLOAKING\"]/title"
-msgstr "Модульная турель (Маскировка)"
+msgstr "Мод. турель (Маскир.)"
 
 #: src-en/data/blueprints.xml.append:19021
 msgid ""
@@ -10536,7 +10536,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19028
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_MIND\"]/title"
-msgstr "Модульная турель (Контроль разума)"
+msgstr "Мод. турель (К. разума)"
 
 #: src-en/data/blueprints.xml.append:19029
 msgid ""
@@ -10546,7 +10546,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19036
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_HACKING\"]/title"
-msgstr "Модульная турель (Взломщик)"
+msgstr "Мод. турель (Взломщик)"
 
 #: src-en/data/blueprints.xml.append:19037
 msgid ""
@@ -10556,7 +10556,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19044
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DRONES\"]/title"
-msgstr "Модульная турель (Дроны)"
+msgstr "Мод. турель (Дроны)"
 
 #: src-en/data/blueprints.xml.append:19045
 msgid ""
@@ -10566,7 +10566,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19052
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_ENGINES\"]/title"
-msgstr "Модульная турель (Двигатели)"
+msgstr "Мод. турель (Двигатели)"
 
 #: src-en/data/blueprints.xml.append:19053
 msgid ""
@@ -10576,7 +10576,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19060
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_WEAPONS\"]/title"
-msgstr "Модульная турель (Оружие)"
+msgstr "Мод. турель (Оружие)"
 
 #: src-en/data/blueprints.xml.append:19061
 msgid ""
@@ -10586,7 +10586,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19068
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SHIELDS\"]/title"
-msgstr "Модульная турель (Щиты)"
+msgstr "Мод. турель (Щиты)"
 
 #: src-en/data/blueprints.xml.append:19069
 msgid ""
@@ -10596,7 +10596,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19076
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_SENSORS\"]/title"
-msgstr "Модульная турель (Сенсоры)"
+msgstr "Мод. турель (Сенсоры)"
 
 #: src-en/data/blueprints.xml.append:19077
 msgid ""
@@ -10606,7 +10606,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19084
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_DOORS\"]/title"
-msgstr "Модульная турель (Двери)"
+msgstr "Мод. турель (Двери)"
 
 #: src-en/data/blueprints.xml.append:19085
 msgid ""
@@ -10616,7 +10616,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19092
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_PILOT\"]/title"
-msgstr "Модульная турель (Рулевая рубка)"
+msgstr "Мод. турель (Рул. рубка)"
 
 #: src-en/data/blueprints.xml.append:19093
 msgid ""
@@ -10626,7 +10626,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19100
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_BATTERY\"]/title"
-msgstr "Модульная турель (Батарея)"
+msgstr "Мод. турель (Батарея)"
 
 #: src-en/data/blueprints.xml.append:19101
 msgid ""
@@ -10636,7 +10636,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19108
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TURRET_TEMPORAL\"]/title"
-msgstr "Модульная турель (Временной манипулятор)"
+msgstr "Мод. турель (В. манип.)"
 
 #: src-en/data/blueprints.xml.append:19109
 msgid ""
@@ -10646,7 +10646,7 @@ msgstr "Наносит 7 ОЗ/с урона вражескому экипажу/
 #: src-en/data/blueprints.xml.append:19117
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SHIELDS\"]/title"
-msgstr "Улучшение системы (Щиты)"
+msgstr "Улучш. системы (Щиты)"
 
 #: src-en/data/blueprints.xml.append:19118
 msgid ""
@@ -10656,7 +10656,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19125
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ENGINES\"]/title"
-msgstr "Улучшение системы (Двигатели)"
+msgstr "Улучш. системы (Двиг.)"
 
 #: src-en/data/blueprints.xml.append:19126
 msgid ""
@@ -10666,7 +10666,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19133
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MED\"]/title"
-msgstr "Улучшение системы (Медицина)"
+msgstr "Улучш. системы (Медиц.)"
 
 #: src-en/data/blueprints.xml.append:19134
 msgid ""
@@ -10676,7 +10676,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19141
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_OXYGEN\"]/title"
-msgstr "Улучшение системы (Кислород)"
+msgstr "Улучш. системы (Кисл.)"
 
 #: src-en/data/blueprints.xml.append:19142
 msgid ""
@@ -10686,7 +10686,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19149
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\"]/title"
-msgstr "Улучшение системы (Телепортатор)"
+msgstr "Улучш. системы (Телеп.)"
 
 #: src-en/data/blueprints.xml.append:19150
 msgid ""
@@ -10696,7 +10696,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19157
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_CLOAKING\"]/title"
-msgstr "Улучшение системы (Маскировка)"
+msgstr "Улучш. системы (Маск.)"
 
 #: src-en/data/blueprints.xml.append:19158
 msgid ""
@@ -10706,7 +10706,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19165
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\"]/title"
-msgstr "Улучшение системы (Артиллерия)"
+msgstr "Улучш. системы (Арт.)"
 
 #: src-en/data/blueprints.xml.append:19166
 msgid ""
@@ -10716,7 +10716,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19173
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_MIND\"]/title"
-msgstr "Улучшение системы (Контроль разума)"
+msgstr "Улучш. сист. (К. разума)"
 
 #: src-en/data/blueprints.xml.append:19174
 msgid ""
@@ -10726,7 +10726,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19181
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_HACKING\"]/title"
-msgstr "Улучшение системы (Взломщик)"
+msgstr "Улучш. системы (Взлом.)"
 
 #: src-en/data/blueprints.xml.append:19182
 msgid ""
@@ -10736,7 +10736,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19189
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_WEAPONS\"]/title"
-msgstr "Улучшение системы (Оружие)"
+msgstr "Улучш. сист. (Оружие)"
 
 #: src-en/data/blueprints.xml.append:19190
 msgid ""
@@ -10746,7 +10746,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19197
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DRONES\"]/title"
-msgstr "Улучшение системы (Дроны)"
+msgstr "Улучш. системы (Дроны)"
 
 #: src-en/data/blueprints.xml.append:19198
 msgid ""
@@ -10756,7 +10756,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_PILOT\"]/title"
-msgstr "Улучшение системы (Рулевая рубка)"
+msgstr "Улуч. системы (Р. рубка)"
 
 #: src-en/data/blueprints.xml.append:19206
 msgid ""
@@ -10766,7 +10766,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_SENSORS\"]/title"
-msgstr "Улучшение системы (Сенсоры)"
+msgstr "Улучш. системы (Сенсоры)"
 
 #: src-en/data/blueprints.xml.append:19214
 msgid ""
@@ -10776,7 +10776,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19221
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_DOORS\"]/title"
-msgstr "Улучшение системы (Двери)"
+msgstr "Улучш. системы (Двери)"
 
 #: src-en/data/blueprints.xml.append:19222
 msgid ""
@@ -10786,7 +10786,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19229
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_BATTERY\"]/title"
-msgstr "Улучшение системы (Батарея)"
+msgstr "Улучш. системы (Батарея)"
 
 #: src-en/data/blueprints.xml.append:19230
 msgid ""
@@ -10796,7 +10796,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19237
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\"]/title"
-msgstr "Улучшение системы (Временной манипулятор)"
+msgstr "Улучш. сист. (В. манип.)"
 
 #: src-en/data/blueprints.xml.append:19238
 msgid ""
@@ -10806,7 +10806,7 @@ msgstr "Скорость ремонта +40%, скорость саботажа 
 #: src-en/data/blueprints.xml.append:19245
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MIND_COOLDOWN\"]/title"
-msgstr "Модульный корпус перезарядки контроля разума"
+msgstr "Мод. корпус перез. К. Р."
 
 #: src-en/data/blueprints.xml.append:19246
 msgid ""
@@ -10818,7 +10818,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19253
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\"]/title"
-msgstr "Модульный корпус перезарядки маскировки"
+msgstr "Мод. корп. перез. маск."
 
 #: src-en/data/blueprints.xml.append:19254
 msgid ""
@@ -10830,7 +10830,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19261
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_HACK_COOLDOWN\"]/title"
-msgstr "Модульный корпус перезарядки взломщика"
+msgstr "Мод. корп. перез. взлом."
 
 #: src-en/data/blueprints.xml.append:19262
 msgid ""
@@ -10842,7 +10842,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\"]/title"
-msgstr "Модульный корпус перезарядки временного манипулятора"
+msgstr "Мод. корп. перез. в. ман."
 
 #: src-en/data/blueprints.xml.append:19270
 msgid ""
@@ -10853,7 +10853,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:19279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RAPID_MIND\"]/title"
-msgstr "Ускоренный церебральный манипулятор"
+msgstr "Ускорен. церебр. манип."
 
 #: src-en/data/blueprints.xml.append:19280
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_RAPID_MIND\"]/desc"
@@ -10874,7 +10874,7 @@ msgstr "+100% ионный ресурс, органический экипаж �
 #: src-en/data/blueprints.xml.append:19295
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DUSK\"]/title"
-msgstr "Устаревший реактор Вестников Заката"
+msgstr "Устар. реактор Вест. Зак."
 
 #: src-en/data/blueprints.xml.append:19296
 #, fuzzy
@@ -10887,7 +10887,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19303
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_COMPRESS\"]/title"
-msgstr "Обходной коллектор компрессора"
+msgstr "Обход. коллект. компрес."
 
 #: src-en/data/blueprints.xml.append:19304
 msgid ""
@@ -10911,7 +10911,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19319
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_UPLINK\"]/title"
-msgstr "Матрицы восходящей связи оружия"
+msgstr "Восход. матрицы оружия"
 
 #: src-en/data/blueprints.xml.append:19320
 msgid ""
@@ -10923,7 +10923,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19327
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_PERFECT\"]/title"
-msgstr "Безупречная бортовая эффективность"
+msgstr "Безупр. борт. эффект."
 
 #: src-en/data/blueprints.xml.append:19328
 msgid ""
@@ -10944,7 +10944,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19349
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTSHIELD\"]/title"
-msgstr "Бесконечный цикло-барьер"
+msgstr "Бесконеч. цикло-барьер"
 
 #: src-en/data/blueprints.xml.append:19350
 msgid ""
@@ -10958,7 +10958,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19358
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FASTWEAPON\"]/title"
-msgstr "Бесконечный цикло-арсенал"
+msgstr "Бесконеч. цикло-арсенал"
 
 #: src-en/data/blueprints.xml.append:19359
 msgid ""
@@ -10970,7 +10970,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19367
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_CREWKILL\"]/title"
-msgstr "Аура метаплазматической коррозии"
+msgstr "Аура метаплаз. коррозии"
 
 #: src-en/data/blueprints.xml.append:19368
 msgid ""
@@ -10982,7 +10982,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19375
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_MAGNETIC\"]/title"
-msgstr "Электромагнитный корпус"
+msgstr "Электромагнит. корпус"
 
 #: src-en/data/blueprints.xml.append:19376
 msgid ""
@@ -10995,7 +10995,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19383
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_RESISTSMASH\"]/title"
-msgstr "Невероятный калибратор боеприпасов"
+msgstr "Невероят. калибр. боепр."
 
 #: src-en/data/blueprints.xml.append:19384
 #, fuzzy
@@ -11018,7 +11018,7 @@ msgstr "+50% скорости перезарядки оружия, стрель�
 #: src-en/data/blueprints.xml.append:19399
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/title"
-msgstr "Нарушающий генератор помех"
+msgstr "Наруш. генератор помех"
 
 #: src-en/data/blueprints.xml.append:19400
 #, fuzzy
@@ -11031,7 +11031,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19407
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\"]/title"
-msgstr "Защитный генератор помех"
+msgstr "Защит. генератор помех"
 
 #: src-en/data/blueprints.xml.append:19408
 msgid ""
@@ -11076,7 +11076,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19445
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_AUTO_COOLDOWN\"]/title"
-msgstr "Антиавтоматический перезарядчик"
+msgstr "Антиавтомат. перезаряд."
 
 #: src-en/data/blueprints.xml.append:19446
 msgid ""
@@ -11106,7 +11106,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19468
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_SYSTEM_CASING\"]/title"
-msgstr "Антититаниумные системы"
+msgstr "Антититаниумные сист."
 
 #: src-en/data/blueprints.xml.append:19469
 msgid ""
@@ -11116,7 +11116,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19475
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/title"
-msgstr "Репеллент против поломок"
+msgstr "Репеллент от поломок"
 
 #: src-en/data/blueprints.xml.append:19476
 msgid ""
@@ -11126,7 +11126,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19483
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FAST_CLOAK\"]/title"
-msgstr "Антимаскировочный ускоритель"
+msgstr "Антимаскировоч. ускор."
 
 #: src-en/data/blueprints.xml.append:19484
 msgid ""
@@ -11136,7 +11136,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:19491
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FAST_HACK\"]/title"
-msgstr "Антихакерский ускоритель"
+msgstr "Антихакерский ускорит."
 
 #: src-en/data/blueprints.xml.append:19492
 msgid ""
