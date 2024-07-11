@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-10 10:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-11 04:35+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2825,7 +2825,7 @@ msgstr "Залповый лазер \"Множественность\"."
 #: src-en/data/blueprints.xml.append:4571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/short"
-msgstr "Множественность"
+msgstr "Множеств."
 
 #: src-en/data/blueprints.xml.append:4573
 msgid ""
@@ -3789,7 +3789,7 @@ msgstr "Луч \"Ушная ложка\""
 #: src-en/data/blueprints.xml.append:7271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/short"
-msgstr "Луч Уш. ложка"
+msgstr "Ушная ложка"
 
 #: src-en/data/blueprints.xml.append:7272
 msgid ""
@@ -3812,7 +3812,7 @@ msgstr "Луч \"Ишимура\""
 #: src-en/data/blueprints.xml.append:7304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/short"
-msgstr "Луч Ишимура"
+msgstr "Ишимура"
 
 #: src-en/data/blueprints.xml.append:7305
 msgid ""
@@ -3910,7 +3910,7 @@ msgstr "Луч \"Валефор\""
 #: src-en/data/blueprints.xml.append:7471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/short"
-msgstr "Луч Валефор"
+msgstr "Валефор"
 
 #: src-en/data/blueprints.xml.append:7472
 msgid ""
@@ -3967,7 +3967,7 @@ msgstr "Луч \"Валефор\""
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/short"
-msgstr "Луч Валефор"
+msgstr "Валефор"
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
@@ -4010,7 +4010,7 @@ msgstr "Луч \"Валефор\"†"
 #: src-en/data/blueprints.xml.append:7674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/short"
-msgstr "Луч Валефор†"
+msgstr "Валефор†"
 
 #: src-en/data/blueprints.xml.append:7675
 msgid ""
@@ -5424,7 +5424,7 @@ msgstr "Тяжелая ракетница \"Дебилитатум\""
 #: src-en/data/blueprints.xml.append:10586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/short"
-msgstr "Дебилитатум"
+msgstr "Дебилитат."
 
 #: src-en/data/blueprints.xml.append:10587
 #, fuzzy
@@ -5525,7 +5525,7 @@ msgstr "Миномет \"Грязная бомба\""
 #: src-en/data/blueprints.xml.append:10785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/short"
-msgstr "Грязная бомба"
+msgstr "Грязная б."
 
 #: src-en/data/blueprints.xml.append:10786
 msgid ""
@@ -6154,7 +6154,7 @@ msgstr "Луч \"Валефор\""
 #: src-en/data/blueprints.xml.append:11931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/short"
-msgstr "Луч Валефор"
+msgstr "Валефор"
 
 #: src-en/data/blueprints.xml.append:11932
 msgid ""
@@ -6189,7 +6189,7 @@ msgstr "Луч \"Ишимура\""
 #: src-en/data/blueprints.xml.append:12000
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ISHIMURA_DRONE_WEAPON\"]/short"
-msgstr "Луч Ишимура"
+msgstr "Ишимура"
 
 #: src-en/data/blueprints.xml.append:12001
 msgid ""
@@ -6346,7 +6346,7 @@ msgstr "Луч \"Ишимура\""
 #: src-en/data/blueprints.xml.append:12283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PRO_HULL_DRONE_WEAPON\"]/short"
-msgstr "Луч Ишимура"
+msgstr "Ишимура"
 
 #: src-en/data/blueprints.xml.append:12284
 msgid ""
@@ -6604,7 +6604,7 @@ msgstr "Луч \"Цукияри\""
 #: src-en/data/blueprints.xml.append:12881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BEAM_ADAPT_3_PLAYER_ARTY_CHAIN\"]/short"
-msgstr "Луч \"Цукияри\""
+msgstr "Цукияри"
 
 #: src-en/data/blueprints.xml.append:12882
 msgid ""
@@ -7386,7 +7386,7 @@ msgstr "Луч \"Ушная ложка\""
 #: src-en/data/blueprints.xml.append:14540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE_ENEMY\"]/short"
-msgstr "Луч Уш. ложка"
+msgstr "Ушная ложка"
 
 #: src-en/data/blueprints.xml.append:14541
 msgid ""
@@ -7409,7 +7409,7 @@ msgstr "Луч \"Ишимура\""
 #: src-en/data/blueprints.xml.append:14572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/short"
-msgstr "Луч Ишимура"
+msgstr "Ишимура"
 
 #: src-en/data/blueprints.xml.append:14573
 msgid ""
