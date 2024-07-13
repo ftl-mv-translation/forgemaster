@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-09 09:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-13 16:45+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -10500,193 +10500,193 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Соляной корпус [150~]"
+msgstr "Соляной корпус [150~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9914
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Соляной корпус [Установлен]"
+msgstr "Соляной корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Устаревший реактор Вестников Заката [110~]"
+msgstr "Устаревший реактор Вестников Заката [110~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9924
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Устаревший реактор Вестников Заката [Установлено]"
+msgstr "Устаревший реактор Вестников Заката [Установлено]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9928
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Фрески для корпуса [85~]"
+msgstr "Фрески для корпуса [85~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9934
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Фрески для корпуса [Нарисованы]"
+msgstr "Фрески для корпуса [Нарисованы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Обходной коллектор компрессора [80~]"
+msgstr "Обходной коллектор компрессора [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Обходной коллектор компрессора [Установлен]"
+msgstr "Обходной коллектор компрессора [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9948
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Щиты с частицами [100~]"
+msgstr "Щиты с частицами [100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9954
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Щиты с частицами [Установлены]"
+msgstr "Щиты с частицами [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9958
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Матрицы восходящей связи оружия [95~]"
+msgstr "Матрицы восходящей связи оружия [95~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9964
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Матрицы восходящей связи оружия [Установлены]"
+msgstr "Матрицы восходящей связи оружия [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9968
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Совершенная бортовая эффективность [140~]"
+msgstr "Совершенная бортовая эффективность [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9974
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Совершенная бортовая эффективность [Установлена]"
+msgstr "Совершенная бортовая эффективность [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9978
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Бесконечный цикло-барьер [80~] (Перебалансирован!)"
+msgstr "Бесконечный цикло-барьер [80~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9984
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Бесконечный цикло-барьер [Установлен]"
+msgstr "Бесконечный цикло-барьер [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9988
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Бесконечный цикло-арсенал [120~] (Перебалансирован!)"
+msgstr "Бесконечный цикло-арсенал [120~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9994
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Бесконечный цикло-арсенал [Установлен]"
+msgstr "Бесконечный цикло-арсенал [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9998
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Аура метаплазматической коррозии [105~] (Понерфлен)"
+msgstr "Аура метаплазматической коррозии [105~] (Понерфлен)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10004
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Аура метаплазматической коррозии [Установлена]"
+msgstr "Аура метаплазматической коррозии [Установлена]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10008
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Электромагнитный корпус [100~] (Перебалансирован!)"
+msgstr "Электромагнитный корпус [100~] (Перебалансирован!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10014
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Электромагнитный корпус [Установлен]"
+msgstr "Электромагнитный корпус [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10018
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Невероятный калибратор боеприпасов [100~] (Новинка!)"
+msgstr "Невероятный калибратор боеприпасов [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10024
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Невероятный калибратор боеприпасов [Установлен]"
+msgstr "Невероятный калибратор боеприпасов [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Поджигатель оружия [100~] (Новинка!)"
+msgstr "Поджигатель оружия [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10034
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Поджигатель оружия [Установлен]"
+msgstr "Поджигатель оружия [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10038
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Нарушающий генератор помех [100~] (Новинка!)"
+msgstr "Нарушающий генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10044
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Нарушающий генератор помех [Установлен]"
+msgstr "Нарушающий генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10048
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Защитный генератор помех [100~] (Новинка!)"
+msgstr "Защитный генератор помех [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10054
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Защитный генератор помех [Установлен]"
+msgstr "Защитный генератор помех [Установлен]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10058
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"0\"]/text"
-msgstr "Ключевое улучшение Фазовые частоты лучей [100~] (Новинка!)"
+msgstr "Фазовые частоты лучей [100~] (Новинка!)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10064
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"1\"]/text"
-msgstr "Ключевое улучшение Фазовые частоты лучей [Установлены]"
+msgstr "Фазовые частоты лучей [Установлены]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10069
 msgid ""
@@ -10726,7 +10726,7 @@ msgid ""
 msgstr ""
 "Установить Устаревший реактор Вестников Заката? [+20% скорость перезарядки "
 "оружия и щитов, характеристики вашего экипажа снижаются на 20%, получаемый "
-"урон +20%]"
+"урон по экипажу +20%]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10105
 msgid ""
@@ -10928,9 +10928,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_FASTWEAPON\"]/text"
 msgstr ""
-"Установить Бесконечный цикло-арсенал? [На 5% более быстрая перезарядка "
-"оружия, затем добавляется +15% за каждую неиспользованную единицу энергии "
-"системы оружия]"
+"Установить Бесконечный цикло-арсенал? [-5% скорости перезарядки оружия, "
+"затем добавляется +15% за каждую неиспользованную единицу энергии системы "
+"оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10295
 msgid ""
@@ -10994,9 +10994,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MAGNETIC\"]/text"
 msgstr ""
-"Установить Электромагнитный корпус [+30% ионный ресурс, +50% скорость "
-"деионизации, +10% системный ресурс, +10% лома, эффект магнитного крана, -3 "
-"реактор]"
+"Установить Электромагнитный корпус [+30% шанс ионного сопротивления, +50% "
+"скорость деионизации, +10% шанс сопротивления систем, +10% к заработку лома, "
+"магнитный кран, -3 единицы реактора]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10351
 msgid ""
@@ -11022,9 +11022,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_RESISTSMASH\"]/text"
 msgstr ""
-"Установить Невероятный калибратор боеприпасов? [+30% ионный ресурс, +50% "
-"скорость деионизации, +10% системный ресурс, +10% лома, эффект магнитного "
-"крана, -3 реактор]"
+"Установить Невероятный калибратор боеприпасов? [+40% шанс пробоины, -15% "
+"шанс сопротивления корпусу, систем и иона у врага, -10% скорость перезарядки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10377
 msgid ""
@@ -11077,8 +11076,8 @@ msgstr "Неважно."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_OFFENSE_SCRAMBLE\"]/text"
 msgstr ""
-"Установить Нарушающий генератор помех? [На 20% уменьшает скорость "
-"перезарядки оружия противника и на 30% перезарядки щита]"
+"Установить Нарушающий генератор помех? [-20% скорость перезарядки оружия "
+"противника, -30% перезарядки ваших щитов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10427
 msgid ""
@@ -11177,7 +11176,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\"]/text"
 msgstr ""
 "Устаревший реактор Вестников Заката? [+20% скорость перезарядки оружия и "
-"щитов, -20% характеристики вашего экипажа, +20% получаемый урон]"
+"щитов, -20% характеристики вашего экипажа, +20% получаемый урон по экипажу]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10519
 msgid ""
@@ -11225,7 +11224,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\"]/text"
 msgstr ""
-"Бесконечный цикло-арсенал [На 5% более быстрая перезарядка оружия, затем "
+"Бесконечный цикло-арсенал [-5% скорости перезарядки оружия, затем "
 "добавляется +15% за каждую неиспользованную единицу энергии системы оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10547
@@ -11239,16 +11238,16 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\"]/text"
 msgstr ""
-"Электромагнитный корпус [+30% ионный ресурс, +50% скорость деионизации, +10% "
-"системный ресурс, +10% лома, эффект магнитного крана, -3 реактор]"
+"Электромагнитный корпус [+30% шанс ионного сопротивления, +50% скорость "
+"деионизации, +10% шанс сопротивления систем, +10% к заработку лома, "
+"магнитный кран, -3 единицы реактора]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10555
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\"]/text"
 msgstr ""
-"Невероятный калибратор боеприпасов [+30% ионный ресурс, +50% скорость "
-"деионизации, +10% системный ресурс, +10% лома, эффект магнитного крана, -3 "
-"реактор]"
+"Невероятный калибратор боеприпасов [+40% шанс пробоины, -15% шанс "
+"сопротивления корпусу, систем и иона у врага, -10% скорость перезарядки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10559
 msgid ""
@@ -11261,8 +11260,8 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\"]/text"
 msgstr ""
-"Нарушающий генератор помех [На 20% уменьшает скорость перезарядки оружия "
-"противника и на 30% перезарядки щита]"
+"Нарушающий генератор помех [-20% скорость перезарядки оружия противника, -"
+"30% перезарядки ваших щитов]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10567
 msgid ""
