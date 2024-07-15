@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-09 09:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-16 14:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -6394,7 +6394,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6005
 msgid ""
@@ -6518,7 +6518,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6112
 msgid ""
@@ -6642,7 +6642,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6221
 msgid ""
@@ -6766,7 +6766,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6324
 msgid ""
@@ -6890,7 +6890,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6429
 msgid ""
@@ -7014,7 +7014,7 @@ msgstr "Перейти к битве!"
 #: src-en/data/events_special_storage.xml.append:6532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/text"
-msgstr "Нацеиться на их щиты."
+msgstr "Нацелиться на их щиты."
 
 #: src-en/data/events_special_storage.xml.append:6534
 msgid ""
