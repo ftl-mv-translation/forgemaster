@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-16 14:42+0000\n"
+"PO-Revision-Date: 2024-07-17 17:56+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -672,13 +672,13 @@ msgstr "Посмотреть взрывное оружие."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr "Посмотреть взрывное оружие."
+msgstr "Посмотреть органическое оружие."
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Посмотреть взрывное оружие."
+msgstr "Посмотреть органическое оружие."
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
