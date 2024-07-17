@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-07-17 17:56+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -8590,7 +8590,10 @@ msgstr "Неважно."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8397
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_VENGEANCE2\"]/text"
-msgstr "Защитный кристаллический культиватор"
+msgstr ""
+"Установить Защитный кристаллический культиватор? [2 кристалла (40% шанс "
+"пожара, 40% шанс пробоины, проникает через 1 слой щита) 60% мести, "
+"использует 2 ячейки]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8399
 msgid ""
