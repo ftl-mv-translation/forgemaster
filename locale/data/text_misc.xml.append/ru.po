@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-05 10:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-07-21 15:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1006,7 +1006,7 @@ msgstr ""
 "Совет: консервативные дроны сами по себе не потребляют энергии, но после "
 "активации их нельзя отключить.\n"
 "Кузнец: это КОМПОНЕНТ для ковки дрона К.У.Р.А, также вам понадобятся другие "
-"КОМПОНЕНТЫ в виде Боевого дрона мод. I и Управляющего дрона."
+"КОМПОНЕНТЫ в виде дрона Солдата мод. I и Управляющего дрона."
 
 #: src-en/data/text_misc.xml.append:514
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_battletog\"]"
@@ -1033,7 +1033,7 @@ msgstr ""
 "помогают вашему экипажу до тех пор, пока у них есть питание.\n"
 "\n"
 "Кузнец: это КОМПОНЕНТ для ковки дрона К.У.Р.А, также вам понадобятся другие "
-"КОМПОНЕНТЫ в виде Боевого дрона мод. I и Боевого консервативного дрона."
+"КОМПОНЕНТЫ в виде дрона Солдата мод. I и Боевого консервативного дрона."
 
 #: src-en/data/text_misc.xml.append:523
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_amp_pinpoint\"]"
