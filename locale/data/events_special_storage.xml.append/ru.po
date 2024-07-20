@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-17 17:56+0000\n"
+"PO-Revision-Date: 2024-07-21 15:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -1648,7 +1648,7 @@ msgid ""
 msgstr ""
 "Оптимизировать реактор и алгоритмы Консервативного боевого дрона с помощью "
 "компьютера Управляющего дрона, а также построить временную фабрику дронов с "
-"помощью схемы Боевого дрона мод. I."
+"помощью схемы дрона Солдата мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
@@ -1656,7 +1656,7 @@ msgid ""
 " and @lvl=\"0\"]/text"
 msgstr ""
 "Чтобы выковать этот дрон, у вас должны быть Управляющий дрон, Консервативный "
-"боевой дрон и Боевой дрон мод. I."
+"боевой дрон и дрон Солдат мод. I."
 
 #: src-en/data/events_special_storage.xml.append:1602
 msgid ""
@@ -4954,7 +4954,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[12]/text"
 msgstr ""
-"(Искаженный боевой дрон мод. II) Установить режим работы дрона. [Текущий "
+"(Искаженный дрон Солдат мод. II) Установить режим работы дрона. [Текущий "
 "режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:4779
@@ -4962,7 +4962,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[13]/text"
 msgstr ""
-"(Искаженный боевой дрон мод. II) Установить режим работы дрона. [Текущий "
+"(Искаженный дрон Солдат мод. II) Установить режим работы дрона. [Текущий "
 "режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:4783
