@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-21 15:42+0000\n"
+"PO-Revision-Date: 2024-07-24 12:47+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -14110,7 +14110,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12552
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_323\"]/choice[@req=\"pilot\"]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12560
 msgid ""
@@ -14147,7 +14147,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12586
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_324\"]/choice[@req=\"pilot\"]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12592
 msgid ""
@@ -14187,7 +14187,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12620
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_325\"]/choice[@req=\"pilot\"]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12627
 msgid ""
@@ -14230,7 +14230,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12658
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326\"]/choice[@req=\"pilot\"]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12665
 msgid ""
@@ -14247,7 +14247,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12674
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_107A_DESK_TERMINAL_MUSIC_326_2\"]/choice[@req=\"pilot\"]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12681
 msgid ""
@@ -14430,7 +14430,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:12840
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_APARTMENT_115A_LISTEN\"]/choice[1]/text"
-msgstr "Продолжить случать..."
+msgstr "Продолжать слушать..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:12845
 msgid ""
