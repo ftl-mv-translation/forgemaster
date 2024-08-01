@@ -16,10 +16,7 @@ def write_directories_into_zip(zipf, target_directories):
     for arcname, path in writelist.items():
         zipf.write(path, arcname=arcname)
 
-if not argv[1]:
-    raise ValueError
-
-path = repr(argv[1])
+path = argv[1]
 with ZipFile(path) as zipf:
     zipf.extractall('./tmpfiles')
 with ZipFile('./rezipped_' + str(Path(path).name), 'w') as zipf:
