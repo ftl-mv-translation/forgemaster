@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-07 13:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-08-12 20:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/ru/>\n"
 "Language: ru\n"
@@ -3945,8 +3945,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRASH_LASER\"]/text"
 msgstr ""
-"Получить не удалось найти mu_TITLE_DEFUNCT_LASER за 0 особых осколочных "
-"очков."
+"Получить could not find mu_TITLE_DEFUNCT_LASER за 0 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3133
 msgid ""
