@@ -425,7 +425,7 @@ requests = "^2.31.0"
 type = "git"
 url = "https://github.com/ftl-mv-translation/mvloc.git"
 reference = "bug-package-duplicated-files"
-resolved_reference = "e0d6453ad8afca9fd3793107d9cc703c75452d3d"
+resolved_reference = "f3e7ed433bb754a0f3af0cf6a7288557c1b6b8bf"
 
 [[package]]
 name = "polib"
