@@ -424,8 +424,8 @@ requests = "^2.31.0"
 [package.source]
 type = "git"
 url = "https://github.com/ftl-mv-translation/mvloc.git"
-reference = "bug-package-duplicated-files"
-resolved_reference = "f3e7ed433bb754a0f3af0cf6a7288557c1b6b8bf"
+reference = "feature-zip-real-compression"
+resolved_reference = "52416e4fc9b9ab2d1ff46040ff6299d42756c99a"
 
 [[package]]
 name = "polib"
@@ -638,4 +638,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.12"
-content-hash = "b03d538f968f261d5884c8709c53ae5bb835fcee3aaee9ad9544a359e8a244cd"
+content-hash = "03a989628c100fffd634fcef07fa9c1a01b0a1d707990977a55ea5e070b03396"
