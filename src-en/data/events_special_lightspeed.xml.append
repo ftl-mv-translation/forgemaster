@@ -128,7 +128,7 @@
 	
 	
 
-	<choice hidden="true" req="pilot" lvl="1" max_group="4" blue="false">>
+	<choice hidden="true" req="pilot" lvl="1" max_group="4" blue="false">
 		<text>Nevermind.</text>
 		<event>
 			<variable name="fm_called_forgemaster" op="set" val="0"/>
