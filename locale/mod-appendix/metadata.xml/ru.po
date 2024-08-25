@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-12 20:42+0000\n"
+"PO-Revision-Date: 2024-08-25 14:33+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "mod-appendixmetadataxml/ru/>\n"
@@ -15,15 +15,11 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Forgemaster (Не стабильный)"
+msgstr "Forgemaster"
 
 #: src-en/mod-appendix/metadata.xml:6
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr ""
-"[Примечание от переводчиков: Аддон-русификатор сломан, при посещении 2 "
-"сектора вылетает. Проверяйте на свой страх и риск. Если вы скачивали ранее, "
-"не обновляйтесь]\n"
-"\n"
 "ДЛЯ РАБОТЫ ТРЕБУЕТСЯ INFERNO-CORE!!!\n"
 "Крупное расширение для Multiverse! Оно включает в себя новых NPC, квесты, "
 "оружие, сектора, боссов и многое другое. Скоро появятся дроны и модули! "
