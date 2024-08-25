@@ -2595,6 +2595,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:5052
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:5071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/tooltip"
@@ -2638,6 +2643,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:5240
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:5256
@@ -2789,6 +2799,11 @@ msgstr ""
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:5791
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:5810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/tooltip"
@@ -2929,6 +2944,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:6360
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:6378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/tooltip"
@@ -2952,6 +2972,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6445
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:6463
@@ -3072,6 +3097,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6801
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:6802
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:6823
@@ -3336,6 +3366,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:7473
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:7493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/tooltip"
@@ -3376,6 +3411,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:7594
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/tooltip"
@@ -3401,6 +3441,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:7676
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:7696
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/tooltip"
@@ -3424,6 +3469,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7758
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:7775
@@ -3461,6 +3511,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7915
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:7916
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:7934
@@ -3603,6 +3658,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:8173
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:8191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/tooltip"
@@ -3626,6 +3686,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8251
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:8252
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:8270
@@ -3653,6 +3718,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:8331
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:8349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_2_PLAYER\"]/tooltip"
@@ -3678,6 +3748,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:8410
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:8428
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_3\"]/tooltip"
@@ -3701,6 +3776,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:8490
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:8508
@@ -4408,6 +4488,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:10287
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:10310
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN\"]/tooltip"
@@ -4433,6 +4518,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:10387
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:10410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_PLAYER\"]/tooltip"
@@ -4456,6 +4546,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10486
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:10487
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_CLOAK_STUN_MEGA\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:10510
@@ -5660,6 +5755,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:13289
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:13308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_EMP\"]/tooltip"
@@ -6188,6 +6288,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:14684
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE_ENEMY\"]/descriptionOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:14748
@@ -9405,6 +9510,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/short"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:19566
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/descriptionOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:19582
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_BURST_3\"]/desc"
@@ -9470,4 +9580,52 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19753
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"INTERNALIZED_AUG_COUNTER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19841
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_1\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19849
+msgid ""
+"data/blueprints.xml.append$/dummyroot/FTL[42]/mod:findName[16]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19857
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_FIRE\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:19865
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_STUN\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20162
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20167
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK_PLAYER\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20206
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_BREACH\"]/mod-"
+"overwrite:desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:20245
+msgid ""
+"data/blueprints.xml.append$//mod:findName[@name=\"KERNEL_HULL_ELITE\"]/mod-"
+"overwrite:desc"
 msgstr ""
