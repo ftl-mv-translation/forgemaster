@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-08-26 16:46+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
@@ -10379,13 +10387,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:9333
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"Использовать миномет \"Грязная бомба\" [-15}, задерживает флот на 4 прыжка, "
-"+2 к дурной славе]"
+"Использовать свой миномет \"Грязная бомба\" [-15}, задерживает флот на 4 "
+"прыжка, +2 к дурной славе]"
 
 #: src-en/data/events_special_storage.xml.append:9335
 msgid ""
