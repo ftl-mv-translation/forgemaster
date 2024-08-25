@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-08-26 16:46+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_specialfm_forgemasterxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:46
 msgid ""
@@ -2462,7 +2470,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА + CNC] Объединить две Автопушки 2с и 5 боеголовок, чтобы "
+"[GO BALLISTIC + CNC] Объединить две Автопушки 2с и 5 боеголовок, чтобы "
 "выковать пушку \"Мамонт\". [Цена: 60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2106
@@ -2471,7 +2479,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА + CNC] Чтобы выковать это орудие, у вас должно быть две "
+"[GO BALLISTIC + CNC] Чтобы выковать это орудие, у вас должно быть две "
 "Автопушки 2с и 5 боеголовок."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2112
@@ -7956,13 +7964,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7846
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/text"
 msgstr ""
 "Хотите установить свой собственный Модульный корпус? [5% сопротивления "
-"повреждениям корпуса, позволяет устанавливать дальнейшие улучшения. "
-"Заблокировано, поэтому не подлежит возврату!]"
+"повреждениям корпуса, позволяет устанавливать дальнейшие улучшения. Будет "
+"заблокирован после покупки, поэтому не подлежит возврату!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7848
 msgid ""
@@ -8002,13 +8009,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7887
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/text"
 msgstr ""
 "Хотите установить свой собственный Модульный корпус? [Позволяет "
-"устанавливать дальнейшие улучшения. Заблокировано, поэтому не подлежит "
-"возврату!]"
+"устанавливать дальнейшие улучшения. Будет заблокирован после покупки, "
+"поэтому не подлежит возврату!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7889
 msgid ""
