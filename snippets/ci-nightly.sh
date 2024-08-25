@@ -14,6 +14,4 @@ else
     cp "output-$1/mod-appendix/metadata.xml" "packages/metadata-$1.xml"
 fi
 
-pushd "output-$1"
-zip -r "../packages/xml_only-$1.zip" *
-popd
+python snippets/zip.py "packages/xml_only-$1" "output-$1"
