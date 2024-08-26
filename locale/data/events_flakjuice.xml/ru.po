@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-08-26 20:09+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_flakjuicexml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_flakjuice.xml:2
 msgid ""
@@ -79,7 +87,7 @@ msgid ""
 msgstr ""
 "Вы загружаете материалы в кузницу и ждете. Внезапно на свет появляется "
 "совершенно новая Осколочная пушка! Она не такая уж и мощная, но точно "
-"поможет вам в пути!\""
+"поможет вам в пути!"
 
 #: src-en/data/events_flakjuice.xml:64
 msgid ""
@@ -239,7 +247,7 @@ msgid ""
 msgstr ""
 "Вы загружаете материалы в кузницу и ждете. Внезапно на свет появляется "
 "совершенно новая Осколочная пушка! Она не такая уж и мощная, но точно "
-"поможет вам в пути!\""
+"поможет вам в пути!"
 
 #: src-en/data/events_flakjuice.xml:165
 msgid ""
@@ -349,7 +357,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"50\"]/text"
 msgstr ""
-"Потратить огромное количество особых осколочных ресурсов (цена 40 особых "
+"Потратить огромное количество особых осколочных ресурсов (цена 50 особых "
 "осколочных очков)"
 
 #: src-en/data/events_flakjuice.xml:234
@@ -370,7 +378,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[10]/text"
 msgstr ""
-"Потратить огромное количество особых осколочных ресурсов (цена 40 особых "
+"Потратить огромное количество особых осколочных ресурсов (цена 50 особых "
 "осколочных очков)"
 
 #: src-en/data/events_flakjuice.xml:250
@@ -1598,7 +1606,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:1259
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_2\"]/text"
-msgstr "Получить Фазер мод. II за 10 осколочных очков."
+msgstr "Получить Фазер мод. II за 14 осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:1261
 msgid ""
@@ -4275,7 +4283,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3395
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION5\"]/text"
-msgstr "Получить гатлинг \"Пиу пиу пиу\" за 30 особых осколочных очков."
+msgstr "Получить \"Пиу пиу пиу\" за 30 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3397
 msgid ""
@@ -4833,7 +4841,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_flakjuice.xml:3839
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_7\"]/text"
-msgstr "Получить \"Больше\" за 13 особых осколочных очков."
+msgstr "Получить \"Больше\" за 18 особых осколочных очков."
 
 #: src-en/data/events_flakjuice.xml:3841
 msgid ""
