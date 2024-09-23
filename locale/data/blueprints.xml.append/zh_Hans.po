@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-22 04:42+0000\n"
+"PO-Revision-Date: 2024-09-24 02:42+0000\n"
 "Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "forgemaster/datablueprintsxmlappend/zh_Hans/>\n"
@@ -65,57 +65,62 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/class"
-msgstr ""
+msgstr "毁灭之枪"
 
 #: src-en/data/blueprints.xml.append:237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/name"
-msgstr ""
+msgstr "泰坦蟒神炮"
 
 #: src-en/data/blueprints.xml.append:239
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/desc"
-msgstr ""
+msgstr "在第二个计划失败后，有钱的自由螳螂醉酒狂欢，决定主动进攻敌人。这艘飞船配备了"
+"超高速引擎，还内置了无人机回收系统！"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/class"
-msgstr ""
+msgstr "毁灭之枪II"
 
 #: src-en/data/blueprints.xml.append:307
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/name"
-msgstr ""
+msgstr "觉醒星蛇炮"
 
 #: src-en/data/blueprints.xml.append:309
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/desc"
-msgstr ""
+msgstr "这个智商存疑的自由螳螂安装了一些以太反应堆，并让一些武器重新开始运作！这艘飞"
+"船现在修理起来简直是一团糟，但却成了一股不容小觑的力量。"
 
 #: src-en/data/blueprints.xml.append:384
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/class"
-msgstr ""
+msgstr "毁灭之枪II"
 
 #: src-en/data/blueprints.xml.append:385
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/name"
-msgstr ""
+msgstr "末路星炮"
 
 #: src-en/data/blueprints.xml.append:387
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/desc"
 msgstr ""
+"曾经富有的自由螳螂因其失败的飞船设计冒险而面临破产，银行已经开始收回他飞船的"
+"部件来偿还他难以想象的巨额债务。他最好的朋友们也被强行奴役。但这并不会阻止如"
+"今一贫如洗的自由螳螂以轰轰烈烈的方式谢幕！"
 
 #: src-en/data/blueprints.xml.append:468
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FUTURE\"]/class"
-msgstr ""
+msgstr "毁灭之枪III"
 
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FUTURE\"]/name"
-msgstr ""
+msgstr "乱序星炮"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
