@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-22 04:42+0000\n"
+"PO-Revision-Date: 2024-09-24 02:42+0000\n"
 "Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "forgemaster/dataautoblueprintsxmlappend/zh_Hans/>\n"
@@ -84,22 +84,22 @@ msgstr "扭曲叛军星舰"
 
 #: src-en/data/autoBlueprints.xml.append:502
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_R1\"]/class"
-msgstr ""
+msgstr "扭曲叛军星舰"
 
 #: src-en/data/autoBlueprints.xml.append:546
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LANIUS1\"]/class"
-msgstr ""
+msgstr "扭曲叛军星舰"
 
 #: src-en/data/autoBlueprints.xml.append:583
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_FREE1\"]/class"
-msgstr ""
+msgstr "扭曲叛军星舰"
 
 #: src-en/data/autoBlueprints.xml.append:623
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_MANTIS1\"]/class"
-msgstr ""
+msgstr "扭曲叛军星舰"
 
 #: src-en/data/autoBlueprints.xml.append:657
 msgid ""
