@@ -11328,12 +11328,12 @@ msgstr "-"
 
 #: src-en/data/blueprints.xml.append:19475
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FUSION_NO_BREACH\"]/title"
 msgstr "Anti-Breach Repellent"
 
 #: src-en/data/blueprints.xml.append:19476
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FUSION_NO_BREACH\"]/desc"
 msgstr "-"
 
 #: src-en/data/blueprints.xml.append:19483
@@ -11463,73 +11463,3 @@ msgstr "(IZD_NANOBOT_DEFENSE_SYSTEM)"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"INTERNALIZED_AUG_COUNTER\"]/desc"
 msgstr "You're not supposed to see this. Signed, The Ghost Hugger"
-
-#: src-en/data/blueprints.xml.append:19841
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_1\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"Mine Launchers charge quickly and fire a burst of slow moving projectiles.\n"
-"\n"
-"\t\t\tAt empty beacons provides 2 fleet delay for 13 missiles."
-
-#: src-en/data/blueprints.xml.append:19849
-msgid ""
-"data/blueprints.xml.append$/dummyroot/FTL[42]/mod:findName[16]/mod-"
-"overwrite:desc"
-msgstr ""
-"Mine Launchers charge quickly and fire a burst of slow moving projectiles.\n"
-"\n"
-"\t\t\tAt empty beacons provides 2 fleet delay for 10 missiles."
-
-#: src-en/data/blueprints.xml.append:19857
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_FIRE\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"Mine Launchers charge quickly and fire a burst of slow moving projectiles. Modified variant that always starts fires.\n"
-"\n"
-"\t\t\tAt empty beacons provides 3 fleet delay for 17 missiles."
-
-#: src-en/data/blueprints.xml.append:19865
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_STUN\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"Mine Launchers charge quickly and fire a burst of slow moving projectiles. Modified variant that stuns crew for a long time.\n"
-"\n"
-"\t\t\tAt empty beacons provides 3 fleet delay for 17 missiles."
-
-#: src-en/data/blueprints.xml.append:20162
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"A Missile with cloaking technology that travels slower, it is undetectable "
-"by certain Defense Drones and cannot miss."
-
-#: src-en/data/blueprints.xml.append:20167
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK_PLAYER\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"A Missile with cloaking technology that travels slower, it is undetectable "
-"by certain Defense Drones and cannot miss."
-
-#: src-en/data/blueprints.xml.append:20206
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_BREACH\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"Mine Launchers charge quickly and fire a burst of slow moving projectiles. Modified variant that always opens breaches.\n"
-"\n"
-"\t\t\tAt empty beacons provides 3 fleet delay for 17 missiles."
-
-#: src-en/data/blueprints.xml.append:20245
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"KERNEL_HULL_ELITE\"]/mod-"
-"overwrite:desc"
-msgstr ""
-"This weapon uses kernels of giant plants from the Orchid home planet as "
-"ammunition. Powerful Elite version with a longer stun and higher chance to "
-"ignore their ammo cost."

@@ -36,12 +36,12 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:29
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/text"
 msgstr "Последняя встреча?"
 
 #: src-en/data/events_special_curator.xml.append:31
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/text"
 msgstr ""
 "\"... Одну минуту\". К.У.Р.А. отвечает, затем следует короткая пауза. "
 "\"Внесение базы данных в черный список завершено. Ты неправильно расслышал, "
@@ -49,12 +49,12 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:33
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/text"
 msgstr "Теперь ты просто обманываешь меня, скажи мне, что ты имел в виду."
 
 #: src-en/data/events_special_curator.xml.append:35
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/text"
 msgstr ""
 "\"Не усложняй наши отношения, Ренегат. Мне просто нужно, чтобы ты помог мне "
 "собрать артефакты, связанные с мистером Вентвортом. У нас есть "
@@ -62,14 +62,14 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:37
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/text"
 msgstr ""
 "А может я тебя найду, сотру твою память, а затем заменю твою основную "
 "программу игрой \"Пасьянс\"? Как тебе такое, придурок? Ты что-то скрываешь."
 
 #: src-en/data/events_special_curator.xml.append:39
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "\"... Сбор данных завершен. С вероятностью 87% Ренегат каким-то образом "
 "осведомлен о нашем прошлом предательстве, в результате которого он уничтожил"
@@ -78,14 +78,14 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:41
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 "Ты упомянул, что не повторишь эту ошибку еще раз. Чему ты научился? Я жажду "
 "окончательно сокрушить тебя и Флагман."
 
 #: src-en/data/events_special_curator.xml.append:43
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 "Вас охватывает чувство дежавю. Возможно, эти воспоминания - ваши "
 "собственные? А может, и нет, вы не уверены. \"Как смело, Ренегат. Ты не "
@@ -95,12 +95,12 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:45
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
 msgstr "Конечно, почему нет."
 
 #: src-en/data/events_special_curator.xml.append:47
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "\"Понял, я могу дать тебе битвы, в которых ты не сможешь победить. Если ты "
 "преуспеешь во всех из них, то, по моим расчетам, это будет стоить твоих "
@@ -109,20 +109,60 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:51
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_curator.xml.append:59
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
 msgstr "Неважно, забудь, что я вообще об этом говорил."
 
 #: src-en/data/events_special_curator.xml.append:69
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[2]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[2]/text"
 msgstr "Сказать К.У.Р.А., что вы ошиблись, и вернуться в предыдущее меню."
 
+#: src-en/data/events_special_curator.xml.append:79
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/text"
+msgstr ""
+
 #: src-en/data/events_special_curator.xml.append:81
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:83
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:85
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:87
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "Конечно, почему нет."
+
+#: src-en/data/events_special_curator.xml.append:89
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:92
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_curator.xml.append:100
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "Неважно, забудь, что я вообще об этом говорил."
+
+#: src-en/data/events_special_curator.xml.append:112
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/text"
 msgstr ""
@@ -134,51 +174,51 @@ msgstr ""
 "\tОплата: Чрезвычайное количество лома + ресурсы.\n"
 "\tБонусная награда: ???"
 
-#: src-en/data/events_special_curator.xml.append:89
+#: src-en/data/events_special_curator.xml.append:120
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/text"
 msgstr "Принять задание."
 
-#: src-en/data/events_special_curator.xml.append:91
+#: src-en/data/events_special_curator.xml.append:122
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/text"
 msgstr ""
 "\"Задание принято. Передаю модуль во внутренние системы твоего корабля. Не "
 "разочаруй меня\"."
 
-#: src-en/data/events_special_curator.xml.append:96
+#: src-en/data/events_special_curator.xml.append:127
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_curator.xml.append:102
+#: src-en/data/events_special_curator.xml.append:133
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[2]/text"
 msgstr "Вернуться."
 
-#: src-en/data/events_special_curator.xml.append:110
+#: src-en/data/events_special_curator.xml.append:141
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/text"
 msgstr "Вы уже приняли невозможное задание."
 
-#: src-en/data/events_special_curator.xml.append:113
+#: src-en/data/events_special_curator.xml.append:144
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/choice/text"
 msgstr "Вернуться."
 
-#: src-en/data/events_special_curator.xml.append:121
+#: src-en/data/events_special_curator.xml.append:152
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/text"
 msgstr ""
 "\"Загрузка модуля на твой корабль завершена. Не волнуйся, Ренегат, он не "
 "займет ни одну из твоих драгоценных ячеек для модулей\"."
 
-#: src-en/data/events_special_curator.xml.append:123
+#: src-en/data/events_special_curator.xml.append:154
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_curator.xml.append:125
+#: src-en/data/events_special_curator.xml.append:156
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/text"
 msgstr ""
@@ -186,7 +226,7 @@ msgstr ""
 "реальности\". Вы полагаете, что узнаете это, когда изучите то, что было "
 "установлено в системы вашего корабля."
 
-#: src-en/data/events_special_curator.xml.append:127
+#: src-en/data/events_special_curator.xml.append:158
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/choice/text"
 msgstr "Продолжить..."

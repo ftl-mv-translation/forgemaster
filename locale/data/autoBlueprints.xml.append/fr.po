@@ -150,62 +150,62 @@ msgid ""
 "Gordon!\"]/desc"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:2826
+#: src-en/data/autoBlueprints.xml.append:2827
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_RIGGER_ACE\"]/class"
 msgstr "Gréeur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2849
+#: src-en/data/autoBlueprints.xml.append:2850
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_FIGHTER_ACE\"]/class"
 msgstr "Chasseur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2871
+#: src-en/data/autoBlueprints.xml.append:2872
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_SKIRMISHER_ACE\"]/class"
 msgstr "Tirailleur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2895
+#: src-en/data/autoBlueprints.xml.append:2896
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_BOMBER_ACE\"]/class"
 msgstr "Bombardier Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2920
+#: src-en/data/autoBlueprints.xml.append:2921
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_INSTIGATOR_ACE\"]/class"
 msgstr "Instigateur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2945
+#: src-en/data/autoBlueprints.xml.append:2946
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PREDATOR_ACE\"]/class"
 msgstr "Prédateur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2970
+#: src-en/data/autoBlueprints.xml.append:2971
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DROPSHIP_ACE\"]/class"
 msgstr "Vaisseau d'abordage Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:2995
+#: src-en/data/autoBlueprints.xml.append:2996
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_ACE\"]/class"
 msgstr "Chasseur d'attaque Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:3021
+#: src-en/data/autoBlueprints.xml.append:3022
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_LIGHT_CRUISER_ACE\"]/class"
 msgstr "Croiseur léger Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:3047
+#: src-en/data/autoBlueprints.xml.append:3048
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_MARAUDER_ACE\"]/class"
 msgstr "Maraudeur Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:3072
+#: src-en/data/autoBlueprints.xml.append:3073
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_TRANSPORT_ACE\"]/class"
 msgstr "Transport Rebelle"
 
-#: src-en/data/autoBlueprints.xml.append:3097
+#: src-en/data/autoBlueprints.xml.append:3098
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_JAILER_ACE\"]/class"
 msgstr "Geôlier Rebelle"

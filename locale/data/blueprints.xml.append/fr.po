@@ -9513,12 +9513,12 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:19475
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FUSION_NO_BREACH\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:19476
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FMCORE_NO_BREACH\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"ANTIAUG_FUSION_NO_BREACH\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:19483
@@ -9621,52 +9621,4 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19753
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"INTERNALIZED_AUG_COUNTER\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:19841
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_1\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:19849
-msgid ""
-"data/blueprints.xml.append$/dummyroot/FTL[42]/mod:findName[16]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:19857
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_FIRE\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:19865
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_STUN\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:20162
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:20167
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MISSILES_CLOAK_PLAYER\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:20206
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"MINELAUNCHER_BREACH\"]/mod-"
-"overwrite:desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:20245
-msgid ""
-"data/blueprints.xml.append$//mod:findName[@name=\"KERNEL_HULL_ELITE\"]/mod-"
-"overwrite:desc"
 msgstr ""

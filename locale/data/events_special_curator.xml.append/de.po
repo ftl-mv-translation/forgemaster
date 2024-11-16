@@ -30,120 +30,160 @@ msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:29
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:31
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:33
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:35
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:37
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:39
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:41
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:43
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:45
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:47
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:51
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_special_curator.xml.append:59
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:69
 msgid ""
-"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice/event/choice/event/choice[2]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:79
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:81
 msgid ""
-"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/text"
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:83
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:85
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:87
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_special_curator.xml.append:89
 msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:92
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/choice/text"
+msgstr "Fortfahren..."
+
+#: src-en/data/events_special_curator.xml.append:100
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:112
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:120
+msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/text"
 msgstr "Akzeptiere den Auftrag."
 
-#: src-en/data/events_special_curator.xml.append:91
+#: src-en/data/events_special_curator.xml.append:122
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_curator.xml.append:96
+#: src-en/data/events_special_curator.xml.append:127
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_special_curator.xml.append:102
+#: src-en/data/events_special_curator.xml.append:133
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[2]/text"
 msgstr "Zurückgehen."
 
-#: src-en/data/events_special_curator.xml.append:110
+#: src-en/data/events_special_curator.xml.append:141
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_curator.xml.append:113
+#: src-en/data/events_special_curator.xml.append:144
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/choice/text"
 msgstr "Zurückgehen."
 
-#: src-en/data/events_special_curator.xml.append:121
+#: src-en/data/events_special_curator.xml.append:152
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_curator.xml.append:123
+#: src-en/data/events_special_curator.xml.append:154
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_special_curator.xml.append:125
+#: src-en/data/events_special_curator.xml.append:156
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_curator.xml.append:127
+#: src-en/data/events_special_curator.xml.append:158
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/choice/text"
 msgstr "Fortfahren..."

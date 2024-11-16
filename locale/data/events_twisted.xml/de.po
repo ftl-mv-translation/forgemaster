@@ -76,17 +76,20 @@ msgstr ""
 
 #: src-en/data/events_twisted.xml:73
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_crystal\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"7\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:77
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_tuco\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"7\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:81
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_leech\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"7\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:86
@@ -136,17 +139,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:126
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_kestrel\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"6\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:130
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_federation\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"6\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:134
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_orchid\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"6\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:139
@@ -196,17 +202,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:179
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_lanius\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"5\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:183
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_shell\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"5\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:187
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_engineer\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"5\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:239
@@ -256,17 +265,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:279
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_slug\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"4\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:283
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_stealth\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"4\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:287
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_zoltan\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"4\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:292
@@ -316,17 +328,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:332
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_monk\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"3\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:336
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_rock\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"3\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:340
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_lostsun\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"3\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:345
@@ -376,17 +391,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:385
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_freemantis\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"2\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:389
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_separatist\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"2\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:393
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_mantis\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"2\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:398
@@ -436,17 +454,20 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:438
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_clan\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:442
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_dusk\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:446
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"ach_fm_boss_engi\"]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:451
@@ -676,92 +697,92 @@ msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:647
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[56]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:649
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[56]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:654
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[56]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:660
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[57]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:662
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[57]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:667
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[57]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:673
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[58]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:675
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[58]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:680
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[58]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:686
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[59]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:688
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[59]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:693
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[59]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:699
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[60]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:701
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[60]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:706
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[60]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:712
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[61]/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:714
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[61]/event/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_twisted.xml:719
 msgid ""
-"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[61]/event/choice/text"
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_twisted.xml:725
