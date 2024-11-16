@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 05:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-16 20:40+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -81,13 +81,12 @@ msgid ""
 msgstr "Ган ТитаноБоа"
 
 #: src-en/data/blueprints.xml.append:239
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/desc"
 msgstr ""
 "После второго неудачного проекта богатый свободный богомол ушел в запой и "
-"решил, что лучший выход - это принести оружие врагу. Этот корабль оборудован "
-"для скоростных полетов и имеет встроенную систему сбора дронов!"
+"решил, что лучший выход - это принести оружие врагу. Корабль оснащен "
+"таранной скоростью и имеет встроенную систему сбора дронов!"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
@@ -269,10 +268,9 @@ msgstr ""
 "Монах считал бы \"верой\"."
 
 #: src-en/data/blueprints.xml.append:1110
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr "Искаженные Ренегаты-валуны"
+msgstr "Искаженные Ренегаты-Теократия"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -700,12 +698,11 @@ msgid ""
 msgstr "Кузнец"
 
 #: src-en/data/blueprints.xml.append:2409
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[1]"
 msgstr ""
 "200 здоровья, получает половину урона от всех источников, передвигается со "
-"скоростью 0.8x"
+"скоростью 0.8x, ремонтирует со скоростью 3x"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid ""
@@ -1034,10 +1031,9 @@ msgstr ""
 "друзьям и союзникам. Любит настольные игры и комиксы."
 
 #: src-en/data/blueprints.xml.append:2561
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/title"
-msgstr "Энджи Защитник Микробов"
+msgstr "Энджи Защитник Микроб"
 
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
@@ -1075,7 +1071,6 @@ msgstr ""
 "друзьям и союзникам. Любит головоломки, особенно кроссворды."
 
 #: src-en/data/blueprints.xml.append:2583
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/title"
 msgstr "Энджи Защитник Феникс"
@@ -1372,10 +1367,9 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/shor
 msgstr "Ion Missile"
 
 #: src-en/data/blueprints.xml.append:2741
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[1]"
-msgstr ": - Ионнизированные отсеки наносят 3 ионных урона каждые 13 секунд."
+msgstr ": - Ионнизированные отсеки получают 3 ионных урона каждые 13 секунд."
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
@@ -4295,7 +4289,6 @@ msgid ""
 msgstr "Аномальный кристалл"
 
 #: src-en/data/blueprints.xml.append:7913
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/title"
 msgstr "Луч \"HD_Hotfix_26v7\""
@@ -6751,7 +6744,6 @@ msgid ""
 msgstr "Оружие для ремонтного дрона"
 
 #: src-en/data/blueprints.xml.append:12312
-#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/title"
 msgstr "Артиллерия \"Амальгама\""
 
@@ -6775,7 +6767,6 @@ msgstr ""
 "безумец мог создать такое?"
 
 #: src-en/data/blueprints.xml.append:12397
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_INVIS\"]/title"
 msgstr "Артиллерия \"Амальгама\""
