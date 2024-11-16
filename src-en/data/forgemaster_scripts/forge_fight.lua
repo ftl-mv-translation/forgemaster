@@ -1,4 +1,4 @@
-local vter = mods.inferno.vter
+local vter = mods.fusion.vter
 local eventParser = Hyperspace.CustomEventsParser.GetInstance()
 local capp = Hyperspace.Global.GetInstance():GetCApp()
 local function copyTable(t)
@@ -299,10 +299,14 @@ local forgeFightEvents ={
     installNextCapstone(ShipManager)
   end,
 }
-
+local totalDamage = 0
 local undyingShip = function(ShipManager,Damage,Projectile)
   local revives = ShipManager:HasAugmentation("FM_REVIVE")
-  if revives>0 and (ShipManager.ship.hullIntegrity.first-Damage.iDamage<1 or (Damage.bhullBuster==true and ShipManager.ship.hullIntegrity.first-Damage.iDamage*2<1)) then
+  totalDamage = totalDamage+math.max(0,Damage.iDamage)
+  if Damage.bHullBuster==true then
+    totalDamage = totalDamage+math.max(0,Damage.iDamage)
+  end
+  if revives>0 and ShipManager.ship.hullIntegrity.first<=totalDamage then--(ShipManager.ship.hullIntegrity.first-Damage.iDamage<1 or (Damage.bHullBuster==true and ShipManager.ship.hullIntegrity.first-Damage.iDamage*2<1)) then
     if Projectile then Projectile:Kill() end
     local space = Hyperspace.Global.GetInstance():GetCApp().world.space
     for proj in vter(space.projectiles) do
@@ -310,10 +314,11 @@ local undyingShip = function(ShipManager,Damage,Projectile)
         proj:Kill()
       end
     end
-    Damage.iDamage=0
+    --Damage.iDamage=0
     ShipManager.ship.hullIntegrity.first=ShipManager.ship.hullIntegrity.second
     --print("fixedShip")
     ShipManager:RemoveItem("HIDDEN FM_REVIVE")
+    totalDamage=0
     if multiStageFightEvents[ShipManager.myBlueprint.blueprintName] then
       if multiStageFightEvents[ShipManager.myBlueprint.blueprintName][revives] then
         multiStageFightEvents[ShipManager.myBlueprint.blueprintName][revives](ShipManager)
@@ -339,6 +344,10 @@ local undyingShip = function(ShipManager,Damage,Projectile)
     --]]
     return true
     --print("good thing he had a totem of undying :)")
+  end
+  totalDamage = totalDamage-math.max(0,Damage.iDamage)
+  if Damage.bhullBuster==true then
+    totalDamage = totalDamage-math.max(0,Damage.iDamage)
   end
   return false
 end
@@ -394,7 +403,7 @@ function forcenextPhase(shipId)
 end
 --[[
 function spawnAncBoarder(ShipManager)
-  local bp = Hyperspace.Global.GetInstance():GetBlueprints():GetDroneBlueprint("FM_ANCALAGON_BATTLE")
+  local bp = Hyperspace.Blueprints:GetDroneBlueprint("FM_ANCALAGON_BATTLE")
   local drone = ShipManager:CreateSpaceDrone(bp)
   drone.powerRequired=0
   drone.powered=true
@@ -431,6 +440,6 @@ LUA pds = Hyperspace.Global.GetInstance():GetCApp().world.space:CreatePDSFire(WP
 custom ASB anyone?
 
 LUA ANIM=animControl:GetAnimation("detergent")
-LUA for proj in mods.inferno.vter(Hyperspace.Global.GetInstance():GetCApp().world.space.projectiles) do proj.flight_animation = ANIM end
+LUA for proj in mods.fusion.vter(Hyperspace.Global.GetInstance():GetCApp().world.space.projectiles) do proj.flight_animation = ANIM end
 detergent ASB when?
 ]]

@@ -137,9 +137,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/forgemaster/raw/forgemaster-english/Forgemaster_0.6.1.1.zip",
+            "https://github.com/ftl-mv-translation/forgemaster/raw/forgemaster-english/Forgemaster_0.6.1.2.2.zip",
         ],
         "prefix": "Forgemaster",
-        "version": "0.6.1.1"
+        "version": "0.6.1.2.2"
     }
 }
