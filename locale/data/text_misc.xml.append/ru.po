@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 20:40+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2024-11-17 21:20+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -162,7 +162,6 @@ msgstr ""
 "FM: это КОМПОНЕНТ для ковки лазера ТЛАЛОК[40~], также вам понадобится другой КОМПОНЕНТ в виде Облучающего лазера."
 
 #: src-en/data/text_misc.xml.append:74
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_bio\"]"
 msgstr ""
 "Совет: радиационное орудие наносит большой урон экипажу, имеет небольшой "
@@ -228,7 +227,6 @@ msgstr ""
 "FM: это КОМПОНЕНТ для ковки Фотона мод. II[50~], также вам понадобится другой КОМПОНЕНТ в виде Легкого лазера мод. II."
 
 #: src-en/data/text_misc.xml.append:125
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_heavy_1\"]"
 msgstr ""
 "Совет: каждый выстрел лазера будет блокирован одним слоем щита, независимо "
@@ -425,7 +423,6 @@ msgstr ""
 "FM: это КОМПОНЕНТ для ковки ионного луча Контос[100~], также вам понадобится другой КОМПОНЕНТ в виде луча \"Рунка\"."
 
 #: src-en/data/text_misc.xml.append:272
-#, fuzzy
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_breach\"]"
 msgstr ""
 "Совет: разрывной луч может создавать пробоину на каждой плитке, в которую "
