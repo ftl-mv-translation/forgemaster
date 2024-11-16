@@ -76,7 +76,8 @@ msgid ""
 msgstr ""
 "After his second failed project, the wealthy Free Mantis went on a drunken "
 "bender and decided the best course of action is to bring the weapons to the "
-"enemy. This ship is equipped for f speeds and has a built-in drone recovery!"
+"enemy. This ship is equipped for rammong speeds and has a built-in drone "
+"recovery!"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
@@ -259,7 +260,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr "Twisted Renegade Rock"
+msgstr "Twisted Renegade Theocracy"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
@@ -678,7 +679,9 @@ msgstr "Forgemaster"
 #: src-en/data/blueprints.xml.append:2409
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[1]"
-msgstr "200 Health, takes half damage from all sources, moves at 0.8x speed"
+msgstr ""
+"200 Health, takes half damage from all sources, moves at 0.8x speed, and "
+"repairs at 3x speed"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid ""
@@ -6635,7 +6638,7 @@ msgstr "weapon for pro-hull drone."
 
 #: src-en/data/blueprints.xml.append:12312
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/title"
-msgstr "Amalgam artillery"
+msgstr "Amalgam Artillery"
 
 #: src-en/data/blueprints.xml.append:12313
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT\"]/short"
@@ -6659,7 +6662,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_INVIS\"]/title"
-msgstr "Amalgam artillery"
+msgstr "Amalgam Artillery"
 
 #: src-en/data/blueprints.xml.append:12398
 msgid ""
