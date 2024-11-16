@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 05:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-11-16 20:40+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -30,7 +30,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:59
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//ship[@name=\"SHIP_FM_GUNHYDRA_ENEMY\"]/deadCrew/text"
 msgstr ""
@@ -222,7 +221,6 @@ msgid ""
 msgstr "Алестер попросил меня помочь..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:186
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_DESTROY\"]/text"
 msgstr ""
@@ -236,7 +234,7 @@ msgstr ""
 "исследования и технологии для создания оружия войны, вместо того чтобы "
 "использовать наши знания для распространения мира и процветания\". \"Вы "
 "можете сколько угодно распространять мир, Ки, но когда дело доходит до дела, "
-"оружие - это то, что отличает таких спасителей, как мистер Ренегат, и таких "
+"оружие - это то, что отличает таких спасителей, как этот Ренегат, и таких "
 "трусов, как мы, которые прячутся под столом, чтобы избежать опасности\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:189
@@ -245,7 +243,6 @@ msgid ""
 msgstr "Стать посредником в их конфликте."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:195
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_KILLED\"]/text"
 msgstr ""
@@ -259,7 +256,7 @@ msgstr ""
 "исследования и технологии для создания оружия войны, вместо того чтобы "
 "использовать наши знания для распространения мира и процветания\". \"Вы "
 "можете сколько угодно распространять мир, Ки, но когда дело доходит до дела, "
-"оружие - это то, что отличает таких спасителей, как мистер Ренегат, и таких "
+"оружие - это то, что отличает таких спасителей, как этот Ренегат, и таких "
 "трусов, как мы, которые прячутся под столом, чтобы избежать опасности\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:198
@@ -2039,13 +2036,12 @@ msgstr ""
 "Чтобы выковать это орудие, у вас должны быть Малая бомба и луч \"Алебарда\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1802
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Чтобы выковать это орудие, объединить луч \"Рунка\" с базовой Ионной пушкой "
-"или Залповым ионом мод. I. [Цена: 100~]"
+"или Залповым ионом мод. I. [Цена: 60-100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1807
 msgid ""
@@ -8067,7 +8063,6 @@ msgid ""
 msgstr "Установить общекорабельные модули."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7939
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE_COUNT\""
 " and @lvl=\"0\"]/text"
