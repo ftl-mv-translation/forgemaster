@@ -8,7 +8,7 @@ local function table_to_list_string(tbl, delimiter, toStrFunc)
     elseif #tbl == 1 then
         return cbwrap(tbl[1], toStrFunc)
     end
-    delimiter = delimiter or " or "
+    delimiter = delimiter or " или "
     if #tbl == 2 then
         return cbwrap(tbl[1], toStrFunc)..delimiter..cbwrap(tbl[2], toStrFunc)
     else
@@ -44,7 +44,7 @@ local function get_cost_string(costs)
     end
     return table.concat(ret,", ")
 end
-local any_phatom = {"phantom_goul","phantom","phantom_mare","phantom_wraith",displayName="[REDACTED]"}
+local any_phatom = {"phantom_goul","phantom","phantom_mare","phantom_wraith",displayName="[РЕДАКТИРОВАТЬ]"}
 local any_AC_1 = {
     "GB_AC_1",
     "GB_AC_1_CASELESS",
@@ -71,15 +71,15 @@ local any_AC_2 = {
     "GB_AC_2_RAD",
     displayName ="Any AC2"
 }
-local ANY_ASSAULT_DRONE = {"ASSAULT_PIERCE","ASSAULT_PARTICLE",displayName = "Assault Drone"}
-local ANY_COMBAT_2 = {"COMBAT_2_LASER","COMBAT_2_BEAM",displayName = "Combat II Drone"}
-local ANY_COMBAT_1 = {"COMBAT_1_LASER","COMBAT_1_BEAM",displayName = "Combat I Drone"}
-local ANY_ENERGY_AMP = {"ENERGY_1_AMP2","ENERGY_1_AMP3","ENERGY_1_AMP4",displayName = "Amp Energy Drone"}
-local ANY_FOCUS_AMP = {"FOCUS_1_AMP2","FOCUS_1_AMP3","FOCUS_1_AMP4",displayName = "Amp Pinpoint Drone"}
-local ANY_COMBAT_CONSERVATIVE = {"COMBAT_CONSERVATIVE_BEAM","COMBAT_CONSERVATIVE_LASER",displayName = "Conservative Drone"}
-local ANY_BATTLE_DRONE = {"BATTLETOG_DEFEND","BATTLETOG_BOARDER",displayName = "Battle Drone"}
-local ANY_PEST_DRONE = {"PEST_RAD","PEST_DEBUFF",displayName = "Pest Drone"}
-local ANY_RECON_DRONE = {"RECON_BOARDER","RECON_DEFENSE",displayName = "Recon Drone"}
+local ANY_ASSAULT_DRONE = {"ASSAULT_PIERCE","ASSAULT_PARTICLE",displayName = "Штурмовой дрон"}
+local ANY_COMBAT_2 = {"COMBAT_2_LASER","COMBAT_2_BEAM",displayName = "Боевой дрон II"}
+local ANY_COMBAT_1 = {"COMBAT_1_LASER","COMBAT_1_BEAM",displayName = "Боевой дрон I"}
+local ANY_ENERGY_AMP = {"ENERGY_1_AMP2","ENERGY_1_AMP3","ENERGY_1_AMP4",displayName = "Энергетический дрон с усилителем"}
+local ANY_FOCUS_AMP = {"FOCUS_1_AMP2","FOCUS_1_AMP3","FOCUS_1_AMP4",displayName = "Дрон-снайпер с усилителем"}
+local ANY_COMBAT_CONSERVATIVE = {"COMBAT_CONSERVATIVE_BEAM","COMBAT_CONSERVATIVE_LASER",displayName = "Консервативный дрон"}
+local ANY_BATTLE_DRONE = {"BATTLETOG_DEFEND","BATTLETOG_BOARDER",displayName = "Дрон-солдат"}
+local ANY_PEST_DRONE = {"PEST_RAD","PEST_DEBUFF",displayName = "Дрон-вредитель"}
+local ANY_RECON_DRONE = {"RECON_BOARDER","RECON_DEFENSE",displayName = "Разведдрон"}
 -- Table of all FM recipes and their ingredients, ingredients listed on the same index in multiple versions of the same recipe indicate that tehy are interchantable
 mods.Forgemaster.recipes = {
     FM_LASER_ANOMALY_1 = {
@@ -99,7 +99,7 @@ mods.Forgemaster.recipes = {
     FM_PHASER_SUFFOCATION = {
         {
             costs = 55,
-            {"lanius",displayName="[REDACTED]"},
+            {"lanius",displayName="[РЕДАКТИРОВАТЬ]"},
             "ION_PIERCE_2",
         }
     },
@@ -257,7 +257,7 @@ mods.Forgemaster.recipes = {
     FM_BEAM_GUILLOTINE_CHAIN = {
         { 
             costs = {110,2,5},
-            {"NANOBOT_DEFENSE_SYSTEM","LOCKED_NANOBOT_DEFENSE_SYSTEM", displayName = "[Redacted]"},
+            {"NANOBOT_DEFENSE_SYSTEM","LOCKED_NANOBOT_DEFENSE_SYSTEM", displayName = "[Редактировать]"},
 			{"BEAM_GUILLOTINE"},
 		}
     },
@@ -366,7 +366,7 @@ mods.Forgemaster.recipes = {
         {  
             costs = 60,
 			{"SHOTGUN_4"},
-            {"BLUELIST_AETHER","ANCIENT_LASER",displayName ="some forgotten technology"},
+            {"BLUELIST_AETHER","ANCIENT_LASER",displayName ="забытой технологией"},
             --bonus_req = {"BLUELIST_AETHER",lvl = 1}
 		}
     },
@@ -375,7 +375,7 @@ mods.Forgemaster.recipes = {
         {  
             costs = 30,
 			{"SHOTGUN_2"},
-			{"lanius", displayName = "lanius and clonebay lvl 3"},
+			{"lanius", displayName = "ланиусом и Клон-отсеком 3 уровня"},
             bonus_req = {"clonebay",lvl = 3}
 		}
     },
@@ -406,7 +406,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="any Crystal weapon"},
+			"MINELAUNCHER_CRYSTAL", displayName="любым кристаллическим оружием"},
         }
     },
     FM_SHOTGUN_INDIUM = {
@@ -450,7 +450,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="any Elite Crystal weapon"},
+			"MINELAUNCHER_CRYSTAL", displayName="любым элитным кристаллическим оружием"},
 		}
     },
     FM_SHOTGUN_PLATINUM = {
@@ -488,7 +488,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="any Elite Crystal weapon"},
+			"MINELAUNCHER_CRYSTAL", displayName="любым элитным кристаллическим оружием"},
 		}
     },
         
@@ -776,7 +776,7 @@ mods.Forgemaster.reload_recipes()
 -- Write FM forging tips
 local function weapon_title_from_name(name)
     local ret = Hyperspace.Blueprints:GetWeaponBlueprint(name):GetNameShort()
-    if string.len(ret) == 0 then return "[REDACTED]" end
+    if string.len(ret) == 0 then return "[РЕДАКТИРОВАТЬ]" end
     return ret
 end
 -- taking in 
@@ -803,7 +803,7 @@ local function ingredient_list_to_string(ingredientList)
             table.insert(ingredientList_truenames,ingredient_truename)
         end
     end
-    local ret = table_to_list_string(ingredientList_truenames," or ")
+    local ret = table_to_list_string(ingredientList_truenames," или ")
     if ingredientList.displayName and #ret>0 then return ingredientList.displayName end
     return ret
 end
@@ -852,7 +852,7 @@ local function recipes_to_strings(recipeList,ingredient)
         end
         if valid_recipe and not invalid_recipe then
             if(#ingredient_strings>0) then
-                table.insert(recipeStrings,forgestring:format(table_to_list_string(ingredient_strings, " and "),"%s",get_cost_string(recipe.costs or 0)))
+                table.insert(recipeStrings,forgestring:format(table_to_list_string(ingredient_strings, " и "),"%s",get_cost_string(recipe.costs or 0)))
             else
                 table.insert(recipeStrings,forgestring_alone:format("%s",get_cost_string(recipe.costs or 0)))
             end
