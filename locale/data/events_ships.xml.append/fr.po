@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-27 23:13+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_shipsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_ships.xml.append:28
 msgid ""
@@ -1102,6 +1109,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le vaisseau vous contacte, mais dès que vous répondez, le capitaine se met à "
+"fulminer : \"UGH, j'ai encore installé le mauvais addon. Je voulais juste "
+"jouer à CE, et j'ai oublié d'installer FTL : Source.\""
 
 #: src-en/data/events_ships.xml.append:1504
 msgid ""
