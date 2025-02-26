@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-27 23:13+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -9596,12 +9603,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19735
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADDON_INSTALLED_FORGEMASTER\"]/title"
-msgstr ""
+msgstr "Merci d'avoir installé FORGEMASTER !"
 
 #: src-en/data/blueprints.xml.append:19736
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADDON_INSTALLED_FORGEMASTER\"]/desc"
-msgstr ""
+msgstr "Merci d'avoir installé FORGEMASTER !"
 
 #: src-en/data/blueprints.xml.append:19744
 msgid ""
