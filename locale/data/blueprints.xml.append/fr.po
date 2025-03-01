@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-27 23:13+0000\n"
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:96
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/class"
-msgstr ""
+msgstr "GunBomination"
 
 #: src-en/data/blueprints.xml.append:97
 msgid ""
@@ -45,7 +45,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:167
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/class"
-msgstr ""
+msgstr "GunBomination"
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
@@ -60,7 +60,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/class"
-msgstr ""
+msgstr "GunBomination"
 
 #: src-en/data/blueprints.xml.append:237
 msgid ""
@@ -4638,11 +4638,23 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/desc"
 msgstr ""
+"Comme son nom l'indique, il s'agit d'un lance-mines terrifiant. Il tire 5 "
+"mines dans un rayon légèrement plus petit, et inflige 2 fois plus de dégâts "
+"aux pièces sans système.\n"
+"\n"
+"\t\t\tAux balises vides, permet de retarder la flotte de 5 sauts contre 21 "
+"missiles"
 
 #: src-en/data/blueprints.xml.append:10701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_HULL\"]/tooltip"
 msgstr ""
+">Comme son nom l'indique, il s'agit d'un lance-mines terrifiant. Il tire 5 "
+"mines dans un rayon légèrement plus petit, et inflige 2 fois plus de dégâts "
+"aux pièces sans système.\n"
+"\n"
+"\t\t\tAux balises vides, permet de retarder la flotte de 5 sauts contre 21 "
+"missiles"
 
 #: src-en/data/blueprints.xml.append:10740
 msgid ""
@@ -4658,6 +4670,11 @@ msgstr "Assaut"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ROYAL_MINELAUNCHER\"]/desc"
 msgstr ""
+"On dirait que les lance-mines remontent à encore bien plus longtemps. Celui-"
+"ci paraît bien plus puissant que ses cousins modernes.\n"
+"\n"
+"\t\t\tAux balises vides, permet de retarder la flotte de 2 sauts contre 6 "
+"missiles."
 
 #: src-en/data/blueprints.xml.append:10746
 msgid ""
@@ -4678,11 +4695,26 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/desc"
 msgstr ""
+"Une arme horrible, conçue pour être l'une des machines à tuer les plus "
+"puissantes jamais fabriquées. Elle tire 5 mines \"sales\" qui remplissent "
+"les pièces d'un gaz toxique pendant 20 secondes.\n"
+"\n"
+"\t\t\tAux balises vides, permet de retarder la flotte de 4 sauts contre 15 "
+"missiles, mais augmente la réputation générale de 2. Vous êtes un "
+"psychopathe."
 
 #: src-en/data/blueprints.xml.append:10790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_BIO\"]/tooltip"
 msgstr ""
+"Une arme horrible, conçue pour être l'une des machines à tuer les plus "
+"puissantes jamais fabriquées.  Elle tire 5 mines \"sales\" qui remplissent "
+"les pièces d'un gaz toxique pendant 20 secondes.\n"
+"\n"
+"\n"
+"\t\t\tAux balises vides, permet de retarder la flotte de 4 sauts contre 15 "
+"missiles, mais augmente la réputation générale de 2. Vous êtes un "
+"psychopathe."
 
 #: src-en/data/blueprints.xml.append:10908
 msgid ""
@@ -7157,6 +7189,11 @@ msgstr "Lance-Eclat"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_CRYSTAL\"]/desc"
 msgstr ""
+"Un Lance-mines spécialisé produisant des mines cristallines explosives. Ne "
+"nécessite pas de munition, mais perce uniquement 2 boucliers.\n"
+"\t\n"
+"\tAux balises vides, permet de retarder la flotte de 1 saut contre 5 "
+"missiles, n'affecte pas la réputation."
 
 #: src-en/data/blueprints.xml.append:16643
 msgid ""
