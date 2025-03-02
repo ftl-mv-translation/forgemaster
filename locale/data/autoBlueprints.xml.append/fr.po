@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"PO-Revision-Date: 2025-03-03 16:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataautoblueprintsxmlappend/fr/>\n"
@@ -15,12 +15,12 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:8
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/class"
-msgstr "Croiseur Maître-Forge"
+msgstr "Croiseur du Maître des Forges"
 
 #: src-en/data/autoBlueprints.xml.append:51
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/class"
-msgstr "Croiseur Maître-Forge"
+msgstr "Croiseur du Maître des Forges"
 
 #: src-en/data/autoBlueprints.xml.append:95
 msgid ""
@@ -50,106 +50,106 @@ msgstr "Combattant déchu"
 #: src-en/data/autoBlueprints.xml.append:248
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_MT_BOSS_CLAN_SUICIDE\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:282
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_CRYSTAL1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:319
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ENGI1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:355
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ORCHID1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:391
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SHELL1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:428
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_FED1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:465
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ENGINEER1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:502
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_R1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:546
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LANIUS1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:583
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_FREE1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:623
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_MANTIS1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:657
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_DUSK1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:693
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_TUCO1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:730
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_MONK1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:766
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SEPA1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:805
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_STEALTH1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:837
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_KES1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:867
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LOSTSUN1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:905
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SLUG1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:943
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ZOLTAN1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:977
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LEECH1\"]/class"
-msgstr "Croiseur Renégat Corrompu"
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/autoBlueprints.xml.append:1405
 msgid ""
