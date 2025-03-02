@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"PO-Revision-Date: 2025-03-03 16:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_fillerxmlappend/fr/>\n"
@@ -31,25 +31,34 @@ msgstr ""
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Plaqué) Demander à votre Plaqué de réparer leur vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:18
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Le Plaqué répare le vaisseau étonnamment vite. Le vaisseau de la Fédération "
+"est très impressionné par son travail et vous envoie un cadeau en guise de "
+"remerciement."
 
 #: src-en/data/events_special_filler.xml.append:26
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Alastair) Faire en sorte qu'Alastair exerce sa magie sur le processus de "
+"réparation."
 
 #: src-en/data/events_special_filler.xml.append:28
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Alastair répare le vaisseau avec une relative facilité, et améliore même "
+"l'efficacité des systèmes de bord du vaisseau en guise de cadeau. Le "
+"vaisseau de la Fédération est extrêmement impressionné par son travail et "
+"vous envoie un très gros cadeau en guise de remerciement."
 
 #: src-en/data/events_special_filler.xml.append:37
 msgid ""
@@ -60,25 +69,34 @@ msgstr "Nous ne pouvons pas aider."
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Plaqué) Demander à votre Plaqué de réparer leur vaisseau."
 
 #: src-en/data/events_special_filler.xml.append:48
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Le Plaqué répare le vaisseau étonnamment vite. Le vaisseau de la Fédération "
+"est très impressionné par son travail et vous envoie un cadeau en guise de "
+"remerciement."
 
 #: src-en/data/events_special_filler.xml.append:56
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Alastair) Faire en sorte qu'Alastair exerce sa magie sur le processus de "
+"réparation."
 
 #: src-en/data/events_special_filler.xml.append:58
 msgid ""
 "data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Alastair répare le vaisseau avec une relative facilité, et améliore même "
+"l'efficacité des systèmes de bord du vaisseau en guise de cadeau. Le "
+"vaisseau de la Fédération est extrêmement impressionné par son travail et "
+"vous envoie un très gros cadeau en guise de remerciement."
 
 #: src-en/data/events_special_filler.xml.append:68
 msgid ""
