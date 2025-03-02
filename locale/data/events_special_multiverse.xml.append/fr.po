@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-03 16:16+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_multiversexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_multiverse.xml.append:4
 msgid ""
@@ -14,13 +21,18 @@ msgstr "Nous n'avons rien à montrer."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Présenter un membre d'équipage Plaqué."
 
 #: src-en/data/events_special_multiverse.xml.append:10
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Les disciples... du Maître des forges. Abandonnant leurs anciennes vies... "
+"pour poursuivre leur art sous sa tutelle. Qui peut dire... ce qui a "
+"influencé leur loyauté ? Vous êtes intelligent ou puissant pour avoir gagné "
+"leur respect... quoi qu'il en soit. Bien joué, voyageur. Attendez-vous... à "
+"des récompenses avant votre prochain voyage.\""
 
 #: src-en/data/events_special_multiverse.xml.append:14
 msgid ""
@@ -37,13 +49,17 @@ msgstr "Nous n'avons rien à montrer."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Présenter la coque modulaire."
 
 #: src-en/data/events_special_multiverse.xml.append:28
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Armure - pour la défense ! La défense ! Mais ceci est [plus] que cela ! "
+"Quelqu'un vous a donné des t-t-t-trucs intelligents pour vous y cacher ! "
+"Pour l'[adaptation] et la défense : je f-f-f-fourni le pouvoir de l'armure ! "
+"Le pouvoir de l'armure ! Gardez-le pour - l'avenir !\""
 
 #: src-en/data/events_special_multiverse.xml.append:32
 msgid ""
@@ -60,13 +76,19 @@ msgstr "Nous n'avons rien à montrer."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Présenter une arme forgée ordinaire."
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"\"Hmph. Des armes FORGÉES ? Soit. C'est un tribut, je suppose. Ce n'est PAS "
+"le meilleur travail d'Alastair. Il peut faire MIEUX que ça. Je le "
+"considérerais comme HONTEUX d’armer un Renégat avec un OUTIL aussi "
+"DÉRISOIRE. Hmph. J’aimerais bien LUI PARLER à nouveau. NÉANMOINS ! Je vais "
+"te BÉNIR de la BÉNÉDICTION DES FORGES. Mais sois PATIENT. Ce n’est pas pour "
+"maintenant, mais pour PLUS TARD !\""
 
 #: src-en/data/events_special_multiverse.xml.append:50
 msgid ""
@@ -78,13 +100,18 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Présenter une arme forgée puissante."
 
 #: src-en/data/events_special_multiverse.xml.append:58
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"\"Oh mon... voilà, ÇA c'est une ARME. Un tribut du PLUS HAUT niveau. Le "
+"talent d'Alastair n'a jamais cessé d'IMPRESSIONNER. Il s'est SURPASSÉ avec "
+"celle-ci. J’aimerais bien LUI PARLER à nouveau. NÉANMOINS ! Je vais te BÉNIR "
+"de la GRANDE BÉNÉDICTION DES FORGES. Mais sois PATIENT. Ce n’est pas pour "
+"maintenant, mais pour PLUS TARD !\""
 
 #: src-en/data/events_special_multiverse.xml.append:62
 msgid ""
@@ -96,13 +123,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Présenter l'Ancagalon Tech."
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Wakeson reste silencieux un instant. \"Renégat. D'OÙ vient cette ABOMINATION "
+"? Elle n’aurait JAMAIS dû être CRÉÉE. J’aurais préféré ne JAMAIS la VOIR. "
+"Mais une information reste une information. J’ESPÉRAIS que personne ne "
+"DÉCOUVRIRAIT ce secret. Pourtant, nos RÈGLES exigent que je te RÉCOMPENSE "
+"pour cela. Ne te MÊLE plus de ce qui ne te regarde pas, Renégat. Je vais te "
+"BÉNIR de la BÉNÉDICTION DES TÉMÉRAIRES. Mais sois PATIENT. Ce n’est pas pour "
+"maintenant, mais pour PLUS TARD !\""
 
 #: src-en/data/events_special_multiverse.xml.append:74
 msgid ""
@@ -114,13 +148,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Présenter le Terminus."
 
 #: src-en/data/events_special_multiverse.xml.append:82
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"Wakeson reste silencieux un instant. \"Pourquoi les renégats sont-ils "
+"TOUJOURS COMME ÇA... Je vais te BÉNIR de la BÉNÉDICTION DE LA DISTORSION "
+"malgré tout. Mais sois PATIENT. Ce n’est pas pour maintenant, mais pour PLUS "
+"TARD !\""
 
 #: src-en/data/events_special_multiverse.xml.append:86
 msgid ""
