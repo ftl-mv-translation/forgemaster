@@ -1,15 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-02 15:16+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_droppointxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_droppoint.xml.append:3
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Rayon Ishimura) Tenter de miner les astéroïdes les plus gros."
 
 #: src-en/data/events_sector_droppoint.xml.append:5
 msgid ""
@@ -17,20 +24,23 @@ msgid ""
 "append:choice/event/text"
 msgstr ""
 "Vous extrayez sans aucun effort une très grande quantité de matériel "
-"utilisable des astéroïdes les plus proches en attendant que votre FTL se "
-"charge."
+"utilisable des astéroïdes les plus proches en attendant que votre générateur "
+"SPL FTL se charge."
 
 #: src-en/data/events_sector_droppoint.xml.append:15
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Rayon Ishimura) \"Terraformer\" la lune vous-même, pour commencer."
 
 #: src-en/data/events_sector_droppoint.xml.append:17
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Détournant la majeure partie de la puissance de votre vaisseau vers le "
+"Rayon, vous commencez à ouvrir la lune, révélant des parties de sa surface "
+"et de nombreuses ressources précieuses."
 
 #: src-en/data/events_sector_droppoint.xml.append:19
 msgid ""
@@ -43,6 +53,12 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
 "append:choice/event/choice/event/text"
 msgstr ""
+"Avant que vous ne puissiez vraiment commencer, un missile plonge dans la "
+"coque de votre vaisseau. Vos communications sont toujours ouvertes, mais le "
+"capitaine Rocailleux est presque en train d'écumer de rage : \" Qu'est-ce "
+"qui ne va pas chez vous ? Je refuse de laisser faire ça sous ma surveillance "
+"! Tout le monde aux armes\", crache-t-il rapidement, coupant les "
+"communications dans la foulée."
 
 #: src-en/data/events_sector_droppoint.xml.append:25
 msgid ""
@@ -54,6 +70,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEST\"]/text"
 msgstr ""
+"Le vaisseau de l'équipe de terraformation ayant été détruit, vous continuez "
+"*ahem* la \"terraformation\". La croûte de la lune se fissure, libérant des "
+"gaz inconnus enfermés dans le manteau lunaire. Heureusement, c'est un "
+"problème pour quelqu'un d'autre. Vous ramassez la ferraille que vous êtes "
+"venu chercher et vous partez."
 
 #: src-en/data/events_sector_droppoint.xml.append:45
 msgid ""
@@ -64,6 +85,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEAD\"]/text"
 msgstr ""
+"Le vaisseau de l'équipe de terraformation flottant sans vie, vous continuez "
+"*ahem* la \"terraformation\". La croûte de la lune se fissure, libérant des "
+"gaz inconnus enfermés dans le manteau lunaire. Heureusement, c'est un "
+"problème pour quelqu'un d'autre. Vous ramassez la ferraille que vous êtes "
+"venu chercher et vous partez."
 
 #: src-en/data/events_sector_droppoint.xml.append:59
 msgid ""
@@ -75,12 +101,22 @@ msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
 "append:choice/text"
 msgstr ""
+"(Rayon Ishimura ) Oublier le signal, ouvrir la planète pour trouver des "
+"ressources, vous êtes sûr qu'elle est inhabitée !"
 
 #: src-en/data/events_sector_droppoint.xml.append:68
 msgid ""
 "data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"Détournant la majeure partie de la puissance de votre vaisseau vers le Rayon "
+"d'Ishimura, vous commencez à ouvrir la planète, révélant des parties de sa "
+"surface et de nombreuses ressources précieuses. Après un processus long et "
+"fastidieux, vous obtenez une quantité massive de ferraille. Le magma que "
+"vous avez révélé en fissurant la surface de la planète s'écoule sur les "
+"structures voisines qui ressemblent un peu à des bâtiments. Vous vous "
+"emparez de l'énorme quantité de ferraille et partez aussi vite que possible. "
+"Au fond de vous, vous savez ce que vous avez fait..."
 
 #: src-en/data/events_sector_droppoint.xml.append:75
 msgid ""
