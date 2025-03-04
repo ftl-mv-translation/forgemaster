@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-27 23:13+0000\n"
+"PO-Revision-Date: 2025-03-04 15:39+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/fr/>\n"
@@ -391,10 +391,21 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:464
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_hull_2\"]"
 msgstr ""
+"Conseil : chaque tir laser sera bloqué par une seule bulle de bouclier, "
+"quels que soient les dégâts du laser.\n"
+"\n"
+"FM : Un COMPOSANT pour forger le Minelauncher 'Ba-Pef' [90~], aux côtés de "
+"l'autre COMPOSANT Sobek."
 
 #: src-en/data/text_misc.xml.append:468
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_breach\"]"
 msgstr ""
+"Conseil : les lanceurs de mines ont des chances raisonnables de provoquer "
+"des effets d'état et tirent des rafales massives de mines lentes qui "
+"transpercent tous les boucliers.\n"
+"\n"
+"FM : Un COMPOSANT pour forger le lance-mines 'Ba-Pef' [90~], aux côtés de "
+"l'autre COMPOSANT, le Laser de coque II."
 
 #: src-en/data/text_misc.xml.append:472
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_bio\"]"
