@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-04 15:39+0000\n"
+"PO-Revision-Date: 2025-03-06 11:31+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/fr/>\n"
@@ -394,7 +394,7 @@ msgstr ""
 "Conseil : chaque tir laser sera bloqué par une seule bulle de bouclier, "
 "quels que soient les dégâts du laser.\n"
 "\n"
-"FM : Un COMPOSANT pour forger le Minelauncher 'Ba-Pef' [90~], aux côtés de "
+"FM : Un COMPOSANT pour forger le lance-mines 'Ba-Pef' [90~], aux côtés de "
 "l'autre COMPOSANT Sobek."
 
 #: src-en/data/text_misc.xml.append:468
