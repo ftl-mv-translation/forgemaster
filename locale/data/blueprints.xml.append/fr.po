@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-06 11:31+0000\n"
+"PO-Revision-Date: 2025-03-13 01:08+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -8066,7 +8066,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18163
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"CURA_MVBOSS_SPAWNER\"]/title"
-msgstr ""
+msgstr "Piratage de générateur C.U.R.A."
 
 #: src-en/data/blueprints.xml.append:18164
 msgid ""
