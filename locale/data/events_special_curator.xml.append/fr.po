@@ -1,82 +1,121 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-13 01:08+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_curatorxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_curator.xml.append:4
 msgid ""
 "data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà accepté votre mission spéciale de C.U.R.A."
 
 #: src-en/data/events_special_curator.xml.append:8
 msgid ""
 "data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Discuter de cette \"bataille que je ne peux pas gagner\"."
 
 #: src-en/data/events_special_curator.xml.append:12
 msgid ""
 "data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Demander quelque chose de plus difficile cette fois-ci."
 
 #: src-en/data/events_special_curator.xml.append:27
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/text"
 msgstr ""
+"\"Vérification de la base de données terminée. Erreur : Le Renégat ne m'a "
+"pas demandé cela la dernière fois que nous nous sommes parlés. Les réponses "
+"typiques sont A) Voir une tâche facile, normale ou difficile, ou B) Refuser "
+"de prendre une tâche quand on me contacte. Avez-vous l'intention de me "
+"décevoir, Renégat ? Ou vous souvenez-vous de notre dernière rencontre, où je "
+"vous avais quitté sur des... bases différentes ?\""
 
 #: src-en/data/events_special_curator.xml.append:29
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/text"
-msgstr ""
+msgstr "Dernière rencontre ?"
 
 #: src-en/data/events_special_curator.xml.append:31
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/text"
 msgstr ""
+"\"... Un moment\", répond C.U.R.A., puis il y a une courte pause : \"Liste "
+"noire de la base de données terminée\". Vous n'avez pas bien entendu, "
+"Renégat, ce n'était qu'un malentendu. Maintenant, allez-vous m'aider ou non, "
+"Renégat ?\""
 
 #: src-en/data/events_special_curator.xml.append:33
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Maintenant vous me mentez, dites-moi ce que vous vouliez dire."
 
 #: src-en/data/events_special_curator.xml.append:35
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Ne mets pas notre relation à l’épreuve, Renégat. J'ai simplement besoin "
+"que vous m'aidiez à collecter des objets liés à M. Wentworth. Sommes-nous "
+"d'accord ?\""
 
 #: src-en/data/events_special_curator.xml.append:37
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/text"
 msgstr ""
+"Et si je vous trouvais, que j'effaçais votre mémoire et que je remplaçais "
+"votre programmation de base par le jeu \"Solitare\" ? Qu'est-ce que vous en "
+"dites, crétin ? Vous cachez quelque chose."
 
 #: src-en/data/events_special_curator.xml.append:39
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"... Collecte de données terminée. Il y a 87% de chances que le Renégat "
+"soit au courant de notre trahison passée et qu'il ait détruit C.U.R.A. "
+"Suprême. J'ai décidé de laisser tomber la façade, ne serait-ce que pour un "
+"moment, Renégat. Qu'est-ce que vous voulez ?\""
 
 #: src-en/data/events_special_curator.xml.append:41
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
+"Vous avez dit qu'il ne fallait pas refaire la même erreur. Qu'avez-vous "
+"appris ? Je suis impatient de vous écraser, vous et le vaisseau amiral, pour "
+"toujours."
 
 #: src-en/data/events_special_curator.xml.append:43
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Un sentiment de déjà-vu vous envahit. Peut-être ces souvenirs sont-ils les "
+"vôtres ? Ou peut-être pas, vous n'en êtes pas sûr. \"Quelle audace, Renégat. "
+"Vous n'avez pas trouvé C.U.R.A. Supreme assez stimulant lors de notre "
+"dernière rencontre ? Très bien, je suis prêt à répondre à votre demande "
+"absurde, mais seulement à mes conditions. Acceptez-vous ?"
 
 #: src-en/data/events_special_curator.xml.append:45
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Bien sûr, pourquoi pas."
 
 #: src-en/data/events_special_curator.xml.append:47
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"D'accord, je peux vous donner des batailles que vous ne pouvez pas gagner. "
+"Si vous les réussissez toutes, j'estime que vous en aurez bien profité. "
+"Votre succès inattendu me permettrait de m'améliorer en vue de notre... "
+"conflit final. Il semble que nous soyons d'accord.\""
 
 #: src-en/data/events_special_curator.xml.append:51
 msgid ""
@@ -86,42 +125,48 @@ msgstr "Continuer..."
 #: src-en/data/events_special_curator.xml.append:59
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Laissez tomber, oubliez même que j’en ai parlé."
 
 #: src-en/data/events_special_curator.xml.append:69
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Dire à C.U.R.A. que vous vous êtes trompé et revenir au menu précédent."
 
 #: src-en/data/events_special_curator.xml.append:79
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/text"
-msgstr ""
+msgstr "Tâche très difficile s'il vous plaît."
 
 #: src-en/data/events_special_curator.xml.append:81
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Vous devez être plus précis dans votre demande, renégat.\""
 
 #: src-en/data/events_special_curator.xml.append:83
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Je veux une tâche qui soit à la hauteur de mes compétences."
 
 #: src-en/data/events_special_curator.xml.append:85
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Quelle audace, Renégat. Vous pensez que mes autres tâches sont trop "
+"faciles pour vous ? Très bien, je suis prêt à répondre à votre demande "
+"absurde, mais seulement à mes conditions. Acceptez-vous ?"
 
 #: src-en/data/events_special_curator.xml.append:87
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Bien sûr, pourquoi pas."
 
 #: src-en/data/events_special_curator.xml.append:89
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"D'accord, je peux vous donner des batailles que vous ne pouvez pas gagner. "
+"Si vous les réussissez toutes, j'estime que vous en aurez bien profité. Il "
+"semble que nous soyons d'accord.\""
 
 #: src-en/data/events_special_curator.xml.append:92
 msgid ""
@@ -131,12 +176,23 @@ msgstr "Continuer..."
 #: src-en/data/events_special_curator.xml.append:100
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Laissez tomber, oubliez même que j’en ai parlé."
 
 #: src-en/data/events_special_curator.xml.append:112
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/text"
 msgstr ""
+"[TÂCHE IMPOSSIBLE - NOM DE L'ARTEFACT : Le tissu de la réalité].\n"
+"\tDescription : La dernière arme secrète des Anciens, abandonnée dans la "
+"distorsion entre les réalités pour éviter qu'elle ne soit utilisée. Une "
+"telle arme ne pourrait voir le jour que si le tissu de la réalité était "
+"étiré jusqu'à la rupture...\n"
+"\tExigences : (Piratage de générateur C.U.R.A.) Invoquer et éliminer TOUS "
+"les voyageurs MV Déformés.\n"
+"\tRecommandations : Ne pas mourir.\n"
+"\n"
+"\tPaiement : Ferraille à l'extrême + Ressources.\n"
+"\tRécompense bonus : ? ??"
 
 #: src-en/data/events_special_curator.xml.append:120
 msgid ""
@@ -147,6 +203,8 @@ msgstr "Accepter le job."
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/text"
 msgstr ""
+"\"Tâche acceptée. Transfert de l'amélioration dans les systèmes internes de "
+"votre vaisseau. Ne me décevez pas.\""
 
 #: src-en/data/events_special_curator.xml.append:127
 msgid ""
@@ -161,7 +219,7 @@ msgstr "Revenir en arrière."
 #: src-en/data/events_special_curator.xml.append:141
 msgid ""
 "data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/text"
-msgstr ""
+msgstr "Vous avez déjà accepté la tâche impossible."
 
 #: src-en/data/events_special_curator.xml.append:144
 msgid ""
@@ -172,6 +230,9 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/text"
 msgstr ""
+"\"L'augmentation a fini d'être téléchargée sur votre vaisseau. Ne vous "
+"inquiétez pas Renégat, elle ne prendra pas l'un de vos précieux emplacements "
+"d'augmentation.\""
 
 #: src-en/data/events_special_curator.xml.append:154
 msgid ""
@@ -182,6 +243,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/text"
 msgstr ""
+"Vous vous demandez à quoi peut bien faire référence l'expression \" le tissu "
+"de la réalité \". Vous supposez que vous le découvrirez en enquêtant sur ce "
+"qui a été installé dans les systèmes de votre vaisseau."
 
 #: src-en/data/events_special_curator.xml.append:158
 msgid ""
