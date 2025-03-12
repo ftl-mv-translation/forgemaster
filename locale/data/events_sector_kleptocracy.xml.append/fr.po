@@ -1,21 +1,32 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-13 01:08+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_kleptocracyxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:9
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Rayon Ishimura) Zéro."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:11
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"Dès que la limace grossière vous voit charger vos armes, elle saute "
+"rapidement, fuyant pour sauver sa vie et se pissant probablement dessus. "
+"Malheureusement pour elle, vous avez capté sa signature de saut et vous "
+"pouvez la poursuivre si vous le souhaitez."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:14
 msgid ""
@@ -33,36 +44,51 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/text"
 msgstr ""
+"Vous avez rattrapé la Limace. Pris de panique, elle semble avoir poussé ses "
+"moteurs trop loin, se retrouvant ainsi acculée et incapable de s'échapper. "
+"Une lune solitaire flotte dans l'espace vide à proximité, avec une planète "
+"derrière vous."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:42
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/text"
 msgstr ""
+"(Ishimura) Les contacter, avec votre gigantesque rayon minier prêt à "
+"l'emploi. Comment osent-ils vous faire perdre votre temps ."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:44
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/text"
 msgstr ""
+"Vous faites la leçon à la Limace sur l'absurdité d’être soumis à des quiz "
+"impromptus sur le nombre de lunes dans une nébuleuse paumée au milieu de "
+"nulle part, surtout de la part d’une Limace impolie. \"Je sssuis dé... "
+"dézzolé, je pen- \" balbutie la Limace, mais vous ne la laissez pas finir."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:46
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/text"
-msgstr ""
+msgstr "Leur demander combien de lunes se trouvent à cette balise."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:48
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/text"
-msgstr ""
+msgstr "\"Euh....Une ?\" répond nerveusement la limace."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:50
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "(Ishimura) Zéro."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:53
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Vous anéantissez la petite lune derrière la Limace, projetant des débris "
+"dans toutes les directions. Le vaisseau de la Limace finit écrasé en dommage "
+"collatéral lorsque des morceaux de la lune s’écrasent sur lui, incapable de "
+"les éviter. Autant récupérer quelques ferrailles des dégâts que vous avez "
+"causés."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:59
 msgid ""
@@ -72,44 +98,55 @@ msgstr "Continuer..."
 #: src-en/data/events_sector_kleptocracy.xml.append:70
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/text"
-msgstr ""
+msgstr "Les appeler, en expliquant que vous voulez juste parler."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:72
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/text"
 msgstr ""
+"Vous faites la leçon à la Limace sur l'absurdité d’être soumis à des quiz "
+"impromptus sur le nombre de lunes dans une nébuleuse paumée au milieu de "
+"nulle part, surtout de la part d’une Limace impolie. \"Je sssuis dé... "
+"dézzolé, je pen- \" balbutie la Limace, mais vous ne la laissez pas finir."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:74
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Leur demander ce qui les a poussés à être aussi odieux."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:76
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "\"Euh....J'ai trouvé ça drôle ?\" répond nerveusement la limace."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:78
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ce ne l’était pas. Que je ne vous y reprenne pas."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:80
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"La limace s'engage à ne plus jamais recommencer et vous envoie un petit "
+"cadeau en guise de remerciement."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:102
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(\"Camouflage\") Aux abris !"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:104
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
+"Vous activez votre système d'occultation, mais comme vous vous en doutez, il "
+"ne sert à rien. Les Loubards se moquent de vous et tirent une salve "
+"directement sur la coque de votre vaisseau ! Mais ils cessent rapidement de "
+"rire lorsqu'ils voient que votre vaisseau encaisse le coup comme si de rien "
+"n'était."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:106
 msgid ""
@@ -127,6 +164,8 @@ msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
 msgstr ""
+"(Membre d'équipage Plaqué) Dire à votre membre d'équipage Plaqué de réparer "
+"complètement son vaisseau."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:129
 msgid ""
