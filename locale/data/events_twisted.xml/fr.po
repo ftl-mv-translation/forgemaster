@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-13 01:08+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_twistedxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_twisted.xml:2
 msgid "data/events_twisted.xml$//textList[@name=\"TEXT_START_TWISTED\"]/text"
@@ -16,10 +23,16 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:21
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/text"
 msgstr ""
+"Vous êtes arrivé à l'une des balises inhabituelles de ce secteur. Vous "
+"effectuez un balayage rapide à l'aide du logiciel fourni par C.U.R.A., qui "
+"vous informe que les propriétés anormales de cette balise obligent tout ce "
+"qui est invoqué par le Piratage de générateur spécialisé de C.U.R.A. à être "
+"attiré directement vers elle. Le Piratage de générateur n'a assez d'énergie "
+"que pour faire cela une fois par balise."
 
 #: src-en/data/events_twisted.xml:23
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Tenter d'utiliser votre Piratage de générateur C.U.R.A."
 
 #: src-en/data/events_twisted.xml:27
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/text"
@@ -29,25 +42,36 @@ msgstr "Peu importe, partons."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/event/text"
 msgstr ""
+"Vous décidez de ne pas rester dans les parages pour essayer d'appeler "
+"d'autres vaisseaux vers la balise. Ses propriétés anormales vous rendent "
+"très malades, vous et votre équipage, et vous n'aimez pas l'idée de rester "
+"ici plus longtemps que nécessaire."
 
 #: src-en/data/events_twisted.xml:38
 msgid "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/text"
 msgstr ""
+"Vous êtes arrivés à l'une des balises inhabituelles de ce secteur. Les "
+"propriétés anormales de cette balise obligent tout ce qui est appelé par le "
+"Piratage de générateur C.U.R.A. à être attiré directement vers elle. Vous "
+"vous demandez s'il pourrait être utilisé pour attirer votre vaisseau "
+"directement vers de telles balises à l'avenir."
 
 #: src-en/data/events_twisted.xml:40
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"loc_impossible_task_done\"]/text"
 msgstr ""
+"(Piratage de générateur C.U.R.A.) Vous avez déjà obtenu votre récompense. "
+"Vous vous demandez en quoi cela profite à C.U.R.A. ?"
 
 #: src-en/data/events_twisted.xml:45
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"FM_CURA_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "(Piratage de générateur C.U.R.A.) Obtenir votre récompense."
 
 #: src-en/data/events_twisted.xml:49
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"CURA_MVBOSS_SPAWNER\"]/text"
-msgstr ""
+msgstr "(Piratage de générateur C.U.R.A.) Invoquer un Voyageur MV Déformé."
 
 #: src-en/data/events_twisted.xml:53
 msgid ""
@@ -58,6 +82,10 @@ msgstr "Peu importe, partons."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/event/text"
 msgstr ""
+"Vous décidez de ne pas rester dans les parages pour essayer d'appeler "
+"d'autres vaisseaux vers la balise. Ses propriétés anormales vous rendent "
+"très malades, vous et votre équipage, et vous n'aimez pas l'idée de rester "
+"ici plus longtemps que nécessaire."
 
 #: src-en/data/events_twisted.xml:62
 msgid ""
@@ -73,6 +101,10 @@ msgstr "Peu importe, partons."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/event/text"
 msgstr ""
+"Vous décidez de ne pas rester dans les parages pour essayer d'appeler "
+"d'autres vaisseaux vers la balise. Ses propriétés anormales vous rendent "
+"très malades, vous et votre équipage, et vous n'aimez pas l'idée de rester "
+"ici plus longtemps que nécessaire."
 
 #: src-en/data/events_twisted.xml:73
 msgid ""
@@ -101,6 +133,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:93
 msgid ""
@@ -116,6 +151,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:106
 msgid ""
@@ -131,6 +169,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:119
 msgid ""
@@ -164,6 +205,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:146
 msgid ""
@@ -179,6 +223,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:159
 msgid ""
@@ -194,6 +241,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:172
 msgid ""
@@ -227,6 +277,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:246
 msgid ""
@@ -242,6 +295,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:259
 msgid ""
@@ -257,6 +313,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:272
 msgid ""
@@ -290,6 +349,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:299
 msgid ""
@@ -305,6 +367,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:312
 msgid ""
@@ -320,6 +385,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:325
 msgid ""
@@ -353,6 +421,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:352
 msgid ""
@@ -368,6 +439,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:365
 msgid ""
@@ -383,6 +457,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:378
 msgid ""
@@ -416,6 +493,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:405
 msgid ""
@@ -431,6 +511,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:418
 msgid ""
@@ -446,6 +529,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:431
 msgid ""
@@ -479,6 +565,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:458
 msgid ""
@@ -494,6 +583,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:471
 msgid ""
@@ -509,6 +601,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:484
 msgid ""
@@ -524,6 +619,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:498
 msgid ""
@@ -539,6 +637,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:511
 msgid ""
@@ -554,6 +655,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:524
 msgid ""
@@ -569,6 +673,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:537
 msgid ""
@@ -584,6 +691,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:550
 msgid ""
@@ -599,6 +709,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:563
 msgid ""
@@ -614,6 +727,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:576
 msgid ""
@@ -629,6 +745,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:589
 msgid ""
@@ -644,6 +763,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:602
 msgid ""
@@ -659,6 +781,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:615
 msgid ""
@@ -674,6 +799,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:628
 msgid ""
@@ -689,6 +817,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:641
 msgid ""
@@ -704,6 +835,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:654
 msgid ""
@@ -719,6 +853,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:667
 msgid ""
@@ -734,6 +871,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:680
 msgid ""
@@ -749,6 +889,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:693
 msgid ""
@@ -764,6 +907,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:706
 msgid ""
@@ -779,6 +925,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:719
 msgid ""
@@ -794,6 +943,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:732
 msgid ""
@@ -809,6 +961,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:745
 msgid ""
@@ -824,6 +979,9 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/text"
 msgstr ""
+"Vous mettez le Piratage de générateur à sa puissance maximale et regardez "
+"une faille s'ouvrir, faisant trembler votre vaisseau tandis qu'un autre "
+"Renégat s'y engouffre."
 
 #: src-en/data/events_twisted.xml:758
 msgid ""
