@@ -5,1194 +5,968 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:299 src-en/data/hyperspace.xml.append:298
+#: src-en/data/hyperspace.xml.append:299
 msgid ""
-"data/hyperspace.xml.append$//fm_forgemasterperson_player[@name=\"Alastair\"]/"
-"@name"
+"data/hyperspace.xml.append$//fm_forgemasterperson_player[@name=\"Alastair\"]/@name"
 msgstr "Алестер"
 
-#: src-en/data/hyperspace.xml.append:300 src-en/data/hyperspace.xml.append:299
+#: src-en/data/hyperspace.xml.append:300
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/"
-"fm_plated[@name=\"Volpe\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
 msgstr "Волп"
 
-#: src-en/data/hyperspace.xml.append:301 src-en/data/hyperspace.xml.append:300
+#: src-en/data/hyperspace.xml.append:301
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/"
-"fm_plated[@name=\"Atticus\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
 msgstr "Аттикус"
 
-#: src-en/data/hyperspace.xml.append:311 src-en/data/hyperspace.xml.append:310
+#: src-en/data/hyperspace.xml.append:311
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
-#: src-en/data/hyperspace.xml.append:312 src-en/data/hyperspace.xml.append:311
+#: src-en/data/hyperspace.xml.append:312
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/"
-"unique_remington[@name=\"Remington\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_remington[@name=\"Remington\"]/@name"
 msgstr "Ремингтон"
 
-#: src-en/data/hyperspace.xml.append:313 src-en/data/hyperspace.xml.append:312
+#: src-en/data/hyperspace.xml.append:313
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/"
-"unique_mossberg[@name=\"Mossberg\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
 msgstr "Моссберг"
 
-#: src-en/data/hyperspace.xml.append:322 src-en/data/hyperspace.xml.append:321
+#: src-en/data/hyperspace.xml.append:322
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
-#: src-en/data/hyperspace.xml.append:323 src-en/data/hyperspace.xml.append:322
+#: src-en/data/hyperspace.xml.append:323
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/"
-"unique_remington[@name=\"Remington\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_remington[@name=\"Remington\"]/@name"
 msgstr "Ремингтон"
 
-#: src-en/data/hyperspace.xml.append:324 src-en/data/hyperspace.xml.append:323
+#: src-en/data/hyperspace.xml.append:324
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/"
-"unique_mossberg[@name=\"Mossberg\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
 msgstr "Моссберг"
 
-#: src-en/data/hyperspace.xml.append:335 src-en/data/hyperspace.xml.append:334
+#: src-en/data/hyperspace.xml.append:335
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
-#: src-en/data/hyperspace.xml.append:337 src-en/data/hyperspace.xml.append:336
+#: src-en/data/hyperspace.xml.append:337
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/"
-"unique_remington[@name=\"Remington\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_remington[@name=\"Remington\"]/@name"
 msgstr "Ремингтон"
 
-#: src-en/data/hyperspace.xml.append:338 src-en/data/hyperspace.xml.append:337
+#: src-en/data/hyperspace.xml.append:338
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/"
-"unique_mossberg[@name=\"Mossberg\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
 msgstr "Моссберг"
 
-#: src-en/data/hyperspace.xml.append:349 src-en/data/hyperspace.xml.append:348
+#: src-en/data/hyperspace.xml.append:349
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
-#: src-en/data/hyperspace.xml.append:350 src-en/data/hyperspace.xml.append:349
+#: src-en/data/hyperspace.xml.append:350
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/"
-"unique_remington[@name=\"Remington\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_remington[@name=\"Remington\"]/@name"
 msgstr "Ремингтон"
 
-#: src-en/data/hyperspace.xml.append:351 src-en/data/hyperspace.xml.append:350
+#: src-en/data/hyperspace.xml.append:351
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/"
-"unique_mossberg[@name=\"Mossberg\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
 msgstr "Моссберг"
 
-#: src-en/data/hyperspace.xml.append:362 src-en/data/hyperspace.xml.append:361
+#: src-en/data/hyperspace.xml.append:362
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
-#: src-en/data/hyperspace.xml.append:374 src-en/data/hyperspace.xml.append:373
+#: src-en/data/hyperspace.xml.append:374
 msgid ""
 "data/hyperspace.xml.append$//mantis_warlord[@name=\"Winchester III\"]/@name"
 msgstr "Винчестер III"
 
-#: src-en/data/hyperspace.xml.append:375 src-en/data/hyperspace.xml.append:374
+#: src-en/data/hyperspace.xml.append:375
 msgid ""
-"data/hyperspace.xml.append$//unique_remington[@name=\"Remington MK III\"]/"
-"@name"
+"data/hyperspace.xml.append$//unique_remington[@name=\"Remington MK "
+"III\"]/@name"
 msgstr "Ремингтон мод. III"
 
-#: src-en/data/hyperspace.xml.append:376 src-en/data/hyperspace.xml.append:375
+#: src-en/data/hyperspace.xml.append:376
 msgid ""
-"data/hyperspace.xml.append$//unique_mossberg[@name=\"Mossberg MK III\"]/@name"
+"data/hyperspace.xml.append$//unique_mossberg[@name=\"Mossberg MK "
+"III\"]/@name"
 msgstr "Моссберг мод. III"
 
-#: src-en/data/hyperspace.xml.append:401 src-en/data/hyperspace.xml.append:400
+#: src-en/data/hyperspace.xml.append:401
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"P.Escobar\"]/@name"
 msgstr "П. Эскобар"
 
-#: src-en/data/hyperspace.xml.append:402 src-en/data/hyperspace.xml.append:401
+#: src-en/data/hyperspace.xml.append:402
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Marcola\"]/@name"
 msgstr "Маркос"
 
-#: src-en/data/hyperspace.xml.append:403 src-en/data/hyperspace.xml.append:402
+#: src-en/data/hyperspace.xml.append:403
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Osiel\"]/@name"
 msgstr "Осиель"
 
-#: src-en/data/hyperspace.xml.append:404 src-en/data/hyperspace.xml.append:403
+#: src-en/data/hyperspace.xml.append:404
 msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Chapo\"]/@name"
 msgstr "Чапо"
 
-#: src-en/data/hyperspace.xml.append:421 src-en/data/hyperspace.xml.append:420
+#: src-en/data/hyperspace.xml.append:421
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Frehm\"]/@name"
 msgstr "Фрем"
 
-#: src-en/data/hyperspace.xml.append:422 src-en/data/hyperspace.xml.append:421
+#: src-en/data/hyperspace.xml.append:422
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Ripley\"]/@name"
 msgstr "Рипли"
 
-#: src-en/data/hyperspace.xml.append:423 src-en/data/hyperspace.xml.append:422
+#: src-en/data/hyperspace.xml.append:423
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
 msgstr "Ковач"
 
-#: src-en/data/hyperspace.xml.append:424 src-en/data/hyperspace.xml.append:423
-msgid ""
-"data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
+#: src-en/data/hyperspace.xml.append:424
+msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
 msgstr "Грациано"
 
-#: src-en/data/hyperspace.xml.append:433 src-en/data/hyperspace.xml.append:432
+#: src-en/data/hyperspace.xml.append:433
 msgid "data/hyperspace.xml.append$//engi[@name=\"Armstrong\"]/@name"
 msgstr "Армстронг"
 
-#: src-en/data/hyperspace.xml.append:434 src-en/data/hyperspace.xml.append:433
+#: src-en/data/hyperspace.xml.append:434
 msgid "data/hyperspace.xml.append$//engi_separatist[@name=\"Monsoon\"]/@name"
 msgstr "Муссон"
 
-#: src-en/data/hyperspace.xml.append:469 src-en/data/hyperspace.xml.append:468
+#: src-en/data/hyperspace.xml.append:469
 msgid "data/hyperspace.xml.append$//mantis[@name=\"Naktul\"]/@name"
 msgstr "Нактул"
 
-#: src-en/data/hyperspace.xml.append:470 src-en/data/hyperspace.xml.append:469
+#: src-en/data/hyperspace.xml.append:470
 msgid "data/hyperspace.xml.append$//mantis_free[@name=\"Yagdra\"]/@name"
 msgstr "Ягдра"
 
-#: src-en/data/hyperspace.xml.append:471 src-en/data/hyperspace.xml.append:470
+#: src-en/data/hyperspace.xml.append:471
 msgid "data/hyperspace.xml.append$//mantis_suzerain[@name=\"Zurvan\"]/@name"
 msgstr "Зурван"
 
-#: src-en/data/hyperspace.xml.append:472 src-en/data/hyperspace.xml.append:471
+#: src-en/data/hyperspace.xml.append:472
 msgid "data/hyperspace.xml.append$//mantis_bishop[@name=\"Zagara\"]/@name"
 msgstr "Загара"
 
-#: src-en/data/hyperspace.xml.append:600 src-en/data/hyperspace.xml.append:599
+#: src-en/data/hyperspace.xml.append:600
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"bacon\"]/@name"
 msgstr "маяк"
 
-#: src-en/data/hyperspace.xml.append:601 src-en/data/hyperspace.xml.append:600
+#: src-en/data/hyperspace.xml.append:601
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"Speck\"]/@name"
 msgstr "Шпек"
 
-#: src-en/data/hyperspace.xml.append:704 src-en/data/hyperspace.xml.append:703
+#: src-en/data/hyperspace.xml.append:704
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Zed\"]/@name"
 msgstr "Зед"
 
-#: src-en/data/hyperspace.xml.append:705 src-en/data/hyperspace.xml.append:704
+#: src-en/data/hyperspace.xml.append:705
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Maynard\"]/@name"
 msgstr "Мейнард"
 
-#: src-en/data/hyperspace.xml.append:706 src-en/data/hyperspace.xml.append:705
+#: src-en/data/hyperspace.xml.append:706
 msgid "data/hyperspace.xml.append$//engi[@name=\"Dell\"]/@name"
 msgstr "Делл"
 
-#: src-en/data/hyperspace.xml.append:707 src-en/data/hyperspace.xml.append:706
+#: src-en/data/hyperspace.xml.append:707
 msgid "data/hyperspace.xml.append$//human_medic[@name=\"Ludwig\"]/@name"
 msgstr "Людвиг"
 
-#: src-en/data/hyperspace.xml.append:802 src-en/data/hyperspace.xml.append:801
+#: src-en/data/hyperspace.xml.append:802
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_plated[@name=\"Volpe\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
 msgstr "Волп"
 
-#: src-en/data/hyperspace.xml.append:803 src-en/data/hyperspace.xml.append:802
+#: src-en/data/hyperspace.xml.append:803
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bellamy\"]/@name"
 msgstr "Беллами"
 
-#: src-en/data/hyperspace.xml.append:804 src-en/data/hyperspace.xml.append:803
+#: src-en/data/hyperspace.xml.append:804
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_plated[@name=\"Atticus\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
 msgstr "Аттикус"
 
-#: src-en/data/hyperspace.xml.append:805 src-en/data/hyperspace.xml.append:804
+#: src-en/data/hyperspace.xml.append:805
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Burnette\"]/@name"
 msgstr "Бернетт"
 
-#: src-en/data/hyperspace.xml.append:806 src-en/data/hyperspace.xml.append:805
+#: src-en/data/hyperspace.xml.append:806
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Halford\"]/@name"
 msgstr "Хэлфорд"
 
-#: src-en/data/hyperspace.xml.append:807 src-en/data/hyperspace.xml.append:806
+#: src-en/data/hyperspace.xml.append:807
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Kallio\"]/@name"
 msgstr "Каллио"
 
-#: src-en/data/hyperspace.xml.append:808 src-en/data/hyperspace.xml.append:807
+#: src-en/data/hyperspace.xml.append:808
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bavitz\"]/@name"
 msgstr "Бавиц"
 
-#: src-en/data/hyperspace.xml.append:809 src-en/data/hyperspace.xml.append:808
+#: src-en/data/hyperspace.xml.append:809
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_forgemasterperson[@name=\"Alastair\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_forgemasterperson[@name=\"Alastair\"]/@name"
 msgstr "Алестер"
 
-#: src-en/data/hyperspace.xml.append:810 src-en/data/hyperspace.xml.append:809
+#: src-en/data/hyperspace.xml.append:810
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_plated[@name=\"Ferrel\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Ferrel\"]/@name"
 msgstr "Феррел"
 
-#: src-en/data/hyperspace.xml.append:811 src-en/data/hyperspace.xml.append:810
+#: src-en/data/hyperspace.xml.append:811
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_plated[@name=\"Convy\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Convy\"]/@name"
 msgstr "Конви"
 
-#: src-en/data/hyperspace.xml.append:812 src-en/data/hyperspace.xml.append:811
+#: src-en/data/hyperspace.xml.append:812
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/"
-"fm_plated[@name=\"Palermo\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
 msgstr "Палермо"
 
-#: src-en/data/hyperspace.xml.append:813 src-en/data/hyperspace.xml.append:812
+#: src-en/data/hyperspace.xml.append:813
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Dirnt\"]/@name"
 msgstr "Дирнт"
 
-#: src-en/data/hyperspace.xml.append:841 src-en/data/hyperspace.xml.append:840
+#: src-en/data/hyperspace.xml.append:841
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 1\"]/@name"
 msgstr "Офицер 1"
 
-#: src-en/data/hyperspace.xml.append:842 src-en/data/hyperspace.xml.append:841
+#: src-en/data/hyperspace.xml.append:842
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 2\"]/@name"
 msgstr "Офицер 2"
 
-#: src-en/data/hyperspace.xml.append:843 src-en/data/hyperspace.xml.append:842
+#: src-en/data/hyperspace.xml.append:843
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 3\"]/@name"
 msgstr "Офицер 3"
 
-#: src-en/data/hyperspace.xml.append:844 src-en/data/hyperspace.xml.append:843
+#: src-en/data/hyperspace.xml.append:844
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 4\"]/@name"
 msgstr "Офицер 4"
 
-#: src-en/data/hyperspace.xml.append:845 src-en/data/hyperspace.xml.append:844
+#: src-en/data/hyperspace.xml.append:845
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 5\"]/@name"
 msgstr "Офицер 5"
 
-#: src-en/data/hyperspace.xml.append:846 src-en/data/hyperspace.xml.append:845
+#: src-en/data/hyperspace.xml.append:846
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 6\"]/@name"
 msgstr "Офицер 6"
 
-#: src-en/data/hyperspace.xml.append:847 src-en/data/hyperspace.xml.append:846
+#: src-en/data/hyperspace.xml.append:847
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 7\"]/@name"
 msgstr "Офицер 7"
 
-#: src-en/data/hyperspace.xml.append:848 src-en/data/hyperspace.xml.append:847
+#: src-en/data/hyperspace.xml.append:848
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/"
-"fm_forgemasterperson[@name=\"Alastair\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_forgemasterperson[@name=\"Alastair\"]/@name"
 msgstr "Алестер"
 
-#: src-en/data/hyperspace.xml.append:849 src-en/data/hyperspace.xml.append:848
+#: src-en/data/hyperspace.xml.append:849
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/"
-"fm_plated[@name=\"Ferrel\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Ferrel\"]/@name"
 msgstr "Феррел"
 
-#: src-en/data/hyperspace.xml.append:850 src-en/data/hyperspace.xml.append:849
+#: src-en/data/hyperspace.xml.append:850
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/"
-"fm_plated[@name=\"Convy\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Convy\"]/@name"
 msgstr "Конви"
 
-#: src-en/data/hyperspace.xml.append:851 src-en/data/hyperspace.xml.append:850
+#: src-en/data/hyperspace.xml.append:851
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/"
-"fm_plated[@name=\"Palermo\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
 msgstr "Палермо"
 
-#: src-en/data/hyperspace.xml.append:852 src-en/data/hyperspace.xml.append:851
+#: src-en/data/hyperspace.xml.append:852
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Pterodactyl\"]/@name"
 msgstr "Птеродактиль"
 
 #: src-en/data/hyperspace.xml.append:1111
-#: src-en/data/hyperspace.xml.append:1110
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
 msgstr "Фредди"
 
 #: src-en/data/hyperspace.xml.append:1112
-#: src-en/data/hyperspace.xml.append:1111
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy?\"]/@name"
 msgstr "Фредди?"
 
 #: src-en/data/hyperspace.xml.append:1113
-#: src-en/data/hyperspace.xml.append:1112
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fred\"]/@name"
 msgstr "Фред"
 
 #: src-en/data/hyperspace.xml.append:1114
-#: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Frederick\"]/@name"
 msgstr "Фредерик"
 
 #: src-en/data/hyperspace.xml.append:1115
-#: src-en/data/hyperspace.xml.append:1114
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_FREE1\"]/"
-"crew/unique_freddy[5]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[5]/@name"
 msgstr "Франц"
 
 #: src-en/data/hyperspace.xml.append:1116
-#: src-en/data/hyperspace.xml.append:1115
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_FREE1\"]/"
-"crew/unique_freddy[6]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[6]/@name"
 msgstr "Франц"
 
 #: src-en/data/hyperspace.xml.append:1117
-#: src-en/data/hyperspace.xml.append:1116
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Ferdinand\"]/@name"
 msgstr "Фердинанд"
 
 #: src-en/data/hyperspace.xml.append:1118
-#: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
 msgstr "Фуг.I"
 
 #: src-en/data/hyperspace.xml.append:1119
-#: src-en/data/hyperspace.xml.append:1118
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
 msgstr "Фамблмор"
 
 #: src-en/data/hyperspace.xml.append:1120
-#: src-en/data/hyperspace.xml.append:1119
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
 msgstr "Фуг.II"
 
 #: src-en/data/hyperspace.xml.append:1121
-#: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Lord Foog\"]/@name"
 msgstr "Лорд Фуг"
 
 #: src-en/data/hyperspace.xml.append:1122
-#: src-en/data/hyperspace.xml.append:1121
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
 msgstr "Федди"
 
 #: src-en/data/hyperspace.xml.append:1123
-#: src-en/data/hyperspace.xml.append:1122
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
 msgstr "Фазбер"
 
 #: src-en/data/hyperspace.xml.append:1177
-#: src-en/data/hyperspace.xml.append:1176
 msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
 msgstr "Туко"
 
 #: src-en/data/hyperspace.xml.append:1178
-#: src-en/data/hyperspace.xml.append:1177
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[1]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[1]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1179
-#: src-en/data/hyperspace.xml.append:1178
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[2]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[2]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1180
-#: src-en/data/hyperspace.xml.append:1179
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[3]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[3]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1181
-#: src-en/data/hyperspace.xml.append:1180
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[4]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[4]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1182
-#: src-en/data/hyperspace.xml.append:1181
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[5]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[5]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1183
-#: src-en/data/hyperspace.xml.append:1182
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[6]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[6]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1184
-#: src-en/data/hyperspace.xml.append:1183
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[7]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[7]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1185
-#: src-en/data/hyperspace.xml.append:1184
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[8]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[8]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1186
-#: src-en/data/hyperspace.xml.append:1185
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[9]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[9]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1187
-#: src-en/data/hyperspace.xml.append:1186
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[10]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[10]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1188
-#: src-en/data/hyperspace.xml.append:1187
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[11]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[11]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1189
-#: src-en/data/hyperspace.xml.append:1188
 msgid ""
-"data/hyperspace.xml.append$//mod-append:customShip[@name=\"FM_BOSS_TUCO1\"]/"
-"crew/blobswarm[12]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[12]/@name"
 msgstr "ДикоеДитя"
 
 #: src-en/data/hyperspace.xml.append:1302
-#: src-en/data/hyperspace.xml.append:1301
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"B.O.S.D.\"]/@name"
 msgstr "Б.О.С.Д."
 
 #: src-en/data/hyperspace.xml.append:1303
-#: src-en/data/hyperspace.xml.append:1302
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Abort\"]/@name"
 msgstr "Отменить"
 
 #: src-en/data/hyperspace.xml.append:1304
-#: src-en/data/hyperspace.xml.append:1303
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Retry\"]/@name"
 msgstr "Повтор"
 
 #: src-en/data/hyperspace.xml.append:1305
-#: src-en/data/hyperspace.xml.append:1304
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Fail\"]/@name"
 msgstr "Провал"
 
 #: src-en/data/hyperspace.xml.append:1306
-#: src-en/data/hyperspace.xml.append:1305
 msgid ""
 "data/hyperspace.xml.append$//fm_human_texture[@name=\"ErrorNotFound\"]/@name"
 msgstr "ОшибкаНеНайдена"
 
 #: src-en/data/hyperspace.xml.append:1307
-#: src-en/data/hyperspace.xml.append:1306
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"NaN\"]/@name"
 msgstr "НеЧисло"
 
 #: src-en/data/hyperspace.xml.append:1308
-#: src-en/data/hyperspace.xml.append:1307
-msgid ""
-"data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
 msgstr "БонзиБадди"
 
 #: src-en/data/hyperspace.xml.append:1309
-#: src-en/data/hyperspace.xml.append:1308
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[8]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[8]/@name"
 msgstr "ОШИБКА"
 
 #: src-en/data/hyperspace.xml.append:1310
-#: src-en/data/hyperspace.xml.append:1309
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Vista\"]/@name"
 msgstr "Виста"
 
 #: src-en/data/hyperspace.xml.append:1311
-#: src-en/data/hyperspace.xml.append:1310
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Keyboard\"]/@name"
 msgstr "Клавиатура"
 
 #: src-en/data/hyperspace.xml.append:1312
-#: src-en/data/hyperspace.xml.append:1311
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[11]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[11]/@name"
 msgstr "ОШИБКА"
 
 #: src-en/data/hyperspace.xml.append:1313
-#: src-en/data/hyperspace.xml.append:1312
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[12]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[12]/@name"
 msgstr "ОШИБКА"
 
 #: src-en/data/hyperspace.xml.append:1613
-#: src-en/data/hyperspace.xml.append:1612
 msgid "data/hyperspace.xml.append$//butler[@name=\"Candy\"]/@name"
 msgstr "Конфета"
 
 #: src-en/data/hyperspace.xml.append:1614
-#: src-en/data/hyperspace.xml.append:1613
 msgid "data/hyperspace.xml.append$//butler[@name=\"Krystal\"]/@name"
 msgstr "Кристал"
 
 #: src-en/data/hyperspace.xml.append:1615
-#: src-en/data/hyperspace.xml.append:1614
 msgid "data/hyperspace.xml.append$//butler[@name=\"Chastity\"]/@name"
 msgstr "Целомудрие"
 
 #: src-en/data/hyperspace.xml.append:1627
-#: src-en/data/hyperspace.xml.append:1626
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/"
-"mantis_warlord[@name=\"Winchester\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
 msgstr "Винчестер"
 
 #: src-en/data/hyperspace.xml.append:1629
-#: src-en/data/hyperspace.xml.append:1628
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/"
-"unique_remington[@name=\"Remington\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_remington[@name=\"Remington\"]/@name"
 msgstr "Ремингтон"
 
 #: src-en/data/hyperspace.xml.append:1630
-#: src-en/data/hyperspace.xml.append:1629
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/"
-"unique_mossberg[@name=\"Mossberg\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
 msgstr "Моссберг"
 
 #: src-en/data/hyperspace.xml.append:1649
-#: src-en/data/hyperspace.xml.append:1648
 msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
 msgstr "Рэндалл"
 
 #: src-en/data/hyperspace.xml.append:1765
-#: src-en/data/hyperspace.xml.append:1764
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[1]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[1]/@name"
 msgstr "Талли"
 
 #: src-en/data/hyperspace.xml.append:1766
-#: src-en/data/hyperspace.xml.append:1765
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[1]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[1]/@name"
 msgstr "Вэнс"
 
 #: src-en/data/hyperspace.xml.append:1767
-#: src-en/data/hyperspace.xml.append:1766
 msgid "data/hyperspace.xml.append$//unique_ooj[@name=\"Oojie\"]/@name"
 msgstr "Уджи"
 
 #: src-en/data/hyperspace.xml.append:1768
-#: src-en/data/hyperspace.xml.append:1767
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[2]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[2]/@name"
 msgstr "Талли"
 
 #: src-en/data/hyperspace.xml.append:1769
-#: src-en/data/hyperspace.xml.append:1768
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[2]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[2]/@name"
 msgstr "Вэнс"
 
 #: src-en/data/hyperspace.xml.append:1770
-#: src-en/data/hyperspace.xml.append:1769
 msgid "data/hyperspace.xml.append$//unique_anointed[@name=\"Anointed\"]/@name"
 msgstr "Помазанница"
 
 #: src-en/data/hyperspace.xml.append:1771
-#: src-en/data/hyperspace.xml.append:1770
 msgid "data/hyperspace.xml.append$//sylvanmaid[@name=\"Digger\"]/@name"
 msgstr "Копатель"
 
 #: src-en/data/hyperspace.xml.append:1772
-#: src-en/data/hyperspace.xml.append:1771
 msgid "data/hyperspace.xml.append$//nemesismfk[@name=\"Leah\"]/@name"
 msgstr "Лия"
 
 #: src-en/data/hyperspace.xml.append:1795
-#: src-en/data/hyperspace.xml.append:1794
 #, fuzzy
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[1]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[1]/tooltip"
 msgstr ""
 "ВЫКОВАННЫЙ КАТАЛИЗАТОР:\n"
-"\t\t\t\t\tУникальная броня этого врага дает ему 25% шанс противостоять ВСЕМ "
-"типам урона от ваших орудий. Пожар распространяется на 50% медленнее, очень "
-"медленно заделываются пробоины, урон от удушья снижается вдвое, а экипаж "
-"ремонтирует определенные системы значительно быстрее и прогресс ремонта не "
-"теряется при прерывании (пилота также нельзя прервать от управления "
-"кораблем)."
+"\t\t\t\t\tУникальная броня этого врага дает ему 25% шанс противостоять ВСЕМ типам урона от ваших орудий. Пожар распространяется на 50% медленнее, очень медленно заделываются пробоины, урон от удушья снижается вдвое, а экипаж ремонтирует определенные системы значительно быстрее и прогресс ремонта не теряется при прерывании (пилота также нельзя прервать от управления кораблем)."
 
 #: src-en/data/hyperspace.xml.append:1801
-#: src-en/data/hyperspace.xml.append:1800
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[2]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[2]/tooltip"
 msgstr ""
 "КОВАННЫЕ МЕДБОТЫ:\n"
-"\t\t\t\t\tЭти уникальные медботы исцеляет всех членов экипажа и дают им 20% "
-"сопротивления урону от оружия, но их сила и сопротивление зависят от того, "
-"сколько энергии используется медицинской системой. Они все еще слегка лечат "
-"экипаж, если система выведена из строя или лишена мощности. Базовое "
-"исцеление составляет 1 ОЗ/с, и 2.5 ОЗ/с при 4 единицах мощности."
+"\t\t\t\t\tЭти уникальные медботы исцеляет всех членов экипажа и дают им 20% сопротивления урону от оружия, но их сила и сопротивление зависят от того, сколько энергии используется медицинской системой. Они все еще слегка лечат экипаж, если система выведена из строя или лишена мощности. Базовое исцеление составляет 1 ОЗ/с, и 2.5 ОЗ/с при 4 единицах мощности."
 
 #: src-en/data/hyperspace.xml.append:1807
-#: src-en/data/hyperspace.xml.append:1806
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[3]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[3]/tooltip"
 msgstr ""
 "МОДУЛЬ ПРОСТРАНСТВЕННЫЙ РАЗЛОМ:\n"
-"\t\t\t\t\tЭтот корабль использует технологию из другого измерения. Если вы "
-"сможете победить это обезумевшее судно, то сможете присвоить себе подобные "
-"технологии!"
+"\t\t\t\t\tЭтот корабль использует технологию из другого измерения. Если вы сможете победить это обезумевшее судно, то сможете присвоить себе подобные технологии!"
 
 #: src-en/data/hyperspace.xml.append:1813
-#: src-en/data/hyperspace.xml.append:1812
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[4]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
 "НАНОМАШИНЫ ОТ ФИЗИЧЕСКИХ ТРАВМ:\n"
-"\t\t\t\t\tУникальные наномашины, распространяемые управляющими дронами этого "
-"корабля, повышают здоровье и устойчивость к повреждениям капитана энджи. "
-"Уничтожьте дронов, и вы сможете убить капитана энджи!"
+"\t\t\t\t\tУникальные наномашины, распространяемые управляющими дронами этого корабля, повышают здоровье и устойчивость к повреждениям капитана энджи. Уничтожьте дронов, и вы сможете убить капитана энджи!"
 
 #: src-en/data/hyperspace.xml.append:1819
-#: src-en/data/hyperspace.xml.append:1818
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[5]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[5]/tooltip"
 msgstr ""
 "РАЗРУШИТЕЛЬ ГОЗЕРА:\n"
-"\t\t\t\t\tИспользуя странные способности к расщеплению, этот корабль будет "
-"медленно и неумолимо \"расщеплять\" свой экипаж и вновь материализовывать "
-"его на вашем корабле. Уничтожьте его экипаж, чтобы остановить корабль!"
+"\t\t\t\t\tИспользуя странные способности к расщеплению, этот корабль будет медленно и неумолимо \"расщеплять\" свой экипаж и вновь материализовывать его на вашем корабле. Уничтожьте его экипаж, чтобы остановить корабль!"
 
 #: src-en/data/hyperspace.xml.append:1825
-#: src-en/data/hyperspace.xml.append:1824
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[6]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[6]/tooltip"
 msgstr ""
 "РАССЕИВАТЕЛЬ БОТОВ-УБИЙЦ:\n"
-"\t\t\t\t\tЭтот вражеский корабль наполнен наноботами-убийцами, которые со "
-"временем наносят пассивный урон вашему экипажу. Из-за названия он звучит "
-"гораздо более грозно, чем есть на самом деле."
+"\t\t\t\t\tЭтот вражеский корабль наполнен наноботами-убийцами, которые со временем наносят пассивный урон вашему экипажу. Из-за названия он звучит гораздо более грозно, чем есть на самом деле."
 
 #: src-en/data/hyperspace.xml.append:1831
-#: src-en/data/hyperspace.xml.append:1830
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[7]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[7]/tooltip"
 msgstr ""
 "ИСКАЖЕННАЯ КРИСТАЛЛИЧЕСКАЯ БРОНЯ:\n"
-"\t\t\t\t\tКаждый раз, когда вы наносите этому противнику урон по корпусу "
-"своим оружием, есть 50% шанс, что 3x кристаллические мины отколются и "
-"полетят в сторону вашего корабля. Они пробивают любые щиты и наносят 1 урон "
-"случайному отсеку при попадании, а также оглушают экипаж и изолируют отсек."
+"\t\t\t\t\tКаждый раз, когда вы наносите этому противнику урон по корпусу своим оружием, есть 50% шанс, что 3x кристаллические мины отколются и полетят в сторону вашего корабля. Они пробивают любые щиты и наносят 1 урон случайному отсеку при попадании, а также оглушают экипаж и изолируют отсек."
 
 #: src-en/data/hyperspace.xml.append:1837
-#: src-en/data/hyperspace.xml.append:1836
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[8]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
 "УКРЕПЛЕННЫЕ ОТСЕКИ, ВАРИАТИВНЫЕ:\n"
-"\t\t\t\t\tУ этого врага есть один или несколько укрепленных отсеков, "
-"отмеченных серой рамкой и значком \"У\" в левом верхнем углу. Укрепленные "
-"отсеки НЕ ПОЛУЧАЮТ системного урона от оружия, но могут быть повреждены "
-"экипажем и пожарами. Укрепленные отсеки, как и обычные, получают урон от "
-"ионов и по корпусу.\n"
-"\t\t\t\t\tЗначок \"У\" на отсеке корабля указывает на этот статус, и в "
-"зависимости от того, насколько заполнен значок, отсек с большей вероятностью "
-"будет устойчив к урону от оружия."
+"\t\t\t\t\tУ этого врага есть один или несколько укрепленных отсеков, отмеченных серой рамкой и значком \"У\" в левом верхнем углу. Укрепленные отсеки НЕ ПОЛУЧАЮТ системного урона от оружия, но могут быть повреждены экипажем и пожарами. Укрепленные отсеки, как и обычные, получают урон от ионов и по корпусу.\n"
+"\t\t\t\t\tЗначок \"У\" на отсеке корабля указывает на этот статус, и в зависимости от того, насколько заполнен значок, отсек с большей вероятностью будет устойчив к урону от оружия."
 
 #: src-en/data/hyperspace.xml.append:1844
-#: src-en/data/hyperspace.xml.append:1843
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[9]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[9]/tooltip"
 msgstr ""
 "КОВАННЫЕ ЭНЕРГЕТИЧЕСКИЕ ОТСЕКИ:\n"
-"\t\t\t\t\tУ этого врага есть один или несколько энергетических отсека, "
-"которые Алестер, по-видимому, сделал на заказ. Эти \"энергетические\" отсеки "
-"на 50% более устойчивы к саботажу, а вражеский экипаж получает на 30% меньше "
-"урона, находясь в них. Кроме того, в таких отсеках ваш экипаж получает 3 ОЗ/"
-"с урона."
+"\t\t\t\t\tУ этого врага есть один или несколько энергетических отсека, которые Алестер, по-видимому, сделал на заказ. Эти \"энергетические\" отсеки на 50% более устойчивы к саботажу, а вражеский экипаж получает на 30% меньше урона, находясь в них. Кроме того, в таких отсеках ваш экипаж получает 3 ОЗ/с урона."
 
 #: src-en/data/hyperspace.xml.append:1850
-#: src-en/data/hyperspace.xml.append:1849
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[10]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[10]/tooltip"
 msgstr ""
 "УСИЛИВАЮЩИЕ ФЕРОМОНЫ:\n"
-"\t\t\t\t\tЭтот вражеский корабль наполнен феромонами. Они увеличивают "
-"максимальное здоровье экипажа до 1.5х, снижают получаемый урон в бою на 20% "
-"и уменьшают урон от удушья на 80%."
+"\t\t\t\t\tЭтот вражеский корабль наполнен феромонами. Они увеличивают максимальное здоровье экипажа до 1.5х, снижают получаемый урон в бою на 20% и уменьшают урон от удушья на 80%."
 
 #: src-en/data/hyperspace.xml.append:1856
-#: src-en/data/hyperspace.xml.append:1855
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[11]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[11]/tooltip"
 msgstr ""
 "СИСТЕМЫ, ИСКРИВЛЯЮЩИЕ РЕАЛЬНОСТЬ:\n"
-"\t\t\t\t\tЭтот противник обладает мощным набором оружия и систем, но из-за "
-"экстремального искривления пространства-времени его системы и корпус "
-"повреждаются каждые 15 секунд."
+"\t\t\t\t\tЭтот противник обладает мощным набором оружия и систем, но из-за экстремального искривления пространства-времени его системы и корпус повреждаются каждые 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:1864
-#: src-en/data/hyperspace.xml.append:1863
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[12]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[12]/tooltip"
 msgstr ""
 "МОДУЛЬНЫЙ КОРПУС КЛЮЧЕВОЕ УЛУЧШЕНИЕ:\n"
 "\t\t\t\t\tвы не должны это видеть"
 
 #: src-en/data/hyperspace.xml.append:1869
-#: src-en/data/hyperspace.xml.append:1868
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[13]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[13]/tooltip"
 msgstr ""
 "ОБХОДНЫЕ КОЛЛЕКТОРЫ КОМПРЕССОРА:\n"
-"\t\t\t\t\tорудия противника заряжаются на 30% быстрее, но их щиты заряжаются "
-"на 60% медленнее"
+"\t\t\t\t\tорудия противника заряжаются на 30% быстрее, но их щиты заряжаются на 60% медленнее"
 
 #: src-en/data/hyperspace.xml.append:1874
-#: src-en/data/hyperspace.xml.append:1873
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[14]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
 "БЕСКОНЕЧНЫЙ ЦИКЛО-БАРЬЕР:\n"
-"\t\t\t\t\t15% шанс уничтожения входящий снаряд щитами, за каждую "
-"неиспользованную единицу мощности системы щитов шанс не уничтожить снаряд "
-"уменьшается на относительные 15%, также дает +50% к скорости перезарядки "
-"щитов за каждую неиспользованную энергию."
+"\t\t\t\t\t15% шанс уничтожения входящий снаряд щитами, за каждую неиспользованную единицу мощности системы щитов шанс не уничтожить снаряд уменьшается на относительные 15%, также дает +50% к скорости перезарядки щитов за каждую неиспользованную энергию."
 
 #: src-en/data/hyperspace.xml.append:1879
-#: src-en/data/hyperspace.xml.append:1878
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[15]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[15]/tooltip"
 msgstr ""
 "БЕСКОНЕЧНЫЙ ЦИКЛО-АРСЕНАЛ:\n"
-"\t\t\t\t\tвражеские орудия заряжаются на 5% медленнее, но заряжается на 15% "
-"быстрее за каждую неиспользованную единицу мощности системы оружия"
+"\t\t\t\t\tвражеские орудия заряжаются на 5% медленнее, но заряжается на 15% быстрее за каждую неиспользованную единицу мощности системы оружия"
 
 #: src-en/data/hyperspace.xml.append:1884
-#: src-en/data/hyperspace.xml.append:1883
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[16]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[16]/tooltip"
 msgstr ""
 "ЭЛЕКТРОМАГНИТНЫЙ КОРПУС:\n"
-"\t\t\t\t\t10% шанс противостоять системному урону, 30% шанс противостоять "
-"ионному урону, скорость деионизации +50%"
+"\t\t\t\t\t10% шанс противостоять системному урону, 30% шанс противостоять ионному урону, скорость деионизации +50%"
 
 #: src-en/data/hyperspace.xml.append:1889
-#: src-en/data/hyperspace.xml.append:1888
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[17]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
 "ЩИТЫ С ЧАСТИЦАМИ:\n"
-"\t\t\t\t\tвражеские щиты заряжаются на 50% медленнее, но получают "
-"дополнительные 8 единиц целостности энергетического щита"
+"\t\t\t\t\tвражеские щиты заряжаются на 50% медленнее, но получают дополнительные 8 единиц целостности энергетического щита"
 
 #: src-en/data/hyperspace.xml.append:1894
-#: src-en/data/hyperspace.xml.append:1893
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[18]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[18]/tooltip"
 msgstr ""
 "НЕВЕРОЯТНЫЙ КАЛИБРАТОР БОЕПРИПАСОВ:\n"
-"\t\t\t\t\tВражеские орудия заряжаются на 10% медленнее, но получает 15% шанс "
-"на сопротивление урону по корпусу, системам и урону от ионов, а выстрелы с "
-"шансом на создание пробоины получают +40% к вероятности"
+"\t\t\t\t\tВражеские орудия заряжаются на 10% медленнее, но получает 15% шанс на сопротивление урону по корпусу, системам и урону от ионов, а выстрелы с шансом на создание пробоины получают +40% к вероятности"
 
 #: src-en/data/hyperspace.xml.append:1899
-#: src-en/data/hyperspace.xml.append:1898
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[19]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[19]/tooltip"
 msgstr ""
 "ПОДЖИГАТЕЛЬ ОРУЖИЯ:\n"
-"\t\t\t\t\tвражеские орудия заряжаются на 50% быстрее, но оружейный отсек "
-"воспламеняется при каждом выстреле"
+"\t\t\t\t\tвражеские орудия заряжаются на 50% быстрее, но оружейный отсек воспламеняется при каждом выстреле"
 
 #: src-en/data/hyperspace.xml.append:1904
-#: src-en/data/hyperspace.xml.append:1903
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[20]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[20]/tooltip"
 msgstr ""
 "НАРУШАЮЩИЙ ГЕНЕРАТОР ПОМЕХ:\n"
-"\t\t\t\t\tВАШИ орудия заряжаются на 20% медленнее, но вражеские щиты "
-"перезаряжаются на 30% медленнее."
+"\t\t\t\t\tВАШИ орудия заряжаются на 20% медленнее, но вражеские щиты перезаряжаются на 30% медленнее."
 
 #: src-en/data/hyperspace.xml.append:1909
-#: src-en/data/hyperspace.xml.append:1908
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[21]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[21]/tooltip"
 msgstr ""
 "ЗАЩИТНЫЙ ГЕНЕРАТОР ПОМЕХ:\n"
-"\t\t\t\t\tВАШИ щиты заряжаются на 30% медленнее, а система маскировки "
-"перезаряжается на 5с дольше"
+"\t\t\t\t\tВАШИ щиты заряжаются на 30% медленнее, а система маскировки перезаряжается на 5с дольше"
 
 #: src-en/data/hyperspace.xml.append:1914
-#: src-en/data/hyperspace.xml.append:1913
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
-"shipIcons/shipIcon[22]/tooltip"
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[22]/tooltip"
 msgstr ""
 "СИСТЕМА АВАРИЙНОГО РЕМОНТА:\n"
-"\t\t\t\t\tНа этом корабле есть какая-то система аварийного ремонта на случай "
-"критического повреждения корпуса."
+"\t\t\t\t\tНа этом корабле есть какая-то система аварийного ремонта на случай критического повреждения корпуса."
 
 #: src-en/data/hyperspace.xml.append:3105
-#: src-en/data/hyperspace.xml.append:3104
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_NORMAL_STORE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3126
-#: src-en/data/hyperspace.xml.append:3125
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_NORMAL_STORE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[2]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3147
-#: src-en/data/hyperspace.xml.append:3146
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_NORMAL_STORE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[3]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3168
-#: src-en/data/hyperspace.xml.append:3167
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_NORMAL_STORE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[4]/customTitle"
 msgstr "МАТРОСЫ"
 
 #: src-en/data/hyperspace.xml.append:3182
-#: src-en/data/hyperspace.xml.append:3181
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_NORMAL_STORE\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[5]/customTitle"
 msgstr "ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:3208
-#: src-en/data/hyperspace.xml.append:3207
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3226
-#: src-en/data/hyperspace.xml.append:3225
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[2]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3244
-#: src-en/data/hyperspace.xml.append:3243
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[3]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3262
-#: src-en/data/hyperspace.xml.append:3261
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[4]/customTitle"
 msgstr "ЭКИПАЖ"
 
 #: src-en/data/hyperspace.xml.append:3276
-#: src-en/data/hyperspace.xml.append:3275
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
 msgstr "РЕДКИЕ МОДУЛИ"
 
 #: src-en/data/hyperspace.xml.append:3290
-#: src-en/data/hyperspace.xml.append:3289
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_RARE_STORE\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[6]/customTitle"
 msgstr "ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:3317
-#: src-en/data/hyperspace.xml.append:3316
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_PLUS_STORE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3335
-#: src-en/data/hyperspace.xml.append:3334
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_PLUS_STORE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[2]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3348
-#: src-en/data/hyperspace.xml.append:3347
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_PLUS_STORE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[3]/customTitle"
 msgstr "ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:3366
-#: src-en/data/hyperspace.xml.append:3365
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_PLUS_STORE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[4]/customTitle"
 msgstr "ЭКИПАЖ"
 
 #: src-en/data/hyperspace.xml.append:3387
-#: src-en/data/hyperspace.xml.append:3386
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[1]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3405
-#: src-en/data/hyperspace.xml.append:3404
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[2]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[2]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3423
-#: src-en/data/hyperspace.xml.append:3422
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[3]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[3]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3441
-#: src-en/data/hyperspace.xml.append:3440
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[4]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[4]/customTitle"
 msgstr "ОРУЖИЕ"
 
 #: src-en/data/hyperspace.xml.append:3462
-#: src-en/data/hyperspace.xml.append:3461
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
 msgstr "РЕДКИЕ МОДУЛИ"
 
 #: src-en/data/hyperspace.xml.append:3476
-#: src-en/data/hyperspace.xml.append:3475
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[6]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[6]/customTitle"
 msgstr "ДРОНЫ"
 
 #: src-en/data/hyperspace.xml.append:3494
-#: src-en/data/hyperspace.xml.append:3493
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/"
-"customStore[@id=\"FM_BOON_STORE\"]/category[7]/customTitle"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[7]/customTitle"
 msgstr "ЭКИПАЖ"
 
 #: src-en/data/hyperspace.xml.append:4220
-#: src-en/data/hyperspace.xml.append:4094
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-append:"
-"bleakfuture/name"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/name"
 msgstr "\\1 Концовка мрачное будущее"
 
 #: src-en/data/hyperspace.xml.append:4221
-#: src-en/data/hyperspace.xml.append:4095
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-append:"
-"bleakfuture/description"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/description"
 msgstr "Исследуйте фрагмент мрачного будущего на борту любого \\1"
 
 #: src-en/data/hyperspace.xml.append:4223
-#: src-en/data/hyperspace.xml.append:4097
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-append:"
-"bleakfuture/secretName"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/secretName"
 msgstr "\\1 Концовка ?????"
 
 #: src-en/data/hyperspace.xml.append:4224
-#: src-en/data/hyperspace.xml.append:4098
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-append:"
-"bleakfuture/secretDescription"
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/secretDescription"
 msgstr "Откройте для себя будущую угрозу Мультивселенной на борту любого \\1"
 
 #: src-en/data/hyperspace.xml.append:4324
-#: src-en/data/hyperspace.xml.append:4198
-msgid ""
-"data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
+msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
 msgstr "Коррозия"
 
 #: src-en/data/hyperspace.xml.append:4325
-#: src-en/data/hyperspace.xml.append:4199
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/tooltip"
 msgstr ""
-"Прожигает корпус каждые 10 секунд, наносит пассивный урон экипажу, постоянно "
-"находящемуся в том же отсеке"
+"Прожигает корпус каждые 10 секунд, наносит пассивный урон экипажу, постоянно"
+" находящемуся в том же отсеке"
 
 #: src-en/data/hyperspace.xml.append:4423
-#: src-en/data/hyperspace.xml.append:4297
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/buttonText"
 msgstr "Импульс"
 
 #: src-en/data/hyperspace.xml.append:4424
-#: src-en/data/hyperspace.xml.append:4298
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/tooltip"
 msgstr ""
 "Каждые 9 секунд автоматически наносит 1 ионный урон в текущем отсеке и "
-"ненадолго оглушает всех членов экипажа. Наносит низкий урон в бою. Замедляет "
-"скорость передвижения всех членов экипажа в отсеке. Наносит 2 ионных урона "
+"ненадолго оглушает всех членов экипажа. Наносит низкий урон в бою. Замедляет"
+" скорость передвижения всех членов экипажа в отсеке. Наносит 2 ионных урона "
 "при смерти."
 
 #: src-en/data/hyperspace.xml.append:4547
-#: src-en/data/hyperspace.xml.append:4421
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/buttonText"
 msgstr "Импульс"
 
 #: src-en/data/hyperspace.xml.append:4548
-#: src-en/data/hyperspace.xml.append:4422
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "Каждые 9 секунд автоматически наносит 1 ионный урон в текущем отсеке и "
-"ненадолго оглушает всех членов экипажа. Наносит низкий урон в бою. Замедляет "
-"скорость передвижения всех членов экипажа в отсеке. Наносит 2 ионных урона "
+"ненадолго оглушает всех членов экипажа. Наносит низкий урон в бою. Замедляет"
+" скорость передвижения всех членов экипажа в отсеке. Наносит 2 ионных урона "
 "при смерти."
 
 #: src-en/data/hyperspace.xml.append:4887
-#: src-en/data/hyperspace.xml.append:4761
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/buttonText"
 msgstr "ПЕРЕКОВКА"
 
 #: src-en/data/hyperspace.xml.append:4888
-#: src-en/data/hyperspace.xml.append:4762
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Ремонтирует 10 системных и 2 корпусных единиц урона. Сильно лечит "
 "Кузнеца и разжигает пожары."
 
 #: src-en/data/hyperspace.xml.append:4970
-#: src-en/data/hyperspace.xml.append:4844
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/buttonText"
 msgstr "ПЕРЕКОВКА"
 
 #: src-en/data/hyperspace.xml.append:4971
-#: src-en/data/hyperspace.xml.append:4845
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Ремонтирует 10 единиц систем и 2 единицы корпуса. Сильно исцеляет "
 "себя и разжигает пожары. Не получает урона во время действия способности."
 
 #: src-en/data/hyperspace.xml.append:5052
-#: src-en/data/hyperspace.xml.append:4926
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/buttonText"
 msgstr "ПЕРЕКОВКА"
 
 #: src-en/data/hyperspace.xml.append:5053
-#: src-en/data/hyperspace.xml.append:4927
-msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
+msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
 msgstr ""
-"Готов: Ремонтирует 4 единиц систем и 1 единицу корпуса. Исцеляется на 20 ОЗ. "
-"Не получает урона во время действия способности."
+"Готов: Ремонтирует 4 единиц систем и 1 единицу корпуса. Исцеляется на 20 ОЗ."
+" Не получает урона во время действия способности."
 
 #: src-en/data/hyperspace.xml.append:5105
-#: src-en/data/hyperspace.xml.append:4979
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/"
-"buttonText"
+"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/buttonText"
 msgstr "ПОЛИРОВКА"
 
 #: src-en/data/hyperspace.xml.append:5106
-#: src-en/data/hyperspace.xml.append:4980
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/"
-"tooltip"
+"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
 msgstr ""
 "Готов: Наносит врагам 15 ОЗ урона и исцеляется на 20 ОЗ. Становится "
 "невосприимчивым к оглушению, наносит 20% дополнительного урона в дальнем "
@@ -1201,314 +975,231 @@ msgstr ""
 "урону на 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:5176
-#: src-en/data/hyperspace.xml.append:5050
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/buttonText"
 msgstr "АБСОРБ"
 
 #: src-en/data/hyperspace.xml.append:5177
-#: src-en/data/hyperspace.xml.append:5051
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
-"\t\t\t\t\tОбъединяется с кобальтовым Сепаратистом в одном отсеке, чтобы "
-"создать искаженного Сепаратиста."
+"\t\t\t\t\tОбъединяется с кобальтовым Сепаратистом в одном отсеке, чтобы создать искаженного Сепаратиста."
 
 #: src-en/data/hyperspace.xml.append:5242
-#: src-en/data/hyperspace.xml.append:5116
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/buttonText"
 msgstr "ВОЗРОЖДЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5243
-#: src-en/data/hyperspace.xml.append:5117
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:10с]\n"
 "\t\t\t\tЭй, вы не должны это читать! Проваливайте!"
 
 #: src-en/data/hyperspace.xml.append:5285
-#: src-en/data/hyperspace.xml.append:5159
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/buttonText"
 msgstr "РЕФОРМА"
 
 #: src-en/data/hyperspace.xml.append:5286
-#: src-en/data/hyperspace.xml.append:5160
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с]\n"
-"\t\t\t\tПреобразуется в кобальтового Сепаратиста, наносит 1 урон корпусу и "
-"системе и создает пробоину в текущем отсеке."
+"\t\t\t\tПреобразуется в кобальтового Сепаратиста, наносит 1 урон корпусу и системе и создает пробоину в текущем отсеке."
 
 #: src-en/data/hyperspace.xml.append:5311
-#: src-en/data/hyperspace.xml.append:5185
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/"
-"deathEffect/spawnCrew[1]/name"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[1]/name"
 msgstr "Кобальт"
 
 #: src-en/data/hyperspace.xml.append:5316
-#: src-en/data/hyperspace.xml.append:5190
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/"
-"deathEffect/spawnCrew[2]/name"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[2]/name"
 msgstr "Бронза"
 
 #: src-en/data/hyperspace.xml.append:5350
-#: src-en/data/hyperspace.xml.append:5224
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/buttonText"
 msgstr "РАЗДЕЛЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5351
-#: src-en/data/hyperspace.xml.append:5225
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:15с]\n"
 "\t\t\t\t\tРазделяется на двух Сепаратистов."
 
 #: src-en/data/hyperspace.xml.append:5357
-#: src-en/data/hyperspace.xml.append:5231
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/"
-"powerEffect/spawnCrew/name"
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/spawnCrew/name"
 msgstr "Кобальт"
 
 #: src-en/data/hyperspace.xml.append:5381
-#: src-en/data/hyperspace.xml.append:5255
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/"
-"buttonText"
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/buttonText"
 msgstr "Абсорб"
 
 #: src-en/data/hyperspace.xml.append:5382
-#: src-en/data/hyperspace.xml.append:5256
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/"
-"tooltip"
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:20с]\n"
-"\t\t\t\tПоглощает весь дружественный экипаж в отсеке, получив постоянное "
-"усиление."
+"\t\t\t\tПоглощает весь дружественный экипаж в отсеке, получив постоянное усиление."
 
 #: src-en/data/hyperspace.xml.append:5527
-#: src-en/data/hyperspace.xml.append:5401
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/buttonText"
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml.append:5528
-#: src-en/data/hyperspace.xml.append:5402
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
 msgstr "Готов: Разжечь пожар."
 
 #: src-en/data/hyperspace.xml.append:5595
-#: src-en/data/hyperspace.xml.append:5469
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/buttonText"
 msgstr "ИОНИЗИРОВАТЬ"
 
 #: src-en/data/hyperspace.xml.append:5596
-#: src-en/data/hyperspace.xml.append:5470
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
 msgstr "Готов: Нанести ионный урон и оглушить."
 
 #: src-en/data/hyperspace.xml.append:5662
-#: src-en/data/hyperspace.xml.append:5536
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/buttonText"
 msgstr "ПРОБОИНА"
 
 #: src-en/data/hyperspace.xml.append:5663
-#: src-en/data/hyperspace.xml.append:5537
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
 msgstr "Готов: Создать пробоину и нанести урон экипажу."
 
 #: src-en/data/hyperspace.xml.append:5735
-#: src-en/data/hyperspace.xml.append:5609
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/buttonText"
 msgstr "ОМНИ"
 
 #: src-en/data/hyperspace.xml.append:5736
-#: src-en/data/hyperspace.xml.append:5610
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
 msgstr "Готов: Наносит ВСЕ эффекты кристалла."
 
 #: src-en/data/hyperspace.xml.append:5803
-#: src-en/data/hyperspace.xml.append:5677
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/buttonText"
 msgstr "ПУСТОТА"
 
 #: src-en/data/hyperspace.xml.append:5804
-#: src-en/data/hyperspace.xml.append:5678
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
 msgstr "Готов: Порождает случайный кристалл"
 
 #: src-en/data/hyperspace.xml.append:5902
-#: src-en/data/hyperspace.xml.append:5776
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/buttonText"
 msgstr "ЩИТ"
 
 #: src-en/data/hyperspace.xml.append:5903
-#: src-en/data/hyperspace.xml.append:5777
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает значительно меньший урон (на 80%), сопротивляется попыткам "
 "контроля разума и на 50% снижает урон от удушья, получаемый ближайшими "
 "союзниками в течение 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:6001
-#: src-en/data/hyperspace.xml.append:5875
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/buttonText"
 msgstr "ЩИТ"
 
 #: src-en/data/hyperspace.xml.append:6002
-#: src-en/data/hyperspace.xml.append:5876
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает значительно меньший урон (на 80%), сопротивляется попыткам "
 "контроля разума и уменьшает урон от огня на 50% получаемый ближайшими "
 "союзниками в течение 15 секунд."
 
 #: src-en/data/hyperspace.xml.append:6752
-#: src-en/data/hyperspace.xml.append:6626
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/buttonText"
 msgstr "ПОГЛОЩЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:6753
-#: src-en/data/hyperspace.xml.append:6627
-msgid ""
-"data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
+msgid "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
 msgstr "Готов: Наносит 1 системный урон и создает пробоину в текущем отсеке"
 
 #: src-en/data/hyperspace.xml.append:6788
-#: src-en/data/hyperspace.xml.append:6662
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/buttonText"
 msgstr "ЖЕРТВА"
 
 #: src-en/data/hyperspace.xml.append:6789
-#: src-en/data/hyperspace.xml.append:6663
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Убивает всех дружественных призраков в одном отсеке, отправив их "
 "копии на вражеский корабль"
 
 #: src-en/data/hyperspace.xml.append:7236
-#: src-en/data/hyperspace.xml.append:7110
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/buttonText"
 msgstr "ЧАЕПИТИЕ"
 
 #: src-en/data/hyperspace.xml.append:7237
-#: src-en/data/hyperspace.xml.append:7111
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: Наносит 50 единиц урона всем врагам в отсеке в течение 5 секунд с "
 "помощью разрушительных яростных рубящих ударов. Скорость передвижения "
 "увеличивается до 9х на время действия эффекта."
 
 #: src-en/data/hyperspace.xml.append:7444
-#: src-en/data/hyperspace.xml.append:7318
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/buttonText"
 msgstr "ОГОНЬ"
 
 #: src-en/data/hyperspace.xml.append:7445
-#: src-en/data/hyperspace.xml.append:7319
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/tooltip"
 msgstr "Автоматически: Активирует импульс \"Огонь\""
 
 #: src-en/data/hyperspace.xml.append:7505
-#: src-en/data/hyperspace.xml.append:7379
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/buttonText"
 msgstr "ВЫБРОС"
 
 #: src-en/data/hyperspace.xml.append:7506
-#: src-en/data/hyperspace.xml.append:7380
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/"
-"tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/tooltip"
 msgstr ""
 "Автоматически: Исцеляет себя на 20 ОЗ, наносит 1 ионный урон, 4 секунды "
 "оглушает и наносит 10 единиц урона вражескому экипажу."
 
 #: src-en/data/hyperspace.xml.append:7575
-#: src-en/data/hyperspace.xml.append:7449
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/"
-"powerEffect/buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/buttonText"
 msgstr "ВЫБРОС"
 
 #: src-en/data/hyperspace.xml.append:7576
-#: src-en/data/hyperspace.xml.append:7450
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/"
-"powerEffect/tooltip"
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/tooltip"
 msgstr ""
-"Автоматически: Время от времени выпускает энергию, исцеляя всех союзников на "
-"обоих кораблях на 20 ОЗ и нанося урон всем членам вражеского экипажа на 10 "
+"Автоматически: Время от времени выпускает энергию, исцеляя всех союзников на"
+" обоих кораблях на 20 ОЗ и нанося урон всем членам вражеского экипажа на 10 "
 "ОЗ."
 
 #: src-en/data/hyperspace.xml.append:8529
-#: src-en/data/hyperspace.xml.append:8403
 msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/"
-"buttonText"
+"data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/buttonText"
 msgstr "ЭПИДЕМИЯ"
 
 #: src-en/data/hyperspace.xml.append:8530
-#: src-en/data/hyperspace.xml.append:8404
 #, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/tooltip"
@@ -1518,668 +1209,502 @@ msgstr ""
 "существ."
 
 #: src-en/data/hyperspace.xml.append:8625
-#: src-en/data/hyperspace.xml.append:8499
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/buttonText"
 msgstr "В ОГНЕ"
 
 #: src-en/data/hyperspace.xml.append:8626
-#: src-en/data/hyperspace.xml.append:8500
-msgid ""
-"data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
+msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
 msgstr "Готов: Разжечь пожар."
 
 #: src-en/data/hyperspace.xml.append:10349
-#: src-en/data/hyperspace.xml.append:10223
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/"
-"buttonText"
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/buttonText"
 msgstr "СНЯТИЕ ОГРАНИЧЕНИЙ"
 
 #: src-en/data/hyperspace.xml.append:10350
-#: src-en/data/hyperspace.xml.append:10224
 msgid ""
-"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/"
-"tooltip"
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/tooltip"
 msgstr ""
 "Готов: Увеличивает наносимый урон, снижает получаемый урон, но прекращает "
 "вырабатывать энергию на время действия."
 
 #: src-en/data/hyperspace.xml.append:10795
-#: src-en/data/hyperspace.xml.append:10669
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
 msgstr "Разжигание"
 
 #: src-en/data/hyperspace.xml.append:10796
-#: src-en/data/hyperspace.xml.append:10670
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr "Готов: Воспламеняет себя и разжигает пожар"
 
 #: src-en/data/hyperspace.xml.append:10820
-#: src-en/data/hyperspace.xml.append:10694
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
 msgstr "Разжигание"
 
 #: src-en/data/hyperspace.xml.append:10821
-#: src-en/data/hyperspace.xml.append:10695
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr "Готов: Воспламеняет себя и разжигает пожар"
 
 #: src-en/data/hyperspace.xml.append:10923
-#: src-en/data/hyperspace.xml.append:10797
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[1]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:10924
-#: src-en/data/hyperspace.xml.append:10798
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[1]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 урона "
 "вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:10959
-#: src-en/data/hyperspace.xml.append:10833
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[1]/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:10960
-#: src-en/data/hyperspace.xml.append:10834
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[1]/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
-"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу "
-"и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
+"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу"
+" и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
 "здоровье и некоторое количество дополнительного в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:10994
-#: src-en/data/hyperspace.xml.append:10868
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[2]/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:10995
-#: src-en/data/hyperspace.xml.append:10869
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[2]/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
 "Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
 "отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
 "некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11034
-#: src-en/data/hyperspace.xml.append:10908
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[3]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11035
-#: src-en/data/hyperspace.xml.append:10909
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[3]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
 "отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
 "некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11076
-#: src-en/data/hyperspace.xml.append:10950
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[4]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11077
-#: src-en/data/hyperspace.xml.append:10951
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[4]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 40 единиц урона и полностью ремонтирует текущую систему. "
 "Медленно регенерирует потерянное здоровье в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:11112
-#: src-en/data/hyperspace.xml.append:10986
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[5]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11113
-#: src-en/data/hyperspace.xml.append:10987
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[5]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
-"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу "
-"и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
+"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу"
+" и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
 "получаемый урон."
 
 #: src-en/data/hyperspace.xml.append:11148
-#: src-en/data/hyperspace.xml.append:11022
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[6]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11149
-#: src-en/data/hyperspace.xml.append:11023
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[6]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 урона "
 "вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11186
-#: src-en/data/hyperspace.xml.append:11060
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[7]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11187
-#: src-en/data/hyperspace.xml.append:11061
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[7]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа "
-"в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
+"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа"
+" в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
 "исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления удушью на "
 "13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11237
-#: src-en/data/hyperspace.xml.append:11111
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[1]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11238
-#: src-en/data/hyperspace.xml.append:11112
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[1]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 15 урона и наносит 15 урона вражескому экипажу и 1 урона "
 "вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11273
-#: src-en/data/hyperspace.xml.append:11147
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[1]/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11274
-#: src-en/data/hyperspace.xml.append:11148
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[1]/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
-"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу "
-"и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
+"Готов: Получает 25 единиц урона и наносит 15 единиц урона вражескому экипажу"
+" и 1 единицу урона вражеским системам. Медленно регенерирует потерянное "
 "здоровье и некоторое количество дополнительного в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:11308
-#: src-en/data/hyperspace.xml.append:11182
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[2]/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11309
-#: src-en/data/hyperspace.xml.append:11183
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[2]/powerEffect[2]/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
 "Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
 "отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
 "некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11348
-#: src-en/data/hyperspace.xml.append:11222
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[3]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11349
-#: src-en/data/hyperspace.xml.append:11223
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[3]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 25 единиц урона и лечит всех дружественных членов экипажа в "
 "отсеке до полного здоровья. Медленно регенерирует потерянное здоровье и "
 "некоторое количество дополнительного в течение 13 секунд."
 
 #: src-en/data/hyperspace.xml.append:11390
-#: src-en/data/hyperspace.xml.append:11264
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[4]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11391
-#: src-en/data/hyperspace.xml.append:11265
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[4]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 40 единиц урона и полностью ремонтирует текущую систему. "
 "Медленно регенерирует потерянное здоровье в течение 26 секунд."
 
 #: src-en/data/hyperspace.xml.append:11426
-#: src-en/data/hyperspace.xml.append:11300
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[5]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11427
-#: src-en/data/hyperspace.xml.append:11301
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[5]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
-"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу "
-"и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
+"Готов: Получает 50 единиц урона и наносит 30 единиц урона вражескому экипажу"
+" и 2 единицы урона вражеским системам. Укрепляется на 15 секунд: 0.3x "
 "получаемый урон."
 
 #: src-en/data/hyperspace.xml.append:11462
-#: src-en/data/hyperspace.xml.append:11336
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[6]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
 msgstr "ВИРУСНОЕ ВОЗГОРАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:11463
-#: src-en/data/hyperspace.xml.append:11337
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[6]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
 "Готов: Получает 10 урона и наносит 15 урона вражескому экипажу и 1 урона "
 "вражеским системам. Может быть быстро использовано, но медленно "
 "восстанавливается."
 
 #: src-en/data/hyperspace.xml.append:11500
-#: src-en/data/hyperspace.xml.append:11374
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[7]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:11501
-#: src-en/data/hyperspace.xml.append:11375
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/"
-"statBoost[7]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа "
-"в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
+"Готов: Получает 30 единиц урона и исцеляет всех дружественных членов экипажа"
+" в отсеке до полного здоровья. Медленно регенерирует потерянное здоровье, "
 "исцеляет ближайших друзей на 4 ОЗ/с и получает 75% сопротивления удушью на "
 "13 секунд."
 
 #: src-en/data/hyperspace.xml.append:12125
-#: src-en/data/hyperspace.xml.append:11999
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
 msgstr "СЖЕЧЬ"
 
 #: src-en/data/hyperspace.xml.append:12126
-#: src-en/data/hyperspace.xml.append:12000
 msgid ""
-"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/"
-"statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr "Готов: Разжигает пожар в текущем отсеке."
 
 #: src-en/data/hyperspace.xml.append:13538
-#: src-en/data/hyperspace.xml.append:13409
 msgid ""
-"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS\"]/mod:"
-"findWithChildLike/mod:selector"
+"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS\"]/mod:findWithChildLike/mod:selector"
 msgstr "координатный_паук"
 
 #: src-en/data/hyperspace.xml.append:13544
-#: src-en/data/hyperspace.xml.append:13415
 msgid ""
-"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS_TOOLATE\"]/mod:"
-"findWithChildLike/mod:selector"
+"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS_TOOLATE\"]/mod:findWithChildLike/mod:selector"
 msgstr "координатный_паук"
 
 #: src-en/data/hyperspace.xml.append:15844
-#: src-en/data/hyperspace.xml.append:15715
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod-append:"
-"page/section/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod-"
+"append:page/section/@text"
 msgstr "Невыполнимое задание"
 
 #: src-en/data/hyperspace.xml.append:15846
-#: src-en/data/hyperspace.xml.append:15717
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/name"
 msgstr "Органы, пожалуйста!"
 
 #: src-en/data/hyperspace.xml.append:15847
-#: src-en/data/hyperspace.xml.append:15718
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата Гильдии тип Б и получите Хранитель разума."
 
 #: src-en/data/hyperspace.xml.append:15849
-#: src-en/data/hyperspace.xml.append:15720
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15850
-#: src-en/data/hyperspace.xml.append:15721
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15854
-#: src-en/data/hyperspace.xml.append:15725
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/name"
 msgstr "Рекорд Мультивселенной"
 
 #: src-en/data/hyperspace.xml.append:15855
-#: src-en/data/hyperspace.xml.append:15726
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Вестников Заката тип Б и получите Сумеречные "
 "жилеты."
 
 #: src-en/data/hyperspace.xml.append:15857
-#: src-en/data/hyperspace.xml.append:15728
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15858
-#: src-en/data/hyperspace.xml.append:15729
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15862
-#: src-en/data/hyperspace.xml.append:15733
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/name"
 msgstr "Упрочняющие наниты"
 
 #: src-en/data/hyperspace.xml.append:15863
-#: src-en/data/hyperspace.xml.append:15734
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-энджи тип В и получите Стимулятор дронов "
 "\"Кай\"."
 
 #: src-en/data/hyperspace.xml.append:15865
-#: src-en/data/hyperspace.xml.append:15736
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15866
-#: src-en/data/hyperspace.xml.append:15737
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15870
-#: src-en/data/hyperspace.xml.append:15741
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/name"
 msgstr "Британия"
 
 #: src-en/data/hyperspace.xml.append:15871
-#: src-en/data/hyperspace.xml.append:15742
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Свободных Богомолов тип Б и получите Чай."
 
 #: src-en/data/hyperspace.xml.append:15873
-#: src-en/data/hyperspace.xml.append:15744
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15874
-#: src-en/data/hyperspace.xml.append:15745
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15878
-#: src-en/data/hyperspace.xml.append:15749
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/name"
 msgstr "Символика"
 
 #: src-en/data/hyperspace.xml.append:15879
-#: src-en/data/hyperspace.xml.append:15750
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
 msgstr "Победите Искаженного Ренегата-Сепаратистов тип Б и получите Магатаму."
 
 #: src-en/data/hyperspace.xml.append:15881
-#: src-en/data/hyperspace.xml.append:15752
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15882
-#: src-en/data/hyperspace.xml.append:15753
 msgid ""
-"data/hyperspace.xml.append$//"
-"achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15886
-#: src-en/data/hyperspace.xml.append:15757
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
 msgstr "Зерг Раш"
 
 #: src-en/data/hyperspace.xml.append:15887
-#: src-en/data/hyperspace.xml.append:15758
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата Улья тип Б и получите Катализатор феромонов."
 
 #: src-en/data/hyperspace.xml.append:15889
-#: src-en/data/hyperspace.xml.append:15760
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15890
-#: src-en/data/hyperspace.xml.append:15761
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15894
-#: src-en/data/hyperspace.xml.append:15765
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/name"
 msgstr "Принуждение к миру"
 
 #: src-en/data/hyperspace.xml.append:15895
-#: src-en/data/hyperspace.xml.append:15766
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Монахов тип Б и получите Эфирные щиты "
 "вознесения."
 
 #: src-en/data/hyperspace.xml.append:15897
-#: src-en/data/hyperspace.xml.append:15768
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15898
-#: src-en/data/hyperspace.xml.append:15769
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15902
-#: src-en/data/hyperspace.xml.append:15773
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/name"
 msgstr "СОПРОТИВЛЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:15903
-#: src-en/data/hyperspace.xml.append:15774
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-валунов тип В и получите Реликвию свободы "
 "валунов."
 
 #: src-en/data/hyperspace.xml.append:15905
-#: src-en/data/hyperspace.xml.append:15776
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15906
-#: src-en/data/hyperspace.xml.append:15777
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15910
-#: src-en/data/hyperspace.xml.append:15781
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/name"
 msgstr "Последний час"
 
 #: src-en/data/hyperspace.xml.append:15911
-#: src-en/data/hyperspace.xml.append:15782
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Затерянных Солнц тип Б и получите "
 "Перезагрузчик реальности."
 
 #: src-en/data/hyperspace.xml.append:15913
-#: src-en/data/hyperspace.xml.append:15784
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15914
-#: src-en/data/hyperspace.xml.append:15785
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15918
-#: src-en/data/hyperspace.xml.append:15789
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/name"
 msgstr "Чистильщик Чистильщик"
 
 #: src-en/data/hyperspace.xml.append:15919
-#: src-en/data/hyperspace.xml.append:15790
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-слизней тип В и получите Мальборо Квазар."
 
 #: src-en/data/hyperspace.xml.append:15921
-#: src-en/data/hyperspace.xml.append:15792
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15922
-#: src-en/data/hyperspace.xml.append:15793
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15926
-#: src-en/data/hyperspace.xml.append:15797
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/name"
 msgstr "НИ могу"
 
 #: src-en/data/hyperspace.xml.append:15927
-#: src-en/data/hyperspace.xml.append:15798
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Стелс тип Б и получите, и получите, и "
 "получите, и получите, и получите, и получите, и получите, и получите, и "
@@ -2189,527 +1714,427 @@ msgstr ""
 "получите, и получите... отключение."
 
 #: src-en/data/hyperspace.xml.append:15929
-#: src-en/data/hyperspace.xml.append:15800
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15930
-#: src-en/data/hyperspace.xml.append:15801
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15934
-#: src-en/data/hyperspace.xml.append:15805
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/name"
 msgstr "Халява исключена"
 
 #: src-en/data/hyperspace.xml.append:15935
-#: src-en/data/hyperspace.xml.append:15806
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-золтан тип В и получите Снятие ограничений."
 
 #: src-en/data/hyperspace.xml.append:15937
-#: src-en/data/hyperspace.xml.append:15808
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15938
-#: src-en/data/hyperspace.xml.append:15809
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15942
-#: src-en/data/hyperspace.xml.append:15813
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/name"
 msgstr "Маяк"
 
 #: src-en/data/hyperspace.xml.append:15943
-#: src-en/data/hyperspace.xml.append:15814
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-ланиусов тип Б и получите Металлическое "
 "огненное сердце."
 
 #: src-en/data/hyperspace.xml.append:15945
-#: src-en/data/hyperspace.xml.append:15816
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15946
-#: src-en/data/hyperspace.xml.append:15817
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15950
-#: src-en/data/hyperspace.xml.append:15821
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/name"
 msgstr "Карантин"
 
 #: src-en/data/hyperspace.xml.append:15951
-#: src-en/data/hyperspace.xml.append:15822
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-ракушек тип В и получите Горючее биооружие."
 
 #: src-en/data/hyperspace.xml.append:15953
-#: src-en/data/hyperspace.xml.append:15824
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15954
-#: src-en/data/hyperspace.xml.append:15825
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15958
-#: src-en/data/hyperspace.xml.append:15829
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/name"
 msgstr "автялк яанремециЛ"
 
 #: src-en/data/hyperspace.xml.append:15959
-#: src-en/data/hyperspace.xml.append:15830
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Инженеров тип Б и получите Стимулятор дронов "
 "мод. II."
 
 #: src-en/data/hyperspace.xml.append:15961
-#: src-en/data/hyperspace.xml.append:15832
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15962
-#: src-en/data/hyperspace.xml.append:15833
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15966
-#: src-en/data/hyperspace.xml.append:15837
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/name"
 msgstr "Привратник"
 
 #: src-en/data/hyperspace.xml.append:15967
-#: src-en/data/hyperspace.xml.append:15838
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-Пустельгу тип Б и получите Холодильник Гозера."
 
 #: src-en/data/hyperspace.xml.append:15969
-#: src-en/data/hyperspace.xml.append:15840
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15970
-#: src-en/data/hyperspace.xml.append:15841
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15974
-#: src-en/data/hyperspace.xml.append:15845
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/name"
 msgstr "Луч правосудия"
 
 #: src-en/data/hyperspace.xml.append:15975
-#: src-en/data/hyperspace.xml.append:15846
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
 msgstr ""
 "Победите Искаженных Ренегатов Федерации тип Б и получите Искаженный "
 "изготовитель боеприпасов."
 
 #: src-en/data/hyperspace.xml.append:15977
-#: src-en/data/hyperspace.xml.append:15848
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15978
-#: src-en/data/hyperspace.xml.append:15849
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15982
-#: src-en/data/hyperspace.xml.append:15853
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/name"
 msgstr "Весельчак"
 
 #: src-en/data/hyperspace.xml.append:15983
-#: src-en/data/hyperspace.xml.append:15854
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/description"
 msgstr "Победите Искаженного Ренегата-орхидей тип Б и получите друзей."
 
 #: src-en/data/hyperspace.xml.append:15985
-#: src-en/data/hyperspace.xml.append:15856
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15986
-#: src-en/data/hyperspace.xml.append:15857
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15990
-#: src-en/data/hyperspace.xml.append:15861
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/name"
 msgstr "Пулевой ад"
 
 #: src-en/data/hyperspace.xml.append:15991
-#: src-en/data/hyperspace.xml.append:15862
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-кристаллинов тип В и получите Искаженную "
 "осколочную броню."
 
 #: src-en/data/hyperspace.xml.append:15993
-#: src-en/data/hyperspace.xml.append:15864
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:15994
-#: src-en/data/hyperspace.xml.append:15865
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:15998
-#: src-en/data/hyperspace.xml.append:15869
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/name"
 msgstr "Больше никаких смертей"
 
 #: src-en/data/hyperspace.xml.append:15999
-#: src-en/data/hyperspace.xml.append:15870
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/description"
 msgstr "Победите Искаженного Ренегата-Туко тип Б и получите Золотого Туко."
 
 #: src-en/data/hyperspace.xml.append:16001
-#: src-en/data/hyperspace.xml.append:15872
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:16002
-#: src-en/data/hyperspace.xml.append:15873
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16006
-#: src-en/data/hyperspace.xml.append:15877
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/"
-"name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/name"
 msgstr "Двигатели не заклинило"
 
 #: src-en/data/hyperspace.xml.append:16007
-#: src-en/data/hyperspace.xml.append:15878
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/"
-"description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/description"
 msgstr ""
 "Победите Искаженного Ренегата-пиявку типа В и получите Излучатель депрессии."
 
 #: src-en/data/hyperspace.xml.append:16009
-#: src-en/data/hyperspace.xml.append:15880
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/"
-"header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:16010
-#: src-en/data/hyperspace.xml.append:15881
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16014
-#: src-en/data/hyperspace.xml.append:15885
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/name"
 msgstr "У меня нет на это времени"
 
 #: src-en/data/hyperspace.xml.append:16015
-#: src-en/data/hyperspace.xml.append:15886
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/description"
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/description"
 msgstr "Не тратьте время на Искаженную Пустельгу тип Б."
 
 #: src-en/data/hyperspace.xml.append:16017
-#: src-en/data/hyperspace.xml.append:15888
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[1]"
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[1]"
 msgstr "нет времени"
 
 #: src-en/data/hyperspace.xml.append:16018
-#: src-en/data/hyperspace.xml.append:15889
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:16019
-#: src-en/data/hyperspace.xml.append:15890
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16023
-#: src-en/data/hyperspace.xml.append:15894
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/name"
 msgstr "Халява!"
 
 #: src-en/data/hyperspace.xml.append:16024
-#: src-en/data/hyperspace.xml.append:15895
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/description"
 msgstr "Примите предложение Искаженного Ренегата-золтан тип В и получите лом."
 
 #: src-en/data/hyperspace.xml.append:16026
-#: src-en/data/hyperspace.xml.append:15897
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[1]"
 msgstr "ух ты, халява?!"
 
 #: src-en/data/hyperspace.xml.append:16027
-#: src-en/data/hyperspace.xml.append:15898
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
 msgstr "Искаженные Ренегаты побеждены"
 
 #: src-en/data/hyperspace.xml.append:16028
-#: src-en/data/hyperspace.xml.append:15899
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/"
-"secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/secretDescription"
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16035
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
-"mod:findLike[1]/mod:selector/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16037
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
 msgstr "Благо пластинчатых"
 
 #: src-en/data/hyperspace.xml.append:16038
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16039
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16041
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16047
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
-"mod:findLike[2]/mod:selector/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16049
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
 msgstr "Дар бронирования"
 
 #: src-en/data/hyperspace.xml.append:16050
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16051
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16053
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16059
 msgid ""
-"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
-"mod:findLike[3]/mod:selector/@text"
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[3]/mod:selector/@text"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16061
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
 msgstr "Благословение кузниц"
 
 #: src-en/data/hyperspace.xml.append:16062
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16063
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16065
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
 msgstr "Велик. благосл. кузниц"
 
 #: src-en/data/hyperspace.xml.append:16071
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16072
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16074
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16079
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
 msgstr "Благословение глупцов"
 
 #: src-en/data/hyperspace.xml.append:16080
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16081
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16083
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16089
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
 msgstr "Благослов. искажения"
 
 #: src-en/data/hyperspace.xml.append:16090
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16091
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16093
 msgid ""
-"data/hyperspace.xml.append$//mod-append:"
-"achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
 msgstr ""

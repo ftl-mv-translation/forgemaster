@@ -604,7 +604,7 @@ msgid ""
 "append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
 "PHYSICAL TRAUMA NANOMACHINES:\n"
-"\t\t\t\t\tThe Unique nanomachines dispensed by this ship's manning drones boost the Engi captain's health and damage resistance. Take out the drones so you can take out the Engi Captain!"
+"\t\t\t\t\tThe unique nanomachines dispensed by this ship's manning drones boost the Engi captain's health and damage resistance. Take out the drones so you can take out the Engi Captain!"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
@@ -1981,7 +1981,7 @@ msgstr "Corby's Grants"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
-msgstr "Grant of Armoring"
+msgstr "Grant of Armouring"
 
 #: src-en/data/hyperspace.xml.append:16050
 msgid ""
