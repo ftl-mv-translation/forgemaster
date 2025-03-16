@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 15:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-03-16 17:07+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -2577,13 +2577,15 @@ msgstr "Благо пластинчатых"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
-msgstr ""
+msgstr "Получить Благо пластинчатых от Сеста."
 
 #: src-en/data/hyperspace.xml.append:16039
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
 msgstr ""
+"Показать Сесту Пластинчатый экипаж. \n"
+"\t\t\t\t\tПока действует; все члены экипажа получают +1 заряд способностей."
 
 #: src-en/data/hyperspace.xml.append:16041
 msgid ""
@@ -2608,13 +2610,16 @@ msgstr "Дар бронирования"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
-msgstr ""
+msgstr "Получить Дар бронирования от Корби."
 
 #: src-en/data/hyperspace.xml.append:16051
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
 msgstr ""
+"Показать Модульный корпус Корби. \n"
+"\t\t\t\t\tПока действует; Модульный корпус приобретает +5 единиц вместимости."
 
 #: src-en/data/hyperspace.xml.append:16053
 msgid ""
@@ -2638,13 +2643,15 @@ msgstr "Благословение кузниц"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
-msgstr ""
+msgstr "Получить Благословение кузниц от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:16063
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
 msgstr ""
+"Показать Уэйксону выкованное оружие. \n"
+"\t\t\t\t\tПока действует; Кузнец порождается автоматически, без призыва."
 
 #: src-en/data/hyperspace.xml.append:16065
 msgid ""
@@ -2662,13 +2669,15 @@ msgstr "Велик. благосл. кузниц"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
-msgstr ""
+msgstr "Получить Великое благословение кузниц от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:16072
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
 msgstr ""
+"Показать Уэйксона высококлассное выкованное оружие. \n"
+"\t\t\t\t\tПока действует; у Кузнеца есть больший и лучший магазин."
 
 #: src-en/data/hyperspace.xml.append:16074
 msgid ""
@@ -2686,13 +2695,16 @@ msgstr "Благословение глупцов"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
-msgstr ""
+msgstr "Получить благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:16081
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
 msgstr ""
+"Показать Уэйксону технологию Анкалагона. \n"
+"\t\t\t\t\tПока действует; кристаллы Анкалагона получают 50% сопротивления "
+"урону."
 
 #: src-en/data/hyperspace.xml.append:16083
 msgid ""
@@ -2710,13 +2722,16 @@ msgstr "Благослов. искажения"
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
-msgstr ""
+msgstr "Получить благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:16091
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
 msgstr ""
+"Показать Терминус Уэйксону. \n"
+"\t\t\t\t\tПока действует: все показатели экипажа повышаются на 5%, "
+"большинство показателей корабля повышаются на 5%."
 
 #: src-en/data/hyperspace.xml.append:16093
 msgid ""
