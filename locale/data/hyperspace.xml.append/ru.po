@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-03-16 15:05+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -706,6 +706,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1813
 #: src-en/data/hyperspace.xml.append:1812
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-append:"
 "shipIcons/shipIcon[4]/tooltip"
@@ -2597,6 +2598,7 @@ msgid ""
 msgstr "Дары Корби"
 
 #: src-en/data/hyperspace.xml.append:16049
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
