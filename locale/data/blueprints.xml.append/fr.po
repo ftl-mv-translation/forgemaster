@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-13 01:08+0000\n"
+"PO-Revision-Date: 2025-03-16 12:03+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -4162,12 +4162,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/title"
-msgstr ""
+msgstr "Flak nobélienne"
 
 #: src-en/data/blueprints.xml.append:9469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/short"
-msgstr ""
+msgstr "F. nobélienne."
 
 #: src-en/data/blueprints.xml.append:9470
 msgid ""
@@ -4362,12 +4362,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak nobélienne†"
 
 #: src-en/data/blueprints.xml.append:9938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "F. nobélienne.†"
 
 #: src-en/data/blueprints.xml.append:9939
 msgid ""
@@ -6694,12 +6694,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak nobélienne"
 
 #: src-en/data/blueprints.xml.append:15455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "F. nobélienne."
 
 #: src-en/data/blueprints.xml.append:15456
 msgid ""
