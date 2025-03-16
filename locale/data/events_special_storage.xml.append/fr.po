@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-13 01:08+0000\n"
+"PO-Revision-Date: 2025-03-16 12:03+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -8817,7 +8817,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration vers la flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8581
 #, fuzzy
@@ -8834,6 +8834,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Améliorer la flak nobélienne en utilisant de la ferraille et le Rafale "
+"Cristalien Elite I ?"
 
 #: src-en/data/events_special_storage.xml.append:8592
 msgid ""
@@ -8879,6 +8881,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Améliorer la flak nobélienne en utilisant de la ferraille et du Cristal "
+"lourd d'élite Mark II ?"
 
 #: src-en/data/events_special_storage.xml.append:8643
 msgid ""
@@ -9281,7 +9285,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration vers la flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:9092
 #, fuzzy
