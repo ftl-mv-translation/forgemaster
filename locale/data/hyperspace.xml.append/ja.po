@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-16 05:19+0000\n"
+"PO-Revision-Date: 2025-03-16 12:03+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Japanese <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ja/>\n"
