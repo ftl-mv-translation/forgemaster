@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-04 15:39+0000\n"
+"PO-Revision-Date: 2025-03-16 12:03+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/fr/>\n"
@@ -125,6 +125,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Hellfire) Que la fête commence ! Ça leur apprendra à ces fainéants. [Coût : "
+"2}]]"
 
 #: src-en/data/events_sector_harmony.xml.append:94
 msgid ""
@@ -137,6 +139,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vos missiles Hellfire anéantissent le vaisseau sans résistance, et vous "
+"récupérez votre délicieux butin."
 
 #: src-en/data/events_sector_harmony.xml.append:103
 msgid ""
@@ -185,18 +189,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Ba-Pef) Faites en sorte que ce soit leur dernière fête. Bloquer toutes les "
+"sorties [Coût : 1}]"
 
 #: src-en/data/events_sector_harmony.xml.append:208
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec le lance-mines \"Ba-Pef\"."
 
 #: src-en/data/events_sector_harmony.xml.append:215
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vos mines 'Ba-Pef 'bloquent toutes les issues, de sorte qu'aucun des clients "
+"de la fête ne peut s'échapper. Vous démantelez les autres vaisseaux "
+"stationnés près du vaisseau, sachant qu'ils ne peuvent pas y retourner en "
+"utilisant leurs navettes personnelles."
 
 #: src-en/data/events_sector_harmony.xml.append:217
 msgid ""
@@ -245,18 +255,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Nobelium) Réduire en miettes les vaisseaux de ces lâches fêtards, comment "
+"osent-ils faire la fête pendant une guerre civile ?"
 
 #: src-en/data/events_sector_harmony.xml.append:320
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer la flak nobélienne."
 
 #: src-en/data/events_sector_harmony.xml.append:326
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre flak nobélienne se fracasse sur les coques des vaisseaux en "
+"stationnement présents à proximité de la fête. Elle s'écrase également sur "
+"la coque du vaisseau Engi en train de faire la fête, la déchiquetant comme "
+"du gruyère. Personne n'a atteint une capsule de sauvetage à temps."
 
 #: src-en/data/events_sector_harmony.xml.append:328
 msgid ""
@@ -550,6 +566,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Hellfire) Que la fête commence ! Ça leur apprendra à ces fainéants. [Coût : "
+"2}]]"
 
 #: src-en/data/events_sector_harmony.xml.append:894
 msgid ""
@@ -562,6 +580,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vos missiles Hellfire anéantissent le vaisseau sans résistance, et vous "
+"récupérez votre délicieux butin."
 
 #: src-en/data/events_sector_harmony.xml.append:903
 msgid ""
@@ -610,18 +630,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Ba-Pef) Faites en sorte que ce soit leur dernière fête. Bloquer toutes les "
+"sorties [Coût : 1}]"
 
 #: src-en/data/events_sector_harmony.xml.append:1008
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec le lance-mines \"Ba-Pef\"."
 
 #: src-en/data/events_sector_harmony.xml.append:1015
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Vos mines 'Ba-Pef 'bloquent toutes les issues, de sorte qu'aucun des clients "
+"de la fête ne peut s'échapper. Vous démantelez les autres vaisseaux "
+"stationnés près du vaisseau, sachant qu'ils ne peuvent pas y retourner en "
+"utilisant leurs navettes personnelles."
 
 #: src-en/data/events_sector_harmony.xml.append:1017
 msgid ""
@@ -670,18 +696,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Nobelium) Réduire en miettes les vaisseaux de ces lâches fêtards, comment "
+"osent-ils faire la fête pendant une guerre civile ?"
 
 #: src-en/data/events_sector_harmony.xml.append:1120
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer la flak nobélienne."
 
 #: src-en/data/events_sector_harmony.xml.append:1126
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre flak nobélienne se fracasse sur les coques des vaisseaux en "
+"stationnement présents à proximité de la fête. Elle s'écrase également sur "
+"la coque du vaisseau Engi en train de faire la fête, la déchiquetant comme "
+"du gruyère. Personne n'a atteint une capsule de sauvetage à temps."
 
 #: src-en/data/events_sector_harmony.xml.append:1128
 msgid ""
