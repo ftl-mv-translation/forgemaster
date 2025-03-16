@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 12:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-03-16 15:05+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -2564,7 +2564,7 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
 "mod:findLike[1]/mod:selector/@text"
-msgstr ""
+msgstr "Блага Сеста"
 
 #: src-en/data/hyperspace.xml.append:16037
 msgid ""
@@ -2588,13 +2588,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:16047
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
 "mod:findLike[2]/mod:selector/@text"
-msgstr ""
+msgstr "Дары Корби"
 
 #: src-en/data/hyperspace.xml.append:16049
 msgid ""
@@ -2618,13 +2618,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:16059
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/"
 "mod:findLike[3]/mod:selector/@text"
-msgstr ""
+msgstr "Благословение Уэйксона"
 
 #: src-en/data/hyperspace.xml.append:16061
 msgid ""
@@ -2648,7 +2648,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
@@ -2672,7 +2672,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:16079
 msgid ""
@@ -2696,7 +2696,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:16089
 msgid ""
@@ -2720,4 +2720,4 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-append:"
 "achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
-msgstr ""
+msgstr "Благо получено"
