@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 12:03+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
-"datahyperspace-xml-append/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -1807,3 +1800,162 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/secretDescription"
 msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:16035
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16037
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16038
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16039
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16041
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16047
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16049
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16050
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16051
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16053
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16059
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[3]/mod:selector/@text"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16061
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16062
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16063
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16065
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16070
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16071
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16072
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16074
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16079
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16080
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16081
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16083
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16089
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16090
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16091
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16093
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
+msgstr ""

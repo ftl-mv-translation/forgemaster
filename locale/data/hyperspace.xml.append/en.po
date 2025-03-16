@@ -1940,3 +1940,174 @@ msgstr "Twisted Renegade Defeated"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/secretDescription"
 msgstr "???"
+
+#: src-en/data/hyperspace.xml.append:16035
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
+msgstr "Thest's Boons"
+
+#: src-en/data/hyperspace.xml.append:16037
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
+msgstr "Boon of Plated"
+
+#: src-en/data/hyperspace.xml.append:16038
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
+msgstr "Receive the Boon of Plated from Thest."
+
+#: src-en/data/hyperspace.xml.append:16039
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
+msgstr ""
+"Show a Plated crew to Thest. \n"
+"\t\t\t\t\tWhile in effect; All Plated crew gain a +1 Ability charge."
+
+#: src-en/data/hyperspace.xml.append:16041
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
+msgstr "Boon Received"
+
+#: src-en/data/hyperspace.xml.append:16047
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
+msgstr "Corby's Grants"
+
+#: src-en/data/hyperspace.xml.append:16049
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
+msgstr "Grant of Armoring"
+
+#: src-en/data/hyperspace.xml.append:16050
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
+msgstr "Receive the Grant of Armouring from Corby."
+
+#: src-en/data/hyperspace.xml.append:16051
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
+msgstr ""
+"Show Modular Hull to Corby. \n"
+"\t\t\t\t\tWhile in effect; Modular Hull gains +5 notch capacity."
+
+#: src-en/data/hyperspace.xml.append:16053
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
+msgstr "Boon Received"
+
+#: src-en/data/hyperspace.xml.append:16059
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[3]/mod:selector/@text"
+msgstr "Wakeson's Blessings"
+
+#: src-en/data/hyperspace.xml.append:16061
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
+msgstr "Blessing of Forges"
+
+#: src-en/data/hyperspace.xml.append:16062
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
+msgstr "Receive the Blessing of Forges from Wakeson."
+
+#: src-en/data/hyperspace.xml.append:16063
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
+msgstr ""
+"Show a forged weapon to Wakeson. \n"
+"\t\t\t\t\tWhile in effect; The Forgemaster spawns automatically without Calling."
+
+#: src-en/data/hyperspace.xml.append:16065
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
+msgstr "Boon Received"
+
+#: src-en/data/hyperspace.xml.append:16070
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
+msgstr "Greater Blessing of Forges"
+
+#: src-en/data/hyperspace.xml.append:16071
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
+msgstr "Receive the Greater Blessing of Forges from Wakeson."
+
+#: src-en/data/hyperspace.xml.append:16072
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
+msgstr ""
+"Show a high grade forged weapon to Wakeson. \n"
+"\t\t\t\t\tWhile in effect; The Forgemaster has a larger and better store."
+
+#: src-en/data/hyperspace.xml.append:16074
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
+msgstr "Boon Received"
+
+#: src-en/data/hyperspace.xml.append:16079
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
+msgstr "Blessing of the Foolhardy"
+
+#: src-en/data/hyperspace.xml.append:16080
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
+msgstr "Receive the Blessing of ??? from Wakeson."
+
+#: src-en/data/hyperspace.xml.append:16081
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
+msgstr ""
+"Show ancalagon tech to Wakeson. \n"
+"\t\t\t\t\tWhile in effect; Ancalagon crystals gain 50% damage resistance."
+
+#: src-en/data/hyperspace.xml.append:16083
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
+msgstr "Boon Received"
+
+#: src-en/data/hyperspace.xml.append:16089
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
+msgstr "Blessing of Twistedness"
+
+#: src-en/data/hyperspace.xml.append:16090
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
+msgstr "Receive the Blessing of ??? from Wakeson."
+
+#: src-en/data/hyperspace.xml.append:16091
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
+msgstr ""
+"Show the Terminus to Wakeson. \n"
+"\t\t\t\t\tWhile in effect; All crew stats are raised by 5%, most ship stats are increased by 5%."
+
+#: src-en/data/hyperspace.xml.append:16093
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
+msgstr "Boon Received"

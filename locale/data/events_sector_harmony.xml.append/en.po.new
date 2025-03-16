@@ -1,0 +1,1024 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_harmony.xml.append:9
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/text"
+msgstr ""
+"The distress beacon here is coming from an Engi vessel, but it does not seem"
+" to be in any danger."
+
+#: src-en/data/events_sector_harmony.xml.append:12
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/text"
+msgstr "Hail the Engi to see what's wrong."
+
+#: src-en/data/events_sector_harmony.xml.append:14
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/text"
+msgstr ""
+"An Engi wearing a purple party hat appears onscreen. In the backgrounds are "
+"colorful rapidly flashing lights and several Slugs dancing. \"Commence "
+"greetings. Inquiry: knowledge of how to 'party hard'. Request: mind-altering"
+" substances for gratification, recommended by Slug visitors.\""
+
+#: src-en/data/events_sector_harmony.xml.append:16
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/text"
+msgstr "(Ion Weapon) Zap the Engi, it's close enough."
+
+#: src-en/data/events_sector_harmony.xml.append:18
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/event/text"
+msgstr ""
+"The Engi flails like a puppet for a few minutes. Once it regains control "
+"over itself, its screen begins to rapidly flash colors, and it speaks very "
+"slowly. \"Graaaaatituuuuuude. Thiiiiiis is: dooooope. Aaaaacceeeeept "
+"cooompeeeensaaaaaatiooon.\""
+
+#: src-en/data/events_sector_harmony.xml.append:23
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
+msgstr "(Mantis Pheromones) Disperse the pheromones over their ship."
+
+#: src-en/data/events_sector_harmony.xml.append:25
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
+msgstr ""
+"A steady distribution of the pheromones certainly has... an effect on the "
+"crew. You may have given them too much, because now the Slugs are trying to "
+"climb the walls and the Engi are hugging the drones. While they're "
+"distracted you scrap some of the exterior regions of their ship."
+
+#: src-en/data/events_sector_harmony.xml.append:30
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
+msgstr "(Orchid Crew) Have your Orchid work some magic on them."
+
+#: src-en/data/events_sector_harmony.xml.append:32
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
+msgstr ""
+"The Orchids have a unique ability to put others in a... \"daze\". The effect"
+" is visible on the Slugs and Engi who begin to act very strangely. They pay "
+"you for your \"assistance.\""
+
+#: src-en/data/events_sector_harmony.xml.append:37
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/text"
+msgstr "(Butler Drone) Turn it up to eleven."
+
+#: src-en/data/events_sector_harmony.xml.append:39
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/event/text"
+msgstr ""
+"It's not exactly what they requested, but they won't complain. The Butler "
+"tends to every numerous needs the Slugs and Engi request when they notice "
+"it. Soon, it eventually raises the already high volume, and the crew can no "
+"longer keep up. Before they all pass out, they graciously pay you for your "
+"\"assistance.\""
+
+#: src-en/data/events_sector_harmony.xml.append:44
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[5]/text"
+msgstr "We can't help."
+
+#: src-en/data/events_sector_harmony.xml.append:50
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/text"
+msgstr "Ignore them."
+
+#: src-en/data/events_sector_harmony.xml.append:52
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/text"
+msgstr ""
+"The threat must have already disappeared, and the Engi simply have not yet "
+"switched off their distress beacon. You move on."
+
+#: src-en/data/events_sector_harmony.xml.append:54
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_harmony.xml.append:58
+msgid ""
+"data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_harmony.xml.append:70
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr ""
+"(Hellfire) Heat up the party! That'll teach these lazy bastards.[Cost: 2}]"
+
+#: src-en/data/events_sector_harmony.xml.append:94
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Hellfire Missiles."
+
+#: src-en/data/events_sector_harmony.xml.append:101
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Hellfire Missiles annihilate the vessel without resistance, and you "
+"collect your delicious loot."
+
+#: src-en/data/events_sector_harmony.xml.append:103
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:113
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:125
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:137
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:149
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:161
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:173
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:183
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "(Ba-Pef) Make this their last party. Block all the exits.[Cost: 1}]"
+
+#: src-en/data/events_sector_harmony.xml.append:208
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the 'Ba-Pef' Minelauncher."
+
+#: src-en/data/events_sector_harmony.xml.append:215
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your 'Ba-Pef' mines block all the exits, so none of the party patrons can "
+"escape. You dismantle the other ships parked near the vessel, knowing they "
+"can't return to them using their personal shuttles."
+
+#: src-en/data/events_sector_harmony.xml.append:217
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:227
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:239
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:251
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:263
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:275
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:287
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:296
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/text"
+msgstr ""
+"(Nobelium) Shred these partying coward's ships to pieces, how dare they "
+"party during a civil war?"
+
+#: src-en/data/events_sector_harmony.xml.append:320
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Nobelium Flak."
+
+#: src-en/data/events_sector_harmony.xml.append:326
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Nobelium Flak shreds into the hulls of the parked ships present near "
+"the party. It also smashes into the partying Engi vessel's hull, shredding "
+"it like swiss cheese. Nobody reached an escape pod in time."
+
+#: src-en/data/events_sector_harmony.xml.append:328
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:338
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:350
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:362
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:374
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:386
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:398
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:408
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/text"
+msgstr ""
+"(Hassium) Shred these partying coward's ships to pieces, how dare they party"
+" during a civil war?"
+
+#: src-en/data/events_sector_harmony.xml.append:432
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Hassium Flak."
+
+#: src-en/data/events_sector_harmony.xml.append:438
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Hassium Flak shreds into the hulls of the parked ships present near the"
+" party. It also smashes into the partying Engi vessel's hull, shredding it "
+"like swiss cheese. Nobody reached an escape pod in time."
+
+#: src-en/data/events_sector_harmony.xml.append:440
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:450
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:462
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:474
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:486
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:498
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:510
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:520
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/text"
+msgstr ""
+"(Rebel Ripper) Shoot into the party to fish for any humans, what if there is"
+" a Rebel spy in their midst?"
+
+#: src-en/data/events_sector_harmony.xml.append:544
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Rebel Ripper."
+
+#: src-en/data/events_sector_harmony.xml.append:550
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Rebel Ripper laser peppers the Engi vessel for \"Rebel spies\". Turns "
+"out the entire ship was filled with \"Rebel spies\". With all the party "
+"patrons dead, you loot all their ships safely for scrap, and find some fuel "
+"as well."
+
+#: src-en/data/events_sector_harmony.xml.append:552
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:562
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:574
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:586
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:598
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:610
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:622
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:632
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/text"
+msgstr "(Absolution) Add some \"surprise party-goers\" to the mix to \"party hard\"."
+
+#: src-en/data/events_sector_harmony.xml.append:656
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Absolution."
+
+#: src-en/data/events_sector_harmony.xml.append:662
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Absolution fills their party vessel with Ion Anomaly clouds. You are "
+"glad the first thing they disabled was their Oxygen, so you didn't have to "
+"hear their obnoxious screams as they were torn apart by Anomalous vortexes. "
+"You loot the vessels docked near the party vessel."
+
+#: src-en/data/events_sector_harmony.xml.append:664
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:674
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:686
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:698
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:710
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:722
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:734
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:744
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/text"
+msgstr ""
+"(Menaulion) Kill them all before they can even blink. There is a civil war "
+"going on, how dare they party?!"
+
+#: src-en/data/events_sector_harmony.xml.append:768
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Menaulion."
+
+#: src-en/data/events_sector_harmony.xml.append:774
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Every living thing on the ship is dead within seconds, they probably didn't "
+"even know they were in danger before they died. You loot the Engi party "
+"vessel, and the other empty vessels docked nearby. Your findings are VERY "
+"profitable."
+
+#: src-en/data/events_sector_harmony.xml.append:776
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:786
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:798
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:810
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:822
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:834
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:846
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:856
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "We can't help."
+
+#: src-en/data/events_sector_harmony.xml.append:870
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr ""
+"(Hellfire) Heat up the party! That'll teach these lazy bastards.[Cost: 2}]"
+
+#: src-en/data/events_sector_harmony.xml.append:894
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Hellfire Missiles."
+
+#: src-en/data/events_sector_harmony.xml.append:901
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Hellfire Missiles annihilate the vessel without resistance, and you "
+"collect your delicious loot."
+
+#: src-en/data/events_sector_harmony.xml.append:903
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:913
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:925
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:937
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:949
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:961
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:973
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:983
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "(Ba-Pef) Make this their last party. Block all the exits.[Cost: 1}]"
+
+#: src-en/data/events_sector_harmony.xml.append:1008
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the 'Ba-Pef' Minelauncher."
+
+#: src-en/data/events_sector_harmony.xml.append:1015
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your 'Ba-Pef' mines block all the exits, so none of the party patrons can "
+"escape. You dismantle the other ships parked near the vessel, knowing they "
+"can't return to them using their personal shuttles."
+
+#: src-en/data/events_sector_harmony.xml.append:1017
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1027
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1039
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1051
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1063
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1075
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1087
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1096
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/text"
+msgstr ""
+"(Nobelium) Shred these partying coward's ships to pieces, how dare they "
+"party during a civil war?"
+
+#: src-en/data/events_sector_harmony.xml.append:1120
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Nobelium Flak."
+
+#: src-en/data/events_sector_harmony.xml.append:1126
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Nobelium Flak shreds into the hulls of the parked ships present near "
+"the party. It also smashes into the partying Engi vessel's hull, shredding "
+"it like swiss cheese. Nobody reached an escape pod in time."
+
+#: src-en/data/events_sector_harmony.xml.append:1128
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1138
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1150
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1162
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1174
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1186
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1198
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[3]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1208
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/text"
+msgstr ""
+"(Hassium) Shred these partying coward's ships to pieces, how dare they party"
+" during a civil war?"
+
+#: src-en/data/events_sector_harmony.xml.append:1232
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Hassium Flak."
+
+#: src-en/data/events_sector_harmony.xml.append:1238
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Hassium Flak shreds into the hulls of the parked ships present near the"
+" party. It also smashes into the partying Engi vessel's hull, shredding it "
+"like swiss cheese. Nobody reached an escape pod in time."
+
+#: src-en/data/events_sector_harmony.xml.append:1240
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1250
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1262
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1274
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1286
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1298
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1310
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[4]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1320
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/text"
+msgstr ""
+"(Rebel Ripper) Shoot into the party to fish for any humans, what if there is"
+" a Rebel spy in their midst?"
+
+#: src-en/data/events_sector_harmony.xml.append:1344
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Rebel Ripper."
+
+#: src-en/data/events_sector_harmony.xml.append:1350
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Rebel Ripper laser peppers the Engi vessel for \"Rebel spies\". Turns "
+"out the entire ship was filled with \"Rebel spies\". With all the party "
+"patrons dead, you loot all their ships safely for scrap, and find some fuel "
+"as well."
+
+#: src-en/data/events_sector_harmony.xml.append:1352
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1362
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1374
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1386
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1398
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1410
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1422
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[5]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1432
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/text"
+msgstr "(Absolution) Add some \"surprise party-goers\" to the mix to \"party hard\"."
+
+#: src-en/data/events_sector_harmony.xml.append:1456
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Absolution."
+
+#: src-en/data/events_sector_harmony.xml.append:1462
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Your Absolution fills their party vessel with Ion Anomaly clouds. You are "
+"glad the first thing they disabled was their Oxygen, so you didn't have to "
+"hear their obnoxious screams as they were torn apart by Anomalous vortexes. "
+"You loot the vessels docked near the party vessel."
+
+#: src-en/data/events_sector_harmony.xml.append:1464
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1474
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1486
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1498
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1510
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1522
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1534
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[6]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1544
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/text"
+msgstr ""
+"(Menaulion) Kill them all before they can even blink. There is a civil war "
+"going on, how dare they party?!"
+
+#: src-en/data/events_sector_harmony.xml.append:1568
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Fire the Menaulion."
+
+#: src-en/data/events_sector_harmony.xml.append:1574
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Every living thing on the ship is dead within seconds, they probably didn't "
+"even know they were in danger before they died. You loot the Engi party "
+"vessel, and the other empty vessels docked nearby. Your findings are VERY "
+"profitable."
+
+#: src-en/data/events_sector_harmony.xml.append:1576
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1586
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1598
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1610
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1622
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1634
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1646
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_harmony.xml.append:1656
+msgid ""
+"data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "We can't help."

@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_droppoint.xml.append:3
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
+"append:choice/text"
+msgstr "(Ishimura Beam) Attempt to mine the much larger asteroids."
+
+#: src-en/data/events_sector_droppoint.xml.append:5
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"You effortlessly mine a very high amount of usable material from the nearest"
+" asteroids while waiting for the FTL to charge."
+
+#: src-en/data/events_sector_droppoint.xml.append:15
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/text"
+msgstr "(Ishimura Beam) \"Terraform\" the moon yourself, first."
+
+#: src-en/data/events_sector_droppoint.xml.append:17
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"Diverting the majority of your ship's power to the Ishimura beam, you begin "
+"cracking open the moon, revealing parts of its surface and numerous valuable"
+" resources."
+
+#: src-en/data/events_sector_droppoint.xml.append:19
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_droppoint.xml.append:22
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"Before you can truly get started, a missile plunges into your ship's hull. "
+"Your comms still open, the stubby Rockman captain is nearly foaming at the "
+"mouth with rage. \"What the hell is wrong with you? I refuse to allow this "
+"on my watch! All hands, man the weapons.\" he quickly spits out, cutting "
+"comms right after."
+
+#: src-en/data/events_sector_droppoint.xml.append:25
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_droppoint.xml.append:38
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEST\"]/text"
+msgstr ""
+"With the terraforming team's ship destroyed, you continue *ahem* "
+"\"Terraforming\". The moon's crust cracks apart, releasing unknown gases "
+"sealed within the moon's mantle. Fortunately, this a problem for somebody "
+"else. You gather the scrap you came for, and leave."
+
+#: src-en/data/events_sector_droppoint.xml.append:45
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_droppoint.xml.append:52
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEAD\"]/text"
+msgstr ""
+"With the terraforming team's ship floating lifelessly, you continue *ahem* "
+"\"Terraforming\". The moon's crust cracks apart, releasing unknown gases "
+"sealed within the moon's mantle. Fortunately, this a problem for somebody "
+"else. You gather the scrap you came for, and leave."
+
+#: src-en/data/events_sector_droppoint.xml.append:59
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEAD\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_droppoint.xml.append:66
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/text"
+msgstr ""
+"(Ishimura Beam) Forget the signal, crack open the planet for resources, "
+"you're sure it's uninhabited!"
+
+#: src-en/data/events_sector_droppoint.xml.append:68
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"Diverting the majority of your ship's power to the Ishimura beam, you begin "
+"cracking open the planet, revealing parts of its surface and numerous "
+"valuable resources. After a long and tedious process, you procure a massive "
+"amount of scrap. The magma you revealed from cracking open the planet's "
+"surface flows onto nearby structures that look a bit like buildings. You "
+"grab the massive quantity of scrap and leave as quickly as able. Deep down, "
+"you know what you've done..."
+
+#: src-en/data/events_sector_droppoint.xml.append:75
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/event/choice/text"
+msgstr "Continue..."

@@ -1,0 +1,944 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_twisted.xml:2
+msgid "data/events_twisted.xml$//textList[@name=\"TEXT_START_TWISTED\"]/text"
+msgstr ""
+"You have arrived in the Twisted sector. A message is transmitted to you "
+"directly by C.U.R.A. \"Welcome to my lovely abandoned sector, Renegade. I "
+"took the opportunity to purchase it and detonate several prototype "
+"Multiverse Destabilization Munitions at random locations within. You should "
+"be able to call these \"Twisted\" individuals directly to you if you wish at"
+" these locations. This was not cheap, and I'm only allowing you to come here"
+" once so do not disappoint me, Renegade."
+
+#: src-en/data/events_twisted.xml:14
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_TWISTED\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:21
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/text"
+msgstr ""
+"You've arrived at one of this sector's unusual beacons. You perform a quick "
+"scan using the software provided by C.U.R.A., and it informs you that the "
+"anomalous properties of this beacon force anything summoned by C.U.R.A.'s "
+"specialized Drive Hacker to be pulled directly to it. The Drive Hacker only "
+"has enough energy to do this once per beacon."
+
+#: src-en/data/events_twisted.xml:23
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[1]/text"
+msgstr "Attempt to utilize your C.U.R.A. Drive Hacker."
+
+#: src-en/data/events_twisted.xml:27
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/text"
+msgstr "Nevermind, let's leave."
+
+#: src-en/data/events_twisted.xml:29
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/event/text"
+msgstr ""
+"You decide against sticking around to try calling any vessels to the beacon."
+" The anomalous properties of the beacon make you and your crew feel very "
+"ill, so you don't like the idea of staying here for longer than necessary."
+
+#: src-en/data/events_twisted.xml:38
+msgid "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/text"
+msgstr ""
+"You've arrived at one of this sector's unusual beacons. The anomalous "
+"properties of this beacon force anything called by the C.U.R.A. Drive Hacker"
+" to be pulled directly to it. You wonder if it could be used to pull your "
+"ship directly to such beacons in the future."
+
+#: src-en/data/events_twisted.xml:40
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"loc_impossible_task_done\"]/text"
+msgstr ""
+"(C.U.R.A. Drive Hacker) You already obtained your reward. You wonder how "
+"exactly this benefit C.U.R.A.?"
+
+#: src-en/data/events_twisted.xml:45
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"FM_CURA_QUEST_LIST\"]/text"
+msgstr "(C.U.R.A. Drive Hacker) Obtain your Reward.."
+
+#: src-en/data/events_twisted.xml:49
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"CURA_MVBOSS_SPAWNER\"]/text"
+msgstr "(C.U.R.A. Drive Hacker) Summon a Twisted MV Traveler."
+
+#: src-en/data/events_twisted.xml:53
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/text"
+msgstr "Nevermind, let's leave."
+
+#: src-en/data/events_twisted.xml:55
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/event/text"
+msgstr ""
+"You decide against sticking around to try calling any vessels to the beacon."
+" The anomalous properties of the beacon make you and your crew feel very "
+"ill, so you don't like the idea of staying here for longer than necessary."
+
+#: src-en/data/events_twisted.xml:62
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/text"
+msgstr ""
+"You check what ships are available to be summoned currently. For each set of 3 ships you defeat, 3 more will become available to challenge. Summoning a Twisted MV boss will take 2{.\n"
+"\tNOTE: Any special technology salvaged from these Renegades will not stack with each other."
+
+#: src-en/data/events_twisted.xml:66
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/text"
+msgstr "Nevermind, let's leave."
+
+#: src-en/data/events_twisted.xml:68
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/event/text"
+msgstr ""
+"You decide against sticking around to try calling any vessels to the beacon."
+" The anomalous properties of the beacon make you and your crew feel very "
+"ill, so you don't like the idea of staying here for longer than necessary."
+
+#: src-en/data/events_twisted.xml:73
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "You already defeated the Twisted Crystal."
+
+#: src-en/data/events_twisted.xml:77
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "You already defeated the Twisted Tuco."
+
+#: src-en/data/events_twisted.xml:81
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "You already defeated the Twisted Leech."
+
+#: src-en/data/events_twisted.xml:86
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/text"
+msgstr "Twisted Crystal C - Drops Twisted Crystal Armor."
+
+#: src-en/data/events_twisted.xml:88
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:93
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:99
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/text"
+msgstr "Twisted Tuco B - Drops a rare collectable."
+
+#: src-en/data/events_twisted.xml:101
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:106
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:112
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/text"
+msgstr "Twisted Leech C - Drops a strange emitter."
+
+#: src-en/data/events_twisted.xml:114
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:119
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:126
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "You already defeated the Twisted Kestrel."
+
+#: src-en/data/events_twisted.xml:130
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "You already defeated the Twisted Federation."
+
+#: src-en/data/events_twisted.xml:134
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "You already defeated the Twisted Orchid."
+
+#: src-en/data/events_twisted.xml:139
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/text"
+msgstr "Twisted Kestrel B - A... fridge?"
+
+#: src-en/data/events_twisted.xml:141
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:146
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:152
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/text"
+msgstr "Twisted Federation B - Drops an unique replicator."
+
+#: src-en/data/events_twisted.xml:154
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:159
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:165
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/text"
+msgstr "Twisted Orchid B - Drops some friends."
+
+#: src-en/data/events_twisted.xml:167
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:172
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:179
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "You already defeated the Twisted Lanius."
+
+#: src-en/data/events_twisted.xml:183
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "You already defeated the Twisted Shell."
+
+#: src-en/data/events_twisted.xml:187
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "You already defeated the Twisted Engineer."
+
+#: src-en/data/events_twisted.xml:239
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/text"
+msgstr "Twisted Lanius B - Drops a Heart."
+
+#: src-en/data/events_twisted.xml:241
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:246
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:252
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/text"
+msgstr "Twisted Shell C - Drops an attache case."
+
+#: src-en/data/events_twisted.xml:254
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:259
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:265
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/text"
+msgstr "Twisted Engineer B - Drops Drone Booster II."
+
+#: src-en/data/events_twisted.xml:267
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:272
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:279
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "You already defeated the Twisted Slug."
+
+#: src-en/data/events_twisted.xml:283
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "You already defeated the Twisted Stealth."
+
+#: src-en/data/events_twisted.xml:287
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "You already defeated the Twisted Zoltan."
+
+#: src-en/data/events_twisted.xml:292
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/text"
+msgstr "Twisted Slug C - Drops Malboro."
+
+#: src-en/data/events_twisted.xml:294
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:299
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:305
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/text"
+msgstr "Twisted Stealth B - Drops ?13Xzzzzzzz$"
+
+#: src-en/data/events_twisted.xml:307
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:312
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:318
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/text"
+msgstr "Twisted Zoltan C - Drops Limit Release."
+
+#: src-en/data/events_twisted.xml:320
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:325
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:332
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "You already defeated the Twisted Monk."
+
+#: src-en/data/events_twisted.xml:336
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "You already defeated the Twisted Rockman."
+
+#: src-en/data/events_twisted.xml:340
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "You already defeated the Twisted Lost Sun."
+
+#: src-en/data/events_twisted.xml:345
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/text"
+msgstr "Twisted Monk B - Drops Aether Ascension Shields."
+
+#: src-en/data/events_twisted.xml:347
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:352
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:358
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/text"
+msgstr "Twisted Rock C - Drops the Rockmen Relic of Freedom."
+
+#: src-en/data/events_twisted.xml:360
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:365
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:371
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/text"
+msgstr "Twisted Lost Sun B - Drops Reality-Bent Reloader."
+
+#: src-en/data/events_twisted.xml:373
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:378
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:385
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "You already defeated the Twisted Free Mantis."
+
+#: src-en/data/events_twisted.xml:389
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "You already defeated the Twisted Separatist."
+
+#: src-en/data/events_twisted.xml:393
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "You already defeated the Twisted Mantis."
+
+#: src-en/data/events_twisted.xml:398
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/text"
+msgstr "Twisted Free Mantis B - Drops a refreshment."
+
+#: src-en/data/events_twisted.xml:400
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:405
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:411
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/text"
+msgstr "Twisted Separatist B - Drops Magatama."
+
+#: src-en/data/events_twisted.xml:413
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:418
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:424
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/text"
+msgstr "Twisted Mantis B - Drops Pheromone Accelerator."
+
+#: src-en/data/events_twisted.xml:426
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:431
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:438
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "You already defeated the Twisted Clansman."
+
+#: src-en/data/events_twisted.xml:442
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "You already defeated the Twisted Duskbringer."
+
+#: src-en/data/events_twisted.xml:446
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "You already defeated the Twisted Engi."
+
+#: src-en/data/events_twisted.xml:451
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/text"
+msgstr "Twisted Clansman B - Drops Mind Clouder."
+
+#: src-en/data/events_twisted.xml:453
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:458
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:464
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/text"
+msgstr "Twisted Duskbringer B - Drops Twilight Vests."
+
+#: src-en/data/events_twisted.xml:466
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:471
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:477
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/text"
+msgstr "Twisted Engi C - Drops Drone Booster \"Kai\"."
+
+#: src-en/data/events_twisted.xml:479
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:484
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:491
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/text"
+msgstr "Twisted Clansman B - Drops Mind Clouder."
+
+#: src-en/data/events_twisted.xml:493
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:498
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:504
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/text"
+msgstr "Twisted Duskbringer B - Drops Twilight Vests."
+
+#: src-en/data/events_twisted.xml:506
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:511
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:517
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/text"
+msgstr "Twisted Engi C - Drops Drone Booster \"Kai\"."
+
+#: src-en/data/events_twisted.xml:519
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:524
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:530
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
+msgstr "Twisted Free Mantis B - Drops a refreshment."
+
+#: src-en/data/events_twisted.xml:532
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:537
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:543
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/text"
+msgstr "Twisted Separatist B - Drops Magatama."
+
+#: src-en/data/events_twisted.xml:545
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:550
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:556
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/text"
+msgstr "Twisted Mantis B - Drops Pheromone Accelerator."
+
+#: src-en/data/events_twisted.xml:558
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:563
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:569
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/text"
+msgstr "Twisted Monk B - Drops Aether Ascension Shields."
+
+#: src-en/data/events_twisted.xml:571
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:576
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:582
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/text"
+msgstr "Twisted Rock C - Drops the Rockmen Relic of Freedom."
+
+#: src-en/data/events_twisted.xml:584
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:589
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:595
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
+msgstr "Twisted Lost Sun B - Drops Reality-Bent Reloader."
+
+#: src-en/data/events_twisted.xml:597
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:602
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:608
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
+msgstr "Twisted Slug C - Drops Malboro."
+
+#: src-en/data/events_twisted.xml:610
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:615
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:621
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
+msgstr "Twisted Stealth B - Drops ?13Xzzzzzzz$"
+
+#: src-en/data/events_twisted.xml:623
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:628
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:634
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/text"
+msgstr "Twisted Zoltan C - Drops Limit Release."
+
+#: src-en/data/events_twisted.xml:636
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:641
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:647
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/text"
+msgstr "Twisted Lanius B - Drops a Heart."
+
+#: src-en/data/events_twisted.xml:649
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:654
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:660
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/text"
+msgstr "Twisted Shell C - Drops an attache case."
+
+#: src-en/data/events_twisted.xml:662
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:667
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:673
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/text"
+msgstr "Twisted Engineer B - Drops Drone Booster II."
+
+#: src-en/data/events_twisted.xml:675
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:680
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:686
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/text"
+msgstr "Twisted Kestrel B - A... fridge?"
+
+#: src-en/data/events_twisted.xml:688
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:693
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:699
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/text"
+msgstr "Twisted Federation B - Drops an unique replicator."
+
+#: src-en/data/events_twisted.xml:701
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:706
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:712
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/text"
+msgstr "Twisted Orchid B - Drops some friends."
+
+#: src-en/data/events_twisted.xml:714
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:719
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:725
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/text"
+msgstr "Twisted Crystal C - Drops Twisted Crystal Armor."
+
+#: src-en/data/events_twisted.xml:727
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:732
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:738
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/text"
+msgstr "Twisted Tuco B - Drops a rare collectable."
+
+#: src-en/data/events_twisted.xml:740
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:745
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_twisted.xml:751
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/text"
+msgstr "Twisted Leech C - Drops a strange emitter."
+
+#: src-en/data/events_twisted.xml:753
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/text"
+msgstr ""
+"You power up the Drive Hacker to its maximum strength and watch as a rift "
+"opens, shaking your ship as another Renegade comes through it."
+
+#: src-en/data/events_twisted.xml:758
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/choice/text"
+msgstr "Continue..."

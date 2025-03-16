@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_laststand.xml.append:14
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "Contact Federation command."
+
+#: src-en/data/events_sector_laststand.xml.append:16
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"On the vidscreen appears several Federation and Engi officers, as well as "
+"Admiral Tully in the center. Tully's eyes widen at the number of weapons "
+"mounted to your hull. One of the officers begins ordering Federation troops "
+"to grab all the reserve ammunition they have, but Tully raises a hand to "
+"silence them. \"How....are you powering all those weapons?\" He asks, an "
+"eyebrow raised."
+
+#: src-en/data/events_sector_laststand.xml.append:18
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "I actually am unable to power a single weapon on this ship."
+
+#: src-en/data/events_sector_laststand.xml.append:20
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/event/text"
+msgstr ""
+"Tully groans and covers his face in his hands for a moment, as if "
+"contemplating his life choices. Then looks back up at the vid screen. "
+"\"...you're our last hope. I certainly hope you know what you are doing.\""
+
+#: src-en/data/events_sector_laststand.xml.append:22
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:30
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "Contact Federation command."
+
+#: src-en/data/events_sector_laststand.xml.append:32
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. Tully's squints at the sight of your ship. Then turns around to the officers behind.\n"
+"\t\t\t\t\t\t\t\"Is there a ship here or is the screen broken?\" He asks, clearly unsure if you aren't just a rendering error on the display."
+
+#: src-en/data/events_sector_laststand.xml.append:35
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "This actually is a ship, yes."
+
+#: src-en/data/events_sector_laststand.xml.append:37
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/event/text"
+msgstr ""
+"Tully blinks for a moment, as if to check if there is really a ship on the "
+"scanners. He looks back up at the vid screen. \"...Huh...guess we should get"
+" our sensors checked then...after you destroyed the flagship that is.\""
+
+#: src-en/data/events_sector_laststand.xml.append:39
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:74
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "(Plated) Send a Plated down for repairs and support."
+
+#: src-en/data/events_sector_laststand.xml.append:76
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "\"Perfect, this'll help us greatly. Thank you Captain.\""
+
+#: src-en/data/events_sector_laststand.xml.append:78
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:84
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr ""
+"(Alastair) Send Alastair to quickly repair some equipment, and perhaps crack"
+" a few skulls while he's at it."
+
+#: src-en/data/events_sector_laststand.xml.append:86
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"\"Perfect, this'll help us greatly. Thank you so much Captain. This Rock "
+"soldier you sent down to assist is certainly something else!\""
+
+#: src-en/data/events_sector_laststand.xml.append:88
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_laststand.xml.append:94
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "We can't help."

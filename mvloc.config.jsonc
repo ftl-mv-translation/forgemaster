@@ -50,7 +50,7 @@
     ],
     "stringSelectionXPath": [
         // XML text extraction rules (XPath)
-
+		// blueprints
         "//crewBlueprint/title",
         "//crewBlueprint/short",
         "//crewBlueprint/desc",
@@ -68,10 +68,20 @@
         "//droneBlueprint/desc",
         "//augBlueprint/title",
         "//augBlueprint/desc",
-
+		
+		// events
         "//text",
         "//tooltip",
+        "//triggeredEventBox/tooltip",
+        "//unvisitedTooltip",
+        "//mod:findName/text",
+		"//undiscoveredTooltip",
+        "//visitedTooltip",
+		"//win/@text",
+		"//crewMember",
+        "//crewMember/@name",
 
+		// hyperspace
         "//mod:findLike/mod-append:page/section/@text",
         "//achievement/name",
         "//achievement/description",
@@ -80,25 +90,21 @@
         "//achievement/secretDescription",
         "//powerEffect/buttonText",
         "//powerEffect/tooltip",
-
         "//eventButton/tooltip",
         "//eventButton/inactiveTooltip",
-        "//undiscoveredTooltip",
-        "//visitedTooltip",
+		"//mod:selector/@text",
+		"//mod-append:achievement/name",
+		"//mod-append:achievement/description",
+		"//mod-append:achievement/header",
+		"//mod-append:achievement/secretDescription",
 
-        "//crewMember/@name",
-        "//sectorDescription/nameList/name",
-        "//triggeredEventBox/tooltip",
-        "//unvisitedTooltip",
-        "//mod:findName/text",
         "//mod:findLike/mod-append:drone/tooltipName",
         "//mod-append:shipIcon/tooltip",
         "//customStore/category/customTitle",
         "//mod-append:customShip/crew/*/@name",
         "//customShip/crew/*/@name",
-        "//win/@text",
         "//spawnCrew/name",
-        "//crewMember",
+        
         "//mod:selector",
         "//mod:selector/@name",
         "//mod:findName/mod-overwrite:desc",
@@ -107,8 +113,13 @@
         "//mod:findLike[@type='victories']//description",
         "//mod:findLike[@type='victories']//secretName",
         "//mod:findLike[@type='victories']//secretDescription" ,
-        "//metadata/title",
-        "//metadata/description",
+		
+		// sector
+		"//sectorDescription/nameList/name",
+		
+		// metadata
+		"//metadata/title",
+		"//metadata/description",
     ],
 
     "useDummyRoot": true,

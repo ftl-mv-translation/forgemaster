@@ -1,0 +1,241 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:5
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr "[Forgemaster] Contact Alastair."
+
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[2]/text"
+msgstr "You have already contacted Alastair."
+
+#: src-en/data/events_special_lightspeed.xml.append:24
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_CALL_SENT\"]/text"
+msgstr "Transmitter Signal Sent..."
+
+#: src-en/data/events_special_lightspeed.xml.append:27
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_CALL_SENT\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:35
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/text"
+msgstr "Would you like to contact the Forgemaster?"
+
+#: src-en/data/events_special_lightspeed.xml.append:39
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_dead\"]/text"
+msgstr ""
+"Out of habit you attempt to reach out to the Forgemaster, but then you "
+"remember that you killed him. You monster."
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_called\"]/text"
+msgstr "You've already called the Forgemaster via one of the three methods."
+
+#: src-en/data/events_special_lightspeed.xml.append:50
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/text"
+msgstr ""
+"Use fuel to boost the power of your Transmitter to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/event/text"
+msgstr ""
+"You burn your excess fuel reserves, funneling the energy into your "
+"transmitter and broadcasting the Forgemaster's subspace identifier. If "
+"Alastair is anywhere in the region, he'll have heard your call."
+
+#: src-en/data/events_special_lightspeed.xml.append:57
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:63
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/text"
+msgstr ""
+"Whip up a long-range ballistic message cylinder to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/text"
+msgstr ""
+"You pull together some excess explosives, constructing a hyperspeed-capable "
+"ballistic vessel containing a request to meet up with Alastair. You wire its"
+" targeting systems to his subspace identifier and give the order to launch "
+"it. If Alastair's anywhere it can find, he'll be ready to meet up."
+
+#: src-en/data/events_special_lightspeed.xml.append:70
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:76
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/text"
+msgstr "Send a hyperspeed messenger drone to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:78
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/event/text"
+msgstr ""
+"You use some drone components and prepare a robust long-range drone equipped"
+" for hyperspeed travel. You load in a request for Alastair to meet you in "
+"the next sector and set the drone's comms to find his subspace identifier. "
+"Hopefully it makes it to him - if he gets the message, he'll be ready."
+
+#: src-en/data/events_special_lightspeed.xml.append:83
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:90
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/text"
+msgstr ""
+"Use fuel to boost the power of your Transmitter to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:92
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/event/text"
+msgstr ""
+"You burn your excess fuel reserves, funneling the energy into your "
+"transmitter and broadcasting the Forgemaster's subspace identifier. If "
+"Alastair is anywhere in the region, he'll have heard your call."
+
+#: src-en/data/events_special_lightspeed.xml.append:97
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:103
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/text"
+msgstr ""
+"Whip up a long-range ballistic message cylinder to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:105
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/text"
+msgstr ""
+"You pull together some excess explosives, constructing a hyperspeed-capable "
+"ballistic vessel containing a request to meet up with Alastair. You wire its"
+" targeting systems to his subspace identifier and give the order to launch "
+"it. If Alastair's anywhere it can find, he'll be ready to meet up."
+
+#: src-en/data/events_special_lightspeed.xml.append:110
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:116
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/text"
+msgstr "Send a hyperspeed messenger drone to contact the Forgemaster."
+
+#: src-en/data/events_special_lightspeed.xml.append:118
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/event/text"
+msgstr ""
+"You use some drone components and prepare a robust long-range drone equipped"
+" for hyperspeed travel. You load in a request for Alastair to meet you in "
+"the next sector and set the drone's comms to find his subspace identifier. "
+"Hopefully it makes it to him - if he gets the message, he'll be ready."
+
+#: src-en/data/events_special_lightspeed.xml.append:123
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:132
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_lightspeed.xml.append:160
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_TWISTED\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:165
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/text"
+msgstr ""
+"Name: Twisted Sector\n"
+"\t\tType: Neutral\n"
+"\t\tUnique: True\n"
+"\t\tDominant Faction: N/A\n"
+"\t\tRebel Threat Level: Low\n"
+"\n"
+"\t\tAn abandoned sector owned by C.U.R.A."
+
+#: src-en/data/events_special_lightspeed.xml.append:175
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/choice[1]/text"
+msgstr "Exit Hyperspeed."
+
+#: src-en/data/events_special_lightspeed.xml.append:179
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/choice[@req=\"COORDS\"]/text"
+msgstr "Reroute."
+
+#: src-en/data/events_special_lightspeed.xml.append:186
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
+"append:choice/text"
+msgstr "Jump to the Twisted Sector."
+
+#: src-en/data/events_special_lightspeed.xml.append:193
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
+"append:choice/text"
+msgstr "Jump to the Twisted Sector."
+
+#: src-en/data/events_special_lightspeed.xml.append:199
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/text"
+msgstr ""
+"You are about to reroute. Below is the Atlas entry for this sector.\n"
+"\t\tName: Twisted Sector\n"
+"\t\tType: Neutral\n"
+"\t\tUnique: True\n"
+"\t\tDominant Faction: N/A\n"
+"\t\tRebel Threat Level: Low\n"
+"\n"
+"\t\tINSERT LORE HERE\n"
+"\t\t[Warning: Rerouting means you will miss any quests that would have spawned in the next sector.]"
+
+#: src-en/data/events_special_lightspeed.xml.append:210
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/text"
+msgstr "Continue with the jump."
+
+#: src-en/data/events_special_lightspeed.xml.append:212
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/event/text"
+msgstr ""
+"You prepare to jump to the new co-ordinates, and change your flight path "
+"accordingly."
+
+#: src-en/data/events_special_lightspeed.xml.append:215
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_lightspeed.xml.append:221
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[2]/text"
+msgstr "Nevermind."
