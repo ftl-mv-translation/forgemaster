@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 12:26+0000\n"
+"PO-Revision-Date: 2025-03-17 12:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/fr/>\n"
@@ -1512,6 +1512,8 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
 msgstr ""
+"Battre le renégat Lost Sun Déformé B et obtenir le Rechargeur à Réalité "
+"Distordue."
 
 #: src-en/data/hyperspace.xml.append:15913
 msgid ""
@@ -1531,7 +1533,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
-msgstr ""
+msgstr "Battre le renégat limace déformée C et obtenez le Quasar de Malboro."
 
 #: src-en/data/hyperspace.xml.append:15921
 msgid ""
