@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 08:48+0000\n"
+"PO-Revision-Date: 2025-03-17 09:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/fr/>\n"
@@ -387,18 +387,25 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Extracteur rebelle) Tirer dans la fête pour voir si vous pouvez attraper "
+"quelques humains. Et s'il y avait un espion rebelle parmi eux ?"
 
 #: src-en/data/events_sector_harmony.xml.append:544
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec l'Extracteur Rebelle."
 
 #: src-en/data/events_sector_harmony.xml.append:550
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre laser Extracteur rebelle ponctionne le vaisseau Engi à la recherche d'"
+"\"espions rebelles\". Il s'avère que le vaisseau entier était rempli d'"
+"\"espions rebelles\". Tous les membres du groupe étant morts, vous pillez "
+"tous leurs vaisseaux pour récupérer de la ferraille, et vous trouvez "
+"également du carburant."
 
 #: src-en/data/events_sector_harmony.xml.append:552
 msgid ""
@@ -447,6 +454,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Absolution) Ajouter quelques \"invités surprises\" à la fête pour qu’ils "
+"puissent \"faire la fête à leur façon\"."
 
 #: src-en/data/events_sector_harmony.xml.append:656
 msgid ""
@@ -512,6 +521,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
 msgstr ""
+"(Menaulion) Les tuer tous avant qu'ils ne puissent même cligner des yeux. "
+"C'est la guerre civile, comment osent-ils faire la fête ?!"
 
 #: src-en/data/events_sector_harmony.xml.append:768
 msgid ""
@@ -524,6 +535,10 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Tous les êtres vivants du vaisseau sont morts en quelques secondes, ils "
+"n'ont probablement même pas su qu'ils étaient en danger avant de mourir. "
+"Vous pillez le vaisseau des Engis et les autres vaisseaux vides amarrés à "
+"proximité. Vos découvertes sont TRÈS rentables."
 
 #: src-en/data/events_sector_harmony.xml.append:776
 msgid ""
@@ -839,20 +854,25 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
 msgstr ""
-"(Éventreur rebelle) Tirer dans la fête pour voir si vous pouvez attraper "
+"(Extracteur rebelle) Tirer dans la fête pour voir si vous pouvez attraper "
 "quelques humains. Et s'il y avait un espion rebelle parmi eux ?"
 
 #: src-en/data/events_sector_harmony.xml.append:1344
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec l'Extracteur Rebelle."
 
 #: src-en/data/events_sector_harmony.xml.append:1350
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre laser Extracteur rebelle ponctionne le vaisseau Engi à la recherche d'"
+"\"espions rebelles\". Il s'avère que le vaisseau entier était rempli d'"
+"\"espions rebelles\". Tous les membres du groupe étant morts, vous pillez "
+"tous leurs vaisseaux pour récupérer de la ferraille, et vous trouvez "
+"également du carburant."
 
 #: src-en/data/events_sector_harmony.xml.append:1352
 msgid ""
@@ -901,6 +921,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Absolution) Ajouter quelques \"invités surprises\" à la fête pour qu’ils "
+"puissent \"faire la fête à leur façon\"."
 
 #: src-en/data/events_sector_harmony.xml.append:1456
 msgid ""
@@ -966,6 +988,8 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
 msgstr ""
+"(Menaulion) Les tuer tous avant qu'ils ne puissent même cligner des yeux. "
+"C'est la guerre civile, comment osent-ils faire la fête ?!"
 
 #: src-en/data/events_sector_harmony.xml.append:1568
 msgid ""
@@ -978,6 +1002,10 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Tous les êtres vivants du vaisseau sont morts en quelques secondes, ils "
+"n'ont probablement même pas su qu'ils étaient en danger avant de mourir. "
+"Vous pillez le vaisseau des Engis et les autres vaisseaux vides amarrés à "
+"proximité. Vos découvertes sont TRÈS rentables."
 
 #: src-en/data/events_sector_harmony.xml.append:1576
 msgid ""
