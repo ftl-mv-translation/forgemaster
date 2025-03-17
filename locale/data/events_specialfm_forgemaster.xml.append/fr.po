@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 15:05+0000\n"
+"PO-Revision-Date: 2025-03-18 18:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -140,7 +140,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:153
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[@req=\"unique_freddy\"]/event/crewMember"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:159
 msgid ""
@@ -1350,7 +1350,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1548
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1553
 msgid ""
@@ -1473,7 +1473,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1662
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ION\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1666
 msgid ""
@@ -1579,7 +1579,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1758
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_BEAM\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1762
 msgid ""
@@ -1674,7 +1674,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1842
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_PINPOINT\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1847
 msgid ""
@@ -1781,7 +1781,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1938
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_FLAK\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1941
 msgid ""
@@ -1852,7 +1852,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2004
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2008
 msgid ""
@@ -1982,7 +1982,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:2124
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ORGANIC\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2128
 msgid ""
@@ -2005,7 +2005,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2149
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_UPGRADE\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2153
 msgid ""
@@ -2619,7 +2619,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2773
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Retourner au menu d'artisanat."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2785
 #, fuzzy
@@ -2938,7 +2938,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3151
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Retourner au menu d'artisanat."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3163
 #, fuzzy
@@ -11443,7 +11443,7 @@ msgstr "Ne rien faire."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11466
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[1]/crewMember"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11467
 msgid ""
@@ -11458,7 +11458,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11476
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//eventList[@name=\"FM_QUEST_GUNBOM_TWINS\"]/event[2]/crewMember"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11477
 msgid ""
