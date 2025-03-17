@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 15:05+0000\n"
+"PO-Revision-Date: 2025-03-17 10:52+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -6899,19 +6899,19 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Cristalien Déformé."
 
 #: src-en/data/events_special_storage.xml.append:6889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Déformé Tuco."
 
 #: src-en/data/events_special_storage.xml.append:6893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu la Sangsue Déformée."
 
 #: src-en/data/events_special_storage.xml.append:6898
 msgid ""
@@ -6930,7 +6930,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[6]/text"
-msgstr ""
+msgstr "Tuco Déformé B - Donne un objet de collection rare."
 
 #: src-en/data/events_special_storage.xml.append:6910
 msgid ""
@@ -6959,19 +6959,19 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Kestrel déformée."
 
 #: src-en/data/events_special_storage.xml.append:6933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Fédération Déformée."
 
 #: src-en/data/events_special_storage.xml.append:6937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu l'Orchidée Déformée."
 
 #: src-en/data/events_special_storage.xml.append:6942
 msgid ""
@@ -6990,7 +6990,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[12]/text"
-msgstr ""
+msgstr "Fédération Déformée B - Donne un réplicateur unique."
 
 #: src-en/data/events_special_storage.xml.append:6954
 msgid ""
@@ -7019,24 +7019,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Lanius Déformé."
 
 #: src-en/data/events_special_storage.xml.append:6977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu la Coquille Déformée."
 
 #: src-en/data/events_special_storage.xml.append:6981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu l'Ingénieur Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7020
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[17]/text"
-msgstr ""
+msgstr "Lanius Déformé B - Donne un cœur."
 
 #: src-en/data/events_special_storage.xml.append:7022
 msgid ""
@@ -7050,7 +7050,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[18]/text"
-msgstr ""
+msgstr "Coquille Déformée C - Donne une mallette."
 
 #: src-en/data/events_special_storage.xml.append:7032
 msgid ""
@@ -7079,24 +7079,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu la Limace Déformée."
 
 #: src-en/data/events_special_storage.xml.append:7055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Furtif Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Zoltan Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[23]/text"
-msgstr ""
+msgstr "Limace Déformée C - Donne Malboro."
 
 #: src-en/data/events_special_storage.xml.append:7066
 msgid ""
@@ -7402,7 +7402,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
-msgstr ""
+msgstr "Limace Déformée C - Donne Malboro."
 
 #: src-en/data/events_special_storage.xml.append:7289
 msgid ""
@@ -7444,7 +7444,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7317
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_1\"]/text"
-msgstr ""
+msgstr "Lanius Déformé B - Donne un cœur."
 
 #: src-en/data/events_special_storage.xml.append:7319
 msgid ""
@@ -7458,7 +7458,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_2\"]/text"
-msgstr ""
+msgstr "Coquille Déformée C - Donne une mallette."
 
 #: src-en/data/events_special_storage.xml.append:7329
 msgid ""
@@ -7500,7 +7500,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7357
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_2\"]/text"
-msgstr ""
+msgstr "Fédération Déformée B - Donne un réplicateur unique."
 
 #: src-en/data/events_special_storage.xml.append:7359
 msgid ""
@@ -7542,7 +7542,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_2\"]/text"
-msgstr ""
+msgstr "Tuco Déformé B - Donne un objet de collection rare."
 
 #: src-en/data/events_special_storage.xml.append:7389
 msgid ""
