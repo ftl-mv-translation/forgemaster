@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 10:52+0000\n"
+"PO-Revision-Date: 2025-03-17 12:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -7110,7 +7110,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7074
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[24]/text"
-msgstr ""
+msgstr "Furtif Déformé B - Donne ?13Xzzzzzzz$"
 
 #: src-en/data/events_special_storage.xml.append:7076
 msgid ""
@@ -7139,19 +7139,19 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Moine Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Rocailleux Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Lost Sun déformé."
 
 #: src-en/data/events_special_storage.xml.append:7108
 msgid ""
@@ -7184,7 +7184,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[31]/text"
-msgstr ""
+msgstr "Lost Sun Déformé B - Donne Rechargeur à Réalité Distordue."
 
 #: src-en/data/events_special_storage.xml.append:7130
 msgid ""
@@ -7199,24 +7199,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu la Mantis libre déformé."
 
 #: src-en/data/events_special_storage.xml.append:7143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Séparatiste Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu la Mantis Déformée."
 
 #: src-en/data/events_special_storage.xml.append:7152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[35]/text"
-msgstr ""
+msgstr "Mantis libre Déformé B - Donne un rafraîchissement."
 
 #: src-en/data/events_special_storage.xml.append:7154
 msgid ""
@@ -7259,19 +7259,19 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Loubard Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7187
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Crépusculeur Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu l'Engi Déformé."
 
 #: src-en/data/events_special_storage.xml.append:7196
 msgid ""
@@ -7318,7 +7318,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7227
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
-msgstr ""
+msgstr "Mantis libre Déformé B - Donne un rafraîchissement."
 
 #: src-en/data/events_special_storage.xml.append:7229
 msgid ""
@@ -7388,7 +7388,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7277
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
-msgstr ""
+msgstr "Lost Sun Déformé B - Donne Rechargeur à Réalité Distordue."
 
 #: src-en/data/events_special_storage.xml.append:7279
 msgid ""
@@ -7416,7 +7416,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7297
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
-msgstr ""
+msgstr "Furtif Déformé B - Donne ?13Xzzzzzzz$"
 
 #: src-en/data/events_special_storage.xml.append:7299
 msgid ""
