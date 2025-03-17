@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 10:52+0000\n"
+"PO-Revision-Date: 2025-03-17 12:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_twistedxml/fr/>\n"
@@ -320,7 +320,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:265
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/text"
-msgstr "Ingénieur Déformé B - Donne Drone Booster II."
+msgstr "Ingénieur Déformé B - Donne Amplificateur de Drone II."
 
 #: src-en/data/events_twisted.xml:267
 msgid ""
@@ -374,7 +374,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:305
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/text"
-msgstr ""
+msgstr "Furtif Déformé B - Donne ?13Xzzzzzzz$"
 
 #: src-en/data/events_twisted.xml:307
 msgid ""
@@ -392,7 +392,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:318
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/text"
-msgstr ""
+msgstr "Zoltan Déformé C - Donne Libération des Limites."
 
 #: src-en/data/events_twisted.xml:320
 msgid ""
@@ -411,24 +411,24 @@ msgstr "Continuer..."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Moine Déformé."
 
 #: src-en/data/events_twisted.xml:336
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Rocailleux Déformé."
 
 #: src-en/data/events_twisted.xml:340
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Lost Sun déformé."
 
 #: src-en/data/events_twisted.xml:345
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/text"
-msgstr ""
+msgstr "Moine Déformé B - Donne des boucliers d'ascension d'éther."
 
 #: src-en/data/events_twisted.xml:347
 msgid ""
@@ -446,7 +446,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:358
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/text"
-msgstr ""
+msgstr "Rocailleux Déformé C - Donne la Relique de liberté des Rocailleux."
 
 #: src-en/data/events_twisted.xml:360
 msgid ""
@@ -464,7 +464,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:371
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/text"
-msgstr ""
+msgstr "Lost Sun Déformé B - Donne Rechargeur à Réalité Distordue."
 
 #: src-en/data/events_twisted.xml:373
 msgid ""
@@ -483,24 +483,24 @@ msgstr "Continuer..."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu la Mantis libre déformé."
 
 #: src-en/data/events_twisted.xml:389
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà vaincu le Séparatiste Déformé."
 
 #: src-en/data/events_twisted.xml:393
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu la Mantis Déformée."
 
 #: src-en/data/events_twisted.xml:398
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/text"
-msgstr ""
+msgstr "Mantis libre Déformé B - Donne un rafraîchissement."
 
 #: src-en/data/events_twisted.xml:400
 msgid ""
@@ -518,7 +518,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:411
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/text"
-msgstr ""
+msgstr "Séparatiste Déformé B - Donne Magatama."
 
 #: src-en/data/events_twisted.xml:413
 msgid ""
@@ -536,7 +536,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:424
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/text"
-msgstr ""
+msgstr "Mantis Déformé B - Donne l'accélérateur de phéromones."
 
 #: src-en/data/events_twisted.xml:426
 msgid ""
@@ -555,24 +555,24 @@ msgstr "Continuer..."
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Loubard Déformé."
 
 #: src-en/data/events_twisted.xml:442
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu le Crépusculeur Déformé."
 
 #: src-en/data/events_twisted.xml:446
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà battu l'Engi Déformé."
 
 #: src-en/data/events_twisted.xml:451
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/text"
-msgstr ""
+msgstr "Loubard Déformé B - Donne l'Obscurcisseur d'Esprit."
 
 #: src-en/data/events_twisted.xml:453
 msgid ""
@@ -590,7 +590,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:464
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/text"
-msgstr ""
+msgstr "Crépusculeur Déformé B - Donne des Vestes du crépuscule."
 
 #: src-en/data/events_twisted.xml:466
 msgid ""
@@ -608,7 +608,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:477
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/text"
-msgstr ""
+msgstr "Engi Déformé C - Donne Amplificateur de Drone \"Kai\"."
 
 #: src-en/data/events_twisted.xml:479
 msgid ""
@@ -626,7 +626,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:491
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/text"
-msgstr ""
+msgstr "Loubard Déformé B - Donne l'Obscurcisseur d'Esprit."
 
 #: src-en/data/events_twisted.xml:493
 msgid ""
@@ -644,7 +644,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:504
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/text"
-msgstr ""
+msgstr "Crépusculeur Déformé B - Donne des Vestes du crépuscule."
 
 #: src-en/data/events_twisted.xml:506
 msgid ""
@@ -662,7 +662,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:517
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/text"
-msgstr ""
+msgstr "Engi Déformé C - Donne Amplificateur de Drone \"Kai\"."
 
 #: src-en/data/events_twisted.xml:519
 msgid ""
@@ -680,7 +680,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:530
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
-msgstr ""
+msgstr "Mantis libre Déformé B - Donne un rafraîchissement."
 
 #: src-en/data/events_twisted.xml:532
 msgid ""
@@ -698,7 +698,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:543
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/text"
-msgstr ""
+msgstr "Séparatiste Déformé B - Donne Magatama."
 
 #: src-en/data/events_twisted.xml:545
 msgid ""
@@ -716,7 +716,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:556
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/text"
-msgstr ""
+msgstr "Mantis Déformé B - Donne l'accélérateur de phéromones."
 
 #: src-en/data/events_twisted.xml:558
 msgid ""
@@ -734,7 +734,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:569
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/text"
-msgstr ""
+msgstr "Moine Déformé B - Donne des boucliers d'ascension d'éther."
 
 #: src-en/data/events_twisted.xml:571
 msgid ""
@@ -752,7 +752,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:582
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/text"
-msgstr ""
+msgstr "Rocailleux Déformé C - Donne la Relique de liberté des Rocailleux."
 
 #: src-en/data/events_twisted.xml:584
 msgid ""
@@ -770,7 +770,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:595
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
-msgstr ""
+msgstr "Lost Sun Déformé B - Donne Rechargeur à Réalité Distordue."
 
 #: src-en/data/events_twisted.xml:597
 msgid ""
@@ -788,7 +788,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:608
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
-msgstr "Limace Déformé C - Donne Malboro."
+msgstr "Limace Déformée C - Donne Malboro."
 
 #: src-en/data/events_twisted.xml:610
 msgid ""
@@ -806,7 +806,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:621
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
-msgstr ""
+msgstr "Furtif Déformé B - Donne ?13Xzzzzzzz$"
 
 #: src-en/data/events_twisted.xml:623
 msgid ""
@@ -824,7 +824,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:634
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/text"
-msgstr ""
+msgstr "Zoltan Déformé C - Donne Libération des Limites."
 
 #: src-en/data/events_twisted.xml:636
 msgid ""
@@ -878,7 +878,7 @@ msgstr "Continuer..."
 #: src-en/data/events_twisted.xml:673
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/text"
-msgstr ""
+msgstr "Ingénieur Déformé B - Donne Amplificateur de Drone II."
 
 #: src-en/data/events_twisted.xml:675
 msgid ""
