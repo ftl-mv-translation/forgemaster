@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 15:05+0000\n"
+"PO-Revision-Date: 2025-03-17 09:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -2604,7 +2604,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5048
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/title"
-msgstr ""
+msgstr "Extracteur rebelle"
 
 #: src-en/data/blueprints.xml.append:5050
 msgid ""
@@ -6138,7 +6138,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/title"
-msgstr ""
+msgstr "Extracteur rebelle"
 
 #: src-en/data/blueprints.xml.append:14241
 msgid ""
