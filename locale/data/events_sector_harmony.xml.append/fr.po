@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-16 15:05+0000\n"
+"PO-Revision-Date: 2025-03-17 08:47+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/fr/>\n"
@@ -262,7 +262,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Tirer la flak nobélienne."
+msgstr "Tirer avec la flak nobélienne."
 
 #: src-en/data/events_sector_harmony.xml.append:326
 msgid ""
@@ -321,18 +321,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Hassium) Réduire en miettes les vaisseaux de ces lâches fêtards, comment "
+"osent-ils faire la fête pendant une guerre civile ?"
 
 #: src-en/data/events_sector_harmony.xml.append:432
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec la Flak Hassium."
 
 #: src-en/data/events_sector_harmony.xml.append:438
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre Flak Hassium se fracasse sur les coques des vaisseaux en stationnement "
+"présents à proximité de la fête. Elle s'écrase également sur la coque du "
+"vaisseau Engi en train de faire la fête, la déchiquetant comme du gruyère. "
+"Personne n'a atteint une capsule de sauvetage à temps."
 
 #: src-en/data/events_sector_harmony.xml.append:440
 msgid ""
@@ -446,7 +452,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec l'Absolution."
 
 #: src-en/data/events_sector_harmony.xml.append:662
 msgid ""
@@ -511,7 +517,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec le Menaulion."
 
 #: src-en/data/events_sector_harmony.xml.append:774
 msgid ""
@@ -708,7 +714,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Tirer la flak nobélienne."
+msgstr "Tirer avec la flak nobélienne."
 
 #: src-en/data/events_sector_harmony.xml.append:1126
 msgid ""
@@ -767,18 +773,24 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Hassium) Réduire en miettes les vaisseaux de ces lâches fêtards, comment "
+"osent-ils faire la fête pendant une guerre civile ?"
 
 #: src-en/data/events_sector_harmony.xml.append:1232
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec la Flak Hassium."
 
 #: src-en/data/events_sector_harmony.xml.append:1238
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Votre Flak Hassium se fracasse sur les coques des vaisseaux en stationnement "
+"présents à proximité de la fête. Elle s'écrase également sur la coque du "
+"vaisseau Engi en train de faire la fête, la déchiquetant comme du gruyère. "
+"Personne n'a atteint une capsule de sauvetage à temps."
 
 #: src-en/data/events_sector_harmony.xml.append:1240
 msgid ""
@@ -892,7 +904,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec l'Absolution."
 
 #: src-en/data/events_sector_harmony.xml.append:1462
 msgid ""
@@ -957,7 +969,7 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Tirer avec le Menaulion."
 
 #: src-en/data/events_sector_harmony.xml.append:1574
 msgid ""
