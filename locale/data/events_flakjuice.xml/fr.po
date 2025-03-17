@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_flakjuicexml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_flakjuice.xml:2
 msgid ""
@@ -317,7 +324,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:265
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:269
 msgid ""
@@ -331,7 +338,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:277
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:281
 msgid ""
@@ -345,7 +352,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:289
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:293
 msgid ""
@@ -359,7 +366,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:301
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[4]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:305
 msgid ""
@@ -373,7 +380,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:313
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:317
 msgid ""
@@ -387,7 +394,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:325
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:329
 msgid ""
@@ -401,7 +408,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:337
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[7]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:341
 msgid ""
@@ -416,7 +423,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:349
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BREACH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:353
 msgid ""
@@ -430,7 +437,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:361
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[9]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:365
 msgid ""
@@ -444,7 +451,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:373
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[10]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:377
 msgid ""
@@ -458,7 +465,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:385
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[11]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:389
 msgid ""
@@ -472,7 +479,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:397
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[12]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:401
 msgid ""
@@ -486,7 +493,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:409
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[13]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:413
 msgid ""
@@ -500,7 +507,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:421
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[14]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:425
 msgid ""
@@ -514,7 +521,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:433
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[15]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:437
 msgid ""
@@ -528,7 +535,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:445
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[16]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:449
 msgid ""
@@ -543,7 +550,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:457
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:461
 msgid ""
@@ -557,7 +564,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:469
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[18]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:473
 msgid ""
@@ -571,7 +578,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:481
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[19]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:485
 msgid ""
@@ -585,7 +592,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:493
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[20]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:497
 msgid ""
@@ -599,7 +606,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:505
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[21]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:509
 msgid ""
@@ -614,7 +621,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:517
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:521
 msgid ""
@@ -628,7 +635,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:529
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[23]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:533
 msgid ""
@@ -642,7 +649,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:541
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[24]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:545
 msgid ""
@@ -656,7 +663,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:553
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[25]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:557
 msgid ""
@@ -671,7 +678,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:565
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ_SHATTER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:569
 msgid ""
@@ -686,7 +693,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:577
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:581
 msgid ""
@@ -701,7 +708,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:589
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:593
 msgid ""
@@ -716,7 +723,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:601
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:605
 msgid ""
@@ -731,7 +738,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:613
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:617
 msgid ""
@@ -745,7 +752,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:625
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[31]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:629
 msgid ""
@@ -759,7 +766,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:637
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[32]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:641
 msgid ""
@@ -773,7 +780,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:649
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[33]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:653
 msgid ""
@@ -788,7 +795,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:661
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_8\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:665
 msgid ""
@@ -802,7 +809,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:673
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[35]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:677
 msgid ""
@@ -816,7 +823,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:685
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[36]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:689
 msgid ""
@@ -831,7 +838,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:697
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:701
 msgid ""
@@ -846,7 +853,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:709
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:713
 msgid ""
@@ -861,7 +868,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:721
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:725
 msgid ""
@@ -875,7 +882,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:733
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[40]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:737
 msgid ""
@@ -889,7 +896,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:745
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[41]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:749
 msgid ""
@@ -904,7 +911,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:757
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:761
 msgid ""
@@ -919,7 +926,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:769
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:773
 msgid ""
@@ -934,7 +941,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:781
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:785
 msgid ""
@@ -949,7 +956,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:793
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:797
 msgid ""
@@ -964,7 +971,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:805
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:809
 msgid ""
@@ -979,7 +986,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:817
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:821
 msgid ""
@@ -994,7 +1001,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:829
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:833
 msgid ""
@@ -1009,7 +1016,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:841
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:845
 msgid ""
@@ -1024,7 +1031,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:853
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:857
 msgid ""
@@ -1039,7 +1046,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:865
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:869
 msgid ""
@@ -1054,7 +1061,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:877
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:881
 msgid ""
@@ -1069,7 +1076,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:889
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:893
 msgid ""
@@ -1099,7 +1106,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:913
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:917
 msgid ""
@@ -1114,7 +1121,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:925
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:929
 msgid ""
@@ -1144,7 +1151,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:949
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:953
 msgid ""
@@ -1159,7 +1166,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:961
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:965
 msgid ""
@@ -1174,7 +1181,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:973
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:977
 msgid ""
@@ -1189,7 +1196,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:985
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:989
 msgid ""
@@ -1204,7 +1211,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:997
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1001
 msgid ""
@@ -1219,7 +1226,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1009
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PARTICLE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1013
 msgid ""
@@ -1234,7 +1241,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1021
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1025
 msgid ""
@@ -1264,7 +1271,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1045
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ENERGY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1049
 msgid ""
@@ -1278,7 +1285,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1057
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[67]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1061
 msgid ""
@@ -1292,7 +1299,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1069
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[68]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1073
 msgid ""
@@ -1321,7 +1328,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1093
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[70]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1097
 msgid ""
@@ -1336,7 +1343,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1105
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_HEAVY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1109
 msgid ""
@@ -1351,7 +1358,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1117
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_TRI\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1121
 msgid ""
@@ -1366,7 +1373,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1129
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_INSTANT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1133
 msgid ""
@@ -1381,7 +1388,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1141
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1145
 msgid ""
@@ -1396,7 +1403,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1153
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1157
 msgid ""
@@ -1411,7 +1418,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1165
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1169
 msgid ""
@@ -1426,7 +1433,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1177
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1181
 msgid ""
@@ -1441,7 +1448,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1189
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1193
 msgid ""
@@ -1456,7 +1463,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1201
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_HEAVY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1205
 msgid ""
@@ -1471,7 +1478,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1213
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1217
 msgid ""
@@ -1486,7 +1493,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1225
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1229
 msgid ""
@@ -1501,7 +1508,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1237
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_DISCO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1241
 msgid ""
@@ -1516,7 +1523,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1249
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1253
 msgid ""
@@ -1531,7 +1538,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1261
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1265
 msgid ""
@@ -1546,7 +1553,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1273
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1277
 msgid ""
@@ -1561,7 +1568,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1285
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1289
 msgid ""
@@ -1576,7 +1583,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1297
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1301
 msgid ""
@@ -1591,7 +1598,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1309
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1313
 msgid ""
@@ -1605,7 +1612,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1321
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[89]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1325
 msgid ""
@@ -1620,7 +1627,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1333
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1337
 msgid ""
@@ -1635,7 +1642,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1345
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1349
 msgid ""
@@ -1649,7 +1656,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1357
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[92]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1361
 msgid ""
@@ -1679,7 +1686,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1381
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1385
 msgid ""
@@ -1694,7 +1701,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1393
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CLOAK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1397
 msgid ""
@@ -1709,7 +1716,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1405
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1409
 msgid ""
@@ -1724,7 +1731,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1417
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1421
 msgid ""
@@ -1739,7 +1746,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1429
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FREE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1433
 msgid ""
@@ -1754,7 +1761,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1441
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1445
 msgid ""
@@ -1769,7 +1776,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1453
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1457
 msgid ""
@@ -1784,7 +1791,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1465
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1469
 msgid ""
@@ -1798,7 +1805,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1477
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[102]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1481
 msgid ""
@@ -1813,7 +1820,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1489
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_2_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1493
 msgid ""
@@ -1827,7 +1834,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1501
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[104]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1505
 msgid ""
@@ -1842,7 +1849,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1513
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1517
 msgid ""
@@ -1856,7 +1863,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1525
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[106]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1529
 msgid ""
@@ -1871,7 +1878,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1537
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_LONG_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1541
 msgid ""
@@ -1886,7 +1893,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1549
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SCYTHE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1553
 msgid ""
@@ -1901,7 +1908,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1561
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1565
 msgid ""
@@ -1916,7 +1923,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1573
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1577
 msgid ""
@@ -1930,7 +1937,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1585
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[111]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1589
 msgid ""
@@ -1945,7 +1952,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1597
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1601
 msgid ""
@@ -1960,7 +1967,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1609
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1613
 msgid ""
@@ -1975,7 +1982,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1621
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_INSTANT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1625
 msgid ""
@@ -1990,7 +1997,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1633
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BREACH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1637
 msgid ""
@@ -2004,7 +2011,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1645
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[116]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1649
 msgid ""
@@ -2019,7 +2026,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1657
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HULL_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1661
 msgid ""
@@ -2034,7 +2041,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1669
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_MINING\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1673
 msgid ""
@@ -2049,7 +2056,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1681
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1685
 msgid ""
@@ -2064,7 +2071,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1693
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1697
 msgid ""
@@ -2078,7 +2085,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1705
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[121]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1709
 msgid ""
@@ -2093,7 +2100,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1717
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1721
 msgid ""
@@ -2108,7 +2115,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1729
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1733
 msgid ""
@@ -2123,7 +2130,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1741
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1745
 msgid ""
@@ -2138,7 +2145,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1753
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1757
 msgid ""
@@ -2153,7 +2160,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1765
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1769
 msgid ""
@@ -2168,7 +2175,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1777
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1781
 msgid ""
@@ -2183,7 +2190,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1789
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1793
 msgid ""
@@ -2198,7 +2205,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1801
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1805
 msgid ""
@@ -2213,7 +2220,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1813
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1817
 msgid ""
@@ -2228,7 +2235,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1825
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1829
 msgid ""
@@ -2242,7 +2249,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1837
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[132]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1841
 msgid ""
@@ -2257,7 +2264,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1849
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1853
 msgid ""
@@ -2271,7 +2278,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1861
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[134]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1865
 msgid ""
@@ -2286,7 +2293,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1873
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_FREE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1877
 msgid ""
@@ -2300,7 +2307,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1885
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[136]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1889
 msgid ""
@@ -2315,7 +2322,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1897
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1901
 msgid ""
@@ -2330,7 +2337,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1909
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1913
 msgid ""
@@ -2345,7 +2352,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1921
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_LOCK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1925
 msgid ""
@@ -2359,7 +2366,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1933
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[140]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1937
 msgid ""
@@ -2374,7 +2381,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1945
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1949
 msgid ""
@@ -2389,7 +2396,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1957
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM_STRONG\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1961
 msgid ""
@@ -2404,7 +2411,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1969
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BUFF\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1973
 msgid ""
@@ -2419,7 +2426,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1981
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1985
 msgid ""
@@ -2434,7 +2441,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:1993
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1997
 msgid ""
@@ -2449,7 +2456,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2005
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2009
 msgid ""
@@ -2464,7 +2471,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2017
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2021
 msgid ""
@@ -2479,7 +2486,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2029
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2033
 msgid ""
@@ -2494,7 +2501,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2041
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2045
 msgid ""
@@ -2509,7 +2516,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2053
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2057
 msgid ""
@@ -2524,7 +2531,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2065
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2069
 msgid ""
@@ -2539,7 +2546,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2077
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2081
 msgid ""
@@ -2554,7 +2561,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2089
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2093
 msgid ""
@@ -2569,7 +2576,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2101
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2105
 msgid ""
@@ -2584,7 +2591,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2113
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2117
 msgid ""
@@ -2599,7 +2606,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2125
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2129
 msgid ""
@@ -2614,7 +2621,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2137
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2141
 msgid ""
@@ -2629,7 +2636,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2149
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_4\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2153
 msgid ""
@@ -2644,7 +2651,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2161
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHARGE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2165
 msgid ""
@@ -2659,7 +2666,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2173
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2177
 msgid ""
@@ -2674,7 +2681,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2185
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_INSTANT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2189
 msgid ""
@@ -2689,7 +2696,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2197
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2201
 msgid ""
@@ -2704,7 +2711,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2209
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_ION\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2213
 msgid ""
@@ -2719,7 +2726,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2221
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2225
 msgid ""
@@ -2734,7 +2741,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2233
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2237
 msgid ""
@@ -2749,7 +2756,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2245
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2249
 msgid ""
@@ -2764,7 +2771,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2257
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2261
 msgid ""
@@ -2779,7 +2786,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2269
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2273
 msgid ""
@@ -2794,7 +2801,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2281
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2285
 msgid ""
@@ -2809,7 +2816,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2293
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2297
 msgid ""
@@ -2824,7 +2831,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2305
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2309
 msgid ""
@@ -2839,7 +2846,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2317
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2321
 msgid ""
@@ -2854,7 +2861,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2329
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2333
 msgid ""
@@ -2869,7 +2876,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2341
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2345
 msgid ""
@@ -2884,7 +2891,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2353
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2357
 msgid ""
@@ -2899,7 +2906,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2365
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2369
 msgid ""
@@ -2914,7 +2921,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2377
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2381
 msgid ""
@@ -2929,7 +2936,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2389
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2393
 msgid ""
@@ -2944,7 +2951,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2401
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2405
 msgid ""
@@ -2959,7 +2966,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2413
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2417
 msgid ""
@@ -2974,7 +2981,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2425
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_HEAVY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2429
 msgid ""
@@ -2989,7 +2996,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2437
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2441
 msgid ""
@@ -3004,7 +3011,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2449
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2453
 msgid ""
@@ -3019,7 +3026,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2461
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2465
 msgid ""
@@ -3034,7 +3041,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2473
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2477
 msgid ""
@@ -3049,7 +3056,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2485
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2489
 msgid ""
@@ -3064,7 +3071,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2497
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2501
 msgid ""
@@ -3079,7 +3086,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2509
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2513
 msgid ""
@@ -3094,7 +3101,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2521
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2525
 msgid ""
@@ -3109,7 +3116,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2533
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2537
 msgid ""
@@ -3124,7 +3131,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2545
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2549
 msgid ""
@@ -3139,7 +3146,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2557
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2561
 msgid ""
@@ -3154,7 +3161,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2569
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2573
 msgid ""
@@ -3169,7 +3176,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2581
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2585
 msgid ""
@@ -3184,7 +3191,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2593
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2597
 msgid ""
@@ -3199,7 +3206,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2605
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2609
 msgid ""
@@ -3214,7 +3221,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2617
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2621
 msgid ""
@@ -3229,7 +3236,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2629
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2633
 msgid ""
@@ -3244,7 +3251,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2641
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2645
 msgid ""
@@ -3259,7 +3266,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2653
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2657
 msgid ""
@@ -3274,7 +3281,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2665
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FREE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2669
 msgid ""
@@ -3289,7 +3296,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2677
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2681
 msgid ""
@@ -3304,7 +3311,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2689
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_BREACH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2693
 msgid ""
@@ -3319,7 +3326,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2701
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2705
 msgid ""
@@ -3334,7 +3341,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2713
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2717
 msgid ""
@@ -3349,7 +3356,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2725
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_KERNEL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2729
 msgid ""
@@ -3364,7 +3371,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2737
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2741
 msgid ""
@@ -3379,7 +3386,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2749
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2753
 msgid ""
@@ -3394,7 +3401,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2761
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2765
 msgid ""
@@ -3409,7 +3416,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2773
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2777
 msgid ""
@@ -3424,7 +3431,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2785
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2789
 msgid ""
@@ -3439,7 +3446,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2797
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2801
 msgid ""
@@ -3454,7 +3461,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2809
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CONSERVATIVE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2813
 msgid ""
@@ -3469,7 +3476,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2821
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZENITH_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2825
 msgid ""
@@ -3484,7 +3491,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2833
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LANCE_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2837
 msgid ""
@@ -3499,7 +3506,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2845
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CLUSTER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2849
 msgid ""
@@ -3514,7 +3521,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2857
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2861
 msgid ""
@@ -3529,7 +3536,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2869
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2873
 msgid ""
@@ -3544,7 +3551,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2881
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2885
 msgid ""
@@ -3559,7 +3566,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2893
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MISSILES\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2897
 msgid ""
@@ -3574,7 +3581,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2905
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BOMB\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2909
 msgid ""
@@ -3589,7 +3596,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2917
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2921
 msgid ""
@@ -3604,7 +3611,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2929
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2933
 msgid ""
@@ -3619,7 +3626,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2941
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2945
 msgid ""
@@ -3634,7 +3641,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2953
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2957
 msgid ""
@@ -3649,7 +3656,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2965
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_HAVOC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2969
 msgid ""
@@ -3664,7 +3671,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2977
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2981
 msgid ""
@@ -3679,7 +3686,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:2989
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:2993
 msgid ""
@@ -3694,7 +3701,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3001
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3005
 msgid ""
@@ -3709,7 +3716,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3013
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3017
 msgid ""
@@ -3724,7 +3731,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3025
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3029
 msgid ""
@@ -3739,7 +3746,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3037
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_LASER_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3041
 msgid ""
@@ -3754,7 +3761,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3049
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BEAM_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3053
 msgid ""
@@ -3769,7 +3776,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3061
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_HAVOC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3065
 msgid ""
@@ -3784,7 +3791,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3073
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_FOCUS\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3077
 msgid ""
@@ -3799,7 +3806,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3085
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_MISSILES\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3089
 msgid ""
@@ -3814,7 +3821,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3097
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BOMB\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3101
 msgid ""
@@ -3829,7 +3836,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3109
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_ION_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3113
 msgid ""
@@ -3844,7 +3851,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3121
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_REPAIR\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3125
 msgid ""
@@ -3859,7 +3866,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3133
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRASH_LASER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3137
 msgid ""
@@ -3874,7 +3881,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3145
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HARDSCIFI\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3149
 msgid ""
@@ -3889,7 +3896,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3157
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_SYLVAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3161
 msgid ""
@@ -3904,7 +3911,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3169
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_5_SYLVAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3173
 msgid ""
@@ -3919,7 +3926,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3181
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4_SYLVAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3185
 msgid ""
@@ -3934,7 +3941,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3193
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3197
 msgid ""
@@ -3949,7 +3956,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3205
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HORSE_GUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3209
 msgid ""
@@ -3964,7 +3971,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3217
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ROCK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3221
 msgid ""
@@ -3979,7 +3986,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3229
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BISHOP\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3233
 msgid ""
@@ -3994,7 +4001,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3241
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_CHAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3245
 msgid ""
@@ -4009,7 +4016,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3253
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE_SPECIAL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3257
 msgid ""
@@ -4024,7 +4031,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3265
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CHERRI\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3269
 msgid ""
@@ -4039,7 +4046,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3277
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3281
 msgid ""
@@ -4054,7 +4061,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3289
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3293
 msgid ""
@@ -4069,7 +4076,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3301
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SALT_LAUNCHER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3305
 msgid ""
@@ -4084,7 +4091,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3313
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3317
 msgid ""
@@ -4099,7 +4106,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3325
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SHELL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3329
 msgid ""
@@ -4114,7 +4121,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3337
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZOLTAN_DELETER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3341
 msgid ""
@@ -4129,7 +4136,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3349
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3353
 msgid ""
@@ -4144,7 +4151,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3361
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3365
 msgid ""
@@ -4159,7 +4166,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3373
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3377
 msgid ""
@@ -4174,7 +4181,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3385
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION4\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3389
 msgid ""
@@ -4189,7 +4196,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3397
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION5\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3401
 msgid ""
@@ -4204,7 +4211,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3409
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION6\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3413
 msgid ""
@@ -4219,7 +4226,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3421
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION7\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3425
 msgid ""
@@ -4234,7 +4241,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3433
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION8\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3437
 msgid ""
@@ -4249,7 +4256,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3445
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3449
 msgid ""
@@ -4264,7 +4271,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3457
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN_HONOR\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3461
 msgid ""
@@ -4279,7 +4286,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3469
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_ANCIENT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3473
 msgid ""
@@ -4294,7 +4301,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3481
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BARREL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3485
 msgid ""
@@ -4309,7 +4316,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3493
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BASE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3497
 msgid ""
@@ -4324,7 +4331,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3505
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CIVILIAN_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3509
 msgid ""
@@ -4339,7 +4346,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3517
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MILITIA_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3521
 msgid ""
@@ -4354,7 +4361,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3529
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FEDERATION_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3533
 msgid ""
@@ -4369,7 +4376,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3541
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_COALITION_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3545
 msgid ""
@@ -4384,7 +4391,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3553
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DUSKBRINGER_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3557
 msgid ""
@@ -4399,7 +4406,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3565
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FREEMANTIS_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3569
 msgid ""
@@ -4414,7 +4421,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3577
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3581
 msgid ""
@@ -4429,7 +4436,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3589
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3593
 msgid ""
@@ -4444,7 +4451,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3601
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3605
 msgid ""
@@ -4459,7 +4466,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3613
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3617
 msgid ""
@@ -4474,7 +4481,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3625
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_REBEL_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3629
 msgid ""
@@ -4489,7 +4496,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3637
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ROCK_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3641
 msgid ""
@@ -4504,7 +4511,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3649
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3653
 msgid ""
@@ -4519,7 +4526,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3661
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3665
 msgid ""
@@ -4534,7 +4541,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3673
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SLUG_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3677
 msgid ""
@@ -4549,7 +4556,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3685
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CLAN_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3689
 msgid ""
@@ -4564,7 +4571,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3697
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_KNIGHT_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3701
 msgid ""
@@ -4579,7 +4586,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3709
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SHELL_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3713
 msgid ""
@@ -4594,7 +4601,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3721
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LEECH_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3725
 msgid ""
@@ -4609,7 +4616,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3733
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CULTIST_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3737
 msgid ""
@@ -4624,7 +4631,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3745
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DYNASTY_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3749
 msgid ""
@@ -4639,7 +4646,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3757
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LANIUS_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3761
 msgid ""
@@ -4654,7 +4661,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3769
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3773
 msgid ""
@@ -4669,7 +4676,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3781
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3785
 msgid ""
@@ -4684,7 +4691,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3793
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3797
 msgid ""
@@ -4699,7 +4706,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3805
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_4\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3809
 msgid ""
@@ -4714,7 +4721,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3817
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_5\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3821
 msgid ""
@@ -4729,7 +4736,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3829
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_6\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3833
 msgid ""
@@ -4744,7 +4751,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3841
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_7\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3845
 msgid ""
@@ -4759,7 +4766,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3853
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BATTERY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3857
 msgid ""
@@ -4774,7 +4781,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3865
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3869
 msgid ""
@@ -4789,7 +4796,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3877
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BIG_ION\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3881
 msgid ""
@@ -4804,7 +4811,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3889
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVRECYCLER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3893
 msgid ""
@@ -4819,7 +4826,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3901
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_DRAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3905
 msgid ""
@@ -4834,7 +4841,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3913
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FROST_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3917
 msgid ""
@@ -4849,7 +4856,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3925
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAIN_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3929
 msgid ""
@@ -4864,7 +4871,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3937
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_OBSIDIAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3941
 msgid ""
@@ -4879,7 +4886,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3949
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SNIPER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3953
 msgid ""
@@ -4894,7 +4901,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3961
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_STEEL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3965
 msgid ""
@@ -4909,7 +4916,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3973
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SLOTGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3977
 msgid ""
@@ -4924,7 +4931,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3985
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:3989
 msgid ""
@@ -4939,7 +4946,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:3997
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_ION\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4001
 msgid ""
@@ -4954,7 +4961,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4009
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_TOXIC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4013
 msgid ""
@@ -4969,7 +4976,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4021
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHELL_LAUNCHER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4025
 msgid ""
@@ -4984,7 +4991,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4033
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"UNSPOOLER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4037
 msgid ""
@@ -4999,7 +5006,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4045
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_GIANT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4049
 msgid ""
@@ -5014,7 +5021,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4057
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4061
 msgid ""
@@ -5029,7 +5036,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4069
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4073
 msgid ""
@@ -5044,7 +5051,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4081
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"STRAWBERRY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4085
 msgid ""
@@ -5059,7 +5066,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4093
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_ELITE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4097
 msgid ""
@@ -5074,7 +5081,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4105
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GASTER_BLASTER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4109
 msgid ""
@@ -5089,7 +5096,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4117
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4121
 msgid ""
@@ -5104,7 +5111,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4129
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4133
 msgid ""
@@ -5119,7 +5126,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4141
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4145
 msgid ""
@@ -5134,7 +5141,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4153
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4157
 msgid ""
@@ -5149,7 +5156,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4165
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4169
 msgid ""
@@ -5164,7 +5171,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4177
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4181
 msgid ""
@@ -5179,7 +5186,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4189
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4193
 msgid ""
@@ -5194,7 +5201,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4201
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4205
 msgid ""
@@ -5209,7 +5216,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4213
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_ACCURACY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4217
 msgid ""
@@ -5224,7 +5231,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4225
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4229
 msgid ""
@@ -5239,7 +5246,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4237
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4241
 msgid ""
@@ -5254,7 +5261,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4249
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4253
 msgid ""
@@ -5269,7 +5276,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4261
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4265
 msgid ""
@@ -5284,7 +5291,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4273
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4277
 msgid ""
@@ -5299,7 +5306,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4285
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4289
 msgid ""
@@ -5314,7 +5321,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4297
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4301
 msgid ""
@@ -5329,7 +5336,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:4309
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_POWER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4313
 msgid ""
@@ -5339,12 +5346,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4319
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4321
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4325
 msgid ""
@@ -5354,12 +5361,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4331
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4333
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4337
 msgid ""
@@ -5369,12 +5376,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4343
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4345
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4349
 msgid ""
@@ -5384,12 +5391,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4355
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4357
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4361
 msgid ""
@@ -5399,12 +5406,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4367
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4369
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4373
 msgid ""
@@ -5414,12 +5421,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4379
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4381
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_BASE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4385
 msgid ""
@@ -5429,12 +5436,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4391
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4393
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4397
 msgid ""
@@ -5444,12 +5451,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4403
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4405
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4409
 msgid ""
@@ -5459,12 +5466,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4415
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4417
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4421
 msgid ""
@@ -5474,12 +5481,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4427
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4429
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4433
 msgid ""
@@ -5489,12 +5496,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4439
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4441
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4445
 msgid ""
@@ -5504,12 +5511,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4451
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4453
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_ACCURACY_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4457
 msgid ""
@@ -5519,12 +5526,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4463
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4465
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4469
 msgid ""
@@ -5534,12 +5541,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4475
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4477
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4481
 msgid ""
@@ -5549,12 +5556,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4487
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4489
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4493
 msgid ""
@@ -5564,12 +5571,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4499
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4501
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4505
 msgid ""
@@ -5579,12 +5586,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4511
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4513
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4517
 msgid ""
@@ -5594,12 +5601,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4523
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4525
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_FIRE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4529
 msgid ""
@@ -5609,12 +5616,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4535
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4537
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4541
 msgid ""
@@ -5624,12 +5631,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4547
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4549
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4553
 msgid ""
@@ -5639,12 +5646,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4559
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4561
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4565
 msgid ""
@@ -5654,12 +5661,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4571
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4573
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4577
 msgid ""
@@ -5669,12 +5676,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4583
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4585
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4589
 msgid ""
@@ -5684,12 +5691,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4595
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4597
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_HULL_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4601
 msgid ""
@@ -5699,12 +5706,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4607
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4609
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4613
 msgid ""
@@ -5714,12 +5721,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4619
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4621
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4625
 msgid ""
@@ -5729,12 +5736,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4631
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4633
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4637
 msgid ""
@@ -5744,12 +5751,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4643
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4645
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4649
 msgid ""
@@ -5759,12 +5766,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4655
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4657
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4661
 msgid ""
@@ -5774,12 +5781,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4667
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4669
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_LASER_POWER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4673
 msgid ""
@@ -5789,12 +5796,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4679
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4681
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4685
 msgid ""
@@ -5804,12 +5811,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4691
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4693
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4697
 msgid ""
@@ -5819,12 +5826,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4703
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4705
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4709
 msgid ""
@@ -5834,12 +5841,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4715
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4717
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4721
 msgid ""
@@ -5849,12 +5856,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4727
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4729
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_BASE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4733
 msgid ""
@@ -5864,12 +5871,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4739
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4741
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4745
 msgid ""
@@ -5879,12 +5886,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4751
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4753
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4757
 msgid ""
@@ -5894,12 +5901,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4763
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4765
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4769
 msgid ""
@@ -5909,12 +5916,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4775
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4777
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4781
 msgid ""
@@ -5924,12 +5931,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4787
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4789
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_FIRE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4793
 msgid ""
@@ -5939,12 +5946,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4799
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4801
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4805
 msgid ""
@@ -5954,12 +5961,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4811
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4813
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4817
 msgid ""
@@ -5969,12 +5976,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4823
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4825
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4829
 msgid ""
@@ -5984,12 +5991,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4835
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4837
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4841
 msgid ""
@@ -5999,12 +6006,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4847
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4849
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_HULL_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4853
 msgid ""
@@ -6014,12 +6021,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4859
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4861
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4865
 msgid ""
@@ -6029,12 +6036,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4871
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4873
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4877
 msgid ""
@@ -6044,12 +6051,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4883
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4885
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4889
 msgid ""
@@ -6059,12 +6066,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4895
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4897
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4901
 msgid ""
@@ -6074,12 +6081,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4907
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Échangez un Rayon modulaire contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4909
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_BEAM_POWER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4913
 msgid ""
@@ -6089,12 +6096,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4919
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4921
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4925
 msgid ""
@@ -6104,12 +6111,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4931
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4933
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4937
 msgid ""
@@ -6119,12 +6126,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4943
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4945
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4949
 msgid ""
@@ -6134,12 +6141,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4955
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4957
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4961
 msgid ""
@@ -6149,12 +6156,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4967
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4969
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_BASE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4973
 msgid ""
@@ -6164,12 +6171,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4979
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4981
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4985
 msgid ""
@@ -6179,12 +6186,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4991
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4993
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:4997
 msgid ""
@@ -6194,12 +6201,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5003
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5005
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5009
 msgid ""
@@ -6209,12 +6216,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5015
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5017
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5021
 msgid ""
@@ -6224,12 +6231,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5027
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5029
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_ACCURACY_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5033
 msgid ""
@@ -6239,12 +6246,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5039
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5041
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5045
 msgid ""
@@ -6254,12 +6261,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5051
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5053
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5057
 msgid ""
@@ -6269,12 +6276,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5063
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5065
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5069
 msgid ""
@@ -6284,12 +6291,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5075
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5077
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5081
 msgid ""
@@ -6299,12 +6306,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5087
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5089
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_FIRE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5093
 msgid ""
@@ -6314,12 +6321,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5099
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5101
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5105
 msgid ""
@@ -6329,12 +6336,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5111
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5113
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5117
 msgid ""
@@ -6344,12 +6351,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5123
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5125
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5129
 msgid ""
@@ -6359,12 +6366,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5135
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5137
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5141
 msgid ""
@@ -6374,12 +6381,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5147
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5149
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_HULL_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5153
 msgid ""
@@ -6389,12 +6396,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5159
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5161
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5165
 msgid ""
@@ -6404,12 +6411,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5171
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5173
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5177
 msgid ""
@@ -6419,12 +6426,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5183
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5185
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5189
 msgid ""
@@ -6434,12 +6441,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5195
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5197
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5201
 msgid ""
@@ -6449,12 +6456,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5207
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile modulaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5209
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_MISSILE_POWER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5213
 msgid ""
@@ -6464,12 +6471,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5219
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5221
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5225
 msgid ""
@@ -6479,12 +6486,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5231
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5233
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5237
 msgid ""
@@ -6494,12 +6501,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5243
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5245
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5249
 msgid ""
@@ -6509,12 +6516,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5255
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5257
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5261
 msgid ""
@@ -6524,12 +6531,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5267
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5269
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5273
 msgid ""
@@ -6539,12 +6546,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5279
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5281
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_BASE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5285
 msgid ""
@@ -6554,12 +6561,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5291
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5293
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5297
 msgid ""
@@ -6569,12 +6576,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5303
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5305
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5309
 msgid ""
@@ -6584,12 +6591,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5315
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5317
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5321
 msgid ""
@@ -6599,12 +6606,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5327
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5329
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5333
 msgid ""
@@ -6614,12 +6621,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5339
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5341
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5345
 msgid ""
@@ -6629,12 +6636,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5351
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5353
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_ACCURACY_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5357
 msgid ""
@@ -6644,12 +6651,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5363
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5365
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5369
 msgid ""
@@ -6659,12 +6666,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5375
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5377
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5381
 msgid ""
@@ -6674,12 +6681,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5387
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5389
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5393
 msgid ""
@@ -6689,12 +6696,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5399
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5401
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5405
 msgid ""
@@ -6704,12 +6711,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5411
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5413
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5417
 msgid ""
@@ -6719,12 +6726,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5423
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5425
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_FIRE_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5429
 msgid ""
@@ -6734,12 +6741,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5435
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5437
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5441
 msgid ""
@@ -6749,12 +6756,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5447
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5449
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5453
 msgid ""
@@ -6764,12 +6771,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5459
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5461
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5465
 msgid ""
@@ -6779,12 +6786,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5471
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5473
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5477
 msgid ""
@@ -6794,12 +6801,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5483
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5485
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5489
 msgid ""
@@ -6809,12 +6816,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5495
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5497
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_HULL_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5501
 msgid ""
@@ -6824,12 +6831,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5507
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5509
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5513
 msgid ""
@@ -6839,12 +6846,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5519
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5521
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_BIO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5525
 msgid ""
@@ -6854,12 +6861,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5531
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5533
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_COOLDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5537
 msgid ""
@@ -6869,12 +6876,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5543
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5545
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_LOCKDOWN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5549
 msgid ""
@@ -6884,12 +6891,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5555
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5557
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_PIERCE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5561
 msgid ""
@@ -6899,12 +6906,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5567
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion modulaire contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5569
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULAR_ION_POWER_STUN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5573
 msgid ""
@@ -6919,7 +6926,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5581
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"POWER_CORE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5585
 msgid ""
@@ -6934,7 +6941,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5593
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_RECON\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5597
 msgid ""
@@ -6949,7 +6956,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5605
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_BAIT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5609
 msgid ""
@@ -6964,7 +6971,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5617
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HARPOON_LAUNCHER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5621
 msgid ""
@@ -6979,7 +6986,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5629
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5633
 msgid ""
@@ -6994,7 +7001,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5641
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BABYORCHID\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5645
 msgid ""
@@ -7009,7 +7016,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5653
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ANCIENT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5657
 msgid ""
@@ -7024,7 +7031,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5665
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BIRD\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5669
 msgid ""
@@ -7039,7 +7046,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5677
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AVATAR\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5681
 msgid ""
@@ -7054,7 +7061,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5689
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AUGMENTED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5693
 msgid ""
@@ -7069,7 +7076,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5701
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BISHOP\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5705
 msgid ""
@@ -7084,7 +7091,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5713
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CHIEF\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5717
 msgid ""
@@ -7099,7 +7106,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5725
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CLAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5729
 msgid ""
@@ -7114,7 +7121,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5737
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_COMMANDO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5741
 msgid ""
@@ -7129,7 +7136,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5749
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRUSADER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5753
 msgid ""
@@ -7144,7 +7151,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5761
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5765
 msgid ""
@@ -7159,7 +7166,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5773
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SSLG\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5777
 msgid ""
@@ -7174,7 +7181,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5785
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CULTIST\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5789
 msgid ""
@@ -7189,7 +7196,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5797
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEFEND\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5801
 msgid ""
@@ -7204,7 +7211,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5809
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DUSK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5813
 msgid ""
@@ -7219,7 +7226,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5821
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGINEER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5825
 msgid ""
@@ -7234,7 +7241,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5833
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGI\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5837
 msgid ""
@@ -7249,7 +7256,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5845
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5849
 msgid ""
@@ -7264,7 +7271,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5857
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM_ALPHA\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5861
 msgid ""
@@ -7279,7 +7286,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5869
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5873
 msgid ""
@@ -7294,7 +7301,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5881
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL_ALPHA\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5885
 msgid ""
@@ -7309,7 +7316,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5893
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5897
 msgid ""
@@ -7324,7 +7331,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5905
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE_ALPHA\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5909
 msgid ""
@@ -7339,7 +7346,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5917
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5921
 msgid ""
@@ -7354,7 +7361,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5929
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH_ALPHA\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5933
 msgid ""
@@ -7369,7 +7376,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5941
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HATCH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5945
 msgid ""
@@ -7384,7 +7391,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5953
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HUMAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5957
 msgid ""
@@ -7399,7 +7406,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5965
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LANIUS\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5969
 msgid ""
@@ -7414,7 +7421,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5977
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MANTIS\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5981
 msgid ""
@@ -7429,7 +7436,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:5989
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_FREEMANTIS\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:5993
 msgid ""
@@ -7444,7 +7451,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6001
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MEDIC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6005
 msgid ""
@@ -7459,7 +7466,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6013
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MONK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6017
 msgid ""
@@ -7474,7 +7481,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6025
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ORCHID\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6029
 msgid ""
@@ -7489,7 +7496,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6037
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_VAMPWEED\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6041
 msgid ""
@@ -7504,7 +7511,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6049
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_OUTCAST\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6053
 msgid ""
@@ -7519,7 +7526,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6061
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PEACE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6065
 msgid ""
@@ -7534,7 +7541,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6073
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONY\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6077
 msgid ""
@@ -7549,7 +7556,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6085
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONYC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6089
 msgid ""
@@ -7564,7 +7571,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6097
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_QUEEN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6101
 msgid ""
@@ -7579,7 +7586,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6109
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADIANT\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6113
 msgid ""
@@ -7594,7 +7601,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6121
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADICAL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6125
 msgid ""
@@ -7609,7 +7616,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6133
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEVORAK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6137
 msgid ""
@@ -7624,7 +7631,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6145
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RANGER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6149
 msgid ""
@@ -7639,7 +7646,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6157
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ROCK\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6161
 msgid ""
@@ -7654,7 +7661,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6169
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SABO\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6173
 msgid ""
@@ -7669,7 +7676,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6181
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SENTINEL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6185
 msgid ""
@@ -7684,7 +7691,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6193
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SEPARATIST\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6197
 msgid ""
@@ -7699,7 +7706,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6205
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6209
 msgid ""
@@ -7714,7 +7721,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6217
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MECH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6221
 msgid ""
@@ -7729,7 +7736,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6229
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MEDIC\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6233
 msgid ""
@@ -7744,7 +7751,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6241
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_GUARDIAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6245
 msgid ""
@@ -7759,7 +7766,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6253
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SLUG\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6257
 msgid ""
@@ -7774,7 +7781,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6265
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HEKTAR\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6269
 msgid ""
@@ -7789,7 +7796,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6277
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SOLDIER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6281
 msgid ""
@@ -7804,7 +7811,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6289
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SPIDER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6293
 msgid ""
@@ -7819,7 +7826,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6301
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SUZERAIN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6305
 msgid ""
@@ -7834,7 +7841,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6313
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WARLORD\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6317
 msgid ""
@@ -7849,7 +7856,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6325
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SYMBIOTE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6329
 msgid ""
@@ -7864,7 +7871,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6337
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WEAVER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6341
 msgid ""
@@ -7879,7 +7886,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6349
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WELDER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6353
 msgid ""
@@ -7894,7 +7901,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6361
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ZOLTAN\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6365
 msgid ""
@@ -7909,7 +7916,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6373
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LEECH\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6377
 msgid ""
@@ -7924,7 +7931,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6385
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AMPERE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6389
 msgid ""
@@ -7939,7 +7946,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:6397
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ROYAL_MISSILES\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:6401
 msgid ""
