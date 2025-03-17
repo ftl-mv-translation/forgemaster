@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 12:28+0000\n"
+"PO-Revision-Date: 2025-03-18 18:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/fr/>\n"
@@ -33,176 +33,176 @@ msgstr "Atticus"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:322
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:324
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:337
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:349
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:350
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:362
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:374
 msgid ""
 "data/hyperspace.xml.append$//mantis_warlord[@name=\"Winchester III\"]/@name"
-msgstr ""
+msgstr "Winchester III"
 
 #: src-en/data/hyperspace.xml.append:375
 msgid ""
 "data/hyperspace.xml.append$//unique_remington[@name=\"Remington MK "
 "III\"]/@name"
-msgstr ""
+msgstr "Remington MK III"
 
 #: src-en/data/hyperspace.xml.append:376
 msgid ""
 "data/hyperspace.xml.append$//unique_mossberg[@name=\"Mossberg MK "
 "III\"]/@name"
-msgstr ""
+msgstr "Mossberg MK III"
 
 #: src-en/data/hyperspace.xml.append:401
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"P.Escobar\"]/@name"
-msgstr ""
+msgstr "P. Escobar"
 
 #: src-en/data/hyperspace.xml.append:402
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Marcola\"]/@name"
-msgstr ""
+msgstr "Marcola"
 
 #: src-en/data/hyperspace.xml.append:403
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Osiel\"]/@name"
-msgstr ""
+msgstr "Osiel"
 
 #: src-en/data/hyperspace.xml.append:404
 msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Chapo\"]/@name"
-msgstr ""
+msgstr "Chapo"
 
 #: src-en/data/hyperspace.xml.append:421
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Frehm\"]/@name"
-msgstr ""
+msgstr "Frehm"
 
 #: src-en/data/hyperspace.xml.append:422
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Ripley\"]/@name"
-msgstr ""
+msgstr "Ripley"
 
 #: src-en/data/hyperspace.xml.append:423
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
-msgstr ""
+msgstr "Kovacs"
 
 #: src-en/data/hyperspace.xml.append:424
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
-msgstr ""
+msgstr "Graziano"
 
 #: src-en/data/hyperspace.xml.append:433
 msgid "data/hyperspace.xml.append$//engi[@name=\"Armstrong\"]/@name"
-msgstr ""
+msgstr "Armstrong"
 
 #: src-en/data/hyperspace.xml.append:434
 msgid "data/hyperspace.xml.append$//engi_separatist[@name=\"Monsoon\"]/@name"
-msgstr ""
+msgstr "Monsoon"
 
 #: src-en/data/hyperspace.xml.append:469
 msgid "data/hyperspace.xml.append$//mantis[@name=\"Naktul\"]/@name"
-msgstr ""
+msgstr "Naktul"
 
 #: src-en/data/hyperspace.xml.append:470
 msgid "data/hyperspace.xml.append$//mantis_free[@name=\"Yagdra\"]/@name"
-msgstr ""
+msgstr "Yagdra"
 
 #: src-en/data/hyperspace.xml.append:471
 msgid "data/hyperspace.xml.append$//mantis_suzerain[@name=\"Zurvan\"]/@name"
-msgstr ""
+msgstr "Zurvan"
 
 #: src-en/data/hyperspace.xml.append:472
 msgid "data/hyperspace.xml.append$//mantis_bishop[@name=\"Zagara\"]/@name"
-msgstr ""
+msgstr "Zagara"
 
 #: src-en/data/hyperspace.xml.append:600
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"bacon\"]/@name"
-msgstr ""
+msgstr "bacon"
 
 #: src-en/data/hyperspace.xml.append:601
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"Speck\"]/@name"
-msgstr ""
+msgstr "Speck"
 
 #: src-en/data/hyperspace.xml.append:704
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Zed\"]/@name"
-msgstr ""
+msgstr "Zed"
 
 #: src-en/data/hyperspace.xml.append:705
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Maynard\"]/@name"
-msgstr ""
+msgstr "Maynard"
 
 #: src-en/data/hyperspace.xml.append:706
 msgid "data/hyperspace.xml.append$//engi[@name=\"Dell\"]/@name"
-msgstr ""
+msgstr "Dell"
 
 #: src-en/data/hyperspace.xml.append:707
 msgid "data/hyperspace.xml.append$//human_medic[@name=\"Ludwig\"]/@name"
-msgstr ""
+msgstr "Ludwig"
 
 #: src-en/data/hyperspace.xml.append:802
 msgid ""
@@ -212,7 +212,7 @@ msgstr "Volpe"
 
 #: src-en/data/hyperspace.xml.append:803
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bellamy\"]/@name"
-msgstr ""
+msgstr "Bellamy"
 
 #: src-en/data/hyperspace.xml.append:804
 msgid ""
@@ -222,19 +222,19 @@ msgstr "Atticus"
 
 #: src-en/data/hyperspace.xml.append:805
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Burnette\"]/@name"
-msgstr ""
+msgstr "Burnette"
 
 #: src-en/data/hyperspace.xml.append:806
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Halford\"]/@name"
-msgstr ""
+msgstr "Halford"
 
 #: src-en/data/hyperspace.xml.append:807
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Kallio\"]/@name"
-msgstr ""
+msgstr "Kallio"
 
 #: src-en/data/hyperspace.xml.append:808
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bavitz\"]/@name"
-msgstr ""
+msgstr "Bavitz"
 
 #: src-en/data/hyperspace.xml.append:809
 msgid ""
@@ -258,39 +258,39 @@ msgstr "Convy"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
-msgstr "Palerme"
+msgstr "Palermo"
 
 #: src-en/data/hyperspace.xml.append:813
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Dirnt\"]/@name"
-msgstr ""
+msgstr "Dirnt"
 
 #: src-en/data/hyperspace.xml.append:841
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 1\"]/@name"
-msgstr ""
+msgstr "Agent 1"
 
 #: src-en/data/hyperspace.xml.append:842
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 2\"]/@name"
-msgstr ""
+msgstr "Agent 2"
 
 #: src-en/data/hyperspace.xml.append:843
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 3\"]/@name"
-msgstr ""
+msgstr "Agent 3"
 
 #: src-en/data/hyperspace.xml.append:844
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 4\"]/@name"
-msgstr ""
+msgstr "Agent 4"
 
 #: src-en/data/hyperspace.xml.append:845
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 5\"]/@name"
-msgstr ""
+msgstr "Agent 5"
 
 #: src-en/data/hyperspace.xml.append:846
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 6\"]/@name"
-msgstr ""
+msgstr "Agent 6"
 
 #: src-en/data/hyperspace.xml.append:847
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 7\"]/@name"
-msgstr ""
+msgstr "Agent 7"
 
 #: src-en/data/hyperspace.xml.append:848
 msgid ""
@@ -318,7 +318,7 @@ msgstr "Palerme"
 
 #: src-en/data/hyperspace.xml.append:852
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Pterodactyl\"]/@name"
-msgstr ""
+msgstr "Ptérodactyle"
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
@@ -326,55 +326,55 @@ msgstr "Freddy"
 
 #: src-en/data/hyperspace.xml.append:1112
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy?\"]/@name"
-msgstr ""
+msgstr "Freddy ?"
 
 #: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fred\"]/@name"
-msgstr ""
+msgstr "Fred"
 
 #: src-en/data/hyperspace.xml.append:1114
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Frederick\"]/@name"
-msgstr ""
+msgstr "Frederick"
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[5]/@name"
-msgstr ""
+msgstr "Franz"
 
 #: src-en/data/hyperspace.xml.append:1116
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[6]/@name"
-msgstr ""
+msgstr "Franz"
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Ferdinand\"]/@name"
-msgstr ""
+msgstr "Ferdinand"
 
 #: src-en/data/hyperspace.xml.append:1118
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
-msgstr ""
+msgstr "Foog. I"
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
-msgstr ""
+msgstr "Fumblemore"
 
 #: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
-msgstr ""
+msgstr "Foog. II"
 
 #: src-en/data/hyperspace.xml.append:1121
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Lord Foog\"]/@name"
-msgstr ""
+msgstr "Seigneur Foog"
 
 #: src-en/data/hyperspace.xml.append:1122
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
-msgstr ""
+msgstr "Feddy"
 
 #: src-en/data/hyperspace.xml.append:1123
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
-msgstr ""
+msgstr "Fazbear"
 
 #: src-en/data/hyperspace.xml.append:1177
 msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
@@ -384,102 +384,102 @@ msgstr "Tuco"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[1]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1179
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[2]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1180
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[3]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1181
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[4]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1182
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[5]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1183
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[6]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1184
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[7]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1185
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[8]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1186
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[9]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1187
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[10]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1188
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[11]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1189
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[12]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1302
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"B.O.S.D.\"]/@name"
-msgstr ""
+msgstr "B.O.S.D."
 
 #: src-en/data/hyperspace.xml.append:1303
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Abort\"]/@name"
-msgstr ""
+msgstr "Abandonner"
 
 #: src-en/data/hyperspace.xml.append:1304
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Retry\"]/@name"
-msgstr ""
+msgstr "Réessayer"
 
 #: src-en/data/hyperspace.xml.append:1305
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Fail\"]/@name"
-msgstr ""
+msgstr "Échec"
 
 #: src-en/data/hyperspace.xml.append:1306
 msgid ""
 "data/hyperspace.xml.append$//fm_human_texture[@name=\"ErrorNotFound\"]/@name"
-msgstr ""
+msgstr "Erreur non trouvée"
 
 #: src-en/data/hyperspace.xml.append:1307
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"NaN\"]/@name"
-msgstr ""
+msgstr "NaN"
 
 #: src-en/data/hyperspace.xml.append:1308
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
-msgstr ""
+msgstr "BonziBuddy"
 
 #: src-en/data/hyperspace.xml.append:1309
 msgid ""
@@ -489,11 +489,11 @@ msgstr "ERREUR"
 
 #: src-en/data/hyperspace.xml.append:1310
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Vista\"]/@name"
-msgstr ""
+msgstr "Vista"
 
 #: src-en/data/hyperspace.xml.append:1311
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Keyboard\"]/@name"
-msgstr ""
+msgstr "Clavier"
 
 #: src-en/data/hyperspace.xml.append:1312
 msgid ""
@@ -509,37 +509,37 @@ msgstr "ERREUR"
 
 #: src-en/data/hyperspace.xml.append:1613
 msgid "data/hyperspace.xml.append$//butler[@name=\"Candy\"]/@name"
-msgstr ""
+msgstr "Candy"
 
 #: src-en/data/hyperspace.xml.append:1614
 msgid "data/hyperspace.xml.append$//butler[@name=\"Krystal\"]/@name"
-msgstr ""
+msgstr "Krystal"
 
 #: src-en/data/hyperspace.xml.append:1615
 msgid "data/hyperspace.xml.append$//butler[@name=\"Chastity\"]/@name"
-msgstr ""
+msgstr "Chasteté"
 
 #: src-en/data/hyperspace.xml.append:1627
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:1629
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:1630
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:1649
 msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
-msgstr ""
+msgstr "Randall"
 
 #: src-en/data/hyperspace.xml.append:1765
 msgid ""
@@ -555,7 +555,7 @@ msgstr "Vance"
 
 #: src-en/data/hyperspace.xml.append:1767
 msgid "data/hyperspace.xml.append$//unique_ooj[@name=\"Oojie\"]/@name"
-msgstr ""
+msgstr "Oojie"
 
 #: src-en/data/hyperspace.xml.append:1768
 msgid ""
@@ -575,7 +575,7 @@ msgstr "Illuminée"
 
 #: src-en/data/hyperspace.xml.append:1771
 msgid "data/hyperspace.xml.append$//sylvanmaid[@name=\"Digger\"]/@name"
-msgstr ""
+msgstr "Digger"
 
 #: src-en/data/hyperspace.xml.append:1772
 msgid "data/hyperspace.xml.append$//nemesismfk[@name=\"Leah\"]/@name"
@@ -586,24 +586,45 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[1]/tooltip"
 msgstr ""
+"ACCÉLÉRATEUR FORGÉ :\n"
+"\t\t\t\t\tL'armure unique de cet ennemi lui confère 25 chances de résister à "
+"TOUS les types de dégâts de vos armes. Les incendies brûlent 50% plus "
+"lentement, scellent les brèches très lentement, réduisent de moitié la "
+"suffocation, et l'équipage répare les systèmes spécifiques significativement "
+"plus vite et la progression des réparations n'est pas perdue en cas "
+"d'interruption (et le pilotage est toujours assuré par un homme)."
 
 #: src-en/data/hyperspace.xml.append:1801
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[2]/tooltip"
 msgstr ""
+"LES ROBOTS MÉDICAUX FORGÉS :\n"
+"\t\t\t\t\tCette baie médicale unique soigne tous les membres d'équipage "
+"alliés et leur confère une résistance de 20 % aux dégâts des armes, mais sa "
+"force et sa résistance dépendent de la puissance du système médical. Il "
+"continue de soigner légèrement les membres d'équipage s'il est détruit ou "
+"non alimenté. Les soins de base sont de 1 pv/s, et de 2,5 pv/s à 4 d'énergie."
 
 #: src-en/data/hyperspace.xml.append:1807
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[3]/tooltip"
 msgstr ""
+"AUGMENTATION DE LA FAILLE DIMENSIONNELLE :\n"
+"\t\t\t\t\tCe vaisseau utilise une technologie provenant d'une autre "
+"dimension. Si vous parvenez à Battre ce vaisseau dément, vous pourrez vous "
+"approprier une telle technologie !"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
+"NANOMACHINES DE TRAUMATISME PHYSIQUE :\n"
+"\t\t\t\t\tLes nanomachines uniques dispensées par les drones d'équipage de "
+"ce vaisseau augmentent la santé et la résistance aux dégâts du capitaine "
+"Engi. Eliminez les drones pour pouvoir éliminer le capitaine Engi !"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
@@ -716,17 +737,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3105
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3126
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3147
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3168
 msgid ""
@@ -736,22 +757,22 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3182
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3208
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3226
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3244
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3262
 msgid ""
@@ -761,27 +782,27 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3276
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "AUGMENTATIONS RARES"
 
 #: src-en/data/hyperspace.xml.append:3290
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[6]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3317
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3335
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3348
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3366
 msgid ""
@@ -791,32 +812,32 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3387
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3405
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3423
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3441
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "AUGMENTATIONS RARES"
 
 #: src-en/data/hyperspace.xml.append:3476
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[6]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3494
 msgid ""
@@ -827,53 +848,69 @@ msgstr "ÉQUIPAGE"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/name"
-msgstr ""
+msgstr "\\1 Fin de l'avenir sombre"
 
 #: src-en/data/hyperspace.xml.append:4221
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/description"
 msgstr ""
+"Explorer un fragment d'un avenir sombre à bord de n'importe quel modèle de "
+"l' \\1"
 
 #: src-en/data/hyperspace.xml.append:4223
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretName"
-msgstr ""
+msgstr "\\1 ????? Fin"
 
 #: src-en/data/hyperspace.xml.append:4224
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretDescription"
 msgstr ""
+"Découvrir une future menace multiverselle à bord de n'importe quel modèle de "
+"l' \\1"
 
 #: src-en/data/hyperspace.xml.append:4324
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Corrosion"
 
 #: src-en/data/hyperspace.xml.append:4325
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/tooltip"
 msgstr ""
+"Brûle la coque toutes les 10 secondes, inflige des dégâts passifs à "
+"l'équipage se trouvant dans la même pièce en permanence"
 
 #: src-en/data/hyperspace.xml.append:4423
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Impulsion"
 
 #: src-en/data/hyperspace.xml.append:4424
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/tooltip"
 msgstr ""
+"Toutes les 9 secondes, inflige automatiquement 1 dégât ionique à la pièce "
+"actuelle et étourdit brièvement tous les membres d'équipage qui s'y "
+"trouvent. Peu de dégâts en combat. Ralentit la vitesse de déplacement de "
+"tous les autres membres d'équipage dans la pièce. Inflige 2 dégâts ioniques "
+"à la mort."
 
 #: src-en/data/hyperspace.xml.append:4547
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Impulsion"
 
 #: src-en/data/hyperspace.xml.append:4548
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"Toutes les 9 secondes, inflige automatiquement 1 dégât ionique à la pièce "
+"actuelle et étourdit brièvement tous les membres d'équipage qui s'y "
+"trouvent. Peu de dégâts en combat. Ralentit la vitesse de déplacement de "
+"tous les autres membres d'équipage dans la pièce. Inflige 2 dégâts ioniques "
+"à la mort."
 
 #: src-en/data/hyperspace.xml.append:4887
 msgid ""
@@ -884,6 +921,8 @@ msgstr "REFORGER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 10 dommages au système et 2 dommages à la coque. Soigne "
+"fortement le Maître des forges et allume des feux."
 
 #: src-en/data/hyperspace.xml.append:4970
 msgid ""
@@ -894,6 +933,9 @@ msgstr "REFORGER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 10 dommages au système et 2 dommages à la coque. Soigne "
+"fortement le Maître des forges et allume des feux. Ne subit aucun dégât "
+"pendant l'exécution de la capacité."
 
 #: src-en/data/hyperspace.xml.append:5052
 msgid ""
@@ -1170,7 +1212,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:10959
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:10960
 msgid ""
@@ -1200,7 +1242,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11076
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11077
 msgid ""
@@ -1210,7 +1252,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11112
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11113
 msgid ""
@@ -1220,7 +1262,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11148
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11149
 msgid ""
@@ -1250,7 +1292,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11273
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11274
 msgid ""
@@ -1280,7 +1322,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11390
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11391
 msgid ""
@@ -1290,7 +1332,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11426
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11427
 msgid ""
@@ -1300,7 +1342,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:11462
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11463
 msgid ""
@@ -1356,7 +1398,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15849
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15850
 msgid ""
@@ -1376,7 +1418,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15858
 msgid ""
@@ -1396,7 +1438,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15866
 msgid ""
@@ -1416,7 +1458,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15873
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15874
 msgid ""
@@ -1436,7 +1478,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15881
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15882
 msgid ""
@@ -1446,7 +1488,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15886
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
-msgstr ""
+msgstr "Ruée Zerg"
 
 #: src-en/data/hyperspace.xml.append:15887
 msgid ""
@@ -1456,7 +1498,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15889
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15890
 msgid ""
@@ -1476,7 +1518,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15897
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15898
 msgid ""
@@ -1496,7 +1538,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15905
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15906
 msgid ""
@@ -1518,7 +1560,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15913
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15914
 msgid ""
@@ -1538,7 +1580,7 @@ msgstr "Battre le renégat limace déformée C et obtenez le Quasar de Malboro."
 #: src-en/data/hyperspace.xml.append:15921
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15922
 msgid ""
@@ -1554,11 +1596,26 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
 msgstr ""
+"Battre le Renégat Furtif Déformé B et obtenir le et obtenir le et obtenir le "
+"et obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et obtenir le et obtenir le et "
+"obtenir le et obtenir le et obtenir le et ... arrêt en cours."
 
 #: src-en/data/hyperspace.xml.append:15929
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15930
 msgid ""
@@ -1578,7 +1635,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15937
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15938
 msgid ""
@@ -1588,7 +1645,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15942
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/name"
-msgstr ""
+msgstr "bacon"
 
 #: src-en/data/hyperspace.xml.append:15943
 msgid ""
@@ -1598,7 +1655,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15945
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15946
 msgid ""
@@ -1618,7 +1675,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15953
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15954
 msgid ""
@@ -1638,7 +1695,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15961
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15962
 msgid ""
@@ -1658,7 +1715,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15969
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15970
 msgid ""
@@ -1678,7 +1735,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15977
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15978
 msgid ""
@@ -1698,7 +1755,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15986
 msgid ""
@@ -1718,7 +1775,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15994
 msgid ""
@@ -1738,7 +1795,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:16001
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16002
 msgid ""
@@ -1758,7 +1815,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:16009
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16010
 msgid ""
@@ -1779,7 +1836,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16018
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16019
 msgid ""
@@ -1803,7 +1860,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:16027
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16028
 msgid ""
@@ -1837,7 +1894,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16047
 msgid ""
@@ -1866,7 +1923,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16059
 msgid ""
@@ -1895,7 +1952,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
@@ -1919,7 +1976,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16079
 msgid ""
@@ -1943,7 +2000,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16089
 msgid ""
@@ -1967,4 +2024,4 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
