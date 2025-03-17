@@ -1,394 +1,597 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_mechanicalxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_mechanical.xml.append:27
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOAD_DEATH_TIMER\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le temps qu'il vous reste dans ce royaume..."
 
 #: src-en/data/events_special_mechanical.xml.append:40
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_CHARGE_INITIAL\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Préparation des perturbateurs"
 
 #: src-en/data/events_special_mechanical.xml.append:48
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Rechargement du perturbateur"
 
 #: src-en/data/events_special_mechanical.xml.append:53
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Perturbateur actif"
 
 #: src-en/data/events_special_mechanical.xml.append:67
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/text"
-msgstr ""
+msgstr "ENFONCER"
 
 #: src-en/data/events_special_mechanical.xml.append:69
+#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/tooltip"
-msgstr ""
+msgstr "Appuyer pour enfoncer"
 
 #: src-en/data/events_special_mechanical.xml.append:70
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/inactiveTooltip"
-msgstr ""
+msgstr "Inactif"
 
 #: src-en/data/events_special_mechanical.xml.append:87
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_LANIUS_SURGE_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Charge de Surtension !"
 
 #: src-en/data/events_special_mechanical.xml.append:98
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/tooltip"
-msgstr ""
+msgstr "Tirer une salve de tous vos flaks équipés."
 
 #: src-en/data/events_special_mechanical.xml.append:99
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/inactiveTooltip"
-msgstr ""
+msgstr "Indisponible : Déjà tiré."
 
 #: src-en/data/events_special_mechanical.xml.append:1305
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_TUCO_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Mélanger les cartes"
 
 #: src-en/data/events_special_mechanical.xml.append:1315
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/text"
-msgstr ""
+msgstr "CARTES (EN COURS)"
 
 #: src-en/data/events_special_mechanical.xml.append:1317
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/tooltip"
-msgstr ""
+msgstr "Tirer une carte (EN COURS)"
 
 #: src-en/data/events_special_mechanical.xml.append:1318
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/inactiveTooltip"
-msgstr ""
+msgstr "Inactif"
 
 #: src-en/data/events_special_mechanical.xml.append:1333
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
 msgstr ""
+"Vous retournez la carte pour révéler un éclair blanc qui s’estompe, laissant "
+"apparaître un cube gravé de vert, dont les facettes semblent se réarranger "
+"au rythme d’une mélodie distordue, comme si elles dansaient. Autour, des "
+"êtres de toutes espèces, vêtus de tenues d’érudits, observent avec "
+"fascination. Alors que le cube commence à se déplier, il dévoile une masse "
+"tourbillonnante d’énergie blanche brûlante, suspendue dans une bulle ; la "
+"naissance d’une nouvelle dimension. La vérité derrière le multivers, un "
+"mystère que même les Anciens n’ont jamais su percer."
 
 #: src-en/data/events_special_mechanical.xml.append:1336
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "Regarder dans ses profondeurs"
 
 #: src-en/data/events_special_mechanical.xml.append:1338
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/event/text"
 msgstr ""
+"Vous plongez votre regard dans les replis du cube, votre esprit peinant à "
+"comprendre les contorsions de l’énergie en son sein. Soudain, votre vision "
+"est submergée par des galaxies en expansion, révélant leurs étoiles, qui à "
+"leur tour dévoilent leurs planètes. Vous observez avec stupeur et "
+"émerveillement alors que la vision ralentit progressivement… pour finalement "
+"se fixer sur votre propre vaisseau, en orbite autour d’un monde voisin."
 
 #: src-en/data/events_special_mechanical.xml.append:1343
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "Examiner l'extérieur"
 
 #: src-en/data/events_special_mechanical.xml.append:1345
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/event/text"
 msgstr ""
+"Vous fixez votre regard sur l’extérieur du cube, cherchant quelque chose de "
+"reconnaissable parmi ses facettes. Les symboles ne font pas entièrement "
+"sens, mais ils vous inspirent une méthode ingénieuse pour optimiser vos "
+"moteurs."
 
 #: src-en/data/events_special_mechanical.xml.append:1353
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/text"
 msgstr ""
+"Vous retournez la carte et ne voyez rien : un vide d’encre, dénué d’étoiles, "
+"de planètes ou de lumière. La seule chose reconnaissable est le contour d’un "
+"cube, dont la forme change lentement à mesure qu’il s’ouvre. À l’intérieur, "
+"une petite galaxie tourbillonne… mais bientôt, elle bouillonne et se "
+"déchire, alors que ses étoiles, ses systèmes et finalement ses amas "
+"commencent à se désintégrer violemment. Soudain, le cube se referme "
+"brutalement, puis recommence à se métamorphoser, comme une bouche mastiquant "
+"son repas."
 
 #: src-en/data/events_special_mechanical.xml.append:1356
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "Essayer de forcer l'ouverture"
 
 #: src-en/data/events_special_mechanical.xml.append:1363
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "Attendre qu'il s'arrête de bouger"
 
 #: src-en/data/events_special_mechanical.xml.append:1371
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[3]/text"
 msgstr ""
+"Vous retournez la carte et voyez un vaisseau se posant lentement sur un "
+"monde primitif, entouré de natifs reptiliens curieux. Ils observent avec "
+"émerveillement tandis que l’équipage descend, découvrant ces nouvelles "
+"technologies mystérieuses avec une joie visible. La scène s’accélère : les "
+"contours de magnifiques tours de verre surgissent vers le ciel, des "
+"citadelles de savoir et de communication, offrant aux étudiants une maîtrise "
+"de technologies dépassant l’entendement. Finalement, la vision se termine "
+"sur un vaisseau unique, piloté par un équipage mêlant lézards et limaces, s’"
+"élançant vers les étoiles."
 
 #: src-en/data/events_special_mechanical.xml.append:1375
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[4]/text"
 msgstr ""
+"Vous retournez la carte et découvrez un atelier lugubre, rempli de lézards "
+"épuisés, sous la surveillance d’une limace à l’air misérable. Ils s’"
+"affairent machinalement à leurs tâches, poussant des caisses marquées sur un "
+"tapis roulant, la tête basse. Aucun d’eux n’ose croiser le regard des "
+"autres, de peur d’attirer l’attention de leur surveillant. L’un des lézards, "
+"cependant, dessine discrètement un schéma, le dissimulant du mieux qu’il "
+"peut. Mais soudain, la limace pointe un doigt vers lui, exigeant de lui "
+"parler. Au loin, un sas s’ouvre, puis se referme. L’atelier retombe dans un "
+"silence accablant."
 
 #: src-en/data/events_special_mechanical.xml.append:1379
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[5]/text"
 msgstr ""
+"Vous retournez la carte et voyez un scientifique Coquille, plongé dans une "
+"profonde réflexion alors qu’il étudie les notes étalées devant lui. La porte "
+"de son bureau est grande ouverte, et peu à peu, des jeunes de toutes espèces "
+"entrent un à un, chacun portant une question sur le bout des lèvres. Le "
+"scientifique leur adresse un sourire bienveillant, répondant avec précision "
+"et patience à chaque interrogation. L’un après l’autre, les élèves "
+"repartent, les yeux emplis de compréhension et d’émerveillement."
 
 #: src-en/data/events_special_mechanical.xml.append:1383
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[6]/text"
 msgstr ""
+"Vous retournez la carte et découvrez un laboratoire sombre et délabré, où d’"
+"étranges masses informes se meuvent lentement dans des cuves plongées dans l’"
+"ombre. Un scientifique Coquille les observe avec une intensité fiévreuse, "
+"griffonnant des notes à toute vitesse et murmurant pour lui-même. Ses "
+"collègues, inquiets, le regardent en silence. Soudain, les lumières "
+"vacillent, révélant la silhouette émaciée du scientifique. Il tremble "
+"légèrement, ses yeux creusés et agités, mais fermement rivés sur les cuves "
+"devant lui."
 
 #: src-en/data/events_special_mechanical.xml.append:1387
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[7]/text"
 msgstr ""
+"Vous retournez la carte et voyez un vaisseau Lanius, brillant d’une lueur "
+"vive et rose, se poser en douceur sur un monde verdoyant. Une foule d’"
+"Orchidées observe en silence alors que le capitaine Lanius descend de son "
+"vaisseau. Soudain, un Chef Orchidée s’avance à grands pas et, sans un mot, "
+"lui tend un cadeau. Le Lanius l’accepte, déclenchant un tonnerre d’"
+"acclamations de la part de la foule."
 
 #: src-en/data/events_special_mechanical.xml.append:1391
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[8]/text"
 msgstr ""
+"Vous retournez la carte et découvrez un soleil déchaîné, projetant d’"
+"immenses flammes ardentes dans le vide. Tout près, une épave désolée orbite "
+"à basse altitude, minuscule face aux éruptions solaires titanesques. "
+"Soudain, un étrange vaisseau Lanius, pulsant d’une lueur rose, s’approche "
+"prudemment… mais en un instant, une vague de flammes le dévore entièrement."
 
 #: src-en/data/events_special_mechanical.xml.append:1395
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[9]/text"
 msgstr ""
+"Vous retournez la carte et découvrez la Fédération de l’Univers 0, célébrant "
+"une grande victoire sur la rébellion. La paix a été conclue entre les deux "
+"factions, et l’Amiral Vance, autrefois chef de la flotte rebelle, se tient "
+"aux côtés de l’Amiral — désormais Président — Tully. En orbite planétaire, l’"
+"ancien Vaisseau-Amiral Rebelle flotte majestueusement, entièrement réaménagé "
+"et repeint dans un nouveau schéma de couleurs : argent, bleu et noir. Sur sa "
+"coque brille un insigne unifié, fusion des identités rebelle et fédérale."
 
 #: src-en/data/events_special_mechanical.xml.append:1399
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[10]/text"
 msgstr ""
+"Vous retournez la carte et découvrez un champ de ruines, un cimetière "
+"silencieux de vaisseaux brisés et de cadavres figés dans le vide. En "
+"contrebas, une planète fissurée, jadis bastion de la Fédération, témoigne d’"
+"une destruction absolue. En orbite, le vaisseau amiral MFK Ace trône "
+"fièrement, irradiant une puissance écrasante. Un immense laser, dont la "
+"conception rappelle dangereusement la technologie Zulfiqar, domine sa coque, "
+"visiblement agrandi pour sceller le destin de ses ennemis. Sur le pont d’"
+"observation, l’Amiral Vance observe son œuvre, le regard impassible. Il a l’"
+"air d’un homme ayant conquis un empire."
 
 #: src-en/data/events_special_mechanical.xml.append:1403
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[11]/text"
 msgstr ""
+"Vous retournez la carte pour révéler le Grand Œil, se tordant de manière à "
+"sembler offrir des aperçus d'autres réalités ; Des pots remplis de pierres "
+"précieuses rares, une planète océan grouillant de léviathans, le secteur Sol "
+"ravagé par des êtres de métal, des clones et des corporations. L'Œil semble "
+"vous regarder en retour et cligne, brillant de toutes les couleurs d'un "
+"lever de soleil à minuit."
 
 #: src-en/data/events_special_mechanical.xml.append:1407
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[12]/text"
 msgstr ""
+"Vous retournez la carte pour révéler une scène cataclysmique, le Grand Œil "
+"tourbillonnant d'énergies noires et de couleurs que l'on ne peut décrire que "
+"comme haineuses et répulsives. L'Œil se déforme rapidement, cherchant la "
+"source de sa fureur, puis croise votre regard. Un frisson glacé commence à "
+"remonter le long de votre colonne vertébrale alors qu'il vous fixe sans "
+"ciller, vous vouant à toutes les infortunes de ce multivers et du suivant."
 
 #: src-en/data/events_special_mechanical.xml.append:1411
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[13]/text"
 msgstr ""
+"Vous retournez la carte pour révéler une Limace encapuchonnée aux côtés "
+"d'une imposante figure de sel. Ils entrent ensemble dans une taverne, où "
+"résonnent bavardages et éclats de voix. La Limace conduit son compagnon dans "
+"une pièce isolée, où ils s’installent à une table. D’un geste fluide, la "
+"Limace sort un jeu de cartes de sa robe. L’image s’estompe lentement, "
+"laissant entrevoir un sourire partagé, tandis que la Limace distribue une "
+"main à chacun."
 
 #: src-en/data/events_special_mechanical.xml.append:1415
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[14]/text"
 msgstr ""
+"Vous retournez la carte pour révéler un vaisseau d’un blanc cristallin. Une "
+"Limace glisse le long de la rampe pour accueillir son capitaine, qui lui "
+"rend son sourire. Ils parcourent ensemble les couloirs du vaisseau, jusqu’à "
+"ce que la Limace trébuche et s’effondre au sol, tremblante. Son compagnon "
+"tend la main pour l’aider, mais dès le contact, un sifflement grotesque "
+"retentit alors que la chair semble brûler."
 
 #: src-en/data/events_special_mechanical.xml.append:1419
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[15]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1423
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[16]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1427
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[17]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1431
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[18]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1435
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[19]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1439
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[20]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1443
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[21]/text"
 msgstr ""
+"Vous retournez la carte au son des machines à sous, révélant un luxueux "
+"croiseur interstellaire avec Pas-si-gros Tony Sr à la barre, couvert d’or et "
+"de bijoux. Le vaisseau arbore le logo de Hektar, à moitié effacé, remplacé "
+"par le visage de Tony qui recouvre une grande partie de la coque, affichant "
+"un sourire éclatant, ses dents incrustées de pierres précieuses et de "
+"métaux. Le spectacle est diffusé aux quatre coins de la galaxie, traduit "
+"dans chaque dialecte imaginable. L’attention se porte tout particulièrement "
+"sur une Limace jaune et ronde, en difficulté à la proue du vaisseau, où elle "
+"est solidement attachée."
 
 #: src-en/data/events_special_mechanical.xml.append:1447
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[22]/text"
 msgstr ""
+"Vous retournez la carte pour révéler une station spatiale abandonnée, "
+"solitaire, une section pendante, comme si elle avait été frappée par un "
+"marteau géant. Dans le dernier espace encore respirable, une seule sangsue d’"
+"un blanc spectral demeure, entourée de bouteilles vides et d’un blaster. "
+"Autour de lui, un cercle de drones Hektar, prêts à ouvrir le feu s’il tente "
+"de fuir son tombeau. Mais la seule chose que la Sangsue affaissée parvient à "
+"faire, c’est lever lentement le blaster vers sa propre gorge. Il appuie sur "
+"la détente… mettant fin à son calvaire. Mais son corps est immédiatement "
+"recraché par une cuve de clonage suspendue au plafond. Allongé au sol, "
+"haletant et tremblant, il ramasse à nouveau le blaster."
 
 #: src-en/data/events_special_mechanical.xml.append:1451
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[23]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1455
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[24]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1459
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[25]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1463
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[26]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1467
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[27]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1471
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[28]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1475
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[29]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1479
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[30]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1483
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[31]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1487
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[32]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1491
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[33]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1495
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[34]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1499
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[35]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1503
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[36]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1507
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[37]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1511
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[38]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1515
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[39]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1519
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[40]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1523
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[41]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1527
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[42]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1531
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[43]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1535
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[44]/text"
-msgstr ""
+msgstr "Je regarde votre radiographie, et j’ai bien peur que… VOUS CRAIGNIEZ !"
 
 #: src-en/data/events_special_mechanical.xml.append:1556
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_BLESSING_KILLCOUNT_INCREMENT\"]/text"
 msgstr ""
+"Une victoire efficace et brutale. Vos bienfaiteurs sont sans doute "
+"satisfaits de votre travail. (1 rage gagnée)"
 
 #: src-en/data/events_special_mechanical.xml.append:1599
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[1]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble - un grondement résonne à l'intérieur, et vous sentez la "
+"myriade de fantômes qui se trouvent à l'intérieur de ce lieu inconnaissable "
+"ronronner d'approbation. Dans un tourbillon de gaz chuchotés, un Fantôme se "
+"rassemble devant vous, prêt à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1606
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[2]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble - un grondement résonne à l'intérieur, et vous sentez la "
+"myriade de fantômes qui se trouvent à l'intérieur de ce lieu inconnaissable "
+"ronronner d'approbation. Dans un tourbillon de gaz et un violent crépitement "
+"d'énergie, un Spectres se rassemble devant vous, prêt à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1613
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[3]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble - un grondement résonne à l'intérieur, et vous sentez la "
+"myriade de fantômes qui se trouvent à l'intérieur de ce lieu inconnaissable "
+"ronronner d'approbation. Dans un tourbillon de gaz chuchotant et dans le "
+"chatoiement de la chaleur qui envahit votre environnement, une Goule se "
+"forme devant vous, prête à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1620
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[4]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble - un grondement résonne à l'intérieur, et vous sentez la "
+"myriade de fantômes qui se trouvent à l'intérieur de ce lieu inconnaissable "
+"ronronner d'approbation. Dans un bruit sourd de gaz en mouvement qui fait "
+"légèrement trembler votre coque, un Cauchemar se forme devant vous, prêt à "
+"servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1627
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[5]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble violemment - un grondement résonne à l'intérieur, plus fort "
+"que d'habitude, et vous sentez la présence d'une entité plus puissante, "
+"issue de son intérieur inconnaissable, qui ronronne d'approbation. Dans un "
+"déluge de gaz blancs agités, un Esprit Alpha se rassemble devant vous, prêt "
+"à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1634
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[6]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble violemment - un grondement résonne à l'intérieur, plus fort "
+"que d'habitude, et vous sentez la présence d'une entité plus puissante, "
+"issue de son intérieur inconnaissable, qui ronronne d'approbation. Dans un "
+"sifflement violent et acide, une Cauchemar Alpha se forme devant vous, prête "
+"à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1642
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[7]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble violemment - un grondement résonne à l'intérieur, plus fort "
+"que d'habitude, et vous sentez la présence d'une entité plus puissante, "
+"issue de son intérieur inconnaissable, qui ronronne d'approbation. La pièce "
+"fume de manière inquiétante, tandis qu'une Goule Alpha se rassemble devant "
+"vous, prête à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1649
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[8]/text"
 msgstr ""
+"Alors que la dernière étincelle de puissance du vaisseau adverse s'éteint, "
+"le Frigo tremble violemment - un grondement résonne à l'intérieur, plus fort "
+"que d'habitude, et vous sentez la présence d'une entité plus puissante, "
+"issue de son intérieur inconnaissable, qui ronronne d'approbation. Un éclair "
+"d'électricité s'abat sur la coque de votre vaisseau tandis qu'un Spectre "
+"Alpha se rassemble devant vous, prêt à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1656
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[9]/text"
 msgstr ""
+"Alors que la dernière étincelle d'énergie du vaisseau adverse s'éteint, le "
+"Fridge tremble de manière incontrôlée - un hurlement retentit, faisant "
+"trembler le vaisseau de manière menaçante. Un horrible sentiment d'amusement "
+"émane de ses murs. Les hurlements s'éteignent lentement et l'une des "
+"Hanteurs se rassemble devant vous, prête à vous servir."
 
 #: src-en/data/events_special_mechanical.xml.append:1664
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[10]/text"
 msgstr ""
+"Alors que la dernière étincelle d'énergie du vaisseau adverse s'éteint, le "
+"Fridge se fissure presque en heurtant la coque du vaisseau - un cri perçant "
+"s'échappe de l'intérieur, vous faisant vaciller. Le vide lumineux de "
+"l'extérieur, ou peut-être seulement votre vision, s'estompe légèrement. Un "
+"magnifique fantôme vêtu d'une armure se forme élégamment devant vous, une "
+"sorte de version du Roi Esprit lui-même. Il s'agenouille devant vous... Prêt "
+"à servir."
 
 #: src-en/data/events_special_mechanical.xml.append:2028
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OVERCHARMED_MESSAGE\"]/text"
 msgstr ""
+"Alors que vous finissez d'installer vos modules, vous remarquez que vous "
+"avez dépassé la limite structurelle de la coque modulaire, ce qui a provoqué "
+"une instabilité. Il semble qu'à cause de cela, elle soit devenue très "
+"sujette à l'explosion. Espérons que cela ne vous gênera pas trop."
 
 #: src-en/data/events_special_mechanical.xml.append:2046
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON\"]/tooltip"
-msgstr ""
+msgstr "Déferlante de flak amusante !"
 
 #: src-en/data/events_special_mechanical.xml.append:2047
 msgid ""
@@ -399,7 +602,7 @@ msgstr ""
 #: src-en/data/events_special_mechanical.xml.append:2063
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON2\"]/tooltip"
-msgstr ""
+msgstr "Déferlante de flak amusante 2 !"
 
 #: src-en/data/events_special_mechanical.xml.append:2064
 msgid ""
@@ -410,28 +613,29 @@ msgstr ""
 #: src-en/data/events_special_mechanical.xml.append:2080
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOL\"]/crewMember"
-msgstr ""
+msgstr "Question de compétences"
 
 #: src-en/data/events_special_mechanical.xml.append:2100
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OXYGEN_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Vous améliorez votre oxygène par la force."
 
 #: src-en/data/events_special_mechanical.xml.append:2104
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"WEAPONS_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Vous améliorez vos armes par la force."
 
 #: src-en/data/events_special_mechanical.xml.append:2108
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"SHIELDS_FORCE_UPGRADE\"]/text"
-msgstr ""
+msgstr "Vous améliorez vos boucliers par la force."
 
 #: src-en/data/events_special_mechanical.xml.append:2120
 msgid "data/events_special_mechanical.xml.append$//event[@name=\"DRAW\"]/text"
 msgstr ""
+"Vous essayez de dessiner une chose sur votre écran, au moins plus tard !"
 
 #: src-en/data/events_special_mechanical.xml.append:2124
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TOGGLE_HACK\"]/text"
-msgstr ""
+msgstr "Vous activez l'étrange commande de piratage"
