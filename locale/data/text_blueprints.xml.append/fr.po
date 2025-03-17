@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datatext_blueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
@@ -13,17 +20,19 @@ msgstr "Croiseur du Maître des Forges"
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_name\"]"
-msgstr ""
+msgstr "Cœur de magma"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_desc\"]"
 msgstr ""
+"Le croiseur bien-aimé du Maître des forges, pour les moments où il a envie "
+"de partir en vacances."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FORGEMASTER_1_unlock\"]"
-msgstr ""
+msgstr "Battre le forgeron légendaire pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
@@ -33,17 +42,21 @@ msgstr "GunBomination"
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_name\"]"
-msgstr ""
+msgstr "Arme Hydra"
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_desc\"]"
 msgstr ""
+"Un Mantis libre a sauté la partie du manuel expliquant les limitations d’"
+"utilisation des armes, a complètement explosé le budget armement et a brisé "
+"les systèmes d’armement. Heureusement, il lui restait assez de fonds pour un "
+"système de prototype de drone !"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_unlock\"]"
-msgstr ""
+msgstr "Sauver un vieil ami du forgeron d'une lourde dette."
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
@@ -53,17 +66,22 @@ msgstr "GunBomination"
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_name\"]"
-msgstr ""
+msgstr "Arme Cobra"
 
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_desc\"]"
 msgstr ""
+"Le même Mantis libre fortuné a tenté ce projet insensé une fois de plus. Il "
+"a encore surchargé les systèmes d’armement. Heureusement, il lui restait "
+"assez de fonds pour un prototype de téléporteur, et il a installé de "
+"nombreux lits à l’intérieur des armes désormais inertes du vaisseau pour "
+"loger l’équipage."
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_2_unlock\"]"
-msgstr ""
+msgstr "Aider quelques limaces à réclamer une lourde dette."
 
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
@@ -73,17 +91,21 @@ msgstr "GunBomination"
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_name\"]"
-msgstr ""
+msgstr "Arme TitanoBoa"
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_desc\"]"
 msgstr ""
+"Après l'échec de son deuxième projet, le Mantis libre fortuné a pris une "
+"cuite et a décidé que la meilleure solution était d’amener les armes "
+"directement à l’ennemi. Ce vaisseau est conçu pour des charges à grande "
+"vitesse ! Il peut attaquer physiquement le vaisseau ennemi."
 
 #: src-en/data/text_blueprints.xml.append:29
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_3_unlock\"]"
-msgstr ""
+msgstr "Déverrouiller les Gunbomination A et B."
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
@@ -93,17 +115,21 @@ msgstr "GunBomination II"
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_name\"]"
-msgstr ""
+msgstr "Arme Hydra Éveillée"
 
 #: src-en/data/text_blueprints.xml.append:33
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_desc\"]"
 msgstr ""
+"Un Mantis libre a installé des Réacteurs Éther et a remis certaines armes en "
+"état de marche ! Ce vaisseau est un véritable gâchis à réparer, mais c'est "
+"une force avec laquelle il faut compter."
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_unlock\"]"
 msgstr ""
+"Terminer le jeu avec le Gunbomination Type C pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
@@ -113,62 +139,79 @@ msgstr "GunBomination II"
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_name\"]"
-msgstr ""
+msgstr "Arme Déstituée"
 
 #: src-en/data/text_blueprints.xml.append:39
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_desc\"]"
 msgstr ""
+"Confronté à la faillite à cause de ses projets de conception de vaisseaux "
+"ratés, la banque a commencé à saisir des parties de ses vaisseaux pour "
+"rembourser son immense dette. Mais cela n’empêchera pas le Mantis libre, "
+"désormais sans le sou, de partir dans un dernier éclat de gloire !"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_2_unlock\"]"
 msgstr ""
+"Déverrouiller le Gunbomination II A et le croiseur du Maître des forges A "
+"pour débloquer ce vaisseau spécial."
 
 #: src-en/data/text_blueprints.xml.append:42
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_class\"]"
-msgstr ""
+msgstr "GunBomination III"
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_name\"]"
-msgstr ""
+msgstr "GunBom Anti-Harmonie"
 
 #: src-en/data/text_blueprints.xml.append:44
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_desc\"]"
 msgstr ""
+"Transporté jusqu'à notre époque par un véritable trou de ver, c'est la seule "
+"réalité où la dette de Winchester a été effacée grâce à un mystérieux "
+"Renégat qui l'a généreusement remboursée. Ce vaisseau provient d'un futur "
+"ravagé par l'Harmonie. Qu'est-ce qui aurait pu se passer ?"
 
 #: src-en/data/text_blueprints.xml.append:45
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FUTURE_unlock\"]"
 msgstr ""
+"Changer le cours de l'histoire en empêchant un futur conflit au niveau du "
+"multivers de se produire. J'espère que vous aurez beaucoup de ferraille !"
 
 #: src-en/data/text_blueprints.xml.append:47
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_class\"]"
-msgstr ""
+msgstr "Le croiseur d'essai Ultime"
 
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_name\"]"
-msgstr ""
+msgstr "Le vrai testeur"
 
 #: src-en/data/text_blueprints.xml.append:49
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_desc\"]"
 msgstr ""
+"Un croiseur conçu spécifiquement pour les simulations du Maître des forges, "
+"mais qui peut probablement être utilisé ailleurs aussi. Il possède tout le "
+"nécessaire pour tester correctement les choses, mais l’interface utilisateur "
+"est buguée, soyez-en conscient. POUR TOUS LES BUGS AVEC CETTE CHOSE, "
+"VEUILLEZ VOUS PLAINDRE À DIGGER, PAS À CYRUS."
 
 #: src-en/data/text_blueprints.xml.append:51
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_GUNHYDRA_ENEMY_class\"]"
-msgstr ""
+msgstr "GunBomination Ennemi"
 
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_SLUG_DEBT_COLLECT_class\"]"
-msgstr ""
+msgstr "Requin de Dette Clairvoyant"
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
@@ -188,227 +231,292 @@ msgstr "Croiseur Renégat"
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_class\"]"
-msgstr ""
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/text_blueprints.xml.append:62
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_name\"]"
-msgstr ""
+msgstr "Abîme évanescent"
 
 #: src-en/data/text_blueprints.xml.append:63
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_desc\"]"
 msgstr ""
+"Équipiers Max : 12 - Baie de clonage, Portes, Drones, Moteurs, Oxygène, "
+"Pilotage, Boucliers, Téléporteur, Armes,"
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_class\"]"
-msgstr ""
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/text_blueprints.xml.append:66
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_name\"]"
-msgstr ""
+msgstr "L'apostasie de Ripley"
 
 #: src-en/data/text_blueprints.xml.append:67
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_desc\"]"
 msgstr ""
+"Créé par un Crépusculeur avec un objectif très clair en tête : établir le "
+"record Guinness du Multivers pour le plus grand nombre de crimes de guerre "
+"en un seul combat."
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_class\"]"
-msgstr ""
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_name\"]"
-msgstr ""
+msgstr "L'aubaine de Flenser"
 
 #: src-en/data/text_blueprints.xml.append:71
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_desc\"]"
 msgstr ""
+"Ces limaces débordent de charisme lorsqu'elles vous demandent \"poliment\" "
+"de faire don de vos organes. C'est pour la bonne cause !"
 
 #: src-en/data/text_blueprints.xml.append:73
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_class\"]"
-msgstr ""
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/text_blueprints.xml.append:74
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_name\"]"
-msgstr ""
+msgstr "Nano-Guerre Intérieure"
 
 #: src-en/data/text_blueprints.xml.append:75
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_desc\"]"
 msgstr ""
+"D'innombrables nanomachines peuplent ce vaisseau. Leur fourmillement "
+"incessant leur permet de renforcer considérablement tous les membres "
+"d'équipage Engi, en augmentant leur santé, leurs dégâts, leur vitesse et "
+"leur résistance aux dangers en fonction du nombre de drones spéciaux "
+"déployés."
 
 #: src-en/data/text_blueprints.xml.append:77
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_class\"]"
-msgstr ""
+msgstr "Croiseur Renégat Déformé"
 
 #: src-en/data/text_blueprints.xml.append:78
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_name\"]"
-msgstr ""
+msgstr "Ruée Zerg"
 
 #: src-en/data/text_blueprints.xml.append:79
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_desc\"]"
 msgstr ""
+"Les Mantis ont mis le paquet sur leur téléporteur. On va bientôt être à "
+"l'étroit sur le vaisseau ennemi ! En contrepartie, les boucliers sont "
+"limités à trois bulles."
 
 #: src-en/data/text_blueprints.xml.append:81
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_class\"]"
-msgstr ""
+msgstr "Fédération des Renégats Déformés"
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_name\"]"
-msgstr ""
+msgstr "Intervention divine"
 
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_desc\"]"
 msgstr ""
+"Ce vaisseau est équipé d'un Rayon d'artillerie extrêmement puissant qui "
+"déchire les vaisseaux ennemis. Ils ont cependant oublié d'acheter un système "
+"d'armement, oups !"
 
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_class\"]"
-msgstr ""
+msgstr "Renégat Lost Sun Déformé"
 
 #: src-en/data/text_blueprints.xml.append:86
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_name\"]"
-msgstr ""
+msgstr "Déjà Mort"
 
 #: src-en/data/text_blueprints.xml.append:87
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_desc\"]"
 msgstr ""
+"Équipiers Max : 7 - Drones, moteurs, Infirmerie, contrôle mental, oxygène, "
+"pilotage, boucliers, téléporteur, armes,"
 
 #: src-en/data/text_blueprints.xml.append:89
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_class\"]"
-msgstr ""
+msgstr "Renégat Zoltan Déformé"
 
 #: src-en/data/text_blueprints.xml.append:90
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_name\"]"
-msgstr ""
+msgstr "Poing du ministère"
 
 #: src-en/data/text_blueprints.xml.append:91
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_desc\"]"
 msgstr ""
+"Les zoltans en ont assez d'être bousculés et traités comme des piles "
+"vivantes. Même s'ils n'ont pas l'expérience des gardiens de la paix, ces "
+"zoltans ont plus d'un tour dans leur sac !"
 
 #: src-en/data/text_blueprints.xml.append:93
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CLAN_unlock\"]"
 msgstr ""
+"Battre le Renégat Loubard Déformé en utilisant la disposition B du Croiseur "
+"de la Guilde pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_DUSK_unlock\"]"
 msgstr ""
+"Battre le Renégat Crépusculeur Déformé en utilisant la disposition B du "
+"Croiseur du Crépusculeur pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:95
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGI_unlock\"]"
 msgstr ""
+"Battre le Renégat Engi Déformé en utilisant la disposition en C du Croiseur "
+"Engi pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:97
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FMANTIS_unlock\"]"
 msgstr ""
+"Battre le renégat Mantis libre déformé en utilisant la disposition B du "
+"croiseur Mantis libre pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:98
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SEPPY_unlock\"]"
 msgstr ""
+"Battre le renégat séparatiste Déformé en utilisant la disposition B du "
+"croiseur séparatiste pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:99
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MANTIS_unlock\"]"
 msgstr ""
+"Battre le Renégat Mantis Déformée en utilisant la disposition B du Croiseur "
+"de la Ruche pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:101
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MONK_unlock\"]"
 msgstr ""
+"Battre le renégat moine Déformé en utilisant la disposition B du croiseur "
+"moine pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:102
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LOSTSUN_unlock\"]"
 msgstr ""
+"Battre le Renégat Lost Sun Déformé en utilisant la disposition B du Croiseur "
+"Lost Sun pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ROCK_unlock\"]"
 msgstr ""
+"Battre le Renégat Rocailleux Déformé en utilisant la configuration C du "
+"Croiseur de la Théocratie pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SLUG_unlock\"]"
 msgstr ""
+"Battre le Renégat Limace Déformé en utilisant la configuration C du croiseur "
+"de la Kleptocratie pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:106
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_STEALTH_unlock\"]"
 msgstr ""
+"Battre le renégat furtif Déformé en utilisant la disposition B du croiseur "
+"furtif pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:107
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ZOLTAN_unlock\"]"
 msgstr ""
+"Battre le Renégat Zoltan Déformé en utilisant la disposition C du croiseur "
+"du ministère pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:109
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LANIUS_unlock\"]"
 msgstr ""
+"Battre le renégat Lanius Déformé en utilisant la disposition B du croiseur "
+"Lanius pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:110
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SHELL_unlock\"]"
 msgstr ""
+"Battre le Renégat Coquille déformée en utilisant la disposition en C du "
+"Croiseur Coquille pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:111
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGINEER_unlock\"]"
 msgstr ""
+"Battre le renégat Ingénieur Déformé en utilisant la disposition B du "
+"croiseur Ingénieur pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_KESTREL_unlock\"]"
 msgstr ""
+"Battre le Renégat Kestrel Déformé en utilisant la disposition B du croiseur "
+"Kestrel pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:114
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ORCHID_unlock\"]"
 msgstr ""
+"Battre le Renégat Orchidée Déformé en utilisant la disposition B du croiseur "
+"Orchidée pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:115
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FED_unlock\"]"
 msgstr ""
+"Battre le renégat de la Fédération Déformé en utilisant la disposition B du "
+"croiseur de la Fédération pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:117
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CRYSTAL_unlock\"]"
 msgstr ""
+"Battre le Renégat Cristalien Déformé en utilisant la configuration C du "
+"Croiseur Impérial Cristalien pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:118
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_TUCO_unlock\"]"
 msgstr ""
+"Battre le renégat Tuco Déformé en utilisant la disposition B du croiseur "
+"Tuco pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:119
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LEECH_unlock\"]"
 msgstr ""
+"Battre le renégat Sangsue Déformé en utilisant la disposition en C du "
+"croiseur Sangsue pour débloquer ce vaisseau."
 
 #: src-en/data/text_blueprints.xml.append:129
 msgid ""
@@ -418,7 +526,7 @@ msgstr "Croiseur du Maître des Forges"
 #: src-en/data/text_blueprints.xml.append:131
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FALLEN_FIGHTER_class\"]"
-msgstr ""
+msgstr "Combattant déchu"
 
 #: src-en/data/text_blueprints.xml.append:133
 msgid "data/text_blueprints.xml.append$//text[@name=\"system_temporal_title\"]"
