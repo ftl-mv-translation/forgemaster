@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:19+0000\n"
+"PO-Revision-Date: 2025-03-22 11:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -831,7 +831,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:975
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_special_storage.xml.append:988
 msgid ""
@@ -949,7 +949,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
@@ -1043,7 +1043,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_special_storage.xml.append:1185
 msgid ""
@@ -1351,7 +1351,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_special_storage.xml.append:1470
 msgid ""
@@ -1571,7 +1571,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1696
 msgid ""
@@ -1597,7 +1597,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1720
 msgid ""
@@ -1623,7 +1623,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1742
 msgid ""
@@ -1663,7 +1663,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1769
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1772
 msgid ""
@@ -1703,7 +1703,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1802
 msgid ""
@@ -1743,7 +1743,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1832
 msgid ""
@@ -1794,7 +1794,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1868
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1871
 msgid ""
@@ -1845,7 +1845,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1914
 msgid ""
@@ -1871,7 +1871,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1938
 msgid ""
@@ -1897,7 +1897,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1962
 msgid ""
@@ -1923,7 +1923,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:1989
 msgid ""
@@ -1985,7 +1985,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2046
 msgid ""
@@ -2011,7 +2011,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2073
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2078
 msgid ""
@@ -2026,7 +2026,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2094
 msgid ""
@@ -2041,7 +2041,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2111
 msgid ""
@@ -2056,7 +2056,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_STUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2127
 msgid ""
@@ -2082,7 +2082,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2150
 msgid ""
@@ -2128,7 +2128,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2187
 msgid ""
@@ -2143,7 +2143,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2203
 msgid ""
@@ -2169,7 +2169,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2227
 msgid ""
@@ -2184,7 +2184,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2242
 msgid ""
@@ -2210,7 +2210,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2266
 msgid ""
@@ -2236,7 +2236,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2292
 msgid ""
@@ -2251,7 +2251,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2307
 msgid ""
@@ -2277,7 +2277,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2331
 msgid ""
@@ -2303,7 +2303,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2358
 msgid ""
@@ -2329,7 +2329,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2397
 msgid ""
@@ -2355,7 +2355,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[@req=\"FM_BEAM_MINING_3_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2424
 msgid ""
@@ -2370,7 +2370,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2442
 msgid ""
@@ -2396,7 +2396,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2466
 msgid ""
@@ -2583,7 +2583,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2650
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2656
 msgid ""
@@ -2598,7 +2598,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2666
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_EGG\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2671
 msgid ""
@@ -2613,7 +2613,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2687
 msgid ""
@@ -2639,7 +2639,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2712
 msgid ""
@@ -2654,7 +2654,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2728
 msgid ""
@@ -2680,7 +2680,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2749
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_SPECIAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2754
 msgid ""
@@ -2706,7 +2706,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2774
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ETERNITY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2779
 msgid ""
@@ -2732,7 +2732,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM_PRISM_SCATTER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2804
 msgid ""
@@ -2758,7 +2758,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2836
 msgid ""
@@ -2784,7 +2784,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2855
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2860
 msgid ""
@@ -2810,7 +2810,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2879
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2884
 msgid ""
@@ -2825,7 +2825,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2899
 msgid ""
@@ -2851,7 +2851,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2923
 msgid ""
@@ -2902,7 +2902,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_CONS\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2965
 msgid ""
@@ -2928,7 +2928,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:2992
 msgid ""
@@ -2943,7 +2943,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3011
 msgid ""
@@ -2969,7 +2969,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ADAPT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3035
 msgid ""
@@ -2995,7 +2995,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_MEGA\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3067
 msgid ""
@@ -3010,7 +3010,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
@@ -3025,7 +3025,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3092
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3097
 msgid ""
@@ -3040,7 +3040,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3112
 msgid ""
@@ -3066,7 +3066,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_AETHER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3138
 msgid ""
@@ -3092,7 +3092,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_CURSED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3161
 msgid ""
@@ -3118,7 +3118,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3185
 msgid ""
@@ -3133,7 +3133,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3200
 msgid ""
@@ -3169,7 +3169,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3236
 msgid ""
@@ -3184,7 +3184,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3255
 msgid ""
@@ -3214,7 +3214,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3285
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3293
 msgid ""
@@ -3229,7 +3229,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3312
 msgid ""
@@ -3244,7 +3244,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3331
 msgid ""
@@ -3259,7 +3259,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3350
 msgid ""
@@ -3274,7 +3274,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3369
 msgid ""
@@ -3289,7 +3289,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3388
 msgid ""
@@ -3304,7 +3304,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3407
 msgid ""
@@ -3319,7 +3319,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3426
 msgid ""
@@ -3334,7 +3334,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3445
 msgid ""
@@ -3349,7 +3349,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3464
 msgid ""
@@ -3364,7 +3364,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3475
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3483
 msgid ""
@@ -3379,7 +3379,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3502
 msgid ""
@@ -3394,7 +3394,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"BOMB_LOCK\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3521
 msgid ""
@@ -3419,7 +3419,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3545
 msgid ""
@@ -3434,7 +3434,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3556
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3564
 msgid ""
@@ -3464,7 +3464,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3594
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3602
 msgid ""
@@ -3479,7 +3479,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
@@ -3494,7 +3494,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3640
 msgid ""
@@ -3509,7 +3509,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3659
 msgid ""
@@ -3524,7 +3524,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3678
 msgid ""
@@ -3539,7 +3539,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3697
 msgid ""
@@ -3554,7 +3554,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3708
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3716
 msgid ""
@@ -3569,7 +3569,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3727
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3735
 msgid ""
@@ -3584,7 +3584,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3746
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3754
 msgid ""
@@ -3599,7 +3599,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3773
 msgid ""
@@ -3614,7 +3614,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3784
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3792
 msgid ""
@@ -3629,7 +3629,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3803
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3811
 msgid ""
@@ -3644,7 +3644,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3822
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"BOMB_LOCK\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3830
 msgid ""
@@ -3676,7 +3676,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_MEGA_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3872
 msgid ""
@@ -3691,7 +3691,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3887
 msgid ""
@@ -3706,7 +3706,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS_TYPE2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3902
 msgid ""
@@ -3721,7 +3721,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3912
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3917
 msgid ""
@@ -3747,7 +3747,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_MEGA\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3941
 msgid ""
@@ -3762,7 +3762,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3956
 msgid ""
@@ -3777,7 +3777,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3971
 msgid ""
@@ -3792,7 +3792,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:3986
 msgid ""
@@ -3818,7 +3818,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4010
 msgid ""
@@ -3844,7 +3844,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4029
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_BIO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4034
 msgid ""
@@ -3870,7 +3870,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMBLAUNCHER_HULL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4058
 msgid ""
@@ -3896,7 +3896,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MINELAUNCHER_BIO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4082
 msgid ""
@@ -3922,7 +3922,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_MISSILES\"]/choice[@req=\"FM_ION_MISSILES_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4106
 msgid ""
@@ -3948,7 +3948,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4133
 msgid ""
@@ -3963,7 +3963,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4151
 msgid ""
@@ -3991,7 +3991,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"4\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4177
 msgid ""
@@ -4009,7 +4009,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"3\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4198
 msgid ""
@@ -4027,7 +4027,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4218
 msgid ""
@@ -4054,7 +4054,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_MAMMOTH_CANNON\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4243
 msgid ""
@@ -4080,7 +4080,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4276
 #, fuzzy
@@ -4101,7 +4101,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4295
 #, fuzzy
@@ -4122,7 +4122,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4314
 #, fuzzy
@@ -4143,7 +4143,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4334
 #, fuzzy
@@ -4164,7 +4164,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4350
 msgid ""
@@ -4179,7 +4179,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4363
 msgid ""
@@ -4194,7 +4194,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4376
 msgid ""
@@ -4209,7 +4209,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4389
 msgid ""
@@ -4235,7 +4235,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4414
 #, fuzzy
@@ -4256,7 +4256,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4433
 #, fuzzy
@@ -4277,7 +4277,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4452
 #, fuzzy
@@ -4298,7 +4298,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4471
 #, fuzzy
@@ -4319,7 +4319,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4490
 #, fuzzy
@@ -4340,7 +4340,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\"]/event/text"
-msgstr ""
+msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4509
 #, fuzzy
@@ -4798,7 +4798,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4920
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:4923
 msgid ""
@@ -4823,7 +4823,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4938
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:4941
 msgid ""
@@ -4848,7 +4848,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4956
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:4959
 msgid ""
@@ -4873,7 +4873,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[4]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:4977
 msgid ""
@@ -4908,7 +4908,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5004
 msgid ""
@@ -4933,7 +4933,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5022
 msgid ""
@@ -4958,7 +4958,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5040
 msgid ""
@@ -4983,7 +4983,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[4]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5058
 msgid ""
@@ -5018,7 +5018,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5082
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5085
 msgid ""
@@ -5043,7 +5043,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5103
 msgid ""
@@ -5068,7 +5068,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5121
 msgid ""
@@ -5093,7 +5093,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[4]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5139
 msgid ""
@@ -5128,7 +5128,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5166
 msgid ""
@@ -5153,7 +5153,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5184
 msgid ""
@@ -5178,7 +5178,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5202
 msgid ""
@@ -5203,7 +5203,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[4]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5220
 msgid ""
@@ -5238,7 +5238,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5247
 msgid ""
@@ -5263,7 +5263,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5265
 msgid ""
@@ -5288,7 +5288,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5283
 msgid ""
@@ -5313,7 +5313,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[4]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5301
 msgid ""
@@ -5398,7 +5398,7 @@ msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 #: src-en/data/events_special_storage.xml.append:5366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_COMBAT2_LASER_PLAYER\"]/choice[1]/text"
-msgstr "Mettre le drone en mode Rayon."
+msgstr "Régler le drone en mode Rayon."
 
 #: src-en/data/events_special_storage.xml.append:5368
 msgid ""
@@ -5473,7 +5473,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5429
 msgid ""
@@ -5498,7 +5498,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5447
 msgid ""
@@ -5523,7 +5523,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5465
 msgid ""
@@ -5558,7 +5558,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5492
 msgid ""
@@ -5583,7 +5583,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5510
 msgid ""
@@ -5608,7 +5608,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5525
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5528
 msgid ""
@@ -5643,7 +5643,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5555
 msgid ""
@@ -5668,7 +5668,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5573
 msgid ""
@@ -5693,7 +5693,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5591
 msgid ""
@@ -5728,7 +5728,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5615
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[1]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5618
 msgid ""
@@ -5753,7 +5753,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5633
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[2]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5636
 msgid ""
@@ -5778,7 +5778,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[3]/event/text"
-msgstr "Vous commencer à calibrer votre arme..."
+msgstr "Vous commencez à calibrer votre arme..."
 
 #: src-en/data/events_special_storage.xml.append:5654
 msgid ""
@@ -5808,7 +5808,7 @@ msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 #: src-en/data/events_special_storage.xml.append:5677
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_ENERGY_COMBAT_PINPOINT1\"]/choice[1]/text"
-msgstr "Mettre le drone en mode Rayon."
+msgstr "Régler le drone en mode Rayon."
 
 #: src-en/data/events_special_storage.xml.append:5679
 msgid ""
@@ -6944,7 +6944,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[7]/text"
-msgstr ""
+msgstr "Sangsue Déformé C - Donne un émetteur étrange"
 
 #: src-en/data/events_special_storage.xml.append:6920
 msgid ""
@@ -6976,7 +6976,7 @@ msgstr "Vous avez déjà vaincu l'Orchidée Déformée."
 #: src-en/data/events_special_storage.xml.append:6942
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[11]/text"
-msgstr ""
+msgstr "Kestrel Déformée B - Un... frigo ?"
 
 #: src-en/data/events_special_storage.xml.append:6944
 msgid ""
@@ -7004,7 +7004,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[13]/text"
-msgstr ""
+msgstr "Orchidée Déformé C - Donne quelques amis."
 
 #: src-en/data/events_special_storage.xml.append:6964
 msgid ""
@@ -7156,7 +7156,7 @@ msgstr "Vous avez déjà battu le Lost Sun déformé."
 #: src-en/data/events_special_storage.xml.append:7108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[29]/text"
-msgstr ""
+msgstr "Moine Déformé B - Donne des boucliers d'ascension d'éther"
 
 #: src-en/data/events_special_storage.xml.append:7110
 msgid ""
@@ -7230,7 +7230,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7162
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[36]/text"
-msgstr ""
+msgstr "Séparatiste Déformé B - Donne Magatama"
 
 #: src-en/data/events_special_storage.xml.append:7164
 msgid ""
@@ -7244,7 +7244,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[37]/text"
-msgstr ""
+msgstr "Mantis Déformé B - Donne l'accélérateur de phéromones"
 
 #: src-en/data/events_special_storage.xml.append:7174
 msgid ""
@@ -7276,7 +7276,7 @@ msgstr "Vous avez déjà battu l'Engi Déformé."
 #: src-en/data/events_special_storage.xml.append:7196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[41]/text"
-msgstr ""
+msgstr "Loubard Déformé B - Donne l'Obscurcisseur d'Esprit"
 
 #: src-en/data/events_special_storage.xml.append:7198
 msgid ""
@@ -7290,7 +7290,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[42]/text"
-msgstr ""
+msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule."
 
 #: src-en/data/events_special_storage.xml.append:7208
 msgid ""
@@ -7304,7 +7304,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[43]/text"
-msgstr ""
+msgstr "Engi Déformé C - Donne Amplificateur de Drone \"Kai\""
 
 #: src-en/data/events_special_storage.xml.append:7218
 msgid ""
@@ -7332,7 +7332,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_2\"]/text"
-msgstr ""
+msgstr "Séparatiste Déformé B - Donne Magatama"
 
 #: src-en/data/events_special_storage.xml.append:7239
 msgid ""
@@ -7346,7 +7346,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_3\"]/text"
-msgstr ""
+msgstr "Mantis Déformé B - Donne l'accélérateur de phéromones"
 
 #: src-en/data/events_special_storage.xml.append:7249
 msgid ""
@@ -7360,7 +7360,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_1\"]/text"
-msgstr ""
+msgstr "Moine Déformé B - Donne des boucliers d'ascension d'éther"
 
 #: src-en/data/events_special_storage.xml.append:7259
 msgid ""
@@ -7374,7 +7374,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_2\"]/text"
-msgstr ""
+msgstr "Rocailleux Déformé C - Donne la Relique de liberté des Rocailleux"
 
 #: src-en/data/events_special_storage.xml.append:7269
 msgid ""
@@ -7486,7 +7486,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7347
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_1\"]/text"
-msgstr ""
+msgstr "Kestrel Déformée B - Un... frigo ?"
 
 #: src-en/data/events_special_storage.xml.append:7349
 msgid ""
@@ -7514,7 +7514,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_3\"]/text"
-msgstr ""
+msgstr "Orchidée Déformé C - Donne quelques amis."
 
 #: src-en/data/events_special_storage.xml.append:7369
 msgid ""
@@ -7556,7 +7556,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7397
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_3\"]/text"
-msgstr ""
+msgstr "Sangsue Déformé C - Donne un émetteur étrange"
 
 #: src-en/data/events_special_storage.xml.append:7399
 msgid ""
@@ -7570,7 +7570,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[62]/text"
-msgstr ""
+msgstr "Loubard Déformé B - Donne l'Obscurcisseur d'Esprit"
 
 #: src-en/data/events_special_storage.xml.append:7411
 msgid ""
@@ -7584,7 +7584,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[63]/text"
-msgstr ""
+msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule."
 
 #: src-en/data/events_special_storage.xml.append:7421
 msgid ""
@@ -7598,7 +7598,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[64]/text"
-msgstr ""
+msgstr "Engi Déformé C - Donne Amplificateur de Drone \"Kai\""
 
 #: src-en/data/events_special_storage.xml.append:7431
 msgid ""
@@ -7613,6 +7613,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_ANCIENT_BOUNTY\"]/text"
 msgstr ""
+"Êtes-vous sûr de vouloir faire cela ?\n"
+"\t\t\t[Fait apparaître un marqueur de quête pour une rencontre garantie]"
 
 #: src-en/data/events_special_storage.xml.append:7451
 msgid ""
@@ -7673,7 +7675,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_LANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Un vaisseau Lanius se trouve ici."
 
 #: src-en/data/events_special_storage.xml.append:7523
 msgid ""
@@ -7704,7 +7706,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7543
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_LANIUS\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Fouiller le vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7551
 msgid ""
@@ -7775,7 +7777,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7598
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ELITELANIUS\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Inspecter le vaisseau"
 
 #: src-en/data/events_special_storage.xml.append:7606
 msgid ""
@@ -7881,7 +7883,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7681
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_AUGMENTEDLANIUS\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Inspecter le vaisseau"
 
 #: src-en/data/events_special_storage.xml.append:7689
 msgid ""
@@ -7992,7 +7994,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7766
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_OBELISK\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Inspecter le vaisseau"
 
 #: src-en/data/events_special_storage.xml.append:7774
 msgid ""
@@ -8073,7 +8075,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7831
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ROYALOBELISK\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "Inspecter le vaisseau"
 
 #: src-en/data/events_special_storage.xml.append:7839
 msgid ""
