@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"PO-Revision-Date: 2025-03-22 11:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -70,7 +70,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:104
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Les laisser partir..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:108
 msgid ""
@@ -95,7 +95,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:123
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Les laisser partir..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:129
 msgid ""
@@ -110,7 +110,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:133
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Les laisser partir..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:139
 msgid ""
@@ -125,7 +125,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:143
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Les laisser partir..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:150
 msgid ""
@@ -145,7 +145,7 @@ msgstr "Winchester"
 #: src-en/data/events_specialfm_forgemaster.xml.append:159
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[2]/text"
-msgstr ""
+msgstr "Les laisser partir..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:167
 msgid ""
@@ -520,17 +520,17 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:611
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "C'est l'emplacement de la Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:612
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Le Maître des forges est passé par ici. Quel personnage intéressant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:613
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "C'est l'emplacement de la Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:622
 msgid ""
@@ -545,17 +545,17 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:633
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[2]/text"
-msgstr ""
+msgstr "Consulter la section \"Coque modulaire\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:640
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:645
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[4]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:652
 msgid ""
@@ -565,22 +565,24 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:658
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[6]/text"
-msgstr ""
+msgstr "Parcourir sa fière collection de reliques."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:663
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[7]/text"
-msgstr ""
+msgstr "Attaquer !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:678
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[8]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:681
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_FIRST_MEETING\"]/choice[8]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:683
 msgid ""
@@ -680,7 +682,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:752
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_NORMAL\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Ouvrer le menu Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:753
 msgid ""
@@ -696,7 +698,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:768
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_RARE\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Ouvrer le menu Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:769
 msgid ""
@@ -712,7 +714,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:785
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGEMASTER_TRADES_RARE_PLUS\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Ouvrer le menu Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:786
 msgid ""
@@ -738,7 +740,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:809
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$/dummyroot/FTL[2]/event[@name=\"FM_FORGEMASTER_TRADES_BOON\"]/eventButton[@name=\"UI_FORGEMASTER_SECOND_PROMPT\"]/tooltip"
-msgstr ""
+msgstr "Ouvrer le menu Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:810
 msgid ""
@@ -801,17 +803,17 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:895
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "C'est l'emplacement de la Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:896
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Le Maître des forges est passé par ici. Quel personnage intéressant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:897
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "C'est l'emplacement de la Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:919
 msgid ""
@@ -821,42 +823,44 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:924
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[2]/text"
-msgstr ""
+msgstr "Consulter la section \"Coque modulaire\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:931
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:936
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[4]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Parcourir sa collection de reliques. [Quête disponible!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:951
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[6]/text"
-msgstr ""
+msgstr "Parcourir sa fière collection de reliques."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:956
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[7]/text"
-msgstr ""
+msgstr "Attaquer !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:970
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[8]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:972
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[8]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:974
 msgid ""
@@ -871,47 +875,49 @@ msgstr "Ne rien faire."
 #: src-en/data/events_specialfm_forgemaster.xml.append:995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[1]/text"
-msgstr ""
+msgstr "Voir ce qu'il propose."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1000
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[2]/text"
-msgstr ""
+msgstr "Consulter la section \"Coque modulaire\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1007
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1012
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[4]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1018
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr ""
+msgstr "Parcourir sa collection de reliques. [Quête disponible!]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1025
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[6]/text"
-msgstr ""
+msgstr "Parcourir sa fière collection de reliques."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1030
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[7]/text"
-msgstr ""
+msgstr "Attaquer !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1044
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[8]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1046
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[8]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1048
 msgid ""
@@ -961,12 +967,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1088
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1093
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1098
 msgid ""
@@ -986,12 +992,14 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1112
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[7]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1114
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK\"]/choice[2]/event/choice[7]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1116
 msgid ""
@@ -1036,12 +1044,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1156
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1161
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1166
 msgid ""
@@ -1056,12 +1064,14 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1178
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1180
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[5]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1183
 msgid ""
@@ -1091,12 +1101,12 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1238
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[@req=\"FM_FORGE_LIST_CHECK\"]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1243
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[2]/text"
-msgstr ""
+msgstr "Vérifier les recettes de forge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1247
 msgid ""
@@ -1121,12 +1131,14 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1267
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[6]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1269
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[6]/event/text"
 msgstr ""
+"\"Peut-être plus tard, mon garçon ! Je suis sûr que si tu reviens avec des "
+"choses intéressantes, je pourrai te trouver quelque chose d'extraordinaire.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1273
 msgid ""
@@ -1146,13 +1158,13 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1302
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Forger une nouvelle arme, moyennant un certain prix."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1308
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[@req=\"pilot\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1310
 msgid ""
@@ -1181,7 +1193,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1334
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE\"]/choice[3]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1348
 msgid ""
@@ -1197,7 +1209,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE_NONE\"]/choice[@req=\"pilot\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1362
 msgid ""
@@ -1226,7 +1238,7 @@ msgstr "Faire quelque chose à bord du vaisseau."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1386
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_NPC_CREATE_NONE\"]/choice[3]/text"
-msgstr ""
+msgstr "Refuser sa proposition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1416
 msgid ""
@@ -1468,7 +1480,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1649
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1662
 msgid ""
@@ -1574,7 +1586,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:1747
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_ION\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1758
 msgid ""
@@ -1977,7 +1989,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:2113
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2124
 msgid ""
@@ -6188,7 +6200,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7029
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_COMBAT_DRONE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner au menu principal."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7037
 msgid ""
