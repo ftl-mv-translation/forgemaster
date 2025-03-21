@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"PO-Revision-Date: 2025-03-22 11:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -981,7 +981,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:815
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser perforant MK II contre 19 points de flak"
 
 #: src-en/data/events_flakjuice.xml:817
 msgid ""
@@ -2526,7 +2526,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2063
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chaîne-Énergie contre 14 points de flak"
 
 #: src-en/data/events_flakjuice.xml:2065
 msgid ""
