@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"PO-Revision-Date: 2025-03-22 11:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -8131,7 +8131,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18212
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DEATH_VESTS2\"]/title"
-msgstr ""
+msgstr "Vestes du Crépuscule"
 
 #: src-en/data/blueprints.xml.append:18213
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DEATH_VESTS2\"]/desc"
@@ -8275,6 +8275,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18342
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_TUCO\"]/desc"
 msgstr ""
+"Cette figurine dorée de l'édition limitée du Jardin-Casino de Tuco réchauffe "
+"l'intérieur de votre équipage. Offre une réduction de 30 % du temps de "
+"recharge des capacités actives à tous les membres de votre équipage (sauf "
+"les Mantis, les Mantis DÉTESTENT les figurines)."
 
 #: src-en/data/blueprints.xml.append:18350
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MALBORO_RED\"]/title"
@@ -8677,7 +8681,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18720
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEATH_VESTS2\"]/title"
-msgstr ""
+msgstr "Vestes du Crépuscule"
 
 #: src-en/data/blueprints.xml.append:18721
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_DEATH_VESTS2\"]/desc"
@@ -8784,6 +8788,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18813
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_GOLDEN_TUCO\"]/desc"
 msgstr ""
+"Cette figurine dorée de l'édition limitée du Jardin-Casino de Tuco réchauffe "
+"l'intérieur de votre équipage. Offre une réduction de 30 % du temps de "
+"recharge des capacités actives à tous les membres de votre équipage (sauf "
+"les Mantis, les Mantis DÉTESTENT les figurines)."
 
 #: src-en/data/blueprints.xml.append:18821
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_MALBORO_RED\"]/title"
