@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 19:47+0000\n"
+"PO-Revision-Date: 2025-03-23 21:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -570,7 +570,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2389
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/short"
-msgstr ""
+msgstr "Maître des forges"
 
 #: src-en/data/blueprints.xml.append:2394
 msgid ""
@@ -605,7 +605,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2404
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/short"
-msgstr ""
+msgstr "Maître des forges"
 
 #: src-en/data/blueprints.xml.append:2409
 msgid ""
@@ -2584,12 +2584,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/title"
-msgstr ""
+msgstr "'Désintégrateur'"
 
 #: src-en/data/blueprints.xml.append:4799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/short"
-msgstr ""
+msgstr "'Désintégrateur'"
 
 #: src-en/data/blueprints.xml.append:4801
 msgid ""
@@ -6111,12 +6111,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/title"
-msgstr ""
+msgstr "'Désintégrateur'"
 
 #: src-en/data/blueprints.xml.append:14053
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/short"
-msgstr ""
+msgstr "'Désintégrateur'"
 
 #: src-en/data/blueprints.xml.append:14055
 msgid ""
@@ -8030,7 +8030,7 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:18108
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_REGEN\"]/title"
-msgstr ""
+msgstr "Maître des forges"
 
 #: src-en/data/blueprints.xml.append:18109
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_REGEN\"]/desc"
@@ -8038,7 +8038,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18117
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_BIG\"]/title"
-msgstr ""
+msgstr "Maître des forges"
 
 #: src-en/data/blueprints.xml.append:18118
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_BIG\"]/desc"
@@ -8046,7 +8046,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18126
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_AIR\"]/title"
-msgstr ""
+msgstr "Maître des forges"
 
 #: src-en/data/blueprints.xml.append:18127
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_PLATED_AIR\"]/desc"
