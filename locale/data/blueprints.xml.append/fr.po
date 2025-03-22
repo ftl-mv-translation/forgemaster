@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 11:14+0000\n"
+"PO-Revision-Date: 2025-03-22 19:47+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -4749,6 +4749,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BOMB_CRYSTAL_FIRE\"]/tooltip"
 msgstr ""
+"Fait brûler tous les types d'équipage, même les Rocailleux. Tous les membres "
+"d'équipage touchés subissent 1,75x les dégâts du feu et éteignent les "
+"incendies 70% plus lentement. Pendant 15 secondes."
 
 #: src-en/data/blueprints.xml.append:10971
 msgid ""
