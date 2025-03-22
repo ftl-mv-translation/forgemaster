@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 09:13+0000\n"
+"PO-Revision-Date: 2025-03-23 21:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_harmonyxmlappend/fr/>\n"
@@ -125,21 +125,21 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
-"(Hellfire) Que la fête commence ! Ça leur apprendra à ces fainéants. [Coût :"
-" 2}]]"
+"(Feu Infernal) Que la fête commence ! Ça leur apprendra à ces fainéants. ["
+"Coût : 2}]]"
 
 #: src-en/data/events_sector_harmony.xml.append:94
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Tirer les missiles Hellfire."
+msgstr "Tirer les missiles Feu Infernal."
 
 #: src-en/data/events_sector_harmony.xml.append:101
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vos missiles Hellfire anéantissent le vaisseau sans résistance, et vous "
+"Vos missiles Feu Infernal anéantissent le vaisseau sans résistance, et vous "
 "récupérez votre délicieux butin."
 
 #: src-en/data/events_sector_harmony.xml.append:103
@@ -592,21 +592,21 @@ msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
-"(Hellfire) Que la fête commence ! Ça leur apprendra à ces fainéants. [Coût :"
-" 2}]]"
+"(Feu Infernal) Que la fête commence ! Ça leur apprendra à ces fainéants. ["
+"Coût : 2}]]"
 
 #: src-en/data/events_sector_harmony.xml.append:894
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Tirer les missiles Hellfire."
+msgstr "Tirer les missiles Feu Infernal."
 
 #: src-en/data/events_sector_harmony.xml.append:901
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vos missiles Hellfire anéantissent le vaisseau sans résistance, et vous "
+"Vos missiles Feu Infernal anéantissent le vaisseau sans résistance, et vous "
 "récupérez votre délicieux butin."
 
 #: src-en/data/events_sector_harmony.xml.append:903
