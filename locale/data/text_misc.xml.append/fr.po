@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-22 19:47+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datatext_miscxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_forgemaster\"]"
@@ -26,54 +33,103 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:36
 msgid "data/text_misc.xml.append$//text[@name=\"bomb_biohazard\"]"
 msgstr ""
+"Cette bombe empêche l'équipage touché de se soigner à partir des "
+"infirmeries, ou d'être réanimé par les baies de clonage. Pendant 30 "
+"secondes. Les armes à radiations infligent de lourds dégâts à l'équipage, "
+"ont des chances mineures d'ouvrir une brèche et affaiblissent l'équipage "
+"ennemi. Les ennemis touchés se déplacent et se soignent 66% plus lentement, "
+"et sont étourdis 75% plus longtemps."
 
 #: src-en/data/text_misc.xml.append:37
 msgid "data/text_misc.xml.append$//text[@name=\"bomb_crime\"]"
 msgstr ""
+"Fait brûler tous les types d'équipage, même les Rocailleux. Tous les membres "
+"d'équipage touchés subissent 1,75x les dégâts du feu et éteignent les "
+"incendies 70% plus lentement. Pendant 15 secondes."
 
 #: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"bomb_compactinator\"]"
 msgstr ""
+"Cette bombe extrêmement coûteuse supprime l'équipage allié touché de la base "
+"de données des emplacements d'équipage du vaisseau. En conséquence, vous "
+"pouvez avoir plus d'équipage dans votre vaisseau !\n"
+"\tDEV NOTE : N'oubliez pas que si un équipage est ajouté à votre vaisseau et "
+"que toutes les pièces sont pleines, le jeu se BLOQUERA. Idem pour les "
+"ennemis, s'il n'y a pas de place pour eux,\n"
+"\tvotre jeu se bloquera jusqu'à ce que cela soit corrigé dans hyperespace. "
+"Utilisez avec PRUDENCE et comptez vos membres d’équipage et vos salles avant "
+"usage !"
 
 #: src-en/data/text_misc.xml.append:41
 msgid "data/text_misc.xml.append$//text[@name=\"flamethrower\"]"
 msgstr ""
+"NE PERCE PAS les boucliers et ne les fait pas exploser. Tirer quand les "
+"boucliers de l'ennemi sont baissés et déchaînez l'enfer sur leur vaisseau !"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"ion_lanius\"]"
 msgstr ""
+"Tire un ion perforant qui fait perdre à l'équipage touché l'immunité à la "
+"suffocation, lui fait subir 2,5 fois plus de dégâts de suffocation et draine "
+"très lentement l'oxygène de la pièce pendant 15 secondes."
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"parazonium\"]"
 msgstr ""
+"N’utilise PAS de missiles pour tirer, mais ne peut pas tirer si vous n’avez "
+"pas assez de missiles ! Peut être amplifié lors des vérifications avant "
+"combat."
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"tip_focusenergy\"]"
 msgstr ""
+"N'inflige des dégâts d'ions que lorsqu'il touche une pièce du vaisseau "
+"ennemi, mais n'en inflige pas lorsqu'il touche les boucliers !"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
 msgstr ""
+"Les armes d’Ancalagon ont une chance de générer un dangereux Cristal d’"
+"Ancalagon. Il en existe 5 types : rouge, bleu, vert, un blanc plus rare et "
+"le plus rare de tous, le noir."
 
 #: src-en/data/text_misc.xml.append:46
 msgid "data/text_misc.xml.append$//text[@name=\"tip_gnunslung\"]"
 msgstr ""
+"Cette arme détruit 1 bouclier, inflige des dégâts de photons et applique un "
+"effet de dégâts répétés cumulable pendant 30s à l'équipage. Les armes à "
+"radiation infligent des rafales de lourds dégâts à l’équipage, ont une "
+"faible chance de provoquer une brèche et affaiblissent l’équipage ennemi. "
+"Les ennemis touchés se déplacent et réparent 66 % plus lentement et "
+"subissent un étourdissement 75 % plus long."
 
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon_drone_laser\"]"
 msgstr ""
+"10% de chances d'engendrer un dangereux Cristal d’Ancalagon. Il en existe 5 "
+"types : rouge, bleu, vert, un blanc plus rare, et le plus rare, le noir."
 
 #: src-en/data/text_misc.xml.append:48
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missiles_heavy\"]"
 msgstr ""
+"Astuce : les missiles lourds sont toujours dotés d'attributs de destruction "
+"de la coque et peuvent être utilisés pour détruire des systèmes critiques si "
+"nécessaire."
 
 #: src-en/data/text_misc.xml.append:49
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive\"]"
 msgstr ""
+"Astuce : Ces armes anti-biologique produites par la Géniocratie tirent des "
+"lasers à radiation avancés, qui corrodent lentement tout équipage touché. "
+"Plus l'arme est puissante, plus les dégâts sont importants."
 
 #: src-en/data/text_misc.xml.append:50
 msgid "data/text_misc.xml.append$//text[@name=\"tip_terminus\"]"
 msgstr ""
+"Un wyrm massif venu d'une autre dimension fonce violemment sur le vaisseau "
+"ennemi. Ignore les boucliers zoltans mais peut être pris pour cible par les "
+"drones. Paralyse l'équipage du vaisseau ennemi tout en drainant lentement sa "
+"santé à l'impact pendant 20 secondes."
 
 #: src-en/data/text_misc.xml.append:51
 msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_2\"]"
@@ -85,18 +141,38 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:54
 msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_3\"]"
 msgstr ""
+"Cet Aiguillon est suffisamment puissant pour ouvrir de multiples brèches sur "
+"les tuiles situées autour de la zone d'impact, et non pas seulement à "
+"l'endroit où le rayon touche."
 
 #: src-en/data/text_misc.xml.append:55
 msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_photon\"]"
 msgstr ""
+"Astuce : cette arme peut faire sauter les boucliers bien qu'elle n'inflige "
+"aucun dégât à la coque."
 
 #: src-en/data/text_misc.xml.append:70
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_frost_1\"]"
 msgstr ""
+"Astuce : Les lasers de givre verrouillent les salles qu’ils touchent, ce qui "
+"les rend précieux pour entraver les déplacements de l’équipage ennemi.\n"
+"\n"
+"FM : Un COMPOSANT pour forger le Laser TLALOC [40~], aux côtés de l'autre "
+"COMPOSANT, le Laser irradiant."
 
 #: src-en/data/text_misc.xml.append:74
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_bio\"]"
 msgstr ""
+"Astuce : Les armes à radiations infligent de lourds dégâts à l'équipage, ont "
+"de faibles chances d'ouvrir une brèche et affaiblissent l'équipage ennemi. "
+"Les ennemis touchés se déplacent et se réparent 66 % plus lentement et sont "
+"étourdis 75 % plus longtemps.\n"
+"\n"
+"FM : Un COMPOSANT pour forger le Laser TLALOC [40~], aux côtés de l'autre "
+"COMPOSANT Laser Givrant I.\n"
+"\n"
+"FM : Un COMPOSANT pour forger le Laser Extracteur Rebelle [40~], aux côtés "
+"de l'autre COMPOSANT Laser Lourd I."
 
 #: src-en/data/text_misc.xml.append:83
 msgid "data/text_misc.xml.append$/dummyroot/FTL/text[21]"
