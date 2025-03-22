@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 11:14+0000\n"
+"PO-Revision-Date: 2025-03-23 21:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -1756,7 +1756,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1439
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Asclépios' contre 11 points de flak"
 
 #: src-en/data/events_flakjuice.xml:1441
 msgid ""
