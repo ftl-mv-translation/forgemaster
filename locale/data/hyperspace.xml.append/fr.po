@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"PO-Revision-Date: 2025-03-26 17:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/fr/>\n"
@@ -641,102 +641,170 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[6]/tooltip"
 msgstr ""
+"DISPERSION DES NANO-TUEURS :\n"
+"\t\t\t\t\tCe vaisseau ennemi est rempli de nanobots meurtriers qui "
+"endommageront passivement votre équipage au fil du temps. Le nom donne "
+"l'impression qu'il est beaucoup plus violent qu'il ne l'est."
 
 #: src-en/data/hyperspace.xml.append:1831
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[7]/tooltip"
 msgstr ""
+"ARMURE CRISTALLINE DÉFORMÉE :\n"
+"\t\t\t\t\tChaque fois que vous infligez des dégâts de coque à cet ennemi "
+"avec vos armes, il y a 50 % de chances que 3x mines cristaliennes se "
+"détachent et volent vers votre vaisseau. Elles transperceront tous les "
+"boucliers et infligeront 1 dégât à une pièce aléatoire si elles touchent, en "
+"plus d'étourdir l'équipage et de verrouiller la pièce."
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
+"PIÈCES RÉSISTANTES, VARIANTE :\n"
+"\t\t\t\t\tCet ennemi possède une ou plusieurs salles résistantes, marquées "
+"par une bordure grise et l'icône R en haut à gauche. Les salles résistantes "
+"ne subissent NORMALEMENT aucun dégât système de la part des armes, mais "
+"peuvent être endommagées par l'équipage et les incendies. Les salles "
+"résistantes subissent les dégâts des ions et de la coque comme d'habitude.\n"
+"\t\t\t\t\tL'icône \"R\" sur la pièce du vaisseau indique ce statut, et en "
+"fonction de l'état de remplissage de l'icône, la pièce est plus susceptible "
+"de résister aux dégâts des armes."
 
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[9]/tooltip"
 msgstr ""
+"PIÈCES FORGÉES ÉNERGISÉES :\n"
+"\t\t\t\t\tCet ennemi dispose d'une ou plusieurs pièces énergisées, "
+"qu'Alastair semble avoir personnalisées. Ces pièces \"énergisées\" sont 50% "
+"plus résistantes au sabotage, et l'équipage ennemi subit 30% de dégâts en "
+"moins lorsqu'il se trouve à l'intérieur. De plus, votre équipage subit 3 "
+"dégâts par seconde dans ces pièces."
 
 #: src-en/data/hyperspace.xml.append:1850
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[10]/tooltip"
 msgstr ""
+"PHÉROMONES STIMULANTES :\n"
+"\t\t\t\t\tCe vaisseau ennemi est rempli de phéromones. Celles-ci confèrent à "
+"l'équipage 1.5x max pv, 20 % de réduction des dégâts et 80 % de résistance à "
+"l'étouffement."
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[11]/tooltip"
 msgstr ""
+"SYSTÈMES D'ALTÉRATION DE LA RÉALITÉ :\n"
+"\t\t\t\t\tCet ennemi possède une puissante panoplie d'armes et de systèmes, "
+"mais en raison de l'étirement extrême de l'espace-temps, ses systèmes et sa "
+"coque sont endommagés toutes les 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:1864
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[12]/tooltip"
 msgstr ""
+"COQUE MODULAIRE SURAMÉLIORÉE :\n"
+"\t\t\t\t\tvous ne devriez pas voir ça"
 
 #: src-en/data/hyperspace.xml.append:1869
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[13]/tooltip"
 msgstr ""
+"COLLECTEURS DE DÉRIVATION DES COMPRESSEURS :\n"
+"\t\t\t\t\tles armes ennemies se chargent 30 % plus vite, mais leurs "
+"boucliers se chargent 60 % plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1874
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
+"BARRIÈRE CYCLIQUE INFINIE :\n"
+"\t\t\t\t\t15 % de chance pour les projectiles entrants d’être détruits par "
+"les boucliers. Pour chaque barre non alimentée du système de boucliers, la "
+"chance qu’un projectile ne soit pas détruit est réduite de 15 %. De plus, +"
+"50 % de recharge des boucliers pour chaque barre non alimentée"
 
 #: src-en/data/hyperspace.xml.append:1879
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[15]/tooltip"
 msgstr ""
+"ARSENAL CYCLIQUE INFINI :\n"
+"\t\t\t\t\tLes armes ennemies se chargent 5 % plus lentement, mais se "
+"chargent 15 % plus vite pour chaque barre non alimentée du système d’armement"
 
 #: src-en/data/hyperspace.xml.append:1884
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[16]/tooltip"
 msgstr ""
+"STRUCTURE DE COQUE ÉLECTROMAGNÉTIQUE :\n"
+"\t\t\t\t\t10 % de chance de résister aux dégâts des systèmes, 30 % de chance "
+"de résister aux dégâts ioniques, vitesse de déionisation +50 %"
 
 #: src-en/data/hyperspace.xml.append:1889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
+"BOUCLIERS PARTICULARISÉS : \n"
+"\t\t\t\t\tLes boucliers ennemis se chargent 50 % plus lentement, mais ils "
+"gagnent 8 points d’intégrité supplémentaires"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[18]/tooltip"
 msgstr ""
+"CALIBREUR D'ORDONNANCE INEFFABLE :\n"
+"\t\t\t\t\tLes armes ennemies se chargent 10 % plus lentement, mais votre "
+"chance de résistance à la coque, aux systèmes et aux ions est réduite de 15 "
+"% et les attaques de brèche gagnent +40 % de chance de brèche"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[19]/tooltip"
 msgstr ""
+"ALLUMEUR D'ARMEMENT :\n"
+"\t\t\t\t\tles armes ennemies se chargent 50% plus vite mais la salle d'armes "
+"est enflammée à chaque fois qu'ils tirent"
 
 #: src-en/data/hyperspace.xml.append:1904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[20]/tooltip"
 msgstr ""
+"BROUILLEUR OFFENSIF :\n"
+"\t\t\t\t\tVOS armes se chargent 20% plus lentement mais les boucliers "
+"ennemis se rechargent 30% plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[21]/tooltip"
 msgstr ""
+"BROUILLEUR DÉFENSIF :\n"
+"\t\t\t\t\tVOS boucliers se chargent 30% plus lentement et votre système "
+"d'occultation a 5s de plus de temps de recharge"
 
 #: src-en/data/hyperspace.xml.append:1914
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[22]/tooltip"
 msgstr ""
+"SYSTÈME DE RÉPARATION D'URGENCE :\n"
+"\t\t\t\t\tCe vaisseau dispose d'une sorte de système de réparation d'urgence "
+"en cas d'avarie critique de la coque."
 
 #: src-en/data/hyperspace.xml.append:3105
 msgid ""
@@ -949,81 +1017,102 @@ msgstr "REFORGER"
 #: src-en/data/hyperspace.xml.append:5053
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 4 dommages système et 1 dommage de coque. Soigne le Plaqué "
+"pour 20 pv. Ne subit aucun dégât pendant l'exécution de la capacité."
 
 #: src-en/data/hyperspace.xml.append:5105
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/buttonText"
-msgstr ""
+msgstr "POLIR"
 
 #: src-en/data/hyperspace.xml.append:5106
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
 msgstr ""
+"Prêt :  Inflige des dommages aux ennemis pour 15pv, tout en les soignant "
+"pour 20pv. Devient insensible aux étourdissements, inflige 20% de dommages "
+"supplémentaires à distance, gagne 70% de résistance à tous les dégâts, tout "
+"en se déplaçant à 2x la vitesse pendant la durée. La pièce devient "
+"entièrement résistante aux dommages système pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:5176
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ABSORBER"
 
 #: src-en/data/hyperspace.xml.append:5177
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 15s]\n"
+"\t\t\t\t\tFusionner avec un Séparatiste Cobalt dans la même pièce pour "
+"former un Séparatiste Déformé."
 
 #: src-en/data/hyperspace.xml.append:5242
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "RENAITRE"
 
 #: src-en/data/hyperspace.xml.append:5243
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 10s]\n"
+"\t\t\t\tHé, vous devriez pas lire ça ! Foutez le camp !"
 
 #: src-en/data/hyperspace.xml.append:5285
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "TRANSFORMER"
 
 #: src-en/data/hyperspace.xml.append:5286
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20s]\n"
+"\t\t\t\tSe transforme en Séparatiste de Cobalt, inflige 1 dégât à la coque "
+"et au système, et ouvre une brèche dans la salle actuelle."
 
 #: src-en/data/hyperspace.xml.append:5311
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "Cobalt"
 
 #: src-en/data/hyperspace.xml.append:5316
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "Bronze"
 
 #: src-en/data/hyperspace.xml.append:5350
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "SÉPARER"
 
 #: src-en/data/hyperspace.xml.append:5351
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 15s]\n"
+"\t\t\t\t\tSéparer à nouveau en deux Séparatistes."
 
 #: src-en/data/hyperspace.xml.append:5357
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Cobalt"
 
 #: src-en/data/hyperspace.xml.append:5381
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/buttonText"
-msgstr ""
+msgstr "Absorber"
 
 #: src-en/data/hyperspace.xml.append:5382
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20s]\n"
+"\t\t\t\tAbsorbe tous les membres d'équipage amicaux dans la pièce, leur "
+"accordant des boosts permanents."
 
 #: src-en/data/hyperspace.xml.append:5527
 msgid ""
@@ -1033,7 +1122,7 @@ msgstr "FEU"
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Provoquer un incendie."
 
 #: src-en/data/hyperspace.xml.append:5595
 msgid ""
@@ -1043,7 +1132,7 @@ msgstr "ION"
 #: src-en/data/hyperspace.xml.append:5596
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Génère Ion et Étourdissement."
 
 #: src-en/data/hyperspace.xml.append:5662
 msgid ""
@@ -1053,17 +1142,17 @@ msgstr "BRECHE"
 #: src-en/data/hyperspace.xml.append:5663
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Génère une Brèche et inflige des dégâts à l’équipage."
 
 #: src-en/data/hyperspace.xml.append:5735
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "OMNI"
 
 #: src-en/data/hyperspace.xml.append:5736
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Inflige TOUS les effets cristallins."
 
 #: src-en/data/hyperspace.xml.append:5803
 msgid ""
@@ -1171,7 +1260,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8626
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Provoquer un incendie."
 
 #: src-en/data/hyperspace.xml.append:10349
 msgid ""
