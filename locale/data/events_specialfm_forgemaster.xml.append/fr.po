@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"PO-Revision-Date: 2025-03-26 17:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:89
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Alastair m'a demandé de l'aider..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:91
 msgid ""
@@ -50,7 +50,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:96
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/text"
-msgstr ""
+msgstr "Attendez ! J'ai une question !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:98
 msgid ""
@@ -100,7 +100,7 @@ msgstr "Les laisser partir..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:129
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Pourquoi ne pas venir avec nous ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:131
 msgid ""
@@ -130,7 +130,7 @@ msgstr "Les laisser partir..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:150
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_DIALOG\"]/choice[1]/event/choice[@req=\"unique_freddy\"]/text"
-msgstr ""
+msgstr "(Freddy) Demander à Winchester de rejoindre la cause de la Fédération."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:152
 msgid ""
@@ -155,7 +155,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:175
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"DEBTCOLLECT_KILLED\"]/choice/text"
-msgstr ""
+msgstr "Alastair m'a demandé de l'aider..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:186
 msgid ""
@@ -165,7 +165,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:189
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_DESTROY\"]/choice/text"
-msgstr ""
+msgstr "Faire le médiateur pour régler leur conflit."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:195
 msgid ""
@@ -175,7 +175,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:198
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FALLEN_KILLED\"]/choice/text"
-msgstr ""
+msgstr "Faire le médiateur pour régler leur conflit."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:204
 msgid ""
@@ -186,6 +186,8 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[1]/text"
 msgstr ""
+"Les armes ne doivent pas toujours être utilisées de manière malveillante. ("
+"Se ranger du côté de Mandelbriss)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:208
 msgid ""
@@ -195,12 +197,14 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:212
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Les remercier et partir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:218
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[2]/text"
 msgstr ""
+"Pour être fort, il ne suffit pas d'avoir de gros fusils. (Se ranger du côté "
+"de Kyriet)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:220
 msgid ""
@@ -210,7 +214,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:224
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"ARBOREAL_CHOICE\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Les remercier et partir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:233
 msgid ""
@@ -226,6 +230,8 @@ msgstr "Se rendre."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/choice[1]/event/text"
 msgstr ""
+"Alastair baisse la puissance de ses armes. \"Allez mon garçon, faisons comme "
+"si rien ne s'était passé.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:244
 msgid ""
@@ -236,6 +242,8 @@ msgstr "Nous n'abandonnons pas."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/choice[2]/event/text"
 msgstr ""
+"\"Qu'il en soit ainsi, mon garçon, alors je ne me retiendrai pas\", répond "
+"Alastair."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:252
 msgid ""
@@ -255,7 +263,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:279
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END\"]/text"
-msgstr ""
+msgstr "Le combat continue..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:282
 msgid ""
@@ -280,7 +288,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:306
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END_NOMERCY\"]/text"
-msgstr ""
+msgstr "Le combat continue..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:309
 msgid ""
@@ -290,7 +298,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:313
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_DEFAULT_END_NOMERCY\"]/choice[2]/text"
-msgstr ""
+msgstr "Il semble que la clémence ne soit plus de mise..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:319
 msgid ""
@@ -305,7 +313,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:325
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_1_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Se retirer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:328
 msgid ""
@@ -330,7 +338,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:351
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_2_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Se retirer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:354
 msgid ""
@@ -350,7 +358,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:373
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[1]/text"
-msgstr ""
+msgstr "Le terminer ici."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:376
 msgid ""
@@ -365,7 +373,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:391
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHASE_3_END\"]/choice[2]/text"
-msgstr ""
+msgstr "Poursuivre le combat..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:393
 msgid ""
@@ -415,7 +423,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:456
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Récupérer l'arme !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:460
 msgid ""
@@ -430,7 +438,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:471
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Récupérer le schéma de drone !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:475
 msgid ""
@@ -475,7 +483,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:525
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION_CREW\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Récupérer l'arme !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:529
 msgid ""
@@ -490,7 +498,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:541
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION_CREW\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Récupérer le schéma de drone !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:543
 msgid ""
@@ -520,7 +528,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:611
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement de la Maître des forges."
+msgstr "C'est l'emplacement du Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:612
 msgid ""
@@ -530,7 +538,7 @@ msgstr "Le Maître des forges est passé par ici. Quel personnage intéressant."
 #: src-en/data/events_specialfm_forgemaster.xml.append:613
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER\"]/beaconType/undiscoveredTooltip"
-msgstr "C'est l'emplacement de la Maître des forges."
+msgstr "C'est l'emplacement du Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:622
 msgid ""
@@ -803,7 +811,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:895
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement de la Maître des forges."
+msgstr "C'est l'emplacement du Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:896
 msgid ""
@@ -813,7 +821,7 @@ msgstr "Le Maître des forges est passé par ici. Quel personnage intéressant."
 #: src-en/data/events_specialfm_forgemaster.xml.append:897
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_CALL\"]/beaconType/undiscoveredTooltip"
-msgstr "C'est l'emplacement de la Maître des forges."
+msgstr "C'est l'emplacement du Maître des forges."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:919
 msgid ""
@@ -6500,566 +6508,662 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_HULL_NOPOINTS\"]/text"
 msgstr ""
+"Actuellement, 0 cran d’amélioration est utilisé. Encore 5 avant que le "
+"premier module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7364
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Actuellement, 1 cran d’amélioration est utilisé. Encore 4 avant que le "
+"premier module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7368
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Actuellement, 2 crans d’amélioration sont utilisés. Encore 3 avant que le "
+"premier module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7372
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Actuellement, 3 crans d’amélioration sont utilisés. Encore 3 avant que le "
+"premier module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7376
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Actuellement, 4 crans d’amélioration sont utilisés. Encore 1 avant que le "
+"premier module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7380
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"5\"]/text"
 msgstr ""
+"Actuellement, 5 crans d’amélioration sont utilisés. Le premier module majeur "
+"doit être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7384
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"6\"]/text"
 msgstr ""
+"Actuellement, 6 crans d’amélioration sont utilisés. Encore 4 avant que le "
+"deuxième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7388
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Actuellement, 7 crans d’amélioration sont utilisés. Encore 3 avant que le "
+"deuxième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7392
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"8\"]/text"
 msgstr ""
+"Actuellement, 8 crans d’amélioration sont utilisés. Encore 2 avant que le "
+"deuxième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7396
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"9\"]/text"
 msgstr ""
+"Actuellement, 9 crans d’amélioration sont utilisés. Encore 1 avant que le "
+"deuxième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7400
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Actuellement, 10 crans d’amélioration sont utilisés. Le deuxième module "
+"majeur doit être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7404
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"11\"]/text"
 msgstr ""
+"Actuellement, 11 crans d’amélioration sont utilisés. Encore 4 avant que le "
+"troisième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7408
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"12\"]/text"
 msgstr ""
+"Actuellement, 12 crans d’amélioration sont utilisés. Encore 3 avant que le "
+"troisième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7412
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"13\"]/text"
 msgstr ""
+"Actuellement, 13 crans d’amélioration sont utilisés. Encore 2 avant que le "
+"troisième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7416
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Actuellement, 14 crans d’amélioration sont utilisés. Encore 1 avant que le "
+"troisième module majeur ne doive être installé."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7420
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"15\"]/text"
 msgstr ""
+"Actuellement, 15 crans d’amélioration sont utilisés. Vous êtes au maximum !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7424
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"16\"]/text"
-msgstr ""
+msgstr "Actuellement, 16 crans d’amélioration sont utilisés... \"Surchargé\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7428
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"17\"]/text"
-msgstr ""
+msgstr "Actuellement, 17 crans d’amélioration sont utilisés... \"Surchargé II\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7432
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"18\"]/text"
 msgstr ""
+"Actuellement, 18 crans d’amélioration sont utilisés... \"Surchargé III\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7436
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"19\"]/text"
-msgstr ""
+msgstr "Actuellement, 19 crans d’amélioration sont utilisés... \"Surchargé IV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7440
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"20\"]/text"
-msgstr ""
+msgstr "Actuellement, 20 crans d’amélioration sont utilisés... \"Surchargé V\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7444
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"21\"]/text"
-msgstr ""
+msgstr "Actuellement, 21 crans d’amélioration sont utilisés... \"Surchargé VI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7448
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"22\"]/text"
 msgstr ""
+"Actuellement, 22 crans d’amélioration sont utilisés... \"Surchargé VII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7452
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"23\"]/text"
 msgstr ""
+"Actuellement, 23 crans d’amélioration sont utilisés... \"Surchargé VIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7456
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"24\"]/text"
-msgstr ""
+msgstr "Actuellement, 24 crans d’amélioration sont utilisés... \"Surchargé IX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7460
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"25\"]/text"
-msgstr ""
+msgstr "Actuellement, 25 crans d’amélioration sont utilisés... \"Surchargé X\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7464
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"26\"]/text"
-msgstr ""
+msgstr "Actuellement, 26 crans d’amélioration sont utilisés... \"Surchargé XI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7468
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"27\"]/text"
 msgstr ""
+"Actuellement, 27 crans d’amélioration sont utilisés... \"Surchargé XII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7472
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"28\"]/text"
 msgstr ""
+"Actuellement, 28 crans d’amélioration sont utilisés... \"Surchargé XIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7476
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"29\"]/text"
 msgstr ""
+"Actuellement, 29 crans d’amélioration sont utilisés... \"Surchargé XIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7480
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"30\"]/text"
-msgstr ""
+msgstr "Actuellement, 30 crans d’amélioration sont utilisés... \"Surchargé XV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7484
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"31\"]/text"
 msgstr ""
+"Actuellement, 31 crans d’amélioration sont utilisés... \"Surchargé XVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7488
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"32\"]/text"
 msgstr ""
+"Actuellement, 32 crans d’amélioration sont utilisés... \"Surchargé XVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7492
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"33\"]/text"
 msgstr ""
+"Actuellement, 33 crans d’amélioration sont utilisés... \"Surchargé XVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7496
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"34\"]/text"
 msgstr ""
+"Actuellement, 34 crans d’amélioration sont utilisés... \"Surchargé XIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7500
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"35\"]/text"
-msgstr ""
+msgstr "Actuellement, 35 crans d’amélioration sont utilisés... \"Surchargé XX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7504
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"36\"]/text"
 msgstr ""
+"Actuellement, 36 crans d’amélioration sont utilisés... \"Surchargé XXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7508
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"37\"]/text"
 msgstr ""
+"Actuellement, 37 crans d’amélioration sont utilisés... \"Surchargé XXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7512
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"38\"]/text"
 msgstr ""
+"Actuellement, 38 crans d’amélioration sont utilisés... \"Surchargé XXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7516
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"39\"]/text"
 msgstr ""
+"Actuellement, 39 crans d’amélioration sont utilisés... \"Surchargé XXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7520
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"40\"]/text"
 msgstr ""
+"Actuellement, 40 crans d’amélioration sont utilisés... \"Surchargé XXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7524
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"41\"]/text"
 msgstr ""
+"Actuellement, 41 crans d’amélioration sont utilisés... \"Surchargé XXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7528
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"42\"]/text"
 msgstr ""
+"Actuellement, 42 crans d’amélioration sont utilisés... \"Surchargé XXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7532
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"43\"]/text"
 msgstr ""
+"Actuellement, 43 crans d’amélioration sont utilisés... \"Surchargé XXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7536
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"44\"]/text"
 msgstr ""
+"Actuellement, 44 crans d’amélioration sont utilisés... \"Surchargé XXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7540
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"45\"]/text"
 msgstr ""
+"Actuellement, 45 crans d’amélioration sont utilisés... \"Surchargé XXX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7544
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"46\"]/text"
 msgstr ""
+"Actuellement, 46 crans d’amélioration sont utilisés... \"Surchargé XXXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7548
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"47\"]/text"
 msgstr ""
+"Actuellement, 47 crans d’amélioration sont utilisés... \"Surchargé XXXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7552
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"48\"]/text"
 msgstr ""
+"Actuellement, 48 crans d’amélioration sont utilisés... \"Surchargé XXXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7556
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"49\"]/text"
 msgstr ""
+"Actuellement, 49 crans d’amélioration sont utilisés... \"Surchargé XXXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7560
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"50\"]/text"
 msgstr ""
+"Actuellement, 50 crans d’amélioration sont utilisés... \"Surchargé XXXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7564
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"51\"]/text"
 msgstr ""
+"Actuellement, 51 crans d’amélioration sont utilisés... \"Surchargé XXXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7568
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"52\"]/text"
 msgstr ""
+"Actuellement, 52 crans d’amélioration sont utilisés... \"Surchargé XXXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7572
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"53\"]/text"
 msgstr ""
+"Actuellement, 53 crans d’amélioration sont utilisés... \"Surchargé XXXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7576
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"54\"]/text"
 msgstr ""
+"Actuellement, 54 crans d’amélioration sont utilisés... \"Surchargé XXXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7580
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"55\"]/text"
-msgstr ""
+msgstr "Actuellement, 55 crans d’amélioration sont utilisés... \"Surchargé XL\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7584
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"56\"]/text"
 msgstr ""
+"Actuellement, 56 crans d’amélioration sont utilisés... \"Surchargé XLI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7588
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"57\"]/text"
 msgstr ""
+"Actuellement, 57 crans d’amélioration sont utilisés... \"Surchargé XLII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7592
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"58\"]/text"
 msgstr ""
+"Actuellement, 58 crans d’amélioration sont utilisés... \"Surchargé XLIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7596
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"59\"]/text"
 msgstr ""
+"Actuellement, 59 crans d’amélioration sont utilisés... \"Surchargé XLIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7600
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"60\"]/text"
 msgstr ""
+"Actuellement, 60 crans d’amélioration sont utilisés... \"Surchargé XLV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7604
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"61\"]/text"
 msgstr ""
+"Actuellement, 61 crans d’amélioration sont utilisés... \"Surchargé XLVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7608
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"62\"]/text"
 msgstr ""
+"Actuellement, 62 crans d’amélioration sont utilisés... \"Surchargé XLVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7612
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"63\"]/text"
 msgstr ""
+"Actuellement, 63 crans d’amélioration sont utilisés... \"Surchargé XLVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7616
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"64\"]/text"
 msgstr ""
+"Actuellement, 64 crans d’amélioration sont utilisés... \"Surchargé XLIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7620
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"65\"]/text"
-msgstr ""
+msgstr "Actuellement, 65 crans d’amélioration sont utilisés... \"Surchargé L\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7624
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"66\"]/text"
-msgstr ""
+msgstr "Actuellement, 66 crans d’amélioration sont utilisés... \"Surchargé LI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7628
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"67\"]/text"
 msgstr ""
+"Actuellement, 67 crans d’amélioration sont utilisés... \"Surchargé LII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7632
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"68\"]/text"
 msgstr ""
+"Actuellement, 68 crans d’amélioration sont utilisés... \"Surchargé LIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7636
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"69\"]/text"
 msgstr ""
+"Actuellement, 69 crans d’amélioration sont utilisés... \"Surchargé LIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7640
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"70\"]/text"
-msgstr ""
+msgstr "Actuellement, 70 crans d’amélioration sont utilisés... \"Surchargé LV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7644
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"71\"]/text"
 msgstr ""
+"Actuellement, 71 crans d’amélioration sont utilisés... \"Surchargé LVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7648
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"72\"]/text"
 msgstr ""
+"Actuellement, 72 crans d’amélioration sont utilisés... \"Surchargé LVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7652
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"73\"]/text"
 msgstr ""
+"Actuellement, 73 crans d’amélioration sont utilisés... \"Surchargé LVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7656
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"74\"]/text"
 msgstr ""
+"Actuellement, 74 crans d’amélioration sont utilisés... \"Surchargé LIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7660
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"75\"]/text"
-msgstr ""
+msgstr "Actuellement, 75 crans d’amélioration sont utilisés... \"Surchargé LX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7664
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"76\"]/text"
 msgstr ""
+"Actuellement, 76 crans d’amélioration sont utilisés... \"Surchargé LXI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7668
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"77\"]/text"
 msgstr ""
+"Actuellement, 77 crans d’amélioration sont utilisés... \"Surchargé LXII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7672
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"78\"]/text"
 msgstr ""
+"Actuellement, 78 crans d’amélioration sont utilisés... \"Surchargé LXIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7676
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"79\"]/text"
 msgstr ""
+"Actuellement, 79 crans d’amélioration sont utilisés... \"Surchargé LXIV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7680
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"80\"]/text"
 msgstr ""
+"Actuellement, 80 crans d’amélioration sont utilisés... \"Surchargé LXV\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7684
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"81\"]/text"
 msgstr ""
+"Actuellement, 81 crans d’amélioration sont utilisés... \"Surchargé LXVI\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7688
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"82\"]/text"
 msgstr ""
+"Actuellement, 82 crans d’amélioration sont utilisés... \"Surchargé LXVII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7692
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"83\"]/text"
 msgstr ""
+"Actuellement, 83 crans d’amélioration sont utilisés... \"Surchargé LXVIII\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7696
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"84\"]/text"
 msgstr ""
+"Actuellement, 84 crans d’amélioration sont utilisés... \"Surchargé LXIX\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7700
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"fm_hull_upgrade_points\""
 " and @lvl=\"85\"]/text"
 msgstr ""
+"Actuellement, 85 crans d’amélioration sont utilisés... C’est fini, mec, c’"
+"est fini !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7706
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_MODULE_TRUE\"]/text"
-msgstr ""
+msgstr "Installer les modules"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7712
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_MODULE_FALSE\"]/text"
 msgstr ""
+"Vous ne pouvez pas installer des modules maintenant, installez d'abord un "
+"module majeur !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7750
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE1_TRUE\"]/text"
-msgstr ""
+msgstr "Installer votre premier module majeur."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7756
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE2_TRUE\"]/text"
-msgstr ""
+msgstr "Installer votre deuxième module majeur."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7762
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE3_TRUE\"]/text"
-msgstr ""
+msgstr "Installer votre troisième (et dernier) module majeur !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7768
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONEEXTRA_TRUE\"]/text"
-msgstr ""
+msgstr "Installer un module majeur ... supplémentaire ?!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7774
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE1_FALSE\"]/text"
 msgstr ""
+"Vous ne pouvez pas encore installer votre premier module majeur. Utilisez d’"
+"abord 5 crans d’amélioration !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7778
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE2_FALSE\"]/text"
 msgstr ""
+"Vous ne pouvez pas encore installer votre deuxième module majeur. Utilisez d’"
+"abord 10 crans d’amélioration !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7782
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONE3_FALSE\"]/text"
 msgstr ""
+"Vous ne pouvez pas encore installer votre troisième (et dernier) module "
+"majeur. Utilisez d’abord 15 crans d’amélioration !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7786
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"CAN_INSTALL_CAPSTONEEXTRA_FALSE\"]/text"
 msgstr ""
+"Vous ne pouvez pas installer encore plus de modules majeurs, c'est illégal !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7790
 msgid ""
@@ -7076,6 +7180,12 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/event/text"
 msgstr ""
+"Alastair est déconcerté par votre demande, \"Êtes-vous sûr, mon garçon ? Je "
+"ne peux pas garantir votre sécurité si nous installons plus de modules...\"\n"
+"\t\t\t\t\t(votre vaisseau sera incendié ou percé de brèches supplémentaires "
+"lorsque vous subirez des dommages et il y a une faible chance que les "
+"dommages entrants soient multipliés (plus grand multiplicateur avec chaque "
+"amélioration majeure supplémentaire))"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7801
 msgid ""
@@ -7095,7 +7205,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:7814
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MAIN\"]/choice[@req=\"FM_CAPPED_HULL\"]/event/choice[2]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7822
 msgid ""
@@ -9543,201 +9653,204 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/text"
 msgstr ""
+"Voici les modules majeurs que vous pouvez installer, 3 au total, en "
+"atteignant 5, 10 et 15 crans de mise à niveau (vous pouvez sélectionner "
+"l'option pour voir les effets avant l'installation)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9909
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Coque Saline [150~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9915
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_SALT\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Coque Saline [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9919
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Ancien Réacteur Crépusculeur [110~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9925
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Ancien Réacteur Crépusculeur [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9929
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Décorations de Coque Non Officielles [85~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9935
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Décorations de Coque Non Officielles [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9939
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Collecteur de dérivation du compresseur [80~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9945
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_COMPRESS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Collecteur de dérivation du compresseur [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9949
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Boucliers particularisés [100~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9955
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PARTICLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Boucliers particularisés [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9959
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Réseaux de Connexion d’Armes [95~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9965
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Réseaux de Connexion d’Armes [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9969
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Optimisation Totale à Bord [140~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9975
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_PERFECT\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Optimisation Totale à Bord [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9979
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Barrière Cyclique Infinie [80~](rééquilibré !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9985
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTSHIELD\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Barrière Cyclique Infinie [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9989
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Arsenal Cyclique Infini [120~](rééquilibré !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9995
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Arsenal Cyclique Infini [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:9999
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Aura Corrosive Métaplasmatique [105~](diminuée)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10005
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_CREWKILL\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Aura Corrosive Métaplasmatique [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10009
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Module Majeur - Structure de coque électromagnétique [100~](rééquilibré !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10015
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_MAGNETIC\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Structure de coque électromagnétique [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10019
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Calibreur d'ordonnance ineffable [100~](nouveau !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10025
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_RESISTSMASH\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Calibreur d'ordonnance ineffable [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10029
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Allumeur d'armement [100~](nouveau !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10035
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_WEAPON_IGNITE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Allumeur d'armement [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10039
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Brouilleur offensif [100~](nouveau !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10045
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_OFFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Brouilleur offensif [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10049
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Brouilleur défensif [100~](nouveau !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10055
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_DEFENSE_SCRAMBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Brouilleur défensif [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10059
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Module Majeur - Rayon de Fréquences de phase [100~](nouveau !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10065
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"FM_MODULAR_HULL_BEAM_PIERCE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Module Majeur - Rayon de Fréquences de phase [installé]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10070
-#, fuzzy
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
