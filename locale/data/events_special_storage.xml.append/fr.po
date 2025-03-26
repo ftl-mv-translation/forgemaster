@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"PO-Revision-Date: 2025-03-26 17:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -197,7 +197,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:316
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -238,7 +237,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:364
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_ABSOLUTION_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -279,7 +277,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:406
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_ISHIMURA_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -315,7 +312,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:442
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_EARSPOON_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -351,7 +347,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:478
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_BRONZE_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -387,7 +382,6 @@ msgid ""
 msgstr "Retourner au menu d'artisanat."
 
 #: src-en/data/events_special_storage.xml.append:514
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_CERBERUS_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -418,7 +412,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:544
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PROJECT7_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -449,7 +442,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:575
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PROJECT22_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -485,7 +477,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:612
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PHOTON_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -521,7 +512,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:649
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PHOTON2_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -557,7 +547,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:686
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_MENAULION_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -593,7 +582,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:723
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_CHAINGUN_FIRE_READ\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -717,7 +705,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:864
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[20]/text"
 msgstr "Laisser tomber."
@@ -1149,7 +1136,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1270
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1220,7 +1206,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1337
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1373,7 +1358,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1485
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ORGANIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1396,7 +1380,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1515
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_UPGRADE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1412,7 +1395,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1540
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_BATTLE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1555,7 +1537,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1674
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1581,7 +1562,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1704
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1607,7 +1587,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1728
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1778,7 +1757,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -1829,7 +1807,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1898
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1855,7 +1832,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1922
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1881,7 +1857,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1946
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1907,7 +1882,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1970
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1933,7 +1907,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:1997
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1969,7 +1942,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2027
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1995,7 +1967,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2054
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2066,7 +2037,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2136
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -2112,7 +2082,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2170
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2153,7 +2122,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2211
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2194,7 +2162,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2250
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2220,7 +2187,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2276
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2261,7 +2227,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2315
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2287,7 +2252,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2341
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_3\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2313,7 +2277,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2368
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2339,7 +2302,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2405
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2380,7 +2342,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2450
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2406,7 +2367,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2474
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2567,7 +2527,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2639
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[7]/text"
 msgstr "Laisser tomber."
@@ -2623,7 +2582,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2695
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[4]/text"
 msgstr "Laisser tomber."
@@ -2664,7 +2622,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2737
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2690,7 +2647,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2762
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_SPECIAL\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2716,7 +2672,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2787
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ETERNITY\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2742,7 +2697,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2812
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM_PRISM_SCATTER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2768,7 +2722,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2844
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2794,7 +2747,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2868
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2835,7 +2787,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2907
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2886,7 +2837,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2949
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_3\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2912,7 +2862,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:2973
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_CONS\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2953,7 +2902,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3019
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -2979,7 +2927,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3043
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ADAPT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3050,7 +2997,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3120
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -3076,7 +3022,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3146
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_AETHER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3102,7 +3047,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3169
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_CURSED\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3143,7 +3087,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3208
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -3654,13 +3597,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3838
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:3845
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -3731,7 +3672,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3925
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -3802,7 +3742,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3994
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -3828,7 +3767,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4018
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3854,7 +3792,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4042
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_BIO\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3880,7 +3817,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4066
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMBLAUNCHER_HULL\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3906,7 +3842,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4090
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MINELAUNCHER_BIO\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3932,7 +3867,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4114
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_MISSILES\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3973,7 +3907,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4159
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -4038,7 +3971,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4229
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[4]/text"
 msgstr "Laisser tomber."
@@ -4064,7 +3996,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4255
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_MAMMOTH_CANNON\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4085,7 +4016,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4276
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4106,7 +4036,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4295
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4127,7 +4056,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4314
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4148,7 +4076,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4219,7 +4146,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:4396
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -4240,7 +4166,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4414
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4261,7 +4186,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4433
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4282,7 +4206,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4452
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4303,7 +4226,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4471
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4324,7 +4246,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4490
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4345,7 +4266,6 @@ msgid ""
 msgstr "Continuer la fabrication ?"
 
 #: src-en/data/events_special_storage.xml.append:4509
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4596,7 +4516,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:4708
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[7]/text"
 msgstr "Laisser tomber."
@@ -8501,7 +8420,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8225
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8527,7 +8445,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8255
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8553,7 +8470,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8283
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8579,7 +8495,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8311
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8605,7 +8520,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8339
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8736,7 +8650,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:8484
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8772,7 +8685,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8525
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8798,7 +8710,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8553
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8824,7 +8735,6 @@ msgid ""
 msgstr "Amélioration vers la flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8581
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -8959,7 +8869,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:8726
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8995,7 +8904,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8766
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9021,7 +8929,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8794
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9047,7 +8954,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8822
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9073,7 +8979,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:8850
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9204,7 +9109,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:8995
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9240,7 +9144,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:9036
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9266,7 +9169,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:9064
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9292,7 +9194,6 @@ msgid ""
 msgstr "Amélioration vers la flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:9092
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -9423,7 +9324,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:9237
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9623,7 +9523,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:9411
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod:findWithChildLike/mod:selector"
 msgstr "Laisser tomber."
@@ -9701,7 +9600,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:9491
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9734,7 +9632,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:9524
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -9771,7 +9668,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:9556
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9788,7 +9684,6 @@ msgid ""
 msgstr "Installer le Fabricateur de Charge Utile en interne."
 
 #: src-en/data/events_special_storage.xml.append:9578
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod:findWithChildLike[2]/mod:selector"
 msgstr "Laisser tomber."
@@ -9811,7 +9706,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:9599
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9846,7 +9740,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:9629
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -9911,7 +9804,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:9698
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -10439,7 +10331,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:10107
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
 msgstr "Laisser tomber."
