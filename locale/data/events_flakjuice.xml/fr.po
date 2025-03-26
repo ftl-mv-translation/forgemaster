@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-23 21:14+0000\n"
+"PO-Revision-Date: 2025-03-26 17:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:16
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"STORAGE_CHECK_TWISTED_FLAK_FORGE_MENU\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:26
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/text"
@@ -63,7 +63,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:48
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:55
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/text"
@@ -187,7 +187,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:149
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:156
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/text"
@@ -311,7 +311,7 @@ msgstr ""
 #: src-en/data/events_flakjuice.xml:250
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:261
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/text"
@@ -7956,4 +7956,4 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6407
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"pilot\"]/text"
-msgstr "Tant pis..."
+msgstr "Laisser tomber..."
