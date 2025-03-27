@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 11:14+0000\n"
+"PO-Revision-Date: 2025-03-27 18:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_eventsxmlappend/fr/>\n"
@@ -747,9 +747,8 @@ msgstr "Démanteler l'Amplificateur de Drone \"Kai\"."
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_TEA_EARL\"]"
 msgstr ""
 "Internaliser le thé Earl Grey...\n"
-"  [Un thé délicieux que même son Altesse royale apprécierait. Confère à "
-"toutes les Mantis alliées +20% de vitesse de réparation et +15 points de vie "
-"max.]"
+"  [Un thé délicieux que même Sa Majesté apprécierait. Confère à toutes les "
+"Mantis alliées +20% de vitesse de réparation et +15 points de vie max.]"
 
 #: src-en/data/text_events.xml.append:114
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_REALITY_RELOADER\"]"
