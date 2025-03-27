@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-26 17:14+0000\n"
+"PO-Revision-Date: 2025-03-27 18:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -1393,7 +1393,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3038
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/desc"
-msgstr ""
+msgstr "Vague de Flammes"
 
 #: src-en/data/blueprints.xml.append:3039
 msgid ""
@@ -8131,6 +8131,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18205
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"BRAIN_DONATION\"]/desc"
 msgstr ""
+"Ambrosia. Ce lourd cocktail de drogues illicites immunise votre équipage "
+"contre le contrôle mental."
 
 #: src-en/data/blueprints.xml.append:18212
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DEATH_VESTS2\"]/title"
@@ -8147,6 +8149,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18222
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TEA_EARL\"]/desc"
 msgstr ""
+"Un thé délicieux que même Sa Majesté apprécierait. Confère à toutes les "
+"Mantis alliées +20% de vitesse de réparation et +15 points de vie max."
 
 #: src-en/data/blueprints.xml.append:18230
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"MANTIS_RELOADER\"]/title"
@@ -8159,11 +8163,16 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18239
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS\"]/title"
-msgstr ""
+msgstr "Arme Biologique Virus de Combustion"
 
 #: src-en/data/blueprints.xml.append:18240
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"COMBUSTION_VIRUS\"]/desc"
 msgstr ""
+"Cette arme biologique infecte tous les membres de votre équipage et leur "
+"confère la capacité active Combustion, même ceux qui en sont déjà dotés. Une "
+"fois infecté, le sujet hôte ne peut s'en débarrasser. Quant à la race "
+"Coquilles, ses capacités de combustion existantes sont améliorées, coûtant "
+"généralement moins de points de vie ou étant plus puissantes."
 
 #: src-en/data/blueprints.xml.append:18248
 msgid ""
@@ -8586,7 +8595,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18640
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_PLATED\"]/title"
-msgstr ""
+msgstr "Faveur du Plaqué"
 
 #: src-en/data/blueprints.xml.append:18641
 msgid ""
@@ -8606,7 +8615,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18658
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON\"]/title"
-msgstr ""
+msgstr "Bénédiction des forges"
 
 #: src-en/data/blueprints.xml.append:18659
 msgid ""
@@ -8616,7 +8625,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18665
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_FORGEWEAPON_2\"]/title"
-msgstr ""
+msgstr "Grande bénédiction des forges"
 
 #: src-en/data/blueprints.xml.append:18666
 msgid ""
@@ -8626,7 +8635,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18672
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_ANCWEAPON\"]/title"
-msgstr ""
+msgstr "Bénédiction des téméraires"
 
 #: src-en/data/blueprints.xml.append:18673
 msgid ""
@@ -8636,7 +8645,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18679
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_FM_TERMINUS\"]/title"
-msgstr ""
+msgstr "Bénédiction de la torsion"
 
 #: src-en/data/blueprints.xml.append:18680
 msgid ""
@@ -8680,6 +8689,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_BRAIN_DONATION\"]/desc"
 msgstr ""
+"Ambrosia. Ce lourd cocktail de drogues illicites immunise votre équipage "
+"contre le contrôle mental."
 
 #: src-en/data/blueprints.xml.append:18720
 msgid ""
@@ -8697,6 +8708,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18730
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_TEA_EARL\"]/desc"
 msgstr ""
+"Un thé délicieux que même Sa Majesté apprécierait. Confère à toutes les "
+"Mantis alliées +20% de vitesse de réparation et +15 points de vie max."
 
 #: src-en/data/blueprints.xml.append:18738
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AUG_MAGATAMA\"]/title"
@@ -8729,12 +8742,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18763
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_COMBUSTION_VIRUS\"]/title"
-msgstr ""
+msgstr "Arme Biologique Virus de Combustion"
 
 #: src-en/data/blueprints.xml.append:18764
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_COMBUSTION_VIRUS\"]/desc"
 msgstr ""
+"Cette arme biologique infecte tous les membres de votre équipage et leur "
+"confère la capacité active Combustion, même ceux qui en sont déjà dotés. Une "
+"fois infecté, le sujet hôte ne peut s'en débarrasser. Quant à la race "
+"Coquilles, ses capacités de combustion existantes sont améliorées, coûtant "
+"généralement moins de points de vie ou étant plus puissantes."
 
 #: src-en/data/blueprints.xml.append:18772
 msgid ""
