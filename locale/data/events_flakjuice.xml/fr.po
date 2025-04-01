@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-26 17:14+0000\n"
+"PO-Revision-Date: 2025-04-02 10:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_flakjuice.xml:2
 msgid ""
@@ -20,12 +20,12 @@ msgstr "Qu'aimeriez-vous faire ?"
 #: src-en/data/events_flakjuice.xml:4
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"STORAGE_CHECK_TWISTED_FLAK_FORGE_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Échanger une arme (EN COURS)"
 
 #: src-en/data/events_flakjuice.xml:11
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"STORAGE_CHECK_TWISTED_FLAK_FORGE_MENU\"]/choice[2]/text"
-msgstr ""
+msgstr "Créer une flak (EN COURS)"
 
 #: src-en/data/events_flakjuice.xml:16
 msgid ""
@@ -34,31 +34,31 @@ msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:26
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/text"
-msgstr ""
+msgstr "Quel type de flak souhaitez-vous fabriquer ?"
 
 #: src-en/data/events_flakjuice.xml:28
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Fabriquer une flak normale."
 
 #: src-en/data/events_flakjuice.xml:33
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Fabriquer une flak normale (fabrication disponible !)"
 
 #: src-en/data/events_flakjuice.xml:38
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Fabriquer une flak spéciale."
 
 #: src-en/data/events_flakjuice.xml:43
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Fabriquer une flak spéciale (fabrication disponible !)"
 
 #: src-en/data/events_flakjuice.xml:48
 msgid ""
@@ -68,18 +68,25 @@ msgstr "Laisser tomber..."
 #: src-en/data/events_flakjuice.xml:55
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/text"
 msgstr ""
+"Vous plongez votre regard dans la Forge de Flak. Combien de ressources allez-"
+"vous dépenser ?"
 
 #: src-en/data/events_flakjuice.xml:58
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Dépenser une maigre quantité de ressources de flak normales (coûte 10 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:60
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"10\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et attendez. Soudain, une arme "
+"flak flambant neuve voit le jour ! Ce n'est pas grand-chose, mais ça vous "
+"permettra de tenir le coup !"
 
 #: src-en/data/events_flakjuice.xml:64
 msgid ""
@@ -91,18 +98,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[2]/text"
 msgstr ""
+"Dépenser une maigre quantité de ressources de flak normales (coûte 10 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:76
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"20\"]/text"
 msgstr ""
+"Dépenser une petite quantité de ressources de flak normales (coûte 20 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:78
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"20\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Vous vous préparez "
+"à la monter sur votre vaisseau et continuez."
 
 #: src-en/data/events_flakjuice.xml:82
 msgid ""
@@ -114,18 +128,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[4]/text"
 msgstr ""
+"Dépenser une petite quantité de ressources de flak normales (coûte 20 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:95
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"30\"]/text"
 msgstr ""
+"Dépenser une quantité moyenne de ressources de flak normales (coûte 30 "
+"points de flak)"
 
 #: src-en/data/events_flakjuice.xml:97
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"30\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Il s'agit certes "
+"d'un armement conséquent, mais vous savez de quoi la forge est capable..."
 
 #: src-en/data/events_flakjuice.xml:101
 msgid ""
@@ -137,18 +158,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[6]/text"
 msgstr ""
+"Dépenser une quantité moyenne de ressources de flak normales (coûte 30 "
+"points de flak)"
 
 #: src-en/data/events_flakjuice.xml:113
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"40\"]/text"
 msgstr ""
+"Dépenser une grande quantité de ressources de flak normales (coûte 40 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:115
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"40\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Votre membre "
+"d'équipage admire votre nouveau trophée."
 
 #: src-en/data/events_flakjuice.xml:119
 msgid ""
@@ -160,18 +188,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[8]/text"
 msgstr ""
+"Dépenser une grande quantité de ressources de flak normales (coûte 40 points "
+"de flak)"
 
 #: src-en/data/events_flakjuice.xml:131
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"50\"]/text"
 msgstr ""
+"Dépenser une quantité massive de ressources de flak normales (coûte 50 "
+"points de flak)"
 
 #: src-en/data/events_flakjuice.xml:133
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[@req=\"flak_resource_counter\""
 " and @lvl=\"50\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Vous retenez "
+"votre souffle en attendant que la forge révèle le fruit de vos efforts. "
+"ÇA...Ça, c'est une arme."
 
 #: src-en/data/events_flakjuice.xml:137
 msgid ""
@@ -183,6 +218,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[10]/text"
 msgstr ""
+"Dépenser une quantité massive de ressources de flak normales (coûte 50 "
+"points de flak)"
 
 #: src-en/data/events_flakjuice.xml:149
 msgid ""
@@ -192,18 +229,25 @@ msgstr "Laisser tomber..."
 #: src-en/data/events_flakjuice.xml:156
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/text"
 msgstr ""
+"Vous plongez votre regard dans la Forge de Flak. Combien de ressources allez-"
+"vous dépenser ?"
 
 #: src-en/data/events_flakjuice.xml:159
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"10\"]/text"
 msgstr ""
+"Dépenser une maigre quantité de ressources de flak spéciale (coûte 1 point "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:161
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"10\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et attendez. Soudain, une arme "
+"flak flambant neuve voit le jour ! Ce n'est pas grand-chose, mais ça vous "
+"permettra de tenir le coup !"
 
 #: src-en/data/events_flakjuice.xml:165
 msgid ""
@@ -215,18 +259,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[2]/text"
 msgstr ""
+"Dépenser une maigre quantité de ressources de flak spéciale (coûte 10 points "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:177
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Dépenser une petite quantité de ressources de flak spéciale (coûte 20 points "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:179
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Vous vous préparez "
+"à la monter sur votre vaisseau et continuez."
 
 #: src-en/data/events_flakjuice.xml:183
 msgid ""
@@ -238,18 +289,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[4]/text"
 msgstr ""
+"Dépenser une petite quantité de ressources de flak spéciale (coûte 20 points "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:196
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"30\"]/text"
 msgstr ""
+"Dépenser une quantité moyenne de ressources de flak spéciale (coûte 30 "
+"points de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:198
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"30\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Il s'agit certes "
+"d'un armement conséquent, mais vous savez de quoi la forge est capable..."
 
 #: src-en/data/events_flakjuice.xml:202
 msgid ""
@@ -261,18 +319,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[6]/text"
 msgstr ""
+"Dépenser une quantité moyenne de ressources de flak spéciale (coûte 30 "
+"points de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:214
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"40\"]/text"
 msgstr ""
+"Dépenser une grande quantité de ressources de flak spéciale (coûte 40 points "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:216
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"40\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Au bout de "
+"quelques minutes, une arme flak se forme sous vos yeux ! Votre membre "
+"d'équipage admire votre nouveau trophée."
 
 #: src-en/data/events_flakjuice.xml:220
 msgid ""
@@ -284,18 +349,25 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[8]/text"
 msgstr ""
+"Dépenser une grande quantité de ressources de flak spéciale (coûte 40 points "
+"de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:232
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"50\"]/text"
 msgstr ""
+"Dépenser une quantité massive de ressources de flak spéciale (coûte 50 "
+"points de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:234
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[@req=\"flak_special_resource_counter\""
 " and @lvl=\"50\"]/event/text"
 msgstr ""
+"Vous introduisez les matériaux dans la forge et vous attendez. Vous retenez "
+"votre souffle en attendant que la forge révèle le fruit de vos efforts. "
+"ÇA...Ça, c'est une arme."
 
 #: src-en/data/events_flakjuice.xml:238
 msgid ""
@@ -307,6 +379,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[10]/text"
 msgstr ""
+"Dépenser une quantité massive de ressources de flak spéciale (coûte 50 "
+"points de flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:250
 msgid ""
@@ -315,11 +389,11 @@ msgstr "Laisser tomber..."
 
 #: src-en/data/events_flakjuice.xml:261
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous échanger ?"
 
 #: src-en/data/events_flakjuice.xml:263
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[1]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:265
 msgid ""
@@ -333,7 +407,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:275
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[2]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK II contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:277
 msgid ""
@@ -347,7 +421,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:287
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[3]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK III contre 19 points de flak"
 
 #: src-en/data/events_flakjuice.xml:289
 msgid ""
@@ -361,7 +435,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:299
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[4]/text"
-msgstr ""
+msgstr "Échanger un laser lourd MK I contre 10 points de flak"
 
 #: src-en/data/events_flakjuice.xml:301
 msgid ""
@@ -375,7 +449,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:311
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[5]/text"
-msgstr ""
+msgstr "Échanger un laser lourd MK II contre 13 points de flak"
 
 #: src-en/data/events_flakjuice.xml:313
 msgid ""
@@ -389,7 +463,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:323
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[6]/text"
-msgstr ""
+msgstr "Échanger un missile Hermes contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:325
 msgid ""
@@ -403,7 +477,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:335
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[7]/text"
-msgstr ""
+msgstr "Échanger un missile Pegasus contre 12 points de flak"
 
 #: src-en/data/events_flakjuice.xml:337
 msgid ""
@@ -418,7 +492,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BREACH\"]/text"
-msgstr ""
+msgstr "Échanger un missile perforant contre 13 points de flak"
 
 #: src-en/data/events_flakjuice.xml:349
 msgid ""
@@ -432,7 +506,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:359
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[9]/text"
-msgstr ""
+msgstr "Échanger un Rayon Pike contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:361
 msgid ""
@@ -446,7 +520,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:371
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[10]/text"
-msgstr ""
+msgstr "Échanger un Rayon Hallebarde contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:373
 msgid ""
@@ -460,7 +534,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:383
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[11]/text"
-msgstr ""
+msgstr "Échanger un Rayon Glaive contre 19 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:385
 msgid ""
@@ -474,7 +548,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:395
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[12]/text"
-msgstr ""
+msgstr "Échanger un Rayon Incendiaire contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:397
 msgid ""
@@ -488,7 +562,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:407
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[13]/text"
-msgstr ""
+msgstr "Échanger un rayon anti-biologique contre 10 points de flak"
 
 #: src-en/data/events_flakjuice.xml:409
 msgid ""
@@ -502,7 +576,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:419
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[14]/text"
-msgstr ""
+msgstr "Échanger un Laser brise-coque contre 11 points de flak"
 
 #: src-en/data/events_flakjuice.xml:421
 msgid ""
@@ -516,7 +590,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:431
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[15]/text"
-msgstr ""
+msgstr "Échanger un Laser brise-coque MK II contre 15 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:433
 msgid ""
@@ -530,7 +604,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:443
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[16]/text"
-msgstr ""
+msgstr "Échanger un Rayon anticoque contre 14 points de flak"
 
 #: src-en/data/events_flakjuice.xml:445
 msgid ""
@@ -545,7 +619,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:455
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un Missile anticoque contre 13 points de flak"
 
 #: src-en/data/events_flakjuice.xml:457
 msgid ""
@@ -747,7 +821,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:623
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[31]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:625
 msgid ""
