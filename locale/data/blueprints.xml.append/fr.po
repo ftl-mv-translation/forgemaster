@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-29 08:14+0000\n"
+"PO-Revision-Date: 2025-04-03 11:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -4683,7 +4683,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ROYAL_MINELAUNCHER\"]/title"
-msgstr "Lanceur 'Assaut'"
+msgstr "Lanceur d'assaut"
 
 #: src-en/data/blueprints.xml.append:10741
 msgid ""
@@ -5704,7 +5704,7 @@ msgstr "Bombe Perforante"
 #: src-en/data/blueprints.xml.append:13026
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_PLAYER_ARTY_CHAIN\"]/short"
-msgstr ""
+msgstr "B. Perf."
 
 #: src-en/data/blueprints.xml.append:13028
 msgid ""
@@ -6931,7 +6931,7 @@ msgstr "Bombe Perforante"
 #: src-en/data/blueprints.xml.append:15995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_BREACH_1_ENEMY_ARTY_CHAIN\"]/short"
-msgstr ""
+msgstr "B. Perf."
 
 #: src-en/data/blueprints.xml.append:15997
 msgid ""
