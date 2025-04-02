@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 10:09+0000\n"
+"PO-Revision-Date: 2025-04-03 11:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -77,7 +77,7 @@ msgid ""
 " and @lvl=\"10\"]/text"
 msgstr ""
 "Dépenser une maigre quantité de ressources de flak normales (coûte 10 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:60
 msgid ""
@@ -99,7 +99,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[2]/text"
 msgstr ""
 "Dépenser une maigre quantité de ressources de flak normales (coûte 10 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:76
 msgid ""
@@ -107,7 +107,7 @@ msgid ""
 " and @lvl=\"20\"]/text"
 msgstr ""
 "Dépenser une petite quantité de ressources de flak normales (coûte 20 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:78
 msgid ""
@@ -129,7 +129,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[4]/text"
 msgstr ""
 "Dépenser une petite quantité de ressources de flak normales (coûte 20 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:95
 msgid ""
@@ -137,7 +137,7 @@ msgid ""
 " and @lvl=\"30\"]/text"
 msgstr ""
 "Dépenser une quantité moyenne de ressources de flak normales (coûte 30 "
-"points de flak)"
+"points de Flak)"
 
 #: src-en/data/events_flakjuice.xml:97
 msgid ""
@@ -159,7 +159,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[6]/text"
 msgstr ""
 "Dépenser une quantité moyenne de ressources de flak normales (coûte 30 "
-"points de flak)"
+"points de Flak)"
 
 #: src-en/data/events_flakjuice.xml:113
 msgid ""
@@ -167,7 +167,7 @@ msgid ""
 " and @lvl=\"40\"]/text"
 msgstr ""
 "Dépenser une grande quantité de ressources de flak normales (coûte 40 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:115
 msgid ""
@@ -189,7 +189,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[8]/text"
 msgstr ""
 "Dépenser une grande quantité de ressources de flak normales (coûte 40 points "
-"de flak)"
+"de Flak)"
 
 #: src-en/data/events_flakjuice.xml:131
 msgid ""
@@ -197,7 +197,7 @@ msgid ""
 " and @lvl=\"50\"]/text"
 msgstr ""
 "Dépenser une quantité massive de ressources de flak normales (coûte 50 "
-"points de flak)"
+"points de Flak)"
 
 #: src-en/data/events_flakjuice.xml:133
 msgid ""
@@ -219,7 +219,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_NORMAL\"]/choice[10]/text"
 msgstr ""
 "Dépenser une quantité massive de ressources de flak normales (coûte 50 "
-"points de flak)"
+"points de Flak)"
 
 #: src-en/data/events_flakjuice.xml:149
 msgid ""
@@ -238,7 +238,7 @@ msgid ""
 " and @lvl=\"10\"]/text"
 msgstr ""
 "Dépenser une maigre quantité de ressources de flak spéciale (coûte 1 point "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:161
 msgid ""
@@ -260,7 +260,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[2]/text"
 msgstr ""
 "Dépenser une maigre quantité de ressources de flak spéciale (coûte 10 points "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:177
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 " and @lvl=\"2\"]/text"
 msgstr ""
 "Dépenser une petite quantité de ressources de flak spéciale (coûte 20 points "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:179
 msgid ""
@@ -290,7 +290,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[4]/text"
 msgstr ""
 "Dépenser une petite quantité de ressources de flak spéciale (coûte 20 points "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:196
 msgid ""
@@ -298,7 +298,7 @@ msgid ""
 " and @lvl=\"30\"]/text"
 msgstr ""
 "Dépenser une quantité moyenne de ressources de flak spéciale (coûte 30 "
-"points de flak spéciale)"
+"points de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:198
 msgid ""
@@ -320,7 +320,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[6]/text"
 msgstr ""
 "Dépenser une quantité moyenne de ressources de flak spéciale (coûte 30 "
-"points de flak spéciale)"
+"points de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:214
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 " and @lvl=\"40\"]/text"
 msgstr ""
 "Dépenser une grande quantité de ressources de flak spéciale (coûte 40 points "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:216
 msgid ""
@@ -350,7 +350,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[8]/text"
 msgstr ""
 "Dépenser une grande quantité de ressources de flak spéciale (coûte 40 points "
-"de flak spéciale)"
+"de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:232
 msgid ""
@@ -358,7 +358,7 @@ msgid ""
 " and @lvl=\"50\"]/text"
 msgstr ""
 "Dépenser une quantité massive de ressources de flak spéciale (coûte 50 "
-"points de flak spéciale)"
+"points de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:234
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_REDEMPTION_SPECIAL\"]/choice[10]/text"
 msgstr ""
 "Dépenser une quantité massive de ressources de flak spéciale (coûte 50 "
-"points de flak spéciale)"
+"points de Flak spéciale)"
 
 #: src-en/data/events_flakjuice.xml:250
 msgid ""
@@ -421,7 +421,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:287
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[3]/text"
-msgstr "Échanger un Laser Rafale MK III contre 19 points de flak"
+msgstr "Échanger un Laser Rafale MK III contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:289
 msgid ""
@@ -435,7 +435,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:299
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[4]/text"
-msgstr "Échanger un laser lourd MK I contre 10 points de flak"
+msgstr "Échanger un laser lourd MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:301
 msgid ""
@@ -449,7 +449,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:311
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[5]/text"
-msgstr "Échanger un laser lourd MK II contre 13 points de flak"
+msgstr "Échanger un laser lourd MK II contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:313
 msgid ""
@@ -477,7 +477,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:335
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[7]/text"
-msgstr "Échanger un missile Pegasus contre 12 points de flak"
+msgstr "Échanger un missile Pegasus contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:337
 msgid ""
@@ -492,7 +492,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BREACH\"]/text"
-msgstr "Échanger un missile perforant contre 13 points de flak"
+msgstr "Échanger un missile perforant contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:349
 msgid ""
@@ -562,7 +562,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:407
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[13]/text"
-msgstr "Échanger un rayon anti-biologique contre 10 points de flak"
+msgstr "Échanger un rayon anti-biologique contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:409
 msgid ""
@@ -576,7 +576,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:419
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[14]/text"
-msgstr "Échanger un Laser brise-coque contre 11 points de flak"
+msgstr "Échanger un Laser brise-coque contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:421
 msgid ""
@@ -604,7 +604,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:443
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[16]/text"
-msgstr "Échanger un Rayon anticoque contre 14 points de flak"
+msgstr "Échanger un Rayon anticoque contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:445
 msgid ""
@@ -619,7 +619,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:455
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_HULL\"]/text"
-msgstr "Échanger un Missile anticoque contre 13 points de flak"
+msgstr "Échanger un Missile anticoque contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:457
 msgid ""
@@ -633,7 +633,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:467
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[18]/text"
-msgstr ""
+msgstr "Échanger un Canon Ionique contre 6 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:469
 msgid ""
@@ -647,7 +647,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:479
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[19]/text"
-msgstr ""
+msgstr "Échanger un Ion Massif contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:481
 msgid ""
@@ -661,7 +661,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:491
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[20]/text"
-msgstr ""
+msgstr "Échanger un Canon Ionique MK II contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:493
 msgid ""
@@ -675,7 +675,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:503
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[21]/text"
-msgstr ""
+msgstr "Échanger une petite bombe contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:505
 msgid ""
@@ -690,7 +690,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:515
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_2\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Perforante MK II contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:517
 msgid ""
@@ -704,7 +704,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:527
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[23]/text"
-msgstr ""
+msgstr "Échanger une Bombe Incendiaire contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:529
 msgid ""
@@ -718,7 +718,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:539
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[24]/text"
-msgstr ""
+msgstr "Échanger une Bombe ionique contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:541
 msgid ""
@@ -732,7 +732,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:551
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[25]/text"
-msgstr ""
+msgstr "Échanger une Décharge curative contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:553
 msgid ""
@@ -747,7 +747,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:563
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ_SHATTER\"]/text"
-msgstr ""
+msgstr "Échanger un Éclat Cristalien contre 0 point de Flak"
 
 #: src-en/data/events_flakjuice.xml:565
 msgid ""
@@ -762,7 +762,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:575
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_1\"]/text"
-msgstr ""
+msgstr "Échanger un Éclat Cristalien contre 4 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:577
 msgid ""
@@ -777,7 +777,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:587
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_ARMOR_PROJ\"]/text"
-msgstr ""
+msgstr "Échanger un Éclat Cristalien contre 0 point de Flak"
 
 #: src-en/data/events_flakjuice.xml:589
 msgid ""
@@ -792,7 +792,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:599
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_1\"]/text"
-msgstr ""
+msgstr "Échanger un laser de défense contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:601
 msgid ""
@@ -807,7 +807,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:611
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK I contre 12 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:613
 msgid ""
@@ -835,7 +835,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:635
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[32]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK II contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:637
 msgid ""
@@ -849,7 +849,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:647
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[33]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK III contre 21 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:649
 msgid ""
@@ -864,7 +864,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:659
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_8\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK IV contre 26 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:661
 msgid ""
@@ -878,7 +878,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:671
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[35]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:673
 msgid ""
@@ -892,7 +892,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:683
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[36]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd MK II contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:685
 msgid ""
@@ -907,7 +907,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:695
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_3\"]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd MK III contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:697
 msgid ""
@@ -922,7 +922,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:707
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd à chaîne contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:709
 msgid ""
@@ -937,7 +937,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:719
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd perforant contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:721
 msgid ""
@@ -951,7 +951,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:731
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[40]/text"
-msgstr ""
+msgstr "Échanger un Laser anti coque MK I contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:733
 msgid ""
@@ -965,7 +965,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:743
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[41]/text"
-msgstr ""
+msgstr "Échanger un Laser anti coque MK II contre 15 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:745
 msgid ""
@@ -980,7 +980,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:755
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_3\"]/text"
-msgstr ""
+msgstr "Échanger un Laser anti coque MK III contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:757
 msgid ""
@@ -995,7 +995,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:767
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser anti coque à chaîne contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:769
 msgid ""
@@ -1010,7 +1010,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:779
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Léger MK I contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:781
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:791
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Léger MK II contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:793
 msgid ""
@@ -1040,7 +1040,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:803
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Laser perforant MK I contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:805
 msgid ""
@@ -1055,7 +1055,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:815
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PIERCE_2\"]/text"
-msgstr "Échanger un Laser perforant MK II contre 19 points de flak"
+msgstr "Échanger un Laser perforant MK II contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:817
 msgid ""
@@ -1070,7 +1070,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:827
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale à chaîne contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:829
 msgid ""
@@ -1085,7 +1085,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:839
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un Vulcain chaîne contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:841
 msgid ""
@@ -1100,7 +1100,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:851
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un laser à charge MK I contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:853
 msgid ""
@@ -1115,7 +1115,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:863
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un laser à charge MK II contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:865
 msgid ""
@@ -1130,7 +1130,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:875
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/text"
-msgstr ""
+msgstr "Échanger un laser à charge MK III contre 20 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:877
 msgid ""
@@ -1145,7 +1145,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:887
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Chaîngeur Laser contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:889
 msgid ""
@@ -1160,12 +1160,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:899
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/text"
-msgstr ""
+msgstr "Échanger un laser adaptatif contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:901
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:905
 msgid ""
@@ -1175,7 +1175,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:911
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Laser incendiaire contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:913
 msgid ""
@@ -1190,7 +1190,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:923
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Laser neuronal contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:925
 msgid ""
@@ -1205,12 +1205,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:935
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Givrant MK I contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:937
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_1\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:941
 msgid ""
@@ -1220,7 +1220,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:947
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Givrant MK II contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:949
 msgid ""
@@ -1235,7 +1235,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:959
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FROST_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Givrant MK II† contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:961
 msgid ""
@@ -1250,7 +1250,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:971
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Laser irradiant contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:973
 msgid ""
@@ -1265,7 +1265,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:983
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE\"]/text"
-msgstr ""
+msgstr "Échanger un accélérateur de particules MK I contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:985
 msgid ""
@@ -1280,7 +1280,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:995
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_PARTICLE_2\"]/text"
-msgstr ""
+msgstr "Échanger un accélérateur de particules MK II contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:997
 msgid ""
@@ -1295,7 +1295,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1007
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon à particules contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1009
 msgid ""
@@ -1310,7 +1310,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1019
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE\"]/text"
-msgstr ""
+msgstr "Échanger un missile à particules contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1021
 msgid ""
@@ -1325,12 +1325,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1031
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un missile à particules† contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1033
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_PARTICLE_PLAYER\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1037
 msgid ""
@@ -1340,7 +1340,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1043
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ENERGY\"]/text"
-msgstr ""
+msgstr "Échanger un missile à énergie contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1045
 msgid ""
@@ -1354,7 +1354,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1055
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[67]/text"
-msgstr ""
+msgstr "Échanger un Ion Simple contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1057
 msgid ""
@@ -1368,7 +1368,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1067
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[68]/text"
-msgstr ""
+msgstr "Échanger un Barrage Ionique MK I contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1069
 msgid ""
@@ -1383,12 +1383,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1079
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_3\"]/text"
-msgstr ""
+msgstr "Échanger un Barrage Ionique MK II contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1081
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_3\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1085
 msgid ""
@@ -1397,7 +1397,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1091
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[70]/text"
-msgstr ""
+msgstr "Échanger un Barrage Ionique MK III contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1093
 msgid ""
@@ -1412,7 +1412,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1103
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_HEAVY\"]/text"
-msgstr ""
+msgstr "Échanger un Ion Massif contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1105
 msgid ""
@@ -1427,7 +1427,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1115
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_TRI\"]/text"
-msgstr ""
+msgstr "Échanger un Tri-Ion contre 11 points Flak"
 
 #: src-en/data/events_flakjuice.xml:1117
 msgid ""
@@ -1442,7 +1442,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1127
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_INSTANT\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Ionique préventif contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1129
 msgid ""
@@ -1457,7 +1457,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1139
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAINGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Ion adaptatif contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1141
 msgid ""
@@ -1472,7 +1472,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1151
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur ionique contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1153
 msgid ""
@@ -1487,7 +1487,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1163
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHARGEGUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur ionique II contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1165
 msgid ""
@@ -1502,7 +1502,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1175
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Paralyseur MK I contre 8 points Flak"
 
 #: src-en/data/events_flakjuice.xml:1177
 msgid ""
@@ -1517,7 +1517,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1187
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un Paralyseur MK II contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1189
 msgid ""
@@ -1532,7 +1532,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1199
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_HEAVY\"]/text"
-msgstr ""
+msgstr "Échanger un Paralyseur lourd contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1201
 msgid ""
@@ -1547,7 +1547,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1211
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Paralyseur à charge contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1213
 msgid ""
@@ -1562,7 +1562,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1223
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_STUN_CHARGEGUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Paralyseur à charge† contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1225
 msgid ""
@@ -1577,7 +1577,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1235
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_DISCO\"]/text"
-msgstr ""
+msgstr "Échanger un Disco-Phaseur contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1237
 msgid ""
@@ -1592,7 +1592,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1247
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_1\"]/text"
-msgstr ""
+msgstr "Échanger un Phaseur MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1249
 msgid ""
@@ -1607,7 +1607,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1259
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_2\"]/text"
-msgstr ""
+msgstr "Échanger un Phaseur MK II contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1261
 msgid ""
@@ -1622,7 +1622,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1271
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Ionique Incendiaire contre 11 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1273
 msgid ""
@@ -1637,7 +1637,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1283
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Barrage Rad-Ion contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1285
 msgid ""
@@ -1652,7 +1652,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1295
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_1\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Leto' contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1297
 msgid ""
@@ -1667,7 +1667,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1307
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_2\"]/text"
-msgstr ""
+msgstr "Échanger un missile lourd 'Artemis' contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1309
 msgid ""
@@ -1681,7 +1681,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1319
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[89]/text"
-msgstr ""
+msgstr "Échanger un missile lourd 'Hermes' contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1321
 msgid ""
@@ -1696,7 +1696,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1331
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4\"]/text"
-msgstr ""
+msgstr "Échanger un missile lourd 'Ares' contre 18 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1333
 msgid ""
@@ -1711,7 +1711,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1343
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_4_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un missile lourd 'Ares'† contre 18 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1345
 msgid ""
@@ -1725,7 +1725,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1355
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[92]/text"
-msgstr ""
+msgstr "Échanger un Missile rafales 'Pegasus' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1357
 msgid ""
@@ -1740,12 +1740,12 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1367
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2\"]/text"
-msgstr ""
+msgstr "Échanger un Missile rafales \"Hydra\" contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1369
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Vous avez échangé votre arme avec succès"
 
 #: src-en/data/events_flakjuice.xml:1373
 msgid ""
@@ -1755,7 +1755,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1379
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BURST_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Missile rafales 'Hydra'† contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1381
 msgid ""
@@ -1770,7 +1770,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1391
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CLOAK\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Nyx' contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1393
 msgid ""
@@ -1785,7 +1785,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1403
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Hades' contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1405
 msgid ""
@@ -1800,7 +1800,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1415
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FIRE_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Hades'† contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1417
 msgid ""
@@ -1815,7 +1815,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1427
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_FREE\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Momus' contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1429
 msgid ""
@@ -1830,7 +1830,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1439
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_BIO\"]/text"
-msgstr "Échanger un missile 'Asclépios' contre 11 points de flak"
+msgstr "Échanger un missile 'Asclépios' contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1441
 msgid ""
@@ -1845,7 +1845,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1451
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Eris' contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1453
 msgid ""
@@ -1860,7 +1860,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1463
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Spetum' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1465
 msgid ""
@@ -1874,7 +1874,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1475
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[102]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Hache' contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1477
 msgid ""
@@ -1889,7 +1889,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1487
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Hache'† contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1489
 msgid ""
@@ -1903,7 +1903,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1499
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[104]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Glaive' contre 19 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1501
 msgid ""
@@ -1918,7 +1918,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1511
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Vouge' contre 27 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1513
 msgid ""
@@ -1932,7 +1932,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1523
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[106]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Pike' contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1525
 msgid ""
@@ -1947,7 +1947,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1535
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_LONG_2\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Pike' II contre 18 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1537
 msgid ""
@@ -1962,7 +1962,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1547
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SCYTHE\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Faucheur' contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1549
 msgid ""
@@ -1977,7 +1977,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1559
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Corsèque' contre 15 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1561
 msgid ""
@@ -1992,7 +1992,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1571
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Guisarme' contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1573
 msgid ""
@@ -2006,7 +2006,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1583
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[111]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Torche' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1585
 msgid ""
@@ -2021,7 +2021,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1595
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Torche'† contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1597
 msgid ""
@@ -2036,7 +2036,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1607
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger une 'Torche' perforante contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1609
 msgid ""
@@ -2051,7 +2051,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1619
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_FIRE_INSTANT\"]/text"
-msgstr ""
+msgstr "Échanger une 'torche' préventive contre 20 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1621
 msgid ""
@@ -2066,7 +2066,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1631
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BREACH\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Ranseur' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1633
 msgid ""
@@ -2080,7 +2080,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1643
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[116]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Lucerne' contre 14 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1645
 msgid ""
@@ -2095,7 +2095,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1655
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HULL_2\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon \"Lucerne\" II contre 18 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1657
 msgid ""
@@ -2110,7 +2110,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1667
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_MINING\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Minier Zulfiqar contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1669
 msgid ""
@@ -2125,7 +2125,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1679
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Suyari contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1681
 msgid ""
@@ -2140,7 +2140,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1691
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_2\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Kamayari contre 22 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1693
 msgid ""
@@ -2154,7 +2154,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1703
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[121]/text"
-msgstr ""
+msgstr "Échanger un Rayon Radiant 'Faucon' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1705
 msgid ""
@@ -2169,7 +2169,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1715
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Radiant 'Corbin' contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1717
 msgid ""
@@ -2184,7 +2184,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1727
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon \"Partisan\" contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1729
 msgid ""
@@ -2199,7 +2199,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1739
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Fauchard' contre 18 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1741
 msgid ""
@@ -2214,7 +2214,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1751
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_GUILLOTINE_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Fauchard'† contre 18 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1753
 msgid ""
@@ -2229,7 +2229,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1763
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_1\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon 'Poignard' contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1765
 msgid ""
@@ -2244,7 +2244,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1775
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_2\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon 'Misericorde' contre 16 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1777
 msgid ""
@@ -2259,7 +2259,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1787
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_3\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon \"Stiletto\" contre 19 points Flak"
 
 #: src-en/data/events_flakjuice.xml:1789
 msgid ""
@@ -2274,7 +2274,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1799
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon \"Cinquedea\" contre 18 points Flak"
 
 #: src-en/data/events_flakjuice.xml:1801
 msgid ""
@@ -2289,7 +2289,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1811
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon Rad. 'Anelace' contre 9 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1813
 msgid ""
@@ -2304,7 +2304,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1823
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FOCUS_BIO_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon Rad. 'Anelace'† contre 9 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1825
 msgid ""
@@ -2318,7 +2318,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1835
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[132]/text"
-msgstr ""
+msgstr "Échanger un Lance-bombes contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1837
 msgid ""
@@ -2333,7 +2333,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1847
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BREACH_1\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Perforante contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1849
 msgid ""
@@ -2347,7 +2347,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1859
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[134]/text"
-msgstr ""
+msgstr "Échanger une Bombe Incendiaire contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1861
 msgid ""
@@ -2362,7 +2362,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1871
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_FREE\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe recycleuse contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1873
 msgid ""
@@ -2376,7 +2376,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1883
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[136]/text"
-msgstr ""
+msgstr "Échanger une Bombe ionique contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1885
 msgid ""
@@ -2391,7 +2391,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1895
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_STUN\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe étourdissante contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1897
 msgid ""
@@ -2406,7 +2406,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1907
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BIO\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Irradiante contre 10 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:1909
 msgid ""
@@ -2421,7 +2421,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1919
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_LOCK\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe de verrouillage cristalien contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1921
 msgid ""
@@ -2435,7 +2435,7 @@ msgstr "Continuer..."
 
 #: src-en/data/events_flakjuice.xml:1931
 msgid "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[140]/text"
-msgstr ""
+msgstr "Échanger une Bombe Médicale contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1933
 msgid ""
@@ -2450,7 +2450,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1943
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Réparante contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1945
 msgid ""
@@ -2465,7 +2465,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1955
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_HEAL_SYSTEM_STRONG\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Réparante™ contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1957
 msgid ""
@@ -2480,7 +2480,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1967
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_BUFF\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe stimulante contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1969
 msgid ""
@@ -2495,7 +2495,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1979
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_1\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à énergie I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1981
 msgid ""
@@ -2510,7 +2510,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:1991
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à énergie II contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:1993
 msgid ""
@@ -2525,7 +2525,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2003
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à énergie II† contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2005
 msgid ""
@@ -2540,7 +2540,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2015
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_3\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à énergie III contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2017
 msgid ""
@@ -2555,7 +2555,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2027
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_HULL\"]/text"
-msgstr ""
+msgstr "Échanger une Énergie Lourde contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2029
 msgid ""
@@ -2570,7 +2570,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2039
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN\"]/text"
-msgstr ""
+msgstr "Échanger une Énergie étourdissant contre 11 points Flak"
 
 #: src-en/data/events_flakjuice.xml:2041
 msgid ""
@@ -2585,7 +2585,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2051
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_STUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger une Énergie étourdissant† contre 11 points Flak"
 
 #: src-en/data/events_flakjuice.xml:2053
 msgid ""
@@ -2600,7 +2600,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2063
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHAINGUN\"]/text"
-msgstr "Échanger un Chaîne-Énergie contre 14 points de flak"
+msgstr "Échanger un Chaîne-Énergie contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2065
 msgid ""
@@ -2615,7 +2615,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2075
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur d'énergie contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2077
 msgid ""
@@ -2630,7 +2630,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2087
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CHARGEGUN_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur d'énergie† contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2089
 msgid ""
@@ -2645,7 +2645,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2099
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_1\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK I contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2101
 msgid ""
@@ -2660,7 +2660,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2111
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK II contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2113
 msgid ""
@@ -2675,7 +2675,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2123
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK II† contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2125
 msgid ""
@@ -2690,7 +2690,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2135
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_3\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK III contre 18 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2137
 msgid ""
@@ -2705,7 +2705,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2147
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_4\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK IV contre 22 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2149
 msgid ""
@@ -2720,7 +2720,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2159
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHARGE\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur Flak contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2161
 msgid ""
@@ -2735,7 +2735,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2171
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un canon Flak à chaîne contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2173
 msgid ""
@@ -2750,7 +2750,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2183
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_INSTANT\"]/text"
-msgstr ""
+msgstr "Échanger une Flak Préventive contre 20 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2185
 msgid ""
@@ -2765,7 +2765,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2195
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak Préchargé contre 19 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2197
 msgid ""
@@ -2780,7 +2780,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2207
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_ION\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak électrifié contre 20 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2209
 msgid ""
@@ -2795,7 +2795,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2219
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak irradié contre 19 points Flak"
 
 #: src-en/data/events_flakjuice.xml:2221
 msgid ""
@@ -2810,7 +2810,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2231
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOXIC_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak irradié† contre 19 points Flak"
 
 #: src-en/data/events_flakjuice.xml:2233
 msgid ""
@@ -2825,7 +2825,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2243
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2245
 msgid ""
@@ -2840,7 +2840,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2255
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe d'élite MK I contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2257
 msgid ""
@@ -2855,7 +2855,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2267
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe MK II contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2269
 msgid ""
@@ -2870,7 +2870,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2279
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe d'élite MK II contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2281
 msgid ""
@@ -2885,7 +2885,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2291
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe lourd contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2293
 msgid ""
@@ -2900,7 +2900,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2303
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe lourd d'élite contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2305
 msgid ""
@@ -2915,7 +2915,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2315
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe Fracasse-coque contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2317
 msgid ""
@@ -2931,6 +2931,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/text"
 msgstr ""
+"Échanger un bulbe de Fracasse-coque d'élite contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2329
 msgid ""
@@ -2945,7 +2946,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2339
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe solaire contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2341
 msgid ""
@@ -2960,7 +2961,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2351
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe à chaîne contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2353
 msgid ""
@@ -2975,7 +2976,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2363
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe à chaîne d'élite contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2365
 msgid ""
@@ -2990,7 +2991,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2375
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe de charge contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2377
 msgid ""
@@ -3005,7 +3006,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2387
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger un Bulbe de charge d'élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2389
 msgid ""
@@ -3020,7 +3021,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2399
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_1\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de spores MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2401
 msgid ""
@@ -3035,7 +3036,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2411
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_2\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de spores MK II contre 12 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2413
 msgid ""
@@ -3050,7 +3051,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2423
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_HEAVY\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de spores lourd contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2425
 msgid ""
@@ -3065,7 +3066,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2435
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de spores à chaîne contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2437
 msgid ""
@@ -3080,7 +3081,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2447
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de Spores Paralysantes contre 12 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2449
 msgid ""
@@ -3095,7 +3096,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2459
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Rafale MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2461
 msgid ""
@@ -3111,6 +3112,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Échanger un Cristal Rafale MK I d'élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2473
 msgid ""
@@ -3125,7 +3127,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2483
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Rafale MK II contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2485
 msgid ""
@@ -3141,6 +3143,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Échanger un Cristal Rafale MK II d'élite contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2497
 msgid ""
@@ -3155,7 +3158,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2507
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Lourd MK I contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2509
 msgid ""
@@ -3171,6 +3174,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
+"Échanger un Cristal Lourd MK I d'élite contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2521
 msgid ""
@@ -3185,7 +3189,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2531
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Lourd MK II contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2533
 msgid ""
@@ -3201,6 +3205,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Échanger un Cristal Lourd MK II d'élite contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2545
 msgid ""
@@ -3215,7 +3220,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2555
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Neuronal contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2557
 msgid ""
@@ -3230,7 +3235,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2567
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
-msgstr ""
+msgstr "Échanger un Cristal Neuronal d'élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2569
 msgid ""
@@ -3245,7 +3250,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2579
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Éclats Cristalien contre 16 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:2581
 msgid ""
@@ -3260,7 +3265,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2591
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
-msgstr ""
+msgstr "Échanger un Éclats Cristalien contre 19 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2593
 msgid ""
@@ -3275,7 +3280,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2603
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur de Cristal contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2605
 msgid ""
@@ -3291,6 +3296,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
+"Échanger un Chargeur de Cristalien d'élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2617
 msgid ""
@@ -3305,7 +3311,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2627
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_1\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines 'Geb' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2629
 msgid ""
@@ -3320,7 +3326,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2639
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_2\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines \"Osiris\" contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2641
 msgid ""
@@ -3335,7 +3341,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2651
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_3\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines \"Ra\" contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2653
 msgid ""
@@ -3350,7 +3356,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2663
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FREE\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines 'Nephthys' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2665
 msgid ""
@@ -3365,7 +3371,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2675
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines 'Sekhmet' contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2677
 msgid ""
@@ -3380,7 +3386,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2687
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_BREACH\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines \"Sobek\" contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2689
 msgid ""
@@ -3395,7 +3401,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2699
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines 'Anubis' contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2701
 msgid ""
@@ -3410,7 +3416,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2711
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur d'Éclats contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2713
 msgid ""
@@ -3425,7 +3431,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2723
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_KERNEL\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-Vignes contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2725
 msgid ""
@@ -3440,7 +3446,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2735
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger un Laser conservateur contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2737
 msgid ""
@@ -3455,7 +3461,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2747
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger un rayon \"Esponton\" contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2749
 msgid ""
@@ -3470,7 +3476,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2759
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger un Ion conservateur contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2761
 msgid ""
@@ -3485,7 +3491,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2771
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Tyche' contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2773
 msgid ""
@@ -3500,7 +3506,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2783
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe conservatrice contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2785
 msgid ""
@@ -3515,7 +3521,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2795
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ENERGY_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger une Energie conservatrice contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2797
 msgid ""
@@ -3530,7 +3536,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2807
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BIO_CONSERVATIVE\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Radiant \"Pelta\" contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2809
 msgid ""
@@ -3545,7 +3551,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2819
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZENITH_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Zénithal MK I contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2821
 msgid ""
@@ -3560,7 +3566,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2831
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LANCE_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Lance MK I contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2833
 msgid ""
@@ -3575,7 +3581,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2843
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CLUSTER\"]/text"
-msgstr ""
+msgstr "Échanger une Multi-Bombe contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2845
 msgid ""
@@ -3590,7 +3596,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2855
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER\"]/text"
-msgstr ""
+msgstr "Échanger un Augure MK I contre 22 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2857
 msgid ""
@@ -3605,7 +3611,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2867
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_2\"]/text"
-msgstr ""
+msgstr "Échanger un Augure MK II contre 25 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2869
 msgid ""
@@ -3620,7 +3626,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2879
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_LASER_3\"]/text"
-msgstr ""
+msgstr "Échanger un Augure MK III contre 28 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2881
 msgid ""
@@ -3635,7 +3641,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2891
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MISSILES\"]/text"
-msgstr ""
+msgstr "Échanger un Missile Carnage contre 25 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2893
 msgid ""
@@ -3650,7 +3656,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2903
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BOMB\"]/text"
-msgstr ""
+msgstr "Échanger un Téléporteur de Charge contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2905
 msgid ""
@@ -3665,7 +3671,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2915
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_MINELAUNCHER\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur d'assaut contre 19 Points de Flak spéciaux"
 
 #: src-en/data/events_flakjuice.xml:2917
 msgid ""
@@ -3680,7 +3686,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2927
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM\"]/text"
-msgstr ""
+msgstr "Échanger un Eradicateur MK I contre 24 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2929
 msgid ""
@@ -3695,7 +3701,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2939
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_2\"]/text"
-msgstr ""
+msgstr "Échanger un Eradicateur MK II contre 26 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2941
 msgid ""
@@ -3710,7 +3716,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2951
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_BEAM_3\"]/text"
-msgstr ""
+msgstr "Échanger un Eradicateur MK III contre 29 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2953
 msgid ""
@@ -3725,7 +3731,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2963
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_HAVOC\"]/text"
-msgstr ""
+msgstr "Échanger un Ravageur contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2965
 msgid ""
@@ -3741,6 +3747,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS\"]/text"
 msgstr ""
+"Échanger un Aiguillon Purificateur MK I contre 22 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2977
 msgid ""
@@ -3756,6 +3763,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_FOCUS_2\"]/text"
 msgstr ""
+"Échanger un Aiguillon Purificateur MK II contre 25 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2989
 msgid ""
@@ -3770,7 +3778,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2999
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_1\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à Plasma MK I contre 19 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3001
 msgid ""
@@ -3785,7 +3793,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3011
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ION_2\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à Plasma MK II contre 23 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3013
 msgid ""
@@ -3800,7 +3808,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3023
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Pacifieur Antique contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3025
 msgid ""
@@ -3815,7 +3823,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3035
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_LASER_3\"]/text"
-msgstr ""
+msgstr "Échanger un Augure MK III contre 28 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3037
 msgid ""
@@ -3830,7 +3838,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3047
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BEAM_3\"]/text"
-msgstr ""
+msgstr "Échanger un Eradicateur MK III contre 29 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3049
 msgid ""
@@ -3845,7 +3853,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3059
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_HAVOC\"]/text"
-msgstr ""
+msgstr "Échanger un Ravageur contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3061
 msgid ""
@@ -3860,7 +3868,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3071
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_FOCUS\"]/text"
-msgstr ""
+msgstr "Échanger un Aiguillon Purificateur contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3073
 msgid ""
@@ -3875,7 +3883,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3083
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_MISSILES\"]/text"
-msgstr ""
+msgstr "Échanger un Missile Carnage contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3085
 msgid ""
@@ -3890,7 +3898,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3095
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_BOMB\"]/text"
-msgstr ""
+msgstr "Échanger un Téléporteur de Charge contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3097
 msgid ""
@@ -3905,7 +3913,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3107
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ROYAL_ION_2\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à Plasma MK II contre 23 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3109
 msgid ""
@@ -3920,7 +3928,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3119
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_REPAIR\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Réparateur contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:3121
 msgid ""
@@ -3936,6 +3944,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRASH_LASER\"]/text"
 msgstr ""
+"Échanger un ne trouve pas mu_TITLE_DEFUNCT_LASER contre 0 point de Flak "
+"spéciale"
 
 #: src-en/data/events_flakjuice.xml:3133
 msgid ""
@@ -3950,7 +3960,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3143
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_HARDSCIFI\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Laser contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3145
 msgid ""
@@ -3965,7 +3975,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3155
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_SYLVAN\"]/text"
-msgstr ""
+msgstr "Échanger une BLII améliorée contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3157
 msgid ""
@@ -3980,7 +3990,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3167
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BURST_5_SYLVAN\"]/text"
-msgstr ""
+msgstr "Échanger une BLIII améliorée contre 21 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3169
 msgid ""
@@ -3995,7 +4005,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3179
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_4_SYLVAN\"]/text"
-msgstr ""
+msgstr "Échanger un rayon \"Pouffiasse\" contre 27 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3181
 msgid ""
@@ -4010,7 +4020,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3191
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD_3\"]/text"
-msgstr ""
+msgstr "Échanger une Flak doré MK II contre 56 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3193
 msgid ""
@@ -4025,7 +4035,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3203
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HORSE_GUN\"]/text"
-msgstr ""
+msgstr "Échanger un Pisto-Peluche contre 2 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3205
 msgid ""
@@ -4040,7 +4050,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3215
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_ROCK\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Dianesh' contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3217
 msgid ""
@@ -4055,7 +4065,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3227
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_BISHOP\"]/text"
-msgstr ""
+msgstr "Échanger un \"Apôtre\" contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3229
 msgid ""
@@ -4070,7 +4080,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3239
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_PIERCE_CHAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Phaseur adaptatif contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3241
 msgid ""
@@ -4085,7 +4095,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3251
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE_SPECIAL\"]/text"
-msgstr ""
+msgstr "Échanger une \"Boîte d’allumettes\" contre 18 points Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3253
 msgid ""
@@ -4100,7 +4110,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3263
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CHERRI\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Cherri contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3265
 msgid ""
@@ -4115,7 +4125,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3275
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD\"]/text"
-msgstr ""
+msgstr "Échanger un 'Éventre-Espace' MK 0.5 contre 16 Points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3277
 msgid ""
@@ -4130,7 +4140,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3287
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN_GOLD_PLAYER\"]/text"
-msgstr ""
+msgstr "Échanger un 'Éventre-Espace' MK 0.5† contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3289
 msgid ""
@@ -4145,7 +4155,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3299
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SALT_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Échanger un lanceur salin contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3301
 msgid ""
@@ -4160,7 +4170,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3311
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_GOLD\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak doré contre 36 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3313
 msgid ""
@@ -4175,7 +4185,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3323
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_SHELL\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Cyclopéen contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3325
 msgid ""
@@ -4190,7 +4200,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3335
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ZOLTAN_DELETER\"]/text"
-msgstr ""
+msgstr "Échanger un Effaceur de Zoltan contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3337
 msgid ""
@@ -4205,7 +4215,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION1\"]/text"
-msgstr ""
+msgstr "Échanger un \"Faiseur de veuves\" contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3349
 msgid ""
@@ -4220,7 +4230,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3359
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION2\"]/text"
-msgstr ""
+msgstr "Échanger un 'Frappeur de Chiot' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3361
 msgid ""
@@ -4235,7 +4245,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3371
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION3\"]/text"
-msgstr ""
+msgstr "Échanger un 'Bordel de Gros Canon' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3373
 msgid ""
@@ -4250,7 +4260,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3383
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION4\"]/text"
-msgstr ""
+msgstr "Échanger un 'Bâton-tournoyant' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3385
 msgid ""
@@ -4265,7 +4275,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3395
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION5\"]/text"
-msgstr ""
+msgstr "Échanger un 'Piou Piou Piou' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3397
 msgid ""
@@ -4280,7 +4290,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3407
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION6\"]/text"
-msgstr ""
+msgstr "Échanger un 'Excalibur' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3409
 msgid ""
@@ -4295,7 +4305,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3419
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION7\"]/text"
-msgstr ""
+msgstr "Échanger un 'Vulcain II' contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3421
 msgid ""
@@ -4310,7 +4320,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3431
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_VERSION8\"]/text"
-msgstr ""
+msgstr "Échanger \"Le Débogueur\" contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3433
 msgid ""
@@ -4325,7 +4335,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3443
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN\"]/text"
-msgstr ""
+msgstr "Échanger un \"Éventre-Espace\" contre 200 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3445
 msgid ""
@@ -4340,7 +4350,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3455
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_SYLVAN_HONOR\"]/text"
-msgstr ""
+msgstr "Échanger un \"Éventre-Espace\" contre 200 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3457
 msgid ""
@@ -4355,7 +4365,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3467
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr ""
+msgstr "Échanger un 'Tueur de Dieu' contre 1999 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3469
 msgid ""
@@ -4370,7 +4380,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3479
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BARREL\"]/text"
-msgstr ""
+msgstr "Échanger un canon de Gatling contre 6 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:3481
 msgid ""
@@ -4385,7 +4395,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3491
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"PART_GATLING_BASE\"]/text"
-msgstr ""
+msgstr "Échanger une base de Gatling contre 9 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:3493
 msgid ""
@@ -4400,7 +4410,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3503
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CIVILIAN_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK I contre 12 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3505
 msgid ""
@@ -4415,7 +4425,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3515
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MILITIA_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale MK II contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3517
 msgid ""
@@ -4430,7 +4440,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3527
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FEDERATION_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd MK II contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3529
 msgid ""
@@ -4445,7 +4455,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3539
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_COALITION_1\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Eris' contre 11 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3541
 msgid ""
@@ -4460,7 +4470,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3551
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DUSKBRINGER_1\"]/text"
-msgstr ""
+msgstr "Échanger une Énergie Lourde contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3553
 msgid ""
@@ -4475,7 +4485,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3563
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_FREEMANTIS_1\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe étourdissante contre 12 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3565
 msgid ""
@@ -4490,7 +4500,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3575
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_1\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines \"Sekhmet\" contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3577
 msgid ""
@@ -4505,7 +4515,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3587
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LOSTSUN_2\"]/text"
-msgstr ""
+msgstr "Échanger un missile 'Hades' contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3589
 msgid ""
@@ -4520,7 +4530,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3599
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_1\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-bombes contre 9 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3601
 msgid ""
@@ -4535,7 +4545,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3611
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MANTIS_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Léger MK II contre 11 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3613
 msgid ""
@@ -4550,7 +4560,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3623
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_REBEL_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser à charge MK II contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3625
 msgid ""
@@ -4565,7 +4575,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3635
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ROCK_1\"]/text"
-msgstr ""
+msgstr "Échanger un Missile lourd 'Hermes' contre 12 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3637
 msgid ""
@@ -4580,7 +4590,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3647
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Pike' contre 12 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3649
 msgid ""
@@ -4595,7 +4605,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3659
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_ZOLTAN_2\"]/text"
-msgstr ""
+msgstr "Échanger un rayon 'Lucerne' contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3661
 msgid ""
@@ -4610,7 +4620,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3671
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SLUG_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon \"Faucon\" contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3673
 msgid ""
@@ -4625,7 +4635,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3683
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CLAN_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser irradiant contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3685
 msgid ""
@@ -4640,7 +4650,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3695
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_KNIGHT_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Corbin' contre 11 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3697
 msgid ""
@@ -4655,7 +4665,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3707
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_SHELL_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser anti coque MK I contre 11 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3709
 msgid ""
@@ -4670,7 +4680,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3719
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LEECH_1\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK II contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3721
 msgid ""
@@ -4685,7 +4695,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3731
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_CULTIST_1\"]/text"
-msgstr ""
+msgstr "Échanger une 'Torche' Perforante contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3733
 msgid ""
@@ -4700,7 +4710,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3743
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_DYNASTY_1\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Ranseur' contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3745
 msgid ""
@@ -4715,7 +4725,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3755
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_LANIUS_1\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Flak MK II contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3757
 msgid ""
@@ -4730,7 +4740,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3767
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_1\"]/text"
-msgstr ""
+msgstr "Échanger un 'Additionneur' contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3769
 msgid ""
@@ -4745,7 +4755,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3779
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_2\"]/text"
-msgstr ""
+msgstr "Échanger un 'Soustracteur' contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3781
 msgid ""
@@ -4760,7 +4770,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3791
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_3\"]/text"
-msgstr ""
+msgstr "Échanger un 'Multiplicateur' contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3793
 msgid ""
@@ -4775,7 +4785,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3803
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_4\"]/text"
-msgstr ""
+msgstr "Échanger un 'Diviseur' contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3805
 msgid ""
@@ -4790,7 +4800,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3815
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_5\"]/text"
-msgstr ""
+msgstr "Échanger un 'Egaliseur' contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3817
 msgid ""
@@ -4805,7 +4815,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3827
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_6\"]/text"
-msgstr ""
+msgstr "Échanger un 'Pourcentage' contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3829
 msgid ""
@@ -4820,7 +4830,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3839
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LOOT_MATH_7\"]/text"
-msgstr ""
+msgstr "Échanger un 'Plus grand que' contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3841
 msgid ""
@@ -4835,7 +4845,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3851
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_BATTERY\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Batterie contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3853
 msgid ""
@@ -4850,7 +4860,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3863
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BEAM_ADAPT_3\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon Tsukiyari contre 34 Points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3865
 msgid ""
@@ -4865,7 +4875,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3875
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BIG_ION\"]/text"
-msgstr ""
+msgstr "Échanger un 'Super Ion' contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3877
 msgid ""
@@ -4880,7 +4890,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3887
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_CONSERVRECYCLER\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe autosuffisante contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3889
 msgid ""
@@ -4895,7 +4905,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3899
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_DRAIN\"]/text"
-msgstr ""
+msgstr "Échanger une Super Bombe Aspirante contre 16 Points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3901
 msgid ""
@@ -4910,7 +4920,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3911
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"FROST_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur de givre contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3913
 msgid ""
@@ -4925,7 +4935,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3923
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ION_CHAIN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chaîngeur ionique contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3925
 msgid ""
@@ -4940,7 +4950,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3935
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MISSILES_OBSIDIAN\"]/text"
-msgstr ""
+msgstr "Échanger un Missile d'Obsidienne contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3937
 msgid ""
@@ -4955,7 +4965,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3947
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SNIPER\"]/text"
-msgstr ""
+msgstr "Échanger un \"Inratable\" contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3949
 msgid ""
@@ -4970,7 +4980,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3959
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_STEEL\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-Métal contre 22 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3961
 msgid ""
@@ -4985,7 +4995,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3971
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SLOTGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon Fente contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3973
 msgid ""
@@ -5000,7 +5010,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3983
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger une Flak Interchangeable [F] contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3985
 msgid ""
@@ -5015,7 +5025,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3995
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_ION\"]/text"
-msgstr ""
+msgstr "Échanger une Flak Interchangeable [E] contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3997
 msgid ""
@@ -5030,7 +5040,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4007
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_TOGGLE_TOXIC\"]/text"
-msgstr ""
+msgstr "Échanger une Flak Interchangeable [R] contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4009
 msgid ""
@@ -5045,7 +5055,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4019
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHELL_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-capsules toxique contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4021
 msgid ""
@@ -5060,7 +5070,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4031
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"UNSPOOLER\"]/text"
-msgstr ""
+msgstr "Échanger un Missile 'Ombre Nocturne' contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4033
 msgid ""
@@ -5075,7 +5085,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4043
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MINELAUNCHER_GIANT\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-mines \"Pharaon\" contre 30 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4045
 msgid ""
@@ -5090,7 +5100,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4055
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_LIGHT_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Échanger un Chargeur Laser léger pour 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4057
 msgid ""
@@ -5105,7 +5115,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4067
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur d'Ambre contre 18 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4069
 msgid ""
@@ -5120,7 +5130,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4079
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"STRAWBERRY\"]/text"
-msgstr ""
+msgstr "Échanger un Lance-Fraise contre 19 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4081
 msgid ""
@@ -5135,7 +5145,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4091
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"BOMB_ELITE\"]/text"
-msgstr ""
+msgstr "Échanger une Bombe Promotionnelle contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4093
 msgid ""
@@ -5150,7 +5160,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4103
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"GASTER_BLASTER\"]/text"
-msgstr ""
+msgstr "Échanger un Rayon 'Blaster' contre 27 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:4105
 msgid ""
@@ -5165,7 +5175,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4115
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale rouillé MK I contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4117
 msgid ""
@@ -5180,7 +5190,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4127
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale rouillé MK II contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4129
 msgid ""
@@ -5195,7 +5205,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4139
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/text"
-msgstr ""
+msgstr "Échanger un Laser Rafale rouillé MK III contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4141
 msgid ""
@@ -5210,7 +5220,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4151
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Échanger un Laser lourd rouillé MK I contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4153
 msgid ""
@@ -5225,7 +5235,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4163
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_1\"]/text"
-msgstr ""
+msgstr "Échanger un Léto rouillé contre 4 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4165
 msgid ""
@@ -5240,7 +5250,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4175
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_2\"]/text"
-msgstr ""
+msgstr "Échanger un Artemis rouillé contre 5 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4177
 msgid ""
@@ -5255,7 +5265,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4187
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_3\"]/text"
-msgstr ""
+msgstr "Échanger un Hermès rouillé contre 7 points Flak"
 
 #: src-en/data/events_flakjuice.xml:4189
 msgid ""
@@ -5270,7 +5280,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4199
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/text"
-msgstr ""
+msgstr "Échanger un Pegasus rouillé contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4201
 msgid ""
@@ -5285,7 +5295,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4211
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_ACCURACY\"]/text"
-msgstr ""
+msgstr "Échanger un Module de précision contre 5 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4213
 msgid ""
@@ -5300,7 +5310,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4223
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_BIO\"]/text"
-msgstr ""
+msgstr "Échanger un Module RAD contre 3 points Flak"
 
 #: src-en/data/events_flakjuice.xml:4225
 msgid ""
@@ -5315,7 +5325,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4235
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_COOLDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Module de Temps de Recharge contre 8 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4237
 msgid ""
@@ -5330,7 +5340,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4247
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_LOCKDOWN\"]/text"
-msgstr ""
+msgstr "Échanger un Module de verrouillage contre 6 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4249
 msgid ""
@@ -5345,7 +5355,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4259
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_PIERCE\"]/text"
-msgstr ""
+msgstr "Échanger un Module Perforant contre 4 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4261
 msgid ""
@@ -5360,7 +5370,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4271
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_STUN\"]/text"
-msgstr ""
+msgstr "Échanger un Module neuronal contre 4 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4273
 msgid ""
@@ -5375,7 +5385,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4283
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_FIRE\"]/text"
-msgstr ""
+msgstr "Échanger un Module d'Allumage contre 6 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4285
 msgid ""
@@ -5390,7 +5400,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4295
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_HULL\"]/text"
-msgstr ""
+msgstr "Échanger un Module de Démolition de Coque contre 7 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4297
 msgid ""
@@ -5405,7 +5415,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:4307
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"MODULE_POWER\"]/text"
-msgstr ""
+msgstr "Échanger un Module de puissance contre 6 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:4309
 msgid ""
@@ -6995,7 +7005,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5579
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"POWER_CORE\"]/text"
-msgstr ""
+msgstr "Échanger un Noyau d'Energie contre 14 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:5581
 msgid ""
@@ -7010,7 +7020,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5591
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_RECON\"]/text"
-msgstr ""
+msgstr "Échanger un Projecteur [R] contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5593
 msgid ""
@@ -7025,7 +7035,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5603
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SCANNER_BAIT\"]/text"
-msgstr ""
+msgstr "Échanger un Projecteur [B] contre 10 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5605
 msgid ""
@@ -7040,7 +7050,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5615
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"HARPOON_LAUNCHER\"]/text"
-msgstr ""
+msgstr "Échanger un Lanceur de Harpon 'Oekpiiitan' contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5617
 msgid ""
@@ -7055,7 +7065,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5627
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Empt] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5629
 msgid ""
