@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-26 17:14+0000\n"
+"PO-Revision-Date: 2025-04-03 11:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
@@ -1110,6 +1110,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_VIRUS_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser corrosif 2 et d'un Aiguillon Rad 'Anelace' "
+"pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1250
 msgid ""
@@ -8732,7 +8734,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/choice[1]/event/choice/text"
-msgstr "Amélioration vers la flak nobélienne terminée !"
+msgstr "Amélioration en flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8581
 msgid ""
@@ -9191,7 +9193,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr "Amélioration vers la flak nobélienne terminée !"
+msgstr "Amélioration en flak nobélienne terminée !"
 
 #: src-en/data/events_special_storage.xml.append:9092
 msgid ""
