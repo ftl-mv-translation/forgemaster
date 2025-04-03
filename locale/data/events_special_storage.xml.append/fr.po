@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-03 11:09+0000\n"
+"PO-Revision-Date: 2025-04-04 12:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -64,7 +64,7 @@ msgstr "Fabrication d'arme disponible. [Drone de Bataille]"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[1]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice[9]/text"
-msgstr "Examiner les recettes de fabrication."
+msgstr "Consulter les recettes de fabrication."
 
 #: src-en/data/events_special_storage.xml.append:115
 msgid ""
@@ -123,13 +123,13 @@ msgstr "Fabrication d'arme disponible. [Drone de Bataille]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr "Examiner les recettes de fabrication."
+msgstr "Consulter les recettes de fabrication."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Consulter votre Journal d'histoire [Maître des forges]"
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
@@ -140,61 +140,63 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/text"
 msgstr ""
+"Révision du savoir du Maître des forges... (Vous permet de revivre le savoir "
+"du Maître des forges que vous avez découvert.)"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_ABSOLUTION\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Laser Absolution."
 
 #: src-en/data/events_special_storage.xml.append:246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_ISHIMURA\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Rayon Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_EARSPOON\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire de la Cuillère d'oreille."
 
 #: src-en/data/events_special_storage.xml.append:260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_CERBERUS\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Ion Cerbère."
 
 #: src-en/data/events_special_storage.xml.append:267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_BRONZE\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire de la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_PROJECT7\"]/text"
-msgstr ""
+msgstr "Consulter le Projet #7 : Histoire de la Fin Ardente."
 
 #: src-en/data/events_special_storage.xml.append:281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_PROJECT22\"]/text"
-msgstr ""
+msgstr "Consulter le Projet #22 : Histoire sans nom."
 
 #: src-en/data/events_special_storage.xml.append:288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_PHOTON\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Laser Photon I."
 
 #: src-en/data/events_special_storage.xml.append:295
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_PHOTON2\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Laser Photon II."
 
 #: src-en/data/events_special_storage.xml.append:302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_MENAULION\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire du Rayon Menaulion."
 
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/choice[@req=\"FM_LORE_CHAINGUN_FIRE\"]/text"
-msgstr ""
+msgstr "Consulter l'histoire de la Mitrailleuse Gatling 'Flash des enfers'."
 
 #: src-en/data/events_special_storage.xml.append:316
 msgid ""
@@ -205,6 +207,7 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_ABSOLUTION_READ\"]/text"
 msgstr ""
+"Vous consultez actuellement l'histoire de l'Inducteur de Faille 'Absolution'."
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
@@ -244,7 +247,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_ISHIMURA_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
@@ -284,7 +287,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_EARSPOON_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon \"Cuillère d'oreille\"."
 
 #: src-en/data/events_special_storage.xml.append:414
 msgid ""
@@ -319,7 +322,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_BRONZE_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:450
 msgid ""
@@ -354,7 +357,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_CERBERUS_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Ion 'Cerbère'."
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
@@ -389,7 +392,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PROJECT7_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le projet #7 : Fin Ardente."
 
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
@@ -419,7 +422,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:551
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PROJECT22_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le projet #22 : Sans nom."
 
 #: src-en/data/events_special_storage.xml.append:553
 msgid ""
@@ -449,7 +452,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PHOTON_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser Photon I."
 
 #: src-en/data/events_special_storage.xml.append:584
 msgid ""
@@ -484,7 +487,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:619
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_PHOTON2_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser Photon II."
 
 #: src-en/data/events_special_storage.xml.append:621
 msgid ""
@@ -519,7 +522,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_MENAULION_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon Menaulion."
 
 #: src-en/data/events_special_storage.xml.append:658
 msgid ""
@@ -554,7 +557,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:693
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_LORE_CHAINGUN_FIRE_READ\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Mitrailleuse Gatling 'Flash des enfers'."
 
 #: src-en/data/events_special_storage.xml.append:695
 msgid ""
@@ -589,120 +592,120 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/text"
-msgstr ""
+msgstr "Sélectionner une catégorie d'armes à Forger."
 
 #: src-en/data/events_special_storage.xml.append:751
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes Laser."
 
 #: src-en/data/events_special_storage.xml.append:756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_LASER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes Laser."
 
 #: src-en/data/events_special_storage.xml.append:763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes Ioniques."
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes Ioniques."
 
 #: src-en/data/events_special_storage.xml.append:775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes à Rayons."
 
 #: src-en/data/events_special_storage.xml.append:780
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_BEAM_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes à Rayons."
 
 #: src-en/data/events_special_storage.xml.append:787
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes Aiguillon."
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_PINPOINT_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes Aiguillon."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes de Flak."
 
 #: src-en/data/events_special_storage.xml.append:804
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_FLAK_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes de Flak."
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_EXPLOSIVE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes Explosives."
 
 #: src-en/data/events_special_storage.xml.append:817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_EXPLOSIVE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes Explosives."
 
 #: src-en/data/events_special_storage.xml.append:824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter les armes Organiques."
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_ORGANIC_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter les armes Organiques."
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Consulter la liste des améliorations d'armes"
 
 #: src-en/data/events_special_storage.xml.append:839
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Consulter la liste des améliorations"
 
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[17]/text"
-msgstr ""
+msgstr "Drones d'abordage / de combat. (à venir)"
 
 #: src-en/data/events_special_storage.xml.append:849
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_COMBAT_DRONE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Drones de Bataille. (à venir)"
 
 #: src-en/data/events_special_storage.xml.append:854
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE\"]/choice[@req=\"FM_COMBAT_DRONE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Drones de Bataille. (à venir)"
 
 #: src-en/data/events_special_storage.xml.append:864
 msgid ""
@@ -719,36 +722,48 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le noyau du Laser irradiant dans le châssis du Laser Givrant pour "
+"forger le Laser Anomalie 'TLALOC'."
 
 #: src-en/data/events_special_storage.xml.append:894
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez posséder un Laser Givrant et un Laser irradiant pour forger cette "
+"arme."
 
 #: src-en/data/events_special_storage.xml.append:899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Modifier les canons du Vulcain avec les dissipateurs de chaleur du Laser "
+"incendiaire pour forger la Mitrailleuse Gatling \"Flash des enfers\"."
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Vulcain et d'un Laser incendiaire pour forger cette "
+"arme."
 
 #: src-en/data/events_special_storage.xml.append:909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_FLAMETHROWER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Utiliser une forme gazeuse comme combustible et enflammez-la avec le Laser "
+"incendiaire pour forger le Lance-flammes Dazhbog."
 
 #: src-en/data/events_special_storage.xml.append:914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_FLAMETHROWER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser incendiaire et d'une forme gazeuse pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
@@ -763,59 +778,79 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_PHASER_SUFFOCATION_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Lanius et d'un Phaseur II pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Utiliser l'Accélérateur de particules I et un Laser Léger I pour forger le "
+"Laser Photons II."
 
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser à particules I et d'un Laser Léger I pour "
+"forger le Laser photons I."
 
 #: src-en/data/events_special_storage.xml.append:939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_2_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Utiliser l'Accélérateur de particules II et un Laser Léger II pour forger le "
+"Laser Photons II."
 
 #: src-en/data/events_special_storage.xml.append:944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_PHOTON_2_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser à particules II et d'un Laser Léger II pour "
+"forger le Laser Photon II."
 
 #: src-en/data/events_special_storage.xml.append:949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_HUMAN_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le noyau du Laser irradiant dans le châssis du Laser lourd pour "
+"forger le Laser 'Extracteur Rebelle'."
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_HUMAN_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser irradiant et d'un Laser lourd I pour forger "
+"le Laser Extracteur Rebelle."
 
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ION_MEGA_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"En utilisant la ferraille supplémentaire, vous créez une coque beaucoup plus "
+"grande pour améliorer le châssis du Laser perforant, vous installez la "
+"technologie de téléportation de la Bombe ionique, puis vous modifiez "
+"certaines coordonnées que vous n'auriez probablement pas dû."
 
 #: src-en/data/events_special_storage.xml.append:964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"FM_LASER_ION_MEGA_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une grande quantité de ferraille, d'une technologie de "
+"téléportation de Bombe ionique et du noyau d'un Laser perforant II pour "
+"fabriquer cette arme."
 
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER\"]/choice[@req=\"GATLING_ANCIENT\"]/text"
-msgstr ""
+msgstr "Demander à Alastair d'améliorer le Tueur de Dieu. [Coût : 10]"
 
 #: src-en/data/events_special_storage.xml.append:975
 msgid ""
@@ -832,108 +867,140 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_DISC_LAUNCHER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Charger la ferraille dans un lance-mines et l'énergiser avec l'arme à "
+"énergie Hullbuster pour forger le disque énergisé TARANIS."
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_DISC_LAUNCHER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un lance-mines de base et d'une arme à énergie "
+"Hullbuster pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_ION_TRI_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Utiliser une arme Tri-ion et Ion Incendiaire pour forger l'Ion 'Cerbère'."
 
 #: src-en/data/events_special_storage.xml.append:1007
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_ION_TRI_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Tri-ion et d'un Ion Incendiaire pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_CHAINGUN_ION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Remplacer les canons du Vulcain par les bobines énergisées d'un charge "
+"Ionique pour forger la Gatling Ionique Vesta."
 
 #: src-en/data/events_special_storage.xml.append:1017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_CHAINGUN_ION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Vulcain et d'une arme à charge Ionique pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SHOTGUN_ENERGY_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner une Flak III et un Chargeur d'énergie pour forger le Diffuseur "
+"Énergétique 'Exidia'."
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SHOTGUN_ENERGY_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Chargeur Flak III et d'un Chargeur d'énergie pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1032
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Laser Rafale I et l'Énergie I pour forger le Laser à impulsions "
+"I."
 
 #: src-en/data/events_special_storage.xml.append:1037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser Rafale I et d'une Énergie I pour forger cette "
+"arme."
 
 #: src-en/data/events_special_storage.xml.append:1042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_2_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Laser Rafale II et l'Énergie II pour forger le Laser à "
+"impulsions II."
 
 #: src-en/data/events_special_storage.xml.append:1047
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_2_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser Rafale II et d'un Energy II pour forger cette "
+"arme."
 
 #: src-en/data/events_special_storage.xml.append:1052
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_3_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Laser Rafale III et l'Énergie III pour forger le Laser à "
+"impulsions III."
 
 #: src-en/data/events_special_storage.xml.append:1057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSE_3_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser Rafale III et d'un Energy III pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSEDEEP_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner l'Énergie Lourde et l'Ion Massif pour forger le Canon à impulsions."
 
 #: src-en/data/events_special_storage.xml.append:1067
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_PULSEDEEP_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Énergie Lourde et d'un Ion Massif pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SURGE_LASER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le Laser Rafale avec le noyau d'énergie de la Flak 4. [Coût : 80~]"
 
 #: src-en/data/events_special_storage.xml.append:1077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ION\"]/choice[@req=\"FM_SURGE_LASER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Burst 3 et d'une Flak 4 pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1083
 msgid ""
@@ -950,84 +1017,112 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_MINING_2_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Désassembler et combiner le Rayon 'Sarissa' et les Rayons Miniers pour "
+"forger le Rayon Ishimura. [Coût : 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_MINING_2_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Rayon 'Sarissa' et d'un Rayon Minier pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_PARTICLE_PIERCE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer la technologie du Rayon à particules dans le châssis de la "
+"Guisarme pour forger le Rayon 'Cuillère d'oreille'."
 
 #: src-en/data/events_special_storage.xml.append:1116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_PARTICLE_PIERCE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Rayon à particules et d'un Rayon Guisarme pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Fournir aux Robotueurs de la ferraille pour qu'ils reconfigurent le Fauchard "
+"à leur guise."
 
 #: src-en/data/events_special_storage.xml.append:1126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Rayon Fauchard et de quelque chose de vraiment "
+"meurtrier pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_EXPLOSION_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Reconfigurer le Rayon Hallebarde pour utiliser sa longueur comme verrou de "
+"téléportation pour la Petite Bombe afin de forger le rayon 'Valefor'."
 
 #: src-en/data/events_special_storage.xml.append:1136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_EXPLOSION_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Petite Bombe et d'un Rayon Hallebarde pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1141
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le \"Ranseur\" avec un Ion standard ou un Barrage Ionique MK I pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ION_PIERCE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Nécessite un Ranseur ainsi qu'un Ion standard ou un Barrage Ionique MK I "
+"pour être créé."
 
 #: src-en/data/events_special_storage.xml.append:1151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ETERNITY_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Rayon 'Pike' et le Rayon 'Faucheur' pour forger le Rayon "
+"'Eternité'."
 
 #: src-en/data/events_special_storage.xml.append:1156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"FM_BEAM_ETERNITY_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Rayon 'Pike' et d'un Rayon 'Faucheur' pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"BEAM_PRISM_SCATTER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[CNC + AA] Combiner le Canon à prisme et le Barrage Ionique Prismatique pour "
+"forger le Rayon de dispersion prismatique."
 
 #: src-en/data/events_special_storage.xml.append:1166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM\"]/choice[@req=\"BEAM_PRISM_SCATTER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[CNC + AA] Vous devez disposer d'un Canon à prisme et d'un Barrage Ionique "
+"prismatique pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1172
 msgid ""
@@ -1044,66 +1139,88 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_FUELED_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Insérer l'Aiguillon Cinquedea dans l’enveloppe du missile Hermes pour forger "
+"l'Aiguillon 'Parazonium'."
 
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_FUELED_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon Cinquedea et d'un missile Hermès pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Remplacer la source d'énergie du Poignard par un noyau d'Énergie I pour "
+"forger l'Aiguillon Énergétique 'Ébène'."
 
 #: src-en/data/events_special_storage.xml.append:1205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon Poignard et d'une arme Energy I pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_2_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Remplacer la source d'énergie du Misericorde par un noyau Energy II pour "
+"forger l'Aiguillon 'Hemlock'."
 
 #: src-en/data/events_special_storage.xml.append:1215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_2_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon de Miséricorde et d'une arme Énergie II "
+"pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_3_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Remplacer la source d'énergie du Stiletto par un noyau Energy III pour "
+"forger l'Aiguillon 'Cœur-Vert'."
 
 #: src-en/data/events_special_storage.xml.append:1225
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_3_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon Stiletto et d'une arme Energy III pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Remplacer la source d'énergie du Poignard par un noyau d'Énergie "
+"Conservatrice pour forger l'Aiguillon 'Érable'."
 
 #: src-en/data/events_special_storage.xml.append:1235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon Poignard et d'une Énergie conservatrice "
+"pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1240
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_VIRUS_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Améliorer la lentille de mise au point de l'Anelace avec les produits "
+"chimiques mortels du Laser corrosif. [Coût : 50~]"
 
 #: src-en/data/events_special_storage.xml.append:1245
 msgid ""
@@ -1118,24 +1235,32 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Rayon Suyari et l'Aiguillon Cinquedea pour forger le Focus "
+"Omiyari."
 
 #: src-en/data/events_special_storage.xml.append:1255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Rayon Suyari et d'un Aiguillon Cinquedea pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_BEAM_MINING_3_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner la Miséricorde/Stiletto et le Rayon Ishimura pour forger le 'Brise-"
+"vaisseau' Terra Nova. [Coût : 50~]"
 
 #: src-en/data/events_special_storage.xml.append:1265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_PINPOINT\"]/choice[@req=\"FM_BEAM_MINING_3_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Misericorde (ou d'un Stiletto) et d'un Rayon "
+"Ishimura pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1270
 msgid ""
@@ -1152,60 +1277,74 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le module de refroidissement Givrant II dans le châssis de la Flak "
+"irradiée pour forger le Générateur d’anomalies 'KHEIMON'."
 
 #: src-en/data/events_special_storage.xml.append:1292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un laser Givrant II et d'un lanceur de Flak irradiant "
+"pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1297
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la technologie Cristalline dans votre Flak II."
 
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous avez besoin de TOUTES les armes cristallines, et d'une Flak II pour "
+"fabriquer la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:1307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la technologie Éther dans votre Flak IV. [Coût : 40~]"
 
 #: src-en/data/events_special_storage.xml.append:1312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_AETHER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous avez besoin de n'importe quel vestige d'une technologie autrefois "
+"perdue, pour améliorer une Flak IV. [Coût : 150~]"
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la technologie Lanius dans votre arme Flak."
 
 #: src-en/data/events_special_storage.xml.append:1322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_SHOTGUN_CURSED_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous avez besoin d'une baie de clonage de niveau 3, d'un Lanius et d'une "
+"Flak II pour fabriquer la Flak Carnifex."
 
 #: src-en/data/events_special_storage.xml.append:1327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner la Flak à charge et l'Énergie à charge pour forger le Broyeur "
+"Cinétique."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FLAK\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Flak à charge et d'une Énergie à charge pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1337
 msgid ""
@@ -1222,120 +1361,158 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Désassembler et combiner les missiles Ares et Hadès pour créer le missile à "
+"rafales \"Feu Infernal\"."
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un missile d'Arès et d'Hadès pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Améliorer le champ d'occultation du missile Nyx avec un noyau d'Énergie "
+"étourdissant pour forger le missile 'Tchernobog'."
 
 #: src-en/data/events_special_storage.xml.append:1370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un lance-missiles Nyx et d'une arme à Énergie "
+"Étourdissant pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1375
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Infuser les cristaux de la Bombe de verrouillage Cristalien avec la Bombe "
+"Incendiaire pour forger la Bombe Ovenator."
 
 #: src-en/data/events_special_storage.xml.append:1380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Bombe Incendiaire et d'une Bombe de verrouillage "
+"pour forger cette arme"
 
 #: src-en/data/events_special_storage.xml.append:1385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_BIO_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Infuser les cristaux de la Bombe de verrouillage avec la Bombe Irradiante "
+"pour forger le Projet #22."
 
 #: src-en/data/events_special_storage.xml.append:1390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMB_CRYSTAL_BIO_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Bombe de verrouillage et d'une Bombe Irradiante "
+"pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1395
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMBLAUNCHER_HULL_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Faire passer le noyau d'énergie du Laser de coque II dans le lance-mines "
+"Sobek pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_BOMBLAUNCHER_HULL_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un lance-mines Sobek et d'un Laser de coque II pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MINELAUNCHER_BIO_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Arracher le noyau de l'Ascelpius et l'adapter à l'Osiris."
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_MINELAUNCHER_BIO_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un missile Ascelpius et d'un lance-mines Osiris pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1415
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Combiner le Missile lourd Hermes et l'Ion II pour forger les missiles lourds "
+"'Debilitatum'."
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_ION_MISSILES_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Missile lourd Hermes et d'un Ion II pour forger "
+"cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Reconfigurer la Bombe étourdissante pour disperser les particules "
+"cristallines débilitantes du Cristal Neuronal afin de forger le Générateur "
+"de Confinement."
 
 #: src-en/data/events_special_storage.xml.append:1430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Bombe étourdissante et d'un Cristal Neuronal pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[GO BALLISTIC] Combiner deux à quatre Auto-canon 1s pour forger le Volley "
+"Gun. [Coût : 0-40~]"
 
 #: src-en/data/events_special_storage.xml.append:1440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[GO BALLISTIC] Vous devez disposer de deux à quatre Auto-canons 1s pour "
+"forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1445
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"[GO BALLISTIC + CNC] Combiner deux Auto-canons 2s et des Missiles V5 pour "
+"forger le canon 'Mammouth'."
 
 #: src-en/data/events_special_storage.xml.append:1450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_EXPLOSIVES\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"[GO BALLISTIC + CNC] Vous devez disposer de deux Auto-canons 2s et de "
+"Missiles V5 pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1456
 msgid ""
@@ -1351,13 +1528,15 @@ msgstr "Quelle arme souhaitez-vous fabriquer ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ORGANIC\"]/choice[@req=\"FM_BEAM_BASILISK_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Votre Sangsue regarde avec avidité votre arme de Bulbe d'élite..."
 
 #: src-en/data/events_special_storage.xml.append:1479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_ORGANIC\"]/choice[@req=\"FM_BEAM_BASILISK_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une créature vraiment vorace et d'une salade de grande "
+"qualité pour assouvir son appétit afin de forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1485
 msgid ""
@@ -1373,13 +1552,15 @@ msgstr "Quelle arme souhaitez-vous fabriquer ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_UPGRADE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Améliorer la ligne de Flak en métal"
 
 #: src-en/data/events_special_storage.xml.append:1509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_UPGRADE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous avez besoin d'une arme de ligne Flak en bronze de niveau 1--->niveau 9 "
+"pour continuer"
 
 #: src-en/data/events_special_storage.xml.append:1515
 msgid ""
@@ -1389,12 +1570,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_BATTLE\"]/text"
-msgstr ""
+msgstr "Quel DRONE D'ABORDAGE souhaiteriez-vous fabriquer ?"
 
 #: src-en/data/events_special_storage.xml.append:1532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_BATTLE\"]/choice[1]/text"
-msgstr ""
+msgstr "Bientôt dans la version 0.4.1 !"
 
 #: src-en/data/events_special_storage.xml.append:1540
 msgid ""
@@ -1404,139 +1585,187 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/text"
-msgstr ""
+msgstr "Quel DRONE DE BATAILLE souhaiteriez-vous fabriquer ?"
 
 #: src-en/data/events_special_storage.xml.append:1562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Aligner le noyau central d'énergie du Drone Énergétique Amp avec les "
+"lentilles de l'arme à faisceau du Drone de Bataille MK II pour créer le "
+"Drone à rayon d'énergie 'Quelqu'un d'autre l'a nommé (Spectro-Boum)'."
 
 #: src-en/data/events_special_storage.xml.append:1567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Drone Énergétique Amp et d'un Drone de Bataille MK "
+"II pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_AMBER_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Surcharger le réseau du Cristal Lourd MK I avec les particules du Drone "
+"d'Assaut pour forger le Drone de Bataille Ambré."
 
 #: src-en/data/events_special_storage.xml.append:1577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_AMBER_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Cristal Lourd MK I et d'un Drone d'Assaut pour "
+"forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Calibrer les fréquences de résonance des projectiles de l'Éclats Cristal en "
+"utilisant le noyau du Drone d'Assaut pour forger le Drone de Bataille "
+"Cristalien."
 
 #: src-en/data/events_special_storage.xml.append:1587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Éclats Cristalien et d'un Drone d'Assaut pour "
+"forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_CURA_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Optimiser le réacteur et les algorithmes du Drone de Bataille conservateur à "
+"l'aide de l'ordinateur du Drone d'interface tout en construisant une usine "
+"de drones de fortune à l'aide du plan du Drone de Bataille MK I."
 
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_CURA_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Drone d'interface, d'un Drone de Bataille "
+"conservateur et d'un Drone de Bataille MK I pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Infuser l'essence d'un fantôme dans votre Drone d'Assaut pour fabriquer le "
+"Drone lance-flammes Dazhbog."
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Drone d'Assaut et d'une forme gazeuse pour forger "
+"ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Demander à vos Plaqués d'utiliser leur expertise dans l'art de la forge pour "
+"convertir votre Drone de Bataille MK II en Drone Maître des Forges."
 
 #: src-en/data/events_special_storage.xml.append:1617
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Drone de Bataille MK II et d'un artisan expert pour "
+"forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Créer une boucle de rétroaction entre les rayons du Stiletto et du Drone "
+"Aiguillon Amplifié pour fabriquer le Drone à Rayon Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:1627
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Aiguillon Stiletto et d'un Drone Aiguillon Amplifié "
+"pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le mécanisme de chargement interne du Laser Rafale MK II dans le "
+"Drone de Bataille MK I pour fabriquer le Drone de Bataille Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser Rafale MK II et d'un Drone de Bataille MK I "
+"pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Installer le Laser Léger MK I dans le châssis du Drone de Bataille MK I pour "
+"fabriquer le Drone de Bataille MFK Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:1647
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un Laser Léger MK I et d'un Drone de Bataille MK I "
+"pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Utiliser la suite de données du Drone de reconnaissance pour reconfigurer "
+"votre technologie de téléportation externe en Relais de téléportation de "
+"sentinelle MFK."
 
 #: src-en/data/events_special_storage.xml.append:1657
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'un drone de reconnaissance et de l'augmentation "
+"Téléporteur Reconstructeur Externe pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_SIREN_DRONE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Extraire les composants étourdissants de la Bombe Étourdissante et les "
+"intégrer au Drone Ravageur pour créer le Drone de Bataille Sirène."
 
 #: src-en/data/events_special_storage.xml.append:1667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_SIREN_DRONE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous devez disposer d'une Bombe étourdissante et d'un Drone Ravageur pour "
+"forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
@@ -1546,12 +1775,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1687
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser Anomalie 'TLALOC'."
 
 #: src-en/data/events_special_storage.xml.append:1689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Laser Anomalie \"TLALOC"
 
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
@@ -1571,12 +1800,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1711
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Mitrailleuse Gatling 'Flash des enfers'."
 
 #: src-en/data/events_special_storage.xml.append:1713
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_FIRE\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer la Mitrailleuse Gatling 'Flash des enfers'."
 
 #: src-en/data/events_special_storage.xml.append:1715
 msgid ""
@@ -1596,12 +1825,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le lance-flammes Dazhbog."
 
 #: src-en/data/events_special_storage.xml.append:1737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/text"
-msgstr ""
+msgstr "Fabriquer le Lance-flammes Dazhbog en utilisant une Goule."
 
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
@@ -1632,6 +1861,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_GOUL\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Vous emballez soigneusement la Goule dans la chambre à combustible du Lance-"
+"flammes."
 
 #: src-en/data/events_special_storage.xml.append:1756
 msgid ""
@@ -1641,7 +1872,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/text"
-msgstr ""
+msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Esprit."
 
 #: src-en/data/events_special_storage.xml.append:1769
 msgid ""
@@ -1672,6 +1903,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Vous emballez soigneusement l'Esprit dans la chambre à combustible du lance-"
+"flammes."
 
 #: src-en/data/events_special_storage.xml.append:1786
 msgid ""
@@ -1681,7 +1914,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/text"
-msgstr ""
+msgstr "Fabriquer le lance-flammes Dazhbog à l'aide d'un Cauchemar."
 
 #: src-en/data/events_special_storage.xml.append:1799
 msgid ""
@@ -1712,6 +1945,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Vous introduisez soigneusement le Cauchemar dans la chambre à combustible du "
+"lance-flammes."
 
 #: src-en/data/events_special_storage.xml.append:1816
 msgid ""
@@ -1721,7 +1956,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/text"
-msgstr ""
+msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Spectre."
 
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
@@ -1752,6 +1987,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_WRAITH\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Vous emballez soigneusement le Spectre dans la chambre à combustible du "
+"Lance-flammes."
 
 #: src-en/data/events_special_storage.xml.append:1846
 msgid ""
@@ -1802,6 +2039,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PHASER_SUFFOCATION\"]/choice[1]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
+"Le Lanius commence à se désintégrer tandis que vous canalisez les énergies "
+"du Phaseur en lui, se fondant dans le métal de l'arme et le remodelant."
 
 #: src-en/data/events_special_storage.xml.append:1888
 msgid ""
@@ -1816,12 +2055,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1905
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser Photon I."
 
 #: src-en/data/events_special_storage.xml.append:1907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Laser Photons I."
 
 #: src-en/data/events_special_storage.xml.append:1909
 msgid ""
@@ -1841,12 +2080,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser Photon II."
 
 #: src-en/data/events_special_storage.xml.append:1931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_PHOTON_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Laser Photons II."
 
 #: src-en/data/events_special_storage.xml.append:1933
 msgid ""
@@ -1866,12 +2105,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Extracteur rebelle."
 
 #: src-en/data/events_special_storage.xml.append:1955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_HUMAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer 'l'Extracteur rebelle'."
 
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
@@ -1891,12 +2130,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:1977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Inducteur de Faille 'Absolution'."
 
 #: src-en/data/events_special_storage.xml.append:1979
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_LASER_ION_MEGA\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer l'Inducteur de Faille 'Absolution'."
 
 #: src-en/data/events_special_storage.xml.append:1981
 msgid ""
@@ -1916,12 +2155,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_GODKILLER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Tueur de Dieu."
 
 #: src-en/data/events_special_storage.xml.append:2006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_GODKILLER\"]/choice[1]/text"
-msgstr ""
+msgstr "Changer le réglage de l'arme de \"Semi-Auto\" à \"Full Auto\"."
 
 #: src-en/data/events_special_storage.xml.append:2008
 msgid ""
@@ -1951,12 +2190,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Multi-Barrage Laser."
 
 #: src-en/data/events_special_storage.xml.append:2036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SURGE_LASER\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le 'Multi-barrage'."
 
 #: src-en/data/events_special_storage.xml.append:2038
 msgid ""
@@ -1976,12 +2215,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Disque énergisé 'TARANIS'."
 
 #: src-en/data/events_special_storage.xml.append:2071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_1\"]/text"
-msgstr ""
+msgstr "Fabriquer le Disque énergisé 'TARANIS' à l'aide du lance-mines Geb."
 
 #: src-en/data/events_special_storage.xml.append:2073
 msgid ""
@@ -1996,7 +2235,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_2\"]/text"
-msgstr ""
+msgstr "Fabriquer le Disque énergisé 'TARANIS' à l'aide du lance-mines Osiris."
 
 #: src-en/data/events_special_storage.xml.append:2089
 msgid ""
@@ -2011,7 +2250,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_FIRE\"]/text"
-msgstr ""
+msgstr "Fabriquer le Disque énergisé 'TARANIS' à l'aide du lance-mines Sekhmet."
 
 #: src-en/data/events_special_storage.xml.append:2106
 msgid ""
@@ -2026,7 +2265,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_DISC\"]/choice[@req=\"MINELAUNCHER_STUN\"]/text"
-msgstr ""
+msgstr "Fabriquer le Disque énergisé 'TARANIS' à l'aide du lance-mines Anubis."
 
 #: src-en/data/events_special_storage.xml.append:2122
 msgid ""
@@ -2046,12 +2285,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Ion 'Cerbère'."
 
 #: src-en/data/events_special_storage.xml.append:2145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_TRI_FIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer l'Ion 'Cerbère'."
 
 #: src-en/data/events_special_storage.xml.append:2147
 msgid ""
@@ -2091,12 +2330,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2177
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Gatling Ionique 'Vesta'."
 
 #: src-en/data/events_special_storage.xml.append:2180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Fabriquer la Gatling Ionique 'Vesta' en utilisant le Charge Ion I."
 
 #: src-en/data/events_special_storage.xml.append:2182
 msgid ""
@@ -2111,7 +2350,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CHAINGUN_ION\"]/choice[@req=\"ION_CHARGEGUN_2\"]/text"
-msgstr ""
+msgstr "Fabriquer la Gatling Ionique 'Vesta' avec la Charge Ion II."
 
 #: src-en/data/events_special_storage.xml.append:2198
 msgid ""
@@ -2131,12 +2370,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Diffuseur Énergétique 'Exidia'."
 
 #: src-en/data/events_special_storage.xml.append:2220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST_PLUS\"]/text"
 msgstr ""
+"Fabriquer le Diffuseur Énergétique 'Exidia' en utilisant le Chargeur "
+"d'énergie+."
 
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
@@ -2152,6 +2393,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ENERGY\"]/choice[@req=\"FM_SHOTGUN_ENERGY_LIST\"]/text"
 msgstr ""
+"Fabriquer le Diffuseur Énergétique 'Exidia' en utilisant le Chargeur "
+"d'énergie."
 
 #: src-en/data/events_special_storage.xml.append:2237
 msgid ""
@@ -2171,12 +2414,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser à impulsions I."
 
 #: src-en/data/events_special_storage.xml.append:2259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Laser à impulsions I."
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -2196,12 +2439,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser à impulsions II."
 
 #: src-en/data/events_special_storage.xml.append:2285
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Fabriquer le Laser à impulsions II+ en utilisant l'Énergie II+."
 
 #: src-en/data/events_special_storage.xml.append:2287
 msgid ""
@@ -2216,7 +2459,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_2\"]/choice[@req=\"FM_PULSE_2_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Laser à impulsions II en utilisant l'Énergie II."
 
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
@@ -2236,12 +2479,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_3\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Laser à impulsions III."
 
 #: src-en/data/events_special_storage.xml.append:2324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSE_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Laser à impulsions III."
 
 #: src-en/data/events_special_storage.xml.append:2326
 msgid ""
@@ -2261,12 +2504,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Canon à impulsions."
 
 #: src-en/data/events_special_storage.xml.append:2351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_PULSEDEEP\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Canon à impulsions."
 
 #: src-en/data/events_special_storage.xml.append:2353
 msgid ""
@@ -2286,12 +2529,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:2387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:2389
 msgid ""
@@ -2311,12 +2554,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon Terra Nova."
 
 #: src-en/data/events_special_storage.xml.append:2414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[@req=\"FM_BEAM_MINING_3_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon Terra Nova en utilisant la Miséricorde."
 
 #: src-en/data/events_special_storage.xml.append:2416
 msgid ""
@@ -2331,7 +2574,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_MINING_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon Terra Nova à l'aide du Stiletto."
 
 #: src-en/data/events_special_storage.xml.append:2434
 msgid ""
@@ -2351,12 +2594,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon \"Cuillère d'oreille\"."
 
 #: src-en/data/events_special_storage.xml.append:2459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_PARTICLE_PIERCE\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le rayon 'Cuillère d'oreille'."
 
 #: src-en/data/events_special_storage.xml.append:2461
 msgid ""
@@ -2376,12 +2619,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon Menaulion. Quelle beauté !"
 
 #: src-en/data/events_special_storage.xml.append:2483
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Nourrir les Robotueurs pour créer le Rayon Menaulion+ ?"
 
 #: src-en/data/events_special_storage.xml.append:2485
 msgid ""
@@ -2401,12 +2644,12 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_2\"]/text"
-msgstr ""
+msgstr "Nourrir les Robotueurs verrouillés pour créer le Rayon Ménaulion+ ?"
 
 #: src-en/data/events_special_storage.xml.append:2511
 msgid ""
@@ -2426,12 +2669,12 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2525
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_2\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_3\"]/text"
-msgstr ""
+msgstr "Nourrir les Robotueurs internalisés pour créer le Rayon Menaulion+ ?"
 
 #: src-en/data/events_special_storage.xml.append:2537
 msgid ""
@@ -2451,12 +2694,12 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2551
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_PLUS_3\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST\"]/text"
-msgstr ""
+msgstr "Nourrir les Robotueurs pour créer le Rayon Menaulion ?"
 
 #: src-en/data/events_special_storage.xml.append:2563
 msgid ""
@@ -2476,12 +2719,12 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_2\"]/text"
-msgstr ""
+msgstr "Nourrir les Robotueurs verrouillés pour créer le Rayon Ménaulion ?"
 
 #: src-en/data/events_special_storage.xml.append:2589
 msgid ""
@@ -2501,12 +2744,12 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_2\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_3\"]/text"
-msgstr ""
+msgstr "Rayonner les Robotueurs internalisés pour créer le Rayon Menaulion ?"
 
 #: src-en/data/events_special_storage.xml.append:2615
 msgid ""
@@ -2526,7 +2769,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:2629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_3\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 
 #: src-en/data/events_special_storage.xml.append:2639
 msgid ""
@@ -2536,12 +2779,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon 'Valefor'."
 
 #: src-en/data/events_special_storage.xml.append:2648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Valefor'+ en utilisant le Rayon Hallebarde+."
 
 #: src-en/data/events_special_storage.xml.append:2650
 msgid ""
@@ -2556,7 +2799,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST_EGG\"]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Valefor' en utilisant le Rayon Hallebarde."
 
 #: src-en/data/events_special_storage.xml.append:2666
 msgid ""
@@ -2571,7 +2814,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_EXPLOSION\"]/choice[@req=\"FM_BEAM_EXPLOSION_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Valefor' en utilisant le Rayon Hallebarde."
 
 #: src-en/data/events_special_storage.xml.append:2681
 msgid ""
@@ -2591,12 +2834,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon 'Kontos'."
 
 #: src-en/data/events_special_storage.xml.append:2705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_1\"]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Kontos' en utilisant l'Ion standard."
 
 #: src-en/data/events_special_storage.xml.append:2707
 msgid ""
@@ -2611,7 +2854,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_PIERCE\"]/choice[@req=\"ION_2\"]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Kontos' en utilisant le Barrage Ionique MK I."
 
 #: src-en/data/events_special_storage.xml.append:2723
 msgid ""
@@ -2631,12 +2874,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_SPECIAL\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon 'HD_Hotfix_26v7'."
 
 #: src-en/data/events_special_storage.xml.append:2747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ION_SPECIAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'HD_Hotfix_26v7' en utilisant [rien]."
 
 #: src-en/data/events_special_storage.xml.append:2749
 msgid ""
@@ -2656,12 +2899,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2769
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ETERNITY\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon 'Eternité'."
 
 #: src-en/data/events_special_storage.xml.append:2772
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_ETERNITY\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon 'Éternité'."
 
 #: src-en/data/events_special_storage.xml.append:2774
 msgid ""
@@ -2681,12 +2924,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2794
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM_PRISM_SCATTER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Rayon de dispersion prismatique."
 
 #: src-en/data/events_special_storage.xml.append:2797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_BEAM_PRISM_SCATTER\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Rayon de dispersion prismatique."
 
 #: src-en/data/events_special_storage.xml.append:2799
 msgid ""
@@ -2706,12 +2949,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon 'Parazonium'."
 
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_FUELED_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon \"Parazonium\"."
 
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
@@ -2731,12 +2974,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon 'Ébène'."
 
 #: src-en/data/events_special_storage.xml.append:2853
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Ébène'."
 
 #: src-en/data/events_special_storage.xml.append:2855
 msgid ""
@@ -2756,12 +2999,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2875
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon 'Hemlock'."
 
 #: src-en/data/events_special_storage.xml.append:2877
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Hemlock'+ en utilisant l'Énergie II+."
 
 #: src-en/data/events_special_storage.xml.append:2879
 msgid ""
@@ -2776,7 +3019,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:2892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Hemlock' en utilisant l'Énergie II."
 
 #: src-en/data/events_special_storage.xml.append:2894
 msgid ""
@@ -2796,12 +3039,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_3\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon 'Cœur-Vert'."
 
 #: src-en/data/events_special_storage.xml.append:2916
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Cœur-Vert'."
 
 #: src-en/data/events_special_storage.xml.append:2918
 msgid ""
@@ -2846,12 +3089,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2956
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_CONS\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon 'Érable'."
 
 #: src-en/data/events_special_storage.xml.append:2958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_CONS\"]/choice[@req=\"FM_FOCUS_ENERGY_CONS_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Érable'."
 
 #: src-en/data/events_special_storage.xml.append:2960
 msgid ""
@@ -2871,12 +3114,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:2980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon viral 'Aegrotatio'."
 
 #: src-en/data/events_special_storage.xml.append:2982
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Aegrotatio'."
 
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
@@ -2891,7 +3134,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_VIRUS\"]/choice[@req=\"FM_FOCUS_VIRUS_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon 'Aegrotatio'."
 
 #: src-en/data/events_special_storage.xml.append:3003
 msgid ""
@@ -2911,12 +3154,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ADAPT\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement l'Aiguillon Omiyari."
 
 #: src-en/data/events_special_storage.xml.append:3028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FOCUS_ADAPT\"]/choice[@req=\"FM_FOCUS_ADAPT_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer l'Aiguillon Omiyari."
 
 #: src-en/data/events_special_storage.xml.append:3030
 msgid ""
@@ -2936,12 +3179,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Générateur d'anomalies 'KHEIMON'."
 
 #: src-en/data/events_special_storage.xml.append:3060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_MEGA\"]/text"
 msgstr ""
+"Fabriquer le Générateur d'anomalies 'KHEIMON'++ en utilisant le Givrant II+ "
+"et la Flak irradié+."
 
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
@@ -2957,6 +3202,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS\"]/text"
 msgstr ""
+"Fabriquer le Générateur d'anomalies 'KHEIMON'+ en utilisant le Givrant II+ "
+"et la Flak irradié."
 
 #: src-en/data/events_special_storage.xml.append:3077
 msgid ""
@@ -2972,6 +3219,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST_PLUS_2\"]/text"
 msgstr ""
+"Fabriquer le Générateur d'anomalies 'KHEIMON'+ en utilisant le Givrant II et "
+"la Flak irradié+."
 
 #: src-en/data/events_special_storage.xml.append:3092
 msgid ""
@@ -2987,6 +3236,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_ANOMALY\"]/choice[@req=\"FM_SHOTGUN_ANOMALY_LIST\"]/text"
 msgstr ""
+"Fabriquer le Générateur d'anomalies 'KHEIMON' en utilisant le Givrant II et "
+"la Flak irradié."
 
 #: src-en/data/events_special_storage.xml.append:3107
 msgid ""
@@ -3006,12 +3257,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_AETHER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak Étherique."
 
 #: src-en/data/events_special_storage.xml.append:3129
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_AETHER\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer la Flak Étherique."
 
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
@@ -3031,12 +3282,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_CURSED\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak Carnifex."
 
 #: src-en/data/events_special_storage.xml.append:3155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_CURSED\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer la Flak Carniflex."
 
 #: src-en/data/events_special_storage.xml.append:3157
 msgid ""
@@ -3056,12 +3307,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Broyeur Cinétique."
 
 #: src-en/data/events_special_storage.xml.append:3178
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST_PLUS\"]/text"
-msgstr ""
+msgstr "Fabriquer le Broyeur Cinétique+ en utilisant le Chargeur d'énergie+."
 
 #: src-en/data/events_special_storage.xml.append:3180
 msgid ""
@@ -3076,7 +3327,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_RAILBLENDER\"]/choice[@req=\"FM_ENERGY_RAILBLENDER_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Broyeur Cinétique en utilisant le Chargeur d'énergie."
 
 #: src-en/data/events_special_storage.xml.append:3195
 msgid ""
@@ -3096,12 +3347,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:3222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/text"
-msgstr ""
+msgstr "Utiliser la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3224
 msgid ""
@@ -3111,7 +3362,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:3226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale I dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
@@ -3126,7 +3377,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3245
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale I d'Élite dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3247
 msgid ""
@@ -3141,12 +3392,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_2\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale MK II dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Créer une Flak de bronze en utilisant le Cristal Rafale II."
 
 #: src-en/data/events_special_storage.xml.append:3274
 msgid ""
@@ -3156,7 +3407,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale d'Élite MK II dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3285
 msgid ""
@@ -3171,7 +3422,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd MK I dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3304
 msgid ""
@@ -3186,7 +3437,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd d'Élite MK I dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
@@ -3201,7 +3452,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd MK II dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3342
 msgid ""
@@ -3216,7 +3467,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd d'Élite MK II dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3361
 msgid ""
@@ -3231,7 +3482,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3378
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Neuronal dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3380
 msgid ""
@@ -3246,7 +3497,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3397
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Neuronal d'Élite dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3399
 msgid ""
@@ -3261,7 +3512,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/text"
-msgstr ""
+msgstr "Installer l'Éclats Cristalien dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3418
 msgid ""
@@ -3276,7 +3527,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
-msgstr ""
+msgstr "Installer l'Éclats Cristalien d'Élite dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3437
 msgid ""
@@ -3291,7 +3542,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Installer le Chargeur de Cristal dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
@@ -3306,7 +3557,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
-msgstr ""
+msgstr "Installer le Chargeur de Cristal d'Élite dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3475
 msgid ""
@@ -3321,7 +3572,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Installer le Lanceur d'Éclats dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3494
 msgid ""
@@ -3336,7 +3587,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3511
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2\"]/event/choice[@req=\"BOMB_LOCK\"]/text"
-msgstr ""
+msgstr "Installer la bombe de verrouillage dans la Flak II."
 
 #: src-en/data/events_special_storage.xml.append:3513
 msgid ""
@@ -3351,7 +3602,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/text"
-msgstr ""
+msgstr "Utiliser la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3533
 msgid ""
@@ -3361,7 +3612,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:3535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale I dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3537
 msgid ""
@@ -3376,7 +3627,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale I d'Elite dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3556
 msgid ""
@@ -3391,12 +3642,12 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_2\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale MK II dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_2\"]/event/text"
-msgstr ""
+msgstr "Créer une Flak de bronze en utilisant le Cristal Rafale II."
 
 #: src-en/data/events_special_storage.xml.append:3583
 msgid ""
@@ -3406,7 +3657,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Rafale d'Élite MK II dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3594
 msgid ""
@@ -3421,7 +3672,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3611
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd MK I dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3613
 msgid ""
@@ -3436,7 +3687,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd d'Elite MK I dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3632
 msgid ""
@@ -3451,7 +3702,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3649
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd MK II dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3651
 msgid ""
@@ -3466,7 +3717,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Lourd d'Élite MK II dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3670
 msgid ""
@@ -3481,7 +3732,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3687
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Neuronal dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3689
 msgid ""
@@ -3496,7 +3747,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3706
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
-msgstr ""
+msgstr "Installer le Cristal Neuronal d'Élite dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3708
 msgid ""
@@ -3511,7 +3762,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN\"]/text"
-msgstr ""
+msgstr "Installer l'Éclats Cristalien dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3727
 msgid ""
@@ -3526,7 +3777,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
-msgstr ""
+msgstr "Installer l'Éclats Cristalien d'élite dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3746
 msgid ""
@@ -3541,7 +3792,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3763
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "Installer le Chargeur de Cristal dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3765
 msgid ""
@@ -3556,7 +3807,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
-msgstr ""
+msgstr "Installer le Chargeur de Cristal d'Elite dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3784
 msgid ""
@@ -3571,7 +3822,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3801
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Installer le Lanceur d'Éclats dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3803
 msgid ""
@@ -3586,7 +3837,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3820
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SHOTGUN_BRONZE\"]/choice[@req=\"SHOTGUN_2_PLAYER\"]/event/choice[@req=\"BOMB_LOCK\"]/text"
-msgstr ""
+msgstr "Installer la bombe de verrouillage dans la Flak II+."
 
 #: src-en/data/events_special_storage.xml.append:3822
 msgid ""
@@ -3611,12 +3862,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement les Missiles 'Feu Infernal'."
 
 #: src-en/data/events_special_storage.xml.append:3865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_MEGA_PLUS\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Feu Infernal'++ en utilisant les missiles Ares+ et "
+"les missiles Hadès+."
 
 #: src-en/data/events_special_storage.xml.append:3867
 msgid ""
@@ -3632,6 +3885,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Feu Infernal'+ en utilisant les missiles Ares et les "
+"missiles Hadès+."
 
 #: src-en/data/events_special_storage.xml.append:3882
 msgid ""
@@ -3647,6 +3902,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST_PLUS_TYPE2\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Feu Infernal'+ en utilisant les missiles Ares+ et "
+"les missiles Hadès."
 
 #: src-en/data/events_special_storage.xml.append:3897
 msgid ""
@@ -3662,6 +3919,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_BURST_FIRE\"]/choice[@req=\"FM_MISSILES_BURST_FIRE_LIST\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Feu Infernal' en utilisant les missiles Ares et les "
+"missiles Hadès."
 
 #: src-en/data/events_special_storage.xml.append:3912
 msgid ""
@@ -3681,12 +3940,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:3932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement les missiles 'Tchernobog'."
 
 #: src-en/data/events_special_storage.xml.append:3934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_MEGA\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Tchernobog'+ en utilisant l'Énergie étourdissant+ et "
+"les missiles 'Nyx'+."
 
 #: src-en/data/events_special_storage.xml.append:3936
 msgid ""
@@ -3702,6 +3963,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Tchernobog'+ en utilisant l'Énergie étourdissant+."
 
 #: src-en/data/events_special_storage.xml.append:3951
 msgid ""
@@ -3716,7 +3978,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:3964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST_PLUS_2\"]/text"
-msgstr ""
+msgstr "Fabriquez les Missiles 'Tchernobog'+ en utilisant les Missiles 'Nyx'+."
 
 #: src-en/data/events_special_storage.xml.append:3966
 msgid ""
@@ -3732,6 +3994,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MISSILES_CLOAK_STUN\"]/choice[@req=\"FM_MISSILES_CLOAK_STUN_LIST\"]/text"
 msgstr ""
+"Fabriquer les missiles 'Tchernobog' en utilisant l'Énergie étourdissant."
 
 #: src-en/data/events_special_storage.xml.append:3981
 msgid ""
@@ -3751,12 +4014,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la bombe Ovenator."
 
 #: src-en/data/events_special_storage.xml.append:4003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_FIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer la bombe Ovenator."
 
 #: src-en/data/events_special_storage.xml.append:4005
 msgid ""
@@ -3776,12 +4039,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4025
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_BIO\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le projet #22 : Sans nom."
 
 #: src-en/data/events_special_storage.xml.append:4027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMB_CRYSTAL_BIO\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Projet #22."
 
 #: src-en/data/events_special_storage.xml.append:4029
 msgid ""
@@ -3801,12 +4064,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMBLAUNCHER_HULL\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Lance-mines 'Ba-Pef'."
 
 #: src-en/data/events_special_storage.xml.append:4051
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BOMBLAUNCHER_HULL\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Lance-mines 'Ba-Pef'."
 
 #: src-en/data/events_special_storage.xml.append:4053
 msgid ""
@@ -3826,12 +4089,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4073
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MINELAUNCHER_BIO\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Lance-mines 'bombe sale'."
 
 #: src-en/data/events_special_storage.xml.append:4075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MINELAUNCHER_BIO\"]/choice[1]/text"
-msgstr ""
+msgstr "Fabriquer le Lance-mines 'Bombe sale'."
 
 #: src-en/data/events_special_storage.xml.append:4077
 msgid ""
@@ -3851,12 +4114,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4097
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_MISSILES\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement les Missiles lourds \"Debilitatum\"."
 
 #: src-en/data/events_special_storage.xml.append:4099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ION_MISSILES\"]/choice[@req=\"FM_ION_MISSILES_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer les Missiles lourds \"Debilitatum"
 
 #: src-en/data/events_special_storage.xml.append:4101
 msgid ""
@@ -3876,12 +4139,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Générateur de Confinement."
 
 #: src-en/data/events_special_storage.xml.append:4123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_1\"]/text"
 msgstr ""
+"Fabriquer le Générateur de Confinement à l'aide d'une Bombe Etourdissante et "
+"d'un Cristal Neuronal"
 
 #: src-en/data/events_special_storage.xml.append:4125
 msgid ""
@@ -3897,6 +4162,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_IMPRISMENT_INDUCER\"]/choice[@req=\"FM_IMPRISMENT_INDUCER_LIST_2\"]/text"
 msgstr ""
+"Fabriquer le Générateur de Confinement à l'aide d'une Bombe étourdissante et "
+"d'un Cristal Neuronal Élite"
 
 #: src-en/data/events_special_storage.xml.append:4143
 msgid ""
@@ -3916,13 +4183,13 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Volley Gun."
 
 #: src-en/data/events_special_storage.xml.append:4169
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Fabriquer le Volley Gun en utilisant 4 AC 1s"
 
 #: src-en/data/events_special_storage.xml.append:4171
 msgid ""
@@ -3940,7 +4207,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Fabriquer le Volley Gun en utilisant 3 AC 1s"
 
 #: src-en/data/events_special_storage.xml.append:4192
 msgid ""
@@ -3958,7 +4225,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_RVS_AC_CHARGE\"]/choice[@req=\"AC_1_COUNT\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Fabriquer le Volley Gun en utilisant 2 AC 1s"
 
 #: src-en/data/events_special_storage.xml.append:4212
 msgid ""
@@ -3980,12 +4247,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4236
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_MAMMOTH_CANNON\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le canon \"Mammouth\"."
 
 #: src-en/data/events_special_storage.xml.append:4238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_MAMMOTH_CANNON\"]/choice[@req=\"MAMMOTH_CANNON_FORGE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le canon 'Mammouth'"
 
 #: src-en/data/events_special_storage.xml.append:4240
 msgid ""
@@ -4006,11 +4273,15 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/text"
 msgstr ""
+"Vous consultez actuellement le Drone à rayon d'énergie 'Quelqu'un d'autre "
+"l'a nommé (Spectro-Boum)'."
 
 #: src-en/data/events_special_storage.xml.append:4266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ENERGY_COMBAT_BEAM1\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\"]/text"
 msgstr ""
+"Fabriquer le Drone à rayon d'énergie 'Quelqu'un d'autre l'a nommé (Spectro-"
+"Boum)'."
 
 #: src-en/data/events_special_storage.xml.append:4268
 msgid ""
@@ -4025,12 +4296,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille."
 
 #: src-en/data/events_special_storage.xml.append:4285
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_AMBER_DRONE\"]/choice[@req=\"FM_AMBER_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Ambré."
 
 #: src-en/data/events_special_storage.xml.append:4287
 msgid ""
@@ -4045,12 +4316,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille Cristalien."
 
 #: src-en/data/events_special_storage.xml.append:4304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CRYSTAL_DRONE\"]/choice[@req=\"FM_CRYSTAL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Cristalien."
 
 #: src-en/data/events_special_storage.xml.append:4306
 msgid ""
@@ -4065,12 +4336,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille CURA ."
 
 #: src-en/data/events_special_storage.xml.append:4323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_CURA_DRONE\"]/choice[@req=\"FM_CURA_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone CURA."
 
 #: src-en/data/events_special_storage.xml.append:4325
 msgid ""
@@ -4085,12 +4356,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone lance-flammes Dazhbog."
 
 #: src-en/data/events_special_storage.xml.append:4344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Esprit."
 
 #: src-en/data/events_special_storage.xml.append:4346
 msgid ""
@@ -4101,11 +4372,12 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/removeCrew/text"
 msgstr ""
+"Vous infusez avec précaution les gaz de votre Esprit dans le Drone d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4357
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Dazhbog en utilisant une Goule."
 
 #: src-en/data/events_special_storage.xml.append:4359
 msgid ""
@@ -4116,11 +4388,12 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST2\"]/event/removeCrew/text"
 msgstr ""
+"Vous infusez avec précaution les gaz de votre Goule dans le Drone d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Cauchemar."
 
 #: src-en/data/events_special_storage.xml.append:4372
 msgid ""
@@ -4131,11 +4404,13 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/removeCrew/text"
 msgstr ""
+"Vous infusez avec précaution les gaz de votre Cauchemar dans le Drone "
+"d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4383
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Spectre."
 
 #: src-en/data/events_special_storage.xml.append:4385
 msgid ""
@@ -4146,6 +4421,7 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST4\"]/event/removeCrew/text"
 msgstr ""
+"Vous infusez avec précaution les gaz de votre Spectre dans le Drone d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4396
 msgid ""
@@ -4155,12 +4431,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille Maître des forges."
 
 #: src-en/data/events_special_storage.xml.append:4405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FORGEMAN_DRONE\"]/choice[@req=\"FM_FORGEMAN_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Maître des forges."
 
 #: src-en/data/events_special_storage.xml.append:4407
 msgid ""
@@ -4175,12 +4451,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4421
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:4423
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_ISHIMURA_DRONE\"]/choice[@req=\"FM_ISHIMURA_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Ishimura."
 
 #: src-en/data/events_special_storage.xml.append:4425
 msgid ""
@@ -4195,12 +4471,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:4442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_KESTREL_DRONE\"]/choice[@req=\"FM_KESTREL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:4444
 msgid ""
@@ -4215,12 +4491,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille MFK Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:4461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone MFK Kestrel."
 
 #: src-en/data/events_special_storage.xml.append:4463
 msgid ""
@@ -4236,11 +4512,12 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/text"
 msgstr ""
+"Vous consultez actuellement le Relais de téléportation de sentinelle MFK."
 
 #: src-en/data/events_special_storage.xml.append:4480
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_PICKET_DRONE\"]/choice[@req=\"FM_MFK_PICKET_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone sentinelle MFK."
 
 #: src-en/data/events_special_storage.xml.append:4482
 msgid ""
@@ -4255,12 +4532,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:4497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement le Drone de Bataille Sirène."
 
 #: src-en/data/events_special_storage.xml.append:4499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_SIREN_DRONE\"]/choice[@req=\"FM_SIREN_DRONE_LIST\"]/text"
-msgstr ""
+msgstr "Fabriquer le Drone Sirène."
 
 #: src-en/data/events_special_storage.xml.append:4501
 msgid ""
@@ -4276,21 +4553,22 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/text"
 msgstr ""
+"Vous parcourez les armes à Bulbes Élite stockées à bord de votre vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:4531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_1_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes Élite."
 
 #: src-en/data/events_special_storage.xml.append:4533
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_1_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_1_ELITE\"]/event/choice[@req=\"KERNEL_1_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avec avidité le Lance-bulbes Élite."
 
 #: src-en/data/events_special_storage.xml.append:4538
 msgid ""
@@ -4311,6 +4589,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_1_ELITE\"]/event/choice[@req=\"KERNEL_1_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4549
 msgid ""
@@ -4320,17 +4600,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:4562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_2_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes Rafale Élite."
 
 #: src-en/data/events_special_storage.xml.append:4564
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_2_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_2_ELITE\"]/event/choice[@req=\"KERNEL_2_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avidement le Lance-bulbes Rafale Élite."
 
 #: src-en/data/events_special_storage.xml.append:4569
 msgid ""
@@ -4351,6 +4631,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_2_ELITE\"]/event/choice[@req=\"KERNEL_2_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4580
 msgid ""
@@ -4360,17 +4642,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:4591
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes Lourd Élite."
 
 #: src-en/data/events_special_storage.xml.append:4593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4596
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/event/choice[@req=\"KERNEL_HEAVY_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avidement le Lance-bulbes Lourd Élite."
 
 #: src-en/data/events_special_storage.xml.append:4598
 msgid ""
@@ -4391,6 +4673,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/event/choice[@req=\"KERNEL_HEAVY_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4609
 msgid ""
@@ -4400,17 +4684,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:4620
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes anti coque Élite."
 
 #: src-en/data/events_special_storage.xml.append:4622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4625
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/event/choice[@req=\"KERNEL_HULL_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avidement le Lance-bulbes anti coque Élite."
 
 #: src-en/data/events_special_storage.xml.append:4627
 msgid ""
@@ -4431,6 +4715,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/event/choice[@req=\"KERNEL_HULL_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4638
 msgid ""
@@ -4440,17 +4726,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:4650
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes en chaîne Élite."
 
 #: src-en/data/events_special_storage.xml.append:4652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4655
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/event/choice[@req=\"KERNEL_CHAIN_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avidement le Lance-bulbes en chaîne Élite."
 
 #: src-en/data/events_special_storage.xml.append:4657
 msgid ""
@@ -4471,6 +4757,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/event/choice[@req=\"KERNEL_CHAIN_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4668
 msgid ""
@@ -4480,17 +4768,17 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:4679
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/text"
-msgstr ""
+msgstr "Laisser votre Sangsue se gaver du Lance-bulbes à Charge Élite."
 
 #: src-en/data/events_special_storage.xml.append:4681
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/event/text"
-msgstr ""
+msgstr "La Sangsue a l'air presque... TROP impatiente."
 
 #: src-en/data/events_special_storage.xml.append:4684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/event/choice[@req=\"KERNEL_CHARGE_ELITE\"]/text"
-msgstr ""
+msgstr "La Sangsue dévore avidement le Lance-bulbes à Charge Élite."
 
 #: src-en/data/events_special_storage.xml.append:4686
 msgid ""
@@ -4511,6 +4799,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_BASILISK\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/event/choice[@req=\"KERNEL_CHARGE_ELITE\"]/event/choice/event/removeCrew/text"
 msgstr ""
+"La Sangsue se nourrit de l'arme à Bulbes Élite, fusionnant avec elle d'une "
+"étrange manière organique."
 
 #: src-en/data/events_special_storage.xml.append:4697
 msgid ""
@@ -4526,197 +4816,237 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Aiguillon Amplifié) Définir l'état de l'arme. [Puissance actuelle : 2]"
 
 #: src-en/data/events_special_storage.xml.append:4735
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Aiguillon Amplifié) Définir l'état de l'arme. [Puissance actuelle : 2]"
 
 #: src-en/data/events_special_storage.xml.append:4739
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Aiguillon Amplifié) Définir l'état de l'arme. [Puissance actuelle :3]"
 
 #: src-en/data/events_special_storage.xml.append:4743
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Aiguillon Amplifié) Définir l'état de l'arme. [Puissance actuelle :3]"
 
 #: src-en/data/events_special_storage.xml.append:4747
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Amp Aiguillon) Définir l'état de l'arme. [Puissance actuelle : 4]"
 
 #: src-en/data/events_special_storage.xml.append:4751
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"(Drone de combat Ancalagon) Définir l'état du drone. "
+"[Mode actuel : Anti-Personnel]"
 
 #: src-en/data/events_special_storage.xml.append:4755
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[7]/text"
 msgstr ""
+"(Drone de combat Ancalagon) Définir l'état du drone. [Mode actuel : Abordage]"
 
 #: src-en/data/events_special_storage.xml.append:4759
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "(Drone de Combat 2+) Définir l'état du drone. [Mode actuel : Laser]"
 
 #: src-en/data/events_special_storage.xml.append:4763
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "(Drone de Combat 2+) Définir l'état du drone. [Mode actuel : Rayon]"
 
 #: src-en/data/events_special_storage.xml.append:4767
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
 msgstr ""
+"(Drone YinYang Déformé) Définir l'état du drone. "
+"[Mode actuel : Anti-Personnel]"
 
 #: src-en/data/events_special_storage.xml.append:4771
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[11]/text"
 msgstr ""
+"(Drone YinYang Déformé) Définir l'état du drone. [Mode actuel : Abordage]"
 
 #: src-en/data/events_special_storage.xml.append:4775
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[12]/text"
 msgstr ""
+"(Drone de combat Déformé II) Définir l'état du drone. "
+"[Mode actuel : Anti-Personnel]"
 
 #: src-en/data/events_special_storage.xml.append:4779
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[13]/text"
 msgstr ""
+"(Drone de combat Déformé II) Définir l'état du drone. "
+"[Mode actuel : Abordage]"
 
 #: src-en/data/events_special_storage.xml.append:4783
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[14]/text"
-msgstr ""
+msgstr "(Chirurgien Déformé) Définir l'état du drone. [Mode actuel : Défensif]"
 
 #: src-en/data/events_special_storage.xml.append:4787
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[15]/text"
-msgstr ""
+msgstr "(Chirurgien Déformé) Définir l'état du drone. [Mode actuel : Abordage]"
 
 #: src-en/data/events_special_storage.xml.append:4791
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[16]/text"
-msgstr ""
+msgstr "(Tueur de Dieu) Définir l'état du Tueur de Dieu. [Mode actuel : Coque]"
 
 #: src-en/data/events_special_storage.xml.append:4795
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[17]/text"
-msgstr ""
+msgstr "(Tueur de Dieu) Définir l'état du Tueur de Dieu. [Mode actuel : Photon]"
 
 #: src-en/data/events_special_storage.xml.append:4799
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
-msgstr ""
+msgstr "(Tueur de Dieu) Définir l'état du Tueur de Dieu. [Mode actuel : Ion]"
 
 #: src-en/data/events_special_storage.xml.append:4803
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[19]/text"
-msgstr ""
+msgstr "(Tueur de Dieu) Définir l'état du Tueur de Dieu. [Mode actuel : Oui]"
 
 #: src-en/data/events_special_storage.xml.append:4810
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[20]/text"
 msgstr ""
+"(Drone à rayon d'énergie) Définir l'état du Drone à rayon d'énergie. "
+"[Mode actuel : Aiguillon]"
 
 #: src-en/data/events_special_storage.xml.append:4815
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[21]/text"
 msgstr ""
+"(Drone à rayon d'énergie) Définir l'état du Drone à rayon d'énergie. "
+"[Mode actuel : Rayon]"
 
 #: src-en/data/events_special_storage.xml.append:4823
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[22]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Standard, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4831
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[23]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : sans étui, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4839
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[24]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Haute vélocité, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4847
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[25]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Recycleur, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4855
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[26]/text"
 msgstr ""
+"(Volley Gun) Changez les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Percutant, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4863
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[27]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : EMP, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4871
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[28]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Particules, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4879
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[29]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Incendiaire, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4887
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[30]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Fléchette, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4895
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[31]/text"
 msgstr ""
+"(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
+"[Mode actuel : Rad, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/text"
 msgstr ""
+"Quelle puissance voulez-vous donner à l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 2 / Temps de recharge 11 / Dommages 3 / "
+"Missiles 20 / Brèche %20 / Feu %10]"
 
 #: src-en/data/events_special_storage.xml.append:4918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, avec un besoin de 30 missiles pour "
+"tirer. [Puissance 2 / Temps de recharge 9 / Dommages 3 / Missiles 30 / "
+"Brèche %30 / Feu %30]"
 
 #: src-en/data/events_special_storage.xml.append:4920
 msgid ""
@@ -4742,6 +5072,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 40 de missiles nécessaires pour tirer. "
+"[Puissance 3 / Temps de recharge 11 / Dommages 4 / Missiles 40 / Brèche %40 /"
+" Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:4938
 msgid ""
@@ -4767,6 +5100,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 50 missiles requis pour tirer. ["
+"Puissance 3 / Temps de recharge 11 / Dommages 5 / Missiles 50 / Brèche %50 / "
+"Feu %70]"
 
 #: src-en/data/events_special_storage.xml.append:4956
 msgid ""
@@ -4792,6 +5128,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_1\"]/choice[4]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 4, 60 missiles requis pour tirer. ["
+"Puissance 4 / Temps de recharge 14 / Dommages 7 / Missiles 60 / Brèche %70 / "
+"Feu %100 / Étourdissement %100]"
 
 #: src-en/data/events_special_storage.xml.append:4974
 msgid ""
@@ -4822,11 +5161,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 2 / Temps de recharge 9 / Dommages 3 / "
+"Missiles 30 / Brèche %30 / Feu %30]"
 
 #: src-en/data/events_special_storage.xml.append:4999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, 20 missiles requis pour tirer. ["
+"Puissance 2 / Temps de recharge 11 / Dommages 3 / Missiles 20 / Brèche %20 / "
+"Feu %10]"
 
 #: src-en/data/events_special_storage.xml.append:5001
 msgid ""
@@ -4852,6 +5197,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 40 de missiles nécessaires pour tirer. "
+"[Puissance 3 / Temps de recharge 11 / Dommages 4 / Missiles 40 / Brèche %40 /"
+" Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5019
 msgid ""
@@ -4877,6 +5225,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 50 missiles requis pour tirer. ["
+"Puissance 3 / Temps de recharge 11 / Dommages 5 / Missiles 50 / Brèche %50 / "
+"Feu %70]"
 
 #: src-en/data/events_special_storage.xml.append:5037
 msgid ""
@@ -4902,6 +5253,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_2\"]/choice[4]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 4, 60 missiles requis pour tirer. ["
+"Puissance 4 / Temps de recharge 14 / Dommages 7 / Missiles 60 / Brèche %70 / "
+"Feu %100 / Étourdissement %100]"
 
 #: src-en/data/events_special_storage.xml.append:5055
 msgid ""
@@ -4932,11 +5286,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 3 / Temps de recharge 11 / Dommages 4 / "
+"Missiles 40 / Brèche %40 / Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, 20 missiles requis pour tirer. ["
+"Puissance 2 / Temps de recharge 11 / Dommages 3 / Missiles 20 / Brèche %20 / "
+"Feu %10]"
 
 #: src-en/data/events_special_storage.xml.append:5082
 msgid ""
@@ -4962,6 +5322,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, avec un besoin de 30 missiles pour "
+"tirer. [Puissance 2 / Temps de recharge 9 / Dommages 3 / Missiles 30 / "
+"Brèche %30 / Feu %30]"
 
 #: src-en/data/events_special_storage.xml.append:5100
 msgid ""
@@ -4987,6 +5350,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 50 missiles requis pour tirer. ["
+"Puissance 3 / Temps de recharge 11 / Dommages 5 / Missiles 50 / Brèche %50 / "
+"Feu %70]"
 
 #: src-en/data/events_special_storage.xml.append:5118
 msgid ""
@@ -5012,6 +5378,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_3\"]/choice[4]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 4, 60 missiles requis pour tirer. ["
+"Puissance 4 / Temps de recharge 14 / Dommages 7 / Missiles 60 / Brèche %70 / "
+"Feu %100 / Étourdissement %100]"
 
 #: src-en/data/events_special_storage.xml.append:5136
 msgid ""
@@ -5042,11 +5411,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 3 / Temps de recharge 11 / Dommages 5 / "
+"Missiles 50 / Brèche %50 / Feu %70]"
 
 #: src-en/data/events_special_storage.xml.append:5161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, 20 missiles requis pour tirer. ["
+"Puissance 2 / Temps de recharge 11 / Dommages 3 / Missiles 20 / Brèche %20 / "
+"Feu %10]"
 
 #: src-en/data/events_special_storage.xml.append:5163
 msgid ""
@@ -5072,6 +5447,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, avec un besoin de 30 missiles pour "
+"tirer. [Puissance 2 / Temps de recharge 9 / Dommages 3 / Missiles 30 / "
+"Brèche %30 / Feu %30]"
 
 #: src-en/data/events_special_storage.xml.append:5181
 msgid ""
@@ -5097,6 +5475,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 40 de missiles nécessaires pour tirer. "
+"[Puissance 3 / Temps de recharge 11 / Dommages 4 / Missiles 40 / Brèche %40 /"
+" Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5199
 msgid ""
@@ -5122,6 +5503,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_4\"]/choice[4]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 4, 60 missiles requis pour tirer. ["
+"Puissance 4 / Temps de recharge 14 / Dommages 7 / Missiles 60 / Brèche %70 / "
+"Feu %100 / Étourdissement %100]"
 
 #: src-en/data/events_special_storage.xml.append:5217
 msgid ""
@@ -5152,11 +5536,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 4 / Temps de recharge 14 / Dommages 7 / "
+"Missiles 60 / Brèche %70 / Feu %100 / Étourdissement 100%]"
 
 #: src-en/data/events_special_storage.xml.append:5242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, 20 missiles requis pour tirer. ["
+"Puissance 2 / Temps de recharge 11 / Dommages 3 / Missiles 20 / Brèche %20 / "
+"Feu %10]"
 
 #: src-en/data/events_special_storage.xml.append:5244
 msgid ""
@@ -5182,6 +5572,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2, avec un besoin de 30 missiles pour "
+"tirer. [Puissance 2 / Temps de recharge 9 / Dommages 3 / Missiles 30 / "
+"Brèche %30 / Feu %30]"
 
 #: src-en/data/events_special_storage.xml.append:5262
 msgid ""
@@ -5207,6 +5600,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 40 de missiles nécessaires pour tirer. "
+"[Puissance 3 / Temps de recharge 11 / Dommages 4 / Missiles 40 / Brèche %40 /"
+" Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5280
 msgid ""
@@ -5232,6 +5628,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_AMP_FOCUS_5\"]/choice[4]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 3, 50 missiles requis pour tirer. ["
+"Puissance 3 / Temps de recharge 11 / Dommages 5 / Missiles 50 / Brèche %50 / "
+"Feu %70]"
 
 #: src-en/data/events_special_storage.xml.append:5298
 msgid ""
@@ -5387,11 +5786,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; "
+"[Puissance 2 / Temps de recharge 0 / Dommages 1/ Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Fait sauter les boucliers / Dommages système 1 / Dommages équipage 15 / Feu "
+"%100]"
 
 #: src-en/data/events_special_storage.xml.append:5426
 msgid ""
@@ -5417,6 +5822,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages ioniques 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5444
 msgid ""
@@ -5442,6 +5849,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_HULL\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Dommages ioniques 1 / Dommages système 1 / Dommages équipage 15 / "
+"Verrouillage / Brèche %50 / Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5462
 msgid ""
@@ -5472,11 +5882,16 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 2 / Temps de recharge 0 / Fait sauter les "
+"boucliers / Dommages système 1 / Dommages équipage 15 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5489
 msgid ""
@@ -5502,6 +5917,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages ioniques 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5507
 msgid ""
@@ -5527,6 +5944,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_PHOTON\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Dommages ioniques 1 / Dommages système 1 / Dommages équipage 15 / "
+"Verrouillage / Brèche %50 / Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5525
 msgid ""
@@ -5557,11 +5977,16 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; "
+"[Puissance 2 / Temps de recharge 0 / Dommages Ioniques 1/ Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5552
 msgid ""
@@ -5587,6 +6012,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Fait sauter les boucliers / Dommages système 1 / Dommages équipage 15 / Feu "
+"%100]"
 
 #: src-en/data/events_special_storage.xml.append:5570
 msgid ""
@@ -5612,6 +6040,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_ION\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Dommages ioniques 1 / Dommages système 1 / Dommages équipage 15 / "
+"Verrouillage / Brèche %50 / Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5588
 msgid ""
@@ -5642,11 +6073,17 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/text"
 msgstr ""
+"A quelle puissance voulez-vous régler l'arme ?\n"
+"\t\t\tStats actuelles ; [Puissance 2 / Temps de recharge 0 / Dommages "
+"ioniques 1 / Dommages système 1 / Dommages équipage 15 / Verrouillage / "
+"Brèche %50 / Feu %50]"
 
 #: src-en/data/events_special_storage.xml.append:5613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[1]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5615
 msgid ""
@@ -5672,6 +6109,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[2]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. [Puissance 2 / Temps de recharge 0 / "
+"Fait sauter les boucliers / Dommages système 1 / Dommages équipage 15 / Feu "
+"%100]"
 
 #: src-en/data/events_special_storage.xml.append:5633
 msgid ""
@@ -5697,6 +6137,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_GATLING_ANCIENT_YES\"]/choice[3]/text"
 msgstr ""
+"Régler l'arme sur une puissance de 2. "
+"[Puissance 2 / Temps de recharge 0 / Dommages ioniques 1 / Feu %100]"
 
 #: src-en/data/events_special_storage.xml.append:5651
 msgid ""
@@ -5766,7 +6208,7 @@ msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 #: src-en/data/events_special_storage.xml.append:5702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_COMBAT_CHECK_FM_ENERGY_COMBAT_BEAM1\"]/choice[1]/text"
-msgstr ""
+msgstr "Régler le drone en mode Aiguillon."
 
 #: src-en/data/events_special_storage.xml.append:5704
 msgid ""
@@ -5796,7 +6238,7 @@ msgstr "Retourner au menu Interchanger."
 #: src-en/data/events_special_storage.xml.append:5728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_FM_RVS_AC_CHARGE\"]/text"
-msgstr ""
+msgstr "Sélectionner un type de munitions à charger dans votre Volley Gun"
 
 #: src-en/data/events_special_storage.xml.append:5853
 msgid ""
@@ -5807,42 +6249,55 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[23]/mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Afficher les options de vitesse d'éperonnage."
 
 #: src-en/data/events_special_storage.xml.append:5936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/text"
-msgstr ""
+msgstr "Sélectionner la force avec laquelle vous souhaitez éperonner l'ennemi."
 
 #: src-en/data/events_special_storage.xml.append:5939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_4\"]/text"
 msgstr ""
+"(Surmultiplicateur Éther) Afficher les options de vitesse d'éperonnage. "
+"Inflige 12 dommages et 10 à vous-même."
 
 #: src-en/data/events_special_storage.xml.append:5944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"LOCKED_RAMMING_SPEED\"]/text"
 msgstr ""
+"Foncer avec cette épave dans un système ennemi aussi violemment que "
+"possible, infligeant 10 Dommages de coque à vous-même et à l’ennemi, ainsi "
+"qu’à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:5949
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_6\"]/text"
 msgstr ""
+"(Moteurs améliorés + Surmultiplicateur) Affiche les options de vitesse "
+"d'éperonnage. Inflige 15 points de dégâts et 12 à vous-même."
 
 #: src-en/data/events_special_storage.xml.append:5954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_6\"]/text"
 msgstr ""
+"(Moteurs améliorés) Afficher les options de vitesse d'éperonnage. Inflige 13 "
+"Dommages et 12 à vous-même."
 
 #: src-en/data/events_special_storage.xml.append:5959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_8\"]/text"
 msgstr ""
+"(Moteurs avancés) Afficher les options de vitesse d'éperonnage. Inflige 18 "
+"Dommages et 15 à vous-même."
 
 #: src-en/data/events_special_storage.xml.append:5964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_MENU\"]/choice[@req=\"RAMMING_SPEED_FM_AETHER_8\"]/text"
 msgstr ""
+"(Moteurs avancés + Surmultiplicateur) Afficher les options de vitesse "
+"d'éperonnage Éther FTL RAM. Inflige 30 Dommages et 20 à vous-même."
 
 #: src-en/data/events_special_storage.xml.append:5969
 msgid ""
@@ -5863,96 +6318,110 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Vous infligerez 10 dommages au "
+"système sélectionné, mais vous subirez 10 dommages à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:5989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:5991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:5997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6003
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6011
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6025
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6033
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6052
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[6]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6079
 msgid ""
@@ -5977,62 +6446,70 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:6098
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6132
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6151
 msgid ""
@@ -6043,26 +6520,30 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[6]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6186
 msgid ""
@@ -6093,11 +6574,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6219
 msgid ""
@@ -6108,71 +6591,81 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6227
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6260
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[6]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6291
 msgid ""
@@ -6197,92 +6690,104 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:6310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6336
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6357
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6371
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[6]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6394
 msgid ""
@@ -6307,92 +6812,104 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6413
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:6415
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6421
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6441
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[6]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6499
 msgid ""
@@ -6417,82 +6934,92 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:6520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[1]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[1]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[2]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[3]/text"
-msgstr ""
+msgstr "Cibler leurs drones."
 
 #: src-en/data/events_special_storage.xml.append:6548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[3]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[3]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6560
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[4]/text"
-msgstr ""
+msgstr "Cibler leurs moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[4]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[4]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[5]/event/text"
 msgstr ""
+"Vous détournez toute l’énergie vers vos moteurs et foncez sur le vaisseau "
+"ennemi de toutes vos forces."
 
 #: src-en/data/events_special_storage.xml.append:6581
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[5]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[6]/text"
-msgstr ""
+msgstr "Cibler leur téléporteur."
 
 #: src-en/data/events_special_storage.xml.append:6589
 msgid ""
@@ -6502,7 +7029,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[6]/event/choice/text"
-msgstr "Poursuivez le combat !"
+msgstr "Poursuivre le combat !"
 
 #: src-en/data/events_special_storage.xml.append:6604
 msgid ""
@@ -7606,7 +8133,6 @@ msgid ""
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_storage.xml.append:7524
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_LANIUS\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
@@ -7677,7 +8203,6 @@ msgid ""
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_storage.xml.append:7579
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_ELITELANIUS\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
@@ -7783,7 +8308,6 @@ msgid ""
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_storage.xml.append:7662
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_AUGMENTEDLANIUS\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
@@ -7894,7 +8418,6 @@ msgid ""
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_storage.xml.append:7747
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_OBELISK\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
@@ -7975,7 +8498,6 @@ msgid ""
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_storage.xml.append:7812
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_ROYALOBELISK\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
@@ -8429,7 +8951,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:8236
 msgid ""
@@ -8751,7 +9273,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
 "Améliorer la flak nobélienne en utilisant de la ferraille et le Rafale "
-"Cristalien Elite I ?"
+"Cristalien Élite I ?"
 
 #: src-en/data/events_special_storage.xml.append:8592
 msgid ""
@@ -8798,7 +9320,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
 "Améliorer la flak nobélienne en utilisant de la ferraille et du Cristal "
-"lourd d'élite Mark II ?"
+"lourd d'Élite Mark II ?"
 
 #: src-en/data/events_special_storage.xml.append:8643
 msgid ""
