@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-03 11:09+0000\n"
+"PO-Revision-Date: 2025-04-04 12:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -2504,12 +2504,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/title"
-msgstr ""
+msgstr "'Multi-Barrage' Laser"
 
 #: src-en/data/blueprints.xml.append:4571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/short"
-msgstr ""
+msgstr "'Multi-barrage'"
 
 #: src-en/data/blueprints.xml.append:4573
 msgid ""
@@ -2903,7 +2903,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/title"
-msgstr ""
+msgstr "Ion 'Cerbère'"
 
 #: src-en/data/blueprints.xml.append:6126
 msgid ""
@@ -2943,7 +2943,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/title"
-msgstr ""
+msgstr "Gatling Ionique 'Vesta'"
 
 #: src-en/data/blueprints.xml.append:6220
 msgid ""
@@ -3345,7 +3345,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/title"
-msgstr ""
+msgstr "'Brise-vaisseau' Terra Nova"
 
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
@@ -3577,7 +3577,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/title"
-msgstr ""
+msgstr "Rayon 'Éternité'"
 
 #: src-en/data/blueprints.xml.append:7993
 msgid ""
@@ -4012,12 +4012,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/title"
-msgstr ""
+msgstr "Flak Étherique"
 
 #: src-en/data/blueprints.xml.append:9047
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/short"
-msgstr ""
+msgstr "F. Étherique"
 
 #: src-en/data/blueprints.xml.append:9048
 msgid ""
@@ -4432,12 +4432,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_CURSED\"]/title"
-msgstr ""
+msgstr "Flak Carniflex"
 
 #: src-en/data/blueprints.xml.append:10036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_CURSED\"]/short"
-msgstr ""
+msgstr "F. Carniflex"
 
 #: src-en/data/blueprints.xml.append:10038
 msgid ""
@@ -5201,7 +5201,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:11813
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/title"
-msgstr ""
+msgstr "Drone lance-flammes Dazhbog"
 
 #: src-en/data/blueprints.xml.append:11814
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/short"
@@ -5349,7 +5349,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12143
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_MFK_PICKET_DRONE\"]/title"
-msgstr ""
+msgstr "Relais de téléportation de sentinelle MFK"
 
 #: src-en/data/blueprints.xml.append:12144
 msgid ""
@@ -5379,7 +5379,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12210
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_SIREN_DRONE\"]/title"
-msgstr ""
+msgstr "Drone de Bataille Sirène"
 
 #: src-en/data/blueprints.xml.append:12211
 msgid ""
@@ -5799,7 +5799,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13226
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RVS_AC_CHARGE_HE\"]/title"
-msgstr ""
+msgstr "Volley Gun [Percutant]"
 
 #: src-en/data/blueprints.xml.append:13227
 msgid ""
@@ -6216,7 +6216,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/title"
-msgstr ""
+msgstr "Ion 'Cerbère'"
 
 #: src-en/data/blueprints.xml.append:14392
 msgid ""
@@ -6256,7 +6256,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/title"
-msgstr ""
+msgstr "Gatling Ionique 'Vesta'"
 
 #: src-en/data/blueprints.xml.append:14485
 msgid ""
@@ -6546,12 +6546,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15029
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak Étherique"
 
 #: src-en/data/blueprints.xml.append:15030
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER_ENEMY\"]/short"
-msgstr ""
+msgstr "F. Étherique"
 
 #: src-en/data/blueprints.xml.append:15032
 msgid ""
@@ -7006,7 +7006,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16150
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/title"
-msgstr ""
+msgstr "Gatling Ionique 'Vesta'"
 
 #: src-en/data/blueprints.xml.append:16151
 msgid ""
