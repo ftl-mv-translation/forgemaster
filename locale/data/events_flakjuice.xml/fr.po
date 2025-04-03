@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-03 11:09+0000\n"
+"PO-Revision-Date: 2025-04-04 12:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -922,7 +922,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:707
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/text"
-msgstr "Échanger un Laser lourd à chaîne contre 11 points de Flak"
+msgstr "Échanger un Laser lourd en chaîne contre 11 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:709
 msgid ""
@@ -995,7 +995,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:767
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/text"
-msgstr "Échanger un laser anti coque à chaîne contre 12 points de Flak"
+msgstr "Échanger un laser anti coque en chaîne contre 12 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:769
 msgid ""
@@ -1070,7 +1070,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:827
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_CHAINGUN\"]/text"
-msgstr "Échanger un Laser Rafale à chaîne contre 13 points de Flak"
+msgstr "Échanger un Laser Rafale en chaîne contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:829
 msgid ""
@@ -2735,7 +2735,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2171
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SHOTGUN_CHAIN\"]/text"
-msgstr "Échanger un canon Flak à chaîne contre 16 points de Flak"
+msgstr "Échanger un canon Flak en chaîne contre 16 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2173
 msgid ""
@@ -2840,7 +2840,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2255
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_1_ELITE\"]/text"
-msgstr "Échanger un Bulbe d'élite MK I contre 13 points de Flak spéciale"
+msgstr "Échanger un Bulbe d'Élite MK I contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2257
 msgid ""
@@ -2870,7 +2870,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2279
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_2_ELITE\"]/text"
-msgstr "Échanger un Bulbe d'élite MK II contre 15 points de Flak spéciale"
+msgstr "Échanger un Bulbe d'Élite MK II contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2281
 msgid ""
@@ -2900,7 +2900,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2303
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HEAVY_ELITE\"]/text"
-msgstr "Échanger un Bulbe lourd d'élite contre 15 points de Flak spéciale"
+msgstr "Échanger un Bulbe lourd d'Élite contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2305
 msgid ""
@@ -2931,7 +2931,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_HULL_ELITE\"]/text"
 msgstr ""
-"Échanger un bulbe de Fracasse-coque d'élite contre 15 points de Flak spéciale"
+"Échanger un bulbe de Fracasse-coque d'Élite contre 15 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2329
 msgid ""
@@ -2961,7 +2961,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2351
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN\"]/text"
-msgstr "Échanger un Bulbe à chaîne contre 14 points de Flak"
+msgstr "Échanger un Bulbe en chaîne contre 14 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2353
 msgid ""
@@ -2976,7 +2976,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2363
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHAIN_ELITE\"]/text"
-msgstr "Échanger un Bulbe à chaîne d'élite contre 17 points de Flak spéciale"
+msgstr "Échanger un Bulbe en chaîne d'Élite contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2365
 msgid ""
@@ -2991,7 +2991,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2375
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE\"]/text"
-msgstr "Échanger un Bulbe de charge contre 10 points de Flak"
+msgstr "Échanger un Bulbe à charge contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2377
 msgid ""
@@ -3006,7 +3006,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2387
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"KERNEL_CHARGE_ELITE\"]/text"
-msgstr "Échanger un Bulbe de charge d'élite contre 13 points de Flak spéciale"
+msgstr "Échanger un Bulbe à charge d'Élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2389
 msgid ""
@@ -3066,7 +3066,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2435
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"SPORE_CHAIN\"]/text"
-msgstr "Échanger un Lanceur de spores à chaîne contre 10 points de Flak"
+msgstr "Échanger un Lanceur de spores en chaîne contre 10 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:2437
 msgid ""
@@ -3112,7 +3112,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
-"Échanger un Cristal Rafale MK I d'élite contre 13 points de Flak spéciale"
+"Échanger un Cristal Rafale MK I d'Élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2473
 msgid ""
@@ -3143,7 +3143,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
-"Échanger un Cristal Rafale MK II d'élite contre 17 points de Flak spéciale"
+"Échanger un Cristal Rafale MK II d'Élite contre 17 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2497
 msgid ""
@@ -3174,7 +3174,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
-"Échanger un Cristal Lourd MK I d'élite contre 10 points de Flak spéciale"
+"Échanger un Cristal Lourd MK I d'Élite contre 10 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2521
 msgid ""
@@ -3205,7 +3205,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
-"Échanger un Cristal Lourd MK II d'élite contre 16 points de Flak spéciale"
+"Échanger un Cristal Lourd MK II d'Élite contre 16 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2545
 msgid ""
@@ -3235,7 +3235,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:2567
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
-msgstr "Échanger un Cristal Neuronal d'élite contre 13 points de Flak spéciale"
+msgstr "Échanger un Cristal Neuronal d'Élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2569
 msgid ""
@@ -3296,7 +3296,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
-"Échanger un Chargeur de Cristalien d'élite contre 13 points de Flak spéciale"
+"Échanger un Chargeur de Cristalien d'Élite contre 13 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:2617
 msgid ""
@@ -7065,7 +7065,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5627
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON\"]/text"
-msgstr "Échanger un Canon à clones [Empt] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Vide] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5629
 msgid ""
@@ -7080,7 +7080,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5639
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BABYORCHID\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Bébé] contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:5641
 msgid ""
@@ -7095,7 +7095,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5651
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ANCIENT\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Obélisque] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5653
 msgid ""
@@ -7110,7 +7110,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5663
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BIRD\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Oiseau Chanteur] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5665
 msgid ""
@@ -7125,7 +7125,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5675
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AVATAR\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Cognitif] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5677
 msgid ""
@@ -7140,7 +7140,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5687
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AUGMENTED\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Augmenté] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5689
 msgid ""
@@ -7155,7 +7155,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5699
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_BISHOP\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Évêque] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5701
 msgid ""
@@ -7170,7 +7170,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5711
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CHIEF\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Chef] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5713
 msgid ""
@@ -7185,7 +7185,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5723
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CLAN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Clan] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5725
 msgid ""
@@ -7200,7 +7200,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5735
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_COMMANDO\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Com] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5737
 msgid ""
@@ -7215,7 +7215,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5747
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRUSADER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Croi] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5749
 msgid ""
@@ -7230,7 +7230,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5759
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CRYSTAL\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Cry] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5761
 msgid ""
@@ -7245,7 +7245,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5771
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SSLG\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Libé] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5773
 msgid ""
@@ -7260,7 +7260,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5783
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_CULTIST\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Cult] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5785
 msgid ""
@@ -7275,7 +7275,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5795
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEFEND\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Def] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5797
 msgid ""
@@ -7290,7 +7290,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5807
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DUSK\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Crép] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5809
 msgid ""
@@ -7305,7 +7305,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5819
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGINEER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Ing] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5821
 msgid ""
@@ -7320,7 +7320,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5831
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ENGI\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Engi] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5833
 msgid ""
@@ -7335,7 +7335,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5843
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Esprit] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5845
 msgid ""
@@ -7350,7 +7350,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5855
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM_ALPHA\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Esprit Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5857
 msgid ""
@@ -7365,7 +7365,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5867
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Goule] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5869
 msgid ""
@@ -7380,7 +7380,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5879
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_GOUL_ALPHA\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Goule Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5881
 msgid ""
@@ -7395,7 +7395,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5891
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Cauchemar] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5893
 msgid ""
@@ -7410,7 +7410,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5903
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE_ALPHA\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Cauchemar Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5905
 msgid ""
@@ -7425,7 +7425,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5915
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Spectre] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5917
 msgid ""
@@ -7440,7 +7440,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5927
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WRAITH_ALPHA\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Spectre Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5929
 msgid ""
@@ -7455,7 +7455,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5939
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HATCH\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Bébé Araig] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5941
 msgid ""
@@ -7470,7 +7470,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5951
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HUMAN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Humain] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5953
 msgid ""
@@ -7485,7 +7485,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5963
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LANIUS\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Lan] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5965
 msgid ""
@@ -7500,7 +7500,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5975
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MANTIS\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Mant] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5977
 msgid ""
@@ -7515,7 +7515,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5987
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_FREEMANTIS\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Mantis libre] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5989
 msgid ""
@@ -7530,7 +7530,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5999
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MEDIC\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Med] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6001
 msgid ""
@@ -7545,7 +7545,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6011
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MONK\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Moine] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6013
 msgid ""
@@ -7560,7 +7560,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6023
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ORCHID\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Orch] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6025
 msgid ""
@@ -7575,7 +7575,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6035
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_VAMPWEED\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Vamp] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6037
 msgid ""
@@ -7590,7 +7590,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6047
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_OUTCAST\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Exil] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6049
 msgid ""
@@ -7605,7 +7605,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6059
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PEACE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Paix] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6061
 msgid ""
@@ -7620,7 +7620,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6071
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONY\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Équinoïde] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6073
 msgid ""
@@ -7636,6 +7636,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PONYC\"]/text"
 msgstr ""
+"Échanger un Canon à clones [Cristalien Équinoïde] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6085
 msgid ""
@@ -7650,7 +7651,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6095
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_QUEEN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Reine] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6097
 msgid ""
@@ -7665,7 +7666,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6107
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADIANT\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Rad] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6109
 msgid ""
@@ -7680,7 +7681,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6119
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RADICAL\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Martyre] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6121
 msgid ""
@@ -7695,7 +7696,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6131
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_DEVORAK\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Devorak] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6133
 msgid ""
@@ -7710,7 +7711,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6143
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_RANGER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Ranger] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6145
 msgid ""
@@ -7725,7 +7726,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6155
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ROCK\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Roc] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6157
 msgid ""
@@ -7740,7 +7741,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6167
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SABO\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Sabo] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6169
 msgid ""
@@ -7755,7 +7756,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6179
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SENTINEL\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Senti] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6181
 msgid ""
@@ -7770,7 +7771,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6191
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SEPARATIST\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Separ] contre 13 Points Flak"
 
 #: src-en/data/events_flakjuice.xml:6193
 msgid ""
@@ -7785,7 +7786,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6203
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Coqu] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6205
 msgid ""
@@ -7800,7 +7801,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6215
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MECH\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Mécan Coqu] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6217
 msgid ""
@@ -7815,7 +7816,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6227
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_MEDIC\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Scientif Coqu] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6229
 msgid ""
@@ -7830,7 +7831,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6239
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_GUARDIAN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Gardien Coqu] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6241
 msgid ""
@@ -7845,7 +7846,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6251
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SLUG\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Lima] contre 13 points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6253
 msgid ""
@@ -7860,7 +7861,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6263
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HEKTAR\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Hektar] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6265
 msgid ""
@@ -7875,7 +7876,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6275
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SOLDIER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Soldat] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6277
 msgid ""
@@ -7890,7 +7891,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6287
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SPIDER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Araig] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6289
 msgid ""
@@ -7905,7 +7906,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6299
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SUZERAIN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Suz] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6301
 msgid ""
@@ -7921,6 +7922,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WARLORD\"]/text"
 msgstr ""
+"Échanger un Canon à clones [Seigneur de guerre] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6313
 msgid ""
@@ -7935,7 +7937,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6323
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SYMBIOTE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Symb] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6325
 msgid ""
@@ -7950,7 +7952,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6335
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WEAVER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Tiss] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6337
 msgid ""
@@ -7965,7 +7967,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6347
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_WELDER\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Soud] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6349
 msgid ""
@@ -7980,7 +7982,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6359
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_ZOLTAN\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Zolt] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6361
 msgid ""
@@ -7995,7 +7997,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6371
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_LEECH\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Sangsue] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6373
 msgid ""
@@ -8010,7 +8012,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6383
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_AMPERE\"]/text"
-msgstr ""
+msgstr "Échanger un Canon à clones [Ampère] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6385
 msgid ""
@@ -8025,7 +8027,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6395
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"ANCIENT_ROYAL_MISSILES\"]/text"
-msgstr ""
+msgstr "Échanger un Missile Ancien contre 20 points de Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:6397
 msgid ""
