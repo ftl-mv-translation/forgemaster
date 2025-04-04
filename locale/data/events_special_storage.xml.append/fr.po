@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:09+0000\n"
+"PO-Revision-Date: 2025-04-05 13:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -6442,6 +6442,8 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Vous infligerez 12 dommages au "
+"système sélectionné, mais vous subirez 10 dommages à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6096
 msgid ""
@@ -6514,7 +6516,7 @@ msgstr "Poursuivre le combat !"
 #: src-en/data/events_special_storage.xml.append:6151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_4\"]/choice[5]/text"
-msgstr ""
+msgstr "Cibler leur camouflage."
 
 #: src-en/data/events_special_storage.xml.append:6153
 msgid ""
@@ -6564,11 +6566,13 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Cela infligera 13 dommages au "
+"système ciblé, mais vous subirez 12 dommages à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[1]/text"
-msgstr ""
+msgstr "Cibler leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:6207
 msgid ""
@@ -6585,7 +6589,7 @@ msgstr "Poursuivre le combat !"
 #: src-en/data/events_special_storage.xml.append:6219
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_6\"]/choice[2]/text"
-msgstr ""
+msgstr "Cibler leurs boucliers."
 
 #: src-en/data/events_special_storage.xml.append:6221
 msgid ""
@@ -6686,6 +6690,8 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_6\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Cela infligera 15 dommages au "
+"système ciblé, mais vous subirez 12 dommages à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6308
 msgid ""
@@ -6808,6 +6814,8 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_8\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Cette opération infligera 18 "
+"dommages au système sélectionné, mais vous subirez 15 dommages à vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6413
 msgid ""
@@ -6930,6 +6938,8 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/text"
 msgstr ""
+"Quel système ennemi voulez-vous cibler ? Le système ciblé subira 30 dommages "
+", mais vous subirez 20 dommages sur vos moteurs."
 
 #: src-en/data/events_special_storage.xml.append:6518
 msgid ""
@@ -7025,6 +7035,9 @@ msgstr "Cibler leur téléporteur."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_AETHER_8\"]/choice[6]/event/text"
 msgstr ""
+"Vous mettez les moteurs à pleine puissance et activez partiellement le "
+"système de saut SPL pour foncer sur le vaisseau ennemi à une vitesse proche "
+"de celle de la lumière."
 
 #: src-en/data/events_special_storage.xml.append:6595
 msgid ""
@@ -7260,13 +7273,15 @@ msgstr "Faire autre chose à la place."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Organiser un goûter en dégustant le thé le plus raffiné de Sa Majesté."
 
 #: src-en/data/events_special_storage.xml.append:6818
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Codex de Récompenses Éther) Consulter le Codex pour connaître les cibles "
+"potentielles."
 
 #: src-en/data/events_special_storage.xml.append:6822
 msgid ""
@@ -7309,6 +7324,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/text"
 msgstr ""
+"Un noyau d'une nature instable, qui bouleverse la réalité, émerge "
+"soudainement d'une faille et percute votre vaisseau. Il s'est incrusté dans "
+"votre coque et vous ne parvenez pas à le retirer, quels que soient les "
+"outils que vous utilisez. Cependant, votre vaisseau semble avoir été "
+"considérablement amélioré par sa présence."
 
 #: src-en/data/events_special_storage.xml.append:6855
 msgid ""
@@ -7319,6 +7339,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
+"Cette relique Ancien augmente de 40% les statistiques de tous les membres "
+"d'équipage, même ceux qui n'en possèdent pas... "
+"[L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_special_storage.xml.append:6859
 msgid ""
@@ -7329,6 +7352,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_REWARD\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Une faille d'apparence sinistre s'ouvre et un objet d'un chaos "
+"incompréhensible en émerge. Il est attiré par votre vaisseau et flotte "
+"directement dans votre soute."
 
 #: src-en/data/events_special_storage.xml.append:6865
 msgid ""
@@ -7339,6 +7365,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/text"
 msgstr ""
+"Vous vérifiez quels vaisseaux sont actuellement disponibles pour être "
+"invoqués. Pour chaque série de 3 vaisseaux que vous battez, 3 autres "
+"deviendront disponibles pour l'invocation. L'invocation d'un boss MV Déformé "
+"prend 2{.\n"
+"\t\t\t[REMARQUE : les récompenses de ces boss ne se cumulent pas.]"
 
 #: src-en/data/events_special_storage.xml.append:6881
 msgid ""
@@ -7366,7 +7397,7 @@ msgstr "Vous avez déjà vaincu la Sangsue Déformée."
 #: src-en/data/events_special_storage.xml.append:6898
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[5]/text"
-msgstr ""
+msgstr "Cristalien déformé C - Donne l'armure de cristal déformé"
 
 #: src-en/data/events_special_storage.xml.append:6900
 msgid ""
@@ -7514,7 +7545,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7040
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[19]/text"
-msgstr ""
+msgstr "Ingénieur Déformé B - Donne Drone Booster II"
 
 #: src-en/data/events_special_storage.xml.append:7042
 msgid ""
@@ -7574,7 +7605,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[25]/text"
-msgstr ""
+msgstr "Zoltan Déformé C - Suppression de la Limite de Chute"
 
 #: src-en/data/events_special_storage.xml.append:7086
 msgid ""
@@ -7620,7 +7651,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[30]/text"
-msgstr ""
+msgstr "Rocailleux Déformé C - Donne la Relique de liberté des Rocailleux"
 
 #: src-en/data/events_special_storage.xml.append:7120
 msgid ""
@@ -7880,7 +7911,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_3\"]/text"
-msgstr ""
+msgstr "Zoltan Déformé C - Suppression de la Limite de Chute"
 
 #: src-en/data/events_special_storage.xml.append:7309
 msgid ""
@@ -7922,7 +7953,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_3\"]/text"
-msgstr ""
+msgstr "Ingénieur Déformé B - Donne Drone Booster II"
 
 #: src-en/data/events_special_storage.xml.append:7339
 msgid ""
@@ -7978,7 +8009,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_1\"]/text"
-msgstr ""
+msgstr "Cristalien déformé C - Donne l'armure de cristal déformé"
 
 #: src-en/data/events_special_storage.xml.append:7379
 msgid ""
@@ -8081,46 +8112,84 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_LANIUS\"]/text"
 msgstr ""
+"Le Codex émet un bip silencieux et indique l'emplacement d'un vaisseau sur "
+"votre carte. On dirait un Lanius cette fois. Il est temps de leur montrer l’"
+"autre côté de l’asphyxie."
 
 #: src-en/data/events_special_storage.xml.append:7495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_ELITELANIUS\"]/text"
 msgstr ""
+"Le Codex se met à bourdonner et indique la position d'un vaisseau sur votre "
+"carte. On dirait qu'il y a un vaisseau Soudeur dans les environs. Cela "
+"devrait être une bonne chasse."
 
 #: src-en/data/events_special_storage.xml.append:7499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_AUGMENTEDLANIUS\"]/text"
 msgstr ""
+"Le Codex clignote en vert, indiquant la présence de technologie Éther dans "
+"la zone. Le vaisseau n'est pas Obélisque, mais on ne fait pas la fine bouche "
+"quand il s'agit de technologie comme celle-ci."
 
 #: src-en/data/events_special_storage.xml.append:7503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_OBELISK\"]/text"
 msgstr ""
+"Le Codex s'illumine en vert et émet des bips urgents. Il a détecté une cible "
+"prioritaire, un vaisseau Obélisque. Il est temps de les pousser un peu plus "
+"près de l'extinction."
 
 #: src-en/data/events_special_storage.xml.append:7507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANCIENT_BOUNTY_LOCATE_ROYALOBELISK\"]/text"
 msgstr ""
+"Le Codex illumine la pièce d'une lueur rose intense et déclenche une alerte "
+"prioritaire dans tout le vaisseau : un Obélisque royal est à proximité. "
+"Votre équipage se rassemble pour préparer un plan de bataille."
 
 #: src-en/data/events_special_storage.xml.append:7514
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_LANIUS\"]/text[1]"
 msgstr ""
+"Lorsque vous sautez dans le système, votre ordinateur transmet des "
+"informations détaillées sur votre chasse. C'est un vaisseau Lanius, vous "
+"devriez pouvoir réclamer sa cargaison si vous le videz de ses occupants. "
+"Alors que votre vaisseau arrive à portée de tir, les bords tranchants de "
+"votre proie scintillent à la lumière des étoiles, un spectacle magnifique "
+"pour un gibier aussi exotique."
 
 #: src-en/data/events_special_storage.xml.append:7515
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_LANIUS\"]/text[2]"
 msgstr ""
+"Lorsque vous sautez dans le système, votre ordinateur transmet des "
+"informations détaillées sur votre chasse. C'est un vaisseau Lanius, vous "
+"devriez pouvoir réclamer sa cargaison si vous le videz de ses occupants. Une "
+"fois que vous êtes à portée, ils vous appellent. "
+"\"Vous avoir ferraille, vous vouloir échanger ?\" Une fois les armes "
+"activées, ils comprennent que vous n'êtes pas là pour échanger des "
+"politesses."
 
 #: src-en/data/events_special_storage.xml.append:7516
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_LANIUS\"]/text[3]"
 msgstr ""
+"Lorsque vous sautez dans le système, votre ordinateur transmet des "
+"informations détaillées sur votre chasse. C'est un vaisseau Lanius, vous "
+"devriez pouvoir récupérer sa cargaison si vous le videz de ses occupants. "
+"Les feux de vos moteurs brûlent intensément alors que vous interceptez le "
+"vaisseau à lames en combat rapproché, il est temps de réclamer votre prix."
 
 #: src-en/data/events_special_storage.xml.append:7517
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_LANIUS\"]/text[4]"
 msgstr ""
+"Lorsque vous sautez dans le système, votre ordinateur transmet des "
+"informations détaillées sur votre chasse. C'est un vaisseau Lanius, vous "
+"devriez pouvoir récupérer sa cargaison si vous le videz de ses occupants. "
+"Vous foncez à portée de tir, ne pensant qu'à la ferraille, le vaisseau de "
+"métal pur devant vous regorgeant de butin."
 
 #: src-en/data/events_special_storage.xml.append:7522
 msgid ""
@@ -8146,11 +8215,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_LANIUS\"]/destroyed/text"
 msgstr ""
+"Le vaisseau Lanius explose dans une multitude de débris. Vous vous préparez "
+"à récupérer la ferraille, un peu déçu de ne pas avoir pu le récupérer intact."
 
 #: src-en/data/events_special_storage.xml.append:7540
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_LANIUS\"]/deadCrew/text"
-msgstr ""
+msgstr "Les Lanius ont été éliminés. Vous démantelez leur vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7543
 msgid ""
@@ -8161,41 +8232,77 @@ msgstr "Fouiller le vaisseau."
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_LANIUS_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"À bord du vaisseau, vous trouvez un survivant Lanius ! Il semble avoir été "
+"prisonnier et vous propose de travailler à bord de votre vaisseau pour vous "
+"remercier de l'avoir libéré."
 
 #: src-en/data/events_special_storage.xml.append:7555
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_LANIUS_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Bien que les vaisseaux Lanius soient presque toujours remplis de vide "
+"spatial, celui-ci semble encore plus silencieux que prévu. Il ne reste que "
+"peu de choses de valeur à bord, à l’exception de quelques matériaux de "
+"récupération étonnamment haut de gamme trouvés dans le réfectoire."
 
 #: src-en/data/events_special_storage.xml.append:7559
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_LANIUS_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Bien que les vaisseaux Lanius soient presque toujours remplis de vide "
+"spatial, celui-ci semble encore plus silencieux que prévu. Il ne reste que "
+"peu de choses de valeur à bord, à l’exception de quelques matériaux de "
+"récupération étonnamment haut de gamme trouvés dans le réfectoire."
 
 #: src-en/data/events_special_storage.xml.append:7569
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ELITELANIUS\"]/text[1]"
 msgstr ""
+"Alors que votre vaisseau sort de son saut, la coque étincelante d'un "
+"vaisseau lanius vous fixe. Pour des créatures aussi avides de métal, il est "
+"surprenant qu'il n'y ait pas plus de trous sur leurs vaisseaux. Cependant, "
+"cela vous laisse plus de possibilités de récupération si vous faites "
+"exploser le tout en morceaux. Avant que vous ne puissiez réfléchir davantage "
+"à la question, votre vaisseau détecte le scintillement de leurs armes et "
+"vous vous préparez au combat."
 
 #: src-en/data/events_special_storage.xml.append:7570
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ELITELANIUS\"]/text[2]"
 msgstr ""
+"Comme l'indique votre codex, vous avez devant vous un Lanius d'Élite. Cela "
+"se voit à la... peinture ? Eh bien, au moins, ils ont le sens de la "
+"coordination des couleurs. Pratique pour savoir quel vaisseau piller pour "
+"ses pièces et lequel laisser en quelques morceaux de ferraille flottant dans "
+"le vide. Essayez d’éviter cette dernière option, ou il pourrait ne plus rien "
+"rester à piller."
 
 #: src-en/data/events_special_storage.xml.append:7571
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ELITELANIUS\"]/text[3]"
 msgstr ""
+"Comme toujours, votre Codex vous a donné une piste plutôt précise pour votre "
+"chasse. Certes, cette cible est un peu au-dessus de votre gibier habituel. "
+"Sa soute contient probablement quelque chose de bien plus précieux qu’une "
+"simple cargaison de ferraille… à condition que vous ne la brûliez pas, ne la "
+"fassiez pas fondre, ne la réduisiez pas en miettes, ne la vaporisiez pas au "
+"laser, ne l’ionisiez pas, ou ne la transformiez pas en un tas de scories par "
+"l’un des innombrables moyens dont vous disposez."
 
 #: src-en/data/events_special_storage.xml.append:7572
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ELITELANIUS\"]/text[4]"
 msgstr ""
+"Alors que vous sortez de votre saut, vous êtes accueillis par le bruit "
+"familier des moteurs en marche, un vaisseau à l'allure plutôt acérée se "
+"tournant vers vous. Il est plutôt laid, mais ce qui vous intéresse le plus, "
+"c'est ce qu'il y a dans la soute. Alors que le vaisseau s'approche, vous "
+"vous préparez au combat."
 
 #: src-en/data/events_special_storage.xml.append:7577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_ELITELANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Un vaisseau Lanius Élite se trouve ici."
 
 #: src-en/data/events_special_storage.xml.append:7578
 msgid ""
@@ -8216,11 +8323,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ELITELANIUS\"]/destroyed/text"
 msgstr ""
+"Le vaisseau du Lanius Élite se disloque rapidement lorsque sa coque cède. "
+"Vous trouverez certainement beaucoup de ferraille dans l'épave, mais toute "
+"la technologie qu'ils ont pu avoir est presque certainement détruite."
 
 #: src-en/data/events_special_storage.xml.append:7595
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ELITELANIUS\"]/deadCrew/text"
-msgstr ""
+msgstr "Le Lanius Élite a été éliminé. Vous démantelez leur vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7598
 msgid ""
@@ -8231,76 +8341,126 @@ msgstr "Inspecter le vaisseau"
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Vous trouvez une arme Flak dans la cargaison du vaisseau. Ne voulant pas "
+"gaspiller une bonne arme, vous ordonnez à votre équipage de l'apporter à "
+"bord de votre propre vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7610
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Vous trouvez une arme Flak dans la cargaison du vaisseau. Ne voulant pas "
+"gaspiller une bonne arme, vous ordonnez à votre équipage de l'apporter à "
+"bord de votre propre vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7614
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Vous trouvez une arme Flak dans la cargaison du vaisseau. Ne voulant pas "
+"gaspiller une bonne arme, vous ordonnez à votre équipage de l'apporter à "
+"bord de votre propre vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7618
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"À bord du vaisseau, vous trouvez un Phaseur en parfait état. Bien qu'il ne "
+"s'agisse pas d'un armement typique de Lanius, vous pourriez certainement lui "
+"trouver une utilité..."
 
 #: src-en/data/events_special_storage.xml.append:7622
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"À bord du vaisseau, vous trouvez un Phaseur en parfait état. Bien qu'il ne "
+"s'agisse pas d'un armement typique de Lanius, vous pourriez certainement lui "
+"trouver une utilité..."
 
 #: src-en/data/events_special_storage.xml.append:7626
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[6]/text"
 msgstr ""
+"À bord du vaisseau, vous trouvez un Phaseur en parfait état. Bien qu'il ne "
+"s'agisse pas d'un armement typique de Lanius, vous pourriez certainement lui "
+"trouver une utilité..."
 
 #: src-en/data/events_special_storage.xml.append:7630
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[7]/text"
 msgstr ""
+"Le Lanius Élite semble avoir rassemblé des matériaux démantelés et n'a "
+"jamais eu l'occasion de s'en servir. Peut-être que cela les aurait sauvés, "
+"peut-être pas."
 
 #: src-en/data/events_special_storage.xml.append:7634
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[8]/text"
 msgstr ""
+"Le Lanius Élite semble avoir rassemblé des matériaux démantelés et n'a "
+"jamais eu l'occasion de s'en servir. Peut-être que cela les aurait sauvés, "
+"peut-être pas."
 
 #: src-en/data/events_special_storage.xml.append:7638
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[9]/text"
 msgstr ""
+"Le Lanius Élite semble avoir rassemblé des matériaux démantelés et n'a "
+"jamais eu l'occasion de s'en servir. Peut-être que cela les aurait sauvés, "
+"peut-être pas."
 
 #: src-en/data/events_special_storage.xml.append:7642
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ELITELANIUS_EXTRA_REWARDS\"]/event[10]/text"
 msgstr ""
+"Le Lanius Élite semble avoir rassemblé des matériaux démantelés et n'a "
+"jamais eu l'occasion de s'en servir. Peut-être que cela les aurait sauvés, "
+"peut-être pas."
 
 #: src-en/data/events_special_storage.xml.append:7652
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_AUGMENTEDLANIUS\"]/text[1]"
 msgstr ""
+"Oh, super, ils sont en vert maintenant. Ce n'est pas vraiment une surprise, "
+"vu ce que votre codex vous a dit. Peu importe que ce ne soit qu'un Lanius, "
+"il est toujours imprégné de technologie ancienne, et vous avez un grand "
+"mépris pour ceux qui utilisent cette technologie !.... Sauf pour vous, vous "
+"le méritez. Vous vous préparez à vous emparer de cette technologie, par la "
+"force."
 
 #: src-en/data/events_special_storage.xml.append:7653
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_AUGMENTEDLANIUS\"]/text[2]"
 msgstr ""
+"C'est encore l'escouade des mangeurs d'ordures ! Cette fois-ci, il s'agit de "
+"consommateurs très instables de technologie de Éther, une technologie qui "
+"devrait vous appartenir ! Vous devriez leur montrer ce qu'il en est et vous "
+"l'approprier... En espérant qu'ils ne fassent pas exploser leur propre "
+"vaisseau avec cette sale habitude de manger leur coque."
 
 #: src-en/data/events_special_storage.xml.append:7654
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_AUGMENTEDLANIUS\"]/text[3]"
 msgstr ""
+"En sortant de votre saut, vous retrouvez la technologie néon verte familière "
+"d'un vaisseau augmenté. Pour une société qui possède autant de puissance "
+"dans chaque recoin, il est dommage qu'elle ait décidé d'en manger la plus "
+"grande partie. Vous feriez mieux de les tuer avant qu'ils ne mangent tout ce "
+"qui reste."
 
 #: src-en/data/events_special_storage.xml.append:7655
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_AUGMENTEDLANIUS\"]/text[4]"
 msgstr ""
+"Votre vaisseau ralenti ses moteurs, avant de les relancer immédiatement "
+"lorsque vous trouvez le vaisseau augmenté tant attendu. Vous ne savez pas ce "
+"qui est le plus dangereux, leurs armes ou leur équipage, mais rien ne "
+"viendra entraver votre chasse."
 
 #: src-en/data/events_special_storage.xml.append:7660
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_AUGMENTEDLANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Un vaisseau Lanius augmenté se trouve ici."
 
 #: src-en/data/events_special_storage.xml.append:7661
 msgid ""
@@ -8321,11 +8481,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_AUGMENTEDLANIUS\"]/destroyed/text"
 msgstr ""
+"Vous regardez l'étrange vaisseau Lanius se briser. On dirait que vous ne "
+"trouverez pas de réponses ou de technologie aujourd'hui..."
 
 #: src-en/data/events_special_storage.xml.append:7678
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_AUGMENTEDLANIUS\"]/deadCrew/text"
-msgstr ""
+msgstr "Les étranges Lanius ont été éliminés. Vous démantelez leur vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7681
 msgid ""
@@ -8336,81 +8498,145 @@ msgstr "Inspecter le vaisseau"
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Alors que vous fouillez le vaisseau, une lueur verte familière attire votre "
+"attention. Vous trouvez un morceau de technologie Éther avec quelques "
+"marques de cassure, mais qui est encore (en grande partie) utilisable. Vous "
+"trouvez également un peu de ferraille utilisable à proximité."
 
 #: src-en/data/events_special_storage.xml.append:7694
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Alors que vous fouillez le vaisseau, une lueur verte familière attire votre "
+"attention. Vous trouvez un morceau de technologie Éther avec quelques "
+"marques de cassure, mais qui est encore (en grande partie) utilisable. Vous "
+"trouvez également un peu de ferraille utilisable à proximité."
 
 #: src-en/data/events_special_storage.xml.append:7699
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Vous trouvez des schémas de drone corrompus à bord des ordinateurs du "
+"vaisseau, et vous parvenez à construire un plan complet après un court laps "
+"de temps."
 
 #: src-en/data/events_special_storage.xml.append:7703
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Vous trouvez des schémas de drone corrompus à bord des ordinateurs du "
+"vaisseau, et vous parvenez à construire un plan complet après un court laps "
+"de temps."
 
 #: src-en/data/events_special_storage.xml.append:7707
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Vous trouvez des schémas de drone corrompus à bord des ordinateurs du "
+"vaisseau, et vous parvenez à construire un plan complet après un court laps "
+"de temps."
 
 #: src-en/data/events_special_storage.xml.append:7711
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[6]/text"
 msgstr ""
+"Il semble que les Lanius aient trouvé des armes Éther et qu'ils s'apprêtent "
+"à les monter à bord de leur vaisseau. Vous les transférez avec précaution "
+"dans votre vaisseau pour une utilisation ultérieure."
 
 #: src-en/data/events_special_storage.xml.append:7715
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[7]/text"
 msgstr ""
+"Il semble que les Lanius aient trouvé des armes Éther et qu'ils s'apprêtent "
+"à les monter à bord de leur vaisseau. Vous les transférez avec précaution "
+"dans votre vaisseau pour une utilisation ultérieure."
 
 #: src-en/data/events_special_storage.xml.append:7719
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[8]/text"
 msgstr ""
+"Il semble que les Lanius aient trouvé des armes Éther et qu'ils s'apprêtent "
+"à les monter à bord de leur vaisseau. Vous les transférez avec précaution "
+"dans votre vaisseau pour une utilisation ultérieure."
 
 #: src-en/data/events_special_storage.xml.append:7723
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[9]/text"
 msgstr ""
+"Il semble que les Lanius aient trouvé des armes Éther et qu'ils s'apprêtent "
+"à les monter à bord de leur vaisseau. Vous les transférez avec précaution "
+"dans votre vaisseau pour une utilisation ultérieure."
 
 #: src-en/data/events_special_storage.xml.append:7727
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_AUGMENTEDLANIUS_EXTRA_REWARDS\"]/event[10]/text"
 msgstr ""
+"Des scans plus poussés du vaisseau révèlent que ses augmentations internes "
+"sont relativement récentes et n'ont pas encore été irrémédiablement "
+"assimilées à la coque. Vous parvenez à désinstaller un équipement avancé de "
+"leurs systèmes et découvrez qu’il est compatible avec votre propre vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7736
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[1]"
 msgstr ""
+"Alors que votre vaisseau sort de son saut, vos capteurs interceptent "
+"quelques ondes de communication Obélisques. En arrière-plan, vous entendez "
+"une série de murmures paniqués, avant que quelques mots ne vous soient "
+"adressés : "
+"\"Oh, par le propre châssis de la Reine, encore ces sacs de chair !\" La "
+"communication se coupe brusquement et le vaisseau engage le combat. Il "
+"serait dans votre intérêt de le garder intact si vous voulez récupérer ce qu’"
+"il transporte."
 
 #: src-en/data/events_special_storage.xml.append:7737
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[2]"
 msgstr ""
+"Les moteurs de votre vaisseau s'éteignent et vous vous retrouvez face au "
+"design rectangulaire d'un vaisseau Obélisque. Qu'est-ce qu'ils ont avec les "
+"rectangles ? Leurs canons ressemblent à des boîtes, leurs vaisseaux sont un "
+"assemblage de boîtes, et ils SONT des boîtes. Enfin, mieux vaut éviter d’en "
+"éclater une si vous voulez récupérer leur butin intact. Vous détectez leurs "
+"armes qui montent en température et vous vous préparez à engager le combat."
 
 #: src-en/data/events_special_storage.xml.append:7738
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[3]"
 msgstr ""
+"En sautant dans le système, vous recevez un flot de symboles et de bips "
+"brouillés en provenance du vaisseau Obélisque. Bien que votre traducteur "
+"soit en panne, la signification ne vous échappe pas lorsque leurs armes se "
+"verrouillent sur votre coque ! Peut-être qu’en gardant leur vaisseau intact, "
+"vous pourrez en tirer quelque chose d’utile."
 
 #: src-en/data/events_special_storage.xml.append:7739
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[4]"
 msgstr ""
+"Votre Codex est infaillible comme toujours, même pour des créatures aussi "
+"rares que celles-ci : elles sont exactement là où il l’avait prédit. Bien "
+"sûr, elles ne semblent pas surprises de vous voir, à en juger par leurs "
+"armes déjà prêtes. Vous envisagez de communiquer une fraction de seconde, "
+"juste pour les narguer, mais la montée rapide des signatures énergétiques "
+"dans leur vaisseau vous pousse à vous préparer au combat sans tarder."
 
 #: src-en/data/events_special_storage.xml.append:7740
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_OBELISK\"]/text[5]"
 msgstr ""
+"Bien qu’ils ne soient ni aussi dangereux ni aussi rares qu’un royal, un "
+"vaisseau Obélisque standard reste une belle prise. Mais ce qui vous "
+"intéresse vraiment, ce sont les grosses armes qu’il renferme—et que vous "
+"devriez éviter de réduire en vulgaire ferraille bonne à être dévorée par un "
+"Augmenté. Malheureusement, eux semblent bien décidés à vous réduire en "
+"cendres, à en juger par la lueur verte qui s’intensifie dans leurs armes."
 
 #: src-en/data/events_special_storage.xml.append:7745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_OBELISK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Un vaisseau Obélisque se trouve ici."
 
 #: src-en/data/events_special_storage.xml.append:7746
 msgid ""
@@ -8431,11 +8657,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_OBELISK\"]/destroyed/text"
 msgstr ""
+"Votre équipage regarde en silence le vaisseau de votre ennemi se "
+"désintégrer. Vous avez gagné cette bataille, mais il est presque impossible "
+"qu'une partie de leur technologie ait survécu."
 
 #: src-en/data/events_special_storage.xml.append:7763
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_OBELISK\"]/deadCrew/text"
-msgstr ""
+msgstr "Les Obélisques ont été éliminés. Vous démantelez leur vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7766
 msgid ""
@@ -8446,31 +8675,57 @@ msgstr "Inspecter le vaisseau"
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Bien que vous ne puissiez retirer aucune des armes du vaisseau, vous trouvez "
+"un drone intact à bord de leur vaisseau. Vous trouvez également des pièces "
+"de drone que vous collectez."
 
 #: src-en/data/events_special_storage.xml.append:7779
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Bien que vous ne puissiez retirer aucune des armes du vaisseau, vous trouvez "
+"un drone intact à bord de leur vaisseau. Vous trouvez également des pièces "
+"de drone que vous collectez."
 
 #: src-en/data/events_special_storage.xml.append:7784
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Les ordinateurs de votre vaisseau parviennent à trouver un moyen sûr de "
+"démonter l’une des armes du vaisseau Obélisque. Vous la transportez "
+"triomphalement jusqu’à votre soute."
 
 #: src-en/data/events_special_storage.xml.append:7788
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Les ordinateurs de votre vaisseau parviennent à trouver un moyen sûr de "
+"démonter l’une des armes du vaisseau Obélisque. Vous la transportez "
+"triomphalement jusqu’à votre soute."
 
 #: src-en/data/events_special_storage.xml.append:7792
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_OBELISK_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Au début, il semble qu'il n'y ait rien de valeur à bord du vaisseau, jusqu'à "
+"ce qu'un membre de votre équipage vous fasse remarquer quelque chose. Ce que "
+"vous pensiez être une pièce décorative était en fait un panneau d'accès, "
+"derrière lequel vous trouvez une puissante augmentation de vaisseau !"
 
 #: src-en/data/events_special_storage.xml.append:7802
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[1]"
 msgstr ""
+"Vous ne laissez même pas le temps à vos moteurs de s'ajuster correctement en "
+"sortant de l'hyperespace, fendant l’espace droit vers l’endroit indiqué par "
+"votre ordinateur : la position du Royal. Dès que votre vaisseau détecte un "
+"autre appareil, vous verrouillez votre cible et chargez vos armes. Lorsque "
+"vous arrivez à portée de tir, vous pouvez voir la coque blanche au milieu "
+"d'une mer de ténèbres. Il est grand temps d’enseigner à ces boîtes "
+"glorifiées au complexe divin qui détient réellement la suprématie ici. Leur "
+"civilisation décadente appartient au passé. Réduisez leurs 'formes "
+"supérieures' en miettes, et leur précieuse technologie tombera entre vos "
+"mains."
 
 #: src-en/data/events_special_storage.xml.append:7803
 msgid ""
