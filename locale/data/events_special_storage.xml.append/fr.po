@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-05 13:09+0000\n"
+"PO-Revision-Date: 2025-04-07 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -8731,21 +8731,41 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[2]"
 msgstr ""
+"Les coordonnées de votre codex vous ont conduit à cet endroit, et elles "
+"s'avèrent toujours exactes ; vous apercevez le rose lumineux d'un Obélisque "
+"Royal et remarquez qu'ils semblent avoir ouvert les communications. "
+"\"Ugh, encore des mortels. Vous voulez vraiment mourir, n'est-ce pas ?\" "
+"Vous activez vos armes, tandis qu'ils font de même."
 
 #: src-en/data/events_special_storage.xml.append:7804
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[3]"
 msgstr ""
+"Alors que vous sortez de l’hyperespace, votre ordinateur commence son "
+"analyse. Mais il semble que vous n’en aurez pas besoin : vous manquez de peu "
+"de percuter un vaisseau géométrique à la coque d’un blanc éclatant. On "
+"dirait que ces rochers flottants ont eu l’audace de jeter l’ancre juste sur "
+"la balise, une attitude arrogante à laquelle vous allez rapidement remédier. "
+"Vous fixez la lueur rose du vaisseau tandis que vous planifiez sa "
+"destruction, vos armes déjà en train de se charger. Renvoyez ces boîtes là d’"
+"où elles viennent, et leur \"technologie supérieure\" vous appartiendra."
 
 #: src-en/data/events_special_storage.xml.append:7805
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_ABC_ROYALOBELISK\"]/text[4]"
 msgstr ""
+"Vous avez à peine le temps de recalibrer vos capteurs sur l'espace réel, qu’"
+"un Royal surgit de nulle part et vous prend par surprise ! Si l’ego des "
+"Royals dépasse déjà celui d’une supergéante, il faut une arrogance toute "
+"particulière pour oser quitter la sécurité de leurs mondes natals. Le moment "
+"est venu de les remettre à leur place et de s'approprier leurs précieuses "
+"technologies. Nettoyez leur pont de cette géométrie infecte, et le butin "
+"sera à portée de main."
 
 #: src-en/data/events_special_storage.xml.append:7810
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"ABC_ROYALOBELISK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Un vaisseau Obélisque Royal se trouve ici."
 
 #: src-en/data/events_special_storage.xml.append:7811
 msgid ""
@@ -8766,11 +8786,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ROYALOBELISK\"]/destroyed/text"
 msgstr ""
+"Vous regardez le vaisseau Royal exploser sous vos yeux. Je suppose que vous "
+"n'aurez pas accès à leur technologie aujourd'hui..."
 
 #: src-en/data/events_special_storage.xml.append:7828
 msgid ""
 "data/events_special_storage.xml.append$//ship[@name=\"SHIP_ABC_ROYALOBELISK\"]/deadCrew/text"
-msgstr ""
+msgstr "Les Royals ont été éliminés. Vous démantelez leur vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:7831
 msgid ""
@@ -8781,61 +8803,89 @@ msgstr "Inspecter le vaisseau"
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[1]/text"
 msgstr ""
+"Vous trouvez une pièce de technologie Obélisque dans la soute du vaisseau, "
+"en parfait état. Elle est encore plus avancée que la moyenne, et sera sans "
+"aucun doute un équipement des plus utiles."
 
 #: src-en/data/events_special_storage.xml.append:7843
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
+"Le hangar à drones du vaisseau est extrêmement bien équipé. Vous y trouvez "
+"des pièces de drone et un drone Royal avancé."
 
 #: src-en/data/events_special_storage.xml.append:7848
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
+"Le hangar à drones du vaisseau est extrêmement bien équipé. Vous y trouvez "
+"des pièces de drone et un drone Royal avancé."
 
 #: src-en/data/events_special_storage.xml.append:7853
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[4]/text"
 msgstr ""
+"Le hangar à drones du vaisseau est extrêmement bien équipé. Vous y trouvez "
+"des pièces de drone et un drone Royal avancé."
 
 #: src-en/data/events_special_storage.xml.append:7858
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[5]/text"
 msgstr ""
+"Le hangar à drones du vaisseau est extrêmement bien équipé. Vous y trouvez "
+"des pièces de drone et un drone Royal avancé."
 
 #: src-en/data/events_special_storage.xml.append:7863
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[6]/text"
 msgstr ""
+"En accédant à la cargaison du vaisseau, vous découvrez l'une des plus belles "
+"armes que vous ayez jamais vues. Vous ordonnez rapidement à votre équipage "
+"de la récupérer, impatient de faire usage de votre nouvelle récompense."
 
 #: src-en/data/events_special_storage.xml.append:7867
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[7]/text"
 msgstr ""
+"En accédant à la cargaison du vaisseau, vous découvrez l'une des plus belles "
+"armes que vous ayez jamais vues. Vous ordonnez rapidement à votre équipage "
+"de la récupérer, impatient de faire usage de votre nouvelle récompense."
 
 #: src-en/data/events_special_storage.xml.append:7871
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[8]/text"
 msgstr ""
+"En accédant à la cargaison du vaisseau, vous découvrez l'une des plus belles "
+"armes que vous ayez jamais vues. Vous ordonnez rapidement à votre équipage "
+"de la récupérer, impatient de faire usage de votre nouvelle récompense."
 
 #: src-en/data/events_special_storage.xml.append:7875
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[9]/text"
 msgstr ""
+"En accédant à la cargaison du vaisseau, vous découvrez l'une des plus belles "
+"armes que vous ayez jamais vues. Vous ordonnez rapidement à votre équipage "
+"de la récupérer, impatient de faire usage de votre nouvelle récompense."
 
 #: src-en/data/events_special_storage.xml.append:7879
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_ROYALOBELISK_EXTRA_REWARDS\"]/event[10]/text"
 msgstr ""
+"Les armes et les drones du vaisseau sont irrécupérables, mais vous oubliez "
+"rapidement cette déception en découvrant quelque chose de bien plus "
+"intéressant. Il s'agit d'un amélioration, différente de tout ce que vous "
+"avez pu voir jusqu'ici. Une fois installée à bord, la coque du vaisseau se "
+"met à luire légèrement."
 
 #: src-en/data/events_special_storage.xml.append:7889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/text"
-msgstr ""
+msgstr "Avec qui partagerez-vous le thé ?"
 
 #: src-en/data/events_special_storage.xml.append:7891
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Transformer votre Mantis de la ruche en Mantis libre. [Taxe : 10~]"
 
 #: src-en/data/events_special_storage.xml.append:7899
 msgid ""
@@ -8846,11 +8896,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[2]/text"
 msgstr ""
+"Vous n'avez pas de Mantis de la ruche à convertir en Mantis libre. "
+"[Taxe : 10~]"
 
 #: src-en/data/events_special_storage.xml.append:7911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[3]/text"
-msgstr ""
+msgstr "Transformer votre Mantis de la ruche en Suzerain. [Taxe : 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7919
 msgid ""
@@ -8861,12 +8913,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[4]/text"
 msgstr ""
+"Vous n'avez pas de Mantis de la ruche à convertir en Suzerain. [Taxe : 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_suzerain\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Transformez votre Suzerain en Évêque. [Taxe : 80~]"
 
 #: src-en/data/events_special_storage.xml.append:7939
 msgid ""
@@ -8878,12 +8931,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_suzerain\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vous n'avez pas de Suzerain à convertir en Évêque. [Taxe : 80~]"
 
 #: src-en/data/events_special_storage.xml.append:7951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[7]/text"
-msgstr ""
+msgstr "Transformer votre Mantis libre en Mantis de la ruche. [Taxe : 20~]"
 
 #: src-en/data/events_special_storage.xml.append:7959
 msgid ""
@@ -8894,11 +8947,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[8]/text"
 msgstr ""
+"Vous n'avez pas de Mantis libre à convertir en Mantis de la ruche. "
+"[Taxe : 20~]"
 
 #: src-en/data/events_special_storage.xml.append:7971
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[9]/text"
-msgstr ""
+msgstr "Transformer votre Mantis libre en Seigneur de guerre. [Taxe : 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7979
 msgid ""
@@ -8909,12 +8964,14 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[10]/text"
 msgstr ""
+"Vous n'avez pas de Mantis libre à convertir en Seigneur de guerre. "
+"[Taxe : 40~]"
 
 #: src-en/data/events_special_storage.xml.append:7991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_warlord\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Transformer votre Seigneur de guerre en un Expert. [Taxe : 80~]"
 
 #: src-en/data/events_special_storage.xml.append:7999
 msgid ""
@@ -8927,6 +8984,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_TWISTED_MANTIS_UPGRADE_MENU\"]/choice[@req=\"mantis_warlord\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous n'avez pas de Seigneur de guerre à convertir en Expert. [Taxe : 80~]"
 
 #: src-en/data/events_special_storage.xml.append:8012
 msgid ""
@@ -8937,126 +8995,266 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[1]"
 msgstr ""
+"Votre Mantis est d'abord hostile à l'idée de consommer un breuvage aussi "
+"étrange, mais elle finit par céder et prend une gorgée du thé de la Reine. "
+"En l'espace de quelques instants, vous pouvez voir son expression, autrefois "
+"endurcie par le combat, s'estomper pour laisser place à un sourire "
+"insouciant."
 
 #: src-en/data/events_special_storage.xml.append:8021
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[2]"
 msgstr ""
+"Vous faites asseoir votre Mantis et tentez de lui expliquer l'étiquette de "
+"l'heure du thé. En cas d'échec, vous leur dites que l'heure du thé est une "
+"tradition des guerriers de l'Ancienne Terre, réservée aux plus courageux et "
+"aux plus brutaux. Vous en êtes à peine à la moitié de votre explication "
+"improvisée que votre Mantis s'empare du thé et commence à le boire "
+"vigoureusement. Vous reculez, sachant qu'il ne faut pas s'interposer entre "
+"une Mantis et sa proie."
 
 #: src-en/data/events_special_storage.xml.append:8022
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[3]"
 msgstr ""
+"Vous entrez dans le réfectoire et constatez que votre Mantis a renversé son "
+"thé pour la sixième fois en une heure. Le problème est rapidement résolu "
+"lorsque vous lui achetez une tasse à bec et que le thé commence "
+"immédiatement à faire effet."
 
 #: src-en/data/events_special_storage.xml.append:8023
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_FREE_MANTIS\"]/text[4]"
 msgstr ""
+"Votre Mantis est étonnamment disposée à prendre le thé de la Reine ! Vous "
+"êtes quelque peu confus, jusqu'à ce qu'on vous demande comment vous avez "
+"réussi à obtenir du thé de la part de Leikonpliiinakra elle-même. Vous "
+"faites de votre mieux pour garder votre sérieux et donner une réponse "
+"convaincante."
 
 #: src-en/data/events_special_storage.xml.append:8028
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[1]"
 msgstr ""
+"Vous invitez vos Mantis à déguster à vos côtés un peu de thé de la Reine "
+"avant le prochain saut. En buvant une gorgée, leurs yeux s'écarquillent "
+"aussitôt : \" Capitaine, qu'est-ce qui est mis dans cette boisson ? C'est "
+"très fort, et ça fait une boisson excellente !\" Vous leur demandez comment "
+"ils se sentent, et ils répondent en sciant la table en deux en quelques "
+"instants : \" Je me sens très fort comme un guerrier Mantis, Capitaine ! "
+"Prêt à faire les tueries !\""
 
 #: src-en/data/events_special_storage.xml.append:8029
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[2]"
 msgstr ""
+"Votre Mantis observe attentivement la petite tasse de thé qui se trouve "
+"devant lui avec une expression curieuse : \"C'est pour boire, oui ?\" Vous "
+"hochez la tête et lui faites signe de commencer. Il prend d'abord une petite "
+"gorgée hésitante, puis engloutit avidement le reste de la tasse. Vous "
+"frémissez en imaginant ce que dirait la Reine de voir son thé bien-aimé "
+"consommé de manière aussi désordonnée."
 
 #: src-en/data/events_special_storage.xml.append:8030
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[3]"
 msgstr ""
+"Vous trouvez votre Mantis en train de pratiquer un étrange haka dans ses "
+"quartiers. Il fait à peine une pause pour accepter le thé de votre part, "
+"puis reprend immédiatement ses mouvements après l'avoir bu d'un trait. Il ne "
+"dit rien de plus, mais vous remarquez la nouvelle vigueur dans ses gestes."
 
 #: src-en/data/events_special_storage.xml.append:8031
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_MANTIS_TO_SUZERAIN\"]/text[4]"
 msgstr ""
+"Votre Mantis est en train de manger un plat que vous ne reconnaissez pas à "
+"la cafétéria. Vous remplacez discrètement sa boisson par le thé de la Reine "
+"pendant qu'il n'y prête pas attention, puis vous partez avant qu'il ne vous "
+"voie. Plus tard, vous recevez une alerte automatisée du centre "
+"d'entraînement du vaisseau, vous informant qu'un membre de votre équipage a "
+"réussi toutes les simulations de combat standards sans faute. Vous faites "
+"une demande pour des protocoles d'entraînement plus avancés."
 
 #: src-en/data/events_special_storage.xml.append:8036
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[1]"
 msgstr ""
+"Vous vous approchez de votre Suzerain par derrière avec une boisson "
+"soigneusement préparée. En un clin d'œil, il tourne autour de vous et vous "
+"fait tomber à terre par réflexe, attrapant la tasse de thé d'un coup de "
+"griffe avant qu'elle ne se renverse. \"Vous ne devriez pas me surprendre "
+"ainsi, Capitaine ! Merci pour le thé cependant !\" Vous souriez d'un air "
+"hésitant, prenant note de ne plus vous approcher de lui sans qu'il ne vous "
+"voit."
 
 #: src-en/data/events_special_storage.xml.append:8037
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[2]"
 msgstr ""
+"Votre Suzerain est en train de nettoyer son armure, éliminant quelques "
+"taches de sang avec sa salive acide. Vous lui demandez s'il a déjà voulu "
+"essayer une armure blanche en lui présentant le thé \"Hmm, toujours voulu "
+"être un Évêque ! Le blanc sera plus difficile à nettoyer, cependant...\""
 
 #: src-en/data/events_special_storage.xml.append:8038
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[3]"
 msgstr ""
+"Vous regardez votre Suzerain courir avec les autres membres de l'équipage "
+"autour du vaisseau. Vous les arrêtez un instant et leur proposez une "
+"boisson. Ils avalent le thé rapidement, puis reprennent leur course. Vous à "
+"peine clignez des yeux avant de les voir revenir autour du vaisseau, l'odeur "
+"de la traîne les suivant de près."
 
 #: src-en/data/events_special_storage.xml.append:8039
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_SUZERAIN_TO_BISHOP\"]/text[4]"
 msgstr ""
+"Votre Suzerain s'acharne sur un mannequin dans le centre d'entraînement. Il "
+"fait une pause pour accepter le thé, puis reprend son attaque. Alors que "
+"vous vous apprêtez à partir, vous revenez sur vos pas en entendant un bruit "
+"de déchirure et en voyant le mannequin en pièces détachées sur le sol : "
+"\"Va falloir des remplacements, Capitaine...\""
 
 #: src-en/data/events_special_storage.xml.append:8044
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[1]"
 msgstr ""
+"Votre Mantis libre est en train d'inhaler goulûment des phéromones dans ses "
+"quartiers. Il vous regarde avec admiration lorsque vous vous approchez avec "
+"le thé de la Reine et vous demande si il peut en avoir. Lorsqu'il boit, son "
+"expression change, et il renverse ses phéromones par terre, dégoûté. \"Qu"
+"'est-ce que je pensais, Capitaine ? Les phéromones naturelles sont bien "
+"meilleures !\""
 
 #: src-en/data/events_special_storage.xml.append:8045
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[2]"
 msgstr ""
+"Votre Mantis libre se vante auprès des autres que "
+"\"le capitaine est leur préféré\", et il affiche un sourire triomphant "
+"lorsque vous vous approchez avec votre cadeau. Leur idolâtrie à votre égard "
+"est parfois fatigante, mais elle va quand même vous manquer un peu..."
 
 #: src-en/data/events_special_storage.xml.append:8046
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[3]"
 msgstr ""
+"Vous trouvez vos Mantis libre en train de \"jouer aux échecs\" dans la salle "
+"à manger. Ils sont profondément concentrés, et se tournent vers vous pour "
+"demander : \"Capitaine, c'est lequel le pion déjà ?\" Vous soupirez, et leur "
+"proposez une pause pour boire un peu de thé. Ils boivent, puis vous "
+"remercient : \"Le cerveau est beaucoup plus clair, Capitaine !\" Ils "
+"avancent leur cavalier d'une case avec assurance et vous ne prenez pas la "
+"peine de les corriger."
 
 #: src-en/data/events_special_storage.xml.append:8047
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_MANTIS\"]/text[4]"
 msgstr ""
+"À votre grande surprise, vous trouvez vos Mantis libre en train d'essayer de "
+"faire du thé tout seul ! En observant la scène, il est clair qu'ils n'ont "
+"aucune idée de ce qu'ils font. Ils ont essayé d'utiliser des phéromones au "
+"lieu de l'eau, et le contenu du sachet de thé est éparpillé sur le sol. Vous "
+"leur proposez de faire le thé vous-même, ce qu'ils acceptent avec "
+"reconnaissance. \"Vous êtes le plus intelligent, capitaine !\""
 
 #: src-en/data/events_special_storage.xml.append:8052
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[1]"
 msgstr ""
+"Vos Mantis libre préparent des phéromones dans leurs quartiers. Vous leur "
+"demandez si ils veulent boire quelque chose et leurs présentez le thé de la "
+"Reine. Ils en prennent et le verse entièrement dans leur mélange de "
+"phéromones ! Plus tard, vous remarquez que les excroissances de leur plaque "
+"frontale sont devenues beaucoup plus proéminentes. Je suppose qu'on ne peut "
+"pas contester les résultats..."
 
 #: src-en/data/events_special_storage.xml.append:8053
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[2]"
 msgstr ""
+"Vous vous promenez dans le vaisseau et vous trouvez vos Mantis libre en "
+"train de débattre du meilleur type de musique. Ils s'arrêtent un instant "
+"pour boire le thé que vous leur avez apporté, puis reprennent leur débat "
+"avec une nouvelle vigueur. Vous êtes presque certain qu'aucun de ces genres "
+"n'existe réellement, mais vous n'allez pas discuter avec un Seigneur de "
+"guerre fraîchement créé."
 
 #: src-en/data/events_special_storage.xml.append:8054
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[3]"
 msgstr ""
+"Vos Mantis libre viennent de finir de prendre leurs phéromones et regardent "
+"le plafond en s'endormant. Lorsqu'ils boivent le thé de la Reine, près de la "
+"moitié de la boisson dégouline sur leurs visages. Leur concentration "
+"s'aiguise rapidement, et ils se lèvent, se déplaçant rapidement pour "
+"produire plus de phéromones. "
+"\"Je veux soudainement plus, Capitaine ! Voulez-vous partager ?\" Vous "
+"refusez respectueusement et partez avant que les vapeurs ne vous atteignent."
 
 #: src-en/data/events_special_storage.xml.append:8055
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_FREE_MANTIS_TO_WARLORD\"]/text[4]"
 msgstr ""
+"Alors que vous faites le point sur les ressources du vaisseau, vous "
+"remarquez un surplus anormalement important de phéromones dans la cargaison. "
+"Vous interrogez votre Mantis libre à ce sujet autour d'une tasse de thé, "
+"mais vous ne parvenez pas à obtenir de lui une réponse cohérente. Le "
+"problème se résout de lui-même quelques heures plus tard, lorsqu'ils "
+"épuisent rapidement leur réserve."
 
 #: src-en/data/events_special_storage.xml.append:8060
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[1]"
 msgstr ""
+"Vous vous tournez vers vos Mantis libre Seigneur de guerre et leurs offrez "
+"le thé de la reine. Ils relèvent le défi avec enthousiasme, vidant toute la "
+"tasse en quelques secondes. \"La Reine elle-même serait fière, capitaine !\" "
+"Vous leur assurez que Leikonpliiinakra serait très impressionnée, et ils "
+"vous regardent avec confusion : \" Pourquoi Leikonpliiinakra se soucierait-"
+"elle du thé ? Je parle de la VRAIE Reine !\""
 
 #: src-en/data/events_special_storage.xml.append:8061
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[2]"
 msgstr ""
+"Vos Mantis libre boivent le thé devant vous avec vigueur. Vous détournez les "
+"yeux un instant tandis qu'ils boivent avec un manque total d'assurance et "
+"d'étiquette. Vous vous retournez vers eux une fois qu'ils ont fini, et vous "
+"êtes surpris par leur nouvelle tenue ! Vous ne savez pas trop où ils ont "
+"trouvé un chapeau en peau d'ours aussi rapidement, mais vous savez qu'il "
+"vaut mieux ne pas poser de questions..."
 
 #: src-en/data/events_special_storage.xml.append:8062
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[3]"
 msgstr ""
+"Vos Mantis libre Seigneur de guerre sont en train d'échanger des blagues "
+"avec le reste de l'équipage, éclatant de rire avant même que quiconque n'ait "
+"pu atteindre la chute. Vous attendez qu'ils reprennent leur souffle et leur "
+"offrez le thé de la reine. Plus tard, vous regardez l'équipage essayer "
+"pendant des heures de les faire rire alors qu'ils se tiennent stoïquement "
+"devant leurs quartiers."
 
 #: src-en/data/events_special_storage.xml.append:8063
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_TWISTED_MANTIS_UPGRADE_WARLORD_TO_CRACKERJACK\"]/text[4]"
 msgstr ""
+"Vous retenez votre souffle en entrant dans les quartiers de vos Seigneurs de "
+"guerre, et vos yeux brûlent lorsque leur mélange de phéromones bouillonne "
+"furieusement. Vous faites un signe de la main pour attirer leur attention et "
+"leur tendez rapidement le thé avant de vous évanouir sous l'effet des "
+"vapeurs. Quelques heures plus tard, vous passez devant leur porte et êtes "
+"surpris par une odeur plutôt agréable. Sont-ils en train de préparer... du "
+"thé ?"
 
 #: src-en/data/events_special_storage.xml.append:8069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"INSTALL_ARTILLERY\"]/text"
 msgstr ""
+"Vous installez un système d'artillerie Flak miniature sur votre vaisseau"
 
 #: src-en/data/events_special_storage.xml.append:8071
 msgid ""
@@ -9071,12 +9269,14 @@ msgstr "Qu'aimeriez-vous faire ?"
 #: src-en/data/events_special_storage.xml.append:8084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_KESTREL_GHOST_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Invoquer une horde de fantômes."
 
 #: src-en/data/events_special_storage.xml.append:8086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_KESTREL_GHOST_MENU\"]/choice[1]/event/text"
 msgstr ""
+"Soudain, un grand groupe de fantômes se matérialise sur votre vaisseau ! Ils "
+"semblent confus, mais très vite, ils acceptent de vous servir."
 
 #: src-en/data/events_special_storage.xml.append:8092
 msgid ""
@@ -9086,52 +9286,53 @@ msgstr "Pas grave, faire autre chose."
 #: src-en/data/events_special_storage.xml.append:8111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/text"
-msgstr ""
+msgstr "Quelle arme allez-vous mettre à niveau ?"
 
 #: src-en/data/events_special_storage.xml.append:8115
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_BRONZE\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de bronze."
 
 #: src-en/data/events_special_storage.xml.append:8120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_INDIUM\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Indium."
 
 #: src-en/data/events_special_storage.xml.append:8125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_RHENIUM\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de Rhénium."
 
 #: src-en/data/events_special_storage.xml.append:8130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_SILVER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'argent."
 
 #: src-en/data/events_special_storage.xml.append:8135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_LIST_FULL\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de Palladium."
 
 #: src-en/data/events_special_storage.xml.append:8140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalienne Élite pour passer à l'Iridium !"
 
 #: src-en/data/events_special_storage.xml.append:8145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_IRIDIUM\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Iridium."
 
 #: src-en/data/events_special_storage.xml.append:8150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PLATINUM\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de platine."
 
 #: src-en/data/events_special_storage.xml.append:8155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_OSMIUM\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Osmium."
 
 #: src-en/data/events_special_storage.xml.append:8160
 msgid ""
@@ -9142,61 +9343,66 @@ msgstr "Améliorer la flak nobélienne."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalien Élite pour passer à la dernière "
+"amélioration, le Hassium !"
 
 #: src-en/data/events_special_storage.xml.append:8170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_BRONZE_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de bronze+."
 
 #: src-en/data/events_special_storage.xml.append:8175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_INDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Indium+."
 
 #: src-en/data/events_special_storage.xml.append:8180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de Rhénium+."
 
 #: src-en/data/events_special_storage.xml.append:8185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_SILVER_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'argent+."
 
 #: src-en/data/events_special_storage.xml.append:8190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_LIST_FULL_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de Palladium+."
 
 #: src-en/data/events_special_storage.xml.append:8195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalienne Élite pour passer à l'Iridium !"
 
 #: src-en/data/events_special_storage.xml.append:8200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Iridium+."
 
 #: src-en/data/events_special_storage.xml.append:8205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak de platine+."
 
 #: src-en/data/events_special_storage.xml.append:8210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Osmium+."
 
 #: src-en/data/events_special_storage.xml.append:8215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM_LIST_FULL_PLAYER\"]/text"
-msgstr ""
+msgstr "Améliorer la flak Nobélienne+."
 
 #: src-en/data/events_special_storage.xml.append:8220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalien Élite pour passer à la dernière "
+"amélioration, le Hassium !"
 
 #: src-en/data/events_special_storage.xml.append:8225
 msgid ""
@@ -9211,7 +9417,7 @@ msgstr "Vous consultez actuellement la Flak de bronze."
 #: src-en/data/events_special_storage.xml.append:8236
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de bronze en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8238
 msgid ""
@@ -9221,7 +9427,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'indium terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8255
 msgid ""
@@ -9231,12 +9437,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Indium."
 
 #: src-en/data/events_special_storage.xml.append:8264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Indium en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8266
 msgid ""
@@ -9246,7 +9452,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Rhenium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8283
 msgid ""
@@ -9256,12 +9462,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de Rhénium."
 
 #: src-en/data/events_special_storage.xml.append:8292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de rhénium en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8294
 msgid ""
@@ -9271,7 +9477,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'argent terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8311
 msgid ""
@@ -9281,12 +9487,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'argent."
 
 #: src-en/data/events_special_storage.xml.append:8320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'argent en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8322
 msgid ""
@@ -9296,7 +9502,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8331
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Palladium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8339
 msgid ""
@@ -9306,12 +9512,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de Palladium."
 
 #: src-en/data/events_special_storage.xml.append:8348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de palladium en utilisant de la ferraille et Cristal "
+"Rafale Élite I ?"
 
 #: src-en/data/events_special_storage.xml.append:8350
 msgid ""
@@ -9327,6 +9535,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Cristal "
+"Rafale Élite II ?"
 
 #: src-en/data/events_special_storage.xml.append:8367
 msgid ""
@@ -9342,6 +9552,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK I ?"
 
 #: src-en/data/events_special_storage.xml.append:8384
 msgid ""
@@ -9357,6 +9569,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK II ?"
 
 #: src-en/data/events_special_storage.xml.append:8401
 msgid ""
@@ -9372,6 +9586,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Cristal "
+"Neuronal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8418
 msgid ""
@@ -9387,6 +9603,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et l'Éclats "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8435
 msgid ""
@@ -9402,6 +9620,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Chargeur "
+"de Cristal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8452
 msgid ""
@@ -9417,6 +9637,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium en utilisant de la ferraille et le Lanceur "
+"d'Éclats ?"
 
 #: src-en/data/events_special_storage.xml.append:8469
 msgid ""
@@ -9441,17 +9663,17 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Iridium terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Iridium."
 
 #: src-en/data/events_special_storage.xml.append:8506
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Iridium en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8508
 msgid ""
@@ -9461,7 +9683,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8517
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Platinum Complete !"
 
 #: src-en/data/events_special_storage.xml.append:8525
 msgid ""
@@ -9471,12 +9693,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de platine."
 
 #: src-en/data/events_special_storage.xml.append:8534
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de platine en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8536
 msgid ""
@@ -9486,7 +9708,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Osmium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8553
 msgid ""
@@ -9496,12 +9718,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8560
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Osmium."
 
 #: src-en/data/events_special_storage.xml.append:8562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Osmium en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8564
 msgid ""
@@ -9544,6 +9766,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak Nobélienne en utilisant de la ferraille et le Cristal "
+"Rafale Élite II ?"
 
 #: src-en/data/events_special_storage.xml.append:8609
 msgid ""
@@ -9559,6 +9783,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK I ?"
 
 #: src-en/data/events_special_storage.xml.append:8626
 msgid ""
@@ -9591,6 +9817,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne en utilisant de la ferraille et le Cristal "
+"Neuronal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8660
 msgid ""
@@ -9606,6 +9834,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne en utilisant de la ferraille et l'Éclat "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8677
 msgid ""
@@ -9621,6 +9851,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne en utilisant de la ferraille et le Chargeur "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8694
 msgid ""
@@ -9636,6 +9868,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne en utilisant de la ferraille et le Lanceur "
+"d'Éclats ?"
 
 #: src-en/data/events_special_storage.xml.append:8711
 msgid ""
@@ -9660,17 +9894,17 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak Hassium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de bronze+."
 
 #: src-en/data/events_special_storage.xml.append:8747
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de bronze+ en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8749
 msgid ""
@@ -9680,7 +9914,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8758
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_BRONZE_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'indium terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8766
 msgid ""
@@ -9690,12 +9924,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Indium+."
 
 #: src-en/data/events_special_storage.xml.append:8775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Démanteler la Flak d'Indium+ en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8777
 msgid ""
@@ -9705,7 +9939,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8786
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_INDIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Rhenium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8794
 msgid ""
@@ -9715,12 +9949,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8801
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de Rhénium+."
 
 #: src-en/data/events_special_storage.xml.append:8803
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de rhénium+ en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8805
 msgid ""
@@ -9730,7 +9964,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8814
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'argent terminée !"
 
 #: src-en/data/events_special_storage.xml.append:8822
 msgid ""
@@ -9740,12 +9974,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'argent+."
 
 #: src-en/data/events_special_storage.xml.append:8831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'argent+ en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:8833
 msgid ""
@@ -9755,7 +9989,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:8842
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_SILVER_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Palladium complète !"
 
 #: src-en/data/events_special_storage.xml.append:8850
 msgid ""
@@ -9765,12 +9999,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:8857
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de Palladium+."
 
 #: src-en/data/events_special_storage.xml.append:8859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de palladium+ en utilisant de la ferraille et Cristal "
+"Rafale Élite I ?"
 
 #: src-en/data/events_special_storage.xml.append:8861
 msgid ""
@@ -9786,6 +10022,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Cristal "
+"Rafale Élite II ?"
 
 #: src-en/data/events_special_storage.xml.append:8878
 msgid ""
@@ -9801,6 +10039,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK I ?"
 
 #: src-en/data/events_special_storage.xml.append:8895
 msgid ""
@@ -9816,6 +10056,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK II ?"
 
 #: src-en/data/events_special_storage.xml.append:8912
 msgid ""
@@ -9831,6 +10073,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Cristal "
+"Neuronal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8929
 msgid ""
@@ -9846,6 +10090,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et l'Éclats "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8946
 msgid ""
@@ -9861,6 +10107,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Chargeur "
+"de Cristal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:8963
 msgid ""
@@ -9876,6 +10124,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
 msgstr ""
+"Améliorer la Flak de Palladium+ en utilisant de la ferraille et le Lanceur "
+"d'Éclats ?"
 
 #: src-en/data/events_special_storage.xml.append:8980
 msgid ""
@@ -9900,17 +10150,17 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9006
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Iridium terminée !"
 
 #: src-en/data/events_special_storage.xml.append:9015
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Iridium+."
 
 #: src-en/data/events_special_storage.xml.append:9017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Iridium+ en utilisant de la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:9019
 msgid ""
@@ -9920,7 +10170,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Platinum Complete !"
 
 #: src-en/data/events_special_storage.xml.append:9036
 msgid ""
@@ -9930,12 +10180,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:9043
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak de platine+."
 
 #: src-en/data/events_special_storage.xml.append:9045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak de platine+ en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:9047
 msgid ""
@@ -9945,7 +10195,7 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9056
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Osmium complète !"
 
 #: src-en/data/events_special_storage.xml.append:9064
 msgid ""
@@ -9955,12 +10205,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:9071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la Flak d'Osmium+."
 
 #: src-en/data/events_special_storage.xml.append:9073
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_OSMIUM_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "Améliorer la Flak d'Osmium+ en utilisant la ferraille ?"
 
 #: src-en/data/events_special_storage.xml.append:9075
 msgid ""
@@ -9980,12 +10230,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:9099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/text"
-msgstr ""
+msgstr "Vous consultez actuellement la flak nobélienne+."
 
 #: src-en/data/events_special_storage.xml.append:9101
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_BURST_1_RED\"]/text"
 msgstr ""
+"Améliorer la flak nobélienne+ en utilisant de la ferraille et le Rafale "
+"Cristalien Élite I ?"
 
 #: src-en/data/events_special_storage.xml.append:9103
 msgid ""
@@ -10001,6 +10253,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_BURST_2_RED\"]/text"
 msgstr ""
+"Améliorer la Flak Nobélienne+ en utilisant de la ferraille et le Cristal "
+"Rafale Élite II ?"
 
 #: src-en/data/events_special_storage.xml.append:9120
 msgid ""
@@ -10016,6 +10270,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_HEAVY_1_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne+ en utilisant de la ferraille et le Cristal "
+"Lourd Élite MK I ?"
 
 #: src-en/data/events_special_storage.xml.append:9137
 msgid ""
@@ -10031,6 +10287,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_HEAVY_2_RED\"]/text"
 msgstr ""
+"Améliorer la flak nobélienne+ en utilisant de la ferraille et du Cristal "
+"lourd d'élite Mark II ?"
 
 #: src-en/data/events_special_storage.xml.append:9154
 msgid ""
@@ -10046,6 +10304,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_STUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne+ en utilisant de la ferraille et le Cristal "
+"Neuronal Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:9171
 msgid ""
@@ -10061,6 +10321,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_SHOTGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne+ en utilisant de la ferraille et l'Éclat "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:9188
 msgid ""
@@ -10076,6 +10338,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"CRYSTAL_CHARGEGUN_RED\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne+ en utilisant de la ferraille et le Chargeur "
+"Cristalien Élite ?"
 
 #: src-en/data/events_special_storage.xml.append:9205
 msgid ""
@@ -10091,6 +10355,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER\"]/choice[@req=\"MINELAUNCHER_CRYSTAL\"]/text"
 msgstr ""
+"Améliorer la Flak nobélienne+ en utilisant de la ferraille et le Lanceur "
+"d'Éclats ?"
 
 #: src-en/data/events_special_storage.xml.append:9222
 msgid ""
@@ -10115,13 +10381,13 @@ msgstr "..."
 #: src-en/data/events_special_storage.xml.append:9246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak Hassium complète !"
 
 #: src-en/data/events_special_storage.xml.append:9273
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Utiliser votre Lance-mines 'Ba-Pef' [-21}, Fournit 5 délais]"
 
 #: src-en/data/events_special_storage.xml.append:9275
 msgid ""
@@ -10159,7 +10425,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Utilisez votre Lance-mines Royal [-6}, Fournit 2 délais]"
 
 #: src-en/data/events_special_storage.xml.append:9304
 msgid ""
@@ -10198,12 +10464,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Utiliser votre Lance-mines 'Bombe sale' "
+"[-15}, Fournit 4 délais, double la mauvaise réputation]"
 
 #: src-en/data/events_special_storage.xml.append:9332
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+"Vous préparez les munitions et tendez un piège aux Rebelles. C'est "
+"certainement super ultra illégal, mais vous serez parti avant que cela n'ait "
+"de l'importance."
 
 #: src-en/data/events_special_storage.xml.append:9338
 msgid ""
@@ -10234,72 +10505,96 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"Utiliser votre Flak 'Osmium' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9361
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9367
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"Utiliser votre Flak 'Osmium+' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9369
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9377
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Utiliser votre Flak 'nobélienne' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9379
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9385
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[7]/text"
 msgstr ""
+"Utiliser votre Flak 'nobélienne+' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9387
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9394
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[8]/text"
 msgstr ""
+"Utiliser votre Flak 'Hassium' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9396
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[8]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9402
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[9]/text"
 msgstr ""
+"Utiliser votre Flak 'Hassium+' "
+"[Fournit 1 délai, n'a pas d'impact sur la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:9404
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[9]/event/text"
 msgstr ""
+"Vous tirez une quantité TELLEMENT absurde de Flak dans l'espace de la "
+"balise, que cela va très certainement bloquer tout trafic spatial."
 
 #: src-en/data/events_special_storage.xml.append:9411
 msgid ""
@@ -10311,36 +10606,47 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Sec [Plaqué] : Médigel électroplaqué. [Une amélioration est déjà installée]\n"
+"\t\t\t\t[Les Plaqués guérissent deux fois plus vite et se soignent lentement "
+"seuls à 1,2 pv/s, mais perdent 30% de santé max et 10% de vitesse de "
+"déplacement]"
 
 #: src-en/data/events_special_storage.xml.append:9430
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Sec [Plaqué] : Armure lourde. [Une amélioration est déjà installée]\n"
+"\t\t\t\t[Les Plaqués bénéficient d'une double réduction des dommages et "
+"subissent des dommages réduits de la part des armes, mais perdent 50% de "
+"leur santé maximale et 10% de leur vitesse de déplacement]"
 
 #: src-en/data/events_special_storage.xml.append:9435
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Sec [Plaqué] : Réservoirs d'oxygène. [Une mise à niveau est déjà installée]\n"
+"\t\t\t\t[Les Plaqués gagnent l'immunité à la suffocation, mais n'ont que 30% "
+"de résistance au feu et perdent 10% de vitesse de déplacement]"
 
 #: src-en/data/events_special_storage.xml.append:9440
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Sec [Plaqué] : Médigel électroplaqué.  [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9446
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Sec [Plaqué] : Armure lourde.  [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9452
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ROCK\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Sec [Plaqué] : Réservoirs d'oxygène. [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9457
 msgid ""
@@ -10351,6 +10657,15 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer la modification Médigel électroplaqué.\n"
+"\t\t\t[Effets : Les Plaqués voient leur vitesse de déplacement réduite de 10 "
+"% et perdent 30 % de leur santé maximale, mais peuvent se soigner deux fois "
+"plus vite et acquièrent la capacité de se soigner seuls à 1,2 pv/s (avec un "
+"délai de 10 secondes après avoir subi des dommages)].\n"
+"\n"
+"\t\t\t[Avertissement : Ceci n'affectera que les membres d'équipage "
+"Rocailleux Plaqués. Vous pourrez installer d'autres modifications "
+"secondaires et primaires par la suite.]"
 
 #: src-en/data/events_special_storage.xml.append:9470
 msgid ""
@@ -10364,7 +10679,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9476
 msgid ""
@@ -10387,6 +10702,18 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer la modification Armure lourde, qui "
+"augmente l'épaisseur et la résistance de l'électroplacage des Rocailleux "
+"Plaqués, mais qui, en conséquence, diminue leurs capacités d'évasion et les "
+"rend plus vulnérables aux dangers environnementaux.\n"
+"\t\t\t[Effets : Les Plaqués bénéficient d'une réduction des dommages deux "
+"fois supérieure à la normale (de 73 % à 36,5 %) et subissent 50 % de "
+"dommages en moins avec les armes, mais ils perdent la moitié de leur santé "
+"maximale et voient leur vitesse de déplacement réduite de 10 %].\n"
+"\n"
+"\t\t\t[Avertissement : Ceci n'affecte que les membres d'équipage Rocailleux "
+"Plaqués. Vous pourrez installer d'autres modifications secondaires et "
+"primaires par la suite.]"
 
 #: src-en/data/events_special_storage.xml.append:9503
 msgid ""
@@ -10398,7 +10725,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:9507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/choice[2]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9509
 msgid ""
@@ -10419,6 +10746,19 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer la modification Réservoirs d'Oxygène, qui "
+"ajoutera des systèmes d'oxygène personnalisés sur l'armure électroplaquée "
+"des Rocailleux Plaqué. Ces réservoirs les rendent immunisés contre la "
+"suffocation, mais les systèmes d'oxygène sont vulnérables à la chaleur "
+"extrême, et fuiront de l'huile et de l'acide sur les Plaqués lorsqu'ils "
+"seront exposés au feu, les blessant.\n"
+"\t\t\t[Effets : Les Plaqués gagnent l'immunité à la suffocation, mais leur "
+"immunité au feu est réduite à 30% de résistance, et leur vitesse de "
+"déplacement est réduite de 10%.]\n"
+"\t\t\t\n"
+"\t\t\t[Avertissement : Ceci n'affectera que les membres d'équipage "
+"Rocailleux Plaqués. Vous pourrez installer d'autres modifications "
+"secondaires et primaires par la suite.]"
 
 #: src-en/data/events_special_storage.xml.append:9535
 msgid ""
@@ -10432,7 +10772,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Installer la modification. [Coût : 75~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:9541
 msgid ""
@@ -10455,7 +10795,7 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Le Système de survie."
 
 #: src-en/data/events_special_storage.xml.append:9573
 msgid ""
@@ -10476,13 +10816,13 @@ msgstr "Quelle amélioration souhaitez-vous installer ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"FM_OXYGEN_STIMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Stimulants Gazeux. [INDISPONIBLE : Vous avez déjà cette mise à jour]"
 
 #: src-en/data/events_special_storage.xml.append:9594
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN\"]/choice[@req=\"FM_OXYGEN_STIMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Stimulants Gazeux. [Cost : 55~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:9599
 msgid ""
@@ -10493,12 +10833,16 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer la mise à jour des Stimulants Gazeux.\n"
+"\t\t\t[Effets : Pour chaque barre de puissance active dans le Système de "
+"survie, votre équipage gagne 10 % de résistance aux étourdissements et 5 % "
+"de résistance à l'asphyxie.]"
 
 #: src-en/data/events_special_storage.xml.append:9609
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/choice[@req=\"oxygen\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Effectuer l'amélioration. [Cost : 55~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:9611
 msgid ""
@@ -10517,6 +10861,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_SYSTEM_OXYGEN_STIMS\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Cette amélioration n'est pas disponible. Vous avez besoin d'un Système de "
+"survie de niveau 2."
 
 #: src-en/data/events_special_storage.xml.append:9629
 msgid ""
@@ -10528,22 +10874,27 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Amélioration du Rayon Phaseur. [INDISPONIBLE : Vous avez déjà atteint le "
+"niveau maximal de cette amélioration]"
 
 #: src-en/data/events_special_storage.xml.append:9649
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Amélioration du Rayon Phaseur Niveau 2. [Coût : 80~, 8}]"
 
 #: src-en/data/events_special_storage.xml.append:9658
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/text"
 msgstr ""
+"Vous êtes sur le point d'installer une amélioration du Rayon Phaseur.\n"
+"\t\t[Effets : la pénétration des boucliers de l'artillerie et des armes à "
+"Rayon est augmentée de 1, peut être installée jusqu'à 2 fois]"
 
 #: src-en/data/events_special_storage.xml.append:9661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"can_get_beam_pierce\"]/text"
-msgstr ""
+msgstr "Effectuer l'amélioration. [Cost : 80~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:9663
 msgid ""
@@ -10560,12 +10911,14 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Cette amélioration n'est pas disponible. Vous avez besoin des armes niveau 7."
 
 #: src-en/data/events_special_storage.xml.append:9683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Cette amélioration n'est pas disponible. Vous avez besoin des armes niveau 3."
 
 #: src-en/data/events_special_storage.xml.append:9687
 msgid ""
@@ -10591,19 +10944,19 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Chercher Remington."
 
 #: src-en/data/events_special_storage.xml.append:9719
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Chercher Mossberg."
 
 #: src-en/data/events_special_storage.xml.append:9724
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ENGI\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Chercher les Engi jumeaux Mossberg et Remington."
 
 #: src-en/data/events_special_storage.xml.append:9730
 msgid ""
@@ -10614,13 +10967,13 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ROCK\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Chercher votre Rocailleux Plaqué."
 
 #: src-en/data/events_special_storage.xml.append:9743
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_LIST_ROCK\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Chercher Alastair."
 
 #: src-en/data/events_special_storage.xml.append:9747
 msgid ""
@@ -10630,7 +10983,7 @@ msgstr "Pas grave, faire autre chose."
 #: src-en/data/events_special_storage.xml.append:9753
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_PLATED\"]/text"
-msgstr ""
+msgstr "Que voulez-vous faire avec votre Plaqué ?"
 
 #: src-en/data/events_special_storage.xml.append:9755
 msgid ""
@@ -10641,6 +10994,19 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_PLATED_SCAN\"]/text"
 msgstr ""
+"DÉTAILS DU ROCAILLEUX PLAQUÉ\n"
+"\t\t\tESPECE ? [Rocailleux] SOUS-TYPE ? [Oui]\n"
+"\t\t\tDétails du sous-type : Non génétique, Élite\n"
+"\t\t\tStatistiques : 120 points de vie, subit 27 % de dommages en moins et "
+"45 % de dommages de suffocation en moins. Se déplace à 0,6x la vitesse et "
+"répare à 1,5x la vitesse.\n"
+"\t\t\tInflige 1,3x de dommages au corps à corps, 0,75x de dommages à "
+"distance, 0,7x en sabotage. Éteint les incendies très rapidement. 70 % de "
+"résistance aux étourdissements. Immunisé au feu.\n"
+"\t\t\tCapacité (temps de recharge 10) : Répare 1 dommages à la coque et 4 "
+"dommages au système dans la salle occupée. Se soigne de 20 pv.\n"
+"\t\t\tTemps de recharge de la capacité : Renouvèle une charge à chaque saut. "
+"Peut contenir 3 charges."
 
 #: src-en/data/events_special_storage.xml.append:9780
 msgid ""
@@ -10656,111 +11022,173 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[1]"
 msgstr ""
+"Votre Rocailleux Plaqué est occupé à construire un modèle miniature de votre "
+"vaisseau. Il vous le montre, il est très bien fait et très précis."
 
 #: src-en/data/events_special_storage.xml.append:9796
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[2]"
 msgstr ""
+"Votre Rocailleux Plaqué vous montre la figurine de chef de train qu'il peint "
+"pour son train miniature. Elle est peinte avec le plus grand soin."
 
 #: src-en/data/events_special_storage.xml.append:9797
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[3]"
 msgstr ""
+"Votre Rocailleux Plaqué vous dit qu'il aimerait pouvoir concevoir une "
+"maquette de train à l'échelle 1:1000, mais que ses mains sont trop grandes."
 
 #: src-en/data/events_special_storage.xml.append:9798
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[4]"
 msgstr ""
+"Votre Rocailleux Plaqué vous dit qu'il aime beaucoup entendre Alastair rire."
 
 #: src-en/data/events_special_storage.xml.append:9799
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[5]"
 msgstr ""
+"Votre Rocailleux Plaqué est en train d'écrire une lettre, vraisemblablement "
+"à sa famille ou à ses amis. Il est préférable de ne pas le déranger."
 
 #: src-en/data/events_special_storage.xml.append:9800
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[6]"
 msgstr ""
+"Votre Rocailleux Plaqué vous raconte qu'une fois, Alastair a laissé tomber "
+"son alliance dans la forge. Il a frappé sa main dans la forge si rapidement "
+"pour la récupérer qu'il a failli casser la forge."
 
 #: src-en/data/events_special_storage.xml.append:9801
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[7]"
 msgstr ""
+"Votre Rocailleux Plaqué vous parle d'un objet qu'il a lu dans un livre, "
+"appelé un \"cerf-volant\". Il vous demande si vous aimeriez en faire voler "
+"un sur une planète voisine prochainement."
 
 #: src-en/data/events_special_storage.xml.append:9802
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[8]"
 msgstr ""
+"Vous entrez et apercevez votre Rocailleux Plaqué en train d'utiliser un mur "
+"proche pour se gratter le dos. Vous décidez de le laisser tranquille et de "
+"repartir."
 
 #: src-en/data/events_special_storage.xml.append:9803
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[9]"
 msgstr ""
+"Vous apercevez votre Rockman Plaqué à la cafétéria, en train de manger assez "
+"pour tuer un ours. Vous vous asseyez à côté de lui et il vous tapote dans le "
+"dos avec son bras, un large sourire sur le visage. Vous n’avez pas le cœur "
+"de lui dire qu’il a presque brisé votre dos."
 
 #: src-en/data/events_special_storage.xml.append:9804
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[10]"
 msgstr ""
+"Votre Rocailleux Plaqué s'approche timidement de vous et vous demande si le "
+"chapeau qu'il porte va bien avec ses vêtements. Vous n'avez pas le cœur de "
+"lui dire qu'un haut-de-forme ne va pas avec l'électroplaquage."
 
 #: src-en/data/events_special_storage.xml.append:9805
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[11]"
 msgstr ""
+"Vous demandez à votre Rocailleux Plaqué ce qu'il pense des Mantis. Il "
+"réfléchit un instant, puis répond : "
+"\"Ils fabriquent des bombes cool. J'adore les démonter.\" Vous êtes à peu "
+"près sûr que c'est ce que vous vouliez dire."
 
 #: src-en/data/events_special_storage.xml.append:9806
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[12]"
 msgstr ""
+"Certains de vos membres d'équipage se plaignent que la chaleur est trop "
+"élevée. Vous attrapez le coupable, votre Rocailleux Plaqué. Il affirme qu'il "
+"fait \"trop froid sur le vaisseau.\" L'équipage transpire tellement qu'ils "
+"pourraient remplir une piscine, vous le grondez pour qu'il ne fasse plus ça."
 
 #: src-en/data/events_special_storage.xml.append:9807
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[13]"
 msgstr ""
+"Vous demandez à votre Rocailleux Plaqué comment Alastair trouve certaines de "
+"ses recettes d'armes. Le Plaqué tousse bruyamment puis vous interroge sur la "
+"météo. On dirait que ce sujet n'est pas autorisé."
 
 #: src-en/data/events_special_storage.xml.append:9808
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[14]"
 msgstr ""
+"Vous demandez à votre Rocailleux Plaqué s'il voudrait un jour être le "
+"capitaine de son propre vaisseau. Il vous explique qu'il aime acquérir de "
+"nouvelles compétences, alors pourquoi pas ?"
 
 #: src-en/data/events_special_storage.xml.append:9809
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[15]"
 msgstr ""
+"Votre Rocailleux Plaqué fait remarquer qu'il espère qu'il y ait une bonne "
+"forge dans l'au-delà, afin de pouvoir continuer à perfectionner son art tout "
+"comme Alastair."
 
 #: src-en/data/events_special_storage.xml.append:9810
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[16]"
 msgstr ""
+"On frappe à votre porte. Vous l'ouvrez et vous trouvez votre Rocailleux "
+"Plaqué devant vous. \"Pourquoi les humains n'ont-ils pas simplement "
+"construit des chemins de fer dans l'espace ?\" demande-t-il soudainement. "
+"Vous fermez la porte sur lui."
 
 #: src-en/data/events_special_storage.xml.append:9811
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[17]"
 msgstr ""
+"Votre Rocailleux Plaqué vous demande où se trouvent le four et le soufflet "
+"de votre vaisseau. Vous lui informez que vous n'en avez pas, et il lève les "
+"bras en l'air avant de partir en bougonnant."
 
 #: src-en/data/events_special_storage.xml.append:9812
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[18]"
 msgstr ""
+"Vous demandez à votre Rocailleux Plaqué de vous parler de sa famille. Il "
+"vous raconte une jolie histoire sur la cuisine de sa grand-mère. Vous vous "
+"perdez un instant dans la réflexion, vous demandant à quoi cela pourrait "
+"bien ressembler."
 
 #: src-en/data/events_special_storage.xml.append:9813
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[19]"
 msgstr ""
+"Votre Rocailleux Plaqué n'aime pas le fait que votre vaisseau n'ait pas de "
+"musique du tout, et il fabrique des tambours improvisés à partir de métal "
+"récupéré. Le bruit qu'ils produisent est épouvantable et vous les confisquez."
 
 #: src-en/data/events_special_storage.xml.append:9814
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[20]"
 msgstr ""
+"Votre Rocailleux Plaqué pense que vous ne devriez pas faire confiance aux "
+"Engis à cause de leur nourriture dégoûtante. Il explique : "
+"\"Si votre cuisine est dégoûtante, vous êtes probablement maléfique.\" Vous "
+"notez mentalement de ne jamais cuisiner pour cette personne."
 
 #: src-en/data/events_special_storage.xml.append:9815
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_PLATED\"]/text[21]"
 msgstr ""
+"Votre Rocailleux Plaqué joue avec le circuit de train qu'il a acheté à bord, "
+"mais il est probable qu'il vous fera perdre votre temps si vous lui en parlez"
 
 #: src-en/data/events_special_storage.xml.append:9820
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_FORGEMASTER\"]/text"
-msgstr ""
+msgstr "Que voulez-vous faire avec Alastair ?"
 
 #: src-en/data/events_special_storage.xml.append:9822
 msgid ""
@@ -10771,6 +11199,20 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_FORGEMASTER_SCAN\"]/text"
 msgstr ""
+"DÉTAILS D'ALASTAIR\n"
+"\t\t\tESPÈCE ? [Rocailleux] SOUS-TYPE ? [Oui]\n"
+"\t\t\tDétails du sous-type : Unique\n"
+"\t\t\tStatistiques : 200 Santé, prend moitié des dommages de toutes les "
+"sources (y compris la suffocation), se déplace à 0,8x la vitesse, et répare "
+"à 3x la vitesse.\n"
+"\t\t\tInflige 2x les dommages au corps à corps, 1,5x les dommages à "
+"distance, 1,5x de sabotage. Éteint les incendies très rapidement. Résistance "
+"aux étourdissements à 99%. Immunisé au feu.\n"
+"\t\t\tCapacité (Temps de recharge 10) : Répare 2 dommages de coque, et 10 "
+"dommages de système dans la salle occupée, tout en allumant un feu. Se "
+"soigne entièrement.\n"
+"\t\t\tTemps de recharge de la capacité : Renouvèle une charge à chaque saut. "
+"Peut contenir 1 charge."
 
 #: src-en/data/events_special_storage.xml.append:9846
 msgid ""
@@ -10786,71 +11228,106 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[1]"
 msgstr ""
+"Alastair vous raconte des histoires sur certaines des armes les plus "
+"étranges qu'il ait jamais fabriquées."
 
 #: src-en/data/events_special_storage.xml.append:9862
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[2]"
 msgstr ""
+"Alastair vous raconte l'histoire des armes les plus puissantes qu'il ait "
+"jamais fabriquées."
 
 #: src-en/data/events_special_storage.xml.append:9863
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[3]"
 msgstr ""
+"Alastair vous raconte des histoires sur les armes les plus faibles qu'il ait "
+"jamais fabriquées."
 
 #: src-en/data/events_special_storage.xml.append:9864
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[4]"
 msgstr ""
+"Alastair vous accueille poliment dans le hall, mais il a beaucoup de choses "
+"en tête."
 
 #: src-en/data/events_special_storage.xml.append:9865
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[5]"
 msgstr ""
+"Alastair vous salue poliment à la cafétéria et tapote le siège à côté de "
+"vous. Il mange encore plus que ses Plaqués !"
 
 #: src-en/data/events_special_storage.xml.append:9866
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[6]"
 msgstr ""
+"Alastair vous demande si vous seriez intéressé par la forge, vous refusez "
+"poliment."
 
 #: src-en/data/events_special_storage.xml.append:9867
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[7]"
 msgstr ""
+"Vous êtes surpris de constater qu'Alastair ne demande pas à votre équipage "
+"de rejoindre les rangs des Plaqués."
 
 #: src-en/data/events_special_storage.xml.append:9868
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[8]"
 msgstr ""
+"\"Mon garçon, vous êtes vous déjà arrêté pour compter toutes les étoiles ? "
+"C'est un bon moyen de passer le temps\", vous dit Alastair en passant."
 
 #: src-en/data/events_special_storage.xml.append:9869
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[9]"
 msgstr ""
+"En passant devant la cafétéria, vous entendez Alastair rire et partager des "
+"histoires joyeuses avec votre équipage."
 
 #: src-en/data/events_special_storage.xml.append:9870
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[10]"
 msgstr ""
+"Alastair vous envoie une liste de moyens pour améliorer les performances de "
+"votre vaisseau via votre terminal. La charge de travail que cela "
+"impliquerait est immense, et vous devez malheureusement refuser d'utiliser "
+"cette liste."
 
 #: src-en/data/events_special_storage.xml.append:9871
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[11]"
 msgstr ""
+"Alastair vous parle de sa collection de petits rochers colorés qu'il a "
+"ramassés sur différentes planètes : "
+"\"Ils évoquent simplement la joie, mon garçon\", explique-t-il, un large "
+"sourire aux lèvres."
 
 #: src-en/data/events_special_storage.xml.append:9872
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[12]"
 msgstr ""
+"Alastair vous demande ce que vous pensez de la Théocratie. Après avoir donné "
+"votre réponse, il réagit : \"Intéressant. Eh bien, je ne vous jugerai pas, "
+"peu importe votre opinion, mais c’est bon de savoir que vous n’êtes pas un "
+"fidèle dévot ou un allié de ces gens-là.\""
 
 #: src-en/data/events_special_storage.xml.append:9873
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_FORGEMASTER\"]/text[13]"
 msgstr ""
+"Vous demandez à Alastair s'il est du côté des Exilés ou de la Théocratie : "
+"\"Mon garçon, je ne me soucie guère de soutenir le point de vue de l'un ou "
+"l'autre camp. Je me contente de prendre sous mon aile tous ceux qui "
+"souhaitent améliorer leur métier, plutôt que leur organe directeur. Cela "
+"vaut aussi pour vous et votre équipage !\""
 
 #: src-en/data/events_special_storage.xml.append:9877
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_REMINGTON\"]/text"
-msgstr ""
+msgstr "Que voulez-vous faire de Remington ?"
 
 #: src-en/data/events_special_storage.xml.append:9879
 msgid ""
@@ -10861,6 +11338,20 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_REMINGTON_SCAN\"]/text"
 msgstr ""
+"DÉTAILS DE REMINGTON\n"
+"\t\t\tESPÈCE ? [Engi] SOUS-TYPE ? [Oui]\n"
+"\t\t\tDétails du sous-type : Unique\n"
+"\t\t\tStatistiques : Vitesse de réparation x2,5, prend 70% des dommages du "
+"feu et 40% des dommages de la suffocation, dommages au combat x0,6\n"
+"\t\t\tCapacité (temps de recharge de 30s, durée de 15s) : Bouclier "
+"temporaire. Les dommages de toutes les sources sont réduits de 80%, résiste "
+"aux tentatives de contrôle mental, et réduit les dommages de suffocation "
+"subis de 50% pour les alliés.\n"
+"\t\t\tTemps de recharge de la capacité : Renouvèle une charge à chaque saut."
+"\n"
+"\t\t\tAura : Si dans la même pièce que son frère jumeau Mossberg, gagne 10% "
+"de pv max, 10% de vitesse de déplacement, 10% de vitesse de sabotage, et 10% "
+"de dégâts à distance."
 
 #: src-en/data/events_special_storage.xml.append:9903
 msgid ""
@@ -10876,56 +11367,99 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[1]"
 msgstr ""
+"Remington frappe à votre porte. Lorsque vous l'ouvrez, il manque de vous "
+"renverser à force de vous mettre un papier sous le nez. Il s'agit d'un plan "
+"pour ce qui semble être un projet androïde top secret de la Fédération, "
+"intitulé \"Genesis\". Remington vous demande si le \"robot\" sur la photo "
+"est célibataire ou non. Vous restez sans voix."
 
 #: src-en/data/events_special_storage.xml.append:9919
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[2]"
 msgstr ""
+"Vous trouvez un papier sous votre porte, il provient de Remington. Il dit : "
+"\"Bonjour Capitaine, j'ai piraté votre terminal et vu votre historique de "
+"navigation. Le 'meatspin' est-il une sorte d'art martial humain perdu dans "
+"le temps ? Apprenez-moi la technique quand vous aurez un peu de temps libre\""
+". Vous jetez immédiatement la note dans le sas et l'espace."
 
 #: src-en/data/events_special_storage.xml.append:9920
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[3]"
 msgstr ""
+"Vous surprenez Remington en train de demander de l’aide pour remplir sa "
+"grille de mots croisés, visiblement bloqué. Personne d’autre ne semble avoir "
+"de bonne réponse à lui proposer."
 
 #: src-en/data/events_special_storage.xml.append:9921
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[4]"
 msgstr ""
+"Vous frappez à la porte de Remington et il vous laisse entrer. A "
+"l'intérieur, il construit un gigantesque puzzle, presque aussi grand que la "
+"pièce elle-même. Il vous propose de vous joindre à lui, vous lui expliquez "
+"que lorsque vous aurez terminé, les rebelles auront pris le contrôle du Nœud "
+"17, auront fait la fête et auront des petits-enfants."
 
 #: src-en/data/events_special_storage.xml.append:9922
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[5]"
 msgstr ""
+"Vous recevez sur un canal crypté un message de l'amiral Tully en personne. "
+"Il va droit au but : \"Ecoutez-moi, la base de données de la Fédération est "
+"remplacée par une histoire fictive intitulée 'Les aventures de Catboy Tully :"
+"3'. Dieu merci, celui qui fait ça remet notre base de données en ligne une "
+"heure plus tard. Nous avons retracé la piste de ces changements de base de "
+"données jusqu'à un terminal appartenant à un individu nommé 'Mossberg' qui "
+"se trouve à bord de votre vaisseau. Fiston, c'est une blague pour vous ? "
+"Mettez votre équipage au pas ou je le ferai moi-même\" Il vous raccroche au "
+"nez avant que vous ne puissiez répondre."
 
 #: src-en/data/events_special_storage.xml.append:9923
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[6]"
 msgstr ""
+"Vous retrouvez Remington dans la cafétéria en train de \"chanter\" via des "
+"bips. Sa chanson est étonnamment entraînante et quelques membres d'équipage "
+"fredonnent ou claquent des doigts, s'ils en ont."
 
 #: src-en/data/events_special_storage.xml.append:9924
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[7]"
 msgstr ""
+"Vous trouvez un dessin sur votre porte. Remington a fait un dessin grossier "
+"de vous, de votre équipage et de lui dans une pose de groupe. Un seul mot "
+"est écrit au dos du dessin : \"Ami\"."
 
 #: src-en/data/events_special_storage.xml.append:9925
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[8]"
 msgstr ""
+"Remington vous demande s'il existe un moyen de séparer tous les Engis de "
+"l'Harmonie sans les tuer. Vous n'avez pas de réponse satisfaisante à lui "
+"donner, il semble déçu."
 
 #: src-en/data/events_special_storage.xml.append:9926
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[9]"
 msgstr ""
+"Vous demandez à Remington ce qu'il pense de son frère Mossberg : \"Je "
+"prendrais une balle pour mon frère, puis les nanomachines qui restent sur ma "
+"personne en prendraient douze autres. D'autres questions, capitaine ?\""
 
 #: src-en/data/events_special_storage.xml.append:9927
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_REMINGTON\"]/text[10]"
 msgstr ""
+"Vous trouvez Remington en train d'essayer de peindre un motif de super-héros "
+"sur l'une des consoles de votre vaisseau, sans doute tiré d'une de ses "
+"bandes dessinées. Vous lui demandez sèchement de cesser de peindre sur des "
+"équipements aussi délicats."
 
 #: src-en/data/events_special_storage.xml.append:9932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_MOSSBERG\"]/text"
-msgstr ""
+msgstr "Que voulez-vous faire de Mossberg ?"
 
 #: src-en/data/events_special_storage.xml.append:9934
 msgid ""
@@ -10936,6 +11470,20 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_MOSSBERG_SCAN\"]/text"
 msgstr ""
+"DÉTAILS DE MOSSBERG\n"
+"\t\t\tESPÈCE ? [Engi] SOUS-TYPE ? [Oui]\n"
+"\t\t\tDétails du sous-type : Unique\n"
+"\t\t\tStatistiques : Vitesse de réparation x2,5, prend 70% des dommages de "
+"suffocation et 40% des dommages du feu, dommages au combat x0,6\n"
+"\t\t\tCapacité (temps de recharge de 30s, durée de 15s) : Bouclier "
+"temporaire. Les dommages de toutes les sources sont réduits de 80%, résiste "
+"aux tentatives de contrôle mental, et réduit les dommages de feu subis de "
+"50% pour les alliés.\n"
+"\t\t\tTemps de recharge de la capacité : Renouvèle une charge à chaque saut."
+"\n"
+"\t\t\tAura : Si dans la même pièce que son frère jumeau Remington, gagne 10% "
+"de pv max, 10% de vitesse de déplacement, 10% de vitesse de sabotage, et 10% "
+"de dégâts à distance."
 
 #: src-en/data/events_special_storage.xml.append:9958
 msgid ""
@@ -10951,56 +11499,135 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[1]"
 msgstr ""
+"Vous ouvrez les portes de vos quartiers pour trouver Mossberg tenant une "
+"sorte de diagramme : \"Capitaine, un design peu orthodoxe a été repéré, il "
+"semble être d'origine terrestre. Objectif : inconnu. Veuillez préciser.\"\n"
+"\n"
+"\t\t\tLe frère Engi a trouvé un ancien plan pour ce qui semble être une "
+"station orbitale avec de nombreuses grandes antennes droites ; cependant, "
+"aucune d'entre elles ne semble fonctionnelle car elles sont toutes "
+"maintenues par des pinces et semblent être en métal solide. Le seul nom "
+"figurant sur le schéma est celui d'un antique Dieu de la Terre. C'est "
+"curieux."
 
 #: src-en/data/events_special_storage.xml.append:9977
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[2]"
 msgstr ""
+"Mossberg se rend à nouveau dans vos quartiers, avec ce qui semble être un "
+"diagramme : \"Capitaine, un étrange dessin de vêtement a été repéré, il "
+"semble être d'origine terrestre. Théorie : Peut-être utilisé pour la mode ? "
+"Veuillez préciser.\"\n"
+"\n"
+"\t\t\tMossberg vous tend le diagramme. Il s'agit d'une photo en noir et "
+"blanc d'une chauve-souris à laquelle est attachée une sorte de bombe à "
+"fragmentation. Le document est également clairement classifié. Vous le "
+"confisquez."
 
 #: src-en/data/events_special_storage.xml.append:9981
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[3]"
 msgstr ""
+"Mossberg se rend à nouveau dans vos quartiers, avec ce qui semble être un "
+"diagramme : \"Capitaine, je suis CERTAIN qu'il s'agissait d'un projet "
+"terrestre impliquant de minuscules oiseaux et une bombe nucléaire. Pourquoi "
+"les petits oiseaux ont-ils été placés près de la bombe pour la "
+"\"garder au chaud\" ? Les humains étaient-ils une ancienne version de "
+"système d’exploitation ? La conception semble... illogique\".\n"
+"\n"
+"\t\t\tVous fixez l’Engi pendant 12 longues secondes tendues, avant de lui "
+"arracher le papier des mains pour lire ce qui est (sans surprise) un "
+"document confidentiel qu’il a probablement encore piraté dans la base de "
+"données de la Fédération. À votre grande confusion ce qu’il décrit est bel "
+"et bien... réel ??"
 
 #: src-en/data/events_special_storage.xml.append:9985
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[4]"
 msgstr ""
+"Vous êtes assis à côté de Mossberg à la cafétéria. Après quelques échanges, "
+"il aborde le sujet du jour : \"Capitaine, dans les années 1960, les humains "
+"ont tenté d'utiliser du carburant pour fusées afin de tirer avec des fusils "
+"de petit calibre. Cela semble... un incroyable gaspillage. Heureusement, "
+"l'entreprise qui les fabriquait a fait faillite. Sinon, j'aurais "
+"probablement supprimé mon système d'exploitation par frustration."
+"\" Il fait une pause. \"Merci encore d'avoir écouté mes questions. Vous == "
+"bon auditeur.\""
 
 #: src-en/data/events_special_storage.xml.append:9986
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[5]"
 msgstr ""
+"Vous demandez à Mossberg ce que cela fait d'être composé de nombreux "
+"nanorobots plus petits. Il rétorque avec humour : \"Je ne sais pas, qu'est-"
+"ce que ça fait de gaspiller autant d'oxygène avec votre méthode de "
+"respiration inefficace ?\" Mossberg émet quelques bips, puis fait jouer le "
+"fichier sonore pour son troisième rire. Mossberg poursuit : \"Blague à part, "
+"il peut être fatigant de voir quelqu'un s'écarter de votre processus de "
+"pensée. Surtout quand ce processus consiste à jongler avec des gobelets à la "
+"cafétéria !\" Il vous salue et s'en va, manifestement prêt à commettre "
+"d'autres méfaits."
 
 #: src-en/data/events_special_storage.xml.append:9988
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[6]"
 msgstr ""
+"Mossberg montre quelques-unes de ses améliorations aux membres de "
+"l'équipage. \"Je les ai eues au marché #000000 !\" explique-t-il avec "
+"enthousiasme. Il se tape le nez et une voix féminine émet un message "
+"monotone : \"Propulseurs enclenchés\". Il commence à flotter à exactement un "
+"centimètre du sol. \"Ça euh... ça ne va pas vraiment plus haut que ça\", "
+"explique-t-il en fronçant les sourcils."
 
 #: src-en/data/events_special_storage.xml.append:9989
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[7]"
 msgstr ""
+"Vous demandez à Mossberg quelle planète il voudrait visiter après avoir "
+"détruit l'Harmonie. Il vous répond qu'il n'y a jamais vraiment pensé "
+"auparavant et qu'il va y réfléchir."
 
 #: src-en/data/events_special_storage.xml.append:9990
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[8]"
 msgstr ""
+"Vous croisez Mossberg dans le couloir et il vous salue vigoureusement, "
+"heureux de vous voir. Dès qu'il le fait, une voix féminine monotone sort de "
+"son corps : \"Retrait de la limite sur le пылесборник, veuillez patienter\" "
+"Avant que vous ne puissiez demander ce que cela signifie, le bras de "
+"Mossberg se détache et il s'écroule sur le sol. Un grand objet ressemblant à "
+"un rail sort de son bras, touchant presque le plafond, puis il se déploie en "
+"un gigantesque fusil qui ferait rougir un Laser lourd III. Mossberg semble "
+"ne plus pouvoir bouger, et bloque désormais le couloir avec cette... chose. "
+"Vous lui demandez s'il va bien, il répond : \" Uh....no. Je n'ai aucune idée "
+"de la raison pour laquelle cela s'est produit. Pouvez-vous, s'il vous plaît, "
+"m'aider à remettre cette... CHOSE... en place ?\" Il vous supplie. Vous "
+"soupirez et allez chercher une boîte à outils pour l'aider. Il s'avère qu'un "
+"bouton situé sur sa cheville gauche permet de le rétracter, mais il jure "
+"qu'il n'a aucune idée de la façon de l'activer."
 
 #: src-en/data/events_special_storage.xml.append:9992
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[9]"
 msgstr ""
+"Vous demandez à Mossberg ce qu'il pense de son frère Remington : \"Capitaine"
+", je sauterais dans une étoile géante rouge pour mon frère si je savais que "
+"j'avais 1% de chance de le garder en vie.\""
 
 #: src-en/data/events_special_storage.xml.append:9993
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_MOSSBERG\"]/text[10]"
 msgstr ""
+"Mossberg n'a pas quitté sa chambre aujourd'hui et semble bouder. Vous lui "
+"demandez ce qui ne va pas et il vous informe qu'il a peur que le jour où il "
+"devra inévitablement affronter l'Harmonie, certains des Engi qu'il devra "
+"combattre soient de vieux amis à lui. Vous essayez de le réconforter, mais "
+"il demande à être laissé seul."
 
 #: src-en/data/events_special_storage.xml.append:9997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_ENGI_TWINS\"]/text"
-msgstr ""
+msgstr "Que voulez-vous faire des jumeaux Engi ?"
 
 #: src-en/data/events_special_storage.xml.append:9999
 msgid ""
@@ -11011,6 +11638,9 @@ msgstr "Pas grave, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_ENGI_TWINS\"]/choice[3]/text"
 msgstr ""
+"Consulter la collection de jeux des jumeaux Engi.\n"
+"\t\t\t\t(NOTE : APPUYEZ SUR les signes \"-\" et \"+\" pour ajuster la taille "
+"du texte des jeux afin de pouvoir le lire correctement)"
 
 #: src-en/data/events_special_storage.xml.append:10023
 msgid ""
@@ -11026,88 +11656,208 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[1]"
 msgstr ""
+"Vous entendez les deux frères engi se disputer.\n"
+"\t\t\t\"Couleurs peu orthodoxes et plateau de jeu inélégant = jetable\" \"Ne "
+"pas tenir compte de la conclusion. Les couleurs contiennent un contexte "
+"d'origine terrestre donnant une signification => activités similaires.\"\n"
+"\t\t\tLe premier frère fait un geste irrité et dit : "
+"\"Vous êtes défectueux.\""
 
 #: src-en/data/events_special_storage.xml.append:10047
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[2]"
 msgstr ""
+"Les jumeaux se disputent à nouveau. Remington crie : "
+"\"SI F1--->AIDE-MOI, SI TU JETTES ENCORE MA CARTE GRAPHIQUE JE VAIS-\".\n"
+"\t\t\tSa voix s'interrompt soudainement. Une petite voix automatisée joue : "
+"\"Erreur système, veuillez contacter le support client.\" Mossberg soupire, "
+"se calme et commence à aider son frère à réparer."
 
 #: src-en/data/events_special_storage.xml.append:10050
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[3]"
 msgstr ""
+"Vous rencontrez les jumeaux à la cafétéria. Remington a l'air très nerveux "
+"et s'approche lentement... du micro-ondes ! Son frère s'empresse de "
+"l'attraper et de l'éloigner du micro-ondes : \" Sa ligue > ta ligue \". Ne "
+"t'embarrasse pas devant son frère. Tu obtiendrais des résultats >= en "
+"calculant la racine carrée d'une tarte\", explique sévèrement Mossberg à son "
+"frère. Vous commencez à cacher le micro-ondes aux jumeaux."
 
 #: src-en/data/events_special_storage.xml.append:10051
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[4]"
 msgstr ""
+"Lors du contrôle des jumeaux, vous trouvez une vidéo que l'un d'entre eux a "
+"enregistrée sur son terminal.\n"
+"\n"
+"\t\t\tVous entendez l'un des jumeaux imiter une voix humaine que vous n'avez "
+"jamais entendue auparavant : "
+"\"Bonjour, je suis Mossberg et bienvenue chez les crétins !\" Le jumeau se "
+"jette ensuite par le sas avec ce qui semble être un tube de survie attaché "
+"autour de sa taille, mais il a oublié d'attacher l'autre extrémité à quoi "
+"que ce soit ! La vidéo se coupe brusquement après avoir entendu Winchester "
+"crier \"Mossberg ramène ton idiot de frère ici tout de suite !!\""
 
 #: src-en/data/events_special_storage.xml.append:10055
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[5]"
 msgstr ""
+"Vous entendez les frères jumeaux rire ensemble d'une blague que vous ne "
+"comprenez pas tout à fait. Mais c'est agréable de les voir s'amuser."
 
 #: src-en/data/events_special_storage.xml.append:10056
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[6]"
 msgstr ""
+"Vous retrouvez les deux frères Engi à la cafétéria. Ils sont en train de "
+"jouer ensemble à un jeu de mots où ils ont une conversation et commencent "
+"chaque phrase par la lettre suivante de l'alphabet humain, et vont et "
+"viennent avec ce jeu pour faire rire les autres membres d'équipage. "
+"\"Attention Remington, tu es une patate-batterie !\" dit Mossberg avec un "
+"petit rire. \"Bien sûr que non Mossberg, en plus vous n'avez jamais vu une "
+"pomme de terre\", répond Remington. "
+"\"Clairement vous n'avez pas vu mon dossier d'images sur mon terminal\", "
+"répond Mossberg. \"Dégoûtant, c'est tout ce que j'ai à dire\", dit "
+"Remington, concluant le jeu et convenant que Mossberg remporte cette manche. "
+"Leur score est de 453 752 - 462 319."
 
 #: src-en/data/events_special_storage.xml.append:10058
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[7]"
 msgstr ""
+"Vous trouvez les deux frères Engi en train d'étudier le schéma d'un Engi. "
+"Ils semblent discuter de la manière la plus efficace de les détruire, ou de "
+"séparer de force un Engi de l'Harmonie."
 
 #: src-en/data/events_special_storage.xml.append:10064
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[1]"
 msgstr ""
+"Vous parcourez la collection de jeux de société de Remington. L'un d'entre "
+"eux attire votre attention aujourd'hui, il s'agit d'un jeu intitulé LE ROI "
+"EN CYAN. Il représente un personnage humanoïde vêtu d'une cape de couleur "
+"cyan vif, debout au-dessus d'un cercle rituel, peut-être une sorte de "
+"divinité ? Vous essayez de lire le mode d'emploi, mais il fait 20 pages, et "
+"vous changez d'avis."
 
 #: src-en/data/events_special_storage.xml.append:10065
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[2]"
 msgstr ""
+"Vous parcourez la collection de jeux de société de Remington. L'un d'entre "
+"eux attire votre attention aujourd'hui, il s'agit d'un jeu appelé "
+"THEOCRATIE. Il s'agit de lancer des dés pour déplacer des pièces sur un "
+"plateau et revendiquer différentes balises, puis de collecter les "
+"\"baux de ferraille\" des autres joueurs qui atterrissent sur vos balises. "
+"Le but est de mettre en faillite les autres joueurs et de prendre le "
+"contrôle du gouvernement."
 
 #: src-en/data/events_special_storage.xml.append:10066
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[3]"
 msgstr ""
+"Vous parcourez la collection de jeux de société de Remington. L'un d'entre "
+"eux attire votre attention aujourd'hui, il s'agit d'un jeu appelé AFFAMÉ "
+"AFFAMÉ LANIUS. Le plateau de jeu est entouré de quatre têtes de Lanius "
+"mécaniques, colorées et en plastique, actionnées par des leviers situés à "
+"l'arrière de leur tête.\n"
+"\n"
+"\t\t\tLorsqu'on appuie sur le levier, le Lanius ouvre la bouche et étend sa "
+"tête vers l'avant sur un cou télescopique. Lorsque le levier est relâché, la "
+"tête descend et se rétracte.\n"
+"\n"
+"\t\t\tDes coques de vaisseaux en plastique coloré sont distribuées sur le "
+"plateau par chaque joueur, et les joueurs appuient à plusieurs reprises sur "
+"le levier de leur Lanius pour lui faire \"manger\" les coques, qui "
+"descendent de sous le Lanius dans une petite zone de marquage pour chaque "
+"joueur. Une fois que toutes les coques ont été mangées, le joueur qui en a "
+"collecté le plus est le vainqueur."
 
 #: src-en/data/events_special_storage.xml.append:10072
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[4]"
 msgstr ""
+"Vous parcourez la collection de jeux de société de Remington. L'un d'entre "
+"eux attire votre attention aujourd'hui, il s'agit d'un jeu intitulé SPÉCULER "
+"SUR QUELQU'UN ? ÉDITION MANTIS. Ce jeu a pratiquement les mêmes règles que "
+"le jeu de société SPÉCULER SUR QUELQU'UN ? mais il n'a que 24 personnages et "
+"une seule race : les Mantis. Vous supposez qu'il s'agit d'une version "
+"simplifiée pour les Mantis."
 
 #: src-en/data/events_special_storage.xml.append:10073
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[5]"
 msgstr ""
+"Vous parcourez la collection de bandes dessinées de Mossberg. L'une d'entre "
+"elles attire votre attention aujourd'hui, il s'agit d'une bande dessinée "
+"intitulée MORT AUX XÉNOS : LA CROISADE. Il s'agit d'une bande dessinée "
+"grossière qui diffuse la propagande des Rebelles sur les conséquences "
+"néfastes de l'existence des autres espèces extraterrestres pour la faction "
+"rebelle. Si vous interrogez Mossberg à ce sujet, il vous répond qu'il la "
+"garde \"ironiquement\" parce qu'elle est tellement farfelue qu'elle en "
+"devient humoristique."
 
 #: src-en/data/events_special_storage.xml.append:10074
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[6]"
 msgstr ""
+"Vous parcourez la collection de jeux de société de Remington. L'un d'entre "
+"eux attire votre attention aujourd'hui, il s'agit d'un jeu intitulé SPÉCULER "
+"SUR QUELQU'UN ? Chaque joueur commence le jeu avec un plateau qui comprend "
+"des images de 336 personnes, 24 pour chaque race. Chaque joueur choisit une "
+"carte de son choix dans une pile de cartes séparée contenant les mêmes 336 "
+"images.\n"
+"\t\t\tL'objectif du jeu est d'être le premier à déterminer la carte choisie "
+"par son adversaire.\n"
+"\n"
+"\t\t\tLes joueurs posent alternativement diverses questions par oui ou par "
+"non pour éliminer des candidats, telles que :\n"
+"\n"
+"\t\t\t\"Votre personnage porte-t-il un chapeau ?\"\n"
+"\t\t\t\"Votre personnage a-t-il des griffes ?\"\n"
+"\t\t\t\"Votre personne a-t-il un corps fait de matière physique ?\"\n"
+"\t\t\t\"Votre personne a-t-il un libre arbitre ?\"\n"
+"\t\t\tLe joueur élimine ensuite les candidats (en fonction de la réponse de "
+"l'adversaire) en retournant ces images jusqu'à ce qu'il n'en reste plus "
+"qu'une. Selon les règles, ce n'est pas une question légale que de demander "
+"quelle est la race de l'autre joueur."
 
 #: src-en/data/events_special_storage.xml.append:10085
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[7]"
 msgstr ""
+"Vous parcourez la collection de bandes dessinées de Mossberg. L'une d'entre "
+"elles attire votre attention aujourd'hui, il s'agit d'une bande dessinée "
+"intitulée BattleSickle : 80k. Elle dépeint des Mantis dans d'énormes armures "
+"de puissance, luttant contre les forces malveillantes des Anciens Engi."
 
 #: src-en/data/events_special_storage.xml.append:10086
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS_COLLECTION\"]/text[8]"
 msgstr ""
+"Vous parcourez la collection de bandes dessinées de Mossberg. L'une d'entre "
+"elles attire votre attention aujourd'hui, il s'agit d'une bande dessinée "
+"intitulée Avaliman. Elle dépeint un humain déguisé en oiseau qui lutte "
+"contre le crime après que ses grands-parents aient été tués. Il combat le "
+"crime et place les super criminels dans \"l'asile de la Fédération\"."
 
 #: src-en/data/events_special_storage.xml.append:10097
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Il semble que vos technopathes ne puissent pas reproduire un composant clé "
+"de la technologie Ancalagon."
 
 #: src-en/data/events_special_storage.xml.append:10101
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Il semble que vos technopathes ne puissent pas reproduire un composant clé "
+"de la technologie Ancalagon."
 
 #: src-en/data/events_special_storage.xml.append:10107
 msgid ""
@@ -11118,80 +11868,105 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[31]/mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Puisez dans la rage que vous avez emmagasinée."
 
 #: src-en/data/events_special_storage.xml.append:10135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/text"
 msgstr ""
+"Vous réfléchissez aux options qui s'offrent à vous. Ce faisant, vous avez "
+"l'impression d'être observé."
 
 #: src-en/data/events_special_storage.xml.append:10138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Libérer une quantité insignifiante de rage (1 dommage à la coque ennemi, "
+"coûte 1 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10140
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Un effet négligeable, certes. Mais sur le champ de bataille, aucune frappe "
+"n'est perdue."
 
 #: src-en/data/events_special_storage.xml.append:10146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[2]/text"
 msgstr ""
+"Libérer une quantité insignifiante de rage (1 dommage à la coque ennemi, "
+"coûte 1 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"7\"]/text"
 msgstr ""
+"Libérer une quantité considérable de rage (7 dommages à la coque ennemi, "
+"effet d'état mineur, coûte 7 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Un coup décisif, qui fait pencher la balance en votre faveur. Vous vous "
+"sentez étourdi, mais le repos doit attendre."
 
 #: src-en/data/events_special_storage.xml.append:10161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[4]/text"
 msgstr ""
+"Libérer une quantité considérable de rage (7 dommages à la coque ennemi, "
+"effet d'état mineur, coûte 7 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10166
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"14\"]/text"
 msgstr ""
+"Libérer une quantité importante de rage (14 dommages à la coque ennemi, "
+"effets d'état, coûte 14 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"14\"]/event/text"
 msgstr ""
+"Une frappe dévastatrice qui rapproche la victoire. Le vaisseau tremble comme "
+"s'il était pris par le vent."
 
 #: src-en/data/events_special_storage.xml.append:10178
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[6]/text"
 msgstr ""
+"Libérer une quantité importante de rage (14 dommages à la coque ennemi, "
+"effets d'état, coûte 14 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"21\"]/text"
 msgstr ""
+"Libérer une quantité dévastatrice de rage (21 dommages à la coque ennemi, "
+"effets d'état, ignore la résistance, coûte 21 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[@req=\"twisted_blessing_counter\""
 " and @lvl=\"21\"]/event/text"
 msgstr ""
+"Toutes les pensées de pitié ont disparu. Vous entendez des rires au loin."
 
 #: src-en/data/events_special_storage.xml.append:10198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_TWISTED_BLESSING_MENU\"]/choice[8]/text"
 msgstr ""
+"Libérer une quantité dévastatrice de rage (21 dommages à la coque ennemi, "
+"effets d'état, ignore la résistance, coûte 21 de rage)"
 
 #: src-en/data/events_special_storage.xml.append:10203
 msgid ""
@@ -11212,52 +11987,63 @@ msgstr "Vous décidez de ne rien faire et de vous préparer à vous battre."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL[31]/mod:findName[@name=\"STORAGE_CHECK_REAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Bénédiction Déformée) Entrer dans une méditation sombre."
 
 #: src-en/data/events_special_storage.xml.append:10226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/text"
-msgstr ""
+msgstr "Combien de temps allez-vous réfléchir à votre fureur ?"
 
 #: src-en/data/events_special_storage.xml.append:10228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[1]/text"
-msgstr ""
+msgstr "Méditer brièvement. (1 rage gagnée)"
 
 #: src-en/data/events_special_storage.xml.append:10230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[1]/event/text"
 msgstr ""
+"Même les frustrations quotidiennes de votre équipage suffisent à entretenir "
+"votre bénédiction."
 
 #: src-en/data/events_special_storage.xml.append:10235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[2]/text"
-msgstr ""
+msgstr "Méditer pendant 1 saut. (7 rages gagnées)"
 
 #: src-en/data/events_special_storage.xml.append:10237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[2]/event/text"
 msgstr ""
+"Vous vous souvenez de la dernière fois qu'un ennemi s'est échappé. Vous "
+"serrez les dents de frustration."
 
 #: src-en/data/events_special_storage.xml.append:10247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[4]/text"
-msgstr ""
+msgstr "Méditer pendant 2 sauts. (14 rages gagnées)"
 
 #: src-en/data/events_special_storage.xml.append:10249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[4]/event/text"
 msgstr ""
+"Vous vous souvenez de la dernière fois où l'un de vos membres d'équipage a "
+"été emporté trop tôt. Que ce soit inévitable ou non, cela ne peut être "
+"toléré."
 
 #: src-en/data/events_special_storage.xml.append:10259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[6]/text"
-msgstr ""
+msgstr "Méditer pendant 3 sauts. (21 rages gagnées)"
 
 #: src-en/data/events_special_storage.xml.append:10261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_TWISTED_BLESSING\"]/choice[6]/event/text"
 msgstr ""
+"Vous faites des cauchemars dans lesquels vous voyez d'innombrables renégats "
+"comme vous se faire déchiqueter par de nombreux vaisseaux amiraux dans tout "
+"le multivers. Vous décidez que chacune de leurs vies doit être payée... Dans "
+"son intégralité."
 
 #: src-en/data/events_special_storage.xml.append:10271
 msgid ""
@@ -11269,33 +12055,48 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Bénédiction actuellement active : La faveur du Plaqué\n"
+"\t\tLes membres d'équipage Plaqués peuvent détenir une charge d'aptitude "
+"supplémentaire."
 
 #: src-en/data/events_special_storage.xml.append:10306
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Bénédiction actuellement active : Pouvoir de l'armure\n"
+"\t\tLa coque modulaire peut être équipée de deux crans supplémentaires."
 
 #: src-en/data/events_special_storage.xml.append:10311
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Bénédiction actuellement active : Bénédiction des forges\n"
+"\t\tAlastair se rendra gratuitement dans tous les secteurs réguliers."
 
 #: src-en/data/events_special_storage.xml.append:10316
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"Bénédiction actuellement active : Grande bénédiction des forges\n"
+"\t\tAlastair aura toujours un magasin plus grand avec un meilleur stock."
 
 #: src-en/data/events_special_storage.xml.append:10321
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"Bénédiction actuellement active : Bénédiction des téméraires\n"
+"\t\tLes Cristal Ancalagon n'infligent que 50 % des dommages."
 
 #: src-en/data/events_special_storage.xml.append:10326
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Bénédiction actuellement active : Bénédiction de la torsion\n"
+"\t\tAugmentation de 5 % de la recharge des boucliers, des armes et du "
+"générateur SPL, de la résistance de la coque et des systèmes, et de la "
+"résistance aux ions, ainsi que de toutes les statistiques de l'équipage."
