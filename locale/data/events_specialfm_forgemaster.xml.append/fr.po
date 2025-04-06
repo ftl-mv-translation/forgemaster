@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:09+0000\n"
+"PO-Revision-Date: 2025-04-07 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -5186,6 +5186,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalienne Élite pour passer à l'Iridium !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5826
 msgid ""
@@ -5211,6 +5212,8 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalien Élite pour passer à la dernière "
+"amélioration, le Hassium !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5851
 msgid ""
@@ -5241,6 +5244,7 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalienne Élite pour passer à l'Iridium !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5881
 msgid ""
@@ -5266,6 +5270,8 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_LISTFULL\"]/choice[@req=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/text"
 msgstr ""
+"Vous devez disposer d'une arme Cristalien Élite pour passer à la dernière "
+"amélioration, le Hassium !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5906
 #, fuzzy
@@ -5291,7 +5297,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:5930
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_BRONZE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'indium terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5936
 #, fuzzy
@@ -5317,7 +5323,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:5956
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_INDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Rhenium complète !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5962
 #, fuzzy
@@ -5343,7 +5349,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:5982
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_RHENIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'argent terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:5988
 #, fuzzy
@@ -5516,7 +5522,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6170
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_PALLADIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Iridium terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6179
 msgid ""
@@ -5536,7 +5542,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6192
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_IRIDIUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Platinum Complete !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6198
 #, fuzzy
@@ -5562,7 +5568,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6218
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_PLATINUM\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Osmium complète !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6224
 #, fuzzy
@@ -5739,7 +5745,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6404
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_NOBELIUM_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak Hassium complète !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6414
 msgid ""
@@ -5759,7 +5765,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6427
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_BRONZE_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'indium terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6433
 #, fuzzy
@@ -5811,7 +5817,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6479
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_RHENIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'argent terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6485
 #, fuzzy
@@ -5984,7 +5990,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6667
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_PALLADIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Iridium terminée !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6676
 msgid ""
@@ -6004,7 +6010,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6689
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_IRIDIUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak de Platinum Complete !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6695
 #, fuzzy
@@ -6030,7 +6036,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6715
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_PLATINUM_PLAYER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak d'Osmium complète !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6721
 #, fuzzy
@@ -6203,7 +6209,7 @@ msgstr "..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:6901
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_UPGRADE_NOBELIUM_PLAYER_2\"]/choice/text"
-msgstr ""
+msgstr "Amélioration de la Flak Hassium complète !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:6913
 msgid ""
@@ -11929,6 +11935,10 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_ARBOREAL_ENTRANCE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Alors que vous regagnez votre vaisseau, l'étrange Ange chasseur rugit au-"
+"dessus de vous. En entrant dans les postes de combat, vous recevez un bref "
+"appel du vaisseau ennemi : "
+"\"Je suis Randall Curtain, ancien Ange. Et vous, renégat ? Vous êtes fini.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11616
 msgid ""
