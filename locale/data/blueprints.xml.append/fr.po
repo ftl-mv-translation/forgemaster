@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:09+0000\n"
+"PO-Revision-Date: 2025-04-07 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -26,6 +26,9 @@ msgstr "Cœur de magma"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/desc"
 msgstr ""
+"Le croiseur bien-aimé du Maître des forges. Équipé de ses armes fétiches et "
+"d'une forge pour en créer d'autres, c'est une force avec laquelle il faut "
+"compter."
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
@@ -35,12 +38,16 @@ msgstr "GunBomination"
 #: src-en/data/blueprints.xml.append:97
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/name"
-msgstr ""
+msgstr "Arme Hydra"
 
 #: src-en/data/blueprints.xml.append:99
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/desc"
 msgstr ""
+"Un Mantis libre a sauté la partie du manuel qui expliquait les limites de "
+"l'utilisation des armes, a fait des folies sur le budget des armes, et a "
+"cassé les systèmes d'armes. Heureusement, il a eu assez d'argent pour se "
+"procurer un prototype de drone d'une excellente capacité."
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
@@ -56,6 +63,11 @@ msgstr "Arme Cobra"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/desc"
 msgstr ""
+"Le même Mantis libre et fortuné a réessayé ce projet fou. Il a encore "
+"surchargé les systèmes d'armement, à cause de son idiotie monumentale. "
+"Heureusement, il avait assez d'argent pour acheter un prototype de "
+"téléporteur et installer de nombreux lits sur les armes désormais inertes à "
+"l'intérieur du vaisseau pour que l'équipage puisse y résider."
 
 #: src-en/data/blueprints.xml.append:236
 msgid ""
@@ -71,6 +83,10 @@ msgstr "Arme TitanoBoa"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/desc"
 msgstr ""
+"Après l'échec de son deuxième projet, le Mantis libre fortuné a pris une "
+"cuite et a décidé que le meilleur plan d'action était de porter les armes à "
+"l'ennemi. Ce vaisseau est équipé pour des vitesses de collision et dispose "
+"d'une récupération de drones intégrée !"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
@@ -86,6 +102,10 @@ msgstr "Arme Hydra Éveillée"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/desc"
 msgstr ""
+"Le même Mantis libre à l'intelligence douteuse a installé des réacteurs "
+"Éther et a remis certaines armes en état de marche ! Ce vaisseau est un "
+"véritable gâchis à réparer, mais c'est une force avec laquelle il faut "
+"compter."
 
 #: src-en/data/blueprints.xml.append:384
 msgid ""
@@ -101,16 +121,22 @@ msgstr "Arme Déstituée"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/desc"
 msgstr ""
+"Le Mantis libre fortuné étant menacé de faillite en raison de l'échec de ses "
+"projets de conception de vaisseaux, la banque a commencé à reprendre "
+"possession de certaines parties de ses vaisseaux afin de rembourser ses "
+"dettes insondables. Ses meilleurs amis ont également été réduits en "
+"esclavage. Cela n'empêchera pas le Mantis libre, désormais sans le sou, de "
+"partir en pleine gloire !"
 
 #: src-en/data/blueprints.xml.append:468
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FUTURE\"]/class"
-msgstr ""
+msgstr "GunBomination III"
 
 #: src-en/data/blueprints.xml.append:469
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FUTURE\"]/name"
-msgstr ""
+msgstr "GunBom Anti-Harmonie"
 
 #: src-en/data/blueprints.xml.append:471
 msgid ""
@@ -124,7 +150,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:550
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1\"]/class"
-msgstr ""
+msgstr "Loubard Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:551
 msgid ""
@@ -141,7 +167,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_2\"]/class"
-msgstr ""
+msgstr "Crépusculeur Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:628
 msgid ""
@@ -159,7 +185,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_3\"]/class"
-msgstr ""
+msgstr "Engi Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:710
 msgid ""
@@ -179,37 +205,42 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/class"
-msgstr ""
+msgstr "Mantis libre Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:790
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/name"
-msgstr ""
+msgstr "Reine et Pays"
 
 #: src-en/data/blueprints.xml.append:792
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/desc"
 msgstr ""
+"Ces étranges Mantis portent la bannière d'un pays ancien et oublié, ainsi "
+"qu'une puissante technologie de l'Ancien Britannia."
 
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
-msgstr ""
+msgstr "Séparatiste Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:870
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/name"
-msgstr ""
+msgstr "Dualité"
 
 #: src-en/data/blueprints.xml.append:872
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/desc"
 msgstr ""
+"Avec la nouvelle disposition, quelqu'un devrait l'appliquer à la version "
+"ennemie ou quelque chose du genre."
 
 #: src-en/data/blueprints.xml.append:951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_3\"]/class"
-msgstr ""
+msgstr "Mantis Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:952
 msgid ""
@@ -227,32 +258,40 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1028
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/class"
-msgstr ""
+msgstr "Moine Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1029
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/name"
-msgstr ""
+msgstr "Descente dans l'obscurité"
 
 #: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3\"]/desc"
 msgstr ""
+"Le fait que ces moines soient religieux et tout aussi faciles à mettre en "
+"colère rend leur mode de vie plutôt intéressant, même s'il ne correspond pas "
+"à ce que le moine ordinaire considérerait comme \"fidèle\"."
 
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/class"
-msgstr ""
+msgstr "Théocratie Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/name"
-msgstr ""
+msgstr "Le Vautour"
 
 #: src-en/data/blueprints.xml.append:1113
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_2\"]/desc"
 msgstr ""
+"Afin de devenir réellement invulnérables, ces Rocailleux ont tenté de faire "
+"durer indéfiniment le système d'occultation de leur vaisseau en redirigeant "
+"toute l'énergie hors du système de bouclier. Ils y sont parvenus, mais seul "
+"le système d'occultation lui-même a réussi à disparaître, laissant son "
+"armure comme seule défense."
 
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
@@ -268,36 +307,48 @@ msgstr "Déjà Mort"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/desc"
 msgstr ""
+"Ce vaisseau Lost Sun est équipé d'un matériel ancien parmi les plus "
+"puissants que l'on puisse acheter, mais à cause d'une erreur commise lors de "
+"leurs expériences sur le générateur SPL, le vaisseau est devenu instable. Il "
+"ne peut pas tenir plus de 75 secondes sans devoir effectuer un autre saut "
+"SPL, sous peine de subir une défaillance catastrophique du générateur et de "
+"détruire le vaisseau. J'espère que vous êtes rapides !"
 
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/class"
-msgstr ""
+msgstr "Kleptocratie Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/name"
-msgstr ""
+msgstr "Vador One"
 
 #: src-en/data/blueprints.xml.append:1271
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/desc"
 msgstr ""
+"Après avoir rencontré des Anciens égoïstes, ces accros à la cigarette ont "
+"décidé que le meilleur plan d'action serait d'armer leurs habitudes pour "
+"tenter d'asphyxier leurs ennemis anaérobies et de traquer tous les Anciens "
+"jusqu'à ce qu'il n'en reste plus un seul."
 
 #: src-en/data/blueprints.xml.append:1347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/class"
-msgstr ""
+msgstr "Renégat Déformé [furtif]"
 
 #: src-en/data/blueprints.xml.append:1348
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/name"
-msgstr ""
+msgstr "Erreur d'affichage"
 
 #: src-en/data/blueprints.xml.append:1350
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/desc"
 msgstr ""
+"Un vaisseau [furtif] équipé d'une arme laser et d'une arme à rayon unique "
+"qui se renforce à chaque tir, mais il [ERREUR 403] faut être prudent."
 
 #: src-en/data/blueprints.xml.append:1428
 msgid ""
@@ -313,76 +364,94 @@ msgstr "Poing du ministère"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_3\"]/desc"
 msgstr ""
+"Ces zoltans en ont assez d'être bousculés et traités comme des piles "
+"vivantes. Même s'ils n'ont pas l'expérience des gardiens de la paix, ces "
+"zoltans ont plus d'un tour dans leur sac !"
 
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/class"
-msgstr ""
+msgstr "Lanius Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/name"
-msgstr ""
+msgstr "L'acier sanguin"
 
 #: src-en/data/blueprints.xml.append:1508
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5\"]/desc"
 msgstr ""
+"La race des Lanius est bien connue pour ses capacités de manipulation du "
+"métal, et ce vaisseau en tire parti. Grâce à une forge spéciale, ce vaisseau "
+"peut transformer d'autres vaisseaux en Flak ! (Il peut également installer "
+"une artillerie de 10 Flak Interchangeables pour l'instant, pour l'anecdote)"
 
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/class"
-msgstr ""
+msgstr "Coquille Renégat Déformée"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/name"
-msgstr ""
+msgstr "La faute professionnelle"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_2\"]/desc"
 msgstr ""
+"Ce vaisseau n'a qu'une seule mission : observer et étudier la vie à tout "
+"prix. Ils sont également très désireux d'étudier la mort, et deviennent plus "
+"forts avec chaque membre d'équipage qui meurt à bord de leur vaisseau."
 
 #: src-en/data/blueprints.xml.append:1667
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/class"
-msgstr ""
+msgstr "Ingénieur Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/name"
-msgstr ""
+msgstr "Le Conagher"
 
 #: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED5_3\"]/desc"
 msgstr ""
+"Cet étrange vaisseau Ingénieur utilise un prototype de fabrique de drones "
+"qui fonctionne comme une artillerie, tirant des drones pour aborder le "
+"vaisseau ennemi sans coût de pièce de drone !"
 
 #: src-en/data/blueprints.xml.append:1746
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/class"
-msgstr ""
+msgstr "Kestrel Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1747
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/name"
-msgstr ""
+msgstr "Le Maître des clés"
 
 #: src-en/data/blueprints.xml.append:1749
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6\"]/desc"
 msgstr ""
+"Cet étrange Kestrel peut engendrer divers types de fantômes sur les balises "
+"vides, mais en raison d'une technologie incroyablement dépassée, vous ne "
+"pouvez pas installer de système de survie ou de téléporteur. En raison de "
+"l'absence de téléporteur, l'un de ses membres d'équipage a la capacité de "
+"\"diviser\" l'équipage et d'en téléporter deux sur le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/class"
-msgstr "Fédération des Renégats Déformés"
+msgstr "Fédération Renégats Déformés"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/name"
-msgstr "Intervention divine"
+msgstr "Intervention Divine"
 
 #: src-en/data/blueprints.xml.append:1828
 msgid ""
@@ -395,93 +464,110 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1899
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/class"
-msgstr ""
+msgstr "Orchidée Renégat Déformée"
 
 #: src-en/data/blueprints.xml.append:1900
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/name"
-msgstr ""
+msgstr "Jeu de Mots"
 
 #: src-en/data/blueprints.xml.append:1902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_3\"]/desc"
 msgstr ""
+"Pourquoi personne n’a ri aux blagues du jardinier ? Parce qu'il raconte des "
+"salades ! Quel est le livre préféré du jardinier ? Guerre et Pois !"
 
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/class"
-msgstr ""
+msgstr "Cristalien Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/name"
-msgstr ""
+msgstr "L'Autre Joue"
 
 #: src-en/data/blueprints.xml.append:1981
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/desc"
 msgstr ""
+"Ce vaisseau très volatile vous encourage à vous faire frapper le plus "
+"possible, car il est livré avec quelques robots de réparation de coque pour "
+"vous aider à récupérer la santé perdue par votre vengeance."
 
 #: src-en/data/blueprints.xml.append:2058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/class"
-msgstr ""
+msgstr "Tuco Renégat Déformé"
 
 #: src-en/data/blueprints.xml.append:2059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/name"
-msgstr ""
+msgstr "Le Tarocchi"
 
 #: src-en/data/blueprints.xml.append:2062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_2\"]/desc"
 msgstr ""
+"Il semble que ce vaisseau était équipé d'un jeu de cartes de tarot étrange, "
+"bien qu'il semble avoir été retiré. Un mot trouvé à l'intérieur de la boîte "
+"vide des cartes indique : 'Retiré temporairement en raison du manque "
+"d'imagination'."
 
 #: src-en/data/blueprints.xml.append:2137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/class"
-msgstr ""
+msgstr "Sangsue Renégat Déformée"
 
 #: src-en/data/blueprints.xml.append:2138
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/name"
-msgstr ""
+msgstr "Découragement"
 
 #: src-en/data/blueprints.xml.append:2140
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7_3\"]/desc"
 msgstr ""
+"Le propriétaire Sangsue dépressif de ce vaisseau y a installé un dispositif "
+"spécial sur mesure qui permet à tout le monde de ressentir la douleur qu'il "
+"éprouve. Il l'a baptisé l'Aspirateur de Motivation, et il fait en sorte que "
+"tous les membres d'équipage du vaisseau ennemi drainent l'énergie de leur "
+"propre vaisseau."
 
 #: src-en/data/blueprints.xml.append:2310
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"acid\"]/desc"
-msgstr ""
+msgstr "ÇA BRÛLE"
 
 #: src-en/data/blueprints.xml.append:2311
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"acid\"]/title"
-msgstr ""
+msgstr "Acide"
 
 #: src-en/data/blueprints.xml.append:2312
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"acid\"]/short"
-msgstr ""
+msgstr "Acide"
 
 #: src-en/data/blueprints.xml.append:2317
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"acid\"]/powerList/power"
 msgstr ""
+"Capacité active : Brûle à travers la coque, inflige des dommages passifs à "
+"l'équipage dans la même pièce"
 
 #: src-en/data/blueprints.xml.append:2327
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew\"]/desc"
 msgstr ""
+"Une anomalie ionique qui est inexplicablement attirée par les systèmes vitaux"
 
 #: src-en/data/blueprints.xml.append:2328
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew\"]/title"
-msgstr ""
+msgstr "Nuage Ionique"
 
 #: src-en/data/blueprints.xml.append:2329
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew\"]/short"
-msgstr ""
+msgstr "Nuage"
 
 #: src-en/data/blueprints.xml.append:2334
 msgid ""
@@ -497,16 +583,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/desc"
 msgstr ""
+"Une anomalie ionique qui est inexplicablement attirée par les systèmes vitaux"
 
 #: src-en/data/blueprints.xml.append:2340
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/title"
-msgstr ""
+msgstr "Nuage Ionique"
 
 #: src-en/data/blueprints.xml.append:2341
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ion_anomaly_crew_enemy\"]/short"
-msgstr ""
+msgstr "Nuage"
 
 #: src-en/data/blueprints.xml.append:2346
 msgid ""
@@ -520,52 +607,58 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2351
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/desc"
-msgstr ""
+msgstr "Draine Énergie"
 
 #: src-en/data/blueprints.xml.append:2352
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/title"
-msgstr ""
+msgstr "Draine Énergie"
 
 #: src-en/data/blueprints.xml.append:2353
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/short"
-msgstr ""
+msgstr "Draine Énergie"
 
 #: src-en/data/blueprints.xml.append:2358
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power_drain\"]/powerList/power"
 msgstr ""
+": -Draine 2 énergies de n'importe quel système dans la salle pendant 12 "
+"secondes"
 
 #: src-en/data/blueprints.xml.append:2369
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/desc"
-msgstr ""
+msgstr "Piratage de drone"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/title"
-msgstr ""
+msgstr "Piratage de drone"
 
 #: src-en/data/blueprints.xml.append:2371
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/short"
-msgstr ""
+msgstr "Piratage de drone"
 
 #: src-en/data/blueprints.xml.append:2376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/powerList/power[1]"
 msgstr ""
+": -Pirate les salles pendant 6 secondes, avec un temps de recharge de 12 "
+"secondes. Également étourdit les ennemis pendant le piratage"
 
 #: src-en/data/blueprints.xml.append:2377
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_drone_hack\"]/powerList/power[2]"
-msgstr ""
+msgstr ": -Très fragile et facile à briser, 60 pv."
 
 #: src-en/data/blueprints.xml.append:2387
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/desc"
 msgstr ""
+"Le Maître des forges. L'une des personnes les plus puissantes de la galaxie, "
+"mais aussi l'une des plus amicales et extraverties."
 
 #: src-en/data/blueprints.xml.append:2388
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/title"
-msgstr ""
+msgstr "Le Maître des forges"
 
 #: src-en/data/blueprints.xml.append:2389
 msgid ""
@@ -576,31 +669,38 @@ msgstr "Maître des forges"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[1]"
 msgstr ""
+"200 PV, subit la moitié des dommages de toutes sources, se déplace à une "
+"vitesse 0,8 fois plus élevée"
 
 #: src-en/data/blueprints.xml.append:2395
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[2]"
-msgstr ""
+msgstr "Inflige 2x les dommages en mêlée, 1,5x les dommages à distance"
 
 #: src-en/data/blueprints.xml.append:2396
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[3]"
-msgstr ""
+msgstr "Eteint très rapidement les incendies"
 
 #: src-en/data/blueprints.xml.append:2397
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson\"]/powerList/power[4]"
 msgstr ""
+"Capacité active : Répare 2 dommages de coque, 10 dommages de système dans la "
+"pièce occupée, se soigne entièrement. Déclenche des incendies. Une fois par "
+"saut."
 
 #: src-en/data/blueprints.xml.append:2402
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/desc"
 msgstr ""
+"Le Maître des forges. L'une des personnes les plus puissantes de la galaxie, "
+"mais aussi l'une des plus amicales et extraverties."
 
 #: src-en/data/blueprints.xml.append:2403
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/title"
-msgstr ""
+msgstr "Le Maître des forges"
 
 #: src-en/data/blueprints.xml.append:2404
 msgid ""
@@ -611,369 +711,430 @@ msgstr "Maître des forges"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[1]"
 msgstr ""
+"200 PV, subit la moitié des dommages de toutes sources, se déplace à une "
+"vitesse de 0,8x et se répare à une vitesse de 3x"
 
 #: src-en/data/blueprints.xml.append:2410
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[2]"
 msgstr ""
+"Inflige 2x les dommages en mêlée, 1,5x les dommages à distance, 1,5x le "
+"sabotage."
 
 #: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[3]"
-msgstr ""
+msgstr "Eteint très rapidement les incendies"
 
 #: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_forgemasterperson_player\"]/powerList/power[4]"
 msgstr ""
+"Capacité active : Répare 2 dommages de coque, 10 dommages de système dans la "
+"pièce occupée, soigne 100 points de vie pour lui-même. Déclenche des "
+"incendies. Une fois par saut."
 
 #: src-en/data/blueprints.xml.append:2417
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/desc"
 msgstr ""
+"Membres d'équipage Rocailleux Élite. Les disciples du Maître des forges. Des "
+"experts dans leur métier."
 
 #: src-en/data/blueprints.xml.append:2418
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/title"
-msgstr ""
+msgstr "Rocailleux Plaqués"
 
 #: src-en/data/blueprints.xml.append:2419
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/short"
-msgstr ""
+msgstr "Plaqué"
 
 #: src-en/data/blueprints.xml.append:2424
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[1]"
 msgstr ""
+"120 PV, 27% de dommages en moins et 45% de dommages de suffocation en moins. "
+"Se déplace à une vitesse de 0,6x et se répare à une vitesse de 1,5x."
 
 #: src-en/data/blueprints.xml.append:2425
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[2]"
 msgstr ""
+"1,3x les dommages en mêlée, 0,75x les dommages à distance, 0,7x le sabotage."
 
 #: src-en/data/blueprints.xml.append:2426
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[3]"
 msgstr ""
+"Éteint les incendies très rapidement. Durée d'étourdissement réduite. "
+"Immunisé contre le feu."
 
 #: src-en/data/blueprints.xml.append:2427
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated\"]/powerList/power[4]"
 msgstr ""
+"Capacité active : Répare 1 dommage à la coque, et 4 dommages au système de "
+"la pièce occupée. Se soigne de 20 PV. Renouvèle une charge à chaque saut."
 
 #: src-en/data/blueprints.xml.append:2432
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/desc"
 msgstr ""
+"Membres d'équipage Coquilles Élite . Les disciples des Maîtres des forges. "
+"Experts en réparation, bien que ces Plaqués aient décidé d'adopter une "
+"approche plus combative de leur métier."
 
 #: src-en/data/blueprints.xml.append:2433
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/title"
-msgstr ""
+msgstr "Coquilles Plaquées"
 
 #: src-en/data/blueprints.xml.append:2434
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/short"
-msgstr ""
+msgstr "Plaqué"
 
 #: src-en/data/blueprints.xml.append:2439
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[1]"
 msgstr ""
+"100 se Santé, 30% de dommages en moins au combat. Se déplace à une vitesse "
+"de 0,7x et répare à une vitesse de 1,3x."
 
 #: src-en/data/blueprints.xml.append:2440
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[2]"
-msgstr ""
+msgstr "1,4x les dommages, 1,2x le sabotage."
 
 #: src-en/data/blueprints.xml.append:2441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[3]"
 msgstr ""
+"Éteint les incendies très rapidement. Durée d'étourdissement réduite de 30%. "
+"Ne subit que 20% des dommages du feu."
 
 #: src-en/data/blueprints.xml.append:2442
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_plated_shell\"]/powerList/power[4]"
 msgstr ""
+"Capacité active : Fournit des dommages aux ennemis pour 15 PV, tout en se "
+"donnant un ensemble de bonus pendant 15s. Rend la pièce immunisée contre les "
+"dommages du système pendant 15s."
 
 #: src-en/data/blueprints.xml.append:2447
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/desc"
 msgstr ""
+"Une étrange création d'un scientifique Coquilles fou après avoir rencontré "
+"une horreur surnaturel."
 
 #: src-en/data/blueprints.xml.append:2449
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/title"
-msgstr ""
+msgstr "Séraphin"
 
 #: src-en/data/blueprints.xml.append:2450
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/short"
-msgstr ""
+msgstr "Séraphin"
 
 #: src-en/data/blueprints.xml.append:2453
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_blood_morph\"]/powerList/power"
-msgstr ""
+msgstr "Peut consommer l'équipage ami pour devenir plus fort."
 
 #: src-en/data/blueprints.xml.append:2458
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/desc"
 msgstr ""
+"Randall Curtain, membre d'équipage unique. Ex-ange qui a simulé sa mort pour "
+"quitter les Anges, il travaille maintenant dans le plus grand secret pour "
+"quiconque veut bien lui donner de l'argent. \n"
+"\t\t\tLa Division Ancalagon a beaucoup d'argent à distribuer."
 
 #: src-en/data/blueprints.xml.append:2461
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/title"
-msgstr ""
+msgstr "Déchu"
 
 #: src-en/data/blueprints.xml.append:2462
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/short"
-msgstr ""
+msgstr "Déchu"
 
 #: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[1]"
-msgstr ""
+msgstr "Inflige 1,5x de dégâts en combat"
 
 #: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[2]"
-msgstr ""
+msgstr "Multiplicateur de dommages à distance de 2x"
 
 #: src-en/data/blueprints.xml.append:2467
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[3]"
-msgstr ""
+msgstr "Vitesse de déplacement de 1,6x"
 
 #: src-en/data/blueprints.xml.append:2468
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[4]"
 msgstr ""
+"Reçoit des dégâts réduits à 0,7 fois en combat, à moitié des dégâts "
+"environnementaux, et est très résistant aux étourdissements"
 
 #: src-en/data/blueprints.xml.append:2469
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fallen\"]/powerList/power[5]"
-msgstr ""
+msgstr "Entraîné aux compétences de niveau 2"
 
 #: src-en/data/blueprints.xml.append:2474
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/desc"
-msgstr ""
+msgstr "Un dangereux Cristal anormal issu de la technologie Ancalagon."
 
 #: src-en/data/blueprints.xml.append:2475
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/title"
-msgstr ""
+msgstr "Cristal d'Ancalagon rouge"
 
 #: src-en/data/blueprints.xml.append:2476
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/short"
-msgstr ""
+msgstr "Cristal A. rouge"
 
 #: src-en/data/blueprints.xml.append:2481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/powerList/power[1]"
 msgstr ""
+"Provoque des incendies toutes les 7 secondes et génère de l'O2 pour "
+"alimenter le feu."
 
 #: src-en/data/blueprints.xml.append:2482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_red\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 PV, immobile. Se soigne de 10 PV toutes les 7 secondes."
 
 #: src-en/data/blueprints.xml.append:2488
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/desc"
-msgstr ""
+msgstr "Un dangereux Cristal anormal issu de la technologie Ancalagon."
 
 #: src-en/data/blueprints.xml.append:2489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/title"
-msgstr ""
+msgstr "Cristal d'Ancalagon Bleu"
 
 #: src-en/data/blueprints.xml.append:2490
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/short"
-msgstr ""
+msgstr "Cristal d'A. Bleu"
 
 #: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/powerList/power[1]"
-msgstr ""
+msgstr "Étourdit les ennemis et leur inflige 1 Ion toutes les 10 secondes."
 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_blue\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 PV, immobile. Se soigne de 10 PV toutes les 7 secondes."
 
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/desc"
-msgstr ""
+msgstr "Un dangereux Cristal anormal issu de la technologie Ancalagon."
 
 #: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/title"
-msgstr ""
+msgstr "Cristal d'Ancalagon vert"
 
 #: src-en/data/blueprints.xml.append:2504
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/short"
-msgstr ""
+msgstr "Cristal d'A. vert"
 
 #: src-en/data/blueprints.xml.append:2509
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/powerList/power[1]"
 msgstr ""
+"Ouvre des brèches et inflige 30 dommages au membre d'équipage toutes les 8 "
+"secondes."
 
 #: src-en/data/blueprints.xml.append:2510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_green\"]/powerList/power[2]"
-msgstr ""
+msgstr "165 PV, immobile. Se soigne de 10 PV toutes les 7 secondes."
 
 #: src-en/data/blueprints.xml.append:2516
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/desc"
-msgstr ""
+msgstr "Un dangereux Cristal anormal issu de la technologie Ancalagon."
 
 #: src-en/data/blueprints.xml.append:2517
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/title"
-msgstr ""
+msgstr "Cristal d'Ancalagon Blanc"
 
 #: src-en/data/blueprints.xml.append:2518
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/short"
-msgstr ""
+msgstr "Cristal d'A. Blanc"
 
 #: src-en/data/blueprints.xml.append:2523
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/powerList/power[1]"
 msgstr ""
+"Cristal Omni. Provoque des incendies, des brèches, 30 dommages à l'équipage, "
+"1 dommages d'Ion et étourdit toutes les 13 secondes."
 
 #: src-en/data/blueprints.xml.append:2524
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_white\"]/powerList/power[2]"
-msgstr ""
+msgstr "200 PV, immobile. Se soigne de 20 PV toutes les 13 secondes."
 
 #: src-en/data/blueprints.xml.append:2530
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/desc"
-msgstr ""
+msgstr "Un dangereux Cristal anormal issu de la technologie Ancalagon."
 
 #: src-en/data/blueprints.xml.append:2531
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/title"
-msgstr ""
+msgstr "Cristal d'Ancalagon Noir"
 
 #: src-en/data/blueprints.xml.append:2532
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/short"
-msgstr ""
+msgstr "Cristal d'A. Noir"
 
 #: src-en/data/blueprints.xml.append:2537
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/powerList/power[1]"
 msgstr ""
+"Réplique des Cristaliens à partir de matière noire toutes les 12 secondes."
 
 #: src-en/data/blueprints.xml.append:2538
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_black\"]/powerList/power[2]"
-msgstr ""
+msgstr "270 PV, immobile. Se soigne de 20 PV toutes les 12 secondes."
 
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/desc"
-msgstr ""
+msgstr "Un membre d'équipage cristalien, emprisonné et impuissant."
 
 #: src-en/data/blueprints.xml.append:2545
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/title"
-msgstr ""
+msgstr "Prison Cristalienne"
 
 #: src-en/data/blueprints.xml.append:2546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/short"
-msgstr ""
+msgstr "Prison Cristalienne."
 
 #: src-en/data/blueprints.xml.append:2551
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[1]"
 msgstr ""
+"125 PV, immobile. Prend 2x les dommages de combat et 1,3x les dommages de "
+"toutes les autres sources."
 
 #: src-en/data/blueprints.xml.append:2552
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ne peut pas guérir, ni être cloné s'il est détruit."
 
 #: src-en/data/blueprints.xml.append:2553
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_crystal_prison\"]/powerList/power[3]"
-msgstr ""
+msgstr "Retour à la normale après 10 secondes."
 
 #: src-en/data/blueprints.xml.append:2558
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/desc"
 msgstr ""
+"L'un des meilleurs amis de Winchester et le frère jumeau de Mossberg. "
+"Farouchement loyal envers ses amis et ses alliés. Aime les jeux de société "
+"et les bandes dessinées."
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/title"
-msgstr ""
+msgstr "Défenseur Microbe Engi"
 
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/short"
-msgstr ""
+msgstr "D. Microbe"
 
 #: src-en/data/blueprints.xml.append:2565
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Ne subit temporairement que 20% des dommages et réduit de "
+"50% les dégâts de suffocation des alliés proches."
 
 #: src-en/data/blueprints.xml.append:2566
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[2]"
 msgstr ""
+"Capacité active : Augmente de 10 % les points de vie et la vitesse de "
+"déplacement des jumeaux lorsqu'ils se trouvent dans la même pièce."
 
 #: src-en/data/blueprints.xml.append:2567
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[3]"
-msgstr ""
+msgstr "x2,5 vitesse de réparation, x0,6 dommages de combat"
 
 #: src-en/data/blueprints.xml.append:2568
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_remington\"]/powerList/power[4]"
 msgstr ""
+"Réduction considérable des dommages causés par les brûlures et la suffocation"
 
 #: src-en/data/blueprints.xml.append:2580
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/desc"
 msgstr ""
+"L'un des meilleurs amis de Winchester et le frère jumeau de Remington. "
+"Farouchement loyal envers ses amis et ses alliés. Aime les énigmes, en "
+"particulier les mots croisés."
 
 #: src-en/data/blueprints.xml.append:2583
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/title"
-msgstr ""
+msgstr "Défenseur Phoenix Engi"
 
 #: src-en/data/blueprints.xml.append:2584
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/short"
-msgstr ""
+msgstr "D. Phoenix"
 
 #: src-en/data/blueprints.xml.append:2587
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Ne subit temporairement que 20% des dommages et réduit les "
+"dégâts de feu des alliés proches de 50%."
 
 #: src-en/data/blueprints.xml.append:2588
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[2]"
 msgstr ""
+"Capacité active : Augmente de 10 % les points de vie et la vitesse de "
+"déplacement des jumeaux lorsqu'ils se trouvent dans la même pièce."
 
 #: src-en/data/blueprints.xml.append:2589
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[3]"
-msgstr ""
+msgstr "x2,5 vitesse de réparation, x0,6 dommages de combat"
 
 #: src-en/data/blueprints.xml.append:2590
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mossberg\"]/powerList/power[4]"
 msgstr ""
+"Réduction considérable des dommages causés par les brûlures et la suffocation"
 
 #: src-en/data/blueprints.xml.append:2603
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/desc"
 msgstr ""
+"Les Hanteurs sont les membres d'une longue famille Vagabonde du crime "
+"organisé, et figurent parmi les criminels les plus recherchés de la galaxie."
 
 #: src-en/data/blueprints.xml.append:2604
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/title"
-msgstr ""
+msgstr "Hanteur de Gozer"
 
 #: src-en/data/blueprints.xml.append:2605
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/short"
@@ -983,19 +1144,23 @@ msgstr "Hanteur"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/powerList/power[1]"
 msgstr ""
+"Ouvre périodiquement une brèche dans la pièce, endommageant le système si "
+"présent"
 
 #: src-en/data/blueprints.xml.append:2611
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/powerList/power[2]"
-msgstr ""
+msgstr "200 PV, 1,5x la vitesse de sabotage"
 
 #: src-en/data/blueprints.xml.append:2616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/desc"
 msgstr ""
+"Les Hanteurs sont les membres d'une longue famille Vagabonde du crime "
+"organisé, et figurent parmi les criminels les plus recherchés de la galaxie."
 
 #: src-en/data/blueprints.xml.append:2617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/title"
-msgstr ""
+msgstr "Hanteur de Gozer"
 
 #: src-en/data/blueprints.xml.append:2618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/short"
@@ -1005,23 +1170,28 @@ msgstr "Hanteur"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/powerList/power[1]"
 msgstr ""
+"Peut sacrifier des fantômes alliés pour monter à bord du vaisseau ennemi"
 
 #: src-en/data/blueprints.xml.append:2624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/powerList/power[2]"
-msgstr ""
+msgstr "300 PV, 1,5x la vitesse de sabotage"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/title"
-msgstr ""
+msgstr "Lys de feu Orchidée"
 
 #: src-en/data/blueprints.xml.append:2630
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/short"
-msgstr ""
+msgstr "Lys de feu"
 
 #: src-en/data/blueprints.xml.append:2631
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/desc"
 msgstr ""
+"Les Lys de feu, connus sous le nom de Fuhl'Yae, sont une espèce amicale de "
+"plantes essentiellement pacifistes qui peuvent apporter des bonus à votre "
+"équipage et refaire le plein d'oxygène. Ces Orchidées se nourrissent de la "
+"flamme, plutôt que de les fuir"
 
 #: src-en/data/blueprints.xml.append:2636
 msgid ""
@@ -1031,114 +1201,129 @@ msgstr "Produit de l'oxygène [inefficace sur vaisseaux sans système d'O2]"
 #: src-en/data/blueprints.xml.append:2637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[2]"
-msgstr ""
+msgstr "Ne subit aucun dommage  du feu."
 
 #: src-en/data/blueprints.xml.append:2638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[3]"
 msgstr ""
+"Les membres d'équipage amis qui se trouvent dans la même pièce gagnent 20 % "
+"de santé maximale et 20 % de vitesse de déplacement supplémentaires."
 
 #: src-en/data/blueprints.xml.append:2639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[4]"
-msgstr ""
+msgstr "Eteint le feu à demi-vitesse."
 
 #: src-en/data/blueprints.xml.append:2644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/title"
-msgstr ""
+msgstr "Texture manquante : Homme7"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/short"
-msgstr ""
+msgstr "Texture manquante : Homme7"
 
 #: src-en/data/blueprints.xml.append:2646
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/desc"
-msgstr ""
+msgstr "Avez-vous installé FTL : SOURCE ?"
 
 #: src-en/data/blueprints.xml.append:2651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[1]"
-msgstr ""
+msgstr "Puissance manquante1.txt"
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[2]"
-msgstr ""
+msgstr "Puissance manquante2.txt"
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[3]"
-msgstr ""
+msgstr "Puissance manquante3.txt"
 
 #: src-en/data/blueprints.xml.append:2658
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/title"
-msgstr ""
+msgstr "Limace fumeuse à la chaînes"
 
 #: src-en/data/blueprints.xml.append:2659
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/short"
-msgstr ""
+msgstr "Limace fumeuse"
 
 #: src-en/data/blueprints.xml.append:2660
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/desc"
 msgstr ""
+"Après des décennies passées à fumer et à tuer des Anciens, cette limace a "
+"une capacité pulmonaire horrible."
 
 #: src-en/data/blueprints.xml.append:2665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/powerList/power[1]"
-msgstr ""
+msgstr "Vitesse de suffocation 4x"
 
 #: src-en/data/blueprints.xml.append:2666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/powerList/power[2]"
 msgstr ""
+"Vitesse de suffocation multipliée par deux pour les alliés en raison de la "
+"fumée secondaire"
 
 #: src-en/data/blueprints.xml.append:2671
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/title"
-msgstr ""
+msgstr "Limace fumeuse à la chaînes"
 
 #: src-en/data/blueprints.xml.append:2672
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/short"
-msgstr ""
+msgstr "Limace fumeuse"
 
 #: src-en/data/blueprints.xml.append:2673
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/desc"
 msgstr ""
+"Après des décennies passées à fumer et à tuer des Anciens, cette limace a "
+"une capacité pulmonaire horrible."
 
 #: src-en/data/blueprints.xml.append:2678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/powerList/power[1]"
-msgstr ""
+msgstr "Vitesse de suffocation 4x"
 
 #: src-en/data/blueprints.xml.append:2679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug_player\"]/powerList/power[2]"
 msgstr ""
+"Vitesse de suffocation multipliée par deux pour tout le monde à cause de la "
+"fumée secondaire"
 
 #: src-en/data/blueprints.xml.append:2684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/desc"
 msgstr ""
+"Membre d'équipage des Mantis libres britanniques Élite. Un chef des Mantis "
+"libres très accro à la boisson la plus dangereuse du multivers : Le thé."
 
 #: src-en/data/blueprints.xml.append:2685
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/title"
-msgstr ""
+msgstr "Expert Mantis libre"
 
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/short"
-msgstr ""
+msgstr "Expert"
 
 #: src-en/data/blueprints.xml.append:2690
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[1]"
 msgstr ""
+"Capacité active : Entre dans une frénésie des plus patriotiques, tailladant "
+"tous les ennemis de la pièce tout en augmentant massivement la vitesse de "
+"déplacement."
 
 #: src-en/data/blueprints.xml.append:2691
 msgid ""
@@ -1148,17 +1333,17 @@ msgstr "Santé max. réduite à 90"
 #: src-en/data/blueprints.xml.append:2692
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ne subit que 0,7x les dommages en combat"
 
 #: src-en/data/blueprints.xml.append:2693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[4]"
-msgstr ""
+msgstr "1x vitesse de déplacement et dommages"
 
 #: src-en/data/blueprints.xml.append:2694
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mantis_crackerjack\"]/powerList/power[5]"
-msgstr ""
+msgstr "Défonce les portes très rapidement"
 
 #: src-en/data/blueprints.xml.append:2699
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_terminus\"]/desc"
@@ -1175,7 +1360,7 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:2706
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_terminus\"]/powerList/power"
-msgstr ""
+msgstr ": Il s'avère que se faire éperonner par un gigantesque Wyrm fait mal !"
 
 #: src-en/data/blueprints.xml.append:2716
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power\"]/desc"
@@ -1192,193 +1377,225 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:2723
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_power\"]/powerList/power"
-msgstr ""
+msgstr "Test de drain de puissance"
 
 #: src-en/data/blueprints.xml.append:2734
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/desc"
-msgstr ""
+msgstr "Missile ionique"
 
 #: src-en/data/blueprints.xml.append:2735
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/title"
-msgstr ""
+msgstr "Missile ionique"
 
 #: src-en/data/blueprints.xml.append:2736
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/short"
-msgstr ""
+msgstr "Missile ionique"
 
 #: src-en/data/blueprints.xml.append:2741
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Ionise les pièces pour 3 dommages Ioniques toutes les 13 secondes."
 
 #: src-en/data/blueprints.xml.append:2742
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_missile_ion\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - A 100 pv, mais ne subit que 75 % des dommages."
 
 #: src-en/data/blueprints.xml.append:2754
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/desc"
-msgstr ""
+msgstr "Jank"
 
 #: src-en/data/blueprints.xml.append:2755
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/title"
-msgstr ""
+msgstr "Jank"
 
 #: src-en/data/blueprints.xml.append:2756
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_generic_crewjank\"]/short"
-msgstr ""
+msgstr "Jank"
 
 #: src-en/data/blueprints.xml.append:2772
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/desc"
 msgstr ""
+"Cet amalgame est la combinaison d'un Séparatiste Laiton et d'un Séparatiste "
+"Cobalt."
 
 #: src-en/data/blueprints.xml.append:2773
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/title"
-msgstr ""
+msgstr "Séparatiste Déformé"
 
 #: src-en/data/blueprints.xml.append:2774
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/short"
-msgstr ""
+msgstr "S. Déformé"
 
 #: src-en/data/blueprints.xml.append:2779
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[1]"
-msgstr ""
+msgstr "75 PV, subit 0,5x les dommages causés par les dégâts environnementaux."
 
 #: src-en/data/blueprints.xml.append:2780
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[2]"
-msgstr ""
+msgstr "1,25x les dommages, et l'ennemi ciblé subit un supplément de -2pv/s."
 
 #: src-en/data/blueprints.xml.append:2781
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[3]"
-msgstr ""
+msgstr "Prend 0,75x les dommages en combat et répare à une vitesse de 1,75x."
 
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_twisted\"]/powerList/power[4]"
 msgstr ""
+"À sa mort, il se sépare en un Séparatiste Nano Cobalt et un Séparatiste "
+"Bronze normal."
 
 #: src-en/data/blueprints.xml.append:2788
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/desc"
 msgstr ""
+"Ce séparatiste tordu est en fait immortel, se transformant en sa forme nano "
+"à sa mort au lieu de se cloner ou de mourir."
 
 #: src-en/data/blueprints.xml.append:2789
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/title"
-msgstr ""
+msgstr "Séparatiste Cobalt"
 
 #: src-en/data/blueprints.xml.append:2790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/short"
-msgstr ""
+msgstr "S. Cobalt"
 
 #: src-en/data/blueprints.xml.append:2795
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[1]"
 msgstr ""
+"Prend 0,75x les dommages en combat, mais se déplace à une vitesse de 0,8x."
 
 #: src-en/data/blueprints.xml.append:2796
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[2]"
-msgstr ""
+msgstr "Vitesse de réparation multipliée par 2, demi-dommages de suffocation."
 
 #: src-en/data/blueprints.xml.append:2797
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_cobalt\"]/powerList/power[3]"
 msgstr ""
+"Capacité passive : Lorsqu'il atteint 25 points de vie ou moins, il passe en "
+"mode survie et devient immunisé contre la plupart des sources de dommages."
 
 #: src-en/data/blueprints.xml.append:2802
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/desc"
 msgstr ""
+"Ce Séparatiste de Cobalt a subi de lourds dommages et a activé son programme "
+"de survie d'urgence, devenant un nuage invincible de nanites immunisées "
+"contre toute forme de dommage."
 
 #: src-en/data/blueprints.xml.append:2803
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/title"
-msgstr ""
+msgstr "Séparatiste Cobalt"
 
 #: src-en/data/blueprints.xml.append:2804
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/short"
-msgstr ""
+msgstr "S. Cobalt"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[1]"
-msgstr ""
+msgstr "Complètement invincible à la plupart des formes de dommages."
 
 #: src-en/data/blueprints.xml.append:2810
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[2]"
 msgstr ""
+"Subit régulièrement les dommages causés par le feu et les dégâts "
+"environnementaux."
 
 #: src-en/data/blueprints.xml.append:2811
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[3]"
 msgstr ""
+"Impossible de gérer les systèmes, de réparer, de combattre les équipages ou "
+"de faire du sabotage."
 
 #: src-en/data/blueprints.xml.append:2812
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_cobalt\"]/powerList/power[4]"
 msgstr ""
+"Capacité active (Temps de recharge de 20s) : Inflige 1 dommage, ouvre une "
+"brèche dans la pièce occupée et se reforme en Séparatiste Cobalt."
 
 #: src-en/data/blueprints.xml.append:2817
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/desc"
 msgstr ""
+"Ce séparatiste distordu a une forte soif de bataille, et lorsqu'il bat un "
+"adversaire, il entre dans une frénésie de combat en mettant le feu à tout ce "
+"qui l'entoure."
 
 #: src-en/data/blueprints.xml.append:2818
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/title"
-msgstr ""
+msgstr "Séparatiste Bronze"
 
 #: src-en/data/blueprints.xml.append:2819
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/short"
-msgstr ""
+msgstr "S. Bronze"
 
 #: src-en/data/blueprints.xml.append:2824
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[1]"
 msgstr ""
+"Les ennemis ciblés subissent -12pv/s, mais les attaques n'infligent que 0,4x "
+"les dommages."
 
 #: src-en/data/blueprints.xml.append:2825
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[2]"
 msgstr ""
+"Répare à une vitesse de 0,75x, mais éteint les incendies à une vitesse de "
+"2,25x."
 
 #: src-en/data/blueprints.xml.append:2826
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_separatist_bronze\"]/powerList/power[3]"
 msgstr ""
+"Capacité active : Fusionne avec un Séparatiste Cobalt pour former un "
+"Séparatiste Déformé."
 
 #: src-en/data/blueprints.xml.append:2832
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/desc"
 msgstr ""
+"La mort d'un ennemi a temporairement poussé ce Séparatiste Bronze à un "
+"déchaînement meurtrier, se déplaçant à une vitesse de 2x, ignorant les "
+"portes et propageant des incendies pendant 5s."
 
 #: src-en/data/blueprints.xml.append:2833
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/title"
-msgstr ""
+msgstr "Séparatiste Bronze"
 
 #: src-en/data/blueprints.xml.append:2834
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/short"
-msgstr ""
+msgstr "S. Bronze"
 
 #: src-en/data/blueprints.xml.append:2839
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[1]"
 msgstr ""
+"- Impossible de piloter les systèmes, de combattre l'équipage, de saboter ou "
+"de réparer."
 
 #: src-en/data/blueprints.xml.append:2840
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[2]"
-msgstr ""
+msgstr "- Se déplace à une vitesse multipliée par deux et ignore les portes."
 
 #: src-en/data/blueprints.xml.append:2841
 msgid ""
@@ -8054,7 +8271,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18135
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/title"
-msgstr ""
+msgstr "Stimulants Gazeux."
 
 #: src-en/data/blueprints.xml.append:18136
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FM_OXYGEN_STIMS\"]/desc"
@@ -8482,6 +8699,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_MANTIS_UPGRADER\"]/desc"
 msgstr ""
+"La boisson préférée d'un monarque immortel qui règne sur le lointain cluster "
+"de Britannia. Chaque niveau du Système de survie qui est alimenté fournit "
+"une augmentation de 15% des dommages au combat à tous les membres d'équipage "
+"alliés, mais réduit également la vitesse de réparation de 25%. Peut être "
+"utilisé pour améliorer/convertir votre équipage de Mantis pendant les "
+"contrôles de stockage, bien que sa Majesté exige une taxe pour son pouvoir..."
 
 #: src-en/data/blueprints.xml.append:18531
 msgid ""
