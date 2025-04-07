@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"PO-Revision-Date: 2025-04-07 15:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
@@ -321,12 +321,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:81
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_class\"]"
-msgstr "Fédération des Renégats Déformés"
+msgstr "Fédération Renégats Déformés"
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_name\"]"
-msgstr "Intervention divine"
+msgstr "Intervention Divine"
 
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
