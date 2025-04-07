@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 15:09+0000\n"
+"PO-Revision-Date: 2025-04-08 19:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -230,12 +230,11 @@ msgid ""
 msgstr "Dualité"
 
 #: src-en/data/blueprints.xml.append:872
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/desc"
 msgstr ""
 "Avec la nouvelle disposition, quelqu'un devrait l'appliquer à la version "
-"ennemie ou quelque chose du genre."
+"ennemie ou quelque chose du genre"
 
 #: src-en/data/blueprints.xml.append:951
 msgid ""
@@ -1695,7 +1694,6 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/desc
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3084
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/powerList/power"
 msgstr "DRONE"
@@ -1716,7 +1714,6 @@ msgid ""
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3095
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_ship\"]/powerList/power"
 msgstr "DRONE"
@@ -1737,7 +1734,6 @@ msgid ""
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3105
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_board\"]/powerList/power"
 msgstr "DRONE"
@@ -1758,7 +1754,6 @@ msgid ""
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3116
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_drone_battle2\"]/powerList/power"
 msgstr "DRONE"
@@ -1778,7 +1773,6 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_surgeon\"]/des
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3127
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_surgeon\"]/powerList/power"
 msgstr "DRONE"
@@ -1796,7 +1790,6 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/desc
 msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:3138
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"manningenemy_2\"]/powerList/power"
 msgstr "DRONE"
