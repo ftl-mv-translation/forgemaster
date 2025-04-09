@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-08 19:09+0000\n"
+"PO-Revision-Date: 2025-04-09 21:03+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -199,8 +199,8 @@ msgstr ""
 "D'innombrables nanomachines peuplent ce vaisseau. Leur fourmillement "
 "incessant leur permet de renforcer considérablement tous les membres "
 "d'équipage Engi, en augmentant leur santé, leurs dégâts, leur vitesse et "
-"leur résistance aux dangers en fonction du nombre de drones spéciaux "
-"déployés."
+"leur résistance aux dégâts environnementaux en fonction du nombre de drones "
+"spéciaux déployés."
 
 #: src-en/data/blueprints.xml.append:789
 msgid ""
@@ -1600,11 +1600,13 @@ msgstr "- Se déplace à une vitesse multipliée par deux et ignore les portes."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[3]"
 msgstr ""
+"- Propage les incendies dans la pièce occupée à raison d'une fois par "
+"seconde."
 
 #: src-en/data/blueprints.xml.append:2842
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_nano_bronze\"]/powerList/power[4]"
-msgstr ""
+msgstr "- Capacité passive : Se restabilise après 5 secondes."
 
 #: src-en/data/blueprints.xml.append:3038
 msgid ""
@@ -1614,17 +1616,19 @@ msgstr "Vague de Flammes"
 #: src-en/data/blueprints.xml.append:3039
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/title"
-msgstr ""
+msgstr "Drone Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/short"
-msgstr ""
+msgstr "Drone Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_fire_intruder\"]/powerList/power"
 msgstr ""
+": Ouvre une brèche dans la coque ennemie et ionise les systèmes de manière "
+"aléatoire. Déclenche également un incendie."
 
 #: src-en/data/blueprints.xml.append:3051
 msgid ""
@@ -1634,52 +1638,59 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3052
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/title"
-msgstr ""
+msgstr "Drone Ancalagon Briseur de paix"
 
 #: src-en/data/blueprints.xml.append:3053
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/short"
-msgstr ""
+msgstr "Drone Ancalagon Briseur de paix"
 
 #: src-en/data/blueprints.xml.append:3058
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/powerList/power[1]"
-msgstr ""
+msgstr "250 PV, inflige 1,7x les dommages en combat."
 
 #: src-en/data/blueprints.xml.append:3059
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/powerList/power[2]"
 msgstr ""
+"Se charge occasionnellement d'énergie, se soigne légèrement et inflige de "
+"petits dommages aux membres d'équipage ennemis."
 
 #: src-en/data/blueprints.xml.append:3064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/desc"
-msgstr ""
+msgstr "Scout énergisé"
 
 #: src-en/data/blueprints.xml.append:3065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/title"
-msgstr ""
+msgstr "Drone de surveillance Ancalagon"
 
 #: src-en/data/blueprints.xml.append:3066
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/short"
-msgstr ""
+msgstr "Drone de surveillance Ancalagon"
 
 #: src-en/data/blueprints.xml.append:3071
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[1]"
-msgstr ""
+msgstr "150 PV, inflige 0,3x les dommages en combat."
 
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[2]"
 msgstr ""
+"Vide passivement la santé des ennemis présents dans la pièce et les empêche "
+"d'être clonés s'ils meurent dans la même pièce que ce drone."
 
 #: src-en/data/blueprints.xml.append:3073
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_monitor\"]/powerList/power[3]"
 msgstr ""
+"Émet périodiquement une surcharge d’énergie, soignant tous les alliés des "
+"deux vaisseaux de 20 pv, et endommageant tous les membres d'équipage ennemis "
+"de 10 pv."
 
 #: src-en/data/blueprints.xml.append:3078
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_mender\"]/title"
@@ -1701,12 +1712,12 @@ msgstr "DRONE"
 #: src-en/data/blueprints.xml.append:3089
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_ship\"]/title"
-msgstr ""
+msgstr "Drone de combat"
 
 #: src-en/data/blueprints.xml.append:3090
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_ship\"]/short"
-msgstr ""
+msgstr "Drone de combat"
 
 #: src-en/data/blueprints.xml.append:3091
 msgid ""
@@ -1721,12 +1732,12 @@ msgstr "DRONE"
 #: src-en/data/blueprints.xml.append:3099
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_board\"]/title"
-msgstr ""
+msgstr "Drone de combat"
 
 #: src-en/data/blueprints.xml.append:3100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"twisted_yinyang_board\"]/short"
-msgstr ""
+msgstr "Drone de combat"
 
 #: src-en/data/blueprints.xml.append:3101
 msgid ""
@@ -1802,56 +1813,97 @@ msgstr "Drone Abordeur Mk. II [Anti-Pers]"
 #: src-en/data/blueprints.xml.append:3148
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/short"
-msgstr ""
+msgstr "Combat II [A.P]"
 
 #: src-en/data/blueprints.xml.append:3149
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/desc"
 msgstr ""
+"[Mode actuel : Anti-Personnel] Drone de sécurité contrôlable pouvant "
+"interchanger entre un mode Anti-Personnel défensif et Abordeur. Plus costaud "
+"que le Mk I.\n"
+" \n"
+"\t\t\t-200 PV, 1.5x dommages de combat\n"
+"\t\t\t-0.5x vitesse de déplacement"
 
 #: src-en/data/blueprints.xml.append:3165
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/title"
-msgstr ""
+msgstr "Drone de combat MK. II [Abordage]"
 
 #: src-en/data/blueprints.xml.append:3166
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/short"
-msgstr ""
+msgstr "Combat II [A]"
 
 #: src-en/data/blueprints.xml.append:3167
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_BOARDER_GUNBOM\"]/desc"
 msgstr ""
+"[Mode actuel : Abordage] Drone de sécurité contrôlable pouvant interchanger "
+"entre un mode Anti-Personnel défensif et Abordeur. Plus costaud que le Mk I."
+"\n"
+" \n"
+"\t\t\t-200 PV, 1.5x dommages de combat\n"
+"\t\t\t-0.5x vitesse de déplacement"
 
 #: src-en/data/blueprints.xml.append:3183
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/title"
-msgstr ""
+msgstr "Reconstructeur Déformé"
 
 #: src-en/data/blueprints.xml.append:3184
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/short"
-msgstr ""
+msgstr "D.Reconstructeur"
 
 #: src-en/data/blueprints.xml.append:3185
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_MENDER\"]/desc"
 msgstr ""
+"Ancien mais redoutablement efficace, ce drone d’équipage contrôlable répare "
+"à une vitesse fulgurante tout en soutenant l’équipage avec de précieux "
+"atouts.\n"
+"\n"
+"\t\t\t-110 PV, 4x vitesse de réparation, 1,5x vitesse de déplacement\n"
+"\t\t\t-Guérit les membres d'équipage proches pour 1pv/s, révèle les pièces "
+"adjacentes.\n"
+"\t\t\t-Inflige un étourdissement de 9s lorsqu'il est détruit.\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres d'équipage Engi par 40 %, et la résistance aux dégâts "
+"environnementaux par 20 %. Cumulable avec 30% de vitesse de déplacement et "
+"50% de dommages."
 
 #: src-en/data/blueprints.xml.append:3203
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/title"
-msgstr ""
+msgstr "YinYang Déformé [Assistant]"
 
 #: src-en/data/blueprints.xml.append:3204
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/short"
-msgstr ""
+msgstr "YY.D [A]"
 
 #: src-en/data/blueprints.xml.append:3205
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BATTLE\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Assistant] Un drone interchangeable spécialisé dans l'une ou "
+"l'autre des tâches qu'il opère, mais jamais les deux en même temps.\n"
+"\n"
+"\t\t\t-125 PV, immunisé contre le feu, révèle les pièces adjacentes, vitesse "
+"de déplacement x1,5.\n"
+"\t\t\t-Mode Assistant : ne peut pas se battre, répare à une vitesse de x2,5 "
+"et se déplace avec les compétences maximales.\n"
+"\t\t\t-Mode abordage : x3,0 dommages en combat, x1,5 dommages à distance en "
+"bonus.\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres d'équipage Engi par 40 %, et la résistance aux dégâts "
+"environnementaux par 20 %. Cumulable avec 30% de vitesse de déplacement et "
+"50% de dommages.\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres de l'équipage Engi par 40 % et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également une vitesse de déplacement "
+"forfaitaire de 30% et des dommages forfaitaires de 50%."
 
 #: src-en/data/blueprints.xml.append:3223
 msgid ""
@@ -1946,12 +1998,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3339
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/title"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3340
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/short"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3341
 msgid ""
@@ -1961,12 +2013,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/title"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3354
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/short"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/blueprints.xml.append:3355
 msgid ""
