@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 15:09+0000\n"
+"PO-Revision-Date: 2025-04-09 21:03+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/fr/>\n"
@@ -297,8 +297,8 @@ msgstr ""
 "D'innombrables nanomachines peuplent ce vaisseau. Leur fourmillement "
 "incessant leur permet de renforcer considérablement tous les membres "
 "d'équipage Engi, en augmentant leur santé, leurs dégâts, leur vitesse et "
-"leur résistance aux dangers en fonction du nombre de drones spéciaux "
-"déployés."
+"leur résistance aux dégâts environnementaux en fonction du nombre de drones "
+"spéciaux déployés."
 
 #: src-en/data/text_blueprints.xml.append:77
 msgid ""
