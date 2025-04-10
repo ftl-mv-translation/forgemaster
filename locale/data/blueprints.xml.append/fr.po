@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-09 21:03+0000\n"
+"PO-Revision-Date: 2025-04-10 21:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -1633,7 +1633,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3051
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/desc"
-msgstr ""
+msgstr "Bataille énergique"
 
 #: src-en/data/blueprints.xml.append:3052
 msgid ""
@@ -1813,7 +1813,7 @@ msgstr "Drone Abordeur Mk. II [Anti-Pers]"
 #: src-en/data/blueprints.xml.append:3148
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"BATTLETOG2_DEFEND_GUNBOM\"]/short"
-msgstr "Combat II [A.P]"
+msgstr "Combat II [A-P]"
 
 #: src-en/data/blueprints.xml.append:3149
 msgid ""
@@ -1870,8 +1870,8 @@ msgstr ""
 "\t\t\t-Inflige un étourdissement de 9s lorsqu'il est détruit.\n"
 "\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
 "membres d'équipage Engi par 40 %, et la résistance aux dégâts "
-"environnementaux par 20 %. Cumulable avec 30% de vitesse de déplacement et "
-"50% de dommages."
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3203
 msgid ""
@@ -1898,92 +1898,147 @@ msgstr ""
 "bonus.\n"
 "\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
 "membres d'équipage Engi par 40 %, et la résistance aux dégâts "
-"environnementaux par 20 %. Cumulable avec 30% de vitesse de déplacement et "
-"50% de dommages.\n"
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages.\n"
 "\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
 "membres de l'équipage Engi par 40 % et la résistance aux dégâts "
-"environnementaux par 20 %. Fournit également une vitesse de déplacement "
-"forfaitaire de 30% et des dommages forfaitaires de 50%."
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3223
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/title"
-msgstr ""
+msgstr "YinYang Déformé [Abordage]"
 
 #: src-en/data/blueprints.xml.append:3224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/short"
-msgstr ""
+msgstr "YY.D [B]"
 
 #: src-en/data/blueprints.xml.append:3225
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_YINYANG_BOARDER\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Un drone interchangeable spécialisé dans l'une ou "
+"l'autre des tâches qu'il opère, mais jamais les deux en même temps.\n"
+"\n"
+"\t\t\t-125 PV, immunisé contre les tirs, révèle les pièces adjacentes, "
+"vitesse de déplacement x1,5.\n"
+"\t\t\t-Mode Assistant : ne peut pas se battre, répare à une vitesse de x2,5 "
+"et se déplace avec les compétences maximales.\n"
+"\t\t\t-Mode Abordage : x3,0 dommages en combat, x1,5 dommages à distance en "
+"bonus.\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres d'équipage Engi par 40 %, et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/title"
-msgstr ""
+msgstr "Drone de combat Déformé Mk. II† [Anti-Pers]"
 
 #: src-en/data/blueprints.xml.append:3245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/short"
-msgstr ""
+msgstr "Combat D. II† [A-P]"
 
 #: src-en/data/blueprints.xml.append:3246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Anti-personnel] Contrôlable, un drone personnel qui peut être "
+"transformé en drone défensif antipersonnel ou en drone d'abordage avant le "
+"combat. Il dispose de plus de points de vie et inflige plus de dommages que "
+"le MK I.\n"
+"\n"
+"\t\t\t-200 PV, 1,5x les dommages au combat\n"
+"\t\t\t-0,5x la vitesse de déplacement\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres de l'équipage Engi par 40 % et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3262
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/title"
-msgstr ""
+msgstr "Drone de combat Déformé Mk. II† [Abordage]"
 
 #: src-en/data/blueprints.xml.append:3263
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/short"
-msgstr ""
+msgstr "Combat D. II† [A]"
 
 #: src-en/data/blueprints.xml.append:3264
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Contrôlable, un drone personnel qui peut être "
+"transformé en drone défensif antipersonnel ou en drone d'abordage avant le "
+"combat. Il dispose de plus de points de vie et inflige plus de dommages que "
+"le MK I.\n"
+"\n"
+"\t\t\t-200 PV, 1,5x les dommages au combat\n"
+"\t\t\t-0,5x la vitesse de déplacement\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres de l'équipage Engi par 40 % et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également un bonus cumulatif de 30 % à la "
+"vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3281
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/title"
-msgstr ""
+msgstr "Chirurgien Déformé [Anti-Pers]"
 
 #: src-en/data/blueprints.xml.append:3282
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/short"
-msgstr ""
+msgstr "Chir.D. [A-P]"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BATTLE\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Anti-Personnel] Un drone médical recâblé par un chirurgien "
+"rebelle meurtrier pour être capable de combattre.\n"
+"\n"
+"\t\t\t-100 PV, 1,2x vitesse de déplacement\n"
+"\t\t\t-1,5x les dommages de combat, vitesse d'attaque plus rapide\n"
+"\t\t\t-Guérit les amis proches pour 7pv/s\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres d'équipage Engi par 40 % et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également un bonus cumulatif fixe de 30 % "
+"à la vitesse de déplacement et de 50 % aux dommages."
 
 #: src-en/data/blueprints.xml.append:3300
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/title"
-msgstr ""
+msgstr "Chirurgien Déformé [Abordage]"
 
 #: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/short"
-msgstr ""
+msgstr "Chir.D. [A]"
 
 #: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TWISTED_SURGEON_BOARDER\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Un drone médical recâblé par un chirurgien rebelle "
+"meurtrier pour être capable de combattre.\n"
+"\n"
+"\t\t\t-100 PV, 1,2x vitesse de déplacement\n"
+"\t\t\t-1,5x les dommages de combat, vitesse d'attaque plus rapide\n"
+"\t\t\t-Guérit les amis proches pour 7pv/s\n"
+"\t\t\t-Lorsqu'il est alimenté, il multiplie les points de vie de tous les "
+"membres d'équipage de l'Engi par 40 % et la résistance aux dégâts "
+"environnementaux par 20 %. Fournit également un bonus cumulatif fixe de 30 % "
+"à la vitesse de déplacement et de 50 % aux dégâts."
 
 #: src-en/data/blueprints.xml.append:3320
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"MANNING_ENEMY_2\"]/title"
-msgstr ""
+msgstr "Drone d'interface II"
 
 #: src-en/data/blueprints.xml.append:3321
 msgid ""
@@ -1994,6 +2049,9 @@ msgstr "Manager"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"MANNING_ENEMY_2\"]/desc"
 msgstr ""
+"Contrôlable, peut gérer les systèmes de votre vaisseau comme s'il avait des "
+"compétences de niveau 2. Fournit une barre de puissance supplémentaire au "
+"système actuel."
 
 #: src-en/data/blueprints.xml.append:3339
 msgid ""
@@ -2009,6 +2067,8 @@ msgstr "Incendiaire"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Se promène sur le vaisseau ennemi, brûlant partout "
+"où il passe. Et ionise, juste pour le plaisir."
 
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
@@ -2024,36 +2084,48 @@ msgstr "Incendiaire"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Se promène sur le vaisseau ennemi, brûlant partout "
+"où il passe. Et ionise, juste pour le plaisir."
 
 #: src-en/data/blueprints.xml.append:3367
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/title"
-msgstr ""
+msgstr "Briseur de paix Ancalagon"
 
 #: src-en/data/blueprints.xml.append:3368
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/short"
-msgstr ""
+msgstr "Briseur de paix"
 
 #: src-en/data/blueprints.xml.append:3369
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Anti-personne] Drone de Bataille extrêmement puissant qui "
+"déborde régulièrement d'énergie.\n"
+"\t\t\tInflige : 1 ion, 1 dommage au système, un étourdissement de 4 "
+"secondes, inflige 10 dommages à l'équipage ennemi, puis se soigne de 20 pv.\n"
+"\t\t\tPossède des points de vie et des dommages plus élevés"
 
 #: src-en/data/blueprints.xml.append:3384
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/title"
-msgstr ""
+msgstr "Briseur de paix Ancalagon"
 
 #: src-en/data/blueprints.xml.append:3385
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/short"
-msgstr ""
+msgstr "Briseur de paix"
 
 #: src-en/data/blueprints.xml.append:3386
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Abordage] Drone de Bataille extrêmement puissant qui déborde "
+"régulièrement d'énergie.\n"
+"\t\t\tInflige : 1 ion, 1 dommage au système, un étourdissement de 4 "
+"secondes, inflige 10 dommages à l'équipage ennemi, puis se soigne de 20 pv.\n"
+"\t\t\tPossède des points de vie et des dommages plus élevés"
 
 #: src-en/data/blueprints.xml.append:3403
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/desc"
@@ -2070,12 +2142,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3411
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy1\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/desc"
@@ -2092,12 +2164,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3428
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3429
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy2\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3439
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/desc"
@@ -2114,12 +2186,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3446
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy3\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3457
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/desc"
@@ -2136,12 +2208,12 @@ msgstr "-"
 #: src-en/data/blueprints.xml.append:3463
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy4\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3474
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/desc"
@@ -2153,109 +2225,109 @@ msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3476
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy5\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3492
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3493
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3494
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3499
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy6\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3510
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3511
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3512
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3517
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3518
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy7\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3528
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3529
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3530
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3535
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3536
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy8\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3546
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3547
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3548
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3553
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3554
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy9\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3564
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy10\"]/desc"
-msgstr ""
+msgstr "Des haricots. Quelle circonstance loufoque et hilarante !"
 
 #: src-en/data/blueprints.xml.append:3565
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy10\"]/title"
@@ -2273,7 +2345,7 @@ msgstr "C'est la chose la plus drôle que j'aie jamais vue."
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_10_EFFECT\"]/title"
-msgstr ""
+msgstr "Laser pour holyshit10"
 
 #: src-en/data/blueprints.xml.append:3577
 msgid ""
@@ -2287,30 +2359,30 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 
 #: src-en/data/blueprints.xml.append:3617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/desc"
-msgstr ""
+msgstr "AIIIIDEZZZ MOIIIII"
 
 #: src-en/data/blueprints.xml.append:3618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/title"
-msgstr ""
+msgstr "LE PETIT INSECTE EST EN FEU"
 
 #: src-en/data/blueprints.xml.append:3619
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/short"
-msgstr ""
+msgstr "INSECTE EN FEU"
 
 #: src-en/data/blueprints.xml.append:3624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - AIDEZ-LE, IL EST EN TRAIN DE BRÛLER"
 
 #: src-en/data/blueprints.xml.append:3625
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy11\"]/powerList/power[2]"
-msgstr ""
+msgstr ": -AU SECOUR"
 
 #: src-en/data/blueprints.xml.append:3635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_11_EFFECT\"]/title"
-msgstr ""
+msgstr "Laser pour holyshit11"
 
 #: src-en/data/blueprints.xml.append:3636
 msgid ""
@@ -2324,184 +2396,184 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 
 #: src-en/data/blueprints.xml.append:3676
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3677
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3678
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3683
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy12\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3694
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3695
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3696
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy13\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3712
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3713
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3714
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3719
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3720
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy14\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3730
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3731
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3732
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3738
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy15\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3748
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3749
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3750
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3755
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3756
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy16\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3766
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3767
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3768
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3773
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3774
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy17\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3784
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3785
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3786
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3791
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3792
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy18\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3802
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3803
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3804
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3809
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy19\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_19_EFFECT\"]/title"
-msgstr ""
+msgstr "Laser pour holyshit19"
 
 #: src-en/data/blueprints.xml.append:3821
 msgid ""
@@ -2515,30 +2587,30 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 
 #: src-en/data/blueprints.xml.append:3870
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/desc"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3871
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/title"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3872
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/short"
-msgstr ""
+msgstr "-"
 
 #: src-en/data/blueprints.xml.append:3877
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/powerList/power[1]"
-msgstr ""
+msgstr ": - Comment avez-vous réussi à sélectionner ceci"
 
 #: src-en/data/blueprints.xml.append:3878
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_holy20\"]/powerList/power[2]"
-msgstr ""
+msgstr ": - Sérieusement, c'est assez impressionnant"
 
 #: src-en/data/blueprints.xml.append:3888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_HOLYSHIT_20_EFFECT\"]/title"
-msgstr ""
+msgstr "Laser pour holyshit20"
 
 #: src-en/data/blueprints.xml.append:3889
 msgid ""
@@ -2553,85 +2625,95 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 #: src-en/data/blueprints.xml.append:3965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/title"
-msgstr ""
+msgstr "Céphalotaureau"
 
 #: src-en/data/blueprints.xml.append:3966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/short"
-msgstr ""
+msgstr "Céphalotaureau"
 
 #: src-en/data/blueprints.xml.append:3968
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/desc"
 msgstr ""
+"Lance une boule de déchets toxiques vivante, furieuse et corrosive qui sème "
+"le chaos sur le vaisseau ennemi"
 
 #: src-en/data/blueprints.xml.append:3969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/tooltip"
-msgstr ""
+msgstr "N/A"
 
 #: src-en/data/blueprints.xml.append:3979
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/spawnCrew/name"
-msgstr ""
+msgstr "Né-Acide"
 
 #: src-en/data/blueprints.xml.append:4039
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4040
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4041
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/desc"
 msgstr ""
+"Un lance-flammes grossier qui met le feu aux pièces des vaisseaux. On peut y "
+"lire : \"ATTENTION, SURCHAUFFE FRÉQUENTE\", du moins c'est ce que disait "
+"l'étiquette avant que vous n'arrachiez l'autocollant, vous n'avez pas pu "
+"vous en empêcher. Les gaz spectraux que brûle cette arme se condensent "
+"parfois suffisamment pour engendrer une nouvelle Goule. Ne vous inquiétez "
+"pas."
 
 #: src-en/data/blueprints.xml.append:4042
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/tooltip"
 msgstr ""
+"NE PERCE PAS les boucliers et ne les fait pas exploser. Tirer quand les "
+"boucliers de l'ennemi sont baissés et déchaînez l'enfer sur leur vaisseau."
 
 #: src-en/data/blueprints.xml.append:4094
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/title"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4095
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/short"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4096
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/desc"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4097
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST2\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4167
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/title"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4168
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/short"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4169
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/desc"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4170
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST3\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/title"
-msgstr ""
+msgstr "'Tueur de Dieu'[Coque]"
 
 #: src-en/data/blueprints.xml.append:4232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/short"
-msgstr ""
+msgstr "'Tueur'[Coque]"
 
 #: src-en/data/blueprints.xml.append:4234
 msgid ""
@@ -2644,16 +2726,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT\"]/tooltip"
 msgstr ""
+"Le temps de recharge diminue au fur et à mesure des tirs. Peut s'enchaîner "
+"jusqu'à 7 fois !"
 
 #: src-en/data/blueprints.xml.append:4275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/title"
-msgstr ""
+msgstr "'Tueur de Dieu'[Photon]"
 
 #: src-en/data/blueprints.xml.append:4276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/short"
-msgstr ""
+msgstr "'Tueur'[Photon]"
 
 #: src-en/data/blueprints.xml.append:4278
 msgid ""
@@ -2666,16 +2750,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_PHOTON\"]/tooltip"
 msgstr ""
+"Le temps de recharge diminue au fur et à mesure des tirs. Peut s'enchaîner "
+"jusqu'à 7 fois !"
 
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/title"
-msgstr ""
+msgstr "'Tueur de Dieu'[Ion]"
 
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/short"
-msgstr ""
+msgstr "'Tueur'[Ion]"
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
@@ -2688,16 +2774,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_ION\"]/tooltip"
 msgstr ""
+"Le temps de recharge diminue au fur et à mesure des tirs. Peut s'enchaîner "
+"jusqu'à 7 fois !"
 
 #: src-en/data/blueprints.xml.append:4385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/title"
-msgstr ""
+msgstr "'Tueur de Dieu'[Oui]"
 
 #: src-en/data/blueprints.xml.append:4386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/short"
-msgstr ""
+msgstr "'Tueur'[Oui]"
 
 #: src-en/data/blueprints.xml.append:4388
 msgid ""
@@ -2710,30 +2798,40 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_GATLING_ANCIENT_YES\"]/tooltip"
 msgstr ""
+"Le temps de recharge diminue au fur et à mesure des tirs. Peut s'enchaîner "
+"jusqu'à 7 fois !"
 
 #: src-en/data/blueprints.xml.append:4434
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4435
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4436
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/desc"
 msgstr ""
+"Un lance-flammes grossier qui met le feu aux pièces des vaisseaux. On peut y "
+"lire : \"ATTENTION, SURCHAUFFE FRÉQUENTE\", du moins c'est ce que disait "
+"l'étiquette avant que vous n'arrachiez l'autocollant, vous n'avez pas pu "
+"vous en empêcher. Les gaz spectraux que brûle cette arme se condensent "
+"parfois suffisamment pour engendrer une nouvelle Goule. Ne vous inquiétez "
+"pas."
 
 #: src-en/data/blueprints.xml.append:4437
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/tooltip"
 msgstr ""
+"NE PERCE PAS les boucliers et ne les fait pas exploser. Tirer quand les "
+"boucliers de l'ennemi sont baissés et déchaînez l'enfer sur leur vaisseau."
 
 #: src-en/data/blueprints.xml.append:4495
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/title"
-msgstr ""
+msgstr "Prévention des accidents"
 
 #: src-en/data/blueprints.xml.append:4496
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/short"
-msgstr ""
+msgstr "Pas d'accident"
 
 #: src-en/data/blueprints.xml.append:4497
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/desc"
@@ -2741,27 +2839,29 @@ msgstr "Vous ne devriez jamais voir cela."
 
 #: src-en/data/blueprints.xml.append:4498
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:4529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/title"
-msgstr ""
+msgstr "Sniper à Charge"
 
 #: src-en/data/blueprints.xml.append:4530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/short"
-msgstr ""
+msgstr "S. à Charge"
 
 #: src-en/data/blueprints.xml.append:4532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/desc"
 msgstr ""
+"Tire un seul coup qui devient de plus en plus puissant au fur et à mesure "
+"que vous attendez pour tirer."
 
 #: src-en/data/blueprints.xml.append:4533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/tooltip"
-msgstr ""
+msgstr "Gagne 2 dommages et 1 percée de bouclier par charge."
 
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
@@ -2777,6 +2877,9 @@ msgstr "'Multi-barrage'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/desc"
 msgstr ""
+"Conçue par rétro-ingénierie à partir de vaisseaux amiraux vaincus, cette "
+"arme reproduit dans une certaine mesure la volée de déferlement à haut "
+"volume et le schéma de ciblage des vaisseaux amiraux rebelles."
 
 #: src-en/data/blueprints.xml.append:4591
 msgid ""
@@ -2786,62 +2889,80 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/title"
-msgstr ""
+msgstr "Laser d'enlèvement 'Persephone'"
 
 #: src-en/data/blueprints.xml.append:4632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/short"
-msgstr ""
+msgstr "'Perséphone'"
 
 #: src-en/data/blueprints.xml.append:4634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/desc"
 msgstr ""
+"En raison des difficultés liées à l'installation d'équipements de "
+"téléportation encombrants à bord de certains vaisseaux de recherche, des "
+"scientifiques Coquilles d'une autre dimension ont mis au point ce nouveau "
+"moyen inédit de téléportation non consensuelle et à sens unique de "
+"l'équipage. Cela ne fait pas mal... en général."
 
 #: src-en/data/blueprints.xml.append:4635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ABDUCT_LASER\"]/tooltip"
-msgstr ""
+msgstr "Déclenche un tir qui téléporte tous les membres d’équipage de la pièce."
 
 #: src-en/data/blueprints.xml.append:4672
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/title"
-msgstr ""
+msgstr "Explosion de l'anomalie 'TLALOC'"
 
 #: src-en/data/blueprints.xml.append:4673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/short"
-msgstr ""
+msgstr "'TLALOC'"
 
 #: src-en/data/blueprints.xml.append:4674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/desc"
 msgstr ""
+"Il s'avère que le refroidissement de projectiles laser radioactifs jusqu'au "
+"zéro absolu crée des anomalies spatiales assez bizarres ! Et nous les avons "
+"mis dans une arme pour vous !"
 
 #: src-en/data/blueprints.xml.append:4675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1\"]/tooltip"
 msgstr ""
+"Laser Anomalie, tire 2 projectiles, 1 dommage système, perce 2 boucliers. "
+"Nombreux effets d'état."
 
 #: src-en/data/blueprints.xml.append:4716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:4718
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/desc"
 msgstr ""
+"Un lance-flammes grossier qui met le feu aux pièces des vaisseaux. On peut y "
+"lire : \"ATTENTION, SURCHAUFFE FRÉQUENTE\", du moins c'est ce que disait "
+"l'étiquette avant que vous n'arrachiez l'autocollant, vous n'avez pas pu "
+"vous en empêcher. Les gaz spectraux que brûle cette arme se condensent "
+"parfois suffisamment pour engendrer une nouvelle Goule. Ne vous inquiétez "
+"pas."
 
 #: src-en/data/blueprints.xml.append:4719
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/tooltip"
 msgstr ""
+"NE PERCE PAS les boucliers et ne les fait pas exploser. Tirer quand les "
+"boucliers de l'ennemi sont baissés et déchaînez l'enfer sur leur vaisseau."
 
 #: src-en/data/blueprints.xml.append:4798
 msgid ""
@@ -2857,41 +2978,56 @@ msgstr "'Désintégrateur'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/desc"
 msgstr ""
+"Les plans originaux de cette arme ont été créés par un scientifique "
+"Coquilles mécontent qui voulait que tout le monde connaisse l'agonie qu'il "
+"ressentait lors de la suffocation. L'énergie de cette arme de phase est "
+"renforcée par des microbes anaérobies qui s'accrochent aux créatures et "
+"drainent l'oxygène tout en corrodant les corps, ce qui permet à tout ce qui "
+"existe de suffoquer."
 
 #: src-en/data/blueprints.xml.append:4802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION\"]/tooltip"
 msgstr ""
+"Tire un laser ionique perforant qui fait suffoquer les membres d'équipage "
+"touchés, leur inflige 3x plus de dommages dus à la suffocation et draine "
+"très lentement l'oxygène de la pièce"
 
 #: src-en/data/blueprints.xml.append:4871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/title"
-msgstr ""
+msgstr "Laser Photons MK I"
 
 #: src-en/data/blueprints.xml.append:4872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/short"
-msgstr ""
+msgstr "Photon I"
 
 #: src-en/data/blueprints.xml.append:4873
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON\"]/desc"
 msgstr ""
+"Tire une explosion photonique qui peut perturber les boucliers comme les "
+"lasers normaux, mais n'inflige que des dommages au système avec une faible "
+"chance de déclencher un incendie ou une brèche."
 
 #: src-en/data/blueprints.xml.append:4960
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/title"
-msgstr ""
+msgstr "Laser Photons MK II"
 
 #: src-en/data/blueprints.xml.append:4961
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/short"
-msgstr ""
+msgstr "Photon II"
 
 #: src-en/data/blueprints.xml.append:4962
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2\"]/desc"
 msgstr ""
+"Tire une explosion photonique qui peut perturber les boucliers comme les "
+"lasers normaux, mais n'inflige que des dommages au système avec une faible "
+"chance de déclencher un incendie ou une brèche."
 
 #: src-en/data/blueprints.xml.append:5048
 msgid ""
@@ -2901,32 +3037,64 @@ msgstr "Extracteur rebelle"
 #: src-en/data/blueprints.xml.append:5050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/short"
-msgstr ""
+msgstr "Rebelle R"
 
 #: src-en/data/blueprints.xml.append:5051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/desc"
 msgstr ""
+"L'arme préférée de la Coalition. Elle tue très bien la racaille humaine."
 
 #: src-en/data/blueprints.xml.append:5052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/descriptionOverride"
 msgstr ""
+"L'arme préférée de la Coalition. Elle tue très bien la racaille humaine.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 2\n"
+"\t\t\tTemps de charge : 8 secondes\n"
+"\t\t\tBonus de précision : +5\n"
+"\n"
+"\t\t\tTirs par charge : 1\n"
+"\n"
+"\t\t\tDommages totaux du système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tDommages subis par le membre d'équipage contre les humains : 145\n"
+"\t\t\tPerforation du bouclier : 10\n"
+"\n"
+"\t\t\tRisque d'incendie : 10%\n"
+"\t\t\tRisque de brèche : 10 % (ajusté : 9 %)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 160~/80~"
 
 #: src-en/data/blueprints.xml.append:5071
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:5072
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\t\tTemps de charge : 8 secondes\n"
+"\t\t\tBonus de précision : +5%\n"
+"\n"
+"\t\t\tTirs par charge : 1\n"
+"\n"
+"\t\t\tDommages totaux du système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tDommages subis par le membre d'équipage contre les humains : 145\n"
+"\t\t\tPerforation du bouclier : 10\n"
+"\n"
+"\t\t\tRisque d'incendie : 10%\n"
+"\t\t\tRisque de brèche : 10 % (ajusté : 9 %)"
 
 #: src-en/data/blueprints.xml.append:5170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/title"
-msgstr ""
+msgstr "Inducteur de Faille 'Absolution'"
 
 #: src-en/data/blueprints.xml.append:5171
 msgid ""
@@ -2937,81 +3105,120 @@ msgstr "Absolution"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/desc"
 msgstr ""
+"Le laboratoire qui l'a créé a été détruit lors d'un mystérieux accident, "
+"mais les plans ont survécu. Déclenche des tempêtes sensibles de destruction "
+"ionique à chaque impact, transperce deux boucliers."
 
 #: src-en/data/blueprints.xml.append:5193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA\"]/spawnCrew/name"
-msgstr ""
+msgstr "Anomalie"
 
 #: src-en/data/blueprints.xml.append:5236
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/title"
-msgstr ""
+msgstr "Gnun Slung"
 
 #: src-en/data/blueprints.xml.append:5237
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/short"
-msgstr ""
+msgstr "Gnun Slung"
 
 #: src-en/data/blueprints.xml.append:5239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/desc"
 msgstr ""
+"Lorsque les limaces viennent chercher de l'argent, elles ne vous cassent pas "
+"les jambes, elles font fondre vos organes. Payez vos dettes."
 
 #: src-en/data/blueprints.xml.append:5240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/descriptionOverride"
 msgstr ""
+"Lorsque les limaces viennent chercher de l'argent, elles ne vous cassent pas "
+"les jambes, elles font fondre vos organes. Payez vos dettes.\n"
+"\n"
+"\t\t\tStatistiques :\n"
+"\t\t\tPuissance requise : 2\n"
+"\t\t\tTemps de charge : 14 secondes\n"
+"\n"
+"\t\t\tNombre de tirs par charge : 2\n"
+"\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 60\n"
+"\t\t\tPerçage du bouclier : 1\n"
+"\n"
+"\t\t\tChance d'empoisonnement : 100%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 105~/52~"
 
 #: src-en/data/blueprints.xml.append:5256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\t\tTemps de charge : 14 secondes\n"
+"\n"
+"\t\t\tNombre de tirs par charge : 2\n"
+"\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 60\n"
+"\t\t\tPerçage du bouclier : 1\n"
+"\n"
+"\t\t\tChance d'empoisonnement : 100%\n"
+"\t\t\tChance d'affliction : 100%"
 
 #: src-en/data/blueprints.xml.append:5268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_DEBT_COLLECT\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:5342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/title"
-msgstr ""
+msgstr "Lance-drone de piratage"
 
 #: src-en/data/blueprints.xml.append:5343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/short"
-msgstr ""
+msgstr "Drone de piratage"
 
 #: src-en/data/blueprints.xml.append:5344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HACKER_LOOT\"]/desc"
 msgstr ""
+"Tire un micro-drone de piratage. Pirate automatiquement la pièce touchée et "
+"étourdit les cibles ennemies qui s'y trouvent pendant 5 secondes."
 
 #: src-en/data/blueprints.xml.append:5389
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/title"
-msgstr ""
+msgstr "Bourreau Arboricole"
 
 #: src-en/data/blueprints.xml.append:5390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/short"
-msgstr ""
+msgstr "Bourreau A."
 
 #: src-en/data/blueprints.xml.append:5391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/desc"
 msgstr ""
+"Le fruit de l’imagination de deux scientifiques de renom, combinant les "
+"merveilles de la technologie Cristalienne et des fleurs Orchidée pour créer "
+"une arme digne du titre de 'Bourreau'."
 
 #: src-en/data/blueprints.xml.append:5431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE_STATBOOST\"]/title"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE_STATBOOST\"]/short"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5434
 msgid ""
@@ -3021,27 +3228,30 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:5488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/title"
-msgstr ""
+msgstr "Revitalisant Arboricole"
 
 #: src-en/data/blueprints.xml.append:5489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/short"
-msgstr ""
+msgstr "Revitalisant A."
 
 #: src-en/data/blueprints.xml.append:5490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV\"]/desc"
 msgstr ""
+"Le fruit de l’imagination de deux scientifiques de renom, combinant les "
+"merveilles de la technologie Cristalienne et des fleurs Orchidée pour créer "
+"une arme capable de servir une bonne cause sans promouvoir la violence."
 
 #: src-en/data/blueprints.xml.append:5531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV_STATBOOST\"]/title"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_REV_STATBOOST\"]/short"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5534
 msgid ""
@@ -3050,92 +3260,144 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 
 #: src-en/data/blueprints.xml.append:5594
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/title"
-msgstr ""
+msgstr "Lance-Lumière Ancalagon"
 
 #: src-en/data/blueprints.xml.append:5595
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/short"
-msgstr ""
+msgstr "Lance-Lumière"
 
 #: src-en/data/blueprints.xml.append:5596
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/desc"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci projette deux paires de "
+"lasers à fort impact. Une étiquette indique "
+"\"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:5619
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER\"]/spawnCrew/name"
-msgstr ""
+msgstr "Cristal anormal"
 
 #: src-en/data/blueprints.xml.append:5669
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/title"
-msgstr ""
+msgstr "Lance-Lumière Ancalagon"
 
 #: src-en/data/blueprints.xml.append:5670
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/short"
-msgstr ""
+msgstr "Lance-Lumière"
 
 #: src-en/data/blueprints.xml.append:5671
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/desc"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci projette deux paires de "
+"lasers à fort impact. Une étiquette indique "
+"\"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:5695
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE\"]/spawnCrew/name"
-msgstr ""
+msgstr "Cristal anormal"
 
 #: src-en/data/blueprints.xml.append:5746
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/title"
-msgstr ""
+msgstr "Onde Lumineuse Défensive Ancalagon"
 
 #: src-en/data/blueprints.xml.append:5747
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/short"
-msgstr ""
+msgstr "O.L. Ancalagon"
 
 #: src-en/data/blueprints.xml.append:5748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_LASER_DRONE_DEFENSE\"]/desc"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci projette deux paires de "
+"lasers à fort impact. Une étiquette indique "
+"\"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:5787
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/title"
-msgstr ""
+msgstr "Terminus"
 
 #: src-en/data/blueprints.xml.append:5788
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/short"
-msgstr ""
+msgstr "Terminus"
 
 #: src-en/data/blueprints.xml.append:5789
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/desc"
 msgstr ""
+"La dernière arme secrète des Anciens a été abandonnée dans la distorsion "
+"entre les réalités pour éviter qu'elle ne soit utilisée. La seule façon pour "
+"une telle arme de voir le jour est que le tissu de la réalité soit étiré "
+"jusqu'à la rupture..."
 
 #: src-en/data/blueprints.xml.append:5791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/descriptionOverride"
 msgstr ""
+"La dernière arme secrète des Anciens a été abandonnée dans la distorsion "
+"entre les réalités pour éviter qu'elle ne soit utilisée. La seule façon pour "
+"une telle arme de voir le jour est que le tissu de la réalité soit étiré "
+"jusqu'à la rupture...\n"
+"\n"
+"\t\t\tStatistiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 20 secondes\n"
+"\t\t\tBonus de précision : +115%\n"
+"\n"
+"\t\t\tDommages de base à la coque : 10\n"
+"\t\t\tDommages totaux au système : 10\n"
+"\t\t\tDommages totaux au membre d'équipage : 105\n"
+"\n"
+"\t\t\tRisque d'incendie : 100%\n"
+"\t\t\tRisque de brèche : 100 %\n"
+"\t\t\tPerforation de bouclier : 20 (perce également les super-boucliers)\n"
+"\n"
+"\t\t\tChance d'affliction : 100%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 900~/450~"
 
 #: src-en/data/blueprints.xml.append:5810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/tooltip"
-msgstr ""
+msgstr "EXPLOSIONNNN"
 
 #: src-en/data/blueprints.xml.append:5811
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 20 secondes\n"
+"\t\t\tBonus de précision +115%.\n"
+"\n"
+"\t\t\tDommages de base à la coque : 10\n"
+"\t\t\tDommages totaux au système : 10\n"
+"\t\t\tDommages totaux au membre d'équipage : 150\n"
+"\n"
+"\t\t\tRisque d'incendie : 100%\n"
+"\t\t\tRisque de brèche : 100%\n"
+"\t\t\tPerforation de bouclier : 20 (perce également les super-boucliers)\n"
+"\n"
+"\t\t\tChance d'affliction : 100%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 900~/450~"
 
 #: src-en/data/blueprints.xml.append:5936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS_STATBOOST\"]/title"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TERMINUS_STATBOOST\"]/short"
-msgstr ""
+msgstr "APPLY_STATBOOST"
 
 #: src-en/data/blueprints.xml.append:5939
 msgid ""
@@ -3145,22 +3407,24 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:6079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/title"
-msgstr ""
+msgstr "Chargeur laser Finitum"
 
 #: src-en/data/blueprints.xml.append:6080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/short"
-msgstr ""
+msgstr "Chargeur Finitum"
 
 #: src-en/data/blueprints.xml.append:6082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/desc"
 msgstr ""
+"Laser de défense à charge spéciale. Peut utiliser l'entropie dynamique pour "
+"stocker jusqu’à 169 tirs."
 
 #: src-en/data/blueprints.xml.append:6083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_BURST_1_CHARGE_GOLD\"]/tooltip"
-msgstr ""
+msgstr "Laser de défense ; 1 dommage, 1 tir. Temps de recharge de 9 secondes."
 
 #: src-en/data/blueprints.xml.append:6125
 msgid ""
@@ -3170,37 +3434,46 @@ msgstr "Ion 'Cerbère'"
 #: src-en/data/blueprints.xml.append:6126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/short"
-msgstr ""
+msgstr "Cerbère"
 
 #: src-en/data/blueprints.xml.append:6128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/desc"
 msgstr ""
+"Pour le Zoltan meurtrier qui sommeille en chacun de nous. Trion avec une "
+"impulsion enflammée. Se charge notamment un peu plus vite."
 
 #: src-en/data/blueprints.xml.append:6129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE\"]/tooltip"
 msgstr ""
+"Tire un simple projectile qui occasionne 1 dégât d'ion. Peut toucher et "
+"désactiver les boucliers tout autant que les systèmes."
 
 #: src-en/data/blueprints.xml.append:6174
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/title"
-msgstr ""
+msgstr "Disque énergisé 'TARANIS'"
 
 #: src-en/data/blueprints.xml.append:6175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/short"
-msgstr ""
+msgstr "'TARANIS'"
 
 #: src-en/data/blueprints.xml.append:6177
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/desc"
 msgstr ""
+"Canon à énergie fusionné avec la technologie beyblade, il tire un lourd "
+"disque énergisé qui transperce tous les boucliers et inflige des dommages à "
+"tout ce qu'il touche, même à l'environnement."
 
 #: src-en/data/blueprints.xml.append:6178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/tooltip"
 msgstr ""
+"Tire un projectile perforant infligeant des dégâts d'ion, de système et de "
+"coque. À craindre. Et en bonus : un étourdissement !"
 
 #: src-en/data/blueprints.xml.append:6219
 msgid ""
@@ -3210,279 +3483,421 @@ msgstr "Gatling Ionique 'Vesta'"
 #: src-en/data/blueprints.xml.append:6220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/short"
-msgstr ""
+msgstr "'Vesta'"
 
 #: src-en/data/blueprints.xml.append:6222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/desc"
 msgstr ""
+"Bien sûr, vous pourriez les tuer avec un Vulcain ordinaire... mais si vous "
+"les faisiez SOUFFRIR à la place ?"
 
 #: src-en/data/blueprints.xml.append:6223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:6271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/title"
-msgstr ""
+msgstr "Mitrailleuse Gatling 'Flash des enfers'"
 
 #: src-en/data/blueprints.xml.append:6272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/short"
-msgstr ""
+msgstr "'Flash des enfers'"
 
 #: src-en/data/blueprints.xml.append:6274
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/desc"
-msgstr ""
+msgstr "Certains Renégats veulent juste regarder le Multivers brûler."
 
 #: src-en/data/blueprints.xml.append:6294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_FIRE\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:6357
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/title"
-msgstr ""
+msgstr "Diffuseur Exidia"
 
 #: src-en/data/blueprints.xml.append:6358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/short"
-msgstr ""
+msgstr "Diffuseur E."
 
 #: src-en/data/blueprints.xml.append:6359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/desc"
 msgstr ""
+"Diffuseur Énergétique tirant 3 projectiles infligeant des dégâts d’ion et de "
+"coque, et 4 projectiles infligeant des dégâts de coque. Draine 1 unité d’"
+"énergie des systèmes touchés pendant 12 secondes. L’intensité du drain est "
+"cumulable, mais la durée reste plafonnée à 12 secondes."
 
 #: src-en/data/blueprints.xml.append:6360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/descriptionOverride"
 msgstr ""
+"Diffuseur Énergétique tirant 3 projectiles infligeant des dégâts d’ion et de "
+"coque, et 4 projectiles infligeant des dégâts de coque. Draine 1 unité d’"
+"énergie des systèmes touchés pendant 12 secondes. L’intensité du drain est "
+"cumulable, mais la durée reste plafonnée à 12 secondes.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tZone d'impact : 50\n"
+"\t\t\tCoups par charge : 7\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1\n"
+"\t\t\tDommages causés par les ions : 1 (3 projectiles)\n"
+"\t\t\tDommages totaux subis par le membre d'équipage : 15\n"
+"\n"
+"\t\t\tDrain d'énergie : 1 (pendant 12 secondes)\n"
+"\t\t\tRisque de brèche : 40 % (ajusté : 40 %)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 200~/100~"
 
 #: src-en/data/blueprints.xml.append:6378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:6379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tZone d'impact : 50\n"
+"\t\t\tCoups par charge : 7\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1\n"
+"\t\t\tDommages causés par les ions : 1 (3 projectiles)\n"
+"\t\t\tDommages totaux subis par le membre d'équipage : 15\n"
+"\n"
+"\t\t\tDrain d'énergie : 1 (pendant 12 secondes)\n"
+"\t\t\tRisque de brèche : 40 % (ajusté : 40 %)"
 
 #: src-en/data/blueprints.xml.append:6442
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/title"
-msgstr ""
+msgstr "Diffuseur Exidia"
 
 #: src-en/data/blueprints.xml.append:6443
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/short"
-msgstr ""
+msgstr "Diffuseur E."
 
 #: src-en/data/blueprints.xml.append:6444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/desc"
 msgstr ""
+"Diffuseur Énergétique tirant 3 projectiles infligeant des dégâts d’ion et de "
+"coque, et 4 projectiles infligeant des dégâts de coque. Draine 1 unité d’"
+"énergie des systèmes touchés pendant 12 secondes. L’intensité du drain est "
+"cumulable, mais la durée reste plafonnée à 12 secondes."
 
 #: src-en/data/blueprints.xml.append:6445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/descriptionOverride"
 msgstr ""
+"Diffuseur Énergétique tirant 3 projectiles infligeant des dégâts d’ion et de "
+"coque, et 4 projectiles infligeant des dégâts de coque. Draine 1 unité d’"
+"énergie des systèmes touchés pendant 12 secondes. L’intensité du drain est "
+"cumulable, mais la durée reste plafonnée à 12 secondes.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 2\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tZone d'impact : 50\n"
+"\t\t\tCoups par charge : 7\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1\n"
+"\t\t\tDommages causés par les ions : 1 (3 projectiles)\n"
+"\t\t\tDommages totaux subis par le membre d'équipage : 15\n"
+"\n"
+"\t\t\tDrain d'énergie : 1 (pendant 12 secondes)\n"
+"\t\t\tRisque de brèche : 40 % (ajusté : 40 %)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 200~/100~"
 
 #: src-en/data/blueprints.xml.append:6463
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:6464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tZone d'impact : 50\n"
+"\t\t\tCoups par charge : 7\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1\n"
+"\t\t\tDommages causés par les ions : 1 (3 projectiles)\n"
+"\t\t\tDommages totaux subis par le membre d'équipage : 15\n"
+"\n"
+"\t\t\tDrain d'énergie : 1 (pendant 12 secondes)\n"
+"\t\t\tRisque de brèche : 40 % (ajusté : 40 %)"
 
 #: src-en/data/blueprints.xml.append:6527
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/title"
-msgstr ""
+msgstr "Flak énergétique"
 
 #: src-en/data/blueprints.xml.append:6528
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/short"
-msgstr ""
+msgstr "Flak E."
 
 #: src-en/data/blueprints.xml.append:6530
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_ION\"]/desc"
 msgstr ""
+"Un lanceur de Flak énergétique qui inflige des dommages ioniques, tout en "
+"drainant l'énergie des systèmes touchés pendant 10 secondes."
 
 #: src-en/data/blueprints.xml.append:6572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/title"
-msgstr ""
+msgstr "Flak énergétique"
 
 #: src-en/data/blueprints.xml.append:6573
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/short"
-msgstr ""
+msgstr "Flak E."
 
 #: src-en/data/blueprints.xml.append:6574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ENERGY_TEST\"]/desc"
 msgstr ""
+"Un lanceur de Flak énergétique qui inflige des dommages ioniques, tout en "
+"drainant l'énergie des systèmes touchés pendant 10 secondes."
 
 #: src-en/data/blueprints.xml.append:6642
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/title"
-msgstr ""
+msgstr "Laser à impulsions I"
 
 #: src-en/data/blueprints.xml.append:6643
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/short"
-msgstr ""
+msgstr "Laser à impulsions I"
 
 #: src-en/data/blueprints.xml.append:6644
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/desc"
 msgstr ""
+"Tire 2 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6645
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_1\"]/tooltip"
 msgstr ""
+"Tire 2 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6681
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/title"
-msgstr ""
+msgstr "Laser à impulsions II"
 
 #: src-en/data/blueprints.xml.append:6682
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/short"
-msgstr ""
+msgstr "Laser à impulsions II"
 
 #: src-en/data/blueprints.xml.append:6683
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/desc"
 msgstr ""
+"Tire 3 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6684
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2\"]/tooltip"
 msgstr ""
+"Tire 3 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6720
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/title"
-msgstr ""
+msgstr "Laser à impulsions II†"
 
 #: src-en/data/blueprints.xml.append:6721
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/short"
-msgstr ""
+msgstr "Laser à impulsions II†"
 
 #: src-en/data/blueprints.xml.append:6722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/desc"
 msgstr ""
+"Tire 3 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_2_PLAYER\"]/tooltip"
 msgstr ""
+"Tire 3 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6759
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/title"
-msgstr ""
+msgstr "Laser à impulsions III"
 
 #: src-en/data/blueprints.xml.append:6760
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/short"
-msgstr ""
+msgstr "Laser à impulsions III"
 
 #: src-en/data/blueprints.xml.append:6761
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/desc"
 msgstr ""
+"Tire 4 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6762
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSE_3\"]/tooltip"
 msgstr ""
+"Tire 4 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:6799
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/title"
-msgstr ""
+msgstr "Canon à impulsions"
 
 #: src-en/data/blueprints.xml.append:6800
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/short"
-msgstr ""
+msgstr "Canon à imp."
 
 #: src-en/data/blueprints.xml.append:6801
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/desc"
 msgstr ""
+"Combinaison de technologies énergétique et ionique. Inflige 2 dégâts "
+"ioniques bonus à la salle touchée. Peut provoquer des incendies et des "
+"brèches."
 
 #: src-en/data/blueprints.xml.append:6802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/descriptionOverride"
 msgstr ""
+"Combinaison de technologies énergétique et ionique. Inflige 2 dégâts "
+"ioniques bonus à la salle touchée. Les membres d'équipage touchés sont "
+"périodiquement étourdis. Peut provoquer des incendies et des brèches.\n"
+"\n"
+"\t\t\tStatistiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 13 secondes\n"
+"\n"
+"\t\t\tTirs par charge : 1\n"
+"\n"
+"\t\t\t2x les dommages à la coque sur les pièces sans système.\n"
+"\t\t\t2x les dommages ioniques sur les pièces avec système.\n"
+"\t\t\tDommages de base à la coque : 2\n"
+"\t\t\tDommages totaux à l'équipage : 30\n"
+"\t\t\tDommages causés par les ions : 2\n"
+"\n"
+"\n"
+"\t\t\tRisque d'incendie : 10 %.\n"
+"\t\t\tRisque de brèche : 10% (ajusté : 9%)\n"
+"\t\t\tChance d'étourdissement : 100 % (pendant 3 secondes)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 226~/113~"
 
 #: src-en/data/blueprints.xml.append:6823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/tooltip"
-msgstr ""
+msgstr "Arme à rayon infligeant 1 dégât par salle traversée"
 
 #: src-en/data/blueprints.xml.append:6824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 13 secondes\n"
+"\n"
+"\t\t\tTirs par charge : 1\n"
+"\n"
+"\t\t\t2x les dommages à la coque sur les pièces sans système.\n"
+"\t\t\t2x les dommages ioniques sur les pièces avec système.\n"
+"\t\t\tDommages de base à la coque : 2\n"
+"\t\t\tDommages totaux à l'équipage : 30\n"
+"\t\t\tDommages causés par les ions : 2\n"
+"\n"
+"\n"
+"\t\t\tRisque d'incendie : 10 %.\n"
+"\t\t\tRisque de brèche : 10% (ajusté : 9%)\n"
+"\t\t\tChance d'étourdissement : 100 % (pendant 3 secondes)"
 
 #: src-en/data/blueprints.xml.append:6900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "CONCUSSION"
 
 #: src-en/data/blueprints.xml.append:6901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PULSEDEEP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Subit 15 dommages et est étourdi pendant 2s."
 
 #: src-en/data/blueprints.xml.append:6931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/title"
-msgstr ""
+msgstr "Le Broyeur Cinétique"
 
 #: src-en/data/blueprints.xml.append:6932
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/short"
-msgstr ""
+msgstr "Broyeur Cinétique"
 
 #: src-en/data/blueprints.xml.append:6933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/desc"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:6934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_RAILBLENDER\"]/tooltip"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:6975
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/title"
-msgstr ""
+msgstr "Le Broyeur Cinétique"
 
 #: src-en/data/blueprints.xml.append:6976
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/short"
-msgstr ""
+msgstr "Broyeur Cinétique"
 
 #: src-en/data/blueprints.xml.append:6977
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/desc"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:6978
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[15]/tooltip"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:7019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ROD\"]/title"
-msgstr ""
+msgstr "FM_RAILBLENDER_ROD"
 
 #: src-en/data/blueprints.xml.append:7020
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ROD\"]/short"
-msgstr ""
+msgstr "FM_RAILBLENDER_ROD"
 
 #: src-en/data/blueprints.xml.append:7021
 msgid ""
@@ -3497,12 +3912,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:7064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ENERGIZED\"]/title"
-msgstr ""
+msgstr "FM_RAILBLENDER_ENERGIZED"
 
 #: src-en/data/blueprints.xml.append:7065
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_RAILBLENDER_ENERGIZED\"]/short"
-msgstr ""
+msgstr "FM_RAILBLENDER_ENERGIZED"
 
 #: src-en/data/blueprints.xml.append:7066
 msgid ""
@@ -3516,93 +3931,111 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:7109
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/title"
-msgstr ""
+msgstr "Le Broyeur Cinétique†"
 
 #: src-en/data/blueprints.xml.append:7110
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/short"
-msgstr ""
+msgstr "Broyeur Cinétique†"
 
 #: src-en/data/blueprints.xml.append:7111
 msgid "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/desc"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:7112
 msgid ""
 "data/blueprints.xml.append$/dummyroot/FTL[6]/weaponBlueprint[18]/tooltip"
 msgstr ""
+"Cet étrange appareil peut charger jusqu’à 3 tirs, chacun projetant 3 pôles "
+"électriquement chargés différents."
 
 #: src-en/data/blueprints.xml.append:7154
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/title"
-msgstr ""
+msgstr "Ion Rikiki"
 
 #: src-en/data/blueprints.xml.append:7155
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/short"
-msgstr ""
+msgstr "Rikiki I."
 
 #: src-en/data/blueprints.xml.append:7156
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/desc"
 msgstr ""
+"Une arme ionique réduite au strict minimum au détriment de la précision."
 
 #: src-en/data/blueprints.xml.append:7182
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_0\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:7225
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/title"
-msgstr ""
+msgstr "Bi-Ion"
 
 #: src-en/data/blueprints.xml.append:7226
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/short"
-msgstr ""
+msgstr "Bion"
 
 #: src-en/data/blueprints.xml.append:7227
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/desc"
-msgstr ""
+msgstr "Tire 2 décharges d'Ion énergisés qui infligent 1 dommage ionique."
 
 #: src-en/data/blueprints.xml.append:7228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_DUAL\"]/tooltip"
 msgstr ""
+"Tire 2 décharges de Laser énergisés qui perforent 1 bouclier et infligent 1 "
+"dommage ionique."
 
 #: src-en/data/blueprints.xml.append:7270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/title"
-msgstr ""
+msgstr "Rayon 'Cuillère 'd'oreille'"
 
 #: src-en/data/blueprints.xml.append:7271
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/short"
-msgstr ""
+msgstr "R. 'Cuillère 'd'oreille'"
 
 #: src-en/data/blueprints.xml.append:7272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/desc"
 msgstr ""
+"La Ruche a eu l'idée de cette arme après avoir trouvé un livre d'histoire "
+"humaine et cherché des noms étranges. C'est celui qui les a le plus amusés.\n"
+"\t\t\tLe Rayon, par contre, n'est pas très drôle quand votre équipage est en "
+"train de brûler vif."
 
 #: src-en/data/blueprints.xml.append:7275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_PARTICLE_PIERCE\"]/tooltip"
 msgstr ""
+"Provoque des incendies et inflige 3 dégâts aux systèmes par pièce. Perce 3 "
+"niveaux de boucliers"
 
 #: src-en/data/blueprints.xml.append:7303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/title"
-msgstr ""
+msgstr "Rayon Ishimura"
 
 #: src-en/data/blueprints.xml.append:7304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/short"
-msgstr ""
+msgstr "Ishimura R."
 
 #: src-en/data/blueprints.xml.append:7305
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/desc"
 msgstr ""
+"Des rumeurs circulaient au sujet d’un nouveau prototype de laser minier, le "
+"'Zulfiqar Briseur de Planètes', créé par Zulfiqar Industries pour le "
+"percement planétaire. Il semble que ce n’étaient pas que des rumeurs."
 
 #: src-en/data/blueprints.xml.append:7306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2\"]/tooltip"
 msgstr ""
+"Arme à rayon : inflige 2 dommages à la coque et 3 dommages aux systèmes par "
+"pièce traversée."
 
 #: src-en/data/blueprints.xml.append:7329
 msgid ""
@@ -3612,92 +4045,149 @@ msgstr "'Brise-vaisseau' Terra Nova"
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/short"
-msgstr ""
+msgstr "Terra Nova"
 
 #: src-en/data/blueprints.xml.append:7331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/desc"
 msgstr ""
+"Maintenant que Zulfiqar est passé au développement d'armes, ils ont "
+"réorienté leur ancien concept de 'Briseur de Planètes' pour ouvrir des "
+"brèches dans les vaisseaux. Déclenche jusqu'à 4 brèches sur les vaisseaux "
+"ennemis après un bref délai."
 
 #: src-en/data/blueprints.xml.append:7349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_3\"]/tooltip"
 msgstr ""
+"Arme à rayon : inflige 8 dommages à la coque, 8 dommages aux systèmes, et "
+"120 dommages à l’équipage"
 
 #: src-en/data/blueprints.xml.append:7384
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/title"
-msgstr ""
+msgstr "Rayon 'Menaulion'"
 
 #: src-en/data/blueprints.xml.append:7385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/short"
-msgstr ""
+msgstr "Menaulion"
 
 #: src-en/data/blueprints.xml.append:7386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/desc"
 msgstr ""
+"Lorsque la Guilde a déclaré qu'elle concevait un rayon qui tue si vite qu'il "
+"serait légal, car personne ne survivrait pour en parler... Ce n'était pas "
+"une blague."
 
 #: src-en/data/blueprints.xml.append:7387
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN\"]/tooltip"
 msgstr ""
+"Arme à rayon de puissance 4 qui endommage considérablement l'équipage "
+"ennemi. Extrêmement coûteuse, mais excellente pour tuer les équipages"
 
 #: src-en/data/blueprints.xml.append:7428
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/title"
-msgstr ""
+msgstr "Rayon 'Menaulion†'"
 
 #: src-en/data/blueprints.xml.append:7429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/short"
-msgstr ""
+msgstr "Menaulion†"
 
 #: src-en/data/blueprints.xml.append:7430
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/desc"
 msgstr ""
+"Lorsque la Guilde a déclaré qu'elle concevait un rayon qui tue si vite qu'il "
+"serait légal, car personne ne survivrait pour en parler... Ce n'était pas "
+"une blague."
 
 #: src-en/data/blueprints.xml.append:7431
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_PLAYER\"]/tooltip"
 msgstr ""
+"Arme à rayon qui endommage considérablement l'équipage ennemi. Elle "
+"étourdit, transperce les boucliers et déclenche des incendies. Extrêmement "
+"chère, mais excellente pour tuer l'équipage."
 
 #: src-en/data/blueprints.xml.append:7470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/title"
-msgstr ""
+msgstr "Rayon 'Valefor'"
 
 #: src-en/data/blueprints.xml.append:7471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/short"
-msgstr ""
+msgstr "'Valefor' R."
 
 #: src-en/data/blueprints.xml.append:7472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/desc"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi ! Les explosions infligent également des dommages à tous les membres "
+"d'équipage présents dans la pièce. Les explosions infligent des dommages à "
+"la coque, aux systèmes et aux membres d'équipage."
 
 #: src-en/data/blueprints.xml.append:7473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/descriptionOverride"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi ! Les explosions infligent également des dommages à tous les membres "
+"d'équipage présents dans la pièce. Les explosions infligent des dommages à "
+"la coque, aux systèmes et aux membres d'équipage.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 150~/75~"
 
 #: src-en/data/blueprints.xml.append:7493
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/tooltip"
-msgstr ""
+msgstr "EXPLOSIONNNN"
 
 #: src-en/data/blueprints.xml.append:7494
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20%"
 
 #: src-en/data/blueprints.xml.append:7551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_LASER\"]/title"
-msgstr ""
+msgstr "Laser pour explosion"
 
 #: src-en/data/blueprints.xml.append:7552
 msgid ""
@@ -3712,129 +4202,275 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 #: src-en/data/blueprints.xml.append:7591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/title"
-msgstr ""
+msgstr "Rayon 'Valefor'"
 
 #: src-en/data/blueprints.xml.append:7592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/short"
-msgstr ""
+msgstr "'Valefor' R."
 
 #: src-en/data/blueprints.xml.append:7593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/desc"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi ! Les explosions infligent également des dommages à tous les membres "
+"d'équipage présents dans la pièce. Les explosions infligent des dommages à "
+"la coque, aux systèmes et aux membres d'équipage. L'homme de Floride a "
+"laissé son épée à l'intérieur, ne pas toucher."
 
 #: src-en/data/blueprints.xml.append:7594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/descriptionOverride"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi ! Les explosions infligent également des dommages à tous les membres "
+"d'équipage présents dans la pièce. Les explosions infligent des dommages à "
+"la coque, aux systèmes et aux membres d'équipage. L'homme de Floride a "
+"laissé son épée à l'intérieur, ne pas toucher.\n"
+"\n"
+"\t\t\tStatistiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 150~/75~"
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/tooltip"
-msgstr ""
+msgstr "EXPLOSIONNNN"
 
 #: src-en/data/blueprints.xml.append:7615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_EGG\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20%"
 
 #: src-en/data/blueprints.xml.append:7673
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/title"
-msgstr ""
+msgstr "Rayon 'Valefor†'"
 
 #: src-en/data/blueprints.xml.append:7674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/short"
-msgstr ""
+msgstr "'Valefor†' R."
 
 #: src-en/data/blueprints.xml.append:7675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/desc"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi !"
 
 #: src-en/data/blueprints.xml.append:7676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/descriptionOverride"
 msgstr ""
+"Surchauffe l'air en créant de multiples explosions en balayant le vaisseau "
+"ennemi ! Les explosions infligent également des dommages à tous les membres "
+"d'équipage présents dans la pièce. Les explosions infligent des dommages à "
+"la coque, aux systèmes et aux membres d'équipage.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 2\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 150~/75~"
 
 #: src-en/data/blueprints.xml.append:7696
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "EXPLOSIONNNN"
 
 #: src-en/data/blueprints.xml.append:7697
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_PLAYER\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\t\tTemps de charge : 22 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 90\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages de base à la coque : 1 (par pièce)\n"
+"\t\t\tDommages par tuile touchée : 1\n"
+"\t\t\tDommages à l'équipage par tuile touchée : 15\n"
+"\t\t\tDommages totaux au système : 1\n"
+"\t\t\tDommages totaux à l'équipage : 15\n"
+"\t\t\tPerforation du bouclier : 1\n"
+"\n"
+"\t\t\tRisque de brèche : 20%"
 
 #: src-en/data/blueprints.xml.append:7755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/title"
-msgstr ""
+msgstr "Rayon 'Kontos'"
 
 #: src-en/data/blueprints.xml.append:7756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/short"
-msgstr ""
+msgstr "'Kontos'"
 
 #: src-en/data/blueprints.xml.append:7757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/desc"
 msgstr ""
+"Déclenche un flux de particules alpha nuisibles au bouclier. Inflige des "
+"dommages de type ionique à chaque tuile touchée dans une pièce."
 
 #: src-en/data/blueprints.xml.append:7758
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/descriptionOverride"
 msgstr ""
+"Déclenche un flux de particules alpha nuisibles au bouclier. Inflige des "
+"dommages de type ionique à chaque tuile touchée dans une pièce.\n"
+"\n"
+"\t\t\tStatistiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tLongueur du rayon : 105\n"
+"\t\t\tVitesse du Rayon : 11\n"
+"\n"
+"\t\t\tDommages ioniques par tuile touchée : 1\n"
+"\t\t\tPerforation du bouclier : 10\n"
+"\n"
+"\t\t\tRisque de brèche : 70 %\n"
+"\t\t\tChance d'étourdissement : 100 % (pendant 3 secondes)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 120~/60~"
 
 #: src-en/data/blueprints.xml.append:7775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_PIERCE\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\t\tTemps de charge : 18 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 105\n"
+"\t\t\tVitesse du Rayon : 11\n"
+"\n"
+"\t\t\tDommages ioniques par tuile touchée : 1\n"
+"\t\t\tPerforation du bouclier : 10\n"
+"\t\t\t\n"
+"\t\t\tRisque de brèche : 70 %\n"
+"\t\t\tChance d'étourdissement : 100 % (pendant 3 secondes)"
 
 #: src-en/data/blueprints.xml.append:7831
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/title"
-msgstr ""
+msgstr "Rayon Ancalagon"
 
 #: src-en/data/blueprints.xml.append:7832
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/short"
-msgstr ""
+msgstr "Ancalagon R."
 
 #: src-en/data/blueprints.xml.append:7833
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/desc"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci émet un long rayon qui "
+"provoque lentement la décomposition de tout être vivant touché. Une "
+"étiquette indique \"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:7874
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_BEAM\"]/spawnCrew/name"
-msgstr ""
+msgstr "Cristal anormal"
 
 #: src-en/data/blueprints.xml.append:7913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/title"
-msgstr ""
+msgstr "'HD_Hotfix_26v7' Beam"
 
 #: src-en/data/blueprints.xml.append:7914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/short"
-msgstr ""
+msgstr "'HD_Hotfix_26v7'"
 
 #: src-en/data/blueprints.xml.append:7915
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/desc"
 msgstr ""
+"Une arme expérimentale à rayon ionique anti-harmonie. Elle est conçue pour "
+"infliger des dommages plus importants aux membres d'équipage."
 
 #: src-en/data/blueprints.xml.append:7916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/descriptionOverride"
 msgstr ""
+"Une arme expérimentale à rayon ionique anti-harmonie. Elle est conçue pour "
+"infliger des dommages accrus aux membres d'équipage Engi.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tPuissance requise : 3\n"
+"\t\t\tTemps de charge : 15 secondes\n"
+"\n"
+"\t\t\tLongueur du rayon : 200\n"
+"\t\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\t\tDommages causés par les ions : 2\n"
+"\t\t\tDommages du membre d'équipage contre Engi : ?\n"
+"\t\t\tChance d'étourdissement : 100% (pendant 3 secondes)\n"
+"\n"
+"\t\t\tRisque d'incendie : 30%\n"
+"\t\t\tRisque de brèche : 30%\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 120~/60~"
 
 #: src-en/data/blueprints.xml.append:7934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ION_SPECIAL\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 3\n"
+"\t\tTemps de charge : 15 secondes\n"
+"\n"
+"\t\tLongueur du Rayon : 200\n"
+"\t\tVitesse du Rayon : 5\n"
+"\n"
+"\t\tDommages causés par les ions : 2\n"
+"\t\tDommages du membre d'équipage contre Engi : ?\n"
+"\t\tChance d'étourdissement : 100% (pendant 3 secondes)\n"
+"\n"
+"\t\tRisque d'incendie : 30%\n"
+"\t\tRisque de brèche : 30%"
 
 #: src-en/data/blueprints.xml.append:7992
 msgid ""
@@ -3844,127 +4480,159 @@ msgstr "Rayon 'Éternité'"
 #: src-en/data/blueprints.xml.append:7993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/short"
-msgstr ""
+msgstr "'Éternité' R."
 
 #: src-en/data/blueprints.xml.append:7994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/desc"
-msgstr ""
+msgstr "Il coupe les flottes comme son homologue terrestre coupe l'herbe."
 
 #: src-en/data/blueprints.xml.append:7995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_ETERNITY\"]/tooltip"
 msgstr ""
+"Arme à rayon : inflige 2 dommages à la coque et 3 dommages aux systèmes par "
+"pièce traversée."
 
 #: src-en/data/blueprints.xml.append:8033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' I"
 
 #: src-en/data/blueprints.xml.append:8034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:8035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8036
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8061
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' II"
 
 #: src-en/data/blueprints.xml.append:8062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:8063
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8064
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' III"
 
 #: src-en/data/blueprints.xml.append:8089
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:8090
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8091
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8115
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' IV"
 
 #: src-en/data/blueprints.xml.append:8116
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:8117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' V"
 
 #: src-en/data/blueprints.xml.append:8143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:8144
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8145
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:8170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Ébène'"
 
 #: src-en/data/blueprints.xml.append:8171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_1\"]/short"
-msgstr ""
+msgstr "'Ébène'"
 
 #: src-en/data/blueprints.xml.append:8172
 msgid ""
@@ -5066,16 +5734,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11078
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/desc"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci semble produire une "
+"quantité massive d'énergie, capable de frapper directement le vaisseau "
+"ennemi. Une étiquette indique \"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:11079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/tooltip"
 msgstr ""
+"Une arme forgée à partir de métaux que vous ne parvenez pas à identifier et "
+"de cristaux vibrant d’une énergie anormale. Celle-ci semble produire une "
+"quantité massive d'énergie, capable de frapper directement le vaisseau "
+"ennemi. Une étiquette indique \"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:11096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_AN_DYNAMO\"]/spawnCrew/name"
-msgstr ""
+msgstr "Cristal anormal"
 
 #: src-en/data/blueprints.xml.append:11140
 msgid ""
@@ -5165,7 +5841,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11284
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_HACKER_DRONE\"]/title"
-msgstr ""
+msgstr "Drone de piratage"
 
 #: src-en/data/blueprints.xml.append:11285
 msgid ""
@@ -5176,6 +5852,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_HACKER_DRONE\"]/desc"
 msgstr ""
+"Tire un micro-drone de piratage. Pirate automatiquement la pièce touchée et "
+"étourdit les cibles ennemies qui s'y trouvent pendant 5 secondes."
 
 #: src-en/data/blueprints.xml.append:11303
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[5]/title"
@@ -5203,6 +5881,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_COMBAT_1_LASER\"]/desc"
 msgstr ""
+"Un drone fabriqué à partir de métaux que vous ne parvenez pas à identifier "
+"et de cristaux vibrant d’une énergie anormale. Celui-ci lance une paire de "
+"lasers à fort impact. Une étiquette indique "
+"\"Propriété de la Division Ancalagon.\""
 
 #: src-en/data/blueprints.xml.append:11341
 msgid ""
@@ -5218,6 +5900,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_AN_DEFENSE_3_LASER\"]/desc"
 msgstr ""
+"Un drone fabriqué à partir de métaux que vous ne parvenez pas à identifier "
+"et de cristaux vibrant d’une énergie anormale. Celui-ci lance un barrage de "
+"projectiles défensifs. Une étiquette indique "
+"\"Propriété de la Division Ancalagon.\"\n"
+"\t\t\tRechargement : 115 MS"
 
 #: src-en/data/blueprints.xml.append:11361
 msgid ""
@@ -5476,17 +6163,23 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:11830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:11831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Un lance-flammes grossier qui met le feu aux pièces des vaisseaux. On peut y "
+"lire : \"ATTENTION, SURCHAUFFE FRÉQUENTE\", du moins c'est ce que disait "
+"l'étiquette avant que vous n'arrachiez l'autocollant, vous n'avez pas pu "
+"vous en empêcher. Les gaz spectraux que brûle cette arme se condensent "
+"parfois suffisamment pour engendrer une nouvelle Goule. Ne vous inquiétez "
+"pas."
 
 #: src-en/data/blueprints.xml.append:11914
 msgid ""
@@ -5506,12 +6199,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11930
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/title"
-msgstr ""
+msgstr "Rayon 'Valefor'"
 
 #: src-en/data/blueprints.xml.append:11931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FORGEMAN_DRONE_WEAPON\"]/short"
-msgstr ""
+msgstr "'Valefor' R."
 
 #: src-en/data/blueprints.xml.append:11932
 msgid ""
@@ -5547,6 +6240,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ISHIMURA_DRONE_WEAPON\"]/desc"
 msgstr ""
+"Des rumeurs circulaient au sujet d’un nouveau prototype de laser minier, le "
+"'Zulfiqar Briseur de Planètes', créé par Zulfiqar Industries pour le "
+"percement planétaire. Il semble que ce n’étaient pas que des rumeurs."
 
 #: src-en/data/blueprints.xml.append:12028
 msgid ""
@@ -5737,7 +6433,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12497
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_INVIS\"]/title"
-msgstr ""
+msgstr "Inducteur de Faille 'Absolution'"
 
 #: src-en/data/blueprints.xml.append:12498
 msgid ""
@@ -5782,12 +6478,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:12600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:12601
 msgid ""
@@ -5838,6 +6534,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/tooltip"
 msgstr ""
+"Tire un simple projectile qui occasionne 1 dégât d'ion. Peut toucher et "
+"désactiver les boucliers tout autant que les systèmes."
 
 #: src-en/data/blueprints.xml.append:12762
 msgid ""
@@ -5956,7 +6654,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_PLAYER_ARTY\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:13025
 msgid ""
@@ -6333,12 +7031,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Explosion de l'anomalie 'TLALOC'"
 
 #: src-en/data/blueprints.xml.append:13939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ANOMALY_1_ENEMY\"]/short"
-msgstr ""
+msgstr "'TLALOC'"
 
 #: src-en/data/blueprints.xml.append:13940
 msgid ""
@@ -6353,22 +7051,30 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13982
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/title"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:13983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/short"
-msgstr ""
+msgstr "Dazhbog"
 
 #: src-en/data/blueprints.xml.append:13984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/desc"
 msgstr ""
+"Un lance-flammes grossier qui met le feu aux pièces des vaisseaux. On peut y "
+"lire : \"ATTENTION, SURCHAUFFE FRÉQUENTE\", du moins c'est ce que disait "
+"l'étiquette avant que vous n'arrachiez l'autocollant, vous n'avez pas pu "
+"vous en empêcher. Les gaz spectraux que brûle cette arme se condensent "
+"parfois suffisamment pour engendrer une nouvelle Goule. Ne vous inquiétez "
+"pas."
 
 #: src-en/data/blueprints.xml.append:13985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/tooltip"
 msgstr ""
+"NE PERCE PAS les boucliers et ne les fait pas exploser. Tirer quand les "
+"boucliers de l'ennemi sont baissés et déchaînez l'enfer sur leur vaisseau."
 
 #: src-en/data/blueprints.xml.append:14052
 msgid ""
@@ -6384,11 +7090,20 @@ msgstr "'Désintégrateur'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/desc"
 msgstr ""
+"Les plans originaux de cette arme ont été créés par un scientifique "
+"Coquilles mécontent qui voulait que tout le monde connaisse l'agonie qu'il "
+"ressentait lors de la suffocation. L'énergie de cette arme de phase est "
+"renforcée par des microbes anaérobies qui s'accrochent aux créatures et "
+"drainent l'oxygène tout en corrodant les corps, ce qui permet à tout ce qui "
+"existe de suffoquer."
 
 #: src-en/data/blueprints.xml.append:14056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_PHASER_SUFFOCATION_ENEMY\"]/tooltip"
 msgstr ""
+"Tire un laser ionique perforant qui fait suffoquer les membres d'équipage "
+"touchés, leur inflige 3x plus de dommages dus à la suffocation et draine "
+"très lentement l'oxygène de la pièce"
 
 #: src-en/data/blueprints.xml.append:14122
 msgid ""
@@ -6408,7 +7123,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:14181
 msgid ""
@@ -6428,7 +7143,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_PHOTON_2_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:14240
 msgid ""
@@ -6448,12 +7163,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14243
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_HUMAN_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "TEST"
 
 #: src-en/data/blueprints.xml.append:14320
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/title"
-msgstr ""
+msgstr "Inducteur de Faille 'Absolution'"
 
 #: src-en/data/blueprints.xml.append:14321
 msgid ""
@@ -6473,7 +7188,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_LASER_ION_MEGA_ENEMY\"]/spawnCrew/name"
-msgstr ""
+msgstr "Cristal anormal"
 
 #: src-en/data/blueprints.xml.append:14391
 msgid ""
@@ -6489,11 +7204,15 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/desc"
 msgstr ""
+"Pour le Zoltan meurtrier qui sommeille en chacun de nous. Trion avec une "
+"impulsion enflammée. Se charge notamment un peu plus vite."
 
 #: src-en/data/blueprints.xml.append:14395
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_TRI_FIRE_ENEMY\"]/tooltip"
 msgstr ""
+"Tire un simple projectile qui occasionne 1 dégât d'ion. Peut toucher et "
+"désactiver les boucliers tout autant que les systèmes."
 
 #: src-en/data/blueprints.xml.append:14440
 msgid ""
@@ -6514,6 +7233,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/tooltip"
 msgstr ""
+"Tire un projectile perforant infligeant des dégâts d'ion, de système et de "
+"coque. À craindre. Et en bonus : un étourdissement !"
 
 #: src-en/data/blueprints.xml.append:14484
 msgid ""
@@ -6529,11 +7250,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/desc"
 msgstr ""
+"Bien sûr, vous pourriez les tuer avec un Vulcain ordinaire... mais si vous "
+"les faisiez SOUFFRIR à la place ?"
 
 #: src-en/data/blueprints.xml.append:14488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:14539
 msgid ""
@@ -6569,11 +7292,16 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/desc"
 msgstr ""
+"Des rumeurs circulaient au sujet d’un nouveau prototype de laser minier, le "
+"'Zulfiqar Briseur de Planètes', créé par Zulfiqar Industries pour le "
+"percement planétaire. Il semble que ce n’étaient pas que des rumeurs."
 
 #: src-en/data/blueprints.xml.append:14574
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_MINING_2_ENEMY\"]/tooltip"
 msgstr ""
+"Arme à rayon : inflige 2 dommages à la coque et 3 dommages aux systèmes par "
+"pièce traversée."
 
 #: src-en/data/blueprints.xml.append:14598
 msgid ""
@@ -6589,6 +7317,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_GUILLOTINE_CHAIN_ENEMY\"]/desc"
 msgstr ""
+"Lorsque la Guilde a déclaré qu'elle concevait un rayon qui tue si vite qu'il "
+"serait légal, car personne ne survivrait pour en parler... Ce n'était pas "
+"une blague."
 
 #: src-en/data/blueprints.xml.append:14601
 msgid ""
@@ -6598,12 +7329,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/title"
-msgstr ""
+msgstr "Rayon 'Valefor'"
 
 #: src-en/data/blueprints.xml.append:14636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_BEAM_EXPLOSION_ENEMY\"]/short"
-msgstr ""
+msgstr "'Valefor' R."
 
 #: src-en/data/blueprints.xml.append:14637
 msgid ""
@@ -6638,22 +7369,28 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Parazonium' I"
 
 #: src-en/data/blueprints.xml.append:14749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:14750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_1_ENEMY\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14776
 msgid ""
@@ -6663,17 +7400,23 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:14778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_2_ENEMY\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14803
 msgid ""
@@ -6683,17 +7426,23 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14804
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:14805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14806
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_3_ENEMY\"]/tooltip"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14830
 msgid ""
@@ -6703,12 +7452,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4_ENEMY\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:14832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_4_ENEMY\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14857
 msgid ""
@@ -6718,12 +7470,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14858
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5_ENEMY\"]/short"
-msgstr ""
+msgstr "Parazonium"
 
 #: src-en/data/blueprints.xml.append:14859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_FUELED_5_ENEMY\"]/desc"
 msgstr ""
+"Un Rayon amplifié qui utilise les missiles stockés dans le liquide de "
+"refroidissement de votre soute pour tirer. Peut être recalibré pour extraire "
+"le liquide de refroidissement de plus grandes quantités de missiles !"
 
 #: src-en/data/blueprints.xml.append:14885
 msgid ""
@@ -7243,7 +7998,7 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:16070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"KERNEL_CHAIN_ELITE_ENEMY_ARTY\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:16113
 msgid ""
@@ -7279,11 +8034,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/desc"
 msgstr ""
+"Bien sûr, vous pourriez les tuer avec un Vulcain ordinaire... mais si vous "
+"les faisiez SOUFFRIR à la place ?"
 
 #: src-en/data/blueprints.xml.append:16154
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHAINGUN_ION_SUICIDE\"]/tooltip"
-msgstr ""
+msgstr "Le temps de recharge diminue au fur et à mesure des tirs."
 
 #: src-en/data/blueprints.xml.append:16203
 msgid ""
