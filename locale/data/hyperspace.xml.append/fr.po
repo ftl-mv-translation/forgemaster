@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-29 08:14+0000\n"
+"PO-Revision-Date: 2025-04-10 21:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -768,7 +768,7 @@ msgstr ""
 "CALIBREUR D'ORDONNANCE INEFFABLE :\n"
 "\t\t\t\t\tLes armes ennemies se chargent 10 % plus lentement, mais votre "
 "chance de résistance à la coque, aux systèmes et aux ions est réduite de 15 "
-"% et les attaques de brèche gagnent +40 % de chance de brèche"
+"% et les attaques de brèche gagnent +40 % de risque de brèche"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
