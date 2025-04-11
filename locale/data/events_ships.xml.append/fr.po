@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 10:09+0000\n"
+"PO-Revision-Date: 2025-04-12 10:51+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/fr/>\n"
@@ -1117,8 +1117,8 @@ msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/event/text"
 msgstr ""
 "Cette petite breloque offre 40% de vitesse de guérison et 5% de résistance "
-"aux dommages à tous les membres d'équipage. [L'Augmentation a été "
-"internalisé !]"
+"aux dégâts à tous les membres d'équipage. "
+"[L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1257
 msgid ""
@@ -1773,8 +1773,8 @@ msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/choice/event/text"
 msgstr ""
 "Vos drones gagnent une vitesse de déplacement triplée et un boost de 50 % de "
-"dommage de combat/sabotage et à la vitesse de réparation/extinction. "
-"Cumulable avec d'autres augmentations. [L'Augmentation a été internalisé !]"
+"dégât de combat/sabotage et à la vitesse de réparation/extinction. Cumulable "
+"avec d'autres augmentations. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1907
 msgid ""
