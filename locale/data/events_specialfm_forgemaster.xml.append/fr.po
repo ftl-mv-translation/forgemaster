@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 15:09+0000\n"
+"PO-Revision-Date: 2025-04-12 10:51+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -3355,12 +3355,12 @@ msgstr "Laisser tomber."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3534
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/text"
-msgstr "Vous consultez actuellement l'Aiguillon 'Hemlock'."
+msgstr "Vous consultez actuellement l'Aiguillon 'Ciguë'."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3536
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST_PLUS\"]/text"
-msgstr "Fabriquer l'Aiguillon 'Hemlock'+ en utilisant l'Énergie II+."
+msgstr "Fabriquer l'Aiguillon 'Ciguë'+ en utilisant l'Énergie II+."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3538
 msgid ""
@@ -3375,7 +3375,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:3554
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FOCUS_ENERGY_2\"]/choice[@req=\"FM_FOCUS_ENERGY_2_LIST\"]/text"
-msgstr "Fabriquer l'Aiguillon 'Hemlock' en utilisant l'Énergie II."
+msgstr "Fabriquer l'Aiguillon 'Ciguë' en utilisant l'Énergie II."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:3556
 msgid ""
@@ -7372,8 +7372,8 @@ msgstr ""
 "Alastair est déconcerté par votre demande, \"Êtes-vous sûr, mon garçon ? Je "
 "ne peux pas garantir votre sécurité si nous installons plus de modules...\"\n"
 "\t\t\t\t\t(votre vaisseau sera incendié ou percé de brèches supplémentaires "
-"lorsque vous subirez des dommages et il y a une faible chance que les "
-"dommages entrants soient multipliés (plus grand multiplicateur avec chaque "
+"lorsque vous subirez des dégâts et il y a une faible chance que les dégâts "
+"entrants soient multipliés (plus grand multiplicateur avec chaque "
 "amélioration majeure supplémentaire))"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7801
