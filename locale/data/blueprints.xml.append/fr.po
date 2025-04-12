@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-12 10:51+0000\n"
+"PO-Revision-Date: 2025-04-14 07:59+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -4890,22 +4890,44 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8487
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Érable'"
 
 #: src-en/data/blueprints.xml.append:8488
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/short"
-msgstr ""
+msgstr "'Érable'"
 
 #: src-en/data/blueprints.xml.append:8489
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/desc"
 msgstr ""
+"Une combinaison des technologies énergétique et Aiguillon. N'inflige aucun "
+"dégât au système, mais inflige 2 dégâts ioniques sur une pièce touchée et ne "
+"consomme pas d'énergie. Peut déclencher des incendies."
 
 #: src-en/data/blueprints.xml.append:8490
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/descriptionOverride"
 msgstr ""
+"Une combinaison des technologies énergétique et Aiguillon. N'inflige aucun "
+"dégât au système, mais inflige 2 dégâts ioniques sur une pièce touchée et ne "
+"consomme pas d'énergie. Peut déclencher des incendies.\n"
+"\n"
+"\t\t\tCaractéristiques :\n"
+"\t\t\tNe nécessite pas d'énergie\n"
+"\t\t\tTemps de charge : 14 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 1\n"
+"\t\t\tVitesse du Rayon : 1\n"
+"\n"
+"\t\t\tDégâts de base à la coque : 2\n"
+"\t\t\tDégâts totaux de l'équipage : 30\n"
+"\t\t\tDégâts causés par les ions : 2 (par pièce)\n"
+"\n"
+"\t\t\tRisque d'incendie : 20%\n"
+"\t\t\tChance d'étourdissement : 100% (pendant 3 secondes)\n"
+"\n"
+"\t\t\tPrix d'achat/de vente : 120~/60~"
 
 #: src-en/data/blueprints.xml.append:8508
 msgid ""
@@ -4916,101 +4938,136 @@ msgstr "Arme à rayon infligeant 1 dégât par pièce traversée"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ENERGY_CONS\"]/tooltipOverride"
 msgstr ""
+"Ne nécessite pas d'alimentation\n"
+"\t\t\tTemps de charge : 14 secondes\n"
+"\n"
+"\t\t\tLongueur du Rayon : 1\n"
+"\t\t\tVitesse du Rayon : 1\n"
+"\n"
+"\t\t\tDégâts de base à la coque : 2\n"
+"\t\t\tDégâts totaux de l'équipage : 30\n"
+"\t\t\tDégâts causés par les ions : 2 (par pièce)\n"
+"\n"
+"\t\t\tRisque d'incendie : 20%\n"
+"\t\t\tChance d'étourdissement : 100% (pendant 3 secondes)"
 
 #: src-en/data/blueprints.xml.append:8566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Omiyari'"
 
 #: src-en/data/blueprints.xml.append:8567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/short"
-msgstr ""
+msgstr "'Omiyari'"
 
 #: src-en/data/blueprints.xml.append:8568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/desc"
 msgstr ""
+"Un rayon focal potentiellement capable de vaporiser un vaisseau, s’adaptant "
+"à son environnement. Les dégâts augmentent extrêmement rapidement, "
+"enchaînant 1,25 de dégâts à chaque tir."
 
 #: src-en/data/blueprints.xml.append:8569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_ADAPT\"]/tooltip"
-msgstr ""
+msgstr "Arme à rayons, 1 dégât par pièce."
 
 #: src-en/data/blueprints.xml.append:8597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Aegrotatio'"
 
 #: src-en/data/blueprints.xml.append:8598
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/short"
-msgstr ""
+msgstr "'Aegrotatio'"
 
 #: src-en/data/blueprints.xml.append:8599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/desc"
 msgstr ""
+"Une arme biologique incroyablement instable, développée uniquement par les "
+"scientifiques Coquilles les plus criminellement dérangés. Cette arme infecte "
+"l’équipage avec un virus mortel et contagieux, éliminant progressivement l’"
+"équipage des vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:8600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS\"]/tooltip"
 msgstr ""
+"Attention ! Une erreur de tir de cette arme a déjà anéanti une colonie "
+"entière de Coquilles, alors évitez de tirer trop près de vos frontières."
 
 #: src-en/data/blueprints.xml.append:8647
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//powerEffect[@name=\"fm_virus_pinpoint_virus\"]/buttonText"
-msgstr ""
+msgstr "TOUX"
 
 #: src-en/data/blueprints.xml.append:8648
 msgid ""
 "data/blueprints.xml.append$//powerEffect[@name=\"fm_virus_pinpoint_virus\"]/tooltip"
-msgstr ""
+msgstr "Prêt : remplir la pièce avec ce fichu virus."
 
 #: src-en/data/blueprints.xml.append:8732
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/title"
-msgstr ""
+msgstr "Aiguillon 'Aegrotatio†'"
 
 #: src-en/data/blueprints.xml.append:8733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/short"
-msgstr ""
+msgstr "'Aegrotatio†'"
 
 #: src-en/data/blueprints.xml.append:8734
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/desc"
 msgstr ""
+"Une arme biologique incroyablement instable, développée uniquement par les "
+"scientifiques Coquilles les plus criminellement dérangés. Cette arme infecte "
+"l’équipage avec un virus mortel et contagieux, éliminant progressivement l’"
+"équipage des vaisseaux ennemis."
 
 #: src-en/data/blueprints.xml.append:8735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FOCUS_VIRUS_PLAYER\"]/tooltip"
 msgstr ""
+"Attention ! Une erreur de tir de cette arme a déjà anéanti une colonie "
+"entière de Coquilles, alors évitez de tirer trop près de vos frontières."
 
 #: src-en/data/blueprints.xml.append:8786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/title"
-msgstr ""
+msgstr "Nanorayon cristallisé"
 
 #: src-en/data/blueprints.xml.append:8787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/short"
-msgstr ""
+msgstr "Nanorayon C."
 
 #: src-en/data/blueprints.xml.append:8788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/desc"
 msgstr ""
+"Fruit de la science Cristalienne, cette arme utilise d’étranges nanobots "
+"cristallisés pour piéger vos adversaires, forçant tous les membres d’"
+"équipage ennemis du vaisseau adverse à verrouiller la pièce dans laquelle "
+"ils se trouvent."
 
 #: src-en/data/blueprints.xml.append:8789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM\"]/tooltip"
 msgstr ""
+"Arme à rayon qui endommage considérablement l'équipage ennemi. Elle "
+"étourdit, transperce les boucliers et déclenche des incendies. Extrêmement "
+"chère, mais excellente pour tuer l'équipage."
 
 #: src-en/data/blueprints.xml.append:8867
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CRYSTAL_BEAM_LASER\"]/title"
-msgstr ""
+msgstr "Laser de verrouillage"
 
 #: src-en/data/blueprints.xml.append:8868
 msgid ""
@@ -5025,62 +5082,83 @@ msgstr "Si elle vous frappe, vous êtes déjà mort."
 #: src-en/data/blueprints.xml.append:8912
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/title"
-msgstr ""
+msgstr "Générateur d'anomalies 'KHEIMON'"
 
 #: src-en/data/blueprints.xml.append:8913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/short"
-msgstr ""
+msgstr "'KHEIMON'"
 
 #: src-en/data/blueprints.xml.append:8914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/desc"
 msgstr ""
+"En utilisant la technologie du Givre pour refroidir des débris spatiaux "
+"radioactifs à une température inférieure au zéro absolu, il devient possible "
+"de déstabiliser le tissu de l’espace-temps sous forme de projectiles faciles "
+"à tirer."
 
 #: src-en/data/blueprints.xml.append:8915
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY\"]/tooltip"
 msgstr ""
+"Les projectiles infligent 1 dégât aux systèmes, traversent 3 boucliers, "
+"verrouillent les pièces et ont une chance d’incendier ou de perforer n’"
+"importe quelle salle. Le Chaos se déchaîne sur le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:8956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/title"
-msgstr ""
+msgstr "Générateur d'anomalies 'KHEIMON†'"
 
 #: src-en/data/blueprints.xml.append:8957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/short"
-msgstr ""
+msgstr "'KHEIMON†'"
 
 #: src-en/data/blueprints.xml.append:8958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/desc"
 msgstr ""
+"En utilisant la technologie du Givre pour refroidir des débris spatiaux "
+"radioactifs à une température inférieure au zéro absolu, il devient possible "
+"de déstabiliser le tissu de l’espace-temps sous forme de projectiles faciles "
+"à tirer."
 
 #: src-en/data/blueprints.xml.append:8959
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_PLAYER\"]/tooltip"
 msgstr ""
+"Les projectiles infligent 1 dégât aux systèmes, traversent 3 boucliers, "
+"verrouillent les pièces et ont une chance d’incendier ou de perforer n’"
+"importe quelle salle. Le Chaos se déchaîne sur le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:9001
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/title"
-msgstr ""
+msgstr "Générateur d'anomalies 'KHEIMON††'"
 
 #: src-en/data/blueprints.xml.append:9002
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/short"
-msgstr ""
+msgstr "'KHEIMON††'"
 
 #: src-en/data/blueprints.xml.append:9003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/desc"
 msgstr ""
+"En utilisant la technologie du Givre pour refroidir des débris spatiaux "
+"radioactifs à une température inférieure au zéro absolu, il devient possible "
+"de déstabiliser le tissu de l’espace-temps sous forme de projectiles faciles "
+"à tirer."
 
 #: src-en/data/blueprints.xml.append:9004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_MEGA\"]/tooltip"
 msgstr ""
+"Les projectiles infligent 1 dégât aux systèmes, traversent 3 boucliers, "
+"verrouillent les pièces et ont une chance d’incendier ou de perforer n’"
+"importe quelle salle. Le Chaos se déchaîne sur le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:9046
 msgid ""
@@ -5096,171 +5174,207 @@ msgstr "F. Étherique"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/desc"
 msgstr ""
+"Version prototype d'une arme Flak Obélisque qui n'a jamais dépassé la phase "
+"de test. Tire des rafales dévastatrices de débris anciens."
 
 #: src-en/data/blueprints.xml.append:9049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_AETHER\"]/tooltip"
 msgstr ""
+"Version prototype d'une arme Flak Obélisque qui n'a jamais dépassé la phase "
+"de test. Tire des rafales dévastatrices de débris anciens."
 
 #: src-en/data/blueprints.xml.append:9094
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/title"
-msgstr ""
+msgstr "Flak de bronze"
 
 #: src-en/data/blueprints.xml.append:9095
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/short"
-msgstr ""
+msgstr "Bronze F."
 
 #: src-en/data/blueprints.xml.append:9096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/desc"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9140
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/title"
-msgstr ""
+msgstr "Flak d'indium"
 
 #: src-en/data/blueprints.xml.append:9141
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/short"
-msgstr ""
+msgstr "Indium F."
 
 #: src-en/data/blueprints.xml.append:9142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/desc"
 msgstr ""
+"Une arme Flak métallique plus lourde, infusée de cristaux, qui tire des "
+"projectiles supplémentaires. Peut-être pourriez-vous la rendre encore plus "
+"dense ?"
 
 #: src-en/data/blueprints.xml.append:9143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique plus lourde, infusée de cristaux, qui tire des "
+"projectiles supplémentaires. Peut-être pourriez-vous la rendre encore plus "
+"dense ?"
 
 #: src-en/data/blueprints.xml.append:9186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/title"
-msgstr ""
+msgstr "Flak de Rhénium"
 
 #: src-en/data/blueprints.xml.append:9187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/short"
-msgstr ""
+msgstr "Rhénium F."
 
 #: src-en/data/blueprints.xml.append:9188
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Peut-être pourriez-vous la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Peut-être pourriez-vous la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9233
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/title"
-msgstr ""
+msgstr "Flak d'Argent"
 
 #: src-en/data/blueprints.xml.append:9234
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/short"
-msgstr ""
+msgstr "Argent F."
 
 #: src-en/data/blueprints.xml.append:9235
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Vous pourriez peut-être la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9236
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Vous pourriez peut-être la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/title"
-msgstr ""
+msgstr "Flak de Palladium"
 
 #: src-en/data/blueprints.xml.append:9281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/short"
-msgstr ""
+msgstr "Palladium F."
 
 #: src-en/data/blueprints.xml.append:9282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/desc"
 msgstr ""
+"Celle-ci est de plus en plus difficile à soulever. Cela ne vous arrêtera pas."
 
 #: src-en/data/blueprints.xml.append:9283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM\"]/tooltip"
 msgstr ""
+"Celle-ci est de plus en plus difficile à soulever. Cela ne vous arrêtera pas."
 
 #: src-en/data/blueprints.xml.append:9327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/title"
-msgstr ""
+msgstr "Flak d'Iridium"
 
 #: src-en/data/blueprints.xml.append:9328
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/short"
-msgstr ""
+msgstr "Iridium F."
 
 #: src-en/data/blueprints.xml.append:9329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/desc"
 msgstr ""
+"Votre membre d'équipage gémit bruyamment lorsque vous essayez de "
+"l'installer. Même dans l'espace, il est presque impossible de déplacer cette "
+"chose en raison de sa densité monstrueuse."
 
 #: src-en/data/blueprints.xml.append:9330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM\"]/tooltip"
 msgstr ""
+"Votre membre d'équipage gémit bruyamment lorsque vous essayez de "
+"l'installer. Même dans l'espace, il est presque impossible de déplacer cette "
+"chose en raison de sa densité monstrueuse."
 
 #: src-en/data/blueprints.xml.append:9374
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/title"
-msgstr ""
+msgstr "Flak de Platine"
 
 #: src-en/data/blueprints.xml.append:9375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/short"
-msgstr ""
+msgstr "Platine F."
 
 #: src-en/data/blueprints.xml.append:9376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/desc"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:9377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM\"]/tooltip"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:9421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/title"
-msgstr ""
+msgstr "Flak d'Osmium"
 
 #: src-en/data/blueprints.xml.append:9422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/short"
-msgstr ""
+msgstr "Osmium F."
 
 #: src-en/data/blueprints.xml.append:9423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/desc"
-msgstr ""
+msgstr "Nan, j'en ai trouvé une plus lourde."
 
 #: src-en/data/blueprints.xml.append:9424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM\"]/tooltip"
-msgstr ""
+msgstr "Nan, j'en ai trouvé une plus lourde."
 
 #: src-en/data/blueprints.xml.append:9468
 msgid ""
@@ -5276,71 +5390,85 @@ msgstr "F. nobélienne."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/desc"
 msgstr ""
+"Vous commencez à vous endormir en pensant à cette Flak. C'est tellement "
+"lourd que l'IDÉE de l'utiliser vous rend la tête lourde."
 
 #: src-en/data/blueprints.xml.append:9471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM\"]/tooltip"
 msgstr ""
+"Vous commencez à vous endormir en pensant à cette Flak. C'est tellement "
+"lourd que l'IDÉE de l'utiliser vous rend la tête lourde."
 
 #: src-en/data/blueprints.xml.append:9515
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/title"
-msgstr ""
+msgstr "Flak Hassium"
 
 #: src-en/data/blueprints.xml.append:9516
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/short"
-msgstr ""
+msgstr "Hassium F."
 
 #: src-en/data/blueprints.xml.append:9517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/desc"
-msgstr ""
+msgstr "Le gros calibre. Le plus lourd des costauds. Écrase-les."
 
 #: src-en/data/blueprints.xml.append:9518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM\"]/tooltip"
-msgstr ""
+msgstr "Le gros calibre. Le plus lourd des costauds. Écrase-les."
 
 #: src-en/data/blueprints.xml.append:9563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak de bronze†"
 
 #: src-en/data/blueprints.xml.append:9564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/short"
-msgstr ""
+msgstr "Bronze† F."
 
 #: src-en/data/blueprints.xml.append:9565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/desc"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9566
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_PLAYER\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak d'indium†"
 
 #: src-en/data/blueprints.xml.append:9610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Indium† F."
 
 #: src-en/data/blueprints.xml.append:9611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/desc"
 msgstr ""
+"Une arme Flak métallique plus lourde, infusée de cristaux, qui tire des "
+"projectiles supplémentaires. Peut-être pourriez-vous la rendre encore plus "
+"dense ?"
 
 #: src-en/data/blueprints.xml.append:9612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_INDIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique plus lourde, infusée de cristaux, qui tire des "
+"projectiles supplémentaires. Peut-être pourriez-vous la rendre encore plus "
+"dense ?"
 
 #: src-en/data/blueprints.xml.append:9655
 msgid ""
@@ -5356,11 +5484,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Peut-être pourriez-vous la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Peut-être pourriez-vous la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9702
 msgid ""
@@ -5376,11 +5510,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Vous pourriez peut-être la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Vous pourriez peut-être la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:9749
 msgid ""
@@ -5396,11 +5536,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/desc"
 msgstr ""
+"Celle-ci est de plus en plus difficile à soulever. Cela ne vous arrêtera pas."
 
 #: src-en/data/blueprints.xml.append:9752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Celle-ci est de plus en plus difficile à soulever. Cela ne vous arrêtera pas."
 
 #: src-en/data/blueprints.xml.append:9796
 msgid ""
@@ -5416,11 +5558,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/desc"
 msgstr ""
+"Votre membre d'équipage gémit bruyamment lorsque vous essayez de "
+"l'installer. Même dans l'espace, il est presque impossible de déplacer cette "
+"chose en raison de sa densité monstrueuse."
 
 #: src-en/data/blueprints.xml.append:9799
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Votre membre d'équipage gémit bruyamment lorsque vous essayez de "
+"l'installer. Même dans l'espace, il est presque impossible de déplacer cette "
+"chose en raison de sa densité monstrueuse."
 
 #: src-en/data/blueprints.xml.append:9843
 msgid ""
@@ -5436,11 +5584,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/desc"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:9846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_PLAYER\"]/tooltip"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:9890
 msgid ""
@@ -5455,12 +5605,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Nan, j'en ai trouvé une plus lourde."
 
 #: src-en/data/blueprints.xml.append:9893
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Nan, j'en ai trouvé une plus lourde."
 
 #: src-en/data/blueprints.xml.append:9937
 msgid ""
@@ -5476,11 +5626,15 @@ msgstr "F. nobélienne.†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/desc"
 msgstr ""
+"Vous commencez à vous endormir en pensant à cette Flak. C'est tellement "
+"lourd que l'IDÉE de l'utiliser vous rend la tête lourde."
 
 #: src-en/data/blueprints.xml.append:9940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_PLAYER\"]/tooltip"
 msgstr ""
+"Vous commencez à vous endormir en pensant à cette Flak. C'est tellement "
+"lourd que l'IDÉE de l'utiliser vous rend la tête lourde."
 
 #: src-en/data/blueprints.xml.append:9984
 msgid ""
@@ -5495,12 +5649,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/desc"
-msgstr ""
+msgstr "Le gros calibre. Le plus lourd des costauds. Écrase-les."
 
 #: src-en/data/blueprints.xml.append:9987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_PLAYER\"]/tooltip"
-msgstr ""
+msgstr "Le gros calibre. Le plus lourd des costauds. Écrase-les."
 
 #: src-en/data/blueprints.xml.append:10035
 msgid ""
@@ -7709,11 +7863,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/desc"
 msgstr ""
+"En utilisant la technologie du Givre pour refroidir des débris spatiaux "
+"radioactifs à une température inférieure au zéro absolu, il devient possible "
+"de déstabiliser le tissu de l’espace-temps sous forme de projectiles faciles "
+"à tirer."
 
 #: src-en/data/blueprints.xml.append:14986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_ANOMALY_ENEMY\"]/tooltip"
 msgstr ""
+"Les projectiles infligent 1 dégât aux systèmes, traversent 3 boucliers, "
+"verrouillent les pièces et ont une chance d’incendier ou de perforer n’"
+"importe quelle salle. Le Chaos se déchaîne sur le vaisseau ennemi."
 
 #: src-en/data/blueprints.xml.append:15029
 msgid ""
@@ -7733,22 +7894,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15078
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak de bronze"
 
 #: src-en/data/blueprints.xml.append:15079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/short"
-msgstr ""
+msgstr "Bronze F."
 
 #: src-en/data/blueprints.xml.append:15080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/desc"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_BRONZE_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15124
 msgid ""
@@ -7768,47 +7933,57 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak de Rhénium"
 
 #: src-en/data/blueprints.xml.append:15172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Rhénium F."
 
 #: src-en/data/blueprints.xml.append:15173
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Peut-être pourriez-vous la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15174
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak d'Argent"
 
 #: src-en/data/blueprints.xml.append:15219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/short"
-msgstr ""
+msgstr "Argent F."
 
 #: src-en/data/blueprints.xml.append:15220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/desc"
 msgstr ""
+"Une arme Flak métallique encore plus lourde, infusée de cristaux, qui tire "
+"des projectiles supplémentaires. Vous pourriez peut-être la rendre encore "
+"plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15221
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak de Palladium"
 
 #: src-en/data/blueprints.xml.append:15266
 msgid ""
@@ -7819,6 +7994,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_ENEMY\"]/desc"
 msgstr ""
+"Celle-ci est de plus en plus difficile à soulever. Cela ne vous arrêtera pas."
 
 #: src-en/data/blueprints.xml.append:15313
 msgid ""
@@ -7834,51 +8010,60 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/desc"
 msgstr ""
+"Votre membre d'équipage gémit bruyamment lorsque vous essayez de "
+"l'installer. Même dans l'espace, il est presque impossible de déplacer cette "
+"chose en raison de sa densité monstrueuse."
 
 #: src-en/data/blueprints.xml.append:15316
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak de Platine"
 
 #: src-en/data/blueprints.xml.append:15361
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Platine F."
 
 #: src-en/data/blueprints.xml.append:15362
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/desc"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:15363
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PLATINUM_ENEMY\"]/tooltip"
 msgstr ""
+"Vous êtes presque sûr qu'il s'agit de l'arme la plus lourde jamais fabriquée."
 
 #: src-en/data/blueprints.xml.append:15407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/title"
-msgstr ""
+msgstr "Flak d'Osmium"
 
 #: src-en/data/blueprints.xml.append:15408
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Osmium F."
 
 #: src-en/data/blueprints.xml.append:15409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Nan, j'en ai trouvé une plus lourde."
 
 #: src-en/data/blueprints.xml.append:15410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_OSMIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15454
 msgid ""
@@ -7894,6 +8079,8 @@ msgstr "F. nobélienne."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_NOBELIUM_ENEMY\"]/desc"
 msgstr ""
+"Vous commencez à vous endormir en pensant à cette Flak. C'est tellement "
+"lourd que l'IDÉE de l'utiliser vous rend la tête lourde."
 
 #: src-en/data/blueprints.xml.append:15501
 msgid ""
@@ -7903,17 +8090,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/short"
-msgstr ""
+msgstr "Hassium F."
 
 #: src-en/data/blueprints.xml.append:15503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/desc"
-msgstr ""
+msgstr "Le gros calibre. Le plus lourd des costauds. Écrase-les."
 
 #: src-en/data/blueprints.xml.append:15504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_HASSIUM_ENEMY\"]/tooltip"
 msgstr ""
+"Une arme Flak métallique lourde, forgée avec des cristaux. Peut-être "
+"pourriez-vous la rendre plus dense ?"
 
 #: src-en/data/blueprints.xml.append:15555
 msgid ""
