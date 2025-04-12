@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-12 10:51+0000\n"
+"PO-Revision-Date: 2025-04-14 07:59+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -2139,7 +2139,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_UPGRADE\"]/choice[@req=\"FM_SHOTGUN_BRONZE_LIST_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Vous avez besoin d'une arme de ligne Flak en bronze de niveau 1--->niveau 9 "
+"Vous avez besoin d'une arme de ligne Flak de bronze de niveau 1--->niveau 9 "
 "pour continuer"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2164
