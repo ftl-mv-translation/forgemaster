@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"PO-Revision-Date: 2025-04-14 13:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -5473,12 +5473,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak de Rhénium†"
 
 #: src-en/data/blueprints.xml.append:9656
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_RHENIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Rhenium† F."
 
 #: src-en/data/blueprints.xml.append:9657
 msgid ""
@@ -5499,12 +5499,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak d'argent†"
 
 #: src-en/data/blueprints.xml.append:9703
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_SILVER_PLAYER\"]/short"
-msgstr ""
+msgstr "Argent† F."
 
 #: src-en/data/blueprints.xml.append:9704
 msgid ""
@@ -5525,12 +5525,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak de Palladium†"
 
 #: src-en/data/blueprints.xml.append:9750
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_PALLADIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Palladium† F."
 
 #: src-en/data/blueprints.xml.append:9751
 msgid ""
@@ -5547,12 +5547,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/title"
-msgstr ""
+msgstr "Flak d'Iridium†"
 
 #: src-en/data/blueprints.xml.append:9797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SHOTGUN_IRIDIUM_PLAYER\"]/short"
-msgstr ""
+msgstr "Iridium† F."
 
 #: src-en/data/blueprints.xml.append:9798
 msgid ""
