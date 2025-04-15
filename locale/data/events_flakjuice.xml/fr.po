@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:09+0000\n"
+"PO-Revision-Date: 2025-04-15 21:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -7455,7 +7455,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5939
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_HATCH\"]/text"
-msgstr "Échanger un Canon à clones [Bébé Araig] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Araignée Juvénile] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5941
 msgid ""
