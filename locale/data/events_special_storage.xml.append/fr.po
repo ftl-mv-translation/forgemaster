@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"PO-Revision-Date: 2025-04-15 21:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -868,7 +868,7 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Charger la ferraille dans un lance-mines et l'énergiser avec l'arme à "
-"énergie Hullbuster pour forger le disque énergisé TARANIS."
+"énergie Démolition de Coque pour forger le disque énergisé TARANIS."
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
@@ -876,7 +876,7 @@ msgid ""
 " and @lvl=\"0\"]/text"
 msgstr ""
 "Vous devez disposer d'un lance-mines de base et d'une arme à énergie "
-"Hullbuster pour forger cette arme."
+"Démolition de Coque pour forger cette arme."
 
 #: src-en/data/events_special_storage.xml.append:1002
 msgid ""
@@ -1780,7 +1780,7 @@ msgstr "Vous consultez actuellement le Laser Anomalie 'TLALOC'."
 #: src-en/data/events_special_storage.xml.append:1689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_LASER_ANOMALY_1\"]/choice[@req=\"FM_LASER_ANOMALY_1_LIST\"]/text"
-msgstr "Fabriquer le Laser Anomalie \"TLALOC"
+msgstr "Fabriquer le Laser Anomalie 'TLALOC'"
 
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
@@ -2699,7 +2699,7 @@ msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 #: src-en/data/events_special_storage.xml.append:2561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST\"]/text"
-msgstr "Nourrir les Robotueurs pour créer le Rayon Menaulion ?"
+msgstr "Nourrir les Robotueurs pour créer le Rayon Ménaulion ?"
 
 #: src-en/data/events_special_storage.xml.append:2563
 msgid ""
@@ -2749,7 +2749,7 @@ msgstr "Félicitations ! Amusez-vous bien à tout massacrer."
 #: src-en/data/events_special_storage.xml.append:2613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_BEAM_GUILLOTINE_CHAIN\"]/choice[@req=\"FM_BEAM_GUILLOTINE_CHAIN_LIST_3\"]/text"
-msgstr "Rayonner les Robotueurs internalisés pour créer le Rayon Menaulion ?"
+msgstr "Rayonner les Robotueurs internalisés pour créer le Rayon Ménaulion ?"
 
 #: src-en/data/events_special_storage.xml.append:2615
 msgid ""
@@ -4496,7 +4496,7 @@ msgstr "Vous consultez actuellement le Drone de Bataille MFK Kestrel."
 #: src-en/data/events_special_storage.xml.append:4461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_MFK_KESTREL_DRONE\"]/choice[@req=\"FM_MFK_KESTREL_DRONE_LIST\"]/text"
-msgstr "Fabriquer le Drone MFK Kestrel."
+msgstr "Fabriquer le Drone Kestrel MFK."
 
 #: src-en/data/events_special_storage.xml.append:4463
 msgid ""
@@ -4966,7 +4966,7 @@ msgid ""
 "append:choice[23]/text"
 msgstr ""
 "(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
-"[Mode actuel : sans étui, 1 puissance]"
+"[Mode actuel : Sans Douille, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4839
 msgid ""
