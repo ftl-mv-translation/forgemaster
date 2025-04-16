@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-15 21:02+0000\n"
+"PO-Revision-Date: 2025-04-16 22:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -11047,7 +11047,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18882
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_FORTIFIED\"]/title"
-msgstr "Plaquage fortifié"
+msgstr "Blindage Renforcé"
 
 #: src-en/data/blueprints.xml.append:18883
 msgid ""
@@ -11077,7 +11077,7 @@ msgstr "-10% de résistance aux brèches"
 #: src-en/data/blueprints.xml.append:18906
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_NO_FIRE\"]/title"
-msgstr "Répulsif contre le feu"
+msgstr "Répulsif de feu"
 
 #: src-en/data/blueprints.xml.append:18907
 msgid ""
@@ -11120,7 +11120,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_AERO\"]/title"
-msgstr "Aérosols d'inspiration"
+msgstr "Aérosols inspirant"
 
 #: src-en/data/blueprints.xml.append:18939
 msgid ""
@@ -11145,7 +11145,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18954
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SCRAP\"]/title"
-msgstr "Module magnétique de Ferraille"
+msgstr "Module d'Aimant de collecte"
 
 #: src-en/data/blueprints.xml.append:18955
 msgid ""
@@ -11168,7 +11168,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18971
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_VENGEANCE2\"]/title"
-msgstr "Cultivateur Protège-coque crystalline"
+msgstr "Cultivateur Protège-coque Crystalien"
 
 #: src-en/data/blueprints.xml.append:18972
 msgid ""
@@ -11586,7 +11586,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:19287
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FM_MODULAR_HULL_SALT\"]/title"
-msgstr "Corps de Coque Saline"
+msgstr "Coque Saline"
 
 #: src-en/data/blueprints.xml.append:19288
 msgid ""
