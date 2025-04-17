@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-18 18:20+0000\n"
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_mechanicalxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_mechanical.xml.append:27
 msgid ""
@@ -33,13 +33,11 @@ msgid ""
 msgstr "Perturbateur actif"
 
 #: src-en/data/events_special_mechanical.xml.append:67
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/text"
 msgstr "ENFONCER"
 
 #: src-en/data/events_special_mechanical.xml.append:69
-#, fuzzy
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/tooltip"
 msgstr "Appuyer pour enfoncer"
