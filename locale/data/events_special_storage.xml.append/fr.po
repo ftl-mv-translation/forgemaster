@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-15 21:02+0000\n"
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -7768,7 +7768,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[42]/text"
-msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule."
+msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule"
 
 #: src-en/data/events_special_storage.xml.append:7208
 msgid ""
@@ -8062,7 +8062,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[63]/text"
-msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule."
+msgstr "Crépusculeur Déformé B - Donne des Vestes du Crépuscule"
 
 #: src-en/data/events_special_storage.xml.append:7421
 msgid ""
@@ -11671,7 +11671,6 @@ msgstr ""
 "se calme et commence à aider son frère à réparer."
 
 #: src-en/data/events_special_storage.xml.append:10050
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TEXT_CREW_TALK_ENGI_TWINS\"]/text[3]"
 msgstr ""
