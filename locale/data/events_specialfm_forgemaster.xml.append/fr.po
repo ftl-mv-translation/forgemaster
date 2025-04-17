@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"PO-Revision-Date: 2025-04-18 17:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -8041,7 +8041,7 @@ msgstr "Quel type de module souhaitez-vous installer ?"
 #: src-en/data/events_specialfm_forgemaster.xml.append:7933
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_MAIN\"]/choice[1]/text"
-msgstr "Installer des modules à l'échelle du vaisseau"
+msgstr "Installer des modules de vaisseau"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7939
 msgid ""
@@ -8303,8 +8303,8 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_NO_FIRE\"]/text"
 msgstr ""
-"Installer le Répulsif de feu ? [supprime 10% des risques d'incendie des "
-"attaques ennemies, 5 peuvent être installés, utilise 1 cran d'amélioration]"
+"Installer le Répulsif de feu ? [supprime 10% des Chances de feu des attaques "
+"ennemies, 5 peuvent être installés, utilise 1 cran d'amélioration]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8191
 msgid ""
@@ -11473,61 +11473,66 @@ msgstr "Module de systèmes encastrés(x10) [+100% de résistance des systèmes]
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"1\"]/text"
-msgstr "Module Répulsif de brèche [-10% de risque de brèche ennemi]"
+msgstr ""
+"Module Répulsif de brèche [-10% de Chances de trou dans la coque ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10704
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"2\"]/text"
-msgstr "Module Répulsif de brèche(x2) [-20% de risque de brèche ennemi]"
+msgstr ""
+"Module Répulsif de brèche(x2) [-20% de Chances de trou dans la coque ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10708
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"3\"]/text"
-msgstr "Module Répulsif de brèche(x3) [-30% de risque de brèche ennemi]"
+msgstr ""
+"Module Répulsif de brèche(x3) [-30% de Chances de trou dans la coque ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10712
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"4\"]/text"
-msgstr "Module Répulsif de brèche(x4) [-40% de risque de brèche ennemi]"
+msgstr ""
+"Module Répulsif de brèche(x4) [-40% de Chances de trou dans la coque ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10716
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_BREACH\""
 " and @lvl=\"5\"]/text"
-msgstr "Module Répulsif de brèche(x5) [-50% de risque de brèche ennemi]"
+msgstr ""
+"Module Répulsif de brèche(x5) [-50% de Chances de trou dans la coque ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10721
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"1\"]/text"
-msgstr "Module répulsif de feu [-10% de risque d'incendie ennemi]"
+msgstr "Module répulsif de feu [-10% de Chances de feu ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10725
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"2\"]/text"
-msgstr "Module répulsif de feu(x2) [-20% de risque d'incendie ennemi]"
+msgstr "Module répulsif de feu(x2) [-20% de Chances de feu ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10729
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"3\"]/text"
-msgstr "Module répulsif de feu(x3) [-30% de risque d'incendie ennemi]"
+msgstr "Module répulsif de feu(x3) [-30% de Chances de feu ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10733
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"4\"]/text"
-msgstr "Module répulsif de feu(x4) [-40% de risque d'incendie ennemi]"
+msgstr "Module répulsif de feu(x4) [-40% de Chances de feu ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10737
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_NO_FIRE\""
 " and @lvl=\"5\"]/text"
-msgstr "Module répulsif de feu(x5) [-50% de risque d'incendie ennemi]"
+msgstr "Module répulsif de feu(x5) [-50% de Chances de feu ennemi]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10742
 msgid ""
