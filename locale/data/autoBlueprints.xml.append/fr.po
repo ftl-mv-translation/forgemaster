@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-07 15:09+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"Last-Translator: Ocidox <ocidoxofficial@gmail.com>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataautoblueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -40,7 +40,7 @@ msgstr "Requin de Dette Clairvoyant"
 #: src-en/data/autoBlueprints.xml.append:177
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_GUNHYDRA_ENEMY\"]/class"
-msgstr "GunBomination"
+msgstr "Arm'Bomination"
 
 #: src-en/data/autoBlueprints.xml.append:217
 msgid ""
