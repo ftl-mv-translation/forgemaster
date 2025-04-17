@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-09 21:03+0000\n"
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/fr/>\n"
@@ -37,7 +37,7 @@ msgstr "Battre le forgeron légendaire pour débloquer ce vaisseau."
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_class\"]"
-msgstr "GunBomination"
+msgstr "Arm'Bomination"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
@@ -61,7 +61,7 @@ msgstr "Sauver un vieil ami du forgeron d'une lourde dette."
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_class\"]"
-msgstr "GunBomination"
+msgstr "Arm'Bomination"
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
@@ -86,7 +86,7 @@ msgstr "Aider quelques limaces à réclamer une lourde dette."
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_class\"]"
-msgstr "GunBomination"
+msgstr "Arm'Bomination"
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
@@ -110,7 +110,7 @@ msgstr "Déverrouiller les Gunbomination A et B."
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_class\"]"
-msgstr "GunBomination II"
+msgstr "Arm'Bomination II"
 
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
@@ -134,7 +134,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_class\"]"
-msgstr "GunBomination II"
+msgstr "Arm'Bomination II"
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
@@ -160,12 +160,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:42
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_class\"]"
-msgstr "GunBomination III"
+msgstr "Arm'Bomination III"
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_name\"]"
-msgstr "GunBom Anti-Harmonie"
+msgstr "Arm'Bom Anti-Harmonie"
 
 #: src-en/data/text_blueprints.xml.append:44
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:51
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_GUNHYDRA_ENEMY_class\"]"
-msgstr "GunBomination Ennemi"
+msgstr "Arm'Bomination Ennemi"
 
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
