@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-16 22:02+0000\n"
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -1213,7 +1213,7 @@ msgstr "Vérifier les recettes de forge."
 #: src-en/data/events_specialfm_forgemaster.xml.append:944
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr "Parcourir sa collection de reliques. [Quête disponible!]"
+msgstr "Parcourir sa collection de reliques. [Quête disponible !]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:951
 msgid ""
@@ -1270,7 +1270,7 @@ msgstr "Vérifier les recettes de forge."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1018
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_PHONE_EVENT_GIFT\"]/choice[@req=\"FM_QUEST_LIST\"]/text"
-msgstr "Parcourir sa collection de reliques. [Quête disponible!]"
+msgstr "Parcourir sa collection de reliques. [Quête disponible !]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1025
 msgid ""
@@ -1445,7 +1445,7 @@ msgstr "Vérifier les recettes de forge."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1166
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_ATTACK_SECOND\"]/choice[2]/event/choice[3]/text"
-msgstr "Consulter la section \"Coque modulaire\" en sortant."
+msgstr "Consulter la section \"Coque modulaire\" avant de partir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1173
 msgid ""
@@ -1511,7 +1511,7 @@ msgstr "Vérifier les recettes de forge."
 #: src-en/data/events_specialfm_forgemaster.xml.append:1247
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SECOND_PROMPT\"]/choice[3]/text"
-msgstr "Consulter la section \"Coque modulaire\" en sortant."
+msgstr "Consulter la section \"Coque modulaire\" avant de partir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1255
 msgid ""
@@ -7949,8 +7949,8 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL\"]/text"
 msgstr ""
 "Souhaitez-vous installer votre propre coque modulaire ? [5% de résistance "
-"aux dégâts de la coque, permet d'installer d'autres améliorations. "
-"Verrouillé, donc pas de remboursement !]"
+"aux dégâts de la coque, permet d'installer d'autres améliorations. Vente "
+"définitive, donc pas de remboursement !]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7849
 msgid ""
@@ -7994,7 +7994,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_INSTALL_LITE\"]/text"
 msgstr ""
 "Souhaitez-vous installer votre propre coque modulaire ? [Permet d'installer "
-"d'autres améliorations. Verrouillé, donc pas de remboursement !]"
+"d'autres améliorations. Vente définitive, donc pas de remboursement !]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7890
 msgid ""
@@ -8287,7 +8287,7 @@ msgstr "Installer le Répulsif de brèche."
 #: src-en/data/events_specialfm_forgemaster.xml.append:8167
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_NO_BREACH\"]/choice[1]/event/text"
-msgstr "Le Répulsif de brèche a été installé."
+msgstr "Le Répulsif de brèche a été installé !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8174
 msgid ""
@@ -10761,12 +10761,12 @@ msgid ""
 msgstr ""
 "Installer les Décorations de Coque Non Officielles ? [toutes les "
 "statistiques bénéfiques de l'équipage augmentent de +30 %, 50 % de chances "
-"de subir 1 dégât supplémentaire sur la coque]."
+"de subir 1 dégât supplémentaire sur la coque]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10132
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_CAPSTONE_MURAL\"]/choice[1]/text"
-msgstr "Peindre les Décorations de Coque Non Officielles"
+msgstr "Peindre les Décorations de Coque Non Officielles."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10134
 msgid ""
@@ -11142,7 +11142,7 @@ msgid ""
 msgstr ""
 "Installer le Rayon de Fréquences de phase ? [-10% de vitesse de "
 "rechargement, +1 percée du bouclier pour les armes à rayon (et les drones à "
-"rayon)]."
+"rayon)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10478
 msgid ""
@@ -11213,7 +11213,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\"]/text"
 msgstr ""
 "Matrices de Liaison d’Armes [-40% de recharge d'arme, +25% de dmg d'équipage "
-"et -5% de dmg d'équipage par puissance d'arme]."
+"et -5% de dmg d'équipage par puissance d'arme]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10536
 msgid ""
@@ -11236,7 +11236,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_FASTWEAPON\"]/text"
 msgstr ""
 "Arsenal Cyclique Infini [+15% de vitesse de rechargement par puissance "
-"d'arme inutilisée, mais -5% de vitesse de rechargement]."
+"d'arme inutilisée, mais -5% de vitesse de rechargement]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10548
 msgid ""
@@ -12656,7 +12656,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:11411
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_QUEST_GUNBOM\"]/choice/event/choice[@req=\"SHIP_GUNBOM\"]/text"
-msgstr "(GunBom) Les contacter."
+msgstr "(Arm'Bom) Les contacter."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11413
 msgid ""
@@ -13235,8 +13235,8 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CLOSET_POWER_CUTTER\"]/text"
 msgstr ""
 "Vous prenez le Découpeur énergétique avec vous, il pourrait être utile pour "
-"découper des portes blindées ou des portes anti-explosion si vous avez assez "
-"de temps."
+"découper des portes blindées ou des portes sécurisée si vous avez assez de "
+"temps."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11803
 msgid ""
@@ -15845,6 +15845,11 @@ msgstr "Peu importe, vérifions un autre endroit pour l'instant."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_LABS_COORDINATE\"]/text"
 msgstr ""
+"Vous vérifiez le terminal. Il semble qu'un document confidentiel soit ouvert "
+"à propos d'une \"balise détournée que les survivants prévoient d'utiliser "
+"pour se cacher de l'Harmonie\". Vous notez rapidement les coordonnées de la "
+"balise, et vous pourriez bien les utiliser lorsque vous retournerez à votre "
+"vaisseau."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14070
 msgid ""
@@ -15855,11 +15860,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_LABS_GRAVITY_EMITTER\"]/text"
 msgstr ""
+"Vous examinez l'étrange appareil. Il ressemble presque à une arme, mais "
+"votre première impression est apparemment erronée lorsque vous prenez le "
+"manuel posé à côté : \"Le répulseur à gravitons est un nouveau prototype que "
+"nous développons au sein de l'aile de la Coalition. Nous prévoyons de créer "
+"à terme une version à plus grande échelle, de la taille d'un vaisseau, "
+"capable de \"découpler\" les nanomachines Engi de leur corps. Pour "
+"l'instant, tout ce qu'il peut faire, c'est pousser ou tirer des objets de "
+"petite et moyenne taille ayant des propriétés métalliques.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14081
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_LABS_GRAVITY_EMITTER\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "L'emporter avec vous, il a l'air très pratique."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14089
 msgid ""
@@ -15907,33 +15920,51 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE\"]/text"
 msgstr ""
+"Vous suivez le panneau \"Stockage de la Coalition\". Il mène à une porte de "
+"sécurité de niveau 1 pour laquelle vous avez déjà une carte. Allez-vous "
+"entrer ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14117
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Aller à l'intérieur !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14122
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE\"]/choice[2]/text"
 msgstr ""
+"Revenir en arrière, un local de stockage poussiéreux n'a rien d'attrayant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14129
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_INTERIOR\"]/text"
 msgstr ""
+"Vous envoyez d'abord un membre d'équipage pour vous assurer que la pièce "
+"n'est pas un lieu d'embuscade. Lorsqu'il revient sains et sauf, vous décidez "
+"qu'il est raisonnable de pénétrer à l'intérieur. Sans surprise, la pièce est "
+"un désordre de caisses de stockage portant des symboles et des étiquettes "
+"variés, sans qu'aucun effort n'ait été fait pour les organiser.\n"
+"\t\t\tVoici quelques caisses qui vous sautent aux yeux :\n"
+"\t\t\tUne caisse étiquetée \"Ruban adhésif\"\n"
+"\t\t\tUne caisse étiquetée \"DANGER ! EXPLOSIFS\"\n"
+"\t\t\tUne caisse étiquetée \"Corde, ficelle et fil\"\n"
+"\t\t\tElles sont toutes scellées, il vous faut donc l'outil adéquat pour les "
+"ouvrir.\n"
+"\t\t\tVous remarquez également de longues perches en acier et en bois "
+"placées dans un coin, attachées ensemble par des colliers de serrage, elles "
+"mesurent environ 3 mètres de long chacune."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14139
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_INTERIOR\"]/choice[@req=\"fm_fs_crowbar\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Pied de biche) Ouvrir des caisses."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14144
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_INTERIOR\"]/choice[@req=\"fm_fs_crowbar\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ouvrir quelques caisses."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14149
 msgid ""
@@ -15944,26 +15975,34 @@ msgstr "Vous disposez déjà d'une perche améliorée."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_INTERIOR\"]/choice[@req=\"FM_FS_LIST_POLE\"]/text"
 msgstr ""
+"(RUBAN ADHÉSIF POUR CONDUITS) Combiner le ruban adhésif pour conduits avec "
+"les perches trouvés dans l'entrepôt pour fabriquer une perche de fortune "
+"plus solide."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14159
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_INTERIOR\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Coalition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14166
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_MAKE_POLE\"]/text"
 msgstr ""
+"Vous créez une perche plus solide à l'aide de ruban adhésif et des deux "
+"perches. Peut-être pourrez-vous ainsi récupérer la mallette ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14169
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_MAKE_POLE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Coalition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14176
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES_NO\"]/text"
 msgstr ""
+"Vous tentez d'ouvrir les caisses avec ce que vous trouvez dans la pièce, "
+"mais vous avez beau vous débattre avec l'aide de votre équipage, vous n'y "
+"parvenez pas. Vous aurez besoin d'un outil plus puissant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14179
 msgid ""
@@ -15973,68 +16012,83 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:14189
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/text"
-msgstr ""
+msgstr "Choisir une caisse !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14192
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_duct_tape\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Vous avez déjà récupéré tout le ruban adhésif dont vous pensez avoir besoin "
+"dans votre vie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14197
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_duct_tape\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ouvrir une caisse étiquetée \"Ruban adhésif\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14202
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_fire_grenade_obtained\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Vous avez déjà récupéré toutes les grenades incendiaires dont vous pensez "
+"avoir besoin."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14207
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_fire_grenade_obtained\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ouvrir une caisse étiquetée \"DANGER ! EXPLOSIFS\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14212
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_rope_obtained\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Vous avez déjà récupéré toute la corde dont vous pensez avoir besoin."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14217
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_need_rope\"]/text"
-msgstr ""
+msgstr "Ouvrir une caisse étiquetée \"Corde, ficelle et fil\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14222
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"marker_rope_obtained\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Vous n'avez pas besoin de corde pour le moment, vous décidez de la laisser "
+"telle quelle."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14227
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_CRATES\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Coalition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14234
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_TAPE\"]/text"
 msgstr ""
+"Vous vérifiez la caisse étiquetée \"Ruban adhésif\". Elle contient de "
+"nombreux types de ruban adhésif, comme du ruban de peintre, du ruban de "
+"masquage et du ruban adhésif pour conduit. Vous pouvez les récupérer si vous "
+"en avez besoin pour quelque chose."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14238
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_TAPE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Vous prenez le ruban adhésif pour conduit avec vous."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14246
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_EXPLOSIVES\"]/text"
 msgstr ""
+"Vous vérifiez la caisse étiquetée \"DANGER ! EXPLOSIFS\". Elle contient "
+"divers explosifs, tels que des grenades incendiaires et des explosifs de "
+"qualité supérieure que vous préféreriez ne pas utiliser sur une station "
+"spatiale en ruine. Vous prenez quelques grenades incendiaires avec vous, "
+"vous ne savez jamais quand un feu instantané peut s'avérer utile."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14250
 msgid ""
@@ -16045,6 +16099,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_STORAGE_ROPE\"]/text"
 msgstr ""
+"Vous vérifiez la caisse étiquetée \"Corde, ficelle et fil\". Vous obtenez "
+"une corde solide de 15 mètres de long. Si vous voulez récupérer cette "
+"mallette, vous aurez besoin d'une sorte de crochet pour l'attacher à la "
+"corde."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14262
 msgid ""
@@ -16055,73 +16113,90 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_BARRACKS\"]/text"
 msgstr ""
+"Vous arrivez à la caserne de la Coalition. La porte principale de la caserne "
+"est occupée par un grand chariot élévateur renversé sur le côté et bloquant "
+"la porte principale, il semble s'être écrasé.\n"
+"\n"
+"\t\t\tVotre équipage a beau essayer, vous ne parvenez pas à le déplacer. La "
+"porte semble également très dégradée. Même si vous déplacez le véhicule, il "
+"se peut que vous ne puissiez pas accéder à la porte."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14276
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_COALITION_BARRACKS\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Coalition."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14286
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/text"
 msgstr ""
+"Vous arrivez dans l'aile de la Fédération. Elle est fade et uniforme (la "
+"Fédération a tendance à suivre les règles, après tout). Il y a plusieurs "
+"panneaux que vous pouvez suivre à partir d'ici."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14289
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"fm_fs_keycard_5\"]/text"
-msgstr ""
+msgstr "Vous avez déjà fouillé l'infirmerie, elle ne vous est plus utile."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14294
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"marker_infirmary_clear\"]/text"
-msgstr ""
+msgstr "Entrer dans l'infirmerie qui a été nettoyée."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14299
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"FM_FS_LIST_KILL_ENGI_INFIRMARY\"]/text"
 msgstr ""
+"(EXTINCTEUR ET GRENADE) Brûler l'essaim de nanomachines jusqu’à le réduire "
+"en cendres."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14304
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"FM_FS_LIST_KILL_ENGI_INFIRMARY_MISSING\"]/text"
 msgstr ""
+"(GRENADE) Votre grenade serait un EXCELLENT outil pour éliminer l'essaim de "
+"nanomachines, mais vous ne feriez que réduire en cendres tout ce qui est "
+"utile dans cette pièce. Vous aurez besoin d'une méthode pour éteindre le feu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14309
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"marker_engi_in_infirmary\"]/text"
 msgstr ""
+"L'essaim de nanomachines est toujours actif à l'intérieur, vous aurez besoin "
+"d'une arme plus puissante pour les neutraliser."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14314
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"fm_fs_keycard_2\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Carte de sécurité) Ouvrir la porte de l'infirmerie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14319
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"fm_fs_keycard_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Essayer d'ouvrir la porte de l'infirmerie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14325
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[8]/text"
-msgstr ""
+msgstr "Tenter d'ouvrir la porte R D."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14330
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[@req=\"marker_moved_barracks_crate\"]/text"
-msgstr ""
+msgstr "Examiner la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14335
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[10]/text"
-msgstr ""
+msgstr "Examiner la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14340
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_HUB\"]/choice[11]/text"
-msgstr ""
+msgstr "Laisser l'aile de la Fédération pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14345
 msgid ""
@@ -16132,21 +16207,28 @@ msgstr "[Vérifier votre INVENTAIRE]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_DENIED_OUTSIDE\"]/text"
 msgstr ""
+"La porte du laboratoire R  D semble être scellée.  Vous aurez besoin de la "
+"carte de sécurité appropriée pour y accéder. Le panneau à côté de la porte "
+"indique : \"5\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14356
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_DENIED_OUTSIDE\"]/choice[@req=\"fm_fs_keycard_5\"]/text"
-msgstr ""
+msgstr "(Carte de sécurité) Passer votre carte de sécurité de niveau 5."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14362
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_DENIED_OUTSIDE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Peu importe, vérifions un autre endroit pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14370
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_ACCESS_GAINED\"]/text"
 msgstr ""
+"Vous retirez la barricade de la porte, l'ouvrez violemment, puis vous "
+"dégoupillez la grenade incendiaire et la lancez sur l'essaim de "
+"nanomachines. Un coup direct ! Une fois que vous êtes certain qu'ils sont "
+"morts, vous sortez l'extincteur et éteignez rapidement le feu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14375
 msgid ""
@@ -16157,21 +16239,36 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_HUB\"]/text"
 msgstr ""
+"Pendant que vous cherchiez un moyen d'éliminer l'Engi dans la station, il "
+"semble que l'Engi ait complètement saccagé la pièce. La plupart des objets "
+"de la pièce sont soit entièrement détruits, soit endommagés au point d'être "
+"irréparables. Tous les terminaux sont détruits, une bonne partie du matériel "
+"médical et de l'équipement a été rendu inutilisable ou contaminé ; c'est une "
+"mauvaise scène.\n"
+"\n"
+"\t\t\tLa seule chose qui vous interpelle est le corps d'un homme dans un "
+"coin de la pièce, sur ce qui semble être une civière."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14390
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Examiner le corps de plus près."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14395
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "PAS MOYEN. Partir"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14402
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_HUB_BODY\"]/text"
 msgstr ""
+"Vous respirez profondément et vous vous approchez du corps de l'homme sur la "
+"civière. Lassé de prendre des risques, vous tirez sur le mort trois fois "
+"dans la tête et deux fois dans le torse, puis vous gardez votre arme braquée "
+"sur le corps en cas de surprise.\n"
+"\n"
+"\t\t\tRien ne se passe, alors vous continuez."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14409
 msgid ""
@@ -16182,6 +16279,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_HUB_BODY2\"]/text"
 msgstr ""
+"L'homme semble porter un uniforme de haut rang, et vous espérez qu'il ne "
+"s'agit pas du commandant de la station. Vos craintes sont malheureusement "
+"confirmées lorsque vous vous procurez sa carte d'identité.\n"
+"\n"
+"\t\t\tLe commandant Bromwell Rudkin est mort devant vous. Vos chances "
+"d'obtenir des réponses sur cette station sont amoindris, mais vous refusez "
+"de vous laisser décourager par cette situation. Vous poursuivez votre route "
+"pour votre propre santé mentale et celle de votre équipage. De plus, vous "
+"récupérez quelque chose de très précieux dans les poches de son uniforme :\n"
+"\t\t\tUne carte d'accès de sécurité de niveau 5, vous savez qu'elle sera "
+"extrêmement précieuse. Vous aimeriez pouvoir lui donner au moins un "
+"enterrement digne de ce nom, par respect, mais compte tenu de votre "
+"situation, il est certainement trop dangereux de le faire maintenant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14423
 msgid ""
@@ -16192,6 +16302,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_ACCESS_DENIED\"]/text"
 msgstr ""
+"Vous glissez votre carte d'accès de sécurité actuelle et un petit écran "
+"affiche \"Accès refusé, le niveau d'accès est trop bas\".\n"
+"\n"
+"\t\t\tVous froncez les sourcils et continuez, vous aurez besoin d'une carte "
+"de sécurité de niveau supérieur pour entrer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14436
 msgid ""
@@ -16202,91 +16317,195 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_ACCESS_GRANTED\"]/text"
 msgstr ""
+"Vous glissez votre carte d'accès de sécurité. Les portes de l'infirmerie "
+"font un bruit de cliquetis et la porte semble maintenant déverrouillée, vous "
+"la tirez donc par la poignée.\n"
+"\t\t\tAlors que vous entrez dans l'infirmerie avec votre équipage, les armes "
+"prêtes, une voix retentit du côté obscur de la pièce : \"Qui va là ?\" "
+"demande-t-elle."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14448
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_ACCESS_GRANTED\"]/choice[1]/text"
-msgstr ""
+msgstr "Lui demander qui il est."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14453
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_ACCESS_GRANTED\"]/choice[2]/text"
-msgstr ""
+msgstr "Lui demander quelle est la situation."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14460
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_A\"]/text"
 msgstr ""
+"Passant les formalités, vous demandez immédiatement son identité. Une voix "
+"grave répond : \"Officier Daniel Thompson\" Un membre de votre équipage lui "
+"demande pourquoi il se trouve ici, et de sortir de l’ombre. Une silhouette "
+"grande et élancée, apparemment humaine, émerge des ténèbres. Votre équipage "
+"exige qu’il s’avance vers la lumière, mais il ne semble ni répondre, ni s’en "
+"soucier.\n"
+"\n"
+"\t\t\t\"J'entends quelque chose \", dit soudain Daniel, mais vous êtes "
+"certain de n'avoir rien entendu.\n"
+"\t\t\t\"Vous entendez ça ? Il essaie d'entrer\", poursuit l'officier "
+"Thompson. Le silence est tel qu'on pourrait entendre une épingle tomber, "
+"mais vous n'avez pas entendu le moindre son."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14467
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_A\"]/choice[1]/text"
-msgstr ""
+msgstr "Qu'entendez-vous ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14472
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_A\"]/choice[2]/text"
-msgstr ""
+msgstr "Je n’ai pas le temps pour ça. À terre, maintenant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14479
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_B\"]/text"
 msgstr ""
+"Passant outre les formalités, vous demandez immédiatement ce qui se passe "
+"dans la station Bellona. Une voix grave vous répond, la voix de l'homme a "
+"changé : \"Attaque Harmonie, protocole XETA. X-XETA.\" Un de vos membres d’"
+"équipage lui demande pourquoi il se trouve ici et lui ordonne de sortir de l’"
+"ombre. La silhouette fait un pas en avant : il semble s’agir d’un humain de "
+"grande taille. Votre équipage lui intime de s’avancer dans la lumière, mais "
+"l’homme ne semble ni réagir, ni s’en soucier.\n"
+"\n"
+"\t\t\t\"J'entends quelque chose\", dit soudain l'homme, mais vous êtes "
+"certain de n'avoir rien entendu : \"Vous entendez ça ? Il essaie d'entrer\", "
+"poursuit-il. Le silence est tel qu'on pourrait entendre une épingle tomber, "
+"mais vous n'avez pas entendu le moindre son."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14485
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_B\"]/choice[1]/text"
-msgstr ""
+msgstr "Qu'entendez-vous ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14490
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_1_B\"]/choice[2]/text"
-msgstr ""
+msgstr "Je n’ai pas le temps pour ça. À terre, maintenant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14497
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_A\"]/text"
 msgstr ""
+"Vous demandez à l'officier Thomas ce qu'il entend, car vous n'entendez rien :"
+" \"Martha, Dieu me pardonne\", répond-il. Cet homme parle en charabia et "
+"vous ne savez pas pourquoi. Son ton change sans crier gare, et il dit : "
+"\" Déclinez votre nom et votre grade, soldats \" L'un de vos membres "
+"d'équipage répond à sa demande. Sans perdre de temps, l'officier déclare : \""
+" J'ai hâte de voir ce qu'ils ont au mess aujourd'hui. Tous ces travaux "
+"d'entretien ennuyeux et sans activité, ça m'ennuie.\"\n"
+"\n"
+"\t\t\tQuelque chose ne va pas. Vraiment pas. L'homme refuse de sortir de "
+"l'ombre et ne prononce que des phrases vaguement liées, comme s’il vous "
+"parlait à vous sans vraiment vous adresser la parole. Vous en avez assez de "
+"ce petit jeu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14503
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_A\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Lui tirer dessus, son comportement est suffisamment erratique pour être "
+"dangereux."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14510
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_B\"]/text"
 msgstr ""
+"Vous demandez à l'officier Thomas de se mettre à terre, MAINTENANT. L'homme "
+"semble vaciller et fait un pas de plus pour s'éloigner de vous et de votre "
+"équipe : \" Martha, que Dieu me pardonne \", répond-il. Cet homme parle en "
+"charabia, et vous ne savez pas pourquoi. Son ton change sans crier gare, et "
+"il dit : \" Donnez votre nom et votre grade, soldats \" Personne ne se plie "
+"à sa demande. Vous menacez de tirer s'il ne s'exécute pas : "
+"\"Soldat Barnes, vous tirez plus mal que votre grand-mère ne cuisine\", "
+"répond-il.\n"
+"\n"
+"\t\t\tQuelque chose ne va pas. Vraiment pas. L'homme refuse de sortir de "
+"l'ombre et ne prononce que des phrases vaguement liées, comme s’il vous "
+"parlait à vous sans vraiment vous adresser la parole. Vous en avez assez de "
+"ce petit jeu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14516
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_B\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Lui tirer dessus, son comportement est suffisamment erratique pour être "
+"dangereux."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14523
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_C\"]/text"
 msgstr ""
+"Vous demandez à l'homme ce qu'il entend, car vous n'entendez rien : "
+"\"Martha, Dieu me pardonne\", répond-il. Cet homme parle en charabia et vous "
+"ne savez pas pourquoi. Son ton change sans crier gare, et il dit : "
+"\" Déclinez votre nom et votre grade, soldats \" L'un de vos membres "
+"d'équipage répond à sa demande. Sans perdre de temps, l'officier déclare : \""
+" J'ai hâte de voir ce qu'ils ont au mess aujourd'hui. Tous ces travaux "
+"d'entretien ennuyeux et sans activité, ça m'ennuie.\"\n"
+"\n"
+"\t\t\tQuelque chose ne va pas. Vraiment pas. L'homme refuse de sortir de "
+"l'ombre et ne prononce que des phrases vaguement liées, comme s’il vous "
+"parlait à vous sans vraiment vous adresser la parole. Vous en avez assez de "
+"ce petit jeu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14529
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_C\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Lui tirer dessus, son comportement est suffisamment erratique pour être "
+"dangereux."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14536
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_D\"]/text"
 msgstr ""
+"Vous exigez que l'homme se mette à terre, MAINTENANT. L'homme semble "
+"vaciller et fait un pas de plus pour s'éloigner de vous et de votre équipe : "
+"\" Martha, que Dieu me pardonne \", répond-il. Cet homme parle en charabia, "
+"et vous ne savez pas pourquoi. Son ton change sans crier gare, et il dit : "
+"\" Donnez votre nom et votre grade, soldats \" Personne ne se plie à sa "
+"demande. Vous menacez de tirer s'il ne s'exécute pas : "
+"\"Soldat Barnes, vous tirez plus mal que votre grand-mère ne cuisine\", "
+"répond-il.\n"
+"\n"
+"\t\t\tQuelque chose ne va pas. Vraiment pas. L'homme refuse de sortir de "
+"l'ombre et ne prononce que des phrases vaguement liées, comme s’il vous "
+"parlait à vous sans vraiment vous adresser la parole. Vous en avez assez de "
+"ce petit jeu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14542
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_TALK_2_D\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Lui tirer dessus, son comportement est suffisamment erratique pour être "
+"dangereux."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14549
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_INFIRMARY_SHOOT_MAN\"]/text"
 msgstr ""
+"Vous tirez sur l'homme en plein cœur, car vous ne pouvez pas distinguer où "
+"se trouve sa tête. L'impact fait reculer l'homme de quelques centimètres et "
+"il s'effondre sur le sol. Un tir net, vous en êtes presque certain... "
+"Quelques instants s'écoulent et votre membre d'équipage attend vos ordres, "
+"les armes toujours braquées sur le corps. Mais avant que vous ne puissiez "
+"parler, vous entendez un bourdonnement aigu provenant du corps de l'homme. "
+"Dans la faible lumière de l'infirmerie, vous voyez des dizaines de "
+"minuscules nanomachines s'échapper de la blessure par balle. Vous et votre "
+"équipage tirez rapidement sur les nanomachines en reculant hors de la pièce. "
+"Vous saisissez immédiatement un morceau de tuyau perdu sur le sol et fermez "
+"la porte en la claquant, puis vous barrez la porte avec le tuyau. Les tirs "
+"d'armes légères peuvent venir à bout des nanomachines Engi, mais pas sans "
+"risque de blessures potentiellement graves. Nous aurons besoin d'une "
+"meilleure arme pour nous en occuper.\n"
+"\n"
+"\t\t\tVous vous éloignez de la porte de l'infirmerie pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14555
 msgid ""
@@ -16297,11 +16516,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH\"]/text"
 msgstr ""
+"Vous glissez votre carte de niveau 5 et entrez dans le laboratoire R  D. Le "
+"laboratoire est rempli d'étranges béchers de produits chimiques, de "
+"récipients de stockage expérimental et de prototypes à moitié terminés qui "
+"traînent sur les tables. Les prototypes ne sont étiquetés d'aucune façon et "
+"vous ne vous sentez pas à l'aise de les toucher, au cas où l'un d'entre eux "
+"vous transformerait en glace italienne ou en gelée de fraise.\n"
+"\n"
+"\t\t\tLe laboratoire est également étonnamment exempt de cadavres de "
+"personnel, probablement en raison du niveau d'accès élevé nécessaire pour "
+"entrer dans la pièce."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14571
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH\"]/choice[1]/text"
-msgstr ""
+msgstr "Fouiller la pièce."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14576
 msgid ""
@@ -16312,21 +16541,35 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_SEARCH\"]/text"
 msgstr ""
+"Vous explorez la pièce plus en détail et trouvez deux choses intéressantes. "
+"Tout d'abord, vous trouvez une chemise en papier manille posée sur un bureau "
+"et étiquetée \"Protocole XETA prototype\". Deuxièmement, vous trouvez une "
+"très grande porte sécurisée par un clavier. La porte est étiquetée "
+"\"Niveau 7 – Accès Prototypes\". La porte semble être faite du même matériau "
+"que celui qui renforce la coque d'un cuirassé, vous ne pensez donc pas qu'un "
+"quelconque outil puisse vous permettre de la contourner.\n"
+"\n"
+"\t\t\tVos scanners détectent également que la pièce au-delà de la porte est "
+"remplie d'oxygène pur, de sorte que tout type de Découpeur énergétique ou "
+"d'explosif détruirait tout ce qui se trouve dans cette pièce, et "
+"potentiellement vous et votre équipage aussi."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14589
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_SEARCH\"]/choice[@req=\"marker_dissonance_found\"]/text"
-msgstr ""
+msgstr "Vous possédez déjà l'Émetteur de Dissonance de l'Harmonie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14595
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_SEARCH\"]/choice[@req=\"marker_case_obtained\"]/text"
 msgstr ""
+"(Memo de la mallette) Vous poussez un soupir, puis entrez la combinaison "
+"correcte."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14600
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_SEARCH\"]/choice[3]/text"
-msgstr ""
+msgstr "Entrer un code aléatoire."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14606
 msgid ""
@@ -16337,6 +16580,7 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_ACCESS_DENIED\"]/text"
 msgstr ""
+"Vous essayez une combinaison aléatoire de 4 chiffres. Rien ne fonctionne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14616
 msgid ""
@@ -16347,6 +16591,13 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_RESEARCH_DISSONANCE_OBTAIN\"]/text"
 msgstr ""
+"Vous suivez les instructions ridicules données par le mémo : \"Appuyez sur "
+"tous les boutons du clavier en même temps, attendez 6,5 secondes, refaites-"
+"le deux fois\". Les portes lourdement renforcées s'animent et s'ouvrent, "
+"révélant l'appareil à l'intérieur. Il ressemble à une antenne portable à "
+"laquelle est attaché un minuscule terminal. Il est clair qu'ils ne voulaient "
+"pas qu'il tombe entre les mains de l'Harmonie, alors vous le prenez avec "
+"vous."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14627
 msgid ""
@@ -16357,21 +16608,26 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS\"]/text"
 msgstr ""
+"Vous passez devant l'infirmerie pour vous rendre à la caserne. L'entrée de "
+"la caserne est barricadée par de grandes caisses en bois, probablement pour "
+"empêcher les attaquants d'entrer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14641
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS\"]/choice[1]/text"
-msgstr ""
+msgstr "Déplacer les caisses avec votre équipage."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14646
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS\"]/choice[2]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Fédération."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14656
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_2\"]/text"
 msgstr ""
+"Après plusieurs minutes de détermination obstinée et un soupçon d’huile de "
+"coude, vous et votre équipage parvenez à déplacer les caisses."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14660
 msgid ""
@@ -16382,46 +16638,55 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/text"
 msgstr ""
+"Les caisses ayant été déplacées avec succès, il est temps de voir si vous "
+"pouvez accéder à la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14674
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/choice[@req=\"fm_fs_bromwell_memo\"]/text"
 msgstr ""
+"(MEMO DE BROMWELL) Vous avez déjà trouvé tout ce qui est utile à l'intérieur "
+"de la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14679
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/choice[@req=\"fm_fs_keycard_5\"]/text"
-msgstr ""
+msgstr "(Carte de sécurité) Accéder à la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14684
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/choice[@req=\"fm_fs_keycard_2\"]/text"
-msgstr ""
+msgstr "(Carte de sécurité) Accéder à la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14690
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/choice[4]/text"
-msgstr ""
+msgstr "Accéder à la caserne."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14695
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_HUB\"]/choice[5]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Fédération pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14701
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_DENIED\"]/text"
 msgstr ""
+"La porte refuse de bouger et vous voyez à sa droite un lecteur de cartes "
+"marqué \"2\". Vous avez besoin d'une carte de niveau supérieur pour "
+"continuer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14705
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_DENIED\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner à l'aile de la Fédération pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14712
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_GRANTED\"]/text"
 msgstr ""
+"Vous entendez la porte se déverrouiller avec un clic lorsque vous glissez la "
+"carte de sécurité. Vous et votre équipage pénétrez prudemment à l'intérieur."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14716
 msgid ""
@@ -16432,41 +16697,61 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_INTERIOR\"]/text"
 msgstr ""
+"Il y a des dizaines de chambres, chacune avec les lits superposés standard "
+"de la Fédération et une malle pour les vêtements. Vous passez les pièces au "
+"peigne fin avec votre équipage et ne trouvez pas grand-chose d'utile, "
+"jusqu'à ce que vous tombiez sur une pièce qui ressemble plus à un bureau. La "
+"plaque au-dessus de la porte indique \"Bromwell Rudkin\". Ce doit être son "
+"bureau."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14728
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_INTERIOR\"]/choice[1]/text"
-msgstr ""
+msgstr "Fouiller son bureau."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14733
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_INTERIOR\"]/choice[2]/text"
-msgstr ""
+msgstr "Partir, cette caserne est une perte de temps."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14743
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL\"]/text"
 msgstr ""
+"Vous examinez le bureau du commandant Bromwell. Le décor est vieillot, mais "
+"il est plutôt propre et bien rangé par rapport à la plupart des pièces que "
+"vous avez rencontrées sur la station.\n"
+"\n"
+"\t\t\tQuelques vieux trophées prennent la poussière dans une vitrine, et "
+"quelques médailles sont accrochées au mur. L'homme semble fier de ce qu'il a "
+"accompli. Son bureau est jonché de nombreux papiers et, étonnamment, il n'y "
+"a pas de terminal."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14749
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL\"]/choice[@req=\"fm_fs_bromwell_memo\"]/text"
-msgstr ""
+msgstr "Vous avez déjà fouillé son bureau."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14754
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL\"]/choice[2]/text"
-msgstr ""
+msgstr "Vérifier son bureau."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14759
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL\"]/choice[3]/text"
 msgstr ""
+"Demander à vos membres d'équipage de quitter la caserne en même temps que "
+"vous, afin que personne ne soit oublié dans les pièces adjacentes."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14767
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL_DESK\"]/text"
 msgstr ""
+"Le bureau est encombré de lettres et d'enveloppes inachevées, et il comporte "
+"plusieurs tiroirs non verrouillés contenant des fournitures de bureau "
+"génériques telles que des agrafes et de la colle. Il y a également un tiroir "
+"qui vous interpelle et que vous essayez d'ouvrir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14772
 msgid ""
@@ -16477,16 +16762,39 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL_DESK_2\"]/text"
 msgstr ""
+"Le tiroir est verrouillé électroniquement, mais votre patience à l'égard des "
+"conneries est à bout, et vous donnez plusieurs coups de pied pour le "
+"cabosser, puis vous faites levier avec votre pied-de-biche en utilisant la "
+"bosse comme levier.\n"
+"\t\t\tVous trouvez une pile de documents dans une chemise manille dans le "
+"tiroir (maintenant déverrouillé). La plupart d'entre eux sont totalement "
+"inutiles en termes de survie ou extrêmement longs, mais vous trouvez un mémo "
+"que Bromwell a écrit pour lui-même. En l'effleurant, vous constatez qu'il "
+"s'agit d'un rappel du code de sécurité du centre de commandement. Vous "
+"décidez d'empocher le mémo et de le lire attentivement lorsque vous "
+"arriverez à la porte du centre de commandement."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14787
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_FEDERATION_BARRACKS_BROMWELL_DESK_2\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Demander à vos membres d'équipage de quitter la caserne en même temps que "
+"vous, afin que personne ne soit oublié dans les pièces adjacentes."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14795
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_PLAZA_2_DEAD_END\"]/text"
 msgstr ""
+"Vous contournez le coin et vous vous dirigez vers le centre de loisirs. Le "
+"couloir semble avoir été touché par des tirs d'armes lourdes d'un vaisseau "
+"ennemi, probablement un vaisseau d'Harmonie, car une énorme porte de secours "
+"vous bloque le chemin à mi-chemin du couloir et le vide de l'espace au-delà."
+"\n"
+"\n"
+"\t\t\tVous pouvez distinguer le reste du chemin au-delà du trou béant dans "
+"le vaisseau, mais cela serait extrêmement dangereux et nécessiterait un "
+"équipement spécial que vous ne pensez pas pouvoir trouver pour y parvenir. "
+"Vous ricanez avec mépris et grognez, puis vous faites demi-tour."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14802
 msgid ""
@@ -16497,26 +16805,40 @@ msgstr "Revenir en arrière."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/text"
 msgstr ""
+"Vous êtes arrivés sur la place centrale du troisième étage. La place de cet "
+"étage est beaucoup moins extravagante et beaucoup plus petite. C'est "
+"probablement parce qu'il s'agit du sommet de la station et que l'on se "
+"préoccupe davantage de l'intégrité de la coque que du confort du personnel. "
+"Même la peinture donne l'impression d'être une réflexion après coup sur la "
+"place.\n"
+"\n"
+"\t\t\tLe plafond est également beaucoup plus bas, vous pourriez probablement "
+"l'atteindre si vous vous teniez sur les épaules d'un membre d'équipage. Vous "
+"ne voyez qu'un seul couloir avec une bifurcation. Où voulez-vous aller ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14825
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[@req=\"fm_fs_keycard_2\"]/text"
 msgstr ""
+"Vous avez déjà fouillé la salle des systèmes d'armes. Il n'y a rien d'autre "
+"à y faire"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14830
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[2]/text"
 msgstr ""
+"Suivre la fourche vers la gauche et examiner la salle des systèmes "
+"d'armement."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14835
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[3]/text"
-msgstr ""
+msgstr "Continuer tout droit et examiner le long couloir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14840
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_PLAZA_HUB\"]/choice[4]/text"
-msgstr ""
+msgstr "(ID INVITÉ) Entrer dans l'ascenseur."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14845
 msgid ""
@@ -16528,24 +16850,34 @@ msgstr "[Vérifier votre INVENTAIRE]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM\"]/text"
 msgstr ""
+"Vous suivez le couloir jusqu'à ce que vous atteigniez les principaux "
+"systèmes d'armement qui supervisent le flux d'énergie et le fonctionnement "
+"général des armes de la station. La pièce semble avoir été complètement "
+"sabotée, cette station est une cible facile à moins de passer beaucoup de "
+"temps à réparer ces systèmes.\n"
+"\n"
+"\t\t\tDes tuyaux ont éclaté, des valves ont été arrachées et jonchent le "
+"sol, des terminaux ont été brisés, et il y a même le cadavre d'un Cristalien "
+"logé dans l'un des réservoirs de liquide de refroidissement. Pour dire les "
+"choses franchement, la pièce est un désastre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14861
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM\"]/choice[@req=\"marker_weapon_room_bodies_cleared\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Regarder dans la grille en dessous."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14866
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM\"]/choice[@req=\"marker_weapon_room_bodies_cleared\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vérifier s'il y a des fournitures ou des outils utiles."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14871
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Retourner sur la place."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14876
 msgid ""
@@ -16557,16 +16889,28 @@ msgstr "[Vérifier votre INVENTAIRE]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_1\"]/text"
 msgstr ""
+"Vous vérifiez que les corps n'ont pas de valeur, mais vous ne trouvez que "
+"des objets personnels sur chacun d'eux. Vous ne pouvez pas réparer le "
+"système d'armement tant que vous ne savez pas si la station est au moins "
+"raisonnablement sûre, et vous ne savez pas non plus si les pièces "
+"nécessaires sont facilement disponibles.\n"
+"\n"
+"\t\t\tVous et votre équipage ne pouvez cependant pas être trop prudents, "
+"après ce que vous avez vécu dans la station de sécurité. Vous tirez deux "
+"balles dans la tête de chacun des défunts, et une dans le torse pour vous "
+"assurer qu'ils ne sont pas sous l'emprise de... ce qui contrôle ces corps. "
+"Une fois que vous êtes sûr que la pièce est sécurisée, vous continuez à "
+"chercher."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14892
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Regarder dans la grille en dessous."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14897
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Retourner sur la place."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14902
 msgid ""
@@ -16578,24 +16922,28 @@ msgstr "[Vérifier votre INVENTAIRE]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_CLEARED\"]/text"
 msgstr ""
+"Vous apercevez un cadavre affalé au bas d'une échelle à travers la grille "
+"métallique du sol. Ils semblent être à l'intérieur du tunnel d'accès à la "
+"maintenance, qui est fermé par une lourde trappe métallique. Vous aurez "
+"besoin d'un outil avec un certain effet de levier pour l'ouvrir."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14918
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_CLEARED\"]/choice[@req=\"fm_fs_crowbar\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "(Pied-de-biche) Ouvrir la trappe."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14923
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_CLEARED\"]/choice[@req=\"fm_fs_crowbar\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ouvrir la trappe."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14929
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_SEARCH_CLEARED\"]/choice[@req=\"pilot\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Peu importe, retournons sur la place."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14934
 msgid ""
@@ -16607,16 +16955,36 @@ msgstr "[Vérifier votre INVENTAIRE]"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_HATCH_FAIL\"]/text"
 msgstr ""
+"Vous et votre équipage essayez de toutes vos forces, et même avec un morceau "
+"de tuyau détaché comme levier, mais vous n'arrivez pas à ouvrir l'écoutille "
+"de l'échelle de maintenance. Tout ce que vous avez réussi à faire, c'est "
+"plier légèrement un morceau de tuyau endommagé. Vous aurez besoin de plus de "
+"force pour ouvrir cette trappe."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14947
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_HATCH_FAIL\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Nous ne pouvons pas faire grand-chose ici pour l'instant, rebrousser chemin."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14953
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_HATCH_SUCCESS\"]/text"
 msgstr ""
+"À l'aide du pied-de-biche, vous parvenez à ouvrir la trappe de maintenance. "
+"Vous demandez à l'un de vos membres d'équipage de tenir l'écoutille ouverte "
+"au cas où elle pourrait se refermer et vous piéger dans les tunnels. L'un de "
+"vos membres d'équipage proteste en disant qu'ils devraient vérifier pour que "
+"vous puissiez rester en haut de l'échelle en toute sécurité, mais vous "
+"insistez pour que ce soit vous qui le fassiez.\n"
+"\n"
+"\t\t\tVous descendez facilement l'échelle et commencez à examiner le corps. "
+"Il s'agit apparemment du corps d'un soldat humain. Il semble avoir été "
+"grièvement blessé, s'être traîné jusqu'à l'échelle et avoir fermé la trappe "
+"derrière lui pour gagner du temps ou peut-être attendre les secours. "
+"Malheureusement pour lui, les secours ne sont jamais venus et il s'est vidé "
+"de son sang ici même. Vous éprouvez de la compassion pour le soldat, mais "
+"vous devez d'abord penser à votre propre survie. Vous fouillez son corps."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14959
 msgid ""
@@ -16627,6 +16995,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_WEAPONS_ROOM_HATCH_SUCCESS_2\"]/text"
 msgstr ""
+"Dans ses affaires, vous trouvez un paquet de chewing-gum, que vous empochez "
+"et prenez note d'en donner à certains membres d'équipage pour qu'ils se "
+"concentrent sur le chewing-gum plutôt que sur leurs nerfs. Vous trouvez "
+"également un objet beaucoup plus précieux : Une carte d'accès de sécurité de "
+"niveau 2 ! Vous l'empochez rapidement, vous lui donnez une tape, vous faites "
+"un signe de tête à votre équipe et vous remontez l'échelle à toute vitesse. "
+"Vous ne pouvez pas exclure que quelque chose dans ce tunnel l'ait tué, et "
+"vous ne resterez pas dans les parages pour le découvrir.\n"
+"\n"
+"\t\t\tUne fois arrivé en haut, vous partagez quelques chewing-gum avec votre "
+"équipage. Une petite victoire dans cette bataille pour la survie !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14971
 msgid ""
@@ -16637,66 +17016,101 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/text"
 msgstr ""
+"Vous et votre équipage suivez le long couloir jusqu'à une autre porte "
+"blindée (bien sûr que c'est le cas, pourquoi n'êtes-vous pas surpris). Un "
+"panneau au-dessus de la porte indique \"CENTRE DE COMMANDEMENT BELLONA\". Il "
+"y a un lecteur de carte et un clavier à droite de la porte massive. Elle "
+"semble bien trop épaisse pour que quoi que ce soit que vous puissiez trouver "
+"puisse la franchir, vous aurez donc besoin de cette carte et de ce code pour "
+"continuer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14983
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/choice[@req=\"FM_FS_LIST_COMMAND_DOOR\"]/text"
 msgstr ""
+"(Carte de sécurité et code de commande) Passer la carte de niveau de "
+"sécurité 5 et entrer le code de commande pour continuer."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14988
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/choice[@req=\"fm_fs_keycard_5\"]/text"
-msgstr ""
+msgstr "(Carte de sécurité) Passer la carte de sécurité de niveau 5."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14993
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/choice[@req=\"fm_fs_command_code\"]/text"
-msgstr ""
+msgstr "(Code de commande) essayer de saisir le code de commande."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:14998
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/choice[@req=\"fm_fs_bromwell_memo\"]/text"
-msgstr ""
+msgstr "Consulter le mémo de Bromwell."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15004
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_LONGHALL\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Retourner en arrière pour l'instant."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15012
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MEMO_READ_BROM\"]/text"
 msgstr ""
+"Il s'agit d'un mémo que le commandant Bromwell s'est adressée à lui-même. "
+"Bromwell explique qu'avec l'âge, sa mémoire lui fait défaut, mais que si ses "
+"supérieurs apprenaient qu'il a écrit le code de commande sur un bout de "
+"papier, ils le tueraient. Cependant, il se rappelle qu'il doit simplement "
+"\"transformer la première lettre des zones de l'aile de la Fédération en "
+"chiffres\".\n"
+"\t\t\tIl ne se souvient pas de l'ordre, mais il est presque sûr que cela "
+"commence par le numéro de la salle R  D., qui est 18.\n"
+"\n"
+"\t\t\t(Note au joueur, si vous n'y arrivez pas, la solution vous est "
+"fournie, vous aviez juste besoin du mémo. Ne vous inquiétez pas)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15019
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_MEMO_READ_BROM\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
+"Vous PENSEZ peut-être avoir compris le code ? Il n’y a qu’une seule façon de "
+"le savoir…"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15025
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_DENIED_CARD\"]/text"
 msgstr ""
+"Vous glissez votre carte et fixez la porte. Il y a un silence pendant "
+"environ 15 secondes, puis un son d'erreur est émis par la porte : "
+"\"Accès refusé, code invalide saisi lors du glissement de la carte\", dit "
+"une voix féminine douce et monotone."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_DENIED_CARD\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Bon sang, j'ai aussi besoin d'un code..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15034
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_DENIED_CODE\"]/text"
 msgstr ""
+"Vous entrez les deux codes possibles (1829 ou 1892). Il y a un silence "
+"pendant environ 15 secondes, puis un son d'erreur est émis par la porte : "
+"\"Accès refusé, carte non valide lors de l'entrée du code\", dit une voix "
+"féminine douce et monotone."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15037
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_DENIED_CODE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Bon sang, j'ai aussi besoin d'une carte..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15043
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_GRANTED_DOOR\"]/text"
 msgstr ""
+"Vous saisissez les deux codes potentiels (1829 ou 1892) et glissez la carte "
+"de sécurité de niveau 5. Il y a un silence d'environ 15 secondes, puis un "
+"DING sort de la porte : \"Accès accordé ! Bienvenue, commandant\", dit une "
+"voix féminine monotone et douce. Les portes blindées se déverrouillent et la "
+"porte s'ouvre lentement."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15046
 msgid ""
@@ -16707,61 +17121,102 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB\"]/text"
 msgstr ""
+"Vous vous précipitez dans le centre de commandement. D'ici, vous passez en "
+"revue l'ensemble du plan de la station... À part les salles d'Hydroponie, "
+"l'aile de la Coalition et l'aile de la Fédération, le reste de la station "
+"est actuellement scellé en raison d'un protocole de sécurité. Vous n'avez "
+"trouvé aucun survivant et il n'y a nulle part où aller. Il est temps de "
+"prendre une décision sérieuse ; idéalement, une décision qui augmentera vos "
+"chances de survie dans ce futur difficile."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15057
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB\"]/choice[1]/text"
-msgstr ""
+msgstr "Prendre une décision définitive."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15062
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB\"]/choice[2]/text"
-msgstr ""
+msgstr "Laisser tomber, retourner sur la place."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15068
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/text"
 msgstr ""
+"Quelle sera votre prochaine action ? "
+"[Avertissement, c'est ici que vous sélectionnez votre fin !] (N'OUBLIEZ PAS "
+"QUE VOUS POUVEZ UTILISER les touches \"-\" et \"+\" de votre clavier pour "
+"modifier la taille de votre texte afin de pouvoir lire toute la fenêtre !)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15071
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[1]/text"
 msgstr ""
+"Décider de rassembler toutes les provisions possibles dans la station et "
+"d'attendre les secours ou les renforts de la Fédération..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15076
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[2]/text"
 msgstr ""
+"(Émetteur de Dissonance Harmonie) Décider de rassembler toutes les "
+"provisions que vous pouvez dans la station et d'attendre les secours ou les "
+"renforts de la Fédération, peut-être que l'émetteur peut vous protéger ici ?"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15081
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[3]/text"
 msgstr ""
+"Vous n'êtes pas trop confiant que ce que vous avez appris soit suffisant, "
+"mais vous vous inquiétez pour votre équipage et décidez de tenter votre "
+"chance. Retournez à votre vaisseau et choisissez un nœud proche pour sauter, "
+"vous ferez ce que vous pouvez pour survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15086
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[4]/text"
 msgstr ""
+"(Émetteur de Dissonance Harmonie) : Sauter vers une balise adjacente "
+"aléatoire avec l'émetteur de dissonance de l'harmonie, ce qui permet de "
+"tenir à distance les vauriens de l'harmonie !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15091
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[@req=\"fm_fs_special_coordinates\"]/text"
 msgstr ""
+"(COORDONNÉES) Sauter directement à la balise dissimulée que les vestiges de "
+"la société ont installée à proximité, peut-être pourrez-vous y trouver "
+"quelqu'un qui N'EST PAS mort !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15096
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[@req=\"FM_FS_LIST_COORDINATE_AND_DISSONANCE\"]/text"
 msgstr ""
+"(ÉMETTEUR DE DISSONANCE HARMONIE + COORDONNÉES) : Sauter directement vers la "
+"balise dissimulée que les restes de la société ont installée à proximité, "
+"tout en brouillant les éventuels vaisseaux d'Harmonie avec l'émetteur "
+"dissonance de l'harmonie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15101
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_3RD_COMMAND_HUB_FINAL_CHOICE\"]/choice[7]/text"
 msgstr ""
+"Laissez tomber, retourner sur la place. Vous n'êtes pas encore prêt à "
+"prendre une décision."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15110
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_1\"]/text"
 msgstr ""
+"Vous ne savez pas exactement de quoi il s'agit avec cette histoire "
+"d'Harmonie, du moins pas complètement. Mais vous savez, grâce aux terminaux "
+"du centre de commandement, que vous vous trouvez quatre ans dans le futur. "
+"Vous pariez sur le fait que la Fédération est peut-être encore là et qu'il "
+"s'agit d'une sorte de centre de recherche de la Fédération, et que des "
+"renforts arriveront bientôt.\n"
+"\n"
+"\t\t\tVous et votre équipage faites le plein de nourriture, de vêtements et "
+"d'autres fournitures et attendez d'être secourus."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15115
 msgid ""
@@ -16772,6 +17227,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_2\"]/text"
 msgstr ""
+"Vous ne savez pas exactement de quoi il s'agit avec cette histoire "
+"d'Harmonie, du moins pas complètement. Mais vous savez, grâce aux terminaux "
+"du centre de commandement, que vous vous trouvez quatre ans dans le futur. "
+"Vous pariez sur le fait que la Fédération est peut-être encore là et qu'il "
+"s'agit d'une sorte de centre de recherche de la Fédération, et que des "
+"renforts arriveront bientôt.\n"
+"\n"
+"\t\t\tVous et votre équipage pillez la nourriture, les vêtements et les "
+"autres fournitures que vous pouvez, et attendez les secours. L'émetteur de "
+"dissonance de l'harmonie vous protégera certainement pendant que vous "
+"attendez ! ...du moins, vous l'espérez au plus profond de votre cœur."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15128
 msgid ""
@@ -16782,6 +17248,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_3\"]/text"
 msgstr ""
+"Vous en avez assez de jouer la carte de la sécurité. Quelle différence avec "
+"le combat contre les rebelles ? Vous décidez que vous en avez assez et "
+"retournez à votre vaisseau, où vous choisissez une balise qui semble la "
+"moins dangereuse (vous ne l'admettez pas mais vous en avez choisi une au "
+"hasard) et sautez vers la balise suivante. Vous vous demandez ce qui vous "
+"attend là-bas..."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15138
 msgid ""
@@ -16792,6 +17264,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_4\"]/text"
 msgstr ""
+"Vous en avez assez de jouer la carte de la sécurité. Quelle différence avec "
+"le combat contre les rebelles ? Vous décidez que vous en avez assez et "
+"retournez à votre vaisseau, où vous choisissez une balise qui semble la "
+"moins dangereuse (vous ne l'admettez pas, mais vous en avez choisi une au "
+"hasard) et sautez vers la balise suivante. Votre émetteur de dissonance de "
+"l'harmonie vous permettra, je l'espère, de rester en sécurité lors de votre "
+"exploration de ce secteur inconnu."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15148
 msgid ""
@@ -16802,6 +17281,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_5\"]/text"
 msgstr ""
+"Vous sautez directement vers la balise dissimulée, en espérant qu'il y reste "
+"au moins un visage amical. Si vous devez rester coincé dans ce futur en "
+"ruine, vous n'allez pas tomber sans vous regrouper et vous battre de toutes "
+"vos forces."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15158
 msgid ""
@@ -16812,6 +17295,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_6\"]/text"
 msgstr ""
+"Vous sautez directement vers la balise dissimulée, en espérant qu'il y reste "
+"au moins un visage amical. Si vous devez rester coincés dans ce futur en "
+"ruine, vous ne vous laisserez pas abattre sans vous regrouper et vous battre "
+"de toutes vos forces. Vous êtes certain que ce qui reste de la civilisation "
+"aura l'ENVIE d'utiliser cet émetteur dissonance de l'harmonie contre "
+"l'Harmonie. C'est le meilleur plan que vous ayez, alors vous vous y tenez !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15168
 msgid ""
@@ -16821,127 +17310,168 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:15177
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_1_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15179
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_1_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15185
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_2_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15187
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_2_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15193
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_3_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15195
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_3_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15201
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_4_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15202
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_4_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15209
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_5_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15210
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_5_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15217
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_6_PLAY\"]/win/@text"
 msgstr ""
+"Cette ligne temporelle est condamnée à être écrasée par l'Harmonie. Il ne "
+"reste plus qu'à survivre."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15218
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_ENDING_6_PLAY\"]/text"
-msgstr ""
+msgstr "MERCI D'AVOIR JOUÉ !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15229
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/text"
 msgstr ""
+"Vous vérifiez votre inventaire pour voir si vous avez des objets utiles.\n"
+"\t\t\t[NOTE : VOUS PORTER TOUJOURS VOTRE ARMES STANDARD DE LA FÉDÉRATION.] ("
+"Vous pouvez appuyer sur \"-\" ou \"+\" sur votre clavier pour augmenter ou "
+"diminuer la taille du texte ou de la police.)"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15234
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_keycard_5\"]/text"
 msgstr ""
+"(NIVEAU D'ACCÈS DE SÉCURITÉ 5) Vous avez trouvé une carte d'accès étiquetée "
+"\"Niveau d'accès de sécurité 5\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15239
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_keycard_2\"]/text"
 msgstr ""
+"(NIVEAU D'ACCÈS DE SÉCURITÉ 2) Vous avez trouvé une carte d'accès étiquetée "
+"\"Niveau d'accès de sécurité 2\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15244
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_keycard_1\"]/text"
 msgstr ""
+"(NIVEAU D'ACCÈS DE SÉCURITÉ 1)Vous avez trouvé une carte d'accès étiquetée "
+"\"Niveau d'accès de sécurité 1\"."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15249
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_power_cutter\"]/text"
 msgstr ""
+"(DÉCOUPEUR ÉNERGÉTIQUE) Vous avez trouvé un Découpeur énergétique dans le "
+"placard du concierge."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15254
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_fuse\"]/text"
 msgstr ""
+"(FUSIBLE DE RECHANGE) Vous avez trouvé un fusible de rechange dans "
+"l'appartement 107A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15259
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_blank_id\"]/text"
 msgstr ""
+"(ID VIDE) Vous avez trouvé ces cartes d'identité vierges dans l'appartement "
+"120A."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15264
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_elevator_id\"]/text"
 msgstr ""
+"(ID INVITÉ) Vous les avez créées à l'aide d'identifiants vierges, en les "
+"faisant passer par le logiciel invité du poste de sécurité. Elles peuvent "
+"être utilisés pour accéder à certaines zones qui sont autrement interdites "
+"aux personnes extérieures."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15269
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_fire_grenade\"]/text"
 msgstr ""
+"(GRENADE INCENDIAIRE) Dispositif et arme utile pour allumer un feu "
+"instantanément."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15274
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_extinguisher\"]/text"
 msgstr ""
+"(EXTINCTEUR) Dispositif et arme utile pour éteindre un feu instantanément."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15279
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_duct_tape\"]/text"
 msgstr ""
+"(RUBAN ADHÉSIF POUR CONDUITS) Le ruban adhésif pour conduits répare tout ! "
+"...ou du moins c'est ce qu'on dit."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15284
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_grappling_hook\"]/text"
 msgstr ""
+"(CROCHET DE GRAPPIN) Peut être utilisé pour grimper ou récupérer des objets "
+"éloignés. Un crochet y est attaché."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15289
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_rope\"]/text"
 msgstr ""
+"(CORDE) Peut être utilisée pour grimper ou récupérer des objets éloignés. On "
+"peut y attacher un crochet."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15294
 msgid ""
@@ -16954,11 +17484,16 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_bromwell_memo\"]/text"
 msgstr ""
+"(MEMO DE BROMWELL) Un mémo concernant le code de sécurité du centre de "
+"commandement. Peut être lu à la porte du centre de commandement."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15305
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"marker_case_obtained\"]/text"
 msgstr ""
+"(MEMO DE LA MALLETTE) Un mémo concernant l'accès à la porte du Niveau 7 – "
+"Accès Prototypes dans les laboratoires R  D de la Fédération. Il s'agit "
+"essentiellement de claquer les mains sur des boutons, c'est amusant !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15310
 msgid ""
@@ -16971,31 +17506,33 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"fm_fs_harmony_dissonance_emitter\"]/text"
 msgstr ""
+"(émetteur de dissonance Harmonie) Peut (avec un peu de chance) vous aider à "
+"faire face à l'harmonie."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15320
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Terminer la révision de votre inventaire"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15328
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY_LEAVE\"]/text"
-msgstr "Vous ne devriez jamais voir cela."
+msgstr "Vous ne devriez jamais voir cela"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15330
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY_LEAVE\"]/choice[1]/text"
-msgstr ""
+msgstr "Terminer la révision de votre inventaire"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15334
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_INVENTORY_LEAVE\"]/choice[2]/text"
-msgstr ""
+msgstr "événement de fin."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15403
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_TEST_FIGHT\"]/text"
-msgstr ""
+msgstr "L'heure du test"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:15407
 msgid ""
