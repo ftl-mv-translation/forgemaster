@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-07 15:09+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_special_mainxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_main.xml.append:32
 msgid ""
@@ -11,16 +18,14 @@ msgid ""
 msgstr "La dette qui vous est due."
 
 #: src-en/data/events_special_main.xml.append:44
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr "Votre ressource spéciale de flak."
+msgstr "Votre ressource en flak spéciale."
 
 #: src-en/data/events_special_main.xml.append:53
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
-msgstr "Votre ressource de flak de base."
+msgstr "Votre ressource en flak de base."
 
 #: src-en/data/events_special_main.xml.append:68
 msgid ""

@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -26,176 +33,176 @@ msgstr "Atticus"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:322
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:324
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:337
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:349
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:350
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:362
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:374
 msgid ""
 "data/hyperspace.xml.append$//mantis_warlord[@name=\"Winchester III\"]/@name"
-msgstr ""
+msgstr "Winchester III"
 
 #: src-en/data/hyperspace.xml.append:375
 msgid ""
 "data/hyperspace.xml.append$//unique_remington[@name=\"Remington MK "
 "III\"]/@name"
-msgstr ""
+msgstr "Remington MK III"
 
 #: src-en/data/hyperspace.xml.append:376
 msgid ""
 "data/hyperspace.xml.append$//unique_mossberg[@name=\"Mossberg MK "
 "III\"]/@name"
-msgstr ""
+msgstr "Mossberg MK III"
 
 #: src-en/data/hyperspace.xml.append:401
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"P.Escobar\"]/@name"
-msgstr ""
+msgstr "P. Escobar"
 
 #: src-en/data/hyperspace.xml.append:402
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Marcola\"]/@name"
-msgstr ""
+msgstr "Marcola"
 
 #: src-en/data/hyperspace.xml.append:403
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Osiel\"]/@name"
-msgstr ""
+msgstr "Osiel"
 
 #: src-en/data/hyperspace.xml.append:404
 msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Chapo\"]/@name"
-msgstr ""
+msgstr "Chapo"
 
 #: src-en/data/hyperspace.xml.append:421
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Frehm\"]/@name"
-msgstr ""
+msgstr "Frehm"
 
 #: src-en/data/hyperspace.xml.append:422
 msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Ripley\"]/@name"
-msgstr ""
+msgstr "Ripley"
 
 #: src-en/data/hyperspace.xml.append:423
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
-msgstr ""
+msgstr "Kovacs"
 
 #: src-en/data/hyperspace.xml.append:424
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
-msgstr ""
+msgstr "Graziano"
 
 #: src-en/data/hyperspace.xml.append:433
 msgid "data/hyperspace.xml.append$//engi[@name=\"Armstrong\"]/@name"
-msgstr ""
+msgstr "Armstrong"
 
 #: src-en/data/hyperspace.xml.append:434
 msgid "data/hyperspace.xml.append$//engi_separatist[@name=\"Monsoon\"]/@name"
-msgstr ""
+msgstr "Monsoon"
 
 #: src-en/data/hyperspace.xml.append:469
 msgid "data/hyperspace.xml.append$//mantis[@name=\"Naktul\"]/@name"
-msgstr ""
+msgstr "Naktul"
 
 #: src-en/data/hyperspace.xml.append:470
 msgid "data/hyperspace.xml.append$//mantis_free[@name=\"Yagdra\"]/@name"
-msgstr ""
+msgstr "Yagdra"
 
 #: src-en/data/hyperspace.xml.append:471
 msgid "data/hyperspace.xml.append$//mantis_suzerain[@name=\"Zurvan\"]/@name"
-msgstr ""
+msgstr "Zurvan"
 
 #: src-en/data/hyperspace.xml.append:472
 msgid "data/hyperspace.xml.append$//mantis_bishop[@name=\"Zagara\"]/@name"
-msgstr ""
+msgstr "Zagara"
 
 #: src-en/data/hyperspace.xml.append:600
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"bacon\"]/@name"
-msgstr ""
+msgstr "bacon"
 
 #: src-en/data/hyperspace.xml.append:601
 msgid "data/hyperspace.xml.append$//unique_eater[@name=\"Speck\"]/@name"
-msgstr ""
+msgstr "Speck"
 
 #: src-en/data/hyperspace.xml.append:704
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Zed\"]/@name"
-msgstr ""
+msgstr "Zed"
 
 #: src-en/data/hyperspace.xml.append:705
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Maynard\"]/@name"
-msgstr ""
+msgstr "Maynard"
 
 #: src-en/data/hyperspace.xml.append:706
 msgid "data/hyperspace.xml.append$//engi[@name=\"Dell\"]/@name"
-msgstr ""
+msgstr "Dell"
 
 #: src-en/data/hyperspace.xml.append:707
 msgid "data/hyperspace.xml.append$//human_medic[@name=\"Ludwig\"]/@name"
-msgstr ""
+msgstr "Ludwig"
 
 #: src-en/data/hyperspace.xml.append:802
 msgid ""
@@ -205,7 +212,7 @@ msgstr "Volpe"
 
 #: src-en/data/hyperspace.xml.append:803
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bellamy\"]/@name"
-msgstr ""
+msgstr "Bellamy"
 
 #: src-en/data/hyperspace.xml.append:804
 msgid ""
@@ -215,19 +222,19 @@ msgstr "Atticus"
 
 #: src-en/data/hyperspace.xml.append:805
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Burnette\"]/@name"
-msgstr ""
+msgstr "Burnette"
 
 #: src-en/data/hyperspace.xml.append:806
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Halford\"]/@name"
-msgstr ""
+msgstr "Halford"
 
 #: src-en/data/hyperspace.xml.append:807
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Kallio\"]/@name"
-msgstr ""
+msgstr "Kallio"
 
 #: src-en/data/hyperspace.xml.append:808
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bavitz\"]/@name"
-msgstr ""
+msgstr "Bavitz"
 
 #: src-en/data/hyperspace.xml.append:809
 msgid ""
@@ -251,39 +258,39 @@ msgstr "Convy"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
-msgstr "Palerme"
+msgstr "Palermo"
 
 #: src-en/data/hyperspace.xml.append:813
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Dirnt\"]/@name"
-msgstr ""
+msgstr "Dirnt"
 
 #: src-en/data/hyperspace.xml.append:841
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 1\"]/@name"
-msgstr ""
+msgstr "Agent 1"
 
 #: src-en/data/hyperspace.xml.append:842
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 2\"]/@name"
-msgstr ""
+msgstr "Agent 2"
 
 #: src-en/data/hyperspace.xml.append:843
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 3\"]/@name"
-msgstr ""
+msgstr "Agent 3"
 
 #: src-en/data/hyperspace.xml.append:844
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 4\"]/@name"
-msgstr ""
+msgstr "Agent 4"
 
 #: src-en/data/hyperspace.xml.append:845
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 5\"]/@name"
-msgstr ""
+msgstr "Agent 5"
 
 #: src-en/data/hyperspace.xml.append:846
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 6\"]/@name"
-msgstr ""
+msgstr "Agent 6"
 
 #: src-en/data/hyperspace.xml.append:847
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 7\"]/@name"
-msgstr ""
+msgstr "Agent 7"
 
 #: src-en/data/hyperspace.xml.append:848
 msgid ""
@@ -311,7 +318,7 @@ msgstr "Palerme"
 
 #: src-en/data/hyperspace.xml.append:852
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Pterodactyl\"]/@name"
-msgstr ""
+msgstr "Ptérodactyle"
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
@@ -319,55 +326,55 @@ msgstr "Freddy"
 
 #: src-en/data/hyperspace.xml.append:1112
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy?\"]/@name"
-msgstr ""
+msgstr "Freddy ?"
 
 #: src-en/data/hyperspace.xml.append:1113
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fred\"]/@name"
-msgstr ""
+msgstr "Fred"
 
 #: src-en/data/hyperspace.xml.append:1114
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Frederick\"]/@name"
-msgstr ""
+msgstr "Frederick"
 
 #: src-en/data/hyperspace.xml.append:1115
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[5]/@name"
-msgstr ""
+msgstr "Franz"
 
 #: src-en/data/hyperspace.xml.append:1116
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[6]/@name"
-msgstr ""
+msgstr "Franz"
 
 #: src-en/data/hyperspace.xml.append:1117
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Ferdinand\"]/@name"
-msgstr ""
+msgstr "Ferdinand"
 
 #: src-en/data/hyperspace.xml.append:1118
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
-msgstr ""
+msgstr "Foog. I"
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
-msgstr ""
+msgstr "Fumblemore"
 
 #: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
-msgstr ""
+msgstr "Foog. II"
 
 #: src-en/data/hyperspace.xml.append:1121
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Lord Foog\"]/@name"
-msgstr ""
+msgstr "Seigneur Foog"
 
 #: src-en/data/hyperspace.xml.append:1122
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
-msgstr ""
+msgstr "Feddy"
 
 #: src-en/data/hyperspace.xml.append:1123
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
-msgstr ""
+msgstr "Fazbear"
 
 #: src-en/data/hyperspace.xml.append:1177
 msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
@@ -377,102 +384,102 @@ msgstr "Tuco"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[1]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1179
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[2]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1180
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[3]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1181
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[4]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1182
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[5]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1183
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[6]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1184
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[7]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1185
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[8]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1186
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[9]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1187
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[10]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1188
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[11]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1189
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[12]/@name"
-msgstr ""
+msgstr "Enfant sauvage"
 
 #: src-en/data/hyperspace.xml.append:1302
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"B.O.S.D.\"]/@name"
-msgstr ""
+msgstr "B.O.S.D."
 
 #: src-en/data/hyperspace.xml.append:1303
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Abort\"]/@name"
-msgstr ""
+msgstr "Abandonner"
 
 #: src-en/data/hyperspace.xml.append:1304
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Retry\"]/@name"
-msgstr ""
+msgstr "Réessayer"
 
 #: src-en/data/hyperspace.xml.append:1305
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Fail\"]/@name"
-msgstr ""
+msgstr "Échec"
 
 #: src-en/data/hyperspace.xml.append:1306
 msgid ""
 "data/hyperspace.xml.append$//fm_human_texture[@name=\"ErrorNotFound\"]/@name"
-msgstr ""
+msgstr "Erreur non trouvée"
 
 #: src-en/data/hyperspace.xml.append:1307
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"NaN\"]/@name"
-msgstr ""
+msgstr "NaN"
 
 #: src-en/data/hyperspace.xml.append:1308
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
-msgstr ""
+msgstr "BonziBuddy"
 
 #: src-en/data/hyperspace.xml.append:1309
 msgid ""
@@ -482,11 +489,11 @@ msgstr "ERREUR"
 
 #: src-en/data/hyperspace.xml.append:1310
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Vista\"]/@name"
-msgstr ""
+msgstr "Vista"
 
 #: src-en/data/hyperspace.xml.append:1311
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Keyboard\"]/@name"
-msgstr ""
+msgstr "Clavier"
 
 #: src-en/data/hyperspace.xml.append:1312
 msgid ""
@@ -502,37 +509,37 @@ msgstr "ERREUR"
 
 #: src-en/data/hyperspace.xml.append:1613
 msgid "data/hyperspace.xml.append$//butler[@name=\"Candy\"]/@name"
-msgstr ""
+msgstr "Candy"
 
 #: src-en/data/hyperspace.xml.append:1614
 msgid "data/hyperspace.xml.append$//butler[@name=\"Krystal\"]/@name"
-msgstr ""
+msgstr "Krystal"
 
 #: src-en/data/hyperspace.xml.append:1615
 msgid "data/hyperspace.xml.append$//butler[@name=\"Chastity\"]/@name"
-msgstr ""
+msgstr "Chasteté"
 
 #: src-en/data/hyperspace.xml.append:1627
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
-msgstr ""
+msgstr "Winchester"
 
 #: src-en/data/hyperspace.xml.append:1629
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_remington[@name=\"Remington\"]/@name"
-msgstr ""
+msgstr "Remington"
 
 #: src-en/data/hyperspace.xml.append:1630
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
-msgstr ""
+msgstr "Mossberg"
 
 #: src-en/data/hyperspace.xml.append:1649
 msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
-msgstr ""
+msgstr "Randall"
 
 #: src-en/data/hyperspace.xml.append:1765
 msgid ""
@@ -548,7 +555,7 @@ msgstr "Vance"
 
 #: src-en/data/hyperspace.xml.append:1767
 msgid "data/hyperspace.xml.append$//unique_ooj[@name=\"Oojie\"]/@name"
-msgstr ""
+msgstr "Oojie"
 
 #: src-en/data/hyperspace.xml.append:1768
 msgid ""
@@ -568,7 +575,7 @@ msgstr "Illuminée"
 
 #: src-en/data/hyperspace.xml.append:1771
 msgid "data/hyperspace.xml.append$//sylvanmaid[@name=\"Digger\"]/@name"
-msgstr ""
+msgstr "Digger"
 
 #: src-en/data/hyperspace.xml.append:1772
 msgid "data/hyperspace.xml.append$//nemesismfk[@name=\"Leah\"]/@name"
@@ -579,147 +586,240 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[1]/tooltip"
 msgstr ""
+"ACCÉLÉRATEUR FORGÉ :\n"
+"\t\t\t\t\tL'armure unique de cet ennemi lui confère 25 chances de résister à "
+"TOUS les types de dégâts de vos armes. Les incendies brûlent 50% plus "
+"lentement, scellent les brèches très lentement, réduisent de moitié la "
+"suffocation, et l'équipage répare les systèmes spécifiques significativement "
+"plus vite et la progression des réparations n'est pas perdue en cas "
+"d'interruption (et le pilotage est toujours assuré par un homme)."
 
 #: src-en/data/hyperspace.xml.append:1801
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[2]/tooltip"
 msgstr ""
+"LES ROBOTS MÉDICAUX FORGÉS :\n"
+"\t\t\t\t\tCette baie médicale unique soigne tous les membres d'équipage "
+"alliés et leur confère une résistance de 20 % aux dégâts des armes, mais sa "
+"force et sa résistance dépendent de la puissance du système médical. Il "
+"continue de soigner légèrement les membres d'équipage s'il est détruit ou "
+"non alimenté. Les soins de base sont de 1 pv/s, et de 2,5 pv/s à 4 d'énergie."
 
 #: src-en/data/hyperspace.xml.append:1807
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[3]/tooltip"
 msgstr ""
+"AUGMENTATION DE LA FAILLE DIMENSIONNELLE :\n"
+"\t\t\t\t\tCe vaisseau utilise une technologie provenant d'une autre "
+"dimension. Si vous parvenez à Battre ce vaisseau dément, vous pourrez vous "
+"approprier une telle technologie !"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
+"NANOMACHINES DE TRAUMATISME PHYSIQUE :\n"
+"\t\t\t\t\tLes nanomachines uniques dispensées par les drones d'équipage de "
+"ce vaisseau augmentent la santé et la résistance aux dégâts du capitaine "
+"Engi. Eliminez les drones pour pouvoir éliminer le capitaine Engi !"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[5]/tooltip"
 msgstr ""
+"GOZER LE DESTRUCTEUR :\n"
+"\t\t\t\t\tUtilisant d'étranges capacités de dédoublement, ce vaisseau "
+"\"dédouble\" lentement mais sûrement son équipage, et le rematérialise sur "
+"votre vaisseau. Eliminer leur équipage pour arrêter le vaisseau !"
 
 #: src-en/data/hyperspace.xml.append:1825
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[6]/tooltip"
 msgstr ""
+"DISPERSION DES ROBOTUEURS :\n"
+"\t\t\t\t\tCe vaisseau ennemi est rempli de nanobots meurtriers qui "
+"endommageront passivement votre équipage au fil du temps. Le nom donne "
+"l'impression qu'il est beaucoup plus violent qu'il ne l'est."
 
 #: src-en/data/hyperspace.xml.append:1831
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[7]/tooltip"
 msgstr ""
+"ARMURE CRISTALLINE DÉFORMÉE :\n"
+"\t\t\t\t\tChaque fois que vous infligez des dégâts de coque à cet ennemi "
+"avec vos armes, il y a 50 % de chances que 3x mines cristaliennes se "
+"détachent et volent vers votre vaisseau. Elles transperceront tous les "
+"boucliers et infligeront 1 dégât à une pièce aléatoire si elles touchent, en "
+"plus d'étourdir l'équipage et de verrouiller la pièce."
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
+"PIÈCES RÉSISTANTES, VARIANTE :\n"
+"\t\t\t\t\tCet ennemi possède une ou plusieurs salles résistantes, marquées "
+"par une bordure grise et l'icône R en haut à gauche. Les salles résistantes "
+"ne subissent NORMALEMENT aucun dégât système de la part des armes, mais "
+"peuvent être endommagées par l'équipage et les incendies. Les salles "
+"résistantes subissent les dégâts des ions et de la coque comme d'habitude.\n"
+"\t\t\t\t\tL'icône \"R\" sur la pièce du vaisseau indique ce statut, et en "
+"fonction de l'état de remplissage de l'icône, la pièce est plus susceptible "
+"de résister aux dégâts des armes."
 
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[9]/tooltip"
 msgstr ""
+"PIÈCES FORGÉES ÉNERGISÉES :\n"
+"\t\t\t\t\tCet ennemi dispose d'une ou plusieurs pièces énergisées, "
+"qu'Alastair semble avoir personnalisées. Ces pièces \"énergisées\" sont 50% "
+"plus résistantes au sabotage, et l'équipage ennemi subit 30% de dégâts en "
+"moins lorsqu'il se trouve à l'intérieur. De plus, votre équipage subit 3 "
+"dégâts par seconde dans ces pièces."
 
 #: src-en/data/hyperspace.xml.append:1850
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[10]/tooltip"
 msgstr ""
+"PHÉROMONES STIMULANTES :\n"
+"\t\t\t\t\tCe vaisseau ennemi est rempli de phéromones. Celles-ci confèrent à "
+"l'équipage 1.5x max pv, 20 % de réduction des dégâts et 80 % de résistance à "
+"l'étouffement."
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[11]/tooltip"
 msgstr ""
+"SYSTÈMES D'ALTÉRATION DE LA RÉALITÉ :\n"
+"\t\t\t\t\tCet ennemi possède une puissante panoplie d'armes et de systèmes, "
+"mais en raison de l'étirement extrême de l'espace-temps, ses systèmes et sa "
+"coque sont endommagés toutes les 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:1864
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[12]/tooltip"
 msgstr ""
+"COQUE MODULAIRE SURAMÉLIORÉE :\n"
+"\t\t\t\t\tvous ne devriez pas voir ça"
 
 #: src-en/data/hyperspace.xml.append:1869
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[13]/tooltip"
 msgstr ""
+"COLLECTEURS DE DÉRIVATION DU COMPRESSEUR :\n"
+"\t\t\t\t\tles armes ennemies se chargent 30 % plus vite, mais leurs "
+"boucliers se chargent 60 % plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1874
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
+"BARRIÈRE CYCLIQUE INFINIE :\n"
+"\t\t\t\t\t15 % de chance pour les projectiles entrants d’être détruits par "
+"les boucliers. Pour chaque barre non alimentée du système de boucliers, la "
+"chance qu’un projectile ne soit pas détruit est réduite de 15 %. De plus, +"
+"50 % de recharge des boucliers pour chaque barre non alimentée"
 
 #: src-en/data/hyperspace.xml.append:1879
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[15]/tooltip"
 msgstr ""
+"ARSENAL CYCLIQUE INFINI :\n"
+"\t\t\t\t\tLes armes ennemies se chargent 5 % plus lentement, mais se "
+"chargent 15 % plus vite pour chaque barre non alimentée du système d’armement"
 
 #: src-en/data/hyperspace.xml.append:1884
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[16]/tooltip"
 msgstr ""
+"STRUCTURE DE COQUE ÉLECTROMAGNÉTIQUE :\n"
+"\t\t\t\t\t10 % de chance de résister aux dégâts des systèmes, 30 % de chance "
+"de résister aux dégâts ioniques, vitesse de déionisation +50 %"
 
 #: src-en/data/hyperspace.xml.append:1889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
+"BOUCLIERS PARTICULARISÉS : \n"
+"\t\t\t\t\tLes boucliers ennemis se chargent 50 % plus lentement, mais ils "
+"gagnent 8 couches d’énergie supplémentaires"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[18]/tooltip"
 msgstr ""
+"CALIBREUR D'ORDONNANCE INEFFABLE :\n"
+"\t\t\t\t\tLes armes ennemies se chargent 10 % plus lentement, mais votre "
+"chance de résistance à la coque, aux systèmes et aux ions est réduite de 15 "
+"% et les attaques de brèche gagnent +40 % de risque de brèche"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[19]/tooltip"
 msgstr ""
+"ALLUMEUR D'ARMEMENT :\n"
+"\t\t\t\t\tles armes ennemies se chargent 50% plus vite mais la salle d'armes "
+"est enflammée à chaque fois qu'ils tirent"
 
 #: src-en/data/hyperspace.xml.append:1904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[20]/tooltip"
 msgstr ""
+"BROUILLEUR OFFENSIF :\n"
+"\t\t\t\t\tVOS armes se chargent 20% plus lentement mais les boucliers "
+"ennemis se rechargent 30% plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[21]/tooltip"
 msgstr ""
+"BROUILLEUR DÉFENSIF :\n"
+"\t\t\t\t\tVOS boucliers se chargent 30% plus lentement et votre système "
+"d'occultation a 5s de plus de temps de recharge"
 
 #: src-en/data/hyperspace.xml.append:1914
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[22]/tooltip"
 msgstr ""
+"SYSTÈME DE RÉPARATION D'URGENCE :\n"
+"\t\t\t\t\tCe vaisseau dispose d'une sorte de système de réparation d'urgence "
+"en cas d'avarie critique de la coque."
 
 #: src-en/data/hyperspace.xml.append:3105
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3126
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3147
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3168
 msgid ""
@@ -729,22 +829,22 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3182
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3208
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3226
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3244
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3262
 msgid ""
@@ -754,27 +854,27 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3276
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "AUGMENTATIONS RARES"
 
 #: src-en/data/hyperspace.xml.append:3290
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[6]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3317
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3335
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3348
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3366
 msgid ""
@@ -784,32 +884,32 @@ msgstr "ÉQUIPAGE"
 #: src-en/data/hyperspace.xml.append:3387
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3405
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3423
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[3]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3441
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[4]/customTitle"
-msgstr ""
+msgstr "ARMES"
 
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
-msgstr ""
+msgstr "AUGMENTATIONS RARES"
 
 #: src-en/data/hyperspace.xml.append:3476
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[6]/customTitle"
-msgstr ""
+msgstr "DRONES"
 
 #: src-en/data/hyperspace.xml.append:3494
 msgid ""
@@ -820,157 +920,198 @@ msgstr "ÉQUIPAGE"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/name"
-msgstr ""
+msgstr "\\1 Fin de l'avenir sombre"
 
 #: src-en/data/hyperspace.xml.append:4221
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/description"
 msgstr ""
+"Explorer un fragment d'un avenir sombre à bord de n'importe quel modèle de "
+"l' \\1"
 
 #: src-en/data/hyperspace.xml.append:4223
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretName"
-msgstr ""
+msgstr "\\1 Fin ?????"
 
 #: src-en/data/hyperspace.xml.append:4224
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretDescription"
 msgstr ""
+"Découvrir une future menace multiverselle à bord de n'importe quel modèle de "
+"l' \\1"
 
 #: src-en/data/hyperspace.xml.append:4324
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Corrosion"
 
 #: src-en/data/hyperspace.xml.append:4325
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/tooltip"
 msgstr ""
+"Brûle la coque toutes les 10 secondes, inflige des dégâts passifs à "
+"l'équipage se trouvant dans la même pièce en permanence"
 
 #: src-en/data/hyperspace.xml.append:4423
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Impulsion"
 
 #: src-en/data/hyperspace.xml.append:4424
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/tooltip"
 msgstr ""
+"Toutes les 9 secondes, inflige automatiquement 1 dégât ionique à la pièce "
+"actuelle et étourdit brièvement tous les membres d'équipage qui s'y "
+"trouvent. Peu de dégâts en combat. Ralentit la vitesse de déplacement de "
+"tous les autres membres d'équipage dans la pièce. Inflige 2 dégâts ioniques "
+"à la mort."
 
 #: src-en/data/hyperspace.xml.append:4547
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Impulsion"
 
 #: src-en/data/hyperspace.xml.append:4548
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"Toutes les 9 secondes, inflige automatiquement 1 dégât ionique à la pièce "
+"actuelle et étourdit brièvement tous les membres d'équipage qui s'y "
+"trouvent. Peu de dégâts en combat. Ralentit la vitesse de déplacement de "
+"tous les autres membres d'équipage dans la pièce. Inflige 2 dégâts ioniques "
+"à la mort."
 
 #: src-en/data/hyperspace.xml.append:4887
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/buttonText"
-msgstr "REFORGER"
+msgstr "REFORGE"
 
 #: src-en/data/hyperspace.xml.append:4888
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement "
+"le Maître des forges et allume des feux."
 
 #: src-en/data/hyperspace.xml.append:4970
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/buttonText"
-msgstr "REFORGER"
+msgstr "REFORGE"
 
 #: src-en/data/hyperspace.xml.append:4971
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement "
+"le Maître des forges et allume des feux. Ne subit aucun dégât pendant "
+"l'exécution de la capacité."
 
 #: src-en/data/hyperspace.xml.append:5052
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/buttonText"
-msgstr "REFORGER"
+msgstr "REFORGE"
 
 #: src-en/data/hyperspace.xml.append:5053
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt :  Répare 4 dégâts système et 1 dégât de coque. Soigne le Plaqué pour "
+"20 pv. Ne subit aucun dégât pendant l'exécution de la capacité."
 
 #: src-en/data/hyperspace.xml.append:5105
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/buttonText"
-msgstr ""
+msgstr "POLIR"
 
 #: src-en/data/hyperspace.xml.append:5106
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
 msgstr ""
+"Prêt :  Inflige des dégâts aux ennemis pour 15pv, tout en les soignant pour "
+"20pv. Devient insensible aux étourdissements, inflige 20% de dégâts "
+"supplémentaires à distance, gagne 70% de résistance à tous les dégâts, tout "
+"en se déplaçant à 2x la vitesse pendant la durée. La pièce devient "
+"entièrement résistante aux dégâts système pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:5176
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ABSORBE"
 
 #: src-en/data/hyperspace.xml.append:5177
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 15s]\n"
+"\t\t\t\t\tFusionner avec un Séparatiste Cobalt dans la même pièce pour "
+"former un Séparatiste Déformé."
 
 #: src-en/data/hyperspace.xml.append:5242
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "RENAITRE"
 
 #: src-en/data/hyperspace.xml.append:5243
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 10s]\n"
+"\t\t\t\tHé, vous devriez pas lire ça ! Foutez le camp !"
 
 #: src-en/data/hyperspace.xml.append:5285
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "TRANSFORME"
 
 #: src-en/data/hyperspace.xml.append:5286
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20s]\n"
+"\t\t\t\tSe transforme en Séparatiste de Cobalt, inflige 1 dégât à la coque "
+"et au système, et ouvre une brèche dans la salle actuelle."
 
 #: src-en/data/hyperspace.xml.append:5311
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "Cobalt"
 
 #: src-en/data/hyperspace.xml.append:5316
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "Bronze"
 
 #: src-en/data/hyperspace.xml.append:5350
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "SÉPARE"
 
 #: src-en/data/hyperspace.xml.append:5351
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 15s]\n"
+"\t\t\t\t\tSéparer à nouveau en deux Séparatistes."
 
 #: src-en/data/hyperspace.xml.append:5357
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Cobalt"
 
 #: src-en/data/hyperspace.xml.append:5381
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/buttonText"
-msgstr ""
+msgstr "Absorbe"
 
 #: src-en/data/hyperspace.xml.append:5382
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE : 20s]\n"
+"\t\t\t\tAbsorbe tous les membres d'équipage amicaux dans la pièce, leur "
+"accordant des boosts permanents."
 
 #: src-en/data/hyperspace.xml.append:5527
 msgid ""
@@ -980,7 +1121,7 @@ msgstr "FEU"
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Provoque un incendie."
 
 #: src-en/data/hyperspace.xml.append:5595
 msgid ""
@@ -990,7 +1131,7 @@ msgstr "ION"
 #: src-en/data/hyperspace.xml.append:5596
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Génère Ion et Étourdissement."
 
 #: src-en/data/hyperspace.xml.append:5662
 msgid ""
@@ -1000,27 +1141,27 @@ msgstr "BRECHE"
 #: src-en/data/hyperspace.xml.append:5663
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Génère une Brèche et inflige des dégâts à l’équipage."
 
 #: src-en/data/hyperspace.xml.append:5735
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "OMNI"
 
 #: src-en/data/hyperspace.xml.append:5736
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Inflige TOUS les effets cristallins."
 
 #: src-en/data/hyperspace.xml.append:5803
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "VIDE"
 
 #: src-en/data/hyperspace.xml.append:5804
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Génère un cristal aléatoire"
 
 #: src-en/data/hyperspace.xml.append:5902
 msgid ""
@@ -1031,6 +1172,9 @@ msgstr "BOUCLIER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux "
+"tentatives de contrôle mental et réduit les dégâts de suffocation subis par "
+"les alliés proches de 50% pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:6001
 msgid ""
@@ -1041,6 +1185,9 @@ msgstr "BOUCLIER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux "
+"tentatives de contrôle mental et réduit les dégâts de feu subis par les "
+"alliés proches de 50% pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:6752
 msgid ""
@@ -1050,6 +1197,7 @@ msgstr "CONSUMER"
 #: src-en/data/hyperspace.xml.append:6753
 msgid "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : inflige 1 dégât système et ouvre une brèche dans la pièce actuelle"
 
 #: src-en/data/hyperspace.xml.append:6788
 msgid ""
@@ -1060,16 +1208,21 @@ msgstr "SACRIFICE"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Tue tous les fantômes amis dans la même pièce, en envoyant des copies "
+"sur le vaisseau ennemi"
 
 #: src-en/data/hyperspace.xml.append:7236
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "L'HEURE DU THÉ"
 
 #: src-en/data/hyperspace.xml.append:7237
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Inflige 50 dégâts à tous les ennemis dans la salle pendant 5 "
+"secondes, avec une furie dévastatrice de coups. La vitesse de déplacement "
+"est multipliée par 9 pendant toute la durée de l’effet."
 
 #: src-en/data/hyperspace.xml.append:7444
 msgid ""
@@ -1079,76 +1232,86 @@ msgstr "FEU"
 #: src-en/data/hyperspace.xml.append:7445
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Automatique : active une Vague de Flammes"
 
 #: src-en/data/hyperspace.xml.append:7505
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHARGE"
 
 #: src-en/data/hyperspace.xml.append:7506
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/tooltip"
 msgstr ""
+"Automatique : Soigne de 20pv, inflige 1 ion, 4 secondes d'étourdissement et "
+"10 points de dégâts à l'équipage ennemi."
 
 #: src-en/data/hyperspace.xml.append:7575
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "DÉCHARGE"
 
 #: src-en/data/hyperspace.xml.append:7576
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/tooltip"
 msgstr ""
+"Automatique : Déchaîne périodiquement une décharge d’énergie, soignant tous "
+"les alliés des deux vaisseaux de 20pv et infligeant 10pv de dégâts à tout l’"
+"équipage ennemi."
 
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ÉPIDÉMIE"
 
 #: src-en/data/hyperspace.xml.append:8530
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/tooltip"
 msgstr ""
+"Automatique : Répand davantage de virus en utilisant sa propre biomasse et "
+"les homme à chair à proximité, infligeant des dégâts sur la durée permanent "
+"sur lui-même et les autres hommes à chair."
 
 #: src-en/data/hyperspace.xml.append:8625
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "C'EST EN FEU"
 
 #: src-en/data/hyperspace.xml.append:8626
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt :  Provoque un incendie."
 
 #: src-en/data/hyperspace.xml.append:10349
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/buttonText"
-msgstr ""
+msgstr "LIBÉRATION DES LIMITES"
 
 #: src-en/data/hyperspace.xml.append:10350
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/tooltip"
 msgstr ""
+"Prêt : Augmente les dégâts infligés, réduit les dégâts subis, mais cesse de "
+"fournir de l'énergie pendant la durée."
 
 #: src-en/data/hyperspace.xml.append:10795
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Bois d'allumage"
 
 #: src-en/data/hyperspace.xml.append:10796
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : S'enflamme et crée un incendie"
 
 #: src-en/data/hyperspace.xml.append:10820
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Bois d'allumage"
 
 #: src-en/data/hyperspace.xml.append:10821
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : S'enflamme et crée un incendie"
 
 #: src-en/data/hyperspace.xml.append:10923
 msgid ""
@@ -1159,16 +1322,21 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 15 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Peut être lancé rapidement, mais se régénère peu."
 
 #: src-en/data/hyperspace.xml.append:10959
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:10960
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Régénère lentement les points de vie perdus et "
+"quelques points supplémentaires pendant 26 secondes."
 
 #: src-en/data/hyperspace.xml.append:10994
 msgid ""
@@ -1179,6 +1347,9 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
+"et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11034
 msgid ""
@@ -1189,36 +1360,46 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
+"et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11076
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11077
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 40 dégâts et répare entièrement le système actuel. Régénère "
+"lentement la santé perdue pendant 26 secondes."
 
 #: src-en/data/hyperspace.xml.append:11112
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11113
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 50 dégâts et inflige 30 dégâts à l'équipage ennemi et 2 dégâts "
+"aux systèmes ennemis. Se fortifie pendant 15 secondes : 0,3x les dégâts "
+"subis."
 
 #: src-en/data/hyperspace.xml.append:11148
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11149
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 10 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Peut être lancé rapidement, mais se régénère peu."
 
 #: src-en/data/hyperspace.xml.append:11186
 msgid ""
@@ -1229,6 +1410,10 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 30 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement les points de vie perdus, soigne "
+"les amis proches de 4 pv/s et obtient une résistance à la suffocation de 75 "
+"% pendant 13 secondes."
 
 #: src-en/data/hyperspace.xml.append:11237
 msgid ""
@@ -1239,16 +1424,21 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 15 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Peut être lancé rapidement, mais se régénère peu."
 
 #: src-en/data/hyperspace.xml.append:11273
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11274
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Régénère lentement les points de vie perdus et "
+"quelques points supplémentaires pendant 26 secondes."
 
 #: src-en/data/hyperspace.xml.append:11308
 msgid ""
@@ -1259,6 +1449,9 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
+"et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11348
 msgid ""
@@ -1269,36 +1462,46 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
+"et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11390
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11391
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 40 dégâts et répare entièrement le système actuel. Régénère "
+"lentement la santé perdue pendant 26 secondes."
 
 #: src-en/data/hyperspace.xml.append:11426
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11427
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 50 dégâts et inflige 30 dégâts à l'équipage ennemi et 2 dégâts "
+"aux systèmes ennemis. Se fortifie pendant 15 secondes : 0,3x les dégâts "
+"subis."
 
 #: src-en/data/hyperspace.xml.append:11462
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "COMBUSTION VIRALE"
 
 #: src-en/data/hyperspace.xml.append:11463
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 10 dégâts et inflige 15 dégâts à l'équipage ennemi et 1 dégât "
+"aux systèmes ennemis. Peut être lancé rapidement, mais se régénère peu."
 
 #: src-en/data/hyperspace.xml.append:11500
 msgid ""
@@ -1309,47 +1512,53 @@ msgstr "COMBUSTION"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
+"Prêt : Subit 30 dégâts et soigne tous les membres d'équipage amis dans la "
+"pièce à pleine santé. Régénère lentement les points de vie perdus, soigne "
+"les amis proches de 4 pv/s et obtient une résistance à la suffocation de 75 "
+"% pendant 13 secondes."
 
 #: src-en/data/hyperspace.xml.append:12125
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "BRÛLE"
 
 #: src-en/data/hyperspace.xml.append:12126
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Prêt : Allume un feu dans la pièce actuelle."
 
 #: src-en/data/hyperspace.xml.append:13538
 msgid ""
 "data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "coords_spider"
 
 #: src-en/data/hyperspace.xml.append:13544
 msgid ""
 "data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS_TOOLATE\"]/mod:findWithChildLike/mod:selector"
-msgstr ""
+msgstr "coords_spider"
 
 #: src-en/data/hyperspace.xml.append:15844
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "Tâche impossible"
 
 #: src-en/data/hyperspace.xml.append:15846
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/name"
-msgstr ""
+msgstr "Des organes, s'il vous plaît !"
 
 #: src-en/data/hyperspace.xml.append:15847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/description"
 msgstr ""
+"Battre le renégat B de la guilde Déformé pour obtenir l'Obscurcisseur "
+"d'Esprit."
 
 #: src-en/data/hyperspace.xml.append:15849
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15850
 msgid ""
@@ -1359,17 +1568,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/name"
-msgstr ""
+msgstr "Registre du multivers"
 
 #: src-en/data/hyperspace.xml.append:15855
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/description"
 msgstr ""
+"Battre le renégat B Crépusculeur déformé pour obtenir les gilets du "
+"Crépuscule."
 
 #: src-en/data/hyperspace.xml.append:15857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15858
 msgid ""
@@ -1379,17 +1590,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15862
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/name"
-msgstr ""
+msgstr "Nanites de Renforcement"
 
 #: src-en/data/hyperspace.xml.append:15863
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/description"
 msgstr ""
+"Battre le Renégat C Engi Déformé pour obtenir l'Amplificateur de Drone KAI."
 
 #: src-en/data/hyperspace.xml.append:15865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15866
 msgid ""
@@ -1399,17 +1611,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15870
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/name"
-msgstr ""
+msgstr "Britannia"
 
 #: src-en/data/hyperspace.xml.append:15871
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
-msgstr ""
+msgstr "Battre le renégat B Mantis libre déformé pour obtenir le Thé."
 
 #: src-en/data/hyperspace.xml.append:15873
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15874
 msgid ""
@@ -1419,17 +1631,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15878
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/name"
-msgstr ""
+msgstr "Symbolisme"
 
 #: src-en/data/hyperspace.xml.append:15879
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
-msgstr ""
+msgstr "Battre le Renégat B Séparatiste Déformé pour obtenir le Magatama."
 
 #: src-en/data/hyperspace.xml.append:15881
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15882
 msgid ""
@@ -1439,17 +1651,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15886
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
-msgstr ""
+msgstr "Ruée Zerg"
 
 #: src-en/data/hyperspace.xml.append:15887
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/description"
 msgstr ""
+"Battre le renégat B de la ruche Déformé pour obtenir l'accélérateur de "
+"phéromones."
 
 #: src-en/data/hyperspace.xml.append:15889
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15890
 msgid ""
@@ -1459,17 +1673,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15894
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/name"
-msgstr ""
+msgstr "Paix forcée"
 
 #: src-en/data/hyperspace.xml.append:15895
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/description"
 msgstr ""
+"Battre le renégat B moine B pour obtenir les Boucliers d'Ascension Éther."
 
 #: src-en/data/hyperspace.xml.append:15897
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15898
 msgid ""
@@ -1479,17 +1694,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15902
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/name"
-msgstr ""
+msgstr "RÉSISTER"
 
 #: src-en/data/hyperspace.xml.append:15903
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/description"
 msgstr ""
+"Battre le renégat C Rocailleux Déformé pour obtenir la Relique de Liberté "
+"des Rocailleux."
 
 #: src-en/data/hyperspace.xml.append:15905
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15906
 msgid ""
@@ -1499,17 +1716,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15910
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/name"
-msgstr ""
+msgstr "Dernière heure"
 
 #: src-en/data/hyperspace.xml.append:15911
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
 msgstr ""
+"Battre le renégat B Lost Sun Déformé pour obtenir le Rechargeur à Réalité "
+"Distordue."
 
 #: src-en/data/hyperspace.xml.append:15913
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15914
 msgid ""
@@ -1519,17 +1738,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15918
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/name"
-msgstr ""
+msgstr "Purifié Purgé"
 
 #: src-en/data/hyperspace.xml.append:15919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
-msgstr ""
+msgstr "Battre le renégat C limace déformée pour obtenir le Quasar de Malboro."
 
 #: src-en/data/hyperspace.xml.append:15921
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15922
 msgid ""
@@ -1539,17 +1758,26 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15926
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/name"
-msgstr ""
+msgstr "CEn'a pas"
 
 #: src-en/data/hyperspace.xml.append:15927
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
 msgstr ""
+"Battre le Renégat B Furtif Déformé pour obtenir le pour obtenir le pour "
+"obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
+"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir "
+"le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
+"obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
+"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir "
+"le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
+"obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
+"pour obtenir le pour obtenir le pour obtenir le ... arrêt en cours."
 
 #: src-en/data/hyperspace.xml.append:15929
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15930
 msgid ""
@@ -1559,17 +1787,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/name"
-msgstr ""
+msgstr "La gratuité évitée"
 
 #: src-en/data/hyperspace.xml.append:15935
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/description"
 msgstr ""
+"Battre le renégat C Zoltan Déformé pour obtenir la Libération des Limites."
 
 #: src-en/data/hyperspace.xml.append:15937
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15938
 msgid ""
@@ -1579,17 +1808,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15942
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/name"
-msgstr ""
+msgstr "bacon"
 
 #: src-en/data/hyperspace.xml.append:15943
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/description"
 msgstr ""
+"Battre le renégat B Lanius Déformé pour obtenir le Cœur Ardent de Ferraille."
 
 #: src-en/data/hyperspace.xml.append:15945
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15946
 msgid ""
@@ -1599,17 +1829,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15950
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/name"
-msgstr ""
+msgstr "Quarantaine"
 
 #: src-en/data/hyperspace.xml.append:15951
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/description"
 msgstr ""
+"Battre le renégat C Coquilles Déformé pour obtenir l'Arme biologique à "
+"combustion."
 
 #: src-en/data/hyperspace.xml.append:15953
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15954
 msgid ""
@@ -1619,17 +1851,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15958
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/name"
-msgstr ""
+msgstr "etirophocih tnemres"
 
 #: src-en/data/hyperspace.xml.append:15959
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/description"
 msgstr ""
+"Battre le renégat B Ingénieur Déformé pour obtenir l'Amplificateur de Drone "
+"MK II."
 
 #: src-en/data/hyperspace.xml.append:15961
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15962
 msgid ""
@@ -1639,17 +1873,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15966
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/name"
-msgstr ""
+msgstr "Gardien des portes"
 
 #: src-en/data/hyperspace.xml.append:15967
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/description"
-msgstr ""
+msgstr "Battre le renégat B Kestrel Déformé pour obtenir le Frigo de Gozer."
 
 #: src-en/data/hyperspace.xml.append:15969
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15970
 msgid ""
@@ -1659,17 +1893,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15974
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/name"
-msgstr ""
+msgstr "Rayon de justice"
 
 #: src-en/data/hyperspace.xml.append:15975
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
 msgstr ""
+"Battre le renégat B Fed Déformé pour obtenir le Fabricateur de Munitions "
+"Déformé."
 
 #: src-en/data/hyperspace.xml.append:15977
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15978
 msgid ""
@@ -1679,17 +1915,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15982
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/name"
-msgstr ""
+msgstr "Fun-Guy"
 
 #: src-en/data/hyperspace.xml.append:15983
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/description"
-msgstr ""
+msgstr "Battre le renégat C Orchidée Déformé pour se faire des amis."
 
 #: src-en/data/hyperspace.xml.append:15985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15986
 msgid ""
@@ -1699,17 +1935,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15990
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/name"
-msgstr ""
+msgstr "L'enfer des balles"
 
 #: src-en/data/hyperspace.xml.append:15991
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/description"
 msgstr ""
+"Battre le renégat C Cristalien Déformé pour obtenir l'Armuréclat Déformé."
 
 #: src-en/data/hyperspace.xml.append:15993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:15994
 msgid ""
@@ -1719,17 +1956,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:15998
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/name"
-msgstr ""
+msgstr "Plus de décès"
 
 #: src-en/data/hyperspace.xml.append:15999
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/description"
-msgstr ""
+msgstr "Battre le renégat B Tuco Déformé pour obtenir le Tuco d'or."
 
 #: src-en/data/hyperspace.xml.append:16001
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16002
 msgid ""
@@ -1739,17 +1976,18 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:16006
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/name"
-msgstr ""
+msgstr "Moteurs débrayés"
 
 #: src-en/data/hyperspace.xml.append:16007
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/description"
 msgstr ""
+"Battre le renégat C Sangsue Déformé pour obtenir l'Émetteur de Dépression."
 
 #: src-en/data/hyperspace.xml.append:16009
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16010
 msgid ""
@@ -1758,19 +1996,19 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16014
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/name"
-msgstr ""
+msgstr "Je n'ai pas le temps pour ça"
 
 #: src-en/data/hyperspace.xml.append:16015
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/description"
-msgstr ""
+msgstr "Ne perdez pas de temps avec le Kestrel B Déformée."
 
 #: src-en/data/hyperspace.xml.append:16017
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[1]"
-msgstr ""
+msgstr "pas de temps"
 
 #: src-en/data/hyperspace.xml.append:16018
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16019
 msgid ""
@@ -1779,22 +2017,24 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:16023
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/name"
-msgstr ""
+msgstr "Des choses gratuites !"
 
 #: src-en/data/hyperspace.xml.append:16024
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/description"
 msgstr ""
+"Accepter la proposition du renégat C Zoltan Déformé pour obtenir des objets "
+"gratuits."
 
 #: src-en/data/hyperspace.xml.append:16026
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[1]"
-msgstr ""
+msgstr "Woah, des objets gratuits ?!"
 
 #: src-en/data/hyperspace.xml.append:16027
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
-msgstr ""
+msgstr "Renégat Déformé Vaincu"
 
 #: src-en/data/hyperspace.xml.append:16028
 msgid ""
@@ -1804,158 +2044,176 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:16035
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
-msgstr ""
+msgstr "Faveur de Thest"
 
 #: src-en/data/hyperspace.xml.append:16037
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
-msgstr ""
+msgstr "Faveur du Plaqué"
 
 #: src-en/data/hyperspace.xml.append:16038
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la faveur du Plaqué de la part de Thest."
 
 #: src-en/data/hyperspace.xml.append:16039
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
 msgstr ""
+"Montrez un membre d'équipage Plaqué à Thest. \n"
+"\t\t\t\t\tPendant l'effet ; tous les membres d'équipage Plaqués gagnent +1 "
+"charge de capacité."
 
 #: src-en/data/hyperspace.xml.append:16041
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16047
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
-msgstr ""
+msgstr "Privilèges de Corby"
 
 #: src-en/data/hyperspace.xml.append:16049
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
-msgstr ""
+msgstr "Pouvoir de l'armure"
 
 #: src-en/data/hyperspace.xml.append:16050
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
-msgstr ""
+msgstr "Recevez le pouvoir de l'armure de Corby."
 
 #: src-en/data/hyperspace.xml.append:16051
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
 msgstr ""
+"Montrez la Coque Modulaire à Corby. \n"
+"\t\t\t\t\tPendant l'effet ; la Coque Modulaire gagne +5 de capacité de crans."
 
 #: src-en/data/hyperspace.xml.append:16053
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16059
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[3]/mod:selector/@text"
-msgstr ""
+msgstr "Les bénédictions de Wakeson"
 
 #: src-en/data/hyperspace.xml.append:16061
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
-msgstr ""
+msgstr "Bénédiction des forges"
 
 #: src-en/data/hyperspace.xml.append:16062
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la bénédiction des forges de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:16063
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
 msgstr ""
+"Montrez une arme forgée à Wakeson. \n"
+"\t\t\t\t\tPendant l'effet ; Le Maître des forges apparaît automatiquement "
+"sans appel."
 
 #: src-en/data/hyperspace.xml.append:16065
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
-msgstr ""
+msgstr "Grande bénédiction des forges"
 
 #: src-en/data/hyperspace.xml.append:16071
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Grande bénédiction des forges de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:16072
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
 msgstr ""
+"Montrez une arme forgée de haute qualité à Wakeson. \n"
+"\t\t\t\t\tPendant l'effet ; Le Maître des forges dispose d'un magasin plus "
+"grand et de meilleure qualité."
 
 #: src-en/data/hyperspace.xml.append:16074
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16079
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
-msgstr ""
+msgstr "Bénédiction des téméraires"
 
 #: src-en/data/hyperspace.xml.append:16080
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Bénédiction de ??? de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:16081
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
 msgstr ""
+"Montrez la technologie Ancalagon à Wakeson. \n"
+"\t\t\t\t\tPendant l'effet ; les cristaux Ancalagon gagnent 50% de résistance "
+"aux dégâts."
 
 #: src-en/data/hyperspace.xml.append:16083
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
-msgstr ""
+msgstr "Faveur reçue"
 
 #: src-en/data/hyperspace.xml.append:16089
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
-msgstr ""
+msgstr "La bénédiction de la torsion"
 
 #: src-en/data/hyperspace.xml.append:16090
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la Bénédiction de ??? de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:16091
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
 msgstr ""
+"Montrer le Terminus à Wakeson. \n"
+"\t\t\t\t\tPendant l'effet ; Toutes les statistiques de l'équipage sont "
+"augmentées de 5%, la plupart des statistiques des vaisseaux sont augmentées "
+"de 5%."
 
 #: src-en/data/hyperspace.xml.append:16093
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
-msgstr ""
+msgstr "Faveur reçue"

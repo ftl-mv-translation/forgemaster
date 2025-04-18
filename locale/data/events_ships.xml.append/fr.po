@@ -1,18 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_shipsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_ships.xml.append:28
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_COORDS_GIVER\"]/loadEventList/event/text"
 msgstr ""
+"Le logiciel que C.U.R.A vous a fourni vous permet également de scanner la "
+"faille par laquelle le vaisseau est arrivé, il télécharge rapidement les "
+"coordonnées dans votre base de données. Le logiciel affiche un message "
+"simple en référence à ces coordonnées : \"Retrouve-les ici, Renégat.\""
 
 #: src-en/data/events_ships.xml.append:43
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/text"
-msgstr ""
+msgstr "Un énorme croiseur de conception Smuggler sort du tunnel !"
 
 #: src-en/data/events_ships.xml.append:46
 msgid ""
@@ -23,16 +34,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Vous recevez un appel du vaisseau et vous acceptez. \"Nous sssommes des "
+"marchands d’organes multiversssel. Veuillez faire don de vos zzorganes "
+"immédiatement. Ccc’est pour une bonne cauzzze.\""
 
 #: src-en/data/events_ships.xml.append:50
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Que pensez-vous de ....non ?"
 
 #: src-en/data/events_ships.xml.append:52
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Faites un don maintenant. Essspèccce d'ordure.\""
 
 #: src-en/data/events_ships.xml.append:54
 msgid ""
@@ -42,7 +56,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:56
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:60
 msgid ""
@@ -53,10 +67,18 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"ce qui semble être un laboratoire de réplication chimique dépassant les "
+"limites de la science moderne, étiqueté \"Ambrosia\". Il dégage une aura d’"
+"un autre monde."
 
 #: src-en/data/events_ships.xml.append:94
 msgid "data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/text"
 msgstr ""
+"Vous récupérez le laboratoire Ambrosia et commencez à reproduire la drogue "
+"Ambrosia, puis vous vous assurez de la distribuer à tous les membres "
+"d'équipage."
 
 #: src-en/data/events_ships.xml.append:96
 msgid ""
@@ -67,6 +89,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/choice/event/text"
 msgstr ""
+"Votre équipage est désormais immunisé contre les effets de contrôle mental. ["
+"L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:100
 msgid ""
@@ -80,15 +104,22 @@ msgstr "..."
 #: src-en/data/events_ships.xml.append:126
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_BRAIN_DONATION\"]/text"
 msgstr ""
+"Vous démantelez l'Obscurcisseur d'Esprit pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:141
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également ce qui semble être un laboratoire de réplication chimique "
+"dépassant les limites de la science moderne, étiqueté \"Ambrosia\". Il "
+"dégage une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:184
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/text"
-msgstr ""
+msgstr "Un énorme croiseur de conception Crépusculeur sort du tunnel !"
 
 #: src-en/data/events_ships.xml.append:187
 msgid ""
@@ -99,16 +130,22 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Vous recevez un appel du vaisseau et vous acceptez. À votre surprise, ils "
+"sont étonnamment polis et directs. \"Vraiment désolés, nous tentons de "
+"battre le record Guinness Multiversel du plus grand nombre de crimes de "
+"guerre en un seul combat. Vous nous pardonnerez, n’est-ce pas ?\""
 
 #: src-en/data/events_ships.xml.append:191
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "...Non ?"
 
 #: src-en/data/events_ships.xml.append:193
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"J'ai bien peur que vous n'ayez pas le choix. Bonne journée, et gloire à "
+"tous les Crépusculeurs !\""
 
 #: src-en/data/events_ships.xml.append:195
 msgid ""
@@ -118,7 +155,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:197
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:201
 msgid ""
@@ -129,10 +166,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un ensemble de gilets à l’apparence étrange, étiquetés \"Record du Monde\". "
+"Ils dégagent une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:234
 msgid "data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/text"
 msgstr ""
+"Vous récupérez les Vestes du Crépuscule et obligez tous les membres "
+"d'équipage à les enfiler. Étrangement, personne ne résiste ou ne discute, "
+"comme hypnotisé par l'aura de la veste."
 
 #: src-en/data/events_ships.xml.append:236
 msgid ""
@@ -143,6 +187,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/choice/event/text"
 msgstr ""
+"Ajoute un effet de mort à tous les membres d’équipage alliés non-Zoltan, les "
+"faisant exploser à leur décès, infligeant 45 dégâts à l’équipage ennemi et "
+"provoquant parfois des incendies. [L’augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:241
 msgid ""
@@ -152,11 +199,17 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:261
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_DEATH_VESTS2\"]/text"
 msgstr ""
+"Vous démantelez les Vestes du Crépuscule pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:276
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également un ensemble de gilets à l’apparence étrange, étiquetés "
+"\"Record du Monde\". Ils dégagent une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:317
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/text"
@@ -175,21 +228,31 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Pas la peine. Mon vaisseau se réplique en permanence grâce à des "
+"nanomachines, capitaine. Il se durcit en réponse aux traumatismes physiques."
+"\""
 
 #: src-en/data/events_ships.xml.append:326
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/choice/text"
 msgstr ""
+"Qu'est-ce que cela signifie ? [L'Engi semble s'adapter au nombre de drones à "
+"bord de leur vaisseau.]"
 
 #: src-en/data/events_ships.xml.append:336
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un amplificateur de drones à l’apparence étrange, étiqueté \"Kai\"."
 
 #: src-en/data/events_ships.xml.append:358
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/text"
 msgstr ""
+"Vous installez l'Amplificateur de Drone \"Kai\" dans les systèmes internes "
+"de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:360
 msgid ""
@@ -200,6 +263,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/choice/event/text"
 msgstr ""
+"Cette amélioration permet à vos drones de charger leurs capacités avec un "
+"temps de recharge deux fois plus rapide ! [L'Augmentation a été internalisée "
+"!]"
 
 #: src-en/data/events_ships.xml.append:364
 msgid ""
@@ -210,15 +276,23 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_COOLDOWN\"]/text"
 msgstr ""
+"Vous démantelez l'Amplificateur de Drone \"Kai\" pour récupérer de "
+"précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:399
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également un amplificateur de drones à l’apparence étrange, "
+"étiqueté \"Kai\"."
 
 #: src-en/data/events_ships.xml.append:437
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Mantis libre sort du tunnel ! Il est peint "
+"de couleurs vives et arbore un étrange drapeau."
 
 #: src-en/data/events_ships.xml.append:440
 msgid ""
@@ -229,16 +303,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le vaisseau vous contacte : \"Je vous le dis, mon bon ami, nous sommes ici "
+"pour revendiquer cet univers pour Sa Majesté. POUR BRITANNIA ! HI HO !\""
 
 #: src-en/data/events_ships.xml.append:444
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Ce n'est pas un secteur dont j'ai entendu parler."
 
 #: src-en/data/events_ships.xml.append:446
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Vous INSULTEZ la réputation de Sa Majesté ? Vous nous INSULTEZ tous, "
+"jusqu'au dernier Frederick. Comment OSEZ-VOUS ?!\""
 
 #: src-en/data/events_ships.xml.append:448
 msgid ""
@@ -248,7 +326,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:450
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:454
 msgid ""
@@ -259,15 +337,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"une réserve massive de thé, suffisamment grande pour nourrir une armée "
+"entière."
 
 #: src-en/data/events_ships.xml.append:481
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:488
 msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/text"
-msgstr ""
+msgstr "Vous ajoutez du thé Earl Grey à la cafétéria de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:490
 msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/text"
@@ -277,6 +359,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/event/text"
 msgstr ""
+"Un thé délicieux que même Sa Majesté apprécierait. Confère à toutes les "
+"Mantis alliées +20% de vitesse de réparation et +15 points de vie max. ["
+"L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:494
 msgid ""
@@ -286,51 +371,59 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:504
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:508
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[@req=\"scrapped_freemantis\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:512
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:514
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_TEA_EARL\"]/text"
-msgstr ""
+msgstr "Vous démantelez le thé Earl Grey pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:528
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également une réserve massive de thé, suffisamment grande pour "
+"nourrir une armée entière."
 
 #: src-en/data/events_ships.xml.append:540
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:549
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:553
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[@req=\"scrapped_freemantis\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:557
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le thé Earl Grey."
 
 #: src-en/data/events_ships.xml.append:568
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Lost Sun sort du tunnel ! Le vaisseau "
+"semble être blindé et recouvert d'un énorme bouclier ancien. Il dispose de "
+"l'un des arsenaux les plus dangereux que vous ayez jamais vus. Cependant, "
+"quelque chose semble... anormal."
 
 #: src-en/data/events_ships.xml.append:571
 msgid ""
@@ -341,30 +434,45 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le capitaine du Lost Sun grogne : \"Hmmph. Nous t'avons enfin trouvé, mon "
+"fils. Nous avons traversé d'innombrables réalités pour arriver à ce moment "
+"précis. Il semble que le tissu de l'espace et du temps ait fait des ravages "
+"sur notre vaisseau en prenant ce pari colossal. Je parierais qu'il nous "
+"reste 90 secondes avant de nous effondrer. Mais n'ayez crainte, nous avons "
+"largement le temps d'arrêter une horreur galactique telle que vous ! Même la "
+"distorsion de la réalité ne peut plus nous arrêter !\"\n"
+"\t\t\t\t\tUn puissant signal de brouillage frappe votre vaisseau, toutes les "
+"améliorations de combat et les contrôles de combat sont désactivés ! "
+"Certains de vos systèmes semblent également endommagés."
 
 #: src-en/data/events_ships.xml.append:579
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:587
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Qu'est-ce que je fais maintenant ?"
 
 #: src-en/data/events_ships.xml.append:596
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un appareil étrangement déformé, qui semble être d’origine technologique."
 
 #: src-en/data/events_ships.xml.append:608
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:615
 msgid "data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/text"
 msgstr ""
+"Vous ajoutez l'Accélérateur de Réalité dans les systèmes internes de votre "
+"vaisseau."
 
 #: src-en/data/events_ships.xml.append:617
 msgid ""
@@ -375,6 +483,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/choice/event/text"
 msgstr ""
+"Augmente le temps de recharge des armes et le taux de recharge des boucliers "
+"de 15 %. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:621
 msgid ""
@@ -384,52 +494,61 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:632
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:636
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[@req=\"scrapped_lostsun\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:640
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:642
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_REALITY_RELOADER\"]/text"
 msgstr ""
+"Vous démantelez l'Accélérateur de Réalité pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:656
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un appareil étrangement déformé, qui semble être d’origine technologique."
 
 #: src-en/data/events_ships.xml.append:667
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:676
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:680
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[@req=\"scrapped_lostsun\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:684
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Accélérateur de Réalité."
 
 #: src-en/data/events_ships.xml.append:690
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/text"
 msgstr ""
+"15 secondes après le début du combat, vous constatez qu'une énorme explosion "
+"se produit à l'intérieur du vaisseau ennemi. Qu'est-ce qui vient de se "
+"passer ? Une grande partie des propulseurs du vaisseau semble s'être "
+"désintégrée."
 
 #: src-en/data/events_ships.xml.append:694
 msgid ""
@@ -439,12 +558,15 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:698
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:708
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/text"
 msgstr ""
+"Une nouvelle explosion retentit à l'intérieur du vaisseau ennemi. Les "
+"systèmes de drones du vaisseau ennemi s'effondrent, et vous observez "
+"d'innombrables pièces de drones s'éparpiller depuis la soute du vaisseau."
 
 #: src-en/data/events_ships.xml.append:712
 msgid ""
@@ -454,12 +576,15 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:716
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:726
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/text"
 msgstr ""
+"Une nouvelle explosion massive éclate à l'intérieur du vaisseau ennemi. Le "
+"système de bouclier du vaisseau ennemi est déchiré par l'explosion, et peut "
+"à peine rester en ligne."
 
 #: src-en/data/events_ships.xml.append:730
 msgid ""
@@ -469,12 +594,14 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:734
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:744
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/text"
 msgstr ""
+"Une nouvelle explosion retentit à l'intérieur du vaisseau ennemi. Les armes "
+"ennemies sont touchées de plein fouet et restent à peine en ligne."
 
 #: src-en/data/events_ships.xml.append:748
 msgid ""
@@ -484,12 +611,15 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:752
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:762
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/text"
 msgstr ""
+"Une nouvelle explosion massive éclate à l'intérieur du vaisseau ennemi. Le "
+"système d'armement de l'ennemi n'a pas pu supporter une nouvelle explosion "
+"et a été mis hors service !"
 
 #: src-en/data/events_ships.xml.append:766
 msgid ""
@@ -499,22 +629,26 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:770
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Le vaisseau ennemi est déchiré par le tissu de la réalité."
 
 #: src-en/data/events_ships.xml.append:780
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/text"
 msgstr ""
+"Le vaisseau entier semble être déchiré de l'intérieur ! Heureusement, sa "
+"soute est larguée avant qu'il n'explose complètement."
 
 #: src-en/data/events_ships.xml.append:784
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/choice/text"
-msgstr ""
+msgstr "C'était... étrange."
 
 #: src-en/data/events_ships.xml.append:799
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Mantis sort du tunnel ! Il semble avoir une "
+"énorme cicatrice le long de sa coque."
 
 #: src-en/data/events_ships.xml.append:803
 msgid ""
@@ -525,16 +659,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le vaisseau met un temps anormalement long à vous contacter. \"Nous te "
+"tuons, stupide imbécile de non-Mantis !\" Ils ont l'air d'être des "
+"compagnons sympathiques."
 
 #: src-en/data/events_ships.xml.append:807
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Devons-nous vraiment nous battre ? Pourquoi ?"
 
 #: src-en/data/events_ships.xml.append:809
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"On s'ennuie, dès qu'on aura compris comment fonctionne notre téléporteur "
+"poussiéreux, vous êtes morts, GROS morts !\""
 
 #: src-en/data/events_ships.xml.append:811
 msgid ""
@@ -545,6 +684,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Il semble qu'ils aient des difficultés à alimenter leur téléporteur. Agissez "
+"vite ! Vous n'aurez pas le temps de faire un test de combat."
 
 #: src-en/data/events_ships.xml.append:815
 msgid ""
@@ -554,12 +695,12 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:817
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:823
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "L'ennemi rétablira la fonctionnalité de son téléporteur après 1 minute."
 
 #: src-en/data/events_ships.xml.append:828
 msgid ""
@@ -570,15 +711,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un étrange sac de phéromones, irradiant une lueur d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:858
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:865
 msgid "data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/text"
 msgstr ""
+"Vous ajoutez l'accélérateur à phéromones dans les systèmes internes de votre "
+"vaisseau."
 
 #: src-en/data/events_ships.xml.append:867
 msgid ""
@@ -589,6 +735,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/choice/event/text"
 msgstr ""
+"Réduit le temps de recharge des capacités des Mantis de 20 %. Réduit de 8% "
+"tous les dégâts subis par votre équipage de Mantis. "
+"[L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:871
 msgid ""
@@ -598,50 +747,58 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:883
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:887
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[@req=\"scrapped_mantis\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:891
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:893
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MANTIS_RELOADER\"]/text"
 msgstr ""
+"Vous démantelez l'accélérateur de phéromones pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:907
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un étrange sac de phéromones, irradiant une lueur d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:922
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:931
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:935
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[@req=\"scrapped_mantis\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:939
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'accélérateur de phéromones."
 
 #: src-en/data/events_ships.xml.append:951
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/text"
 msgstr ""
+"Un croiseur massif de type moine sort du tunnel ! Les vaisseaux de moines "
+"Zoltan sont rarement aussi bien armés, mais il semble que la plupart de "
+"leurs armes soient des armes à ions et à effet paralysant !"
 
 #: src-en/data/events_ships.xml.append:954
 msgid ""
@@ -652,6 +809,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Vous devez apprendre à vous détendre et à méditer. Heureusement, nous "
+"avons l'équipement nécessaire pour vous y contraindre, si vous ne vous y "
+"conformez pas.\""
 
 #: src-en/data/events_ships.xml.append:960
 msgid ""
@@ -662,16 +822,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un module de bouclier Éther de couleur rouge..."
 
 #: src-en/data/events_ships.xml.append:980
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:987
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/text"
 msgstr ""
+"Vous ajoutez les Boucliers d'Ascension Éther aux systèmes de boucliers "
+"internes de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:989
 msgid ""
@@ -682,6 +847,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/event/text"
 msgstr ""
+"Effets : Fournit un bonus de 6 points de bouclier énergétique qui se "
+"cumulent avec les autres boucliers énergétiques. [L'Augmentation a été "
+"internalisé !]"
 
 #: src-en/data/events_ships.xml.append:993
 msgid ""
@@ -691,51 +859,59 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1004
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1008
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[@req=\"scrapped_monk\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1012
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1014
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_FM_UPG_AETHER_SHIELDS\"]/text"
 msgstr ""
+"Vous démantelez les Boucliers d'Ascension Éther pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:1028
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un module de bouclier Éther de couleur rouge..."
 
 #: src-en/data/events_ships.xml.append:1039
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1048
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1052
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[@req=\"scrapped_monk\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1056
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler les Boucliers d'Ascension Éther."
 
 #: src-en/data/events_ships.xml.append:1068
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Rocailleux sort du tunnel ! Après une "
+"seconde inspection, il apparaît clairement que l'ensemble du vaisseau est en "
+"or !"
 
 #: src-en/data/events_ships.xml.append:1071
 msgid ""
@@ -746,16 +922,21 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Vous recevez un appel du vaisseau et l’acceptez à contrecœur. \"Cinq "
+"minutes, cinq minutes, c'est tout ce dont j'ai besoin pour te botter le cul."
+"\" Un Rocailleux avec un accent étrange vous dit cela, sur un ton "
+"désagréable."
 
 #: src-en/data/events_ships.xml.append:1077
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Faite-le en trois minutes, crétin."
 
 #: src-en/data/events_ships.xml.append:1079
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Bien, c'était la bonne réponse... maintenant préparez-vous à mourir.\""
 
 #: src-en/data/events_ships.xml.append:1081
 msgid ""
@@ -766,6 +947,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Le vaisseau active ses 4 pièces d'artillerie. Elles semblent lentes à "
+"charger mais ont un effet de chaîne. Mieux vaut être rapide !"
 
 #: src-en/data/events_ships.xml.append:1087
 msgid ""
@@ -776,15 +959,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"une mystérieuse petite statue qui dégage une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:1113
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1120
 msgid "data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/text"
 msgstr ""
+"Vous ajoutez la Relique de Liberté des Rocailleux dans les systèmes internes "
+"de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:1122
 msgid ""
@@ -795,6 +983,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/choice/event/text"
 msgstr ""
+"Cette petite statue revigore vos membres d'équipage Rocailleux, ils gagnent "
+"1,8 fois la vitesse de déplacement ! [L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:1126
 msgid ""
@@ -804,46 +994,51 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1137
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1141
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[@req=\"scrapped_rock\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1145
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1147
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FREEDOM_ROCK\"]/text"
 msgstr ""
+"Vous démantelez la Relique de Liberté des Rocailleux pour obtenir de "
+"précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:1161
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également une mystérieuse petite statue qui dégage une aura d’un autre monde"
 
 #: src-en/data/events_ships.xml.append:1172
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1181
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1185
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[@req=\"scrapped_rock\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1189
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler la Relique de Liberté des Rocailleux."
 
 #: src-en/data/events_ships.xml.append:1201
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/text"
@@ -861,40 +1056,56 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Rien n'est complètement yin ni complètement yang. Toutes les choses de "
+"l'univers matériel contiennent le germe de leur force opposée... Par "
+"conséquent, le yin peut devenir yang et le yang peut également devenir yin, "
+"bien que le yin et le yang soient tous deux nécessaires pour que l'ensemble "
+"soit complet. Tout est dans l'œil de celui qui regarde - certaines des "
+"forces les plus destructrices au monde (le feu, l'eau) peuvent aussi avoir "
+"le pouvoir de la beauté.\""
 
 #: src-en/data/events_ships.xml.append:1213
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "L'ennemi passe lentement d'une aura à l'autre."
 
 #: src-en/data/events_ships.xml.append:1218
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "...Je vous demande pardon ?"
 
 #: src-en/data/events_ships.xml.append:1220
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Je sais que je ne suis pas un artisan... mais la grandeur réside dans "
+"l'acte de création et pas nécessairement dans le produit fini. La création "
+"est le yin et le yang de notre consommation et la porte de la beauté que "
+"nous voulons tous franchir. C'est en créant que je dis au monde que je "
+"l'aime. C'est en vous tuant que je vous dis que je vous aime.\""
 
 #: src-en/data/events_ships.xml.append:1222
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "La situation s'est rapidement aggravée."
 
 #: src-en/data/events_ships.xml.append:1233
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un petit amulette mystérieuse provenant du vaisseau ; elle dégage une aura d’"
+"un autre monde."
 
 #: src-en/data/events_ships.xml.append:1244
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà la Magatama."
 
 #: src-en/data/events_ships.xml.append:1251
 msgid "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/text"
-msgstr ""
+msgstr "Vous ajoutez le Magatama aux systèmes d'armement de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:1253
 msgid ""
@@ -905,6 +1116,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/event/text"
 msgstr ""
+"Cette petite breloque offre 40% de vitesse de guérison et 5% de résistance "
+"aux dégâts à tous les membres d'équipage. "
+"[L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1257
 msgid ""
@@ -914,50 +1128,56 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1268
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Magatama."
 
 #: src-en/data/events_ships.xml.append:1272
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[@req=\"scrapped_separatist\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Magatama."
 
 #: src-en/data/events_ships.xml.append:1276
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Magatama."
 
 #: src-en/data/events_ships.xml.append:1278
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_AUG_MAGATAMA\"]/text"
-msgstr ""
+msgstr "Vous démantelez le Magatama pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:1292
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un petit amulette mystérieuse provenant du vaisseau ; elle dégage "
+"une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:1303
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Magatama."
 
 #: src-en/data/events_ships.xml.append:1312
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Magatama."
 
 #: src-en/data/events_ships.xml.append:1316
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[@req=\"scrapped_separatist\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Magatama."
 
 #: src-en/data/events_ships.xml.append:1320
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Magatama."
 
 #: src-en/data/events_ships.xml.append:1326
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/text"
 msgstr ""
+"Vous remarquez que l'étrange lueur émise par le vaisseau passe du blanc au "
+"noir. Les spécifications du système du vaisseau semblent changer !"
 
 #: src-en/data/events_ships.xml.append:1331
 msgid ""
@@ -967,11 +1187,13 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:1335
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Aura actuelle : Noire. L'ennemi passe lentement d'une aura à l'autre."
 
 #: src-en/data/events_ships.xml.append:1345
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/text"
 msgstr ""
+"Vous remarquez que l'étrange lueur émise par le vaisseau passe du noir au "
+"blanc. Les spécifications du système du vaisseau semblent changer !"
 
 #: src-en/data/events_ships.xml.append:1350
 msgid ""
@@ -981,7 +1203,7 @@ msgstr "Continuer le combat..."
 #: src-en/data/events_ships.xml.append:1354
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Aura actuelle : Blanche. L'ennemi passe lentement d'une aura à l'autre."
 
 #: src-en/data/events_ships.xml.append:1370
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/text"
@@ -999,16 +1221,29 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Sur votre écran vidéo, il n'y a rien d'autre qu'une fumée grise "
+"tourbillonnante, mais lentement, une limace en armure de chevalier à "
+"l'allure très formelle apparaît ; elle tient un cigare presque aussi gros "
+"qu'elle !\n"
+"\t\t\t\t\t\"Ah, encore du combussstible pour alimenter mes feux ssssalés ! "
+"Viens jeune homme, tu verras les quessstions brûlantes répondre quand "
+"j'aurai purgé cccet univers de toute traccce des anccciens !\""
 
 #: src-en/data/events_ships.xml.append:1379
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Mais pourquoi utilisez-vous des armes anciennes ?"
 
 #: src-en/data/events_ships.xml.append:1381
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Quoi ? Des armes anccciennes ? Ccce ne sssont que mes briquets, tu crois "
+"que je peux faire démarrer ccce truc avec une allumette ?\" La limace tire "
+"une bouffée qui dure plusieurs minutes avant de continuer.\n"
+"\n"
+"\t\t\t\t\t\t\t\"Ah bon, ccc'est pas comme sssi tu allais pouvoir me "
+"ssssstopper avec ccce truc.\""
 
 #: src-en/data/events_ships.xml.append:1388
 msgid ""
@@ -1019,15 +1254,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un paquet de cigarettes."
 
 #: src-en/data/events_ships.xml.append:1410
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1417
 msgid "data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/text"
 msgstr ""
+"Vous ajoutez le Malboro Quasar au système de ventilation de votre vaisseau ("
+"pourquoi ??)."
 
 #: src-en/data/events_ships.xml.append:1419
 msgid ""
@@ -1038,6 +1278,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/choice/event/text"
 msgstr ""
+"Ces cigarettes hyper-addictives stimulent votre vitalité, mais vous causent "
+"d'horribles problèmes pulmonaires. Cela semble sain ! ...si vous êtes un "
+"imbécile. 2 fois la santé maximale pour toutes les limaces, mais 3 fois les "
+"dégâts de suffocation. [L'Augmentation a été internalisée !]"
 
 #: src-en/data/events_ships.xml.append:1423
 msgid ""
@@ -1047,51 +1291,57 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1434
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1438
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[@req=\"scrapped_slug\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1442
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1444
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MALBORO_RED\"]/text"
 msgstr ""
+"Vous démantelez le Malboro Quasar pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:1458
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un paquet de cigarettes."
 
 #: src-en/data/events_ships.xml.append:1469
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1478
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1482
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[@req=\"scrapped_slug\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1486
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Malboro Quasar."
 
 #: src-en/data/events_ships.xml.append:1497
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception furtif sort du tunnel ! Il semble y avoir "
+"quelque chose... de très anormal dans son camouflage. Pourpre ?"
 
 #: src-en/data/events_ships.xml.append:1500
 msgid ""
@@ -1109,12 +1359,14 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:1504
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "De quoi parlez-vous ?"
 
 #: src-en/data/events_ships.xml.append:1506
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Oh, super, tu dois être un insecte toi aussi. Je vais devoir te supprimer, "
+"mon pote.\""
 
 #: src-en/data/events_ships.xml.append:1508
 msgid ""
@@ -1125,6 +1377,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Le vaisseau active ses armes. Elles semblent étranges, mais pas trop "
+"dangereuses à première vue."
 
 #: src-en/data/events_ships.xml.append:1514
 msgid ""
@@ -1135,6 +1389,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"[Erreur moteur !]\n"
+"\n"
+"\t\t\tUn ou plusieurs fichiers VMT n'ont pas pu être chargés !\n"
+"\n"
+"\t\t\tMissing material : materials/FTL : SOURCE/weapon/lowfield_textureg.vmt "
+"Missing material : materialsweapon/texturemap.vmt Missing material : "
+"materials/grass/realistic3b.vmt"
 
 #: src-en/data/events_ships.xml.append:1545
 msgid ""
@@ -1145,6 +1408,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également ce qui semble être un petit mini réfrigérateur, étiqueté "
+"\"Propriété de Gozer\". Vous découvrez également [Erreur moteur !]\n"
+"\n"
+"\t\t\tUn ou plusieurs fichiers VMT n'ont pas pu être chargés !\n"
+"\n"
+"\t\t\tMissing material : materials/FTL : SOURCE/weapon/lowfield_textureg.vmt "
+"Missing material : materialsweapon/texturemap.vmt Missing material : "
+"materials/grass/realistic3b.vmt"
 
 #: src-en/data/events_ships.xml.append:1568
 msgid ""
@@ -1168,11 +1441,18 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Vaisseau de la Fédération, ici CFB-65. Votre tête est actuellement "
+"recherchée par plusieurs gouvernements inter-dimensionnels. Mais ce n'est "
+"pas pour cela que nous sommes venus ici. Nous vous avons trouvé en violation "
+"du protocole UX534-W, qui stipule clairement que les vaisseaux militaires "
+"dépassant le seuil maximal de distorsion de la réalité alloué à cet univers "
+"doivent... être récompensés et ignorés ! Je suis désolé, mais c'est la loi. "
+"Prenez notre récompense et quittez ce secteur, ou ALORS !\""
 
 #: src-en/data/events_ships.xml.append:1587
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Attendez... quoi ? Bien sûr, je prendrai votre récompense."
 
 #: src-en/data/events_ships.xml.append:1592
 msgid ""
@@ -1185,22 +1465,26 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:1597
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Attendez, cela ne faisait pas partie de l'accord !"
 
 #: src-en/data/events_ships.xml.append:1599
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Adieu, imbécile cupide.\" répond le capitaine Zoltan avant de disparaître "
+"dans un saut éclair."
 
 #: src-en/data/events_ships.xml.append:1607
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Je ne veux rien de ce que vous offrez."
 
 #: src-en/data/events_ships.xml.append:1610
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Vaisseau de la Fédération, vos actions violent nos lois. Préparez-vous à "
+"mourir rapidement et dignement."
 
 #: src-en/data/events_ships.xml.append:1614
 msgid ""
@@ -1211,16 +1495,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"un étrange appareil qui semble rayonner d'une énergie d'un autre monde."
 
 #: src-en/data/events_ships.xml.append:1636
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1642
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
 msgstr ""
+"Vous ajoutez la Libération des Limites dans l'arsenal de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:1644
 msgid ""
@@ -1231,6 +1519,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/choice/event/text"
 msgstr ""
+"Capacité active : Les Zoltans subissent 40% de dégâts en moins et infligent "
+"1.3x plus de dégâts. Ils ne fournissent pas d'énergie tant que cette "
+"capacité est active. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1649
 msgid ""
@@ -1240,52 +1531,60 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1660
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1664
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[@req=\"scrapped_zoltan\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1668
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1670
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
 msgstr ""
+"Vous démantelez la Libération des Limites pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:1684
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un étrange sac de phéromones, irradiant une lueur d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:1695
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1704
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1708
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[@req=\"scrapped_zoltan\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1712
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler la Libération des Limites."
 
 #: src-en/data/events_ships.xml.append:1723
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Coquilles sort du tunnel ! Une lumière "
+"éclatante brille à travers les fissures du vaisseau, pulsant dans des "
+"couleurs très étranges."
 
 #: src-en/data/events_ships.xml.append:1726
 msgid ""
@@ -1296,16 +1595,28 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Malheureusement, depuis que j’ai été infecté par cette abominable arme "
+"biologique, j’ai fait de mon mieux pour me mettre en quarantaine dans les "
+"vestiges de mon univers. Pourquoi vous m’avez attiré ici m’échappe "
+"totalement. L’arme biologique dans mon sang mute rapidement et se propage "
+"encore plus vite. S’il vous plaît, détruisez mon vaisseau... je vous en "
+"prie. Je vous offrirai un combat équitable, mais vous devez vous assurer que "
+"personne n’utilise jamais cette arme biologique. En quelques semaines, elle "
+"évolue vers cet état terrifiant. Arrêtez-moi, je vous en supplie.\""
 
 #: src-en/data/events_ships.xml.append:1730
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Très bien, j'accéderai à votre demande."
 
 #: src-en/data/events_ships.xml.append:1732
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"Le vaisseau active ses armes. Il semble s’agir d’armes à gaz ; protégez "
+"votre équipage du mieux possible ! De plus, vous remarquez que l’équipage "
+"ennemi semble extrêmement résistant ; le combat au corps à corps pourrait "
+"être une grave erreur."
 
 #: src-en/data/events_ships.xml.append:1736
 msgid ""
@@ -1316,21 +1627,35 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"un attaché-case contenant d'innombrables seringues remplies d'un liquide "
+"violet fluo, et elles ne semblent pas être correctement scellées non plus. "
+"Ce liquide semble dégager une énergie d'un autre monde. Vous vous souvenez "
+"que la Coquilles vous a demandé de la détruire."
 
 #: src-en/data/events_ships.xml.append:1758
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous possédez déjà l'Arme biologique à combustion."
 
 #: src-en/data/events_ships.xml.append:1762
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/text"
 msgstr ""
+"Internaliser l'Arme biologique à Combustion...\n"
+"\t\t\t\t[Cette arme biologique infecte tous les membres de votre équipage et "
+"leur confère la capacité active Combustion. Pour la race Coquilles, les "
+"capacités de Combustion existantes sont améliorées, coûtant généralement "
+"moins de points de vie ou étant plus puissantes.]"
 
 #: src-en/data/events_ships.xml.append:1767
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/text"
 msgstr ""
+"Vous récupérez l'Arme biologique à Combustion et l'emportez avec vous, sans "
+"vous rendre compte qu'en refusant de la détruire, vous avez infecté tout "
+"votre équipage."
 
 #: src-en/data/events_ships.xml.append:1769
 msgid ""
@@ -1341,6 +1666,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/choice/event/text"
 msgstr ""
+"Cet Arme biologique infecte tous les membres de votre équipage et leur donne "
+"la capacité active Combustion, même ceux qui ont déjà des capacités actives. "
+"Une fois infecté, le sujet hôte ne peut s'en débarrasser. Quant à la race "
+"Coquilles, ses capacités de combustion existantes sont améliorées, coûtant "
+"généralement moins de points de vie ou étant plus puissantes. ["
+"L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1773
 msgid ""
@@ -1350,27 +1681,33 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1783
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous possédez déjà l'Arme biologique à combustion."
 
 #: src-en/data/events_ships.xml.append:1787
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[@req=\"scrapped_shell\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Arme biologique à Combustion."
 
 #: src-en/data/events_ships.xml.append:1791
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Détruire l'Arme biologique à Combustion."
 
 #: src-en/data/events_ships.xml.append:1793
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/event/text"
 msgstr ""
+"Vous détruisez l'Arme biologique à Combustion (de la manière la plus sûre "
+"possible) et la larguez de votre vaisseau, puis vous démantelez les restes "
+"du vaisseau ennemi pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:1846
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/text"
 msgstr ""
+"Il semble que ce soit la fin de la pauvre Coquilles, mais son vaisseau "
+"envoie une vague de drones à l'aspect horrible sur le vôtre ! Peut-être s"
+"'agit-il d'un acte de représailles ?"
 
 #: src-en/data/events_ships.xml.append:1849
 msgid ""
@@ -1380,12 +1717,14 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1851
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "Ils n'arrêtent pas d'arriver ! Il faut détruire le vaisseau lui-même !"
 
 #: src-en/data/events_ships.xml.append:1864
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Ingénieurs rebelles sort du tunnel ! Il "
+"ressemble à un vaisseau médical, mais il est armé jusqu'aux DENTS."
 
 #: src-en/data/events_ships.xml.append:1867
 msgid ""
@@ -1396,6 +1735,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\".ediputs tnecca nos rinet ed erram ia n'j ,etiv sreum ,tâelp te'lS "
+"!tnasuma eterived aç iZ ?zaz ,noitarédeF al ed oessiav nu ,hooooO ?àl a no'q "
+"ec-tseuq ,mmmmH\""
 
 #: src-en/data/events_ships.xml.append:1873
 msgid ""
@@ -1406,15 +1748,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"un amplificateur de Drone de haute technologie."
 
 #: src-en/data/events_ships.xml.append:1894
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1901
 msgid "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/text"
 msgstr ""
+"Vous ajoutez l'Amplificateur de Drone MK II dans les systèmes internes de "
+"votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:1903
 msgid ""
@@ -1425,6 +1772,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/choice/event/text"
 msgstr ""
+"Vos drones gagnent une vitesse de déplacement triplée et un boost de 50 % de "
+"dégât de combat/sabotage et à la vitesse de réparation/extinction. Cumulable "
+"avec d'autres augmentations. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:1907
 msgid ""
@@ -1434,52 +1784,62 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:1918
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1922
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[@req=\"scrapped_engineer\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1926
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1928
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_SPEED_2\"]/text"
 msgstr ""
+"Vous démantelez l'Amplificateur de Drone MK II pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:1942
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous trouvez "
+"également un amplificateur de Drone de haute technologie."
 
 #: src-en/data/events_ships.xml.append:1955
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1964
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1968
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[@req=\"scrapped_engineer\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1972
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Amplificateur de Drone MK II."
 
 #: src-en/data/events_ships.xml.append:1984
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Lanius sort du tunnel ! Le vaisseau brille "
+"à la lumière de l'étoile voisine, tandis que sa coque écarlate et ses "
+"pointes acérées s'élancent vers vous. Mais celui-ci semble... différent. Ses "
+"lumières sont rouges et vous vous sentez presque... affamé en le regardant. "
+"Vous n'arrivez pas à mettre le doigt dessus."
 
 #: src-en/data/events_ships.xml.append:1987
 msgid ""
@@ -1490,25 +1850,37 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Vos communications sont immédiatement piratées par le vaisseau. Celui-ci "
+"commence à inonder votre vaisseau de bruits : \" proshutë, hirugiharra, "
+"бекон, slanina, cansalada, slanina, bacon, spek, peekon, pekoni, szalonna, "
+"beikon, bagún, bekons, сланина, bejken,\n"
+"\t\t\t\t\tboczek, tocino, cig moch\"... Cela se répète à l'infini... il doit "
+"s'agir d'une tactique de lavage de cerveau !"
 
 #: src-en/data/events_ships.xml.append:1995
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Contre-attaque !"
 
 #: src-en/data/events_ships.xml.append:2004
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"un cœur brûlant et battant, fait de ferraille. Il dégage une chaleur "
+"anormale."
 
 #: src-en/data/events_ships.xml.append:2015
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2022
 msgid "data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/text"
 msgstr ""
+"Vous ajoutez le Cœur Ardent de Ferraille aux systèmes d'armement de votre "
+"vaisseau."
 
 #: src-en/data/events_ships.xml.append:2024
 msgid "data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/choice/text"
@@ -1518,6 +1890,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/choice/event/text"
 msgstr ""
+"\"Tous les membres d'équipage Lanius normaux guérissent du feu à une vitesse "
+"de 3 pv/s, se vident moins vite de leur oxygène (70 % de réduction) et "
+"subissent 20 % de dégâts en moins au combat. "
+"[L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:2028
 msgid ""
@@ -1527,50 +1903,59 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2039
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2043
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[@req=\"scrapped_lanius\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2047
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2049
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FIRE_HEART\"]/text"
 msgstr ""
+"Vous démantelez le Cœur Ardent de Ferraille pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:2063
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous trouvez "
+"également un cœur brûlant et battant fait de ferraille. Il dégage une "
+"chaleur anormale."
 
 #: src-en/data/events_ships.xml.append:2074
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2083
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2087
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[@req=\"scrapped_lanius\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2091
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Cœur Ardent de Ferraille."
 
 #: src-en/data/events_ships.xml.append:2103
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur sort du tunnel. Il s'agit apparemment d'un ancien modèle "
+"Kestrel, très laid ! Quelque chose dans ce vaisseau décrépit vous met... "
+"très mal à l'aise."
 
 #: src-en/data/events_ships.xml.append:2106
 msgid ""
@@ -1581,26 +1966,33 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le vaisseau vous contacte immédiatement : "
+"\" Êtes-vous le Gardien des portes ? \", demande un chœur de voix d'un autre "
+"monde, mais vous ne distinguez pas grand-chose sur l'écran."
 
 #: src-en/data/events_ships.xml.append:2110
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/text"
-msgstr ""
+msgstr "(Déformé Lostsun) Je n'ai vraiment pas de temps pour les jeux."
 
 #: src-en/data/events_ships.xml.append:2112
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/text"
 msgstr ""
+"\"O-Oh... J'avais prévu tout un discours sur les clés et les portes, je "
+"suppose que c'est déplacé de ma part.\""
 
 #: src-en/data/events_ships.xml.append:2114
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice[@req=\"TWISTED_LOSTSUN\"]/text"
-msgstr ""
+msgstr "Oui, ça l'est un peu."
 
 #: src-en/data/events_ships.xml.append:2117
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/text"
 msgstr ""
+"L'ennemi semble encore plus abattu. Ses armes sont complètement hors ligne "
+"et il a perdu sa capacité à brouiller vos systèmes. Pauvre type."
 
 #: src-en/data/events_ships.xml.append:2122
 msgid ""
@@ -1610,22 +2002,30 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2130
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Oui, je suis le Gardien des portes."
 
 #: src-en/data/events_ships.xml.append:2132
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Bien, je suis le Maître des clés. Il est temps pour nous de ne faire "
+"qu'un. En utilisant nos pouvoirs suprêmes de séparation, nous serons à bord "
+"de votre vaisseau et nous réclamerons votre âme, Gardien des portes.\""
 
 #: src-en/data/events_ships.xml.append:2134
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Pourquoi ne pas utiliser un téléporteur ?"
 
 #: src-en/data/events_ships.xml.append:2136
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"....qu'est-ce qu'un téléporteur ?\" répond le chœur de voix. \"Vous visez "
+"à me tromper Gardien des portes, mais je connais vos ruses. Il est temps de "
+"mourir !\" Une sorte de bave électro-magnétique commence à se déverser de "
+"vos systèmes, en désactivant la plupart. La majorité d'entre eux semblent "
+"avoir été sabotés !"
 
 #: src-en/data/events_ships.xml.append:2147
 msgid ""
@@ -1635,22 +2035,31 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2155
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Excusez-moi ?"
 
 #: src-en/data/events_ships.xml.append:2157
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Je suis le Maître des clés. Je vois que vous feignez l'ignorance. Je "
+"découvrirai moi-même si vous cachez le Gardien des portes à bord. En "
+"utilisant nos pouvoirs suprêmes de séparation, nous serons à bord de votre "
+"vaisseau et nous réclamerons votre âme.\""
 
 #: src-en/data/events_ships.xml.append:2159
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Pourquoi ne pas utiliser un téléporteur ?"
 
 #: src-en/data/events_ships.xml.append:2161
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/choice/event/text"
 msgstr ""
+"\".... Qu'est-ce qu'un téléporteur ?\" répond le chœur de voix. \"Vous "
+"cherchez à me tromper, mais je connais vos ruses. Il est temps de mourir !\" "
+"Une sorte de bave électro-magnétique commence à se déverser de vos systèmes, "
+"en désactivant la plupart. La majorité d'entre eux semblent avoir été "
+"sabotés !"
 
 #: src-en/data/events_ships.xml.append:2172
 msgid ""
@@ -1661,15 +2070,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"ce qui semble être un petit réfrigérateur, étiqueté \"Propriété de Gozer\". "
+"Il dégage une aura d'un autre monde."
 
 #: src-en/data/events_ships.xml.append:2202
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2209
 msgid "data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/text"
-msgstr ""
+msgstr "Vous ajoutez le Frigo de Gozer à la cafétéria de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:2211
 msgid ""
@@ -1680,6 +2093,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/choice/event/text"
 msgstr ""
+"Vos membres d'équipage fantômes ne peuvent plus se déplacer à travers les "
+"murs, mais ils sont incroyablement résistant ! Tous les membres d'équipage "
+"fantômes gagnent 70 % de santé maximale et 30 % de vitesse de déplacement. "
+"[L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:2215
 msgid ""
@@ -1689,50 +2106,58 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2226
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2230
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[@req=\"scrapped_kestrel\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2234
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2236
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOZER_FRIDGE\"]/text"
 msgstr ""
+"Vous démantelez le Frigo de Gozer pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:2254
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous trouvez "
+"également ce qui semble être un petit réfrigérateur, étiqueté "
+"\"Propriété de Gozer\". Il dégage une aura d'un autre monde."
 
 #: src-en/data/events_ships.xml.append:2265
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2274
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2278
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[@req=\"scrapped_kestrel\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2282
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Frigo de Gozer."
 
 #: src-en/data/events_ships.xml.append:2330
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Fédération sort du tunnel ! Cependant, à en "
+"juger par la peinture et les décalcomanies très étranges, on peut supposer "
+"que la Fédération n'est plus propriétaire de ce vaisseau."
 
 #: src-en/data/events_ships.xml.append:2333
 msgid ""
@@ -1743,6 +2168,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"\"Ne bougez pas, bande de criminels ! J'ai VU ce que vous avez fait dans "
+"toutes ces autres réalités. J'ai apporté mon Rayon Eradicateur avec moi pour "
+"vous infliger une justice rapide !\""
 
 #: src-en/data/events_ships.xml.append:2339
 msgid ""
@@ -1753,16 +2181,22 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"ce qui semble être un réplicateur explosif imprégné d'une technologie "
+"oubliée depuis longtemps."
 
 #: src-en/data/events_ships.xml.append:2359
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2366
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/text"
 msgstr ""
+"Vous ajoutez le Fabricateur de Munitions Déformé aux systèmes internes de "
+"votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:2368
 msgid ""
@@ -1773,6 +2207,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/choice/event/text"
 msgstr ""
+"Effets : 60% de chances de ne pas utiliser de missile lors du tir d'une arme "
+"consommant des munitions. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:2372
 msgid ""
@@ -1782,52 +2218,62 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2383
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2387
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[@req=\"scrapped_federation\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2391
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2393
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_WEAPONS_REPLICATOR_2\"]/text"
 msgstr ""
+"Vous démantelez le Fabricateur de Munitions Déformé pour obtenir de "
+"précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:2407
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous trouvez "
+"également ce qui semble être un réplicateur explosif imprégné d'une "
+"technologie oubliée depuis longtemps."
 
 #: src-en/data/events_ships.xml.append:2418
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2427
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2431
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[@req=\"scrapped_federation\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2435
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Fabricateur de Munitions Déformé."
 
 #: src-en/data/events_ships.xml.append:2446
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Orchidée sort du tunnel ! Le vaisseau ici "
+"présent semble avoir une ressemblance inhabituelle avec un fruit terrien "
+"connu sous le nom de \"Fraise\", mais avec une coloration bleue, bien que ce "
+"soit probablement une coïncidence."
 
 #: src-en/data/events_ships.xml.append:2449
 msgid ""
@@ -1838,36 +2284,61 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le capitaine Orchidée vous contacte et s'éclaircit la gorge : \"Je suis un "
+"comique de chez moi, et vous allez apprécier mes blagues, ou en subir les "
+"conséquences.\""
 
 #: src-en/data/events_ships.xml.append:2453
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "D'accord, je vous donne une chance."
 
 #: src-en/data/events_ships.xml.append:2455
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"L'Orchidée poursuit : "
+"\"Quel est le fruit le plus végétarien ? C'est la 'pas steak' !\". Il attend "
+"votre rire… qui ne vient jamais. "
+"\"Que dit un citron cambrioleur ? Plus un Zeste\"\n"
+"\n"
+"\t\t\t\t\t\t\t\"Pourquoi l'abricot a-t-il invité le pruneau à dîner ? Parce "
+"qu'il ne trouvait pas de datte.\"\n"
+"\n"
+"\t\t\t\t\t\t\t\"Les jeux de mots ne compte pas pour des prunes !\""
 
 #: src-en/data/events_ships.xml.append:2462
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Rester silencieux."
 
 #: src-en/data/events_ships.xml.append:2464
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"L'Orchidée balbutie un peu : \"Que dit un oignon quand il se cogne ? Ail\" "
+"Vous ne riez toujours pas : "
+"\"Quels fruits cueille-t-on avec un tuba ? Les fruits de mer\"\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\"Que dit une orange épluchée ? On se les pèle ici\"\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\"J'ai la pèche moi !\""
 
 #: src-en/data/events_ships.xml.append:2471
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "S'il vous plaît, pas plus."
 
 #: src-en/data/events_ships.xml.append:2473
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"L'Orchidée se moque : "
+"\"Ne me raconte pas de salade et ne ramène pas ta fraise\", répond-il.\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\"Ce que je veux dire, c'est que vous êtes un mauvais "
+"public. Je te verrai en enfer, mon ami. C’est la fin des haricots !\".\n"
+"\t\t\t\t\t\t\t\t\t\t\tVous n'avez toujours pas ri."
 
 #: src-en/data/events_ships.xml.append:2481
 msgid ""
@@ -1878,6 +2349,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Une capsule de sauvetage "
+"cachée est libérée du vaisseau détruit, vous la récupérez et l'amenez à "
+"bord. Quatre Orchidées en sortent et vous disent qu'elles ont toujours "
+"détesté les blagues du capitaine et qu'elles veulent rejoindre votre "
+"équipage. Ce sont des quadruplés, et leurs parents leur ont donné le même "
+"nom parce qu'ils étaient sadiques, apparemment."
 
 #: src-en/data/events_ships.xml.append:2507
 msgid ""
@@ -1888,6 +2366,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Une capsule de "
+"sauvetage cachée est libérée du vaisseau vaincu, vous la récupérez et "
+"l'amenez à bord. Quatre Orchidées en sortent et vous disent qu'elles ont "
+"toujours détesté les blagues du capitaine et qu'elles veulent rejoindre "
+"votre équipage. Ce sont des quadruplés, et leurs parents leur ont donné le "
+"même nom parce qu'ils étaient sadiques, apparemment."
 
 #: src-en/data/events_ships.xml.append:2525
 msgid ""
@@ -1898,6 +2383,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Cristalienne sort du tunnel ! Il semble "
+"être équipé d'une arme flak étrange et dangereuse !"
 
 #: src-en/data/events_ships.xml.append:2540
 msgid ""
@@ -1907,7 +2394,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2542
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau ne vous contacte pas du tout, il attaque immédiatement."
 
 #: src-en/data/events_ships.xml.append:2545
 msgid ""
@@ -1917,7 +2404,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2547
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:2551
 msgid ""
@@ -1928,6 +2415,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Dans les restes du "
+"vaisseau, vous trouvez un interrupteur qui fonctionne encore et qui vous "
+"permet de reproduire une coque cristalline unique pour votre vaisseau.\n"
+"\t\t\t[NOTE : Vous ne pouvez pas internaliser cet augmentation]"
 
 #: src-en/data/events_ships.xml.append:2577
 msgid ""
@@ -1938,6 +2430,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Dans les restes du "
+"vaisseau, vous trouvez un interrupteur qui fonctionne encore et qui vous "
+"permet de reproduire une coque cristalline unique pour votre vaisseau.\n"
+"\t\t\t[NOTE : Vous ne pouvez pas internaliser cet augmentation]"
 
 #: src-en/data/events_ships.xml.append:2597
 msgid ""
@@ -1947,6 +2444,9 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2608
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Héphaïstos ! Il semble cependant avoir été "
+"entièrement remodelé ; il est couvert de publicités, de jouets et "
+"d'autres.... décorations \"mignonnes\". Mais que se passe-t-il donc ?"
 
 #: src-en/data/events_ships.xml.append:2611
 msgid ""
@@ -1957,6 +2457,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Vous êtes contacté par le vaisseau : Un message pré-enregistré commence à "
+"être diffusé :\n"
+"\t\t\t\t\t\"BIENVENUE AU JARDIN-CASINO DE PAPA TUCO.\n"
+"\t\t\t\t\tNOUS ESPÉRONS QUE VOUS VOUS RÉJOUISSIEZ DE VOTRE-Votre-Votre-mon-"
+"repas...\""
 
 #: src-en/data/events_ships.xml.append:2618
 msgid ""
@@ -1967,16 +2472,28 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"L'enregistrement se poursuit, semblant bégayer et s'interrompre au fur et à "
+"mesure : \"Fatigués de voir vos bébés dévorés par des rebelles affamés ? "
+"Fatigués que des gens envoient des drones pour administrer des injections "
+"mortelles à vos enfants ? Vous voulez juste que vos bébés Orchidée s'en "
+"aillent ?\n"
+"\t\t\t\t\t\t\tPapa Tuco a la solution pour vous ! Les gâteaux d'engrais, le "
+"bowling aux graines, l'exercice aux graines et la salle de jeux Tiger Lily "
+"ne sont que quelques-unes des attractions disponibles au JARDIN-CASINO DE "
+"PAPA TUCO !\""
 
 #: src-en/data/events_ships.xml.append:2624
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Vous en avez vu assez, faire ce qu'il faut. Attaquer."
 
 #: src-en/data/events_ships.xml.append:2626
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Dès que vous activez vos armes, un autre enregistrement se fait entendre : "
+"\"Les vilains visiteurs sont mis en arrêt de travail PERMANENT. Allez les "
+"enfants, c'est l'heure de l'exercice d'intrusion !\""
 
 #: src-en/data/events_ships.xml.append:2630
 msgid ""
@@ -1987,15 +2504,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez ce qui "
+"reste d'un vieux paquet cadeau. À l'intérieur se trouve un personnage doré, "
+"à l'aura d'un autre monde."
 
 #: src-en/data/events_ships.xml.append:2655
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2662
 msgid "data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/text"
 msgstr ""
+"Vous ajoutez le Tuco doré au décor de la salle de loisirs de votre vaisseau."
 
 #: src-en/data/events_ships.xml.append:2664
 msgid ""
@@ -2006,6 +2528,11 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/choice/event/text"
 msgstr ""
+"Cette figurine dorée de l'édition limitée du Jardin-Casino de Tuco réchauffe "
+"l'intérieur de votre équipage. Offre une réduction de 30 % du temps de "
+"recharge des capacités actives à tous les membres de votre équipage (sauf "
+"les Mantis, les Mantis DÉTESTENT les figurines). [L'Augmentation a été "
+"internalisée !]"
 
 #: src-en/data/events_ships.xml.append:2668
 msgid ""
@@ -2015,51 +2542,56 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2679
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2683
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[@req=\"scrapped_tuco\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2687
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2689
 msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOLDEN_TUCO\"]/text"
-msgstr ""
+msgstr "Vous démantelez le Tuco doré pour obtenir de précieuses ressources."
 
 #: src-en/data/events_ships.xml.append:2703
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous découvrez "
+"également un étrange sac de phéromones, irradiant une lueur d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:2714
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2723
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2727
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[@req=\"scrapped_tuco\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2731
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler le Tuco doré."
 
 #: src-en/data/events_ships.xml.append:2745
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/text"
 msgstr ""
+"Un énorme croiseur de conception Sangsue ! Il est peint dans des couleurs "
+"très... émotives ?"
 
 #: src-en/data/events_ships.xml.append:2749
 msgid ""
@@ -2070,71 +2602,97 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/text"
 msgstr ""
+"Le vaisseau ne fait absolument rien de notable, aucun de ses systèmes n'est "
+"alimenté à ce que l'on peut voir. Soudain, vos générateurs SPL sont "
+"sérieusement touchés et refusent de se charger. Que se passe-t-il ?"
 
 #: src-en/data/events_ships.xml.append:2753
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Contacter les Sangsues."
 
 #: src-en/data/events_ships.xml.append:2755
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"Vous contactez les Sangsues, elles vous ignorent. Vous les contactez encore "
+"17 fois et finalement une Sangsue à l'air très triste répond à l'appel. Elle "
+"ne dit rien et vous regarde d'un air absent."
 
 #: src-en/data/events_ships.xml.append:2757
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Bonjour ?"
 
 #: src-en/data/events_ships.xml.append:2759
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\" ...Je suis tellement triste et seul après qu'elle m'ait quitté mec, tu ne "
+"comprendrais pas... \" répond la Sangsue, vous prenant au dépourvu. Elle "
+"sanglote légèrement."
 
 #: src-en/data/events_ships.xml.append:2761
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Qui vous a quitté ?"
 
 #: src-en/data/events_ships.xml.append:2763
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"La Sangsue se mouche et réfléchit un instant : "
+"\" ... Je suis désolé, qui es-tu déjà ? \""
 
 #: src-en/data/events_ships.xml.append:2765
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Je suis un ami, je peux vous aider si vous le souhaitez."
 
 #: src-en/data/events_ships.xml.append:2767
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Vraiment ? O-okay, voilà ce qui ne va pas...\" commence la Sangsue. Elle "
+"parle, et parle, et parle encore. Elle parle de problèmes qui semblent "
+"parfois à peine liés les uns aux autres.\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tDe son gros père Sangsue violent qui s'est enfermé "
+"dans sa \"chambre des plaisirs\" avec ses amants drones, de son tueur en "
+"série préféré, Jérémy le 986e, qui n'écrit plus de poèmes, de sa petite amie "
+"de deux semaines qui l'a largué, et du fait qu'elle ne peut s'empêcher de "
+"tuer des gens comme son idole, Jérémy. Elle n'arrive pas à se sortir leurs "
+"cris de la tête. Elle est trop triste pour bouger, à moins qu'elle ne doive "
+"se battre contre quelqu'un."
 
 #: src-en/data/events_ships.xml.append:2772
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "J'ai changé d'avis, ça va trop loin."
 
 #: src-en/data/events_ships.xml.append:2777
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"S'il te plaît, ne le fait pas... Je ne veux pas voir ton visage dans mes "
+"rêves alors que tu me hantes. S'il te plaît, part.\""
 
 #: src-en/data/events_ships.xml.append:2779
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "J'aimerais bien, mais vous bloquez mon générateur SPL."
 
 #: src-en/data/events_ships.xml.append:2788
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Je suis très pressé, veuillez débloquer mon générateur SPL."
 
 #: src-en/data/events_ships.xml.append:2790
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"...Je savais que tu ne me comprendrais pas... mais je ne sais pas comment "
+"le débloquer. Tu devras me détruire. Je suis désolée..."
 
 #: src-en/data/events_ships.xml.append:2795
 msgid ""
@@ -2145,16 +2703,21 @@ msgstr "Attendez, quoi ?"
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous trouvez également "
+"ce qui semble être un petit émetteur sur lequel est écrit \"J E X\"."
 
 #: src-en/data/events_ships.xml.append:2824
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2831
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/text"
 msgstr ""
+"Vous ajoutez l'Émetteur de Dépression aux systèmes internes de votre "
+"vaisseau."
 
 #: src-en/data/events_ships.xml.append:2833
 msgid ""
@@ -2165,6 +2728,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/choice/event/text"
 msgstr ""
+"Emet une aura de dépression qui ralentit de 20% la vitesse de déplacement et "
+"de réparation de tous les ennemis. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:2837
 msgid ""
@@ -2174,51 +2739,61 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2848
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2852
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[@req=\"scrapped_leech\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2856
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2858
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"SCRAP_DEPRESSION_EMITTER\"]/text"
 msgstr ""
+"Vous démantelez l'Émetteur de Dépression pour obtenir de précieuses "
+"ressources."
 
 #: src-en/data/events_ships.xml.append:2872
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, il "
+"reste beaucoup de ferraille et de provisions à récupérer. Vous trouvez "
+"également ce qui semble être un petit émetteur sur lequel est écrit \"J E X\""
+"."
 
 #: src-en/data/events_ships.xml.append:2883
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[1]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2892
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[3]/text"
-msgstr ""
+msgstr "Vous avez déjà l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2896
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[@req=\"scrapped_leech\"]/text"
-msgstr ""
+msgstr "Vous avez déjà démantelé l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2900
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[5]/text"
-msgstr ""
+msgstr "Démanteler l'Émetteur de Dépression."
 
 #: src-en/data/events_ships.xml.append:2906
 msgid "data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/text"
 msgstr ""
+"Il semble que vous soyez à bout de forces. Vous ne survivrez plus très "
+"longtemps, la Sangsue vous contacte une dernière fois : \" Je... je ne peux "
+"pas le faire... part, s'il te plaît. Je ne veux pas entendre tes cris dans "
+"mes rêves.\""
 
 #: src-en/data/events_ships.xml.append:2909
 msgid ""
@@ -2229,6 +2804,9 @@ msgstr "Se rendre."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[1]/event/text"
 msgstr ""
+"La Sangsue explique qu'elle a trouvé le moyen de faire en sorte que son "
+"artefact cesse de brouiller votre générateur SPL, et il vous laisse repartir "
+"libre."
 
 #: src-en/data/events_ships.xml.append:2916
 msgid ""
@@ -2238,12 +2816,14 @@ msgstr "Nous n'abandonnons pas."
 #: src-en/data/events_ships.xml.append:2918
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"...Bien\", répond-il avec un soupir."
 
 #: src-en/data/events_ships.xml.append:2931
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/text"
 msgstr ""
+"Un énorme croiseur sort du tunnel, il s'agit apparemment d'un vaisseau du "
+"clan des contrebandiers !"
 
 #: src-en/data/events_ships.xml.append:2934
 msgid ""
@@ -2254,16 +2834,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/text"
 msgstr ""
+"Vous recevez un appel du vaisseau et vous acceptez. \"Nous sssommes des "
+"marchands d’organes multiversssel. Veuillez faire don de vos zzorganes "
+"immédiatement. Ccc’est pour une bonne cauzzze.\""
 
 #: src-en/data/events_ships.xml.append:2938
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Que pensez-vous de ....non ?"
 
 #: src-en/data/events_ships.xml.append:2940
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "\"Faites un don maintenant. Essspèccce d'ordure.\""
 
 #: src-en/data/events_ships.xml.append:2942
 msgid ""
@@ -2273,7 +2856,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:2944
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:2948
 msgid ""
@@ -2284,16 +2867,28 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"ce qui semble être un laboratoire de réplication chimique dépassant les "
+"limites de la science moderne, étiqueté \"Ambrosia\". Il dégage une aura d’"
+"un autre monde."
 
 #: src-en/data/events_ships.xml.append:3001
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED2_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également ce qui semble être un laboratoire de réplication "
+"chimique dépassant les limites de la science moderne, étiqueté \"Ambrosia\". "
+"Il dégage une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:3041
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/text"
 msgstr ""
+"Un énorme vaisseau croiseur sort du tunnel, il s'agit apparemment d'un "
+"vaisseau Crépusculeur !"
 
 #: src-en/data/events_ships.xml.append:3044
 msgid ""
@@ -2304,16 +2899,22 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/text"
 msgstr ""
+"Vous recevez un appel du vaisseau et vous acceptez. À votre surprise, ils "
+"sont étonnamment polis et directs : \"Vraiment désolés, nous tentons de "
+"battre le record Guinness Multiversel du plus grand nombre de crimes de "
+"guerre en un seul combat. Vous nous pardonnerez, n’est-ce pas ?\""
 
 #: src-en/data/events_ships.xml.append:3048
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "......Non ?"
 
 #: src-en/data/events_ships.xml.append:3050
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
 msgstr ""
+"\"J'ai bien peur que vous n'ayez pas le choix. Bonne journée, et gloire à "
+"tous les Crépusculeurs !\""
 
 #: src-en/data/events_ships.xml.append:3052
 msgid ""
@@ -2323,7 +2924,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:3054
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:3058
 msgid ""
@@ -2334,11 +2935,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un ensemble de gilets à l’apparence étrange, étiquetés \"Record du Monde\". "
+"Ils dégagent une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:3109
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED2_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également un ensemble de gilets à l’apparence étrange, étiquetés "
+"\"Record du Monde\". Ils dégagent une aura d’un autre monde."
 
 #: src-en/data/events_ships.xml.append:3148
 msgid ""
@@ -2358,18 +2967,30 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/event/text"
 msgstr ""
+"\"Pas la peine, mon vaisseau se réplique en permanence grâce à des "
+"nanomachines, capitaine. Il se durcit en réponse aux traumatismes physiques."
+"\""
 
 #: src-en/data/events_ships.xml.append:3157
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
 msgstr ""
+"Qu'est-ce que cela signifie ? [L'Engi semble s'adapter au nombre de drones à "
+"bord de leur vaisseau.]"
 
 #: src-en/data/events_ships.xml.append:3167
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été éliminé ! Parmi les débris, vous trouvez une grande "
+"quantité de ferraille et de provisions à récupérer. Vous découvrez également "
+"un amplificateur de drones à l’apparence étrange, étiqueté \"Kai\"."
 
 #: src-en/data/events_ships.xml.append:3202
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED2_NO_CORDS\"]/text"
 msgstr ""
+"L'étrange vaisseau a été vaincu ! Dans le croiseur désormais sécurisé, vous "
+"trouvez une grande quantité de ferraille et de provisions à récupérer. Vous "
+"découvrez également un amplificateur de drones à l’apparence étrange, "
+"étiqueté \"Kai\"."
