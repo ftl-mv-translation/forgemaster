@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"PO-Revision-Date: 2025-04-18 17:02+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -1592,7 +1592,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Aligner le noyau central d'énergie du Drone Énergétique Amp avec les "
+"Aligner le noyau central d'énergie du Drone Énergétique Amplifié avec les "
 "lentilles de l'arme à faisceau du Drone de Bataille MK II pour créer le "
 "Drone à rayon d'énergie 'Quelqu'un d'autre l'a nommé (Spectro-Boum)'."
 
@@ -1601,8 +1601,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_DRONES_COMBAT\"]/choice[@req=\"FM_ENERGY_COMBAT_BEAM1_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Vous devez disposer d'un Drone Énergétique Amp et d'un Drone de Bataille MK "
-"II pour forger ce drone."
+"Vous devez disposer d'un Drone Énergétique Amplifié et d'un Drone de "
+"Bataille MK II pour forger ce drone."
 
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
