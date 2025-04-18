@@ -406,7 +406,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Christalienne"},
+			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Cristalienne"},
         }
     },
     FM_SHOTGUN_INDIUM = {
@@ -450,7 +450,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Christalienne Élite"},
+			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Cristalienne Élite"},
 		}
     },
     FM_SHOTGUN_PLATINUM = {
@@ -488,7 +488,7 @@ mods.Forgemaster.recipes = {
 			"CRYSTAL_STUN_RED",
 			"CRYSTAL_SHOTGUN_RED",
 			"CRYSTAL_CHARGEGUN_RED",
-			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Christalienne Élite"},
+			"MINELAUNCHER_CRYSTAL", displayName="N’importe quelle Arme Cristalienne Élite"},
 		}
     },
         
