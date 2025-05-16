@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_droppoint.xml.append:3
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）はるかに大きな小惑星を採掘しようとします。"
+
+#: src-en/data/events_sector_droppoint.xml.append:5
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_ASTEROID_EXPLORE\"]/mod-"
+"append:choice/event/text"
+msgstr "FTLが充電されるのを待っている間、非常に多くの使用可能な材料を最寄りの小惑星から非常に大量の使用可能な材料を簡単にマイニングします。"
+
+#: src-en/data/events_sector_droppoint.xml.append:15
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）「テラフォーム」は自分で月を、最初に。"
+
+#: src-en/data/events_sector_droppoint.xml.append:17
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/text"
+msgstr "船の電力の大部分を石村ビームに迂回させると、月を開けて、その表面の一部と多数の貴重な資源を明らかにします。"
+
+#: src-en/data/events_sector_droppoint.xml.append:19
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:22
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"本当に始める前に、ミサイルが船の船体に突入します。あなたの通信はまだ開いており、ずんぐりしたロックマンの船長は怒りで口でほとんど泡立っています。「一体何が間違っているの？私は私の時計でこれを許可することを拒否します！すべての手、武器を男。」彼はすぐに吐き出し、その直後に通信を切断します。"
+
+#: src-en/data/events_sector_droppoint.xml.append:25
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:38
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEST\"]/text"
+msgstr ""
+"テラフォーミングチームの船が破壊されると、 * ahem "
+"*「テラフォーミング」を続けます。月の地殻は分解し、月のマントル内で密閉された未知のガスを放出します。幸いなことに、これは他の誰かにとって問題です。あなたが来たスクラップを集めて、去ります。"
+
+#: src-en/data/events_sector_droppoint.xml.append:45
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:52
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEAD\"]/text"
+msgstr ""
+"テラフォーミングチームの船が活気に満ちているので、 * ahem "
+"*「テラフォーミング」を続けます。月の地殻は分解し、月のマントル内で密閉された未知のガスを放出します。幸いなことに、これは他の誰かにとって問題です。あなたが来たスクラップを集めて、去ります。"
+
+#: src-en/data/events_sector_droppoint.xml.append:59
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"FM_ISHI_ROCK_DEAD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:66
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）信号を忘れて、資源のために惑星を開いてください、あなたはそれが無人であると確信しています！"
+
+#: src-en/data/events_sector_droppoint.xml.append:68
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"あなたの船の電力の大部分を石村梁に迂回させると、あなたは惑星を開けて割れ始め、その表面の一部と多数の貴重な資源を明らかにします。長くて退屈なプロセスの後、大量のスクラップを調達します。あなたが明らかにしたマグマは、惑星の表面が建物のように見える近くの構造に流れて開いていることから明らかにしました。大量のスクラップをつかみ、できるだけ早く出発します。深く、あなたはあなたが何をしたかを知っています..."
+
+#: src-en/data/events_sector_droppoint.xml.append:75
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"MV_DISTRESS_CRASH_LANDING\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""

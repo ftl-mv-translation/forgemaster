@@ -1,0 +1,840 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_twisted.xml:2
+msgid "data/events_twisted.xml$//textList[@name=\"TEXT_START_TWISTED\"]/text"
+msgstr ""
+"あなたはねじれたセクターに到着しました。C.U.R.A.からメッセージが直接送信されます。「私の素敵な放棄されたセクターへようこそ、Renegade。私はそれを購入して、いくつかのプロトタイプの不安定化弾薬をランダムな場所に爆発させる機会を得ました。これらの「ねじれた」個人をあなたに直接呼び出すことができるはずです。"
+
+#: src-en/data/events_twisted.xml:14
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_TWISTED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:21
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/text"
+msgstr ""
+"あなたはこのセクターの珍しいビーコンの1つに到着しました。C.U.R.A.が提供するソフトウェアを使用してクイックスキャンを実行すると、C.U.R.A。の専門ドライブハッカーによって召喚されたこのビーコンフォースの異常な特性が直接引っ張られることを通知します。ドライブハッカーには、ビーコンごとにこれを1回行うのに十分なエネルギーしかありません。"
+
+#: src-en/data/events_twisted.xml:23
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[1]/text"
+msgstr "C.U.R.A.ドライブハッカー。"
+
+#: src-en/data/events_twisted.xml:27
+msgid "data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/text"
+msgstr "気にしないで、去りましょう。"
+
+#: src-en/data/events_twisted.xml:29
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_START_RITUAL\"]/choice[2]/event/text"
+msgstr ""
+"あなたは、容器をビーコンに呼びかけるように固執することに反対します。ビーコンの異常な特性により、あなたとあなたの乗組員は非常に気分が悪くなるので、必要以上にここに滞在するという考えが好きではありません。"
+
+#: src-en/data/events_twisted.xml:38
+msgid "data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/text"
+msgstr ""
+"あなたはこのセクターの珍しいビーコンの1つに到着しました。このビーコンの異常な特性は、C.U.R.A。ハッカーを直接引っ張ります。将来、そのようなビーコンに直接船を引っ張るために使用できるのではないかと思います。"
+
+#: src-en/data/events_twisted.xml:40
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"loc_impossible_task_done\"]/text"
+msgstr ""
+"（C.U.R.A.ドライブハッカー）あなたはすでにあなたの報酬を得ています。あなたは、このC.U.R.A.がどれほど利益をもたらすのだろうか？"
+
+#: src-en/data/events_twisted.xml:45
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"FM_CURA_QUEST_LIST\"]/text"
+msgstr "（C.U.R.A.ドライブハッカー）あなたの報酬を得る。"
+
+#: src-en/data/events_twisted.xml:49
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[@req=\"CURA_MVBOSS_SPAWNER\"]/text"
+msgstr "（C.U.R.A.ドライブハッカー）ねじれたMVトラベラーを召喚します。"
+
+#: src-en/data/events_twisted.xml:53
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/text"
+msgstr "気にしないで、去りましょう。"
+
+#: src-en/data/events_twisted.xml:55
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_CURA_DRIVE_HACKER_MENU\"]/choice[4]/event/text"
+msgstr ""
+"あなたは、容器をビーコンに呼びかけるように固執することに反対します。ビーコンの異常な特性により、あなたとあなたの乗組員は非常に気分が悪くなるので、必要以上にここに滞在するという考えが好きではありません。"
+
+#: src-en/data/events_twisted.xml:62
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/text"
+msgstr ""
+"現在召喚されている船が利用できる船を確認してください。敗北した3隻の船のセットごとに、さらに3隻の船が挑戦できるようになります。ねじれたMVボスを召喚すると、2 {。\n"
+"注：これらの反逆者から回収された特別な技術は、互いに積み重ねられません。"
+
+#: src-en/data/events_twisted.xml:66
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/text"
+msgstr "気にしないで、去りましょう。"
+
+#: src-en/data/events_twisted.xml:68
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[1]/event/text"
+msgstr ""
+"あなたは、容器をビーコンに呼びかけるように固執することに反対します。ビーコンの異常な特性により、あなたとあなたの乗組員は非常に気分が悪くなるので、必要以上にここに滞在するという考えが好きではありません。"
+
+#: src-en/data/events_twisted.xml:73
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "あなたはすでにねじれたクリスタルを倒しました。"
+
+#: src-en/data/events_twisted.xml:77
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "あなたはすでにねじれたトコを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:81
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"7\"]/text"
+msgstr "あなたはすでにねじれたヒルを倒しました。"
+
+#: src-en/data/events_twisted.xml:86
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/text"
+msgstr "ねじれたクリスタルC-ねじれたクリスタルアーマーを落とします。"
+
+#: src-en/data/events_twisted.xml:88
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:93
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:99
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/text"
+msgstr "ツイストTuco B-珍しい収集品をドロップします。"
+
+#: src-en/data/events_twisted.xml:101
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:106
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:112
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/text"
+msgstr "ねじれたヒルC-奇妙なエミッターを落とします。"
+
+#: src-en/data/events_twisted.xml:114
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:119
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[7]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:126
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "あなたはすでにねじれたケストレルを倒しました。"
+
+#: src-en/data/events_twisted.xml:130
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "あなたはすでにねじれた連邦を破った。"
+
+#: src-en/data/events_twisted.xml:134
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"6\"]/text"
+msgstr "あなたはすでにねじれたオーキッドを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:139
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/text"
+msgstr "ねじれたケストレルb -a ...冷蔵庫？"
+
+#: src-en/data/events_twisted.xml:141
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:146
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[11]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:152
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/text"
+msgstr "Twisted Federation B-ユニークなレプリケーターをドロップします。"
+
+#: src-en/data/events_twisted.xml:154
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:159
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[12]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:165
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/text"
+msgstr "ねじれたオーキッドB-友達を落とします。"
+
+#: src-en/data/events_twisted.xml:167
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:172
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[13]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:179
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "あなたはすでにねじれたラニウスを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:183
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "あなたはすでにねじれたシェルを倒しました。"
+
+#: src-en/data/events_twisted.xml:187
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"5\"]/text"
+msgstr "あなたはすでにねじれたエンジニアを倒しました。"
+
+#: src-en/data/events_twisted.xml:239
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/text"
+msgstr "ねじれたラニウスB-心を落とします。"
+
+#: src-en/data/events_twisted.xml:241
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:246
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[17]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:252
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/text"
+msgstr "ツイストシェルC-アタッチングケースをドロップします。"
+
+#: src-en/data/events_twisted.xml:254
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:259
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[18]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:265
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/text"
+msgstr "ツイストエンジニアB-ドローンブースターIIをドロップします。"
+
+#: src-en/data/events_twisted.xml:267
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:272
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[19]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:279
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "あなたはすでにねじれたスラッグを倒しました。"
+
+#: src-en/data/events_twisted.xml:283
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "あなたはすでにねじれたステルスを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:287
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"4\"]/text"
+msgstr "あなたはすでにねじれたゾルタンを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:292
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/text"
+msgstr "ねじれたスラッグC-マルボロをドロップします。"
+
+#: src-en/data/events_twisted.xml:294
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:299
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[23]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:305
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/text"
+msgstr "ねじれたステルスB-ドロップ？13xzzzzzzzz $"
+
+#: src-en/data/events_twisted.xml:307
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:312
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[24]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:318
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/text"
+msgstr "ねじれたゾルタンC-リミットリリースをドロップします。"
+
+#: src-en/data/events_twisted.xml:320
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:325
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[25]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:332
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "あなたはすでにねじれた修道士を倒しました。"
+
+#: src-en/data/events_twisted.xml:336
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "あなたはすでにねじれたロックマンを倒しました。"
+
+#: src-en/data/events_twisted.xml:340
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"3\"]/text"
+msgstr "あなたはすでにねじれた失われた太陽を倒しました。"
+
+#: src-en/data/events_twisted.xml:345
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/text"
+msgstr "ツイストモンクB-エーテルアセンションシールドをドロップします。"
+
+#: src-en/data/events_twisted.xml:347
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:352
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[29]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:358
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/text"
+msgstr "ねじれた岩C-ロックマンの自由の遺物を落とします。"
+
+#: src-en/data/events_twisted.xml:360
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:365
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[30]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:371
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/text"
+msgstr "Twisted Lost Sun B -Reality -Bent Reloaderをドロップします。"
+
+#: src-en/data/events_twisted.xml:373
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:378
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[31]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:385
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "あなたはすでにねじれたフリーマンティスを倒しました。"
+
+#: src-en/data/events_twisted.xml:389
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "あなたはすでにねじれた分離主義者を打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:393
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"2\"]/text"
+msgstr "あなたはすでにねじれたマンティスを倒しました。"
+
+#: src-en/data/events_twisted.xml:398
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/text"
+msgstr "ツイストフリーマンティスB-リフレッシュを落とします。"
+
+#: src-en/data/events_twisted.xml:400
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:405
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[35]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:411
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/text"
+msgstr "ねじれた分離主義者B-マガタマをドロップします。"
+
+#: src-en/data/events_twisted.xml:413
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:418
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[36]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:424
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/text"
+msgstr "ねじれたマンティスB-フェロモン加速器を落とします。"
+
+#: src-en/data/events_twisted.xml:426
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:431
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[37]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:438
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_1_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "あなたはすでにねじれたクランマンを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:442
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "あなたはすでにねじれたduskbringerを破っています。"
+
+#: src-en/data/events_twisted.xml:446
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_COMPLETION\""
+" and @lvl=\"1\"]/text"
+msgstr "あなたはすでにねじれたエンギを打ち負かしました。"
+
+#: src-en/data/events_twisted.xml:451
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/text"
+msgstr "ねじれたクランマンB-マインドクローダーをドロップします。"
+
+#: src-en/data/events_twisted.xml:453
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:458
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[41]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:464
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/text"
+msgstr "ねじれたduskbringer B-トワイライトベストをドロップします。"
+
+#: src-en/data/events_twisted.xml:466
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:471
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[42]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:477
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/text"
+msgstr "Twisted Engi C-ドローンブースター「カイ」をドロップします。"
+
+#: src-en/data/events_twisted.xml:479
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:484
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[43]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:491
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/text"
+msgstr "ねじれたクランマンB-マインドクローダーをドロップします。"
+
+#: src-en/data/events_twisted.xml:493
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:498
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[44]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:504
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/text"
+msgstr "ねじれたduskbringer B-トワイライトベストをドロップします。"
+
+#: src-en/data/events_twisted.xml:506
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:511
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[45]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:517
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/text"
+msgstr "Twisted Engi C-ドローンブースター「カイ」をドロップします。"
+
+#: src-en/data/events_twisted.xml:519
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:524
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[46]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:530
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/text"
+msgstr "ツイストフリーマンティスB-リフレッシュを落とします。"
+
+#: src-en/data/events_twisted.xml:532
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:537
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:543
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/text"
+msgstr "ねじれた分離主義者B-マガタマをドロップします。"
+
+#: src-en/data/events_twisted.xml:545
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:550
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:556
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/text"
+msgstr "ねじれたマンティスB-フェロモン加速器を落とします。"
+
+#: src-en/data/events_twisted.xml:558
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:563
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_2_3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:569
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/text"
+msgstr "ツイストモンクB-エーテルアセンションシールドをドロップします。"
+
+#: src-en/data/events_twisted.xml:571
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:576
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:582
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/text"
+msgstr "ねじれた岩C-ロックマンの自由の遺物を落とします。"
+
+#: src-en/data/events_twisted.xml:584
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:589
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:595
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/text"
+msgstr "Twisted Lost Sun B -Reality -Bent Reloaderをドロップします。"
+
+#: src-en/data/events_twisted.xml:597
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:602
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_3_3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:608
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/text"
+msgstr "ねじれたスラッグC-マルボロをドロップします。"
+
+#: src-en/data/events_twisted.xml:610
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:615
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:621
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/text"
+msgstr "ねじれたステルスB-ドロップ？13xzzzzzzzz $"
+
+#: src-en/data/events_twisted.xml:623
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:628
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:634
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/text"
+msgstr "ねじれたゾルタンC-リミットリリースをドロップします。"
+
+#: src-en/data/events_twisted.xml:636
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:641
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_4_3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:647
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/text"
+msgstr "ねじれたラニウスB-心を落とします。"
+
+#: src-en/data/events_twisted.xml:649
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:654
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:660
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/text"
+msgstr "ツイストシェルC-アタッチングケースをドロップします。"
+
+#: src-en/data/events_twisted.xml:662
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:667
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:673
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/text"
+msgstr "ツイストエンジニアB-ドローンブースターIIをドロップします。"
+
+#: src-en/data/events_twisted.xml:675
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:680
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_5_3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:686
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/text"
+msgstr "ねじれたケストレルb -a ...冷蔵庫？"
+
+#: src-en/data/events_twisted.xml:688
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:693
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:699
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/text"
+msgstr "Twisted Federation B-ユニークなレプリケーターをドロップします。"
+
+#: src-en/data/events_twisted.xml:701
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:706
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:712
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/text"
+msgstr "ねじれたオーキッドB-友達を落とします。"
+
+#: src-en/data/events_twisted.xml:714
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:719
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_6_3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:725
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/text"
+msgstr "ねじれたクリスタルC-ねじれたクリスタルアーマーを落とします。"
+
+#: src-en/data/events_twisted.xml:727
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:732
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:738
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/text"
+msgstr "ツイストTuco B-珍しい収集品をドロップします。"
+
+#: src-en/data/events_twisted.xml:740
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:745
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_twisted.xml:751
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/text"
+msgstr "ねじれたヒルC-奇妙なエミッターを落とします。"
+
+#: src-en/data/events_twisted.xml:753
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/text"
+msgstr "ドライブハッカーを最大の強度に供給し、裂け目が開くのを監視し、別のレネゲイドがそれを通過するにつれて船を振っています。"
+
+#: src-en/data/events_twisted.xml:758
+msgid ""
+"data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/choice[@req=\"FM_BOSS_7_3\"]/event/choice/text"
+msgstr ""

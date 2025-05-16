@@ -1,0 +1,10 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_crafting.xml:194
+msgid "data/events_crafting.xml$//event[@name=\"FM_CRAFT_INFO\"]/text"
+msgstr "ここでは、現在作成できるレシピを確認できます"

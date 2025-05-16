@@ -1,0 +1,219 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:5
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr "[Forgemaster] Alatsairにお問い合わせください。"
+
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[2]/text"
+msgstr "あなたはすでにAlastairに連絡しています。"
+
+#: src-en/data/events_special_lightspeed.xml.append:24
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_CALL_SENT\"]/text"
+msgstr "送信される送信機信号..."
+
+#: src-en/data/events_special_lightspeed.xml.append:27
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_CALL_SENT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:35
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/text"
+msgstr "Fortemasterに連絡しますか？"
+
+#: src-en/data/events_special_lightspeed.xml.append:39
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_dead\"]/text"
+msgstr "習慣から、あなたは赦しの主人に手を差し伸べようとしますが、それからあなたは彼を殺したことを覚えています。あなたはモンスター。"
+
+#: src-en/data/events_special_lightspeed.xml.append:44
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_called\"]/text"
+msgstr "3つの方法のいずれかを介して、すでにForgemasterに電話しました。"
+
+#: src-en/data/events_special_lightspeed.xml.append:50
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/text"
+msgstr "燃料を使用して、送信機のパワーを高めて、Fortemasterに連絡します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:52
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/event/text"
+msgstr ""
+"余分な燃料埋蔵量を燃やし、エネルギーを送信機に注ぎ込み、Forgemasterのサブスペース識別子をブロードキャストします。Alastairが地域のどこにいても、彼はあなたの電話を聞いていたでしょう。"
+
+#: src-en/data/events_special_lightspeed.xml.append:57
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:63
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/text"
+msgstr "長距離の弾道メッセージシリンダーをホイップして、Fortemasterに連絡します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/text"
+msgstr ""
+"あなたはいくつかの過剰な爆発物をまとめて、アラステアと出会うための要求を含むハイパースピード利用可能な弾道容器を構築します。ターゲティングシステムを彼のサブスペース識別子に配線し、それを起動する注文を提供します。Alastairが見つけることができる場所にある場合、彼は会う準備ができています。"
+
+#: src-en/data/events_special_lightspeed.xml.append:70
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:76
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/text"
+msgstr "Fortemasterに連絡するために、HyperSpeed Messenger Droneを送信します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:78
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/event/text"
+msgstr ""
+"いくつかのドローンコンポーネントを使用し、ハイパースピードの移動に装備された堅牢な長距離ドローンを準備します。Alastairが次のセクターであなたに会うようにリクエストをロードし、ドローンのコムを設定して彼のサブスペース識別子を見つけることができます。うまくいけば、それは彼に到達します"
+" - 彼がメッセージを受け取ったら、彼は準備ができているでしょう。"
+
+#: src-en/data/events_special_lightspeed.xml.append:83
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:90
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/text"
+msgstr "燃料を使用して、送信機のパワーを高めて、Fortemasterに連絡します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:92
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/event/text"
+msgstr ""
+"余分な燃料埋蔵量を燃やし、エネルギーを送信機に注ぎ込み、Forgemasterのサブスペース識別子をブロードキャストします。Alastairが地域のどこにいても、彼はあなたの電話を聞いていたでしょう。"
+
+#: src-en/data/events_special_lightspeed.xml.append:97
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:103
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/text"
+msgstr "長距離の弾道メッセージシリンダーをホイップして、Fortemasterに連絡します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:105
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/text"
+msgstr ""
+"あなたはいくつかの過剰な爆発物をまとめて、アラステアと出会うための要求を含むハイパースピード利用可能な弾道容器を構築します。ターゲティングシステムを彼のサブスペース識別子に配線し、それを起動する注文を提供します。Alastairが見つけることができる場所にある場合、彼は会う準備ができています。"
+
+#: src-en/data/events_special_lightspeed.xml.append:110
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:116
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/text"
+msgstr "Fortemasterに連絡するために、HyperSpeed Messenger Droneを送信します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:118
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/event/text"
+msgstr ""
+"いくつかのドローンコンポーネントを使用し、ハイパースピードの移動に装備された堅牢な長距離ドローンを準備します。Alastairが次のセクターであなたに会うようにリクエストをロードし、ドローンのコムを設定して彼のサブスペース識別子を見つけることができます。うまくいけば、それは彼に到達します"
+" - 彼がメッセージを受け取ったら、彼は準備ができているでしょう。"
+
+#: src-en/data/events_special_lightspeed.xml.append:123
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:132
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:160
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_TWISTED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:165
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/text"
+msgstr ""
+"名前：ツイストセクター\n"
+"タイプ：ニュートラル\n"
+"ユニーク：真\n"
+"支配的な派ion：n/a\n"
+"反逆者の脅威レベル：低い\n"
+"\n"
+"C.U.R.A.が所有する放棄されたセクター"
+
+#: src-en/data/events_special_lightspeed.xml.append:175
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/choice[1]/text"
+msgstr "ハイパースピードを終了します。"
+
+#: src-en/data/events_special_lightspeed.xml.append:179
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/choice[@req=\"COORDS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:186
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
+"append:choice/text"
+msgstr "ねじれたセクターにジャンプします。"
+
+#: src-en/data/events_special_lightspeed.xml.append:193
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
+"append:choice/text"
+msgstr "ねじれたセクターにジャンプします。"
+
+#: src-en/data/events_special_lightspeed.xml.append:199
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/text"
+msgstr ""
+"あなたは再ルーティングしようとしています。以下は、このセクターのアトラスエントリです。\n"
+"名前：ツイストセクター\n"
+"タイプ：ニュートラル\n"
+"ユニーク：真\n"
+"支配的な派ion：n/a\n"
+"反逆者の脅威レベル：低い\n"
+"\n"
+"ここに伝承を挿入します\n"
+"[警告：再ルーティングとは、次のセクターで生まれたであろうクエストを見逃すことを意味します。]"
+
+#: src-en/data/events_special_lightspeed.xml.append:210
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:212
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:215
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:221
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/choice[2]/text"
+msgstr ""

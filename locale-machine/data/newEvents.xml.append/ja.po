@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/newEvents.xml.append:6
+msgid ""
+"data/newEvents.xml.append$//mod:findName[@name=\"TERRAFORMING_SCAN\"]/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）「テラフォーム」は自分で月を、最初に。"
+
+#: src-en/data/newEvents.xml.append:8
+msgid ""
+"data/newEvents.xml.append$//mod:findName[@name=\"TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/text"
+msgstr "船の電力の大部分を石村ビームに迂回させると、月を開き始め、表面の部分と多数の貴重な資源を明らかにします。"
+
+#: src-en/data/newEvents.xml.append:10
+msgid ""
+"data/newEvents.xml.append$//mod:findName[@name=\"TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/newEvents.xml.append:13
+msgid ""
+"data/newEvents.xml.append$//mod:findName[@name=\"TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/text"
+msgstr ""
+"本当に始める前に、ミサイルが船の船体に突入します。あなたの通信はまだ開いています、ずんぐりしたロックマンのキャプテンは、彼があなたにとても怒っている口でほとんど泡立っています。「一体何が間違っているの？私は私の時計でこれを許可することを拒否します！すべての手、武器を男。」彼はすぐに吐き出し、その直後に通信を切断します。"
+
+#: src-en/data/newEvents.xml.append:16
+msgid ""
+"data/newEvents.xml.append$//mod:findName[@name=\"TERRAFORMING_SCAN\"]/mod-"
+"append:choice/event/choice/event/choice/text"
+msgstr ""

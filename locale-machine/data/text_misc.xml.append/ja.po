@@ -1,0 +1,770 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:5
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_forgemaster\"]"
+msgstr ""
+"赦し\n"
+"現在有効になっています。\n"
+"クリックして詳細を確認してください。"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"info_addon_forgmaster\"]"
+msgstr ""
+"赦し\n"
+"開発者：Cyrus106、Abstrusity、Maxine、Radish、Seadragonet、Kommandant_julk、Vertaalfout、Demonfusiongamer\n"
+"現在有効になっています。\n"
+"\n"
+"マルチバースの大きな拡張！新しいNPC、クエスト、武器、セクター、ボスなどが含まれます。ドローンと拡張はもうすぐ来ます！主な新機能は次のとおりです。\n"
+"これらの武器は、より少ない武器スロットのある船で使用され、ハイパースペースが完全にユニークな雰囲気のために提供する最新の最も複雑な機能を利用する場合、これらの武器は最も明るくすることを目的としています。新しいツールチップは、クラフトに使用できる武器コンポーネントに表示されます！\n"
+"（Addon Inferno-Coreは設計されており、Fusionを使用しています）"
+
+#: src-en/data/text_misc.xml.append:36
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_biohazard\"]"
+msgstr ""
+"この爆弾は、乗組員がメドベイからの癒しから打撃を受けたり、クローンベイによって復活したりすることを防ぎます。30秒の期間。放射線武器は、乗組員の重い被害のバーストを担い、わずかな違反の可能性を持ち、敵の乗組員を弱めます。敵のヒットは移動し、66％が遅く修復され、75％長くなります。"
+
+#: src-en/data/text_misc.xml.append:37
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_crime\"]"
+msgstr ""
+"すべての乗組員のタイプを燃やし、岩でさえも燃やします。すべての乗組員が火災による1.75倍のダメージを受け、70％遅い火災を消します。15秒の期間。"
+
+#: src-en/data/text_misc.xml.append:38
+msgid "data/text_misc.xml.append$//text[@name=\"bomb_compactinator\"]"
+msgstr ""
+"この非常に高価な爆弾は、ヒットした同盟の乗組員を船の乗組員のスロットデータベースから奪います。その結果、あなたはあなたの船にもっと多くの乗組員を持つことができます！\n"
+"開発者注：乗組員が船に追加され、すべての部屋がいっぱいになった場合、ゲームはクラッシュします。敵のボーダーと同じですが、いなければ\n"
+"彼らのためのスペースでは、これがハイパースペースでパッチが適用されるまでゲームがクラッシュします。保守的に使用し、使用する前に乗組員と部屋を数えてください！"
+
+#: src-en/data/text_misc.xml.append:41
+msgid "data/text_misc.xml.append$//text[@name=\"flamethrower\"]"
+msgstr "シールドやポップなシールドを突き刺さないでください。敵の盾が下がったときにこれを発射し、船で地獄を解き放ちます！"
+
+#: src-en/data/text_misc.xml.append:42
+msgid "data/text_misc.xml.append$//text[@name=\"ion_lanius\"]"
+msgstr ""
+"窒息するイオンショットを発射すると、乗組員が窒息の免疫を失い、窒息から2.5倍のダメージを受け、部屋の酸素を15秒間ゆっくりと排出するようになります。"
+
+#: src-en/data/text_misc.xml.append:43
+msgid "data/text_misc.xml.append$//text[@name=\"parazonium\"]"
+msgstr "ミサイルを使用して発射しませんが、十分なミサイルがない場合は発射できません！戦闘チェックで増幅することができます。"
+
+#: src-en/data/text_misc.xml.append:44
+msgid "data/text_misc.xml.append$//text[@name=\"tip_focusenergy\"]"
+msgstr "敵の船の部屋にぶつかったときにイオンの損傷のみを扱いますが、シールドにぶつかるときはイオンの損傷を扱いません！"
+
+#: src-en/data/text_misc.xml.append:45
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
+msgstr ""
+"Ancalagon "
+"Weaponsには、Ancalagonのクリスタルハザードを生み出す機会があります。赤、青、緑、より珍しい白、そして最もまれな黒いタイプの5つのタイプがあります。"
+
+#: src-en/data/text_misc.xml.append:46
+msgid "data/text_misc.xml.append$//text[@name=\"tip_gnunslung\"]"
+msgstr ""
+"この武器は1シールドをポップし、光子の損傷を扱い、30秒の乗組員を積み重ねるダメージドット効果を与えます。放射線武器は、乗組員の重い被害のバーストを担い、わずかな違反の可能性を持ち、敵の乗組員を弱めます。敵のヒットは移動し、66％が遅く修復され、75％長くなります。"
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon_drone_laser\"]"
+msgstr ""
+"Ancalagon Crystal Hazardを生成する10％の確率。赤、青、緑、より珍しい白、そして最もまれな黒いタイプの5つのタイプがあります。"
+
+#: src-en/data/text_misc.xml.append:48
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missiles_heavy\"]"
+msgstr "ヒント：重いミサイルには常に船体芽の属性があり、必要に応じて重要なシステムを削除するために使用できます。"
+
+#: src-en/data/text_misc.xml.append:49
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive\"]"
+msgstr ""
+"ヒント：これらのgeniocracyが生産した抗バイオ兵器火災高度な放射線レーザーは、乗組員がゆっくりと腐食します。武器が強いほど、時間の経過とともにダメージが良くなります。"
+
+#: src-en/data/text_misc.xml.append:50
+msgid "data/text_misc.xml.append$//text[@name=\"tip_terminus\"]"
+msgstr ""
+"別の寸法から敵の船に激しく侵入して大規模なwyrm。ゾルタンシールドは無視しますが、ドローンで標的にすることができます。敵の乗組員を敵の船で麻痺させ、20秒間衝撃でゆっくりと健康を排出します。"
+
+#: src-en/data/text_misc.xml.append:51
+msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_2\"]"
+msgstr ""
+"このビームは、大型船を簡単に切断するのに十分なほど強力であり、大きな船に対して非常に強力になります。\n"
+"\n"
+"FM：他のコンポーネント「Misericorde」ピンポイントまたは「スティレット」ピンポイントと並んで、Terra Nova Pinpoint [70〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:54
+msgid "data/text_misc.xml.append$//text[@name=\"tip_beam_mining_3\"]"
+msgstr "このピンポイントは、ビームが触れる場所とは対照的に、衝撃領域の周りのタイルに複数の違反を引き裂くのに十分強力です。"
+
+#: src-en/data/text_misc.xml.append:55
+msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_photon\"]"
+msgstr "ヒント：この武器は、船体の損傷を与えないにもかかわらず、シールドをポップすることができます。"
+
+#: src-en/data/text_misc.xml.append:70
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_frost_1\"]"
+msgstr ""
+"ヒント：フロストレーザーは、彼らが襲った部屋をロックダウンし、敵の乗組員の動きを妨げる上で価値があります。\n"
+"\n"
+"FM：他のコンポーネント照射レーザーとともに、Tlalocレーザー[40〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:74
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_bio\"]"
+msgstr ""
+"ヒント：放射線武器は、重い乗組員の損傷のバーストを行い、わずかな違反の可能性を持ち、敵の乗組員を弱めます。敵のヒットは移動し、66％が遅く修復され、75％長くなります。\n"
+"\n"
+"FM：他のコンポーネントのフロストレーザーIと一緒に、Tlalocレーザー[40〜]を鍛造するためのコンポーネント。\n"
+"\n"
+"FM：反乱軍のリッパーレーザー[40〜]を鍛造するためのコンポーネント、他のコンポーネント重いレーザーIと一緒に"
+
+#: src-en/data/text_misc.xml.append:83
+msgid "data/text_misc.xml.append$/dummyroot/FTL/text[21]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネントVulcanと並んで、Hellflash Gatling Gun [30〜]を偽造するためのコンポーネント。\n"
+"FM：[編集]と呼ばれる他のコンポーネントとともに、dazhbog flamethrower [50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:90
+msgid "data/text_misc.xml.append$/dummyroot/FTL/text[22]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：[編集]と呼ばれる他のコンポーネントとともに、dazhbog flamethrower [50〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントVulcanと並んで、Hellflash Gatling Gun [30〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:97
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_decayser\"]"
+msgstr ""
+"ヒント：フェイザーは追加のシールドレイヤーを突き刺します。彼らは、最初のシールド層がピアスされたイオン損傷に加えて、ヒットしたシステムに追加の損傷を与えます。\n"
+"\n"
+"FM：[編集]と呼ばれる他のコンポーネントと並んで、Decayser [55〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:103
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_light\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネント粒子加速器Mk Iと一緒に、光子I [25〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネント戦闘ドローンMK Iと並んで、MFKケストレルドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:108
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_particle\"]"
+msgstr ""
+"ヒント：粒​​子加速器は、FLAKのように半径で発射します。各発射体は、システムの損傷を少なくし、合理的な火災の可能性があり、それはターゲットに対して壊滅的なものになる可能性があります。\n"
+"\n"
+"FM：他のコンポーネントライトレーザーIと一緒に、光子i [25〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:115
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_light_2\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネント粒子加速器Mk IIとともに、光子II [50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:119
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_particle_2\"]"
+msgstr ""
+"ヒント：粒​​子加速器は、FLAKのように半径で発射します。各発射体は、システムの損傷を少なくし、合理的な火災の可能性があり、それはターゲットに対して壊滅的なものになる可能性があります。\n"
+"\n"
+"FM：他のコンポーネントライトレーザーIIとともに、光子II [50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:125
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_heavy_1\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネント照射レーザーとともに、反乱軍のリッパーレーザー[40〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:133
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_ion\"]"
+msgstr ""
+"ヒント：爆弾は、船に直接着地するために、過去のシールドと防衛ドローンをテレポートします。ミサイルのように、彼らは発射に1つのミサイルを費やします。彼らは船体に損傷を与えることはありませんが、乗組員やシステムを混乱させるのに効果的です。自分の船のボーダーでそれらを発射することもできます。\n"
+"\n"
+"FM：他のコンポーネントPierce Laser MK IIと並んで、赦免[100〜、15}]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:137
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_pierce_2\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネントイオン爆弾と並んで、赦免[100〜、15}]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:146
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_fire\"]"
+msgstr ""
+"ヒント：火イオンは通常のイオンと同じように機能しますが、彼らが襲った部屋で火を開始します。シールドがまだ上がっている間にヒットした場合、彼らは火を起こしません。\n"
+"\n"
+"FM：他のコンポーネントTRI-IONとともに、Cerberusイオン[35〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:150
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_tri\"]"
+msgstr ""
+"ヒント：イオン損傷のすべてのポイントについて、ターゲットシステムから1つのパワーバーが削除され、5秒間ロックされ、再力が防止されます。イオン武器がシールドにヒットすると、損傷はシールドシステムに自動的に適用されます。\n"
+"\n"
+"FM：他の成分火イオンとともに、Cerberusイオン[35〜]を鍛造するための成分。"
+
+#: src-en/data/text_misc.xml.append:156
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_hull_energy\"]"
+msgstr ""
+"ヒント：エネルギー兵器は、イオンと船体の両方の損傷をもたらすことができるため、非常に用途が広いが、乗組員やシステムに損傷を与えないため。\n"
+"\n"
+"FM：他のコンポーネントGeb、Osiris、Sekhmet、およびAnubisと並んで、Taranis Disc Launcher [50〜]を偽造するためのコンポーネント。他のコンポーネントは1つだけです。\n"
+"\n"
+"FM：他のコンポーネント重イオンと一緒に、パルスポノン[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:162
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_1\"]"
+msgstr ""
+"ヒント：鉱山発射装置には、すべてのシールドが貫通するゆっくりと移動する鉱山の大きなステータス効果の可能性があり、大規模な鉱山の大規模なバーストがあります。\n"
+"\n"
+"FM：他のコンポーネントの重いエネルギーと並んで、Taranisディスクランチャー[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:166
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_2\"]"
+msgstr ""
+"ヒント：鉱山発射装置には、すべてのシールドが貫通するゆっくりと移動する鉱山の大きなステータス効果の可能性があり、大規模な鉱山の大規模なバーストがあります。\n"
+"\n"
+"FM：他のコンポーネントの重いエネルギーと並んで、Taranisディスクランチャー[50〜]を鍛造するためのコンポーネント。\n"
+"\n"
+"FM：他のコンポーネントのアスクレピウスミサイルと並んで、「汚い爆弾」鉱山発射装置[140〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:172
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_fire\"]"
+msgstr ""
+"ヒント：鉱山発射装置には、すべてのシールドが貫通するゆっくりと移動する鉱山の大きなステータス効果の可能性があり、大規模な鉱山の大規模なバーストがあります。\n"
+"\n"
+"FM：他のコンポーネントの重いエネルギーと並んで、Taranisディスクランチャー[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:176
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_stun\"]"
+msgstr "ヒント：FM：他のコンポーネントの重いエネルギーと並んで、Taranis Discランチャー[50〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:180
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_vulcan\"]"
+msgstr ""
+"ヒント：チェーンレーザーは、発射するたびにクールダウンを減らします。武器の緑色のライトをチェックして、発射された回数を確認してください。\n"
+"\n"
+"FM：他のコンポーネントイオン充電器Iまたはイオン充電器IIと並んで、ベスタイオンガトリング[30-60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントファイアスターターと並んで、Hellflash Gatling Gun [30〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:185
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_charger_1\"]"
+msgstr ""
+"ヒント：充電武器は、より多くの火力を生成するために複数回充電できます。時間を節約して武器を時期尚早に発射できますが、その結果、ショットが少なくなります。\n"
+"\n"
+"FM：他のコンポーネントVulcanと一緒に、Vesta [60〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:189
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_charger_2\"]"
+msgstr ""
+"ヒント：充電武器は、より多くの火力を生成するために複数回充電できます。時間を節約して武器を時期尚早に発射できますが、その結果、ショットが少なくなります。\n"
+"\n"
+"FM：他のコンポーネントVulcanと一緒に、Vesta [30〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:194
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_3\"]"
+msgstr ""
+"ヒント：Flak Weaponsは、単一の部屋ではなくエリアをターゲットにします。この精度の損失は、レーザーのカウンターパートよりも火力と速度が多くなることを意味します。\n"
+"\n"
+"FM：他のコンポーネントであるエネルギー充電器と一緒に、exidiaエネルギーディフューザー[80〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:198
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_charger\"]"
+msgstr ""
+"ヒント：充電武器は、より多くの火力を生成するために複数回充電できます。\n"
+"\n"
+"FM：他のコンポーネント、FLAK IIIと並んで、exidiaエネルギー拡散剤[80〜]を鍛造するためのコンポーネント。\n"
+"FM：Railblender [140〜]を偽造するためのコンポーネント、他のコンポーネント、Flak充電器。"
+
+#: src-en/data/text_misc.xml.append:204
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_1\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：パルスレーザーI [40〜]を鍛造するためのコンポーネント、他のコンポーネントエネルギーIS"
+
+#: src-en/data/text_misc.xml.append:208
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_2\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネントエネルギーIIと並んで、パルスレーザーII [50〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネント戦闘ドローンMK Iと一緒にケストレルドローンを鍛造するためのコンポーネント"
+
+#: src-en/data/text_misc.xml.append:213
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_3\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネントエネルギーIIIとともに、パルスレーザーIII [60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントFlak IVとともに、多重度弾幕レーザー[80〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:218
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_heavy\"]"
+msgstr ""
+"ヒント：イオン損傷のすべてのポイントについて、ターゲットシステムから1つのパワーバーが削除され、5秒間ロックされ、再力が防止されます。イオン武器がシールドにヒットすると、損傷はシールドシステムに自動的に適用されます。\n"
+"\n"
+"FM：他のコンポーネントの重いエネルギーと並んで、パルスポノン[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:227
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_mining\"]"
+msgstr ""
+"ヒント：マイニングビームは1つのシールドレイヤーを貫通しています。つまり、最初のシールドバブルがピアスの損傷を失うことはありません。その後の各レイヤーは、損傷を1つ減らします。\n"
+"\n"
+"FM：他のコンポーネント「サリッサ」ビームとともに、石村ビーム[120〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:231
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_long_2\"]"
+msgstr ""
+"ヒント：敵のすべてのシールドバーについて、ビームの損傷は1つずつ減少します。たとえば、2つのシールドバーに対する3つのダメージビームは、ヒットするすべての部屋に1つのダメージを引き起こします。\n"
+"\n"
+"FM：他のコンポーネントマイニングビームとともに、石村ビーム[120〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:237
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_pierce\"]"
+msgstr ""
+"ヒント：この位相ビームは2つのシールドレイヤーに穴を開けます。つまり、最初の2つのシールドバブルの損傷は失われません。その後の各レイヤーは、損傷を1つ減らします。\n"
+"\n"
+"FM：他のコンポーネント粒子ビームとともに、イヤスプーンビーム[35〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:241
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_particle\"]"
+msgstr ""
+"ヒント：粒​​子ビームは船体や乗組員の損傷を行わず、シールドを貫通することもできません。ただし、シールドがダウンすると、システムや光の火災に大きなダメージを与える可能性があります。\n"
+"\n"
+"FM：他のコンポーネント「Guisarme」ビームとともに、イヤスプーンビーム[35〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:247
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_guillotine\"]"
+msgstr ""
+"ヒント：このビームは乗組員とシステムの両方の損傷をもたらし、非常に用途の広い武器になります。\n"
+"\n"
+"FM：他のコンポーネントと並んで、殺人的なもの[110〜、2}、5 |]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:254
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_1\"]"
+msgstr ""
+"ヒント：爆弾は、船に直接着地するために、過去のシールドと防衛ドローンをテレポートします。ミサイルのように、彼らは発射に1つのミサイルを費やします。彼らは船体に損傷を与えることはありませんが、乗組員やシステムを混乱させるのに効果的です。自分の船のボーダーでそれらを発射することもできます。\n"
+"\n"
+"FM：他のコンポーネントHalberdビームとともに、Valefor Explosion Beam [75〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:258
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_2\"]"
+msgstr ""
+"ヒント：敵のすべてのシールドバーについて、ビームの損傷は1つずつ減少します。たとえば、2つのシールドバーに対する3つのダメージビームは、ヒットするすべての部屋に1つのダメージを引き起こします。\n"
+"\n"
+"FM：他のコンポーネント爆弾ランチャーと並んで、Valefor Explosion Beam [75〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:264
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_1\"]"
+msgstr ""
+"ヒント：イオン損傷のすべてのポイントについて、ターゲットシステムから1つのパワーバーが削除され、5秒間ロックされ、再力が防止されます。イオン武器がシールドにヒットすると、損傷はシールドシステムに自動的に適用されます。\n"
+"\n"
+"FM：他のコンポーネント「Ranseur」ビームとともに、Kontosイオンビーム[100〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:268
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_2\"]"
+msgstr ""
+"ヒント：イオン損傷のすべてのポイントについて、ターゲットシステムから1つのパワーバーが削除され、5秒間ロックされ、再力が防止されます。イオン武器がシールドにヒットすると、損傷はシールドシステムに自動的に適用されます。\n"
+"\n"
+"FM：他のコンポーネント「Ranseur」ビームとともに、Kontosイオンビーム[100〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:272
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_breach\"]"
+msgstr ""
+"ヒント：ブリーチビームは、ヒットするすべてのタイルに違反を作成することができ、シールドレイヤーを突き刺すこともできます。\n"
+"\n"
+"FM：他のコンポーネントの単純なイオンまたはイオン弾幕mk iとともに、Kontosイオンビーム[100〜]を鍛造するための成分。"
+
+#: src-en/data/text_misc.xml.append:278
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_long\"]"
+msgstr ""
+"ヒント：敵のすべてのシールドバーについて、ビームの損傷は1つずつ減少します。たとえば、2つのシールドバーに対する3つのダメージビームは、ヒットするすべての部屋に1つのダメージを引き起こします。\n"
+"\n"
+"FM：他のコンポーネントScytheビームとともに、「永遠」ビーム[40〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:282
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_scythe\"]"
+msgstr ""
+"ヒント：敵のすべてのシールドバーについて、ビームの損傷は1つずつ減少します。たとえば、2つのシールドバーに対する3つのダメージビームは、ヒットするすべての部屋に1つのダメージを引き起こします。\n"
+"\n"
+"FM：他のコンポーネントパイクビームとともに、「永遠」ビーム[40〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:290
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_3\"]"
+msgstr ""
+"ヒント：重いミサイルには常に船体芽の属性があり、必要に応じて重要なシステムを削除するために使用できます。\n"
+"\n"
+"FM：他のコンポーネント「Cinquedea」ピンポイントとともに、パラゾニウムピンポイント[70〜]を鍛造するためのコンポーネント。\n"
+"\n"
+"FM：他のコンポーネントイオン弾幕MK IIと並んで、「衰弱」重ミサイル[80〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:296
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_chain\"]"
+msgstr ""
+"ヒント：適応武器が発射されるたびに損傷が増加します。損傷の増加量と制限は、武器に依存します。\n"
+"\n"
+"FM：他のコンポーネント「ヘルメス」重ミサイルと並んで、パラゾニウムピンポイント[100〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントSuyari Adaptive Beamとともに、Omiyari適応ピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:303
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_1\"]"
+msgstr ""
+"ヒント：エネルギー兵器は、イオンと船体の両方の損傷をもたらすことができるため、非常に用途が広いが、乗組員やシステムに損傷を与えないため。\n"
+"\n"
+"FM：他のコンポーネント「dirk」ピンポイントと並んで、エボニーエネルギーピンポイント[40〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントバーストレーザーIと一緒に、パルスレーザーI [40〜]を鍛造するためのコンポーネント"
+
+#: src-en/data/text_misc.xml.append:308
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_conservative\"]"
+msgstr ""
+"ヒント：保守的な武器は、システム内の電力漏れから供給されるため、電力自体を使用する必要はありません。結果として、彼らは充電に時間がかかり、別の武器の動力を要求します。武器システムが無効になったときに「発射」して追加のショットを充電できます。\n"
+"\n"
+"FM：他のコンポーネント「Dirk」ピンポイントと並んで、メープル保守的なエネルギーピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:312
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_1\"]"
+msgstr ""
+"ヒント：ピンポイントはビームよりも高いダメージを与えますが、短いトレイルがあります。ビームと同じように、シールドレイヤーごとにダメージが1倍に減少します。\n"
+"\n"
+"FM：他のコンポーネントエネルギー大砲と並んで、黒檀のエネルギーピンポイント[40〜]を鍛造するためのコンポーネントI\n"
+"FM：他の成分保守的なエネルギーと並んで、メープル保守的なエネルギーピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:319
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_beam_adapt\"]"
+msgstr ""
+"ヒント：適応武器が発射されるたびに損傷が増加します。損傷の増加量と制限は、武器に依存します。\n"
+"\n"
+"FM：他のコンポーネントCinquedea Pinpointと並んで、Omiyari適応ピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:329
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_corrosive_2\"]"
+msgstr ""
+"ヒント：これらのgeniocracyが生産した抗バイオ兵器火災高度な放射線レーザーは、乗組員がゆっくりと腐食します。武器が強いほど、時間の経過とともにダメージが良くなります。\n"
+"\n"
+"FM：他のコンポーネント「Anelace」バイオピンポイントと並んで、「aegrotatio」腐食性ピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:333
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_bio\"]"
+msgstr ""
+"ヒント：放射線武器は、重い乗組員の損傷のバーストを行い、わずかな違反の可能性を持ち、敵の乗組員を弱めます。敵のヒットは移動し、66％が遅く修復され、75％長くなります。\n"
+"\n"
+"FM：他のコンポーネント腐食性レーザー2とともに、「aegrotatio」腐食性ピンポイント[50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:339
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_2\"]"
+msgstr ""
+"ヒント：エネルギー兵器は、イオンと船体の両方の損傷をもたらすことができるため、非常に用途が広いが、乗組員やシステムに損傷を与えないため。\n"
+"\n"
+"FM：他のコンポーネント「Misericorde」ピンポイントとともに、ヘムロックエネルギーのピンポイント[50〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントバーストレーザーIIと並んで、パルスレーザーII [50〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:344
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_2\"]"
+msgstr ""
+"ヒント：ピンポイントはビームよりも高いダメージを与えますが、短いトレイルがあります。ビームと同じように、シールドレイヤーごとにダメージが1倍に減少します。\n"
+"\n"
+"FM：他のコンポーネントエネルギーキャノンIIと並んで、ヘムロックエネルギーピンポイント[60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントの石村ビームと並んで、テラノバピンポイント[70〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:351
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_3\"]"
+msgstr ""
+"ヒント：エネルギー兵器は、イオンと船体の両方の損傷をもたらすことができるため、非常に用途が広いが、乗組員やシステムに損傷を与えないため。\n"
+"\n"
+"FM：他のコンポーネント「Stileetto」ピンポイントと並んで、Green Heart Energy Pinpoint [60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントバーストレーザーIIIとともに、パルスレーザーIII [60〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:356
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_focus_3\"]"
+msgstr ""
+"ヒント：ピンポイントはビームよりも高いダメージを与えますが、短いトレイルがあります。ビームと同じように、シールドレイヤーごとにダメージが1倍に減少します。\n"
+"\n"
+"FM：他のコンポーネントEnergy Cannon IIIと並んで、Green Heart Energy Pinpoint [60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントIshimura Beamと並んで、Terra Nova Pinpoint [50〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントAMPピンポイントドローンと一緒に石村ドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:367
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_4\"]"
+msgstr ""
+"ヒント：Flak Weaponsは、単一の部屋ではなくエリアをターゲットにします。この精度の損失は、レーザーのカウンターパートよりも火力と速度が多くなることを意味します。\n"
+"\n"
+"FM：忘れられたテクノロジーとともに、エーテルフラック[60〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントバーストレーザーIIIと並んで、多重度弾幕レーザー[80〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:374
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_toxic\"]"
+msgstr ""
+"ヒント：Flak Weaponsは、単一の部屋ではなくエリアをターゲットにします。この精度の損失は、レーザーのカウンターパートよりも火力と速度が多くなることを意味します。\n"
+"\n"
+"FM：他のコンポーネントフロストレーザーIIと並んで、Kheimon異常ランチャー[45〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:378
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_frost_2\"]"
+msgstr ""
+"ヒント：フロストレーザーは、彼らが襲った部屋をロックダウンし、敵の乗組員の動きを妨げる上で価値があります。\n"
+"\n"
+"FM：他のコンポーネント照射Flakとともに、Kheimon異常ランチャー[45〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:384
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_2\"]"
+msgstr ""
+"ヒント：Flak Weaponsは、単一の部屋ではなくエリアをターゲットにします。この精度の損失は、レーザーのカウンターパートよりも火力と速度が多くなることを意味します。\n"
+"\n"
+"FM：ブロンズメタルフラクを鍛造するためのコンポーネント[10〜]、他のコンポーネント、任意のクリスタル武器。\n"
+"FM：Carnifex Flak [30〜]を偽造するためのコンポーネント、他のコンポーネント、LaniusおよびClonebay 3。"
+
+#: src-en/data/text_misc.xml.append:391
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_shotgun_charge\"]"
+msgstr ""
+"充電武器は、より多くの火力を生成するために複数回充電できます。時間を節約して武器を事前に発射できますが、その結果、ショットが少なくなります。\n"
+"\n"
+"FM：他のコンポーネントであるエネルギー充電器と一緒に、Railblender [140〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:396
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal\"]"
+msgstr ""
+"ヒント：クリスタル武器は、シールドの単一層を突き刺します。レベル2のシールド以下のみがそれらを停止できます。\n"
+"\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:400
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_minelauncher\"]"
+msgstr "FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:402
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_shotgun\"]"
+msgstr ""
+"ヒント：クリスタル武器は、シールドの単一層を突き刺します。レベル2のシールド以下のみがそれらを停止できます。\n"
+"\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。\n"
+"FM：クリスタルドローンを鍛造するためのコンポーネント、他のコンポーネントアサルトドローンと並んで。"
+
+#: src-en/data/text_misc.xml.append:407
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_heavy_1\"]"
+msgstr ""
+"ヒント：クリスタル武器は、シールドの単一層を突き刺します。レベル2のシールド以下のみがそれらを停止できます。\n"
+"\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントアサルトドローンと一緒に、アンバードローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:412
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_stun\"]"
+msgstr ""
+"ヒント：クリスタル武器は、シールドの単一層を突き刺します。レベル2のシールド以下のみがそれらを停止できます。\n"
+"\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントのスタン爆弾とともに、閉じ込めインデューサー[55〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:417
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_crystal_stun_red\"]"
+msgstr ""
+"ヒント：エリートクリスタル兵器は、クリスタル兵器のより強いバリアントです。2層のシールドを突き抜けて、ターゲットルームにロックダウンを適用できます。\n"
+"\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントのスタンボムと一緒に、閉じ込めインデューサー[25〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:426
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_4\"]"
+msgstr ""
+"ヒント：重いミサイルには常に船体芽の属性があり、必要に応じて重要なシステムを削除するために使用できます。\n"
+"\n"
+"FM：「Hellfire」がミサイルを破壊するためのコンポーネント[90〜]、他のコンポーネント「Hades」重ミサイル。"
+
+#: src-en/data/text_misc.xml.append:430
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_fire\"]"
+msgstr ""
+"ヒント：ミサイルはすべての敵のシールドを無視しますが、発射には1つのミサイルがかかります。敵の防衛ドローンは、入ってくるミサイルを撃ち落とします。\n"
+"\n"
+"FM：「Hellfire」がミサイルを破壊するためのコンポーネント[90〜]、他のコンポーネント「Ares」重ミサイル。"
+
+#: src-en/data/text_misc.xml.append:437
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missile_cloak\"]"
+msgstr "FM：他のコンポーネントエネルギーの衝撃とともに、「チェルノボグ」ミサイル[70〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:439
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_energy_stun\"]"
+msgstr ""
+"ヒント：エネルギー兵器は、イオンと船体の両方の損傷をもたらすことができるため、非常に用途が広いが、乗組員やシステムに損傷を与えないため。\n"
+"\n"
+"FM：他のコンポーネント「Nyx」ミサイルと並んで、「チェルノボグ」ミサイル[70〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:446
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_fire\"]"
+msgstr ""
+"ヒント：爆弾は、船に直接着地するために、過去のシールドと防衛ドローンをテレポートします。1つのミサイルを費やし、船でも発射できます。\n"
+"\n"
+"FM：他のコンポーネントクリスタルロックダウン爆弾と並んで、プロジェクト＃7 [60〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:452
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_bio\"]"
+msgstr ""
+"ヒント：爆弾は過去のシールドをテレポートします。\n"
+"\n"
+"FM：他のコンポーネントCrystal Lockdown爆弾と並んで、プロジェクト＃22 [80〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:456
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_lock\"]"
+msgstr ""
+"ヒント：爆弾は、船に直接着地するために、過去のシールドと防衛ドローンをテレポートします。1つのミサイルを費やし、船でも発射できます。\n"
+"\n"
+"FM：他のコンポーネント照射爆弾と並んで、プロジェクト＃22 [80〜]を偽造するためのコンポーネント。\n"
+"FM：他のコンポーネントの火災爆弾と並んで、プロジェクト＃7 [60〜]を偽造するためのコンポーネント。\n"
+"FM：他のコンポーネントFlak IIと並んで、ブロンズメタルフラック[10〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:464
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_hull_2\"]"
+msgstr ""
+"ヒント：各レーザーショットは、レーザーの損傷に関係なく、単一のシールドバブルによってブロックされます。\n"
+"\n"
+"FM：他のコンポーネントSobekと並んで、「BA-PEF」[90〜] MinelAuncherを偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:468
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_minelauncher_breach\"]"
+msgstr ""
+"ヒント：鉱山発射装置には、すべてのシールドが貫通するゆっくりと移動する鉱山の大きなステータス効果の可能性があり、大規模な鉱山の大規模なバーストがあります。\n"
+"\n"
+"FM：他のコンポーネントHull Laser IIと並んで、「BA-PEF」MinelAuncher [90〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:472
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_missiles_bio\"]"
+msgstr ""
+"ヒント：ミサイルはすべての敵のシールドを無視しますが、発射には1つのミサイルがかかります。敵の防衛ドローンは、入ってくるミサイルを撃ち落とします。\n"
+"\n"
+"FM：他のコンポーネント「Osiris」鉱山ランチャーと並んで、「汚い爆弾」鉱山発射装置[140〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:478
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_3\"]"
+msgstr ""
+"ヒント：イオン損傷のすべてのポイントについて、ターゲットシステムから1つのパワーバーが削除され、5秒間ロックされ、再力が防止されます。イオン武器がシールドにヒットすると、損傷はシールドシステムに自動的に適用されます。\n"
+"\n"
+"FM：他のコンポーネント「エルメス」重ミサイルと並んで、「衰弱」重ミサイル[65〜]を偽造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:483
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ac_1\"]"
+msgstr ""
+"ヒント：弾道に行く!!\n"
+"\n"
+"FM：1-3の他のオートキャノン1とともに、ボレーガン[60-20〜]を鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:491
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_elite_kernel\"]"
+msgstr ""
+"ヒント：エリートカーネルは、カーネル武器のより強いバリアントです。彼らは弾薬コストを無視し、保証されたスタンチャンスを持つ65％の確率があります。\n"
+"FM：[編集]と呼ばれる他のコンポーネントとともに、バジリスクビームを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:495
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_2\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネントアンプエネルギーとともに、Boo Wompを鍛造するためのコンポーネント。\n"
+"FM：[編集]と呼ばれる他のコンポーネントと一緒に、Forgemasterドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:500
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_amp_energy\"]"
+msgstr ""
+"ヒント：AMPドローンは、戦闘前に電力レベルを変更できます。より多くのパワーにより効率が向上しますが、機能するために反応器の電力も必要です。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネント戦闘ドローンMK IIと並んで、Boo Wompを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:504
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_assault_drone\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネントクリスタルヘビーMK Iと一緒に、アンバードローンを鍛造するためのコンポーネント。\n"
+"FM：クリスタルドローンを鍛造するためのコンポーネント、他のコンポーネントクリスタル散乱。\n"
+"FM：[編集]と呼ばれる他のコンポーネントとともに、dazhbogドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:511
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_conservative\"]"
+msgstr ""
+"ヒント：保守的なドローンは、自分で電力を使用しませんが、アクティブ化されると無力化することはできません。\n"
+"FM：他のコンポーネントバトルドローンMK Iとマネージャードローンとともに、キュラドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:514
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_battletog\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：シップドローンは、展開するために1ドローンを必要としますが、破壊されるまで再び展開する必要はありません。彼らは船に乗って、乗組員が動力を与えている限り、乗組員を助けます。\n"
+"\n"
+"ヒント：搭乗ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵の船に乗って、彼らが電力を供給されている限り攻撃します。それらが破壊されていない場合、戦闘後にドローンパーツが返されます。\n"
+"FM：他のコンポーネント保守的な戦闘ドローンとマネージャードローンとともに、キュラドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:521
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_manning\"]"
+msgstr ""
+"ヒント：クルードローンは展開するために1ドローンを必要としますが、破壊されるまで再び展開する必要はありません。彼らは船に乗って、乗組員が動力を与えている限り、乗組員を助けます。\n"
+"FM：他のコンポーネントバトルドローンMK Iと保守的な戦闘ドローンとともに、キュラドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:523
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_amp_pinpoint\"]"
+msgstr ""
+"ヒント：AMPドローンは、戦闘前に電力レベルを変更できます。より多くのパワーにより効率が向上しますが、機能するために反応器の電力も必要です。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネント「Stileetto」ピンポイントとともに、石村ドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:528
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_combat_1\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネントバーストレーザーMK IIと一緒に、ケストレルドローンを鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネントライトレーザーMK Iと並んで、MFKケストレルドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:533
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_recon\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：シップドローンは、展開するために1ドローンを必要としますが、破壊されるまで再び展開する必要はありません。彼らは船に乗って、乗組員が動力を与えている限り、乗組員を助けます。\n"
+"\n"
+"ヒント：搭乗ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵の船に乗って、彼らが電力を供給されている限り攻撃します。それらが破壊されていない場合、戦闘後にドローンパーツが返されます。\n"
+"FM：他のコンポーネントの外部再建テレポーターと一緒に、MFKピケットテレポーターリレードローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:540
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_pest\"]"
+msgstr ""
+"ヒント：トグルドローンは複数の機能を持つことができます。トグルボタンを使用して、ドローンのトグが多いモードを切り替えることができます。\n"
+"\n"
+"ヒント：戦闘ドローンには、新しい敵ごとに展開するために1つのドローンパーツが必要です。彼らは敵が動力を与えられている限り攻撃します。\n"
+"FM：他のコンポーネントスタンボムと一緒に、サイレンドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:545
+msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_bomb_stun\"]"
+msgstr ""
+"ヒント：爆弾は、船に直接着地するために、過去のシールドと防衛ドローンをテレポートします。ミサイルのように、彼らは発射に1つのミサイルを費やします。彼らは船体に損傷を与えることはありませんが、乗組員やシステムを混乱させるのに効果的です。自分の船のボーダーでそれらを発射することもできます。\n"
+"\n"
+"FM：他のコンポーネントニューラル結晶とともに、閉じ込めインデューサー[25-55〜]を鍛造するためのコンポーネント。\n"
+"FM：他のコンポーネント害虫ドローンと一緒に、サイレンドローンを鍛造するためのコンポーネント。"
+
+#: src-en/data/text_misc.xml.append:558
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_forgemaster\"]"
+msgstr "赦し"
+
+#: src-en/data/text_misc.xml.append:559
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_forgemaster_2\"]"
+msgstr "赦し"
+
+#: src-en/data/text_misc.xml.append:560
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_gunbom\"]"
+msgstr "ウィンチェスター[！]"
+
+#: src-en/data/text_misc.xml.append:561
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_mandelbriss\"]"
+msgstr "マンデルブリス"
+
+#: src-en/data/text_misc.xml.append:578
+msgid "data/text_misc.xml.append$//text[@name=\"fm_credit_victory_future\"]"
+msgstr ""
+"おめでとうございます、あなたはSecret Harmony Bleak Future "
+"Endingを完了しました！これは、ハーモニー紛争のために設計したインタラクティブなティーザーです。またね！"

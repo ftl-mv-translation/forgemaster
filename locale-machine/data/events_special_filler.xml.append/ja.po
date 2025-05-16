@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_filler.xml.append:3
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_EXPLORE\"]/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）はるかに大きな小惑星を採掘しようとします。"
+
+#: src-en/data/events_special_filler.xml.append:5
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"FILLER_EXPLORE\"]/mod-"
+"append:choice/event/text"
+msgstr "FTLが充電されるのを待っている間、非常に多くの使用可能な材料を最寄りの小惑星から非常に大量の使用可能な材料を簡単にマイニングします。"
+
+#: src-en/data/events_special_filler.xml.append:16
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "（メッキ）メッキの修理船に預けてもらいます。"
+
+#: src-en/data/events_special_filler.xml.append:18
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "メッキは驚くほど速く彼らの船を修理します。フェデレーション船は彼らの仕事に非常に感銘を受けており、感謝として贈り物を送ります。"
+
+#: src-en/data/events_special_filler.xml.append:26
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "（Alastair）Alastairに修理プロセスで魔法をかけさせます。"
+
+#: src-en/data/events_special_filler.xml.append:28
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Alastairは、比較的容易に船を修理し、贈り物として船のオンボードシステムの効率を改善します。フェデレーション船は彼の仕事に非常に感銘を受けており、感謝として非常に多額の贈り物を送ります。"
+
+#: src-en/data/events_special_filler.xml.append:37
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_HAIL\"]/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""
+
+#: src-en/data/events_special_filler.xml.append:46
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "（メッキ）メッキの修理船に預けてもらいます。"
+
+#: src-en/data/events_special_filler.xml.append:48
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr "メッキは驚くほど速く彼らの船を修理します。フェデレーション船は彼らの仕事に非常に感銘を受けており、感謝として贈り物を送ります。"
+
+#: src-en/data/events_special_filler.xml.append:56
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "（Alastair）Alastairに修理プロセスで魔法をかけさせます。"
+
+#: src-en/data/events_special_filler.xml.append:58
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Alastairは、比較的容易に船を修理し、贈り物として船のオンボードシステムの効率を改善します。フェデレーション船は彼の仕事に非常に感銘を受けており、感謝として非常に多額の贈り物を送ります。"
+
+#: src-en/data/events_special_filler.xml.append:68
+msgid ""
+"data/events_special_filler.xml.append$//mod:findName[@name=\"DISTRESS_FEDERATION_LOST_LOGS\"]/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""

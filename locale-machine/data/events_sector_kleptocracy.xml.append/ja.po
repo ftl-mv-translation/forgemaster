@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:9
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "（石村ビーム）ゼロ。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:11
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"失礼なスラッグがあなたがあなたの武器を充電するのを見るとすぐに、彼らはすぐにジャンプし、彼らの人生のために逃げ、おそらく自分自身を怒らせます。彼らにとって残念なことに、あなたは彼らのジャンプ署名に閉じ込められ、あなたが望むなら彼らを追求するかもしれません。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:14
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:18
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"SLUG_DISTRESS_QUESTION_LIST\"]/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:40
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/text"
+msgstr ""
+"あなたはスラッグに追いつきました。彼のパニックでは、あなたは彼のエンジンをあまりにも遠くに押しやったようで、彼を追い詰めて逃げることができないようです。近くに空間に浮かぶ孤独な月があり、あなたの後ろに惑星があります。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:42
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/text"
+msgstr "（ishimura）それらを呼び起こし、あなたの巨大な採掘梁を準備ができています。彼らはあなたの時間を無駄にします。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:44
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/text"
+msgstr ""
+"あなたは、特に失礼なスラッグによって、どこにもいない愚かな星雲の月の数の数にポップキズを与えられることがどれほど本当に不快であるかについてスラグを講義します。「私はssssorry"
+" i thoug-」とスラッグは鳴り響きますが、あなたは彼を終わらせません。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:46
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/text"
+msgstr "このビーコンにはいくつの月があるか尋ねてください。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:48
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/text"
+msgstr "「ええと.... 1？」スラッグは神経質に答えます。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:50
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/text"
+msgstr "（ishimura）ゼロ。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:53
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/text"
+msgstr ""
+"スラッグの後ろの小さな月を抹殺し、どこにでも飛んでいる塊を送ります。スラッグ船は、月の塊が避けることができないため、最終的には担保として押しつぶされます。あなたが引き起こした損害からいくつかのスクラップを集めるかもしれません。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:59
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[@req=\"FM_BEAM_MINING_2\"]/event/choice/event/choice[@req=\"pilot\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:70
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/text"
+msgstr "彼らを呼び起こし、あなたがただ話したいと説明します。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:72
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/text"
+msgstr ""
+"あなたは、特に失礼なスラッグによって、どこにもいない愚かな星雲の月の数の数にポップキズを与えられることがどれほど本当に不快であるかについてスラグを講義します。「ごめんなさい。」スラッグは鳴り響きますが、彼に終わらせません。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:74
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/text"
+msgstr "彼らが本当に本当に不快であると彼らに持っていたものを尋ねてください。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:76
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/text"
+msgstr "「ええと....面白いと思った？」スラッグは神経質に答えます。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:78
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/text"
+msgstr "そうではありませんでした。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:80
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/choice/event/choice/event/text"
+msgstr "スラッグは、これを二度としないことに同意し、感謝として小さな贈り物を送ります。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:102
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "（「クローキング」）隠し！"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:104
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"あなたはあなたの「クローキング」システムをアクティブにしますが、あなたが予想するべきだったように、それは絶対に何もしません。氏族はあなたを笑い、あなたの船の船体にボレーをまっすぐに発射します！しかし、彼らはあなたの船のタンクが何もないように打撃を見るのを見ると、すぐに笑いを止めます。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:106
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_kleptocracy.xml.append:113
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"NEBULA_SALT_QUEST_2\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr "いや。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:127
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/text"
+msgstr "（メッキの乗組員）メッキの乗組員に、彼の船を完全に修理するように伝えます。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:129
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/text"
+msgstr ""
+"「ああ、あなたは本当に予想外の祝福です。私は帝国を長く走らせているSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSを持っています。"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:131
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
+"append:choice/event/choice/text"
+msgstr "待って、この帝国を運営していると言いましたか？"
+
+#: src-en/data/events_sector_kleptocracy.xml.append:138
+msgid ""
+"data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""

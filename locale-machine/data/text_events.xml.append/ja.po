@@ -1,0 +1,511 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:2
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_1\"]"
+msgstr ""
+"*スクラッチを録音します*しゃべり、保持します。何してるの？なぜこれをしているのですか？彼らはあなたを傷つけるために何をしましたか？彼らはただパーティーをしており、他の文化について学び、彼らの生活を楽しんでいます。何があなたに神を演じ、金銭的利益のために彼らを虐殺する権利を与えるのですか？やめて。これをしないでください。"
+
+#: src-en/data/text_events.xml.append:3
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_1_PROCEED\"]"
+msgstr "何...？誰が話しているの？"
+
+#: src-en/data/text_events.xml.append:4
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_2\"]"
+msgstr "その私、あなたの脳。大規模な戦争を犯さないように説得しようとしています。それらの武器をスロードワリーに電源で動作させましょう。"
+
+#: src-en/data/text_events.xml.append:5
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_2_PROCEED\"]"
+msgstr "連邦は反政府勢力を倒さなければならない。これは資源を調達するために必要なあらゆる手段を正当化する。"
+
+#: src-en/data/text_events.xml.append:6
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_3\"]"
+msgstr ""
+"それはあなたが夜寝るのを助けるためにあなた自身に言うことですか？イエス・キリストの男、これはあなたを買うつもりです、酸素のアップグレード？彼らに話しかけるだけで、彼らはあなたを助けるかもしれません！"
+
+#: src-en/data/text_events.xml.append:7
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_3_PROCEED\"]"
+msgstr "すべてのリソースを取得できるのに、なぜいくつかのリソースを取るのですか？"
+
+#: src-en/data/text_events.xml.append:8
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_4\"]"
+msgstr ""
+"幼稚園で4歳で塗料を塗った七面鳥を手に塗りつけました。彼女のドレスはきれいだと思ったので、あなたは先生のために花を買いました。どうやってここに着いたの？これは間違っています、あなたはそれをする必要はありません。"
+
+#: src-en/data/text_events.xml.append:9
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_4_PROCEED\"]"
+msgstr ""
+"次のセクターを銃を買う余裕がない場合はどうなりますか？私は本当にエルメスが欲しい！それともバルカン？HRM ....またはチェーンエネルギー？"
+
+#: src-en/data/text_events.xml.append:10
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_5\"]"
+msgstr "私は言葉がありません。あなたは本当に止まらないでしょうか？"
+
+#: src-en/data/text_events.xml.append:11
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_5_PROCEED\"]"
+msgstr "絶対にそうではありません、私はそれらを乾燥させるつもりです。"
+
+#: src-en/data/text_events.xml.append:12
+msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_6\"]"
+msgstr ""
+"大丈夫。あのね？大丈夫。それをして、私が気にかけているかどうかを確認してください。次は、スポーツのためにオーキッドの子供を殺しますか？血まみれの戦利品をお楽しみください"
+
+#: src-en/data/text_events.xml.append:14
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP\"]"
+msgstr "大丈夫、やめます。"
+
+#: src-en/data/text_events.xml.append:15
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP_OK\"]"
+msgstr "結局のところ、あなたは本当に心を持っています。大丈夫、これをもう一度試してみましょうが、目的のない殺しはイエスを殺しませんか？"
+
+#: src-en/data/text_events.xml.append:16
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_STOP_OK_LAST\"]"
+msgstr ""
+"私は....なんて？o-ok "
+"....多分あなたは本当に心を持っています。大丈夫、これをもう一度試してみましょうが、目的のない殺しはイエスを殺しませんか？"
+
+#: src-en/data/text_events.xml.append:18
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ZOLTAN_MANTIS_1\"]"
+msgstr "貴重なリソースをあきらめない場合は、再び発砲することをお勧めします。"
+
+#: src-en/data/text_events.xml.append:19
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_DISTRESS_ZOLTAN_MANTIS_2\"]"
+msgstr ""
+"ゾルタンの船は予備の武器を提供し、マンティス・ウォーシップはそれが持っている予備のリソースを提供します。あなたはあなたの陽気な方法を続け、2つの障害のある船を残して彼らの違いを整理します。"
+
+#: src-en/data/text_events.xml.append:21
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_1\"]"
+msgstr ""
+"アリステアの表情は、あなたが鍛造したいものを彼に知らせると、誇りに思っているにやにや笑いに移行します。「ああ、Hellflash！これには興味深い背景があります。これらのコンポーネントをバルカンに置くには、より細かいツールが必要です。すぐに戻ります。"
+
+#: src-en/data/text_events.xml.append:22
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_2\"]"
+msgstr ""
+"Fortemasterは1分後に戻り、片手に非常に薄いドライバーが、もう片方にある種の小さなクリスタルロックが戻ります。あなたがクリスタルオブジェクトに気づいたのを見て、彼はそれを抑えます。「ああ、これは私のかなり大切な遺物です。クリスタルアンバサダー自身による贈り物です。この素晴らしいデバイスは、クリスタルの寒気を放出することができます。アリステアは火のスターターを取り、慎重に解体し始めます。「あなたはこのことに注意する必要があります。火災の要素で間違った開口部と...まあ、私の若者、私の若者、それがきれいに見えると想像できると確信しています。」"
+
+#: src-en/data/text_events.xml.append:23
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_3\"]"
+msgstr ""
+"フォージのそばを歩いている多くのメッキの中で、そのうちの1人は、異常に特徴的な好奇心でアリステアを見ています。Alistairは彼らにうなずきを与え、彼らは以前よりも少し熱心で、彼らの途中で続けています。「私たちの最新のメッキの1つがありました。彼はこの素晴らしい武器の概念を思いつきましたが、彼は自分でそれを偽造しようとしました！彼はむしろ自分でそれをすることを決意しました。アリステアの動きは、あなたが彼のアンビルのそばに置くバルカンを彼に渡すために、現在解体されている火のスターターから出てくる火花を避けるように注意してください。「彼は最初はコンポーネントを出すことができませんでした。私たちは彼に多くのファイアスターターを費やしました。彼がそれを手に入れたら、彼は物事を適切にまとめるのに苦労しました！"
+
+#: src-en/data/text_events.xml.append:24
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_CHAINGUN_FIRE_1_4\"]"
+msgstr ""
+"「多くの試みが必要でしたが、最終的には最初のヘルフラッシュを持っていました。近くの店から盗もうとする数人の海賊の試乗にそれを取りました。それは確かに強力な武器でした！」しばらくすると、火花は止まります。その後すぐに、激しい寒さがしばらくの間空気を切り裂きます"
+" - アリステアのクリスタル遺物によって引き起こされたことは間違いありません。フェージマスターは新しいHellflash "
+"Vulcanを持ち上げ、それをあなたに手渡します。「ここには特別な場所があります。太陽の嵐よりも熱く、燃えるような情熱が築かれています！あなたの武器が完成するようになったので、アリステアはあなたを途中で送ります。"
+
+#: src-en/data/text_events.xml.append:26
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_1\"]"
+msgstr ""
+"「今、これ、若者は素晴らしい選択です！」Alastairはあなたに輝き、特別なツールのために彼の引き出しを開きます。「これは少し特別なものであり、企業秘密の使用を伴います。クライストロンスタビライザーと呼ばれます。これについては物理学のレッスンをspareしまないでしょう。仕事はそれなしでは実行可能ですが、この小さなツールを持つことで、私のような大きな手で仕事のストレスが少なくなります。」"
+
+#: src-en/data/text_events.xml.append:27
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_2\"]"
+msgstr ""
+"「私はこれらのタイプの武器を楽しんでいます」とAlastairがオープンします。「より多くの戦略を使用する必要があるからです。これをリードするとき、そしてフォトンテクノロジーによって引き起こされたサルベージミッションに出くわしたとき、彼らは最も実り多いものです！」彼は満足してうなずき、あなたが選んだことに明らかに興奮しています。"
+
+#: src-en/data/text_events.xml.append:28
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_3\"]"
+msgstr ""
+"アラステアは、彼が突然発言したとき、彼の仕事の奥深くに静かになったことに気づきます。「私はZulfiquarに問題があるかもしれませんが、彼らは時々美しい武器を作ることができます。これはその1つです。」彼は追い出し、武器の解体の終わりに向かって声を見つけます。「私は、単に殺すために撃つことのない武器に多くの美しさを見つけます。はい、それは殺すかもしれませんが、この武器はそれ以上の証拠です。」"
+
+#: src-en/data/text_events.xml.append:29
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_1_4\"]"
+msgstr ""
+"「私はこの武器の適切な青写真を受け取ったことはありません。それらの殻はそれを胸の近くに保ちましたが、好奇心よりも大きな力はありません。この技術を長い間書いた後に書いた私自身の青写真を持っています。」Alastairは完成した武器を返します。「この武器はあなたにとって信じられないほど便利です。敵が慰められた敵を過小評価しないでください。"
+
+#: src-en/data/text_events.xml.append:30
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_1\"]"
+msgstr ""
+"「ああ！あなたは好意的な条件に出くわしているようです。通常、これらのコンポーネントから素敵な武器を作ることができましたが、あなたはさらに良いものを作成するための完璧な部分を持ってきました。」"
+
+#: src-en/data/text_events.xml.append:31
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_2\"]"
+msgstr ""
+"「私の知る限り、マンティスは最も明るい束ではありません。私はこれのために学生として永久に1つを取り入れていませんが、私はそうするための多くの試みを尊敬しています。」アラステアはこの考えに笑います。「武器のクラフトの傾向を示す驚くべき知性のマンティスに会ったら、彼らに私の道を送ってください。私はそれらを持っているのが大好きです！」"
+
+#: src-en/data/text_events.xml.append:32
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_3\"]"
+msgstr ""
+"アラステアは静かに働き、彼の前で武器の内側の仕組みを研究しています。彼は仕事の表面に手を置いてテーブルの一部を激しく凝視し、金属が少しお辞儀をするのを見るまで端を握ります。彼はあなたの視線に会うために見上げ、グリップを緩め、彼の表情は柔らかくなります。「武器を調べるときに思考で迷子になるのは簡単です、そうではありませんか？」彼は部品を穏やかにタップし、笑います。「写真を見ると深い感情を感じる人もいますが、私たちの中には、機械の部分がトリックをすることができます。」"
+
+#: src-en/data/text_events.xml.append:33
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_PHOTON_2_4\"]"
+msgstr ""
+"「どんな武器も改善できると本当に信じています。あなたは私にあなたの光子レーザーを与え、私はあなたを育てます。」AlastairはPhoton "
+"IIを誇らしげに提供します。「ほとんどの人は、オリジナルで見つかった欠陥のためにこの武器をまったく役に立たないでしょう。私は同意するかもしれません。最初のバージョンへの私の微調整はそれを価値のあるものにするのに十分ですが、優れた親の武器のアップグレードされた部分を使用すると、もっと多くのことを達成できます。"
+
+#: src-en/data/text_events.xml.append:34
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_1\"]"
+msgstr ""
+"アラステアの手はゆっくりとハンマーを引き出します。彼の顔は静止しています。「私は一度警告します、Lad。この武器は私が完全に理解していなくてもテクノロジーに結び付けられています。しかし、私はそれについて知っていることをお話しします。彼は引き出しを通り抜けてから、ボロボロと焦げたデータチップを引き出し、フォージの港に置きます。"
+
+#: src-en/data/text_events.xml.append:35
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_2\"]"
+msgstr ""
+"「私は駅で青写真を見つけました。研究研究所は正確にはミニストリーの空間で。私が理解できるように、彼らは軍事グレードの高エネルギー兵器を使用して顕微鏡的な特異性を作成し、崩壊を加速しようとしていました。MVドライブは、船のスキャナーがほとんどの場合よりも優れているように見えました。"
+
+#: src-en/data/text_events.xml.append:36
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_3\"]"
+msgstr ""
+"「しかし、私がそこに着いたとき、彼らはそこにいませんでした。代わりに、私はあなたを見せてくれた方が良いことがわかりました。」Alastairは近くのコンソールに触れ、点灯します。いくつかのクイックタップ、それはビデオフィードを明らかにします。彼は演奏を開始すると仕事に戻ります。シーンは薄暗く、駅に入る人のヘルメットカメラからフィードが撮影されたようです。廊下は薄暗く、ゾルタンの設計と緊急照明の両方のように見えます。フィードは数分間続きます。オンボードコンソールの一部にアクセスする試みが行われますが、それらは反応しません。"
+
+#: src-en/data/text_events.xml.append:37
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_4\"]"
+msgstr ""
+"不気味に、ステーションは空です - すべてが合理的な整頓された状態であり、工場ではなく新しいものではありませんが、不自由ではありません。\n"
+"\n"
+"徐々に、カメラは駅の中央部に向かい、実験室に向かいます。フィギュアのグループが見られ、円筒形の装置の周りに立っています。それらは形のゾルタンのように見えますが、彼らの特徴的な輝きは...どういうわけか色あせます。消滅するのではなく、薄暗い。アラステアの声のゴロゴロが鳴り響き、ゾルタンの輪が鳴ります。彼らがカメラを見つめながら、ピークにならないように、彼らの輝きは最初はゆっくり、そして不規則に風が揺れ始めます。彼らは完全に静止したままです。Alastairのハンマーの鮮やかな青がフレームを埋めます。そして、ステーションが崩壊し始め、カメラが走り始め、エネルギーの閃光があり、フィードが終了します。"
+
+#: src-en/data/text_events.xml.append:41
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_LASER_ION_MEGA_5\"]"
+msgstr ""
+"Alastairはあなたにうなずきます。彼はイオン爆弾を広く丸いケーシングに入れており、現在、ピアスレーザーを一種のスパイラルに分解する過程にあります。「駅は姿を消しました。私は船に戻ってきましたが、船に戻ってきましたが、駅は何らかのマルチバースジャンプをしました。普通のジャンプではありませんでした。特徴的な青いフラッシュはありません。アラステアは彼の作品から後退し、焼けるように焼けるような青いエネルギーのラインで浮かび上がった巨大な洗練された金属の武器を明らかにします。「慎重に使用してください。これは気まぐれに振る舞う武器ではありません。」"
+
+#: src-en/data/text_events.xml.append:43
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_1\"]"
+msgstr "アラステアの目は喜びで明るくなります。「ああ！素晴らしい選択、若者。そして、これはその背後に物語があります！」"
+
+#: src-en/data/text_events.xml.append:44
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_2\"]"
+msgstr ""
+"「これは私が今まで取り組んだ中で最もユニークなことではありませんが、少年は確かに効果的です！この1つは年間多くのレプリカリクエストを受け取りますが、それを分解してより良いものにするのに苦労しています。」"
+
+#: src-en/data/text_events.xml.append:45
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_3\"]"
+msgstr ""
+"「これらのイオン兵器は非常に科学的ではありません...時々、科学は、クールなことが起こるまで手を投げているカップルだけです。これはかなりクールだと思います。」"
+
+#: src-en/data/text_events.xml.append:46
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_ION_TRI_FIRE_4\"]"
+msgstr ""
+"「ラッド、ギリシャの宗教について聞いたことがありますか」とアラステアは尋ねます。「私は人間についての本でそれについて学びました。門を地獄に保護するセルベロスという3頭の犬についての神話があります。この犬よりも恐ろしいのは、私の娘のルシールが私に犬を尋ねることです。」Alastairは武器を数回ハンマーし、見上げます。「これは犬の船ではないと彼女に言ったが、彼女は3人が欲しいと主張した。ついに彼女に話しかけることができたが、彼女が私を許しているかどうかはよくわかりません。"
+
+#: src-en/data/text_events.xml.append:48
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_1\"]"
+msgstr ""
+"あなたがあなたの要求をするとき、あなたはAlastairの通常穏やかな態度の変化に気づきます。あなたはほとんど独善的なオーラが彼について来たかのように感じます。「あなたは不思議に思うかもしれません」とアラステアは、「私が石村のために青写真に出会ったのか？それは私とズルフィクアから亡命したメッキの間の共同の努力でした。」"
+
+#: src-en/data/text_events.xml.append:49
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_2\"]"
+msgstr ""
+"「通常、私は完全に盗作を支持しません。借りた武器を見ると、私は通常、誰かの武器のコピーを製造する権利のためにかなりのペニーを支払いました。しかし、Zulfiquarは別の話です。\n"
+"\n"
+"そして、それは私が鉱山ビームと石村を作成した研究室で働いていたイサクという若者に会ったということです。私はそれにすぐに戻ってきます - この次の部分には少し集中する必要があります。」"
+
+#: src-en/data/text_events.xml.append:53
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_3\"]"
+msgstr ""
+"AlastairはSarrisaビームを慎重に開き、ケーシングと内臓の断片を別々のセクションに整理します。彼が各ピースを取り、それを独自の目に見えないスロットに置くと、あなたは静かに観察します。彼はあなたが彼の慎重な仕事を見ていることに気づき、発言します。\n"
+"\n"
+"「メッキがトレーニングを受けているとき、彼らは各武器のラベル付きグリッドから始めます。それは一貫性を維持するのに役立ちます。年が経つにつれて、私たちはグリッドをカバーして記憶をテストします。各部分は重要です。"
+
+#: src-en/data/text_events.xml.append:57
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_4\"]"
+msgstr ""
+"AlastairはForgeで仕事を始めていましたが、多くの時間の後、あなたは彼の船の下部にある大きな開いたエリアで武器が形になるのを見ています。彼が働いている間、彼はあなたのために彼の物語を続け、彼のメッキは彼が巨大な武器を組み立てるのを助けます。「アイザックは素晴らしい仲間であり、ズルフィクルがどのように風味のない側面に向かって動いているかを見たとき、彼は去りました。彼の古い研究室に出会ったとき、ほぼ完全に新しい乗組員がいました。\n"
+"\n"
+"彼は去ったときに彼と一緒に資格を取っていたので、彼はそれらをだましました。彼らが頭で壁を塗る機会を得る前に、彼は青写真をひったくり、船に戻り、私たちは去りました。」"
+
+#: src-en/data/text_events.xml.append:61
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_MINING_2_5\"]"
+msgstr ""
+"アラステアはあなたの側に来て、彼らが大きな断片を一緒に溶接するときにメッキを監視します。「Zulfiquarの代わりにあなたのビジネスを私に連れて行ってくれてありがとう。あなたが彼らからあなたの距離を保っている限り、私たちはお互いに問題がないと確信しています。」アラステアはあなたに向き直り、彼の表情は厳しくなります。「そして、もちろん、あなたはこの武器に責任があること。それは信じられないほどの力を持っています、そして私はあなたがそれを乱用しないと信じています。」彼はしばらくの間あなたを激しくじっと見つめてから、壊れて、彼の強い手をあなたの背中に叩きつけます。「このことをするために船を準備してください。助けが必要な場合は、Commsを介してメッセージを送信すると、すぐにそこにいます。」"
+
+#: src-en/data/text_events.xml.append:62
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_1\"]"
+msgstr "「耳のspoon、huh？私が頻繁にリクエストを得る人ではありません。奇妙な名前ですが、それは私のせいではありません。」"
+
+#: src-en/data/text_events.xml.append:63
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_2\"]"
+msgstr ""
+"「ああ、Zulfiqarの武器を解体するようなものはまったくありません。私は彼らと正確にうまくやっていないので、それには少しのカタルシスがあります。"
+
+#: src-en/data/text_events.xml.append:64
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_3\"]"
+msgstr ""
+"アラステアは彼の仕事を一時停止し、肩をすくめます。「実際、今は何も良い時間です。Zulfiqarには秘密の研究グループがあることをご存知ですか？彼らは私の船で起こっていることのいくつかに強く興味がありますが、彼らは悪いスポーツであり、共有したくありません。」アラステアは彼の仕事を再開し、少しイライラしているように見えます。「彼らは私の妻と娘がもう私と一緒に安全に飛ぶことができない理由です。私がそれを見る方法、Zulfiqar、そして彼らが燃えることができるものはすべてあなたがこの武器を使ってそうすることを望んでいます。」"
+
+#: src-en/data/text_events.xml.append:65
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_PARTICLE_PIERCE_4\"]"
+msgstr ""
+"Alastairは、テーブルを横切って独特の武器をスライドさせます。手放す前に、彼はそれについてコメントすることにしました。「この武器を要求したマンティスは奇妙な束でしたが、私は彼らの話を聞くのを楽しんでいました。彼らは人間を尊敬し、勉強しながらイヤスプーンと呼ばれる何かについて学んだと言いました。」彼は武器を手放し、まっすぐに立っています。「私は自分でいくつかの研究をしました、そして彼らが私に作った武器は本当の取引のようなものではありません。それはただ奇妙な槍です！私は本当にそれらのマンティスの人々を手に入れませんが、彼らは私が求めるものは何でも私に支払います。武器を楽しんでください！」"
+
+#: src-en/data/text_events.xml.append:66
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_1\"]"
+msgstr ""
+"Alastairは好奇心が強い眉を上げます。「メナリオンは確かに選択肢です。他の何よりもこれを選ぶとあなたが直面する敵が何に直面しているのだろうか。」"
+
+#: src-en/data/text_events.xml.append:67
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_2\"]"
+msgstr ""
+"Alastairは、顧客が彼が働くのを見ることを好みますが、彼はあなたを護衛するためのメッキのための動きをします。メッキが歩くと、彼は説明します。「アラステアは教えるのが大好きですが、安全性はもっと懸念事項です。あなたが放射線病で死んでいれば彼はあなたに売ることができません。メッキされた目の笑い声を望んで、めっきして、ため息をつきます。「誰もそれを笑いません。それはあまりにも恐ろしいですか？」彼が船の下部へのドアを開けて、リードの裏地付き部屋に導くと、彼の肩は少し落ちます。「何か問題が発生した場合、アラームが鳴ります。必要に応じてすべての言語に入手可能な方法で取扱説明書がありますが、ここには放射線機器がありますが、私は確かです。」"
+
+#: src-en/data/text_events.xml.append:68
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_3\"]"
+msgstr ""
+"ドアが鳴り響き、おそらく古いガイガーカウンターをオンにする方法を学び始める必要があると思います。ありがたいことに、それはあなたを手に入れるために来るメッキでした。彼はあなたを下のデッキを横切って、ガラスの壁のある小さな囲まれたワークスペースを備えた船の一部に導きます。Alastairは、小さな侵略者と非常に慎重に働いています。彼は波を振って、下に向けて、喉のスライトの動きをします。ナノマチンは非アクティブであることがわかりますが、彼が緩んだ場合、彼はマイクロ秒で死んでいることを知っています。"
+
+#: src-en/data/text_events.xml.append:69
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BEAM_GUILLOTINE_CHAIN_4\"]"
+msgstr ""
+"放射線とナノマシンが安全に含まれているため、アラステアはワークスペースから出てきて、新しい武器をけん引して、上部デッキに戻ってきます。「この武器が最初に作られたとき、この武器についての噂を誰も信じなかった。あなたは自分の船でこれらのいずれかを作るために勇気を持っている必要があるか、完全に狂っている。Alastairはあなたに心のこもった笑いを与え、あなたを途中で送ります。"
+
+#: src-en/data/text_events.xml.append:71
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_1\"]"
+msgstr ""
+"あなたがあなたの要求をするとき、アラステアの目が明るくなります。「これ、私は絶対に一緒に仕事をすることができます。それらの銃を私に与えてください、そしてあなたはすぐにあなたの前にあなた自身の素晴らしい武器を持っているでしょう。"
+
+#: src-en/data/text_events.xml.append:72
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_2\"]"
+msgstr ""
+"「Flak Weaponsは、私が最初に作成することを学んだ銃であるため、私が最初に授与するために教えます。彼らの汎用性は間違いに役立ちますが、より正確な銃には完全に完璧なバレルが必要です。」Alastairは銃をテーブルの上に持ち上げ、あなたから目を離さずにあなたの前にそれを解体し始め、話し続けます。\n"
+"\n"
+"「通常、私はこのタスクを私の見習いの一人に任せますが、私は特にここの最終製品が好きで、これを自分で作ることを好みます。」メッキが静かに過ぎ去り、部品をすくい上げて船の別の部分に連れて行きます。"
+
+#: src-en/data/text_events.xml.append:76
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_3\"]"
+msgstr ""
+"Flak IIが解体されると、Alastairはクリスタルの武器に注意を向けます。彼は彼の前にある武器に対する明確な敬意を持って、それを優しく手にします。「私は今、彼らが神ではないことを知っていますが、私はまだ結晶性の人種を尊重しています。彼らの発見は、部分的に私を今日の私にしました。\n"
+"\n"
+"幅広い武器とそれらのオーガニックは、私が死ぬ日まで、そしておそらく私の死後の世界でさえ、彼はあなたを振り返り、しっかりとうなずきます。"
+
+#: src-en/data/text_events.xml.append:80
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_SHOTGUN_BRONZE_4\"]"
+msgstr ""
+"しばらくして、Alastairは最終製品で戻ります。「はい、これは確かに私のお気に入りです。ある意味では、これまでの私の物語を語っています。それは奇妙な武器であり、大丈夫です。あなたのためにそれを作ってくれてうれしいです。"
+
+#: src-en/data/text_events.xml.append:82
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_1\"]"
+msgstr ""
+"「そこには危険な選択があります。それはストリーブンの作品ですが、それは驚くべきことではありません。彼女の努力はすべての人の死の目標に向かうだけでした。彼女は素晴らしい心でした。"
+
+#: src-en/data/text_events.xml.append:83
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_2\"]"
+msgstr ""
+"Alastairはメッキアシスタントにうなずき、複雑な青色の結晶の重いインゴットを彼にもたらします。「この武器は、結晶構造に最も不幸な種のナノメカニカルウイルスを注入することを求めています。実際、それは非常に興味深い効果です。武器は、標準システムを無効と読む方法でターゲットの遺伝コードをスクランブルします。"
+
+#: src-en/data/text_events.xml.append:84
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_BIO_3\"]"
+msgstr ""
+"Alastairは、めっきしためっきから厚い真っ黒な液体で満たされたバイアルを受け入れます。「私たちは彼女の仕事のサンプルを使用しています。私は自分のウイルスを作る知識を持っていないので、私は彼女を文化し、それを在庫に保ちます。」Alastairは、さまざまな粉末とオブジェクトの選択をるつぼに追加し始め、それを鍛造に入れます。「警告されてください。このデバイスのストリーブンのテストは彼女を殺しました。発射メカニズムの単純な短いもので、彼女がテーブルに立っている間、彼女の人生を引き裂きました。彼女の研究室を見つける前にほぼ1か月前に死んでいます。\n"
+"数分後、不快な紫がかったクリスタルによって乗り越えられた手付かずの武器があなたの船に取り付けられています。"
+
+#: src-en/data/text_events.xml.append:87
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_1\"]"
+msgstr ""
+"「ああ、あなたがそこに持っている目の肥えた目！その武器は私のコレクションで最もユニークな発見の1つです。」アラステアは、彼がホロフェージの中心に置き、加熱し始める大きな形の形をしたインゴットを彼にもたらすためにメッキを合図します。"
+
+#: src-en/data/text_events.xml.append:88
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_2\"]"
+msgstr ""
+"「それは実際にはクリスタル科学者のストリーブンの創造でした。彼女は戦時中の倫理に関するコードにひどく違反したために帝国によって追放されましたが、それは彼女を遅くしませんでした。アラステアはクリスタルインゴットにジェスチャーをします。クリスタルインゴットは、その形を失い始め、鍛造の激しい熱で溶け始めています。"
+
+#: src-en/data/text_events.xml.append:89
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_CREATE_FM_BOMB_CRYSTAL_FIRE_3\"]"
+msgstr ""
+"「物事にラッチしてハートビートで燃えるような反応的な形のクリスタルを作成しました。一緒に作業するのが難しい - "
+"私は通常のように手でそれを形作ることはできません。Alastair "
+"Winks。「secret秘密、ラッド。すぐに準備ができています。」数分後、危険に見えるクリスタルを注入した爆発物が船に移されます。これは確かに有用であることが証明されます。"
+
+#: src-en/data/text_events.xml.append:92
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_BRAIN_DONATION\"]"
+msgstr "あなたはすでに心の塊を持っています。"
+
+#: src-en/data/text_events.xml.append:93
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_BRAIN_DONATION\"]"
+msgstr ""
+"心のクローダーを内面化する...\n"
+"[あなたの乗組員は今や心のコントロール効果を免れています。]"
+
+#: src-en/data/text_events.xml.append:96
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAPPED_BRAIN_DONATION\"]"
+msgstr "あなたはすでに心の塊を廃棄しました。"
+
+#: src-en/data/text_events.xml.append:97
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAP_BRAIN_DONATION\"]"
+msgstr "心の塊を削ります。"
+
+#: src-en/data/text_events.xml.append:98
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_DEATH_VESTS2\"]"
+msgstr "あなたはすでにトワイライトのベストを持っています。"
+
+#: src-en/data/text_events.xml.append:99
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_DEATH_VESTS2\"]"
+msgstr ""
+"トワイライトのベストを内面化する...\n"
+"[すべての非ゾルタン同盟の乗組員に死効果を追加し、敵に対する45人の乗組員の損傷のために爆発させ、時には火を開始します。]"
+
+#: src-en/data/text_events.xml.append:102
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAPPED_DEATH_VESTS2\"]"
+msgstr "あなたはすでにトワイライトのベストを廃棄しました。"
+
+#: src-en/data/text_events.xml.append:103
+msgid "data/text_events.xml.append$//text[@name=\"text_SCRAP_DEATH_VESTS2\"]"
+msgstr "トワイライトのベストを廃棄します。"
+
+#: src-en/data/text_events.xml.append:104
+msgid "data/text_events.xml.append$//text[@name=\"text_HAVE_UPG_DRONE_COOLDOWN\"]"
+msgstr "あなたはすでにドローンブースター「カイ」を持っています。"
+
+#: src-en/data/text_events.xml.append:105
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_UPG_DRONE_COOLDOWN\"]"
+msgstr ""
+"ドローンブースター「カイ」を内面化する...\n"
+"[すべてのドローンアクティブ能力は2倍速く充電します！]"
+
+#: src-en/data/text_events.xml.append:108
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_SCRAPPED_UPG_DRONE_COOLDOWN\"]"
+msgstr "あなたはすでにドローンブースター「カイ」を廃棄しました。"
+
+#: src-en/data/text_events.xml.append:109
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_SCRAP_UPG_DRONE_COOLDOWN\"]"
+msgstr "ドローンブースター「カイ」を廃棄します。"
+
+#: src-en/data/text_events.xml.append:111
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_TEA_EARL\"]"
+msgstr ""
+"アールグレイティーを内面化する...\n"
+"[彼女の王室の殿下でさえ、おいしいお茶を楽しむ。すべての同盟マンティス +20％の修理速度と+15の最大健康を与えます。]"
+
+#: src-en/data/text_events.xml.append:114
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_REALITY_RELOADER\"]"
+msgstr ""
+"現実のリロダーを内面化します...\n"
+"[武器のクールダウンをブーストし、充電速度を15％上げます。]"
+
+#: src-en/data/text_events.xml.append:117
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_MANTIS_RELOADER\"]"
+msgstr ""
+"フェロモンの加速器を内面化する...\n"
+"[マンティス能力のクールダウン率を20％下げます。Mantisの乗組員によるすべての損傷を8％減らします。]"
+
+#: src-en/data/text_events.xml.append:120
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_FM_UPG_AETHER_SHIELDS\"]"
+msgstr ""
+"エーテルアセンションシールドを内面化します...\n"
+"[効果：他のエネルギーシールドと積み重ねるボーナス6エネルギーシールドポイントを提供します。]"
+
+#: src-en/data/text_events.xml.append:123
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_FREEDOM_ROCK\"]"
+msgstr ""
+"自由のロックマンの遺物を内面化する...\n"
+"[この小さな像はあなたのロックマンの乗組員を元気づけ、1.8倍の動き速度を獲得します！]"
+
+#: src-en/data/text_events.xml.append:126
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_AUG_MAGATAMA\"]"
+msgstr ""
+"マガタマを内面化する...\n"
+"[この小さな魅力は、すべての乗組員に40％の回復速度と5％のダメージ抵抗を提供します。]"
+
+#: src-en/data/text_events.xml.append:129
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_MALBORO_RED\"]"
+msgstr ""
+"マルボロクエーサーを内面化する...\n"
+"[これらの過剰な調整的なタバコは、何らかの形であなたの活力を高めますが、恐ろしい肺の問題を与えます。健康のようです！...あなたが愚か者なら。すべてのスラッグの2倍の健康ですが、3倍の窒息ダメージが取られました。]"
+
+#: src-en/data/text_events.xml.append:132
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_LAB_ZOLTAN_LIMIT_RELEASE\"]"
+msgstr ""
+"制限リリースを内面化する...\n"
+"[アクティブな能力：Zoltansは40％の損傷を減らし、1.3倍の損傷の増加を獲得します。これがアクティブである間、彼らは電力を供給しません。]"
+
+#: src-en/data/text_events.xml.append:135
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_UPG_DRONE_SPEED_2\"]"
+msgstr ""
+"ドローンブーストMK IIを内面化する...\n"
+"[ドローンは3倍の動きを獲得し、50％の後押しと戦闘/妨害の損傷と修理/消火速度を獲得します。他のブースターと一緒にスタックします。]"
+
+#: src-en/data/text_events.xml.append:138
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_FIRE_HEART\"]"
+msgstr ""
+"スクラップメタルファイアハートを内面化します...\n"
+"[「火に燃料を燃やし、暑さを感じなさい！」すべての通常のラニウスの乗組員は、3 hp/sの速度で火災から癒され、酸素排水が遅く（70％減少）、戦闘損傷が20％少なくなります。]"
+
+#: src-en/data/text_events.xml.append:141
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_GOZER_FRIDGE\"]"
+msgstr ""
+"Gozerの冷蔵庫を内面化する...\n"
+"[あなたのゴーストクルーはもはや壁を介して段階的に段階的にできませんが、信じられないほど耐久性があります！乗組員のすべての幽霊は、最大70％の健康と30％の移動速度を獲得します。]"
+
+#: src-en/data/text_events.xml.append:144
+msgid ""
+"data/text_events.xml.append$//text[@name=\"text_GET_UPG_WEAPONS_REPLICATOR_2\"]"
+msgstr ""
+"ねじれた弾薬製作者を内面化します...\n"
+"[効果：弾薬を消費する武器を撃つときにミサイルを使用しない可能性は60％です。]"
+
+#: src-en/data/text_events.xml.append:147
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_GOLDEN_TUCO\"]"
+msgstr ""
+"黄金のトコを内面化する...\n"
+"[この限定版のTUCOのチャイルドカジノとガーデニングエンポリアムゴールデンフィギュアは、乗組員が暖かくて曖昧に感じさせます。すべての乗組員に30％のアクティブな能力充電速度の上昇を提供します（マンティスを除く、マンティスは置物が嫌いです）。]"
+
+#: src-en/data/text_events.xml.append:150
+msgid "data/text_events.xml.append$//text[@name=\"text_GET_DEPRESSION_EMITTER\"]"
+msgstr ""
+"うつ病のエミッターを内面化する...\n"
+"[すべての敵の動きと修理速度を20％遅らせるうつ病のオーラを発します。]"

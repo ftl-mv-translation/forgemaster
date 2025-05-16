@@ -1,0 +1,2501 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_ships.xml.append:28
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_COORDS_GIVER\"]/loadEventList/event/text"
+msgstr ""
+"ソフトウェアC.U.R.Aは、容器が到着したリフトをスキャンすることもでき、データベースに座標をすばやくアップロードできます。ソフトウェアは、これらの座標「ここでそれらを満たしている、Renegade」に関連して簡単なメッセージを表示します。"
+
+#: src-en/data/events_ships.xml.append:43
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/text"
+msgstr "トンネルの外から、密輸業者のデザインの大規模な巡洋艦船があります！"
+
+#: src-en/data/events_ships.xml.append:46
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:48
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎され、受け入れます。「私たちはマルチスサルオルガンディーラーズです。Pealesssseはすぐにあなたの臓器を寄付します。それは良い候補です。"
+
+#: src-en/data/events_ships.xml.append:50
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/text"
+msgstr "どうですか....いいえ？"
+
+#: src-en/data/events_ships.xml.append:52
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「今すぐ寄付してください。あなたはssscumです。」"
+
+#: src-en/data/events_ships.xml.append:54
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:56
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:60
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:74
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「アンブロシア」とラベル付けされた現代科学を超えた化学的複製ラボのように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:94
+msgid "data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/text"
+msgstr "Ambrosia Labを回収し、Ambrosia薬の複製を開始し、それをすべての乗組員に入れるようにします。"
+
+#: src-en/data/events_ships.xml.append:96
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:98
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/choice/event/text"
+msgstr "あなたの乗組員は今や心のコントロール効果を免れています。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:100
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_BRAIN_DONATION\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:113
+msgid "data/events_ships.xml.append$//event[@name=\"FM_ONE_FUEL\"]/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:126
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_BRAIN_DONATION\"]/text"
+msgstr "あなたは貴重なリソースのために心のクローダーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:141
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「アンブロシア」とラベル付けされた現代科学を超えた化学的複製ラボのように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:184
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/text"
+msgstr "トンネルから外れて、Duskbringerデザインの大規模な巡洋艦船があります！"
+
+#: src-en/data/events_ships.xml.append:187
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:189
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎され、受け入れます。彼らは驚くほど丁寧で迅速です。「すみません、私たちは1回の戦いでほとんどの戦争犯罪でギネスマルチバースの記録を目指しています。あなたは私たちを許しますか？」"
+
+#: src-en/data/events_ships.xml.append:191
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/text"
+msgstr "...いいえ？"
+
+#: src-en/data/events_ships.xml.append:193
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「私はあなたがこの問題に選択肢がないのではないかと心配しています。良い日、そしてすべての夕暮れ者に栄光を持っています！」"
+
+#: src-en/data/events_ships.xml.append:195
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:197
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:201
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:215
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「世界記録」とラベル付けされた奇妙な見た目のベストのセットと思われるものを見つけます。彼らは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:234
+msgid "data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/text"
+msgstr ""
+"あなたはトワイライトのベストを取り戻し、すべての乗組員にそれらを置くように強制します。奇妙なことに、ベストのオーラによって催眠術をかけられているかのように、抵抗も議論もありません。"
+
+#: src-en/data/events_ships.xml.append:236
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:239
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/choice/event/text"
+msgstr ""
+"すべての非ゾルタン同盟の乗組員に死効果を追加し、敵に対する45人の乗組員の損傷のために爆発し、時には火を開始します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:241
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEATH_VESTS2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:261
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_DEATH_VESTS2\"]/text"
+msgstr "貴重なリソースのためにトワイライトのベストを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:276
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「世界記録」とラベル付けされた奇妙な見た目のベストのセットと思われるものを見つけます。彼らは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:317
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外から、エンギデザインの大規模な巡洋艦船があります！船は、あなたが見たものとは異なり、奇妙なアマルガムであるさまざまなスタイルのエンギ船のさまざまな部分で作られているようです。"
+
+#: src-en/data/events_ships.xml.append:320
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:322
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/text"
+msgstr "「気にしないでください。私の船は、キャプテンのナノマシンと絶えず複製します。それは物理的なトラウマに応じて硬化します。」"
+
+#: src-en/data/events_ships.xml.append:326
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/choice/event/choice/text"
+msgstr "それはどういう意味ですか？[Engiは、船を搭載したドローンの数でスケーリングしているように見えます。]"
+
+#: src-en/data/events_ships.xml.append:336
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「kai」とラベル付けされた奇妙に見えるドローンブースターのように見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:358
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/text"
+msgstr "ドローンブースター「カイ」を内部船システムに取り付けます。"
+
+#: src-en/data/events_ships.xml.append:360
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:362
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/choice/event/text"
+msgstr "このアップグレードにより、ドローンはクールダウン能力を2倍速く充電できます。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:364
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_COOLDOWN\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:384
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_COOLDOWN\"]/text"
+msgstr "あなたは貴重なリソースのためにドローンブースター「カイ」をスクラップします。"
+
+#: src-en/data/events_ships.xml.append:399
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「kai」とラベル付けされた奇妙に見えるドローンブースターのように見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:437
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/text"
+msgstr "トンネルの外からは、フリー・マンティスデザインの大規模な巡洋艦船があります！奇妙な旗が付いた鮮やかに塗られているようです。"
+
+#: src-en/data/events_ships.xml.append:440
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:442
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎されています。「私は良いチャップを言います、私たちは彼女の王室の殿下のためにこの宇宙を主張するためにここにいます。ブリタニアのために！"
+
+#: src-en/data/events_ships.xml.append:444
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/text"
+msgstr "それは私が聞いたことがあるセクターではありません。"
+
+#: src-en/data/events_ships.xml.append:446
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「あなたは彼女のje下の評判を侮辱しますか？あなたは私たち全員、最後のフレデリックのすべてを侮辱します。"
+
+#: src-en/data/events_ships.xml.append:448
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:450
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:454
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:469
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、軍隊全体に餌を与えるのに十分な茶の大規模な隠し場所を見つけます。"
+
+#: src-en/data/events_ships.xml.append:481
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにアールグレイティーを持っています。"
+
+#: src-en/data/events_ships.xml.append:488
+msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/text"
+msgstr "船のカフェテリアにアールグレーティーを追加します。"
+
+#: src-en/data/events_ships.xml.append:490
+msgid "data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:492
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/event/text"
+msgstr ""
+"彼女の王室の殿下でさえおいしいお茶を楽しむ。すべての同盟マンティス +20％の修理速度と+15 Max "
+"Healthを提供します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:494
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_TEA_EARL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:504
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにアールグレイティーを持っています。"
+
+#: src-en/data/events_ships.xml.append:508
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[@req=\"scrapped_freemantis\"]/text"
+msgstr "あなたはすでにアールグレイティーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:512
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED\"]/choice[5]/text"
+msgstr "アールグレーティーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:514
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_TEA_EARL\"]/text"
+msgstr "貴重なリソースのためにアールグレイティーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:528
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、軍隊全体に餌を与えるのに十分な茶の大規模な隠し場所を見つけます。"
+
+#: src-en/data/events_ships.xml.append:540
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにアールグレイティーを持っています。"
+
+#: src-en/data/events_ships.xml.append:549
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにアールグレイティーを持っています。"
+
+#: src-en/data/events_ships.xml.append:553
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[@req=\"scrapped_freemantis\"]/text"
+msgstr "あなたはすでにアールグレイティーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:557
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FREE1_DESTROYED2\"]/choice[5]/text"
+msgstr "アールグレーティーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:568
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/text"
+msgstr ""
+"トンネルから出てきたところには、Lost Sun "
+"Designの大規模な巡洋艦があります！船は装甲されており、巨大な古代の盾で覆われているようです。それはあなたが今まで見た中で最も厄介な兵器庫の1つを振り回します。何かが...しかし、それについてはそうです。"
+
+#: src-en/data/events_ships.xml.append:571
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:573
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"失われた太陽のキャプテンはうなり声を上げます。「うーん。私たちはついにあなたを見つけました。息子。私たちはこの瞬間に無数の現実を旅しました。空間と時間の布は、この巨大なギャンブルを服用することを私たちの船に犠牲にしているように見えます。しかし、私たちはバラバラになる前に90秒があります。\n"
+"強力なジャミング信号が船舶に衝突し、すべての戦闘増強と戦闘チェックが無効になります！一部のシステムも破損しているように見えます。"
+
+#: src-en/data/events_ships.xml.append:579
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:587
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_SUICIDE\"]/choice/event/choice/text"
+msgstr "私は今何をしましたか？"
+
+#: src-en/data/events_ships.xml.append:596
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、本質的に技術的であると思われる奇妙にゆがんだアパタスを見つけます。"
+
+#: src-en/data/events_ships.xml.append:608
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでに現実のリロダーを持っています。"
+
+#: src-en/data/events_ships.xml.append:615
+msgid "data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/text"
+msgstr "船の内部システムにリアリティリロダーを追加します。"
+
+#: src-en/data/events_ships.xml.append:617
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:619
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/choice/event/text"
+msgstr "武器のクールダウンをブーストし、シールド充電率を15％増加させます。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:621
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_REALITY_RELOADER\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:632
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでに現実のリロダーを持っています。"
+
+#: src-en/data/events_ships.xml.append:636
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[@req=\"scrapped_lostsun\"]/text"
+msgstr "あなたはすでに現実のリロダーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:640
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED\"]/choice[5]/text"
+msgstr "現実のリロダーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:642
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_REALITY_RELOADER\"]/text"
+msgstr "貴重なリソースのために現実のリロダーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:656
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、本質的に技術的であると思われる奇妙にゆがんだアパタスを見つけます。"
+
+#: src-en/data/events_ships.xml.append:667
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでに現実のリロダーを持っています。"
+
+#: src-en/data/events_ships.xml.append:676
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでに現実のリロダーを持っています。"
+
+#: src-en/data/events_ships.xml.append:680
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[@req=\"scrapped_lostsun\"]/text"
+msgstr "あなたはすでに現実のリロダーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:684
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_DESTROYED2\"]/choice[5]/text"
+msgstr "現実のリロダーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:690
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/text"
+msgstr ""
+"戦いの15秒後、あなたは敵の船の中から大規模な爆発が噴出するのを観察します。世界で何が起こったのですか？船のスラスタの膨大な部分も崩壊したようです。"
+
+#: src-en/data/events_ships.xml.append:694
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:698
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE1\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:708
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/text"
+msgstr ""
+"敵の船内から別の大規模な爆発が噴出します。敵の船のドローンシステムはバラバラになり、船の貨物ホールドから無数のドローンパートが散らばるのを観察します。"
+
+#: src-en/data/events_ships.xml.append:712
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:716
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE2\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:726
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/text"
+msgstr "敵の船内から別の大規模な爆発が噴出します。敵の船のシールドシステムは爆発で引き裂かれており、かろうじてオンラインにとどまることができます。"
+
+#: src-en/data/events_ships.xml.append:730
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:734
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE3\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:744
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/text"
+msgstr "敵の船内から別の大規模な爆発が噴出します。敵の武器は大ヒットし、かろうじてオンラインにとどまります。"
+
+#: src-en/data/events_ships.xml.append:748
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:752
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE4\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:762
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/text"
+msgstr "敵の船内から別の大規模な爆発が噴出します。敵の武器システムは別の爆発をとることができず、オフラインでノックされました！"
+
+#: src-en/data/events_ships.xml.append:766
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:770
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE5\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵の船は、現実の構造によって引き裂かれています。"
+
+#: src-en/data/events_ships.xml.append:780
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/text"
+msgstr "船全体が内部から裂けられているように見えます！幸いなことに、その貨物ホールドは、完全に爆発する前にあなたの道を放棄されます。"
+
+#: src-en/data/events_ships.xml.append:784
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LOSTSUN1_CRUMBLE6\"]/choice/text"
+msgstr "それは...奇妙でした。"
+
+#: src-en/data/events_ships.xml.append:799
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/text"
+msgstr "トンネルの外から、マンティスデザインの大規模な巡洋艦船があります！船体を走る巨大な傷跡があるようです。"
+
+#: src-en/data/events_ships.xml.append:803
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:805
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"船はあなたを歓迎するのに異常に長い時間がかかります。「私たちはあなたを殺します、愚かな醜い非マンティスの愚か者！」彼らは友好的な仲間のようです。"
+
+#: src-en/data/events_ships.xml.append:807
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/text"
+msgstr "私たちは本当に戦わなければなりませんか？なぜ？"
+
+#: src-en/data/events_ships.xml.append:809
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「私たちは退屈しました。ほこりっぽいテレポーターがどのように機能するかを理解するとすぐに、あなたは死んでいて、ビッグデッド！」"
+
+#: src-en/data/events_ships.xml.append:811
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:813
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "彼らはテレポーターに力を与えるのに苦労しているようです。速く振る舞う！戦闘チェックの時間はありません。"
+
+#: src-en/data/events_ships.xml.append:815
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:817
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:823
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵は、1分後にテレポーターに機能を回復します。"
+
+#: src-en/data/events_ships.xml.append:828
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:843
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、異世界の輝きで奇妙なフェロモンの袋を見つけます。"
+
+#: src-en/data/events_ships.xml.append:858
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[1]/text"
+msgstr "すでにフェロモンアクセラレータを持っています。"
+
+#: src-en/data/events_ships.xml.append:865
+msgid "data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/text"
+msgstr "フェロモンアクセラレータを船の内部システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:867
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:869
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/choice/event/text"
+msgstr ""
+"マンティス能力のクールダウンレートを20％低下させます。Mantisの乗組員によるすべての損傷を8％減らします。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:871
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MANTIS_RELOADER\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:883
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[3]/text"
+msgstr "すでにフェロモンアクセラレータを持っています。"
+
+#: src-en/data/events_ships.xml.append:887
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[@req=\"scrapped_mantis\"]/text"
+msgstr "あなたはすでにフェロモン加速器を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:891
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED\"]/choice[5]/text"
+msgstr "フェロモンアクセラレータを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:893
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MANTIS_RELOADER\"]/text"
+msgstr "貴重なリソースのためにフェロモンアクセラレータを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:907
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、異世界の輝きで奇妙なフェロモンの袋を見つけます。"
+
+#: src-en/data/events_ships.xml.append:922
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[1]/text"
+msgstr "すでにフェロモンアクセラレータを持っています。"
+
+#: src-en/data/events_ships.xml.append:931
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[3]/text"
+msgstr "すでにフェロモンアクセラレータを持っています。"
+
+#: src-en/data/events_ships.xml.append:935
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[@req=\"scrapped_mantis\"]/text"
+msgstr "あなたはすでにフェロモン加速器を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:939
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MANTIS1_DESTROYED2\"]/choice[5]/text"
+msgstr "フェロモンアクセラレータを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:951
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外から、僧kのデザインの大規模な巡洋艦船があります！彼らの武器のほとんどはイオンであり、スタン関連であるように見えますが、それは非常によく武装しているのはゾルタンの修道士の船の特徴ではありません！"
+
+#: src-en/data/events_ships.xml.append:954
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:956
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「あなたはリラックスして瞑想することを学ぶ必要があります。幸いなことに、あなたが従わないなら、私たちはあなたを作るための機器だけを持っています。」"
+
+#: src-en/data/events_ships.xml.append:960
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_SUICIDE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:969
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、赤色のエーテルシールドモジュールを見つけます..."
+
+#: src-en/data/events_ships.xml.append:980
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを持っています。"
+
+#: src-en/data/events_ships.xml.append:987
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/text"
+msgstr "エーテルアセンションシールドを船の内部シールドシステムに追加します。"
+
+#: src-en/data/events_ships.xml.append:989
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:991
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/event/text"
+msgstr "エフェクト：他のエネルギーシールドと積み重なるボーナス6エネルギーシールドポイントを提供します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:993
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1004
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを持っています。"
+
+#: src-en/data/events_ships.xml.append:1008
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[@req=\"scrapped_monk\"]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1012
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED\"]/choice[5]/text"
+msgstr "エーテルアセンションシールドを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1014
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_FM_UPG_AETHER_SHIELDS\"]/text"
+msgstr "貴重なリソースのためにエーテルアセンションシールドを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1028
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、赤色のエーテルシールドモジュールを見つけます..."
+
+#: src-en/data/events_ships.xml.append:1039
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを持っています。"
+
+#: src-en/data/events_ships.xml.append:1048
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを持っています。"
+
+#: src-en/data/events_ships.xml.append:1052
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[@req=\"scrapped_monk\"]/text"
+msgstr "あなたはすでにエーテルアセンションシールドを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1056
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_MONK1_DESTROYED2\"]/choice[5]/text"
+msgstr "エーテルアセンションシールドを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1068
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/text"
+msgstr "トンネルの外から、ロックデザインの大規模な巡洋艦船があります！2回目の検査で、船全体が金で作られていることが明らかになります！"
+
+#: src-en/data/events_ships.xml.append:1071
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1073
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎され、しぶしぶ受け入れます。「5分、5分だけがあなたのお尻を蹴るのに必要です。」奇妙なアクセントを持つロックマンは、厄介な口調であなたに言います。"
+
+#: src-en/data/events_ships.xml.append:1077
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/text"
+msgstr "3分間、チャンプ。"
+
+#: src-en/data/events_ships.xml.append:1079
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「良い、それは正しい答えだった...今死ぬ準備をしている。」"
+
+#: src-en/data/events_ships.xml.append:1081
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1083
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は4つの砲兵を活性化します。充電が遅いように見えますが、チェーン効果があります。迅速に！"
+
+#: src-en/data/events_ships.xml.append:1087
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1102
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、異世界のオーラで神秘的な小さな像を回収します。"
+
+#: src-en/data/events_ships.xml.append:1113
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を持っています。"
+
+#: src-en/data/events_ships.xml.append:1120
+msgid "data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/text"
+msgstr "ロックマンの自由の遺物を船の内部システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:1122
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1124
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/choice/event/text"
+msgstr "この小さな像はあなたのロックマンの乗組員を元気づけ、1.8倍の動き速度を獲得します！[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1126
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FREEDOM_ROCK\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1137
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を持っています。"
+
+#: src-en/data/events_ships.xml.append:1141
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[@req=\"scrapped_rock\"]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1145
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED\"]/choice[5]/text"
+msgstr "自由のロックマンの遺物を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1147
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FREEDOM_ROCK\"]/text"
+msgstr "あなたは貴重なリソースのためにロックマンの自由の遺物を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1161
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、異世界のオーラで神秘的な小さな彫像を取得します"
+
+#: src-en/data/events_ships.xml.append:1172
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を持っています。"
+
+#: src-en/data/events_ships.xml.append:1181
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を持っています。"
+
+#: src-en/data/events_ships.xml.append:1185
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[@req=\"scrapped_rock\"]/text"
+msgstr "あなたはすでにロックマンの自由の遺物を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1189
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_R1_SHIP_DESTROYED2\"]/choice[5]/text"
+msgstr "自由のロックマンの遺物を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1201
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/text"
+msgstr ""
+"トンネルから出ると、分離主義者のデザインの大規模な巡洋艦船があります！船は2つの半分に分割されているように見え、ある種の古い地球の象徴性に似ています..."
+
+#: src-en/data/events_ships.xml.append:1204
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1206
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「完全に陰にも、完全にヤンもそうではありません。物質宇宙のすべてのものには反対の力の種が含まれています...したがって、陰はヤンになり、ヤンは陰になりますが、陰と陽の両方が完全になるために必要です。"
+
+#: src-en/data/events_ships.xml.append:1213
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "敵はゆっくりと2つのオーラの間をひっくり返しています。"
+
+#: src-en/data/events_ships.xml.append:1218
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/text"
+msgstr "...何とおっしゃいましたか？"
+
+#: src-en/data/events_ships.xml.append:1220
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"「今、私は職人ではないことを知っています...しかし、偉大さは創造の行為にあり、必ずしも完成品にあるわけではありません。創造は私たちの消費の陽と私たち全員が歩きたい美しさへの戸口です。"
+
+#: src-en/data/events_ships.xml.append:1222
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr "それはすぐにエスカレートしました。"
+
+#: src-en/data/events_ships.xml.append:1233
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、船から小さくて神秘的なお守りを取り戻します。異世界のオーラがあります。"
+
+#: src-en/data/events_ships.xml.append:1244
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにマガタマを持っています。"
+
+#: src-en/data/events_ships.xml.append:1251
+msgid "data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/text"
+msgstr "マガタマを船の武器型システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:1253
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1255
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/event/text"
+msgstr "この小さな魅力は、すべての乗組員に40％のヒール速度と5％のダメージレジストを提供します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1257
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_AUG_MAGATAMA\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1268
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにマガタマを持っています。"
+
+#: src-en/data/events_ships.xml.append:1272
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[@req=\"scrapped_separatist\"]/text"
+msgstr "あなたはすでにマガタマを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1276
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED\"]/choice[5]/text"
+msgstr "マガタマを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1278
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_AUG_MAGATAMA\"]/text"
+msgstr "あなたは貴重なリソースのためにマガタマを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1292
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、船から小さくて神秘的なお守りを取り戻します。異世界のオーラがあります。"
+
+#: src-en/data/events_ships.xml.append:1303
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにマガタマを持っています。"
+
+#: src-en/data/events_ships.xml.append:1312
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにマガタマを持っています。"
+
+#: src-en/data/events_ships.xml.append:1316
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[@req=\"scrapped_separatist\"]/text"
+msgstr "あなたはすでにマガタマを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1320
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_DESTROYED2\"]/choice[5]/text"
+msgstr "マガタマを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1326
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/text"
+msgstr "あなたは、容器から放出される奇妙な輝きが白から黒に変化することに気づきます。船のシステム仕様は変化しているようです！"
+
+#: src-en/data/events_ships.xml.append:1331
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:1335
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YING\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "現在のオーラ：黒。敵はゆっくりと2つのオーラの間をひっくり返しています。"
+
+#: src-en/data/events_ships.xml.append:1345
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/text"
+msgstr "あなたは、容器から放出されている奇妙な輝きが黒から白に変化することに気づきます。船のシステム仕様は変化しているようです！"
+
+#: src-en/data/events_ships.xml.append:1350
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/choice/text"
+msgstr "戦いを続ける..."
+
+#: src-en/data/events_ships.xml.append:1354
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_YANG\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "現在のオーラ：白。敵はゆっくりと2つのオーラの間をひっくり返しています。"
+
+#: src-en/data/events_ships.xml.append:1370
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外から、スラッグデザインの大規模な巡洋艦船があります！巡洋艦の明るい船体はあなたの注意を引きますが、あなたをまっすぐに指しているアーセナルも非常に気を散らしています。"
+
+#: src-en/data/events_ships.xml.append:1373
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1375
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"VIDスクリーンには、渦巻く灰色の煙以外は何も表示されませんが、非常にフォーマルな騎士の鎧のスラッグがゆっくりと見えます。葉巻を持っているのは、彼と同じくらい大きいです！\n"
+"「ああ、私のSSSSSALTEDの火を養うためにより多くの燃料！若い人に来て、あなたは私がこの宇宙を古代人のすべてのトレーレスのこの宇宙を一掃するときに答えられる燃えるような質問を見るでしょう！」"
+
+#: src-en/data/events_ships.xml.append:1379
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/text"
+msgstr "しかし、なぜあなたは古代の武器を使用しているのですか？"
+
+#: src-en/data/events_ships.xml.append:1381
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"「なに？古代の武器？これらは私のライターズです。スラッグは、継続する前に数分続くドラッグを取ります。\n"
+"\n"
+"「ああ、あなたがそのことで私をssssspopにできるようになるだろうというわけではありません。」"
+
+#: src-en/data/events_ships.xml.append:1388
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1399
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/text"
+msgstr "奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、タバコのパケットを見つけます。"
+
+#: src-en/data/events_ships.xml.append:1410
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにマルボロ・クエーサーを持っています。"
+
+#: src-en/data/events_ships.xml.append:1417
+msgid "data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/text"
+msgstr "Malboro Quasarを船の換気システムに追加します（なぜ??）。"
+
+#: src-en/data/events_ships.xml.append:1419
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1421
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/choice/event/text"
+msgstr ""
+"これらの過剰な凝ったタバコは、何らかの形であなたの活力を高めますが、恐ろしい肺の問題を与えます。健康のようです！...あなたが愚か者なら。すべてのスラッグの2倍の健康状態ですが、3倍の窒息ダメージが取られました。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1423
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_MALBORO_RED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1434
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにマルボロ・クエーサーを持っています。"
+
+#: src-en/data/events_ships.xml.append:1438
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[@req=\"scrapped_slug\"]/text"
+msgstr "あなたはすでにマルボロのクエーサーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1442
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED\"]/choice[5]/text"
+msgstr "マルボロクエーサーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1444
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_MALBORO_RED\"]/text"
+msgstr "あなたは貴重なリソースのためにマルボロ・クエーサーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1458
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、タバコのパケットを見つけます。"
+
+#: src-en/data/events_ships.xml.append:1469
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにマルボロ・クエーサーを持っています。"
+
+#: src-en/data/events_ships.xml.append:1478
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにマルボロ・クエーサーを持っています。"
+
+#: src-en/data/events_ships.xml.append:1482
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[@req=\"scrapped_slug\"]/text"
+msgstr "あなたはすでにマルボロのクエーサーを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1486
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_DESTROYED2\"]/choice[5]/text"
+msgstr "マルボロクエーサーを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1497
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/text"
+msgstr "トンネルの外から、ステルスデザインの大規模な巡洋艦船があります！何かがあるように見えます...そのカモフラグに非常に間違っています。紫？"
+
+#: src-en/data/events_ships.xml.append:1500
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1502
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎されていますが、あなたがそれに答えるとすぐに、キャプテンは暴言して絶賛します。「うーん、間違ったアドオンを再びインストールしました。CEをプレイしたかっただけで、FTL：ソースをインストールするのを忘れていました。」"
+
+#: src-en/data/events_ships.xml.append:1504
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/text"
+msgstr "あなたは何について話しているのですか？"
+
+#: src-en/data/events_ships.xml.append:1506
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "「ああ、あなたもバグでなければなりません。私はあなたを削除する必要があります、仲間。」"
+
+#: src-en/data/events_ships.xml.append:1508
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1510
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器を活性化します。彼らは奇妙に見えますが、一目でそれほど危険ではありません。"
+
+#: src-en/data/events_ships.xml.append:1514
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1529
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。あなたもloca- [エンジンエラー！]\n"
+"\n"
+"1つ以上のVMTファイルをロードできませんでした！\n"
+"\n"
+"不足材料：材料/ftl：ソース/武器/lowfield_textureg.vmt欠落材料：Materialsweapon/texturemap.vmt欠損素材：材料/草/Realistic3b.vmt"
+
+#: src-en/data/events_ships.xml.append:1545
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1552
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「Gozerのプロパティ」とラベル付けされた小さなミニ冷蔵庫のように見えるものを見つけます。あなたもloca- [エンジンエラー！]\n"
+"\n"
+"1つ以上のVMTファイルをロードできませんでした！\n"
+"\n"
+"不足材料：材料/ftl：ソース/武器/lowfield_textureg.vmt欠落材料：Materialsweapon/texturemap.vmt欠損素材：材料/草/Realistic3b.vmt"
+
+#: src-en/data/events_ships.xml.append:1568
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_STEALTH1_DESTROYED2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1579
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/text"
+msgstr ""
+"トンネルから外れて、ゾルタンデザインの大規模な巡洋艦船があります！船はエネルギーで輝いており、ゾルタンの乗組員がリアクターを十分に供給していると言っても安全です。"
+
+#: src-en/data/events_ships.xml.append:1582
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1584
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「フェデレーション船、これはCFB-65です。あなたの頭は現在いくつかの次元政府によって求められています。しかし、これが私たちがここに来た理由ではありません。私たちはあなたをプロトコル-"
+"UX534-Wに違反していることを発見しました。"
+
+#: src-en/data/events_ships.xml.append:1587
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/text"
+msgstr "待って...なに？確かに私はあなたの報酬を受け取ります。"
+
+#: src-en/data/events_ships.xml.append:1592
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"「ありがとう、フェデレーション船。私たちもこれを没収します...もちろん銀河の安全のために。」彼らはあなたのシステムにハッキングされ、C.U.R.Aを削除したようです。ドライブハッカー！"
+
+#: src-en/data/events_ships.xml.append:1597
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/text"
+msgstr "待って、それは取引の一部ではなかった！"
+
+#: src-en/data/events_ships.xml.append:1599
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[1]/event/choice/event/text"
+msgstr "「別れ、あなたは貪欲に馬鹿げている。」ゾルタンのキャプテンは応答し、すぐに飛び降ります。"
+
+#: src-en/data/events_ships.xml.append:1607
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/text"
+msgstr "私はあなたが提供しているものは何も欲しいです。"
+
+#: src-en/data/events_ships.xml.append:1610
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/event/text"
+msgstr "「フェデレーション船、あなたの行動は私たちの法律に違反しています。尊厳をもって迅速に死ぬ準備をしてください。"
+
+#: src-en/data/events_ships.xml.append:1614
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1625
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、異世界のエネルギーを放射するように見える奇妙なデバイスを見つけます。"
+
+#: src-en/data/events_ships.xml.append:1636
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[1]/text"
+msgstr "すでに制限リリースがあります。"
+
+#: src-en/data/events_ships.xml.append:1642
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
+msgstr "船の武器庫に制限リリースを追加します。"
+
+#: src-en/data/events_ships.xml.append:1644
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1647
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/choice/event/text"
+msgstr ""
+"アクティブな能力：Zoltansは40％の損傷を減らし、1.3倍のダメージを増やします。これがアクティブである間、彼らは電力を供給しません。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1649
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_LAB_ZOLTAN_LIMIT_RELEASE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1660
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[3]/text"
+msgstr "すでに制限リリースがあります。"
+
+#: src-en/data/events_ships.xml.append:1664
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[@req=\"scrapped_zoltan\"]/text"
+msgstr "あなたはすでに制限リリースを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1668
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED\"]/choice[5]/text"
+msgstr "制限リリースを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1670
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_LAB_ZOLTAN_LIMIT_RELEASE\"]/text"
+msgstr "貴重なリソースの制限リリースを廃止します。"
+
+#: src-en/data/events_ships.xml.append:1684
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、異世界の輝きで奇妙なフェロモンの袋を見つけます。"
+
+#: src-en/data/events_ships.xml.append:1695
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[1]/text"
+msgstr "すでに制限リリースがあります。"
+
+#: src-en/data/events_ships.xml.append:1704
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[3]/text"
+msgstr "すでに制限リリースがあります。"
+
+#: src-en/data/events_ships.xml.append:1708
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[@req=\"scrapped_zoltan\"]/text"
+msgstr "あなたはすでに制限リリースを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1712
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_DESTROYED2\"]/choice[5]/text"
+msgstr "制限リリースを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1723
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/text"
+msgstr "トンネルの外から、シェルデザインの大規模な巡洋艦船があります！明るい光が船の亀裂から輝き、非常に奇妙な色で脈動します。"
+
+#: src-en/data/events_ships.xml.append:1726
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1728
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「残念ながら、私はこの憎むべき生物時代に感染して以来、私は私の宇宙の遺跡で自分自身を隔離するために最善を尽くしました。なぜあなたが私を引っ張ったのかは私を超えています。"
+
+#: src-en/data/events_ships.xml.append:1730
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/text"
+msgstr "とてもよく、私はあなたの要求を尊重します。"
+
+#: src-en/data/events_ships.xml.append:1732
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"船は武器を活性化します。彼らはガス兵器のようです。できる限り乗組員を守ってください！さらに、敵の乗組員は非常に耐久性があるように見えることがわかります。乗組員の戦闘は非常に愚かかもしれません。"
+
+#: src-en/data/events_ships.xml.append:1736
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1747
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、ネオン紫色の液体で満たされた無数の注射器を備えたアタッチェケースを見つけますが、それらも適切に密閉されていないようです。異世界のエネルギーを放射するようです。シェルがあなたにそれを破壊するように言ったことを思い出します。"
+
+#: src-en/data/events_ships.xml.append:1758
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでに燃焼生物時代を持っています。"
+
+#: src-en/data/events_ships.xml.append:1762
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/text"
+msgstr ""
+"燃焼生物時代を内面化する...\n"
+"[このBioweaponはすべての乗組員に感染し、それらすべてにアクティブな能力が燃焼します。シェルレースでは、その既存の燃焼能力がアップグレードされ、通常は健康の費用がかかり、より強力になります。]"
+
+#: src-en/data/events_ships.xml.append:1767
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/text"
+msgstr "燃焼生物時代を回収して、それを破壊することを拒否することで、乗組員全体に感染したことに気付かずにそれを持っていきます。"
+
+#: src-en/data/events_ships.xml.append:1769
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1771
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/choice/event/text"
+msgstr ""
+"このBioweaponは、すべての乗組員に感染し、それらのすべてがアクティブな能力を燃焼させ、すでにアクティブな乗組員でさえも与えます。感染したら、宿主の被験者はこれを取り除くことができません。シェルレースに関しては、その既存の燃焼能力はアップグレードされ、通常は健康の費用がかかり、より強力になります。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1773
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[2]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1783
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでに燃焼生物時代を持っています。"
+
+#: src-en/data/events_ships.xml.append:1787
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[@req=\"scrapped_shell\"]/text"
+msgstr "あなたはすでに燃焼生物時代を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1791
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/text"
+msgstr "燃焼生物時代を破壊します。"
+
+#: src-en/data/events_ships.xml.append:1793
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED\"]/choice[5]/event/text"
+msgstr "燃焼生物時代を（できる限り安全に）破壊し、船から放棄してから、敵の船の残骸を貴重な資源を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1846
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/text"
+msgstr "これは貧しい殻の終わりであるように思えますが、彼の船はあなたに恐ろしい見た目のドローンの波を分配します！おそらくそれは報復の行為ですか？"
+
+#: src-en/data/events_ships.xml.append:1849
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1851
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_SHELL1_DESTROYED2\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "彼らはただ来続けます！船そのものを破壊する必要があります！"
+
+#: src-en/data/events_ships.xml.append:1864
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/text"
+msgstr "トンネルの外からは、反乱軍のエンジニアデザインの大規模な巡洋艦船があります！歯に武装していますが、医療容器のように見えます。"
+
+#: src-en/data/events_ships.xml.append:1867
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1869
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「.tnecca diputs siz gnidloh fo derit ma'z i、ylkciuq eid、esaelp！nuf eb dluohs"
+" siz？"
+
+#: src-en/data/events_ships.xml.append:1873
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_SUICIDE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1882
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、ハイテクドローンブースターを見つけます。"
+
+#: src-en/data/events_ships.xml.append:1894
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにドローンブーストMK IIを持っています。"
+
+#: src-en/data/events_ships.xml.append:1901
+msgid "data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/text"
+msgstr "ドローンブーストMK IIを船の内部システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:1903
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1905
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/choice/event/text"
+msgstr ""
+"ドローンは3倍の動きを獲得し、50％の後押しと戦闘/妨害の損傷と修理/消火速度を獲得します。他のブースターと一緒にスタックします。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:1907
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_DRONE_SPEED_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1918
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにドローンブーストMK IIを持っています。"
+
+#: src-en/data/events_ships.xml.append:1922
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[@req=\"scrapped_engineer\"]/text"
+msgstr "あなたはすでにドローンブーストMK IIを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1926
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED\"]/choice[5]/text"
+msgstr "ドローンブーストMK IIを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1928
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_DRONE_SPEED_2\"]/text"
+msgstr "ドローンブーストmk iiforの貴重なリソースを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1942
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、ハイテクドローンブースターを見つけます。"
+
+#: src-en/data/events_ships.xml.append:1955
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにドローンブーストMK IIを持っています。"
+
+#: src-en/data/events_ships.xml.append:1964
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにドローンブーストMK IIを持っています。"
+
+#: src-en/data/events_ships.xml.append:1968
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[@req=\"scrapped_engineer\"]/text"
+msgstr "あなたはすでにドローンブーストMK IIを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:1972
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGINEER1_DESTROYED2\"]/choice[5]/text"
+msgstr "ドローンブーストMK IIを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:1984
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外から、ラニウスデザインの大規模な巡洋艦船があります！船は、そのscar色の船体と鋭いスパイクがあなたに向かって鳴るので、近くの星に照らして輝きます。しかし、これは...違うと感じています。その光は赤く、あなたはほとんど...それを見て空腹になります。あなたはそれにあなたの指を完全に置くことはできません。"
+
+#: src-en/data/events_ships.xml.append:1987
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:1989
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたの通信はすぐに船によってハッキングされます。「Proshutë、Hirugiharra、бекон、Slanina、Cansalada、Cansalada、Slanina、ベーコン、Spek、Peekon、Pekoni、Szalonna、Beikon、Bagun、Bekons、сланび、Bejken、Bejken、Beikon、Beikon、Beikon、Beikon、Beijken、\n"
+"Boczek、Tocino、Cig Moch。」これは何度も何度も繰り返されます...これは洗脳戦術でなければなりません！"
+
+#: src-en/data/events_ships.xml.append:1995
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_SUICIDE\"]/choice/event/choice/text"
+msgstr "反撃！"
+
+#: src-en/data/events_ships.xml.append:2004
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、スクラップメタルで作られた燃えるような鼓動する心を見つけます。それは不自然な量の熱を放ちます。"
+
+#: src-en/data/events_ships.xml.append:2015
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにスクラップ金属の火事を持っています。"
+
+#: src-en/data/events_ships.xml.append:2022
+msgid "data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/text"
+msgstr "スクラップメタルファイアハートを船の武器型システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:2024
+msgid "data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2026
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/choice/event/text"
+msgstr ""
+"「火を燃やして、暑さを感じなさい！」すべての通常のラニウスの乗組員は、3 "
+"hp/sの速度で火災から癒され、酸素排水が遅く（70％減少）、戦闘損傷が20％少なくなります。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:2028
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_FIRE_HEART\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2039
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにスクラップ金属の火事を持っています。"
+
+#: src-en/data/events_ships.xml.append:2043
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[@req=\"scrapped_lanius\"]/text"
+msgstr "あなたはすでにスクラップ金属の火事を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2047
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED\"]/choice[5]/text"
+msgstr "スクラップメタルファイアハートを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2049
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_FIRE_HEART\"]/text"
+msgstr "あなたは貴重なリソースのためにスクラップ金属ファイアハートをスクラップします。"
+
+#: src-en/data/events_ships.xml.append:2063
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、スクラップメタルで作られた燃えるような鼓動する心を見つけます。それは不自然な量の熱を放ちます。"
+
+#: src-en/data/events_ships.xml.append:2074
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにスクラップ金属の火事を持っています。"
+
+#: src-en/data/events_ships.xml.append:2083
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにスクラップ金属の火事を持っています。"
+
+#: src-en/data/events_ships.xml.append:2087
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[@req=\"scrapped_lanius\"]/text"
+msgstr "あなたはすでにスクラップ金属の火事を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2091
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LANIUS1_DESTROYED2\"]/choice[5]/text"
+msgstr "スクラップメタルファイアハートを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2103
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外からは、大規模な巡洋艦船が登場します。古代のugいケストレルモデルのようです！老朽化した船について何かがあなたを...とても不安にします。"
+
+#: src-en/data/events_ships.xml.append:2106
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2108
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/text"
+msgstr "あなたはすぐに船に歓迎されます。「あなたはゲートキーパーですか？」声の異世界のコーラスが尋ねますが、画面上で多くを作ることはできません。"
+
+#: src-en/data/events_ships.xml.append:2110
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/text"
+msgstr "（Twisted Lostsun）私は真剣にゲームの時間がありません。"
+
+#: src-en/data/events_ships.xml.append:2112
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/text"
+msgstr "「O-OH ...私は鍵と門についてのスピーチを計画していました。"
+
+#: src-en/data/events_ships.xml.append:2114
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice[@req=\"TWISTED_LOSTSUN\"]/text"
+msgstr "ええ、それはちょっとでした。"
+
+#: src-en/data/events_ships.xml.append:2117
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/text"
+msgstr "敵はより落ち込んでいるようです。彼らの武器は完全にオフラインになり、あなたのシステムをジャムする能力はなくなりました。かわいそうな男。"
+
+#: src-en/data/events_ships.xml.append:2122
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice[@req=\"TWISTED_LOSTSUN\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2130
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/text"
+msgstr "はい、私はゲートキーパーです。"
+
+#: src-en/data/events_ships.xml.append:2132
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"「いいね、私は鍵となっている。私たちが一つになる時だ。私たちの最高のスプリッターの力を使って、私たちはあなたの船に乗って、あなたの魂、ゲートキーパーを主張します。」"
+
+#: src-en/data/events_ships.xml.append:2134
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/choice/text"
+msgstr "テレポーターだけを使用しないのはなぜですか？"
+
+#: src-en/data/events_ships.xml.append:2136
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/choice/event/text"
+msgstr ""
+"「....テレポーターとは何ですか？」声のコーラスが反応します。「あなたは私をだましていることを目指していますが、私はあなたのトリックに賢明です。死ぬ時です！」ある種の電磁スライムは、システムから注ぎ出し始め、それらのほとんどを無効にします。過半数は妨害されているようです！"
+
+#: src-en/data/events_ships.xml.append:2147
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[2]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2155
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/text"
+msgstr "すみません？"
+
+#: src-en/data/events_ships.xml.append:2157
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/text"
+msgstr ""
+"私はキーマスターです。私はあなたが無知を装っていると言うことができます。あなたが船内のゲートキーパーを隠しているなら、私は自分自身を見つけます。私たちの最高のスプリッターの力を使用して、私たちはあなたの船に乗って、あなたの魂を主張します。」"
+
+#: src-en/data/events_ships.xml.append:2159
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/choice/text"
+msgstr "テレポーターだけを使用しないのはなぜですか？"
+
+#: src-en/data/events_ships.xml.append:2161
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/choice/event/text"
+msgstr ""
+"「....テレポーターとは何ですか？」声のコーラスが反応します。「あなたは私をだますことを目指していますが、私はあなたのトリックに賢明です。死ぬ時です！」ある種の電磁スライムは、システムから注ぎ出し始め、それらのほとんどを無効にします。過半数は妨害されているようです！"
+
+#: src-en/data/events_ships.xml.append:2172
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SUICIDE\"]/choice/event/choice[3]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2191
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「Gozerのプロパティ」とラベル付けされた小さなミニ冷蔵庫のように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:2202
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を持っています。"
+
+#: src-en/data/events_ships.xml.append:2209
+msgid "data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/text"
+msgstr "Gozerの冷蔵庫を船のカフェテリアに追加します。"
+
+#: src-en/data/events_ships.xml.append:2211
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2213
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/choice/event/text"
+msgstr ""
+"あなたのゴーストクルーはもはや壁を介して段階的に段階的にできませんが、信じられないほど耐久性があります！乗組員のすべての幽霊は、最大70％の健康と30％の移動速度を獲得します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:2215
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOZER_FRIDGE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2226
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を持っています。"
+
+#: src-en/data/events_ships.xml.append:2230
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[@req=\"scrapped_kestrel\"]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2234
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED\"]/choice[5]/text"
+msgstr "スクラップゴーの冷蔵庫。"
+
+#: src-en/data/events_ships.xml.append:2236
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOZER_FRIDGE\"]/text"
+msgstr "あなたは貴重なリソースのためにゴーザーの冷蔵庫をスクラップします。"
+
+#: src-en/data/events_ships.xml.append:2254
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「Gozerのプロパティ」とラベル付けされた小さなミニ冷蔵庫のように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:2265
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を持っています。"
+
+#: src-en/data/events_ships.xml.append:2274
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を持っています。"
+
+#: src-en/data/events_ships.xml.append:2278
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[@req=\"scrapped_kestrel\"]/text"
+msgstr "あなたはすでにゴーの冷蔵庫を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2282
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_KES1_SHIP_DESTROYED2\"]/choice[5]/text"
+msgstr "スクラップゴーの冷蔵庫。"
+
+#: src-en/data/events_ships.xml.append:2330
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/text"
+msgstr ""
+"トンネルの外から、連邦デザインの大規模な巡洋艦船があります！しかし、非常に奇妙な塗装の仕事とデカールから判断すると、連邦がもはやこの船の所有者ではないと仮定するのは安全です。"
+
+#: src-en/data/events_ships.xml.append:2333
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2335
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"「それをすぐそこに保持してください、犯罪的なスカム！私はあなたが他のすべての現実で何をしたかを見ました。私はあなたに迅速な正義を与えるために私と一緒に私と一緒に持ってきました！」"
+
+#: src-en/data/events_ships.xml.append:2339
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_SUICIDE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2348
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、長い忘れられたテクノロジーを注入した爆発的なレプリケーターが見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:2359
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を持っています。"
+
+#: src-en/data/events_ships.xml.append:2366
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/text"
+msgstr "ねじれた弾薬製造業者を船の内部システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:2368
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2370
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/choice/event/text"
+msgstr "効果：弾薬を消費する武器を撃つときにミサイルを使用しない可能性は60％です。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:2372
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_UPG_WEAPONS_REPLICATOR_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2383
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を持っています。"
+
+#: src-en/data/events_ships.xml.append:2387
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[@req=\"scrapped_federation\"]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2391
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED\"]/choice[5]/text"
+msgstr "ねじれた弾薬製作者を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2393
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_UPG_WEAPONS_REPLICATOR_2\"]/text"
+msgstr "あなたは貴重なリソースのためにねじれた弾薬製造業者を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2407
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、長い忘れられたテクノロジーを注入した爆発的なレプリケーターが見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:2418
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を持っています。"
+
+#: src-en/data/events_ships.xml.append:2427
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を持っています。"
+
+#: src-en/data/events_ships.xml.append:2431
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[@req=\"scrapped_federation\"]/text"
+msgstr "あなたはすでにねじれた弾薬製作者を廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2435
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_FED1_DESTROYED2\"]/choice[5]/text"
+msgstr "ねじれた弾薬製作者を廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2446
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/text"
+msgstr ""
+"トンネルから出てから、オーキッドデザインの大規模な巡洋艦船があります！ここの船は、「イチゴ」として知られる地球の果物とは異常な類似性を持っているようですが、青色の色がありますが、それはおそらく偶然です。"
+
+#: src-en/data/events_ships.xml.append:2449
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2451
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"オーキッドの船長はあなたを歓迎し、喉をきれいにします。「私は私の出身地から来たコメディアンであり、あなたは私の冗談を楽しむか、結果に苦しむでしょう。」"
+
+#: src-en/data/events_ships.xml.append:2453
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/text"
+msgstr "さて、私はあなたにチャンスを与えます。"
+
+#: src-en/data/events_ships.xml.append:2455
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"オーキッドは続けます：「ブドウは押しつぶされたとき、ブドウは何と言ったのですか？何もありませんが、それは少しワインを放ちました。」彼はあなたの笑いのために一時停止しますが、それは決して来ません。「農家が踊るのはいつですか？彼がビートを落とすとき。」\n"
+"\n"
+"「なぜアプリコットは夕食に剪定に尋ねたのですか？彼はデートを見つけることができなかったからです。」\n"
+"\n"
+"「私はしゃれのサッカです！」"
+
+#: src-en/data/events_ships.xml.append:2462
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr "静かなまま。"
+
+#: src-en/data/events_ships.xml.append:2464
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"オーキッドは少し鳴り響きます。あなたはまだ笑わない。「私は通りの向こう側に少女と付き合い始めました。正直なところ、芝生の距離の関係はそれほど難しくありません。」\n"
+"\n"
+"「私の葉のブロワーは機能しません。それはただひどいです！」\n"
+"\n"
+"「私の小さな友達にアロエを言ってください！」"
+
+#: src-en/data/events_ships.xml.append:2471
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "もう止めてください、もう。"
+
+#: src-en/data/events_ships.xml.append:2473
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"オーキッドはsc笑します：「私は何をしたか、私は大きなつぼみが好きで、嘘をつくことができず、あなたはあなたの熱意をハーブする必要があります。」彼は答えます。\n"
+"\n"
+"「私が言っているのは、あなたはひどい聴衆です。地獄の友人であなたに会います。おそらくあなたはより良いユーモアのセンスを育てるでしょう！」\n"
+"あなたはまだ笑わなかった。"
+
+#: src-en/data/events_ships.xml.append:2481
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2496
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。隠された脱出ポッドが破壊された容器から解放され、あなたはそれを返して、それを乗せます。4人のオーキッドが出て、彼らは常にキャプテンの冗談を嫌っていて、あなたの乗組員に加わりたいと言っています。彼らはクアドルプレットであり、彼らの両親は彼らがサディスティックな両親だったので、彼らにすべて同じ名前を与えました。"
+
+#: src-en/data/events_ships.xml.append:2507
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2514
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。隠された脱出ポッドが敗北した船から解放されます。4人のオーキッドが出て、彼らは常にキャプテンの冗談を嫌っていて、あなたの乗組員に加わりたいと言っています。彼らはクアドルプレットであり、彼らの両親は彼らがサディスティックな両親だったので、彼らにすべて同じ名前を与えました。"
+
+#: src-en/data/events_ships.xml.append:2525
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ORCHID1_DESTROYED2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2537
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/text"
+msgstr "トンネルの外から、クリスタルデザインの大規模な巡洋艦船があります！彼らは奇妙で危険な外観の火山の武器を持っているように見えます！"
+
+#: src-en/data/events_ships.xml.append:2540
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2542
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/text"
+msgstr "船はあなたをまったく歓迎しません、それは単にすぐに攻撃します。"
+
+#: src-en/data/events_ships.xml.append:2545
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2547
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:2551
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2564
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。まだ機能している容器の遺跡にスイッチがあり、船の船体にユニークな結晶シェルを複製することができます。\n"
+"[注：この増強を内面化することはできません]"
+
+#: src-en/data/events_ships.xml.append:2577
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2584
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。まだ機能している容器の遺跡にスイッチがあり、船の船体にユニークな結晶シェルを複製することができます。\n"
+"[注：この増強を内面化することはできません]"
+
+#: src-en/data/events_ships.xml.append:2597
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CRYSTAL1_SHIP_DESTROYED2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2608
+msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/text"
+msgstr ""
+"トンネルから出てから、ヘファエストスデザインの大規模な巡洋艦船があります！ただし、完全に改造されたようです。広告、おもちゃ、その他で覆われています。...「かわいい」装飾。世界で何が起こっているのですか？"
+
+#: src-en/data/events_ships.xml.append:2611
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2613
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎されています：事前に録音されたメッセージが再生を開始します：\n"
+"「To-to Papa Tucoの子供のカジノとガーデニングエンポリアムを歓迎します。\n"
+"私たちはあなたがあなたの私の食事を楽しんでいます...」"
+
+#: src-en/data/events_ships.xml.append:2618
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2620
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"録音は続き、一見utter音とグリッチが続きます。\n"
+"その後、Ole 'Papa Tucoはあなたのための解決策を手に入れました！肥料ケーキ、種子ボウリング、シータム、およびタイガーリリーアーケードは、パパトゥコのチャイルドカジノとガーデニングエンポリアムで利用できるアトラクションのほんの一部です！」"
+
+#: src-en/data/events_ships.xml.append:2624
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr "あなたは十分に見て、正しいことをしてください。攻撃。"
+
+#: src-en/data/events_ships.xml.append:2626
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"武器をアクティブにするとすぐに、別の録音が再生されます。「いたずらな訪問者は恒久的なタイムアウトになります。子供たちに行きましょう、侵入者のドリルの時間！」"
+
+#: src-en/data/events_ships.xml.append:2630
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2643
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。古いギフトボックスの残りのものを見つけます。内部には黄金の姿があり、異世界のオーラがあります。"
+
+#: src-en/data/events_ships.xml.append:2655
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでに黄金のトコを持っています。"
+
+#: src-en/data/events_ships.xml.append:2662
+msgid "data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/text"
+msgstr "あなたはあなたの船のレクリエーションルームの装飾に金色のトコを追加します。"
+
+#: src-en/data/events_ships.xml.append:2664
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2666
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/choice/event/text"
+msgstr ""
+"この限定版のTUCOの子供のカジノとガーデニングエンポリアムゴールデンフィギュアは、乗組員が暖かくて曖昧に感じさせます。すべての乗組員に30％のアクティブな能力充電速度の上昇を提供します（マンティス、マンティスは置物が嫌いです）。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:2668
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_GOLDEN_TUCO\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2679
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでに黄金のトコを持っています。"
+
+#: src-en/data/events_ships.xml.append:2683
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[@req=\"scrapped_tuco\"]/text"
+msgstr "あなたはすでに黄金のトコを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2687
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED\"]/choice[5]/text"
+msgstr "黄金のトコを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2689
+msgid "data/events_ships.xml.append$//event[@name=\"SCRAP_GOLDEN_TUCO\"]/text"
+msgstr "貴重なリソースのために黄金のトコを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2703
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、異世界の輝きで奇妙なフェロモンの袋を見つけます。"
+
+#: src-en/data/events_ships.xml.append:2714
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでに黄金のトコを持っています。"
+
+#: src-en/data/events_ships.xml.append:2723
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでに黄金のトコを持っています。"
+
+#: src-en/data/events_ships.xml.append:2727
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[@req=\"scrapped_tuco\"]/text"
+msgstr "あなたはすでに黄金のトコを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2731
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_TUCO1_DESTROYED2\"]/choice[5]/text"
+msgstr "黄金のトコを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2745
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/text"
+msgstr "トンネルから外れて、リーチデザインの大規模な巡洋艦船があります！それは非常に...感情的な...色で描かれていますか？"
+
+#: src-en/data/events_ships.xml.append:2749
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2751
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/text"
+msgstr "船はまったく注意を払っていません。突然、FTLドライブが恐ろしく詰まっており、請求を拒否します。何が起こっているのか？"
+
+#: src-en/data/events_ships.xml.append:2753
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/text"
+msgstr "ヒルを呼び起こします。"
+
+#: src-en/data/events_ships.xml.append:2755
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/text"
+msgstr ""
+"あなたはヒルを歓迎します、彼らはあなたを無視します。あなたは彼らをさらに17回歓迎し、最後に非常に悲しいように見えるリーチが電話に答えます。彼は何も言わず、あなたをぼんやりと見つめます。"
+
+#: src-en/data/events_ships.xml.append:2757
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/text"
+msgstr "こんにちは？"
+
+#: src-en/data/events_ships.xml.append:2759
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「...私はとても悲しくて、彼女が私を去った後、私は一人で、あなたは理解していません。」リーチは応答し、不意を突かれます。彼は軽くすすり泣きます。"
+
+#: src-en/data/events_ships.xml.append:2761
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "誰があなたを去ったのですか？"
+
+#: src-en/data/events_ships.xml.append:2763
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "ヒルは鼻を吹き、しばらく考えます。「...ごめんなさい、また誰ですか？」"
+
+#: src-en/data/events_ships.xml.append:2765
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "私は友達です、あなたが望むなら私は助けることができます。"
+
+#: src-en/data/events_ships.xml.append:2767
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「r-rely？o-o-cayなので、何が悪いのか...」リーチが始まります。彼は話し始め、話し、話し始めます。時々かろうじて互いに関係しているように見える問題について。\n"
+"\n"
+"ドローン愛好家と一緒に「プレジャールーム」に閉じ込められた虐待的なファットリーチの父親、彼のお気に入りのリーチシリアルキラージェレミー、もう986thがもう詩を書いていないこと、2週間のガールフレンドが彼を捨てた方法、そして彼がアイドルジェレミーのように人々を殺すのを止めることができない方法について。彼は頭から彼らの叫び声を出すことができません。彼は誰かと戦わなければならない限り、もう動くにはあまりにも悲しいです。"
+
+#: src-en/data/events_ships.xml.append:2772
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr "私は気が変わった、あなたはあまりにもいなくなった。"
+
+#: src-en/data/events_ships.xml.append:2777
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr "「しないでください...あなたが私に出没しているので、私は私の夢の中であなたの顔を見たくありません。去ってください」。"
+
+#: src-en/data/events_ships.xml.append:2779
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "私はしたいのですが、あなたは私のFTLを妨害しています。"
+
+#: src-en/data/events_ships.xml.append:2788
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "私は急いでいます、私のftlをjamしてください。"
+
+#: src-en/data/events_ships.xml.append:2790
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"「...私たちは私たちを理解していないことを知っていました...しかし、私はそれを解雇する方法を知りません。あなたは私たちを破壊しなければなりません。ごめんなさい..."
+
+#: src-en/data/events_ships.xml.append:2795
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_SUICIDE\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr "待って、何？"
+
+#: src-en/data/events_ships.xml.append:2812
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「J e "
+"x」と書かれた小さな送信機のように見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:2824
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[1]/text"
+msgstr "あなたはすでにうつ病エミッターを持っています。"
+
+#: src-en/data/events_ships.xml.append:2831
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/text"
+msgstr "うつ病エミッタを船の内部システムに追加します。"
+
+#: src-en/data/events_ships.xml.append:2833
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2835
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/choice/event/text"
+msgstr "すべての敵の動きと修復速度を20％遅らせるうつ病のオーラを放出します。[増強が内面化されました！]"
+
+#: src-en/data/events_ships.xml.append:2837
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"GET_DEPRESSION_EMITTER\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2848
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[3]/text"
+msgstr "あなたはすでにうつ病エミッターを持っています。"
+
+#: src-en/data/events_ships.xml.append:2852
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[@req=\"scrapped_leech\"]/text"
+msgstr "あなたはすでにうつ病のエミッターを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2856
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED\"]/choice[5]/text"
+msgstr "うつ病のエミッターを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2858
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"SCRAP_DEPRESSION_EMITTER\"]/text"
+msgstr "貴重なリソースのためにうつ病エミッターを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2872
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「J e "
+"x」と書かれた小さな送信機のように見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:2883
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[1]/text"
+msgstr "あなたはすでにうつ病エミッターを持っています。"
+
+#: src-en/data/events_ships.xml.append:2892
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[3]/text"
+msgstr "あなたはすでにうつ病エミッターを持っています。"
+
+#: src-en/data/events_ships.xml.append:2896
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[@req=\"scrapped_leech\"]/text"
+msgstr "あなたはすでにうつ病のエミッターを廃棄しました。"
+
+#: src-en/data/events_ships.xml.append:2900
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_LEECH1_DESTROYED2\"]/choice[5]/text"
+msgstr "うつ病のエミッターを廃棄します。"
+
+#: src-en/data/events_ships.xml.append:2906
+msgid "data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/text"
+msgstr ""
+"あなたはあなたの最後の足にいるようです。あなたは長く生き残ることはありません、リーチは最後にもう一度あなたを呼びます。「私はそれをすることができません...行ってください。私の夢の中であなたの叫び声を聞きたくありません。」"
+
+#: src-en/data/events_ships.xml.append:2909
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2911
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[1]/event/text"
+msgstr "リーチは、彼のアーティファクトがあなたのFTLの詰まりを止める方法を見つけたと説明し、彼はあなたを自由に行かせます。"
+
+#: src-en/data/events_ships.xml.append:2916
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2918
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_LEECH_SPARES\"]/choice[2]/event/text"
+msgstr "\"...大丈夫。\"彼らはため息をついて応答します。"
+
+#: src-en/data/events_ships.xml.append:2931
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/text"
+msgstr "トンネルの外からは、大規模な巡洋艦船があり、密輸業者の一族の船のようです！"
+
+#: src-en/data/events_ships.xml.append:2934
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2936
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎され、受け入れます。「私たちはマルチスサルオルガンディーラーズです。Pealesssseはすぐにあなたの臓器を寄付します。それは良い候補です。"
+
+#: src-en/data/events_ships.xml.append:2938
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
+msgstr "どうですか....いいえ？"
+
+#: src-en/data/events_ships.xml.append:2940
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
+msgstr "「今すぐ寄付してください。あなたはssscumです。」"
+
+#: src-en/data/events_ships.xml.append:2942
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2944
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:2948
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:2964
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「アンブロシア」とラベル付けされた現代科学を超えた化学的複製ラボのように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:3001
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_CLAN1_SHIP_DESTROYED2_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「アンブロシア」とラベル付けされた現代科学を超えた化学的複製ラボのように見えるものを見つけます。それは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:3041
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/text"
+msgstr "トンネルの外からは、大規模な巡洋艦船があり、それは夕暮れの船のようです！"
+
+#: src-en/data/events_ships.xml.append:3044
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:3046
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/text"
+msgstr ""
+"あなたは船に歓迎され、受け入れます。彼らは驚くほど礼儀正しく、迅速です：「すみません、私たちは1回の戦いでほとんどの戦争犯罪でギネスマルチバースの記録を目指しています。あなたは私たちを許しますか？」"
+
+#: src-en/data/events_ships.xml.append:3048
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
+msgstr "......いいえ？"
+
+#: src-en/data/events_ships.xml.append:3050
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/text"
+msgstr "「私はあなたがこの問題に選択肢がないのではないかと心配しています。良い日、そしてすべての夕暮れ者に栄光を持っています！」"
+
+#: src-en/data/events_ships.xml.append:3052
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:3054
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/text"
+msgstr "船は武器の動力を開始します。戦いの準備をします。"
+
+#: src-en/data/events_ships.xml.append:3058
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE_NO_CORDS\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:3074
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「世界記録」とラベル付けされた奇妙な見た目のベストのセットと思われるものを見つけます。彼らは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:3109
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SHIP_DESTROYED2_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「世界記録」とラベル付けされた奇妙な見た目のベストのセットと思われるものを見つけます。彼らは異世界のオーラを放ちます。"
+
+#: src-en/data/events_ships.xml.append:3148
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/text"
+msgstr ""
+"トンネルの外から、エンギデザインの大規模な巡洋艦船があります！船は、あなたが見たものとは異なり、奇妙なアマルガムであるさまざまなスタイルのエンギ船のさまざまな部分で作られているようです。"
+
+#: src-en/data/events_ships.xml.append:3151
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_ships.xml.append:3153
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/event/text"
+msgstr "「気にしないでください、私の船はキャプテンのナノマシンと絶えず複製します。それは物理的なトラウマに応じて硬化します。」"
+
+#: src-en/data/events_ships.xml.append:3157
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/choice/event/choice/text"
+msgstr "それはどういう意味ですか？[Engiは、船を搭載したドローンの数でスケーリングしているように見えます。]"
+
+#: src-en/data/events_ships.xml.append:3167
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な容器は排除されました！その残骸の中には、多くのスクラップと服用のための物資が残っています。また、「kai」とラベル付けされた奇妙に見えるドローンブースターのように見えるものを見つけます。"
+
+#: src-en/data/events_ships.xml.append:3202
+msgid ""
+"data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_DESTROYED2_NO_CORDS\"]/text"
+msgstr ""
+"奇妙な船が打ち負かされました！現在クリアされている巡洋艦の中には、たくさんのスクラップと物資が残っています。また、「kai」とラベル付けされた奇妙に見えるドローンブースターのように見えるものを見つけます。"

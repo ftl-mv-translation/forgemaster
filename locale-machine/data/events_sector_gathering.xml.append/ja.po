@@ -1,0 +1,50 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_gathering.xml.append:3
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_KERNEL_FOREST\"]/mod-"
+"append:choice/text"
+msgstr ""
+"（dazhbog）あなたは激しい花粉アレルギーを持っており、あなたはこの惑星が空気よりも多くの花粉を持っていることを誓います。それをすべて地面に燃やす時間。"
+
+#: src-en/data/events_sector_gathering.xml.append:5
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_KERNEL_FOREST\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"美しいオーキッドの庭を何度か走った後、あなたはあなたの視線内でできる限りそれをうまく発火させます。その後、死んだオーキッドの遺体と船を略奪するために進みますが、生存者はじっと見つめていて、反撃するには悔やまれすぎます。"
+
+#: src-en/data/events_sector_gathering.xml.append:11
+msgid ""
+"data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_KERNEL_FOREST\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:19
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"FM_ORCHID_MESSEDUP\"]/text"
+msgstr ""
+"[悪名高い]\n"
+"ここでのあなたの行動は、正当であるかどうかにかかわらず、オーキッドだけでなく、フェージマスターやオーキッドにうまくやらないでしょう。このような行動を継続的に実行すると、特定の警備員、オーキッドの軍隊、またはForgemaster自身からの否定的な反応が見られるかもしれません。\n"
+"\n"
+"あなたが犯した行為は非常に凶悪であり、宇宙裂け目のカルマの裂け目が開き、非常に強力で非常に腹を立てているオーキッドの多元恒例の旅行者をリリースしました。"
+
+#: src-en/data/events_sector_gathering.xml.append:25
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"FM_ORCHID_MESSEDUP\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_gathering.xml.append:27
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"FM_ORCHID_MESSEDUP\"]/choice/event/text"
+msgstr "オーキッドは、あなたの手話で多くのs辱と攻撃的なジェスチャーを行い、その後すぐにその武器を動かします。"
+
+#: src-en/data/events_sector_gathering.xml.append:29
+msgid ""
+"data/events_sector_gathering.xml.append$//event[@name=\"FM_ORCHID_MESSEDUP\"]/choice/event/choice/text"
+msgstr ""

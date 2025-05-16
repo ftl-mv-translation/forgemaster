@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_multiverse.xml.append:4
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod:findWithChildLike/mod:selector"
+msgstr "表示するものは何もありません。"
+
+#: src-en/data/events_special_multiverse.xml.append:8
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/text"
+msgstr "メッキの乗組員を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:10
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「弟子...許しの弟子たち。元の生活を捨てて...彼の指導の下で彼らの技術を追求するために...誰が言うことができるのか...これらの忠誠心を揺さぶったことは何ですか？"
+
+#: src-en/data/events_special_multiverse.xml.append:14
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:22
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod:findWithChildLike/mod:selector"
+msgstr "表示するものは何もありません。"
+
+#: src-en/data/events_special_multiverse.xml.append:26
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice/text"
+msgstr "モジュラーハルを提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:28
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice/event/text"
+msgstr ""
+"「鎧 - 防衛のために！防衛！しかし - これはそれよりも多くです！誰かがあなたにそれを隠すためにあなたに巧妙なt-t-t-trickを与えました！"
+
+#: src-en/data/events_special_multiverse.xml.append:32
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
+"append:choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:40
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod:findWithChildLike/mod:selector"
+msgstr "表示するものは何もありません。"
+
+#: src-en/data/events_special_multiverse.xml.append:44
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "通常の鍛造武器を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:46
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "「hmph。鍛造兵器？"
+
+#: src-en/data/events_special_multiverse.xml.append:50
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:56
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "強力な鍛造兵器を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:58
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"「ああ...今これは武器です。最高の秩序のオマージュ。アラステアのスキルは決して感動することに失敗しませんでした。彼はこれをもう一度話すことを好みます。それでも、私はあなたをより大きな祝福で祝福します。"
+
+#: src-en/data/events_special_multiverse.xml.append:62
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:68
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "現在のAncagalon Tech。"
+
+#: src-en/data/events_special_multiverse.xml.append:70
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr ""
+"ウェイクソンはしばらく静かに立ちます。「レネゲイド。この憎しみはどこから来たのか？それは作成されるべきではなかった。私はそれを見たことがなかった。しかし、情報はないだろう。それでも秘密を見つけなかった。それでも、私たちのルールはあなたに報いることを命じない。再び干渉しないでください。"
+
+#: src-en/data/events_special_multiverse.xml.append:74
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_multiverse.xml.append:80
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[4]/text"
+msgstr "末端を提示します。"
+
+#: src-en/data/events_special_multiverse.xml.append:82
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[4]/event/text"
+msgstr ""
+"ウェイクソンはしばらく静かに立ちます。「なぜこのような反逆者は...私はあなたに関係なくねじれの祝福を祝福します。しかし、忍耐を持っています。今のところはそうではありませんが、後で！」"
+
+#: src-en/data/events_special_multiverse.xml.append:86
+msgid ""
+"data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
+"append:choice[4]/event/choice/text"
+msgstr ""

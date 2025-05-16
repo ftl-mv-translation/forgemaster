@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_curator.xml.append:4
+msgid ""
+"data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
+"append:choice[1]/text"
+msgstr "C.U.R.Aからの特別な課題をすでに受け入れています。"
+
+#: src-en/data/events_special_curator.xml.append:8
+msgid ""
+"data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
+"append:choice[2]/text"
+msgstr "この「私が勝てない戦い」について話し合います。"
+
+#: src-en/data/events_special_curator.xml.append:12
+msgid ""
+"data/events_special_curator.xml.append$//mod:findName[@name=\"CURA_TASK_MENU\"]/mod-"
+"append:choice[3]/text"
+msgstr "今回はもっと難しいことを求めてください。"
+
+#: src-en/data/events_special_curator.xml.append:27
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/text"
+msgstr ""
+"「データベースチェックの完了。エラー：Renegadeは私たちが最後に話したことを私のこれを尋ねませんでした。典型的な応答は、a）簡単、正常、またはハードタスクを見るか、またはb）私に連絡するときにタスクを取ることを拒否します。"
+
+#: src-en/data/events_special_curator.xml.append:29
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/text"
+msgstr "過去の会議？"
+
+#: src-en/data/events_special_curator.xml.append:31
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/text"
+msgstr ""
+"「...ある瞬間。」C.U.R.A.応答し、それから短時間の一時停止があります。「データベースのブラックリストが完成しました。それは正しく聞いていませんでした。それは単なる誤解でした。今、あなたは私を助けてくれますか、それとも反逆ですか？」"
+
+#: src-en/data/events_special_curator.xml.append:33
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/text"
+msgstr "今、あなたは私に嘘をついているだけです、あなたが何を意味したのか教えてください。"
+
+#: src-en/data/events_special_curator.xml.append:35
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"「私たちの関係を緊張させないでください、反逆。私はあなたがウェントワース氏に関連するアーティファクトのコレクションを私に助けてくれるだけです。私たちには理解がありますか？」"
+
+#: src-en/data/events_special_curator.xml.append:37
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+"あなたを見つけて、あなたのメモリを拭いてから、コアプログラミングをゲーム「Solitare」に置き換えてみませんか？ジャッカス、その音はどうですか？あなたは何かを隠しています。"
+
+#: src-en/data/events_special_curator.xml.append:39
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「...データ収集が完了しました。レネゲイドがC.U.R.A. "
+"Supremeを最終的に破壊した過去の裏切りを何らかの形で認識している87％の確率があります。私は、一瞬だけで、レネゲイド。何が欲しいですか？」"
+
+#: src-en/data/events_special_curator.xml.append:41
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
+msgstr "あなたは再び同じ間違いを犯さないことに言及しました。何を学びましたか？私はあなたと旗艦を永遠に押しつぶすことを切望しています。"
+
+#: src-en/data/events_special_curator.xml.append:43
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+"デジャヴの感覚があなたを洗い流します。おそらくあなたが持っているこれらの思い出はあなた自身のものですか？または、おそらくそうではない、あなたは不確かです。「どれほど大胆で、反逆者。あなたは私たちの過去の会議で十分に挑戦しているC.U.R.A.を見つけられませんでしたか？私はあなたの不条理な要求をユーモアにしたいと思っていますが、私の条件についてのみ。あなたは受け入れますか？"
+
+#: src-en/data/events_special_curator.xml.append:45
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr "確かに、なぜそうではありません。"
+
+#: src-en/data/events_special_curator.xml.append:47
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「私はあなたが勝つことができない戦いを与えることができると理解していました。あなたがそれらすべてで成功すれば、それはあなたの時間の価値が十分にあると計算します。"
+
+#: src-en/data/events_special_curator.xml.append:51
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:59
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr "気にしないで、私も言ったことを忘れてください。"
+
+#: src-en/data/events_special_curator.xml.append:69
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[1]/event/choice/event/choice[2]/text"
+msgstr "C.U.R.A.あなたは間違っていて、前のメニューに戻りました。"
+
+#: src-en/data/events_special_curator.xml.append:79
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/text"
+msgstr "とても難しい仕事をしてください。"
+
+#: src-en/data/events_special_curator.xml.append:81
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/text"
+msgstr "「このリクエストをより具体的にする必要があります、Renegade。」"
+
+#: src-en/data/events_special_curator.xml.append:83
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/text"
+msgstr "自分のスキルに値するタスクが欲しいです。"
+
+#: src-en/data/events_special_curator.xml.append:85
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/text"
+msgstr "「どれほど大胆で、反逆者。私の他の仕事はあなたにとって簡単すぎると思いますか？非常にうまくいきます。"
+
+#: src-en/data/events_special_curator.xml.append:87
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "確かに、なぜそうではありません。"
+
+#: src-en/data/events_special_curator.xml.append:89
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"「理解して、勝つことができない戦いを与えることができます。あなたがそれらのすべてで成功すれば、私はそれがあなたの時間の価値があると計算します。それは私たちが同意しているようです。」"
+
+#: src-en/data/events_special_curator.xml.append:92
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:100
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_TASKS_IMPOSSIBLE_TALK\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "気にしないで、私も言ったことを忘れてください。"
+
+#: src-en/data/events_special_curator.xml.append:112
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/text"
+msgstr ""
+"[不可能なタスク - アーティファクト名：現実のファブリック。]\n"
+"説明：古代人の最後の秘密兵器は、その使用に対する失敗として現実の間のワープで放棄されました。そのような武器が存在する唯一の方法は、現実の構造が壊れて伸びた場合です...\n"
+"要件：（C.U.R.A.ドライブハッカー）すべてのねじれたMV旅行者を召喚および排除します。\n"
+"推奨事項：死なないでください。\n"
+"\n"
+"支払い：極端なスクラップ +リソース。\n"
+"ボーナス報酬：???"
+
+#: src-en/data/events_special_curator.xml.append:120
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:122
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/text"
+msgstr "「課題が受け入れられました。増強を船の内部システムに転送します。私を失望させないでください。」"
+
+#: src-en/data/events_special_curator.xml.append:127
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:133
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_PREVIEW\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:141
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/text"
+msgstr "あなたはすでに不可能な仕事を受け入れました。"
+
+#: src-en/data/events_special_curator.xml.append:144
+msgid ""
+"data/events_special_curator.xml.append$/dummyroot/event[@name=\"CURA_BOSS_RUSH_NO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:152
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/text"
+msgstr ""
+"「増強はあなたの船へのアップロードを終えました。反逆者を心配しないでください、それはあなたの貴重な増強スロットの1つを占めることはありません。」"
+
+#: src-en/data/events_special_curator.xml.append:154
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_curator.xml.append:156
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/text"
+msgstr ""
+"あなたは、世界で「現実の構造」が何を指しているのだろうかと思います。船のシステムに何が設置されているかを調査するときに発見されると思います。"
+
+#: src-en/data/events_special_curator.xml.append:158
+msgid ""
+"data/events_special_curator.xml.append$//event[@name=\"CURA_BOSS_RUSH_PREVIEW2\"]/choice/event/choice/text"
+msgstr ""

@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_coalition.xml.append:9
+msgid ""
+"data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/text"
+msgstr "（メッキ）あなたのメッキに修理を実行させます。"
+
+#: src-en/data/events_sector_coalition.xml.append:11
+msgid ""
+"data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[1]/event/text"
+msgstr ""
+"被害が取り消されるまでそれほど時間はかかりません。反乱軍のキャプテンは、あなたの助けを求める意欲に驚いています。「たぶん私はあなたを誤解した...これが何かを変えるとは思わないでください。しかし、あなたがあなたの努力に対して支払われるのは正しいことだけです。」"
+
+#: src-en/data/events_sector_coalition.xml.append:16
+msgid ""
+"data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/text"
+msgstr "（Alastair）Alastairに、立ち往生した反乱軍の船の修理に魔法をかけさせます。"
+
+#: src-en/data/events_sector_coalition.xml.append:18
+msgid ""
+"data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
+"append:choice[2]/event/text"
+msgstr ""
+"Alastairは、比較的簡単に船を修理します。船を修理している間、古い破れたセーターが目を引いています。Alastairは、ツールボックスから針とひもで修理を終えるまで船に戻ることを拒否します。彼はそれを反乱軍の船の船長に渡します。キャプテンは涙を流している「これは私の亡くなった妻の最後の贈り物だった...」と反乱軍は説明し、いくつかの涙を抑えます。「私はあなたのエイリアンについて間違っていたので、出生以来嘘をついていたようです。だから、おそらく今は物事を正しくするチャンスです。私はあなたと一緒に来ています。」彼はあなたの船に乗ってAlastairを追って、厳しく言います。"
+
+#: src-en/data/events_sector_coalition.xml.append:25
+msgid ""
+"data/events_sector_coalition.xml.append$//mod:findName[@name=\"COALITION_REBEL_STRANDED\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod:findWithChildLike/mod:selector"
+msgstr ""

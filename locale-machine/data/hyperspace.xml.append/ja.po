@@ -1,0 +1,2036 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:299
+msgid ""
+"data/hyperspace.xml.append$//fm_forgemasterperson_player[@name=\"Alastair\"]/@name"
+msgstr "アラステア"
+
+#: src-en/data/hyperspace.xml.append:300
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
+msgstr "Volpe"
+
+#: src-en/data/hyperspace.xml.append:301
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
+msgstr "アッティカス"
+
+#: src-en/data/hyperspace.xml.append:311
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:312
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_remington[@name=\"Remington\"]/@name"
+msgstr "レミントン"
+
+#: src-en/data/hyperspace.xml.append:313
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
+msgstr "モスバーグ"
+
+#: src-en/data/hyperspace.xml.append:322
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:323
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_remington[@name=\"Remington\"]/@name"
+msgstr "レミントン"
+
+#: src-en/data/hyperspace.xml.append:324
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
+msgstr "モスバーグ"
+
+#: src-en/data/hyperspace.xml.append:335
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:337
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_remington[@name=\"Remington\"]/@name"
+msgstr "レミントン"
+
+#: src-en/data/hyperspace.xml.append:338
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
+msgstr "モスバーグ"
+
+#: src-en/data/hyperspace.xml.append:349
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:350
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_remington[@name=\"Remington\"]/@name"
+msgstr "レミントン"
+
+#: src-en/data/hyperspace.xml.append:351
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
+msgstr "モスバーグ"
+
+#: src-en/data/hyperspace.xml.append:362
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:374
+msgid ""
+"data/hyperspace.xml.append$//mantis_warlord[@name=\"Winchester III\"]/@name"
+msgstr "ウィンチェスターIII"
+
+#: src-en/data/hyperspace.xml.append:375
+msgid ""
+"data/hyperspace.xml.append$//unique_remington[@name=\"Remington MK "
+"III\"]/@name"
+msgstr "レミントンMK III"
+
+#: src-en/data/hyperspace.xml.append:376
+msgid ""
+"data/hyperspace.xml.append$//unique_mossberg[@name=\"Mossberg MK "
+"III\"]/@name"
+msgstr "モスバーグMK III"
+
+#: src-en/data/hyperspace.xml.append:401
+msgid "data/hyperspace.xml.append$//slug_knight[@name=\"P.Escobar\"]/@name"
+msgstr "P.ESCOBAR"
+
+#: src-en/data/hyperspace.xml.append:402
+msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Marcola\"]/@name"
+msgstr "マルコラ"
+
+#: src-en/data/hyperspace.xml.append:403
+msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Osiel\"]/@name"
+msgstr "オシエル"
+
+#: src-en/data/hyperspace.xml.append:404
+msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Chapo\"]/@name"
+msgstr "チャポ"
+
+#: src-en/data/hyperspace.xml.append:421
+msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Frehm\"]/@name"
+msgstr "フレーム"
+
+#: src-en/data/hyperspace.xml.append:422
+msgid "data/hyperspace.xml.append$//zoltan_martyr[@name=\"Ripley\"]/@name"
+msgstr "リプリー"
+
+#: src-en/data/hyperspace.xml.append:423
+msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
+msgstr "Kovacs"
+
+#: src-en/data/hyperspace.xml.append:424
+msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
+msgstr "グラツィアーノ"
+
+#: src-en/data/hyperspace.xml.append:433
+msgid "data/hyperspace.xml.append$//engi[@name=\"Armstrong\"]/@name"
+msgstr "アームストロング"
+
+#: src-en/data/hyperspace.xml.append:434
+msgid "data/hyperspace.xml.append$//engi_separatist[@name=\"Monsoon\"]/@name"
+msgstr "モンスーン"
+
+#: src-en/data/hyperspace.xml.append:469
+msgid "data/hyperspace.xml.append$//mantis[@name=\"Naktul\"]/@name"
+msgstr "ナクル"
+
+#: src-en/data/hyperspace.xml.append:470
+msgid "data/hyperspace.xml.append$//mantis_free[@name=\"Yagdra\"]/@name"
+msgstr "Yagdra"
+
+#: src-en/data/hyperspace.xml.append:471
+msgid "data/hyperspace.xml.append$//mantis_suzerain[@name=\"Zurvan\"]/@name"
+msgstr "Zurvan"
+
+#: src-en/data/hyperspace.xml.append:472
+msgid "data/hyperspace.xml.append$//mantis_bishop[@name=\"Zagara\"]/@name"
+msgstr "ザガラ"
+
+#: src-en/data/hyperspace.xml.append:600
+msgid "data/hyperspace.xml.append$//unique_eater[@name=\"bacon\"]/@name"
+msgstr "ベーコン"
+
+#: src-en/data/hyperspace.xml.append:601
+msgid "data/hyperspace.xml.append$//unique_eater[@name=\"Speck\"]/@name"
+msgstr "スペック"
+
+#: src-en/data/hyperspace.xml.append:704
+msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Zed\"]/@name"
+msgstr "zed"
+
+#: src-en/data/hyperspace.xml.append:705
+msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Maynard\"]/@name"
+msgstr "メイナード"
+
+#: src-en/data/hyperspace.xml.append:706
+msgid "data/hyperspace.xml.append$//engi[@name=\"Dell\"]/@name"
+msgstr "デル"
+
+#: src-en/data/hyperspace.xml.append:707
+msgid "data/hyperspace.xml.append$//human_medic[@name=\"Ludwig\"]/@name"
+msgstr "ルートヴィヒ"
+
+#: src-en/data/hyperspace.xml.append:802
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
+msgstr "Volpe"
+
+#: src-en/data/hyperspace.xml.append:803
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bellamy\"]/@name"
+msgstr "ベラミー"
+
+#: src-en/data/hyperspace.xml.append:804
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
+msgstr "アッティカス"
+
+#: src-en/data/hyperspace.xml.append:805
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Burnette\"]/@name"
+msgstr "バーネット"
+
+#: src-en/data/hyperspace.xml.append:806
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Halford\"]/@name"
+msgstr "ハルフォード"
+
+#: src-en/data/hyperspace.xml.append:807
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Kallio\"]/@name"
+msgstr "カリオ"
+
+#: src-en/data/hyperspace.xml.append:808
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bavitz\"]/@name"
+msgstr "バビッツ"
+
+#: src-en/data/hyperspace.xml.append:809
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_forgemasterperson[@name=\"Alastair\"]/@name"
+msgstr "アラステア"
+
+#: src-en/data/hyperspace.xml.append:810
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Ferrel\"]/@name"
+msgstr "フェレル"
+
+#: src-en/data/hyperspace.xml.append:811
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Convy\"]/@name"
+msgstr "コンビ"
+
+#: src-en/data/hyperspace.xml.append:812
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
+msgstr "パレルモ"
+
+#: src-en/data/hyperspace.xml.append:813
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Dirnt\"]/@name"
+msgstr "dirnt"
+
+#: src-en/data/hyperspace.xml.append:841
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 1\"]/@name"
+msgstr "役員1"
+
+#: src-en/data/hyperspace.xml.append:842
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 2\"]/@name"
+msgstr "役員2"
+
+#: src-en/data/hyperspace.xml.append:843
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 3\"]/@name"
+msgstr "役員3"
+
+#: src-en/data/hyperspace.xml.append:844
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 4\"]/@name"
+msgstr "役員4"
+
+#: src-en/data/hyperspace.xml.append:845
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 5\"]/@name"
+msgstr "役員5"
+
+#: src-en/data/hyperspace.xml.append:846
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 6\"]/@name"
+msgstr "役員6"
+
+#: src-en/data/hyperspace.xml.append:847
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 7\"]/@name"
+msgstr "役員7"
+
+#: src-en/data/hyperspace.xml.append:848
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_forgemasterperson[@name=\"Alastair\"]/@name"
+msgstr "アラステア"
+
+#: src-en/data/hyperspace.xml.append:849
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Ferrel\"]/@name"
+msgstr "フェレル"
+
+#: src-en/data/hyperspace.xml.append:850
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Convy\"]/@name"
+msgstr "コンビ"
+
+#: src-en/data/hyperspace.xml.append:851
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Palermo\"]/@name"
+msgstr "パレルモ"
+
+#: src-en/data/hyperspace.xml.append:852
+msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Pterodactyl\"]/@name"
+msgstr "Pterodactyl"
+
+#: src-en/data/hyperspace.xml.append:1111
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
+msgstr "フレディ"
+
+#: src-en/data/hyperspace.xml.append:1112
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy?\"]/@name"
+msgstr "フレディ？"
+
+#: src-en/data/hyperspace.xml.append:1113
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fred\"]/@name"
+msgstr "フレッド"
+
+#: src-en/data/hyperspace.xml.append:1114
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Frederick\"]/@name"
+msgstr "フレデリック"
+
+#: src-en/data/hyperspace.xml.append:1115
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[5]/@name"
+msgstr "フランツ"
+
+#: src-en/data/hyperspace.xml.append:1116
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_FREE1\"]/crew/unique_freddy[6]/@name"
+msgstr "フランツ"
+
+#: src-en/data/hyperspace.xml.append:1117
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Ferdinand\"]/@name"
+msgstr "フェルディナンド"
+
+#: src-en/data/hyperspace.xml.append:1118
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
+msgstr "foog.i"
+
+#: src-en/data/hyperspace.xml.append:1119
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
+msgstr "香料"
+
+#: src-en/data/hyperspace.xml.append:1120
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
+msgstr "foog.ii"
+
+#: src-en/data/hyperspace.xml.append:1121
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Lord Foog\"]/@name"
+msgstr "フォーグLord"
+
+#: src-en/data/hyperspace.xml.append:1122
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
+msgstr "フェディ"
+
+#: src-en/data/hyperspace.xml.append:1123
+msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
+msgstr "ファズビー"
+
+#: src-en/data/hyperspace.xml.append:1177
+msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
+msgstr "トコ"
+
+#: src-en/data/hyperspace.xml.append:1178
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[1]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1179
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[2]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1180
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[3]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1181
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[4]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1182
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[5]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1183
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[6]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1184
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[7]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1185
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[8]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1186
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[9]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1187
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[10]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1188
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[11]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1189
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_TUCO1\"]/crew/blobswarm[12]/@name"
+msgstr "ワイルドチャイルド"
+
+#: src-en/data/hyperspace.xml.append:1302
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"B.O.S.D.\"]/@name"
+msgstr "B.O.S.D."
+
+#: src-en/data/hyperspace.xml.append:1303
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Abort\"]/@name"
+msgstr "アボート"
+
+#: src-en/data/hyperspace.xml.append:1304
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Retry\"]/@name"
+msgstr "リトライ"
+
+#: src-en/data/hyperspace.xml.append:1305
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Fail\"]/@name"
+msgstr "失敗"
+
+#: src-en/data/hyperspace.xml.append:1306
+msgid ""
+"data/hyperspace.xml.append$//fm_human_texture[@name=\"ErrorNotFound\"]/@name"
+msgstr "errornotfound"
+
+#: src-en/data/hyperspace.xml.append:1307
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"NaN\"]/@name"
+msgstr "ナン"
+
+#: src-en/data/hyperspace.xml.append:1308
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
+msgstr "Bonzibuddy"
+
+#: src-en/data/hyperspace.xml.append:1309
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[8]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1310
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Vista\"]/@name"
+msgstr "Vista"
+
+#: src-en/data/hyperspace.xml.append:1311
+msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Keyboard\"]/@name"
+msgstr "キーボード"
+
+#: src-en/data/hyperspace.xml.append:1312
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[11]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1313
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_BOSS_STEALTH1\"]/crew/fm_human_texture[12]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1613
+msgid "data/hyperspace.xml.append$//butler[@name=\"Candy\"]/@name"
+msgstr "あめ"
+
+#: src-en/data/hyperspace.xml.append:1614
+msgid "data/hyperspace.xml.append$//butler[@name=\"Krystal\"]/@name"
+msgstr "クリスタル"
+
+#: src-en/data/hyperspace.xml.append:1615
+msgid "data/hyperspace.xml.append$//butler[@name=\"Chastity\"]/@name"
+msgstr "貞操"
+
+#: src-en/data/hyperspace.xml.append:1627
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/mantis_warlord[@name=\"Winchester\"]/@name"
+msgstr "ウィンチェスター"
+
+#: src-en/data/hyperspace.xml.append:1629
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_remington[@name=\"Remington\"]/@name"
+msgstr "レミントン"
+
+#: src-en/data/hyperspace.xml.append:1630
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"FM_GUNHYDRA_ENEMY\"]/crew/unique_mossberg[@name=\"Mossberg\"]/@name"
+msgstr "モスバーグ"
+
+#: src-en/data/hyperspace.xml.append:1649
+msgid "data/hyperspace.xml.append$//fm_fallen[@name=\"Randall\"]/@name"
+msgstr "ランドール"
+
+#: src-en/data/hyperspace.xml.append:1765
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[1]/@name"
+msgstr "タリー"
+
+#: src-en/data/hyperspace.xml.append:1766
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[1]/@name"
+msgstr "ヴァンス"
+
+#: src-en/data/hyperspace.xml.append:1767
+msgid "data/hyperspace.xml.append$//unique_ooj[@name=\"Oojie\"]/@name"
+msgstr "oojie"
+
+#: src-en/data/hyperspace.xml.append:1768
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_tully[2]/@name"
+msgstr "タリー"
+
+#: src-en/data/hyperspace.xml.append:1769
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_FMTESTING\"]/crew/unique_vance[2]/@name"
+msgstr "ヴァンス"
+
+#: src-en/data/hyperspace.xml.append:1770
+msgid "data/hyperspace.xml.append$//unique_anointed[@name=\"Anointed\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1771
+msgid "data/hyperspace.xml.append$//sylvanmaid[@name=\"Digger\"]/@name"
+msgstr "掘り"
+
+#: src-en/data/hyperspace.xml.append:1772
+msgid "data/hyperspace.xml.append$//nemesismfk[@name=\"Leah\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1795
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[1]/tooltip"
+msgstr ""
+"鍛造加速器：\n"
+"この敵のユニークな鎧は、武器からのあらゆる種類の損傷に抵抗する25のチャンスを付与します。火の火は50％遅くなり、シールは非常にゆっくりと侵害し、窒息を半分にし、特定のシステムを大幅に速く修復し、中断で修復の進捗が失われません（そして、パイロットは常に飼育されます）。"
+
+#: src-en/data/hyperspace.xml.append:1801
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[2]/tooltip"
+msgstr ""
+"鍛造メドボット：\n"
+"このユニークなメドベイは、すべての同盟の乗組員を癒し、20％の武器ダメージ抵抗を与えますが、その強度と抵抗は、医療システムにどれだけの電力をかけるかで尺度を拡張します。破壊されたり、動作したりしていない場合、それはまだ軽く癒します。ベースヒーリングは1HP/s、4パワーで2.5HP/sです。"
+
+#: src-en/data/hyperspace.xml.append:1807
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[3]/tooltip"
+msgstr ""
+"寸法リフト増強：\n"
+"この船は、別の次元からのテクノロジーを利用しています。この非常識な容器を倒すことができれば、このような技術を自分で主張することができます！"
+
+#: src-en/data/hyperspace.xml.append:1813
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[4]/tooltip"
+msgstr ""
+"物理的な外傷ナノマシン：\n"
+"この船のマニングドローンによって分配されたユニークなナノマシンは、ENGIキャプテンの健康と損傷の抵抗を高めます。ドローンを取り出して、エンギのキャプテンを取り出すことができます！"
+
+#: src-en/data/hyperspace.xml.append:1819
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[5]/tooltip"
+msgstr ""
+"駆逐艦のゴーザー：\n"
+"いくつかの奇妙な分裂能力を使用して、この船はゆっくりと強制的に乗組員を「分割」し、それらを船に材料化します。船を止めるために乗組員を連れて行ってください！"
+
+#: src-en/data/hyperspace.xml.append:1825
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[6]/tooltip"
+msgstr ""
+"殺人ボット分散：\n"
+"この敵の船は、殺人的なナノボットで満たされており、それは時間の経過とともに乗組員を受動的に損傷します。名前は、それをそれよりもはるかに暴力的に聞こえさせます。"
+
+#: src-en/data/hyperspace.xml.append:1831
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[7]/tooltip"
+msgstr ""
+"ねじれた結晶鎧：\n"
+"武器でこの敵に船体のダメージを与えるたびに、3倍のクリスタル鉱山が壊れて船に向かって飛ぶ可能性が50％あります。彼らはあらゆる盾を貫通し、それがヒットした場合、ランダムな部屋に1つのダメージを与え、見事な乗組員と部屋を閉じ込めます。"
+
+#: src-en/data/hyperspace.xml.append:1837
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[8]/tooltip"
+msgstr ""
+"耐性室、バリアント：\n"
+"この敵には、グレーの境界線と左上のRアイコンがマークされた1つ以上の抵抗力のある部屋があります。耐性室は通常、武器からシステムの損傷を受けませんが、乗組員や火災によって損傷を受ける可能性があります。耐性室は、通常のようにイオンと船体の損傷を受けます。\n"
+"船の部屋の「R」アイコンはこのステータスを示しており、アイコンがどれだけいっぱいかによって、部屋は武器の損傷に抵抗する可能性が高いです。"
+
+#: src-en/data/hyperspace.xml.append:1844
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[9]/tooltip"
+msgstr ""
+"鍛造エネルギーを塗った部屋：\n"
+"この敵には1つ以上のエネルギーを与えられた部屋があり、Alastairはこれらのバージョンをカスタマイズしたようです。これらの「エネルギーを与えられた」部屋は、妨害行為に対して50％の余分な抵抗力があり、敵の乗組員は内部で30％少ない損傷を受けます。さらに、乗組員はこれらの部屋で3 dmg/secを取得します。"
+
+#: src-en/data/hyperspace.xml.append:1850
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[10]/tooltip"
+msgstr ""
+"フェロモンの力を与える：\n"
+"この敵の船はフェロモンで満たされています。これらは、乗組員に1.5倍の最大HP、20％の損傷削減、および80％の窒息抵抗を提供します。"
+
+#: src-en/data/hyperspace.xml.append:1856
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[11]/tooltip"
+msgstr ""
+"現実の曲がったシステム：\n"
+"この敵は強力な武器とシステムを所有していますが、時空の極端な伸びにより、そのシステムと船体は15秒ごとに損傷しています。"
+
+#: src-en/data/hyperspace.xml.append:1864
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[12]/tooltip"
+msgstr ""
+"モジュラーハルキャップストーン：\n"
+"あなたはこれを見るべきではありません"
+
+#: src-en/data/hyperspace.xml.append:1869
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[13]/tooltip"
+msgstr ""
+"コンプレッサーバイパスマニホールド：\n"
+"敵の武器は30％速く充電されますが、シールドは60％遅い充電"
+
+#: src-en/data/hyperspace.xml.append:1874
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[14]/tooltip"
+msgstr ""
+"infinitum cyclo-barrier：\n"
+"入ってくる発射体がシールドによって破壊される可能性は15％、シールドシステムの無力なバーのすべてのバーについて、発射体が破壊されない可能性は相対的な15％、および +50％の無力なバーのシールド充電 +50％"
+
+#: src-en/data/hyperspace.xml.append:1879
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[15]/tooltip"
+msgstr ""
+"infinitum cyclo-areNal：\n"
+"敵の武器は5％遅いが、武器システムの無力なバーごとに15％速く充電する"
+
+#: src-en/data/hyperspace.xml.append:1884
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[16]/tooltip"
+msgstr "電磁船体体：システム損傷に抵抗する10％の確率、イオン損傷に抵抗する30％の確率、脱イオン化速度 +50％"
+
+#: src-en/data/hyperspace.xml.append:1889
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[17]/tooltip"
+msgstr ""
+"粒子化されたシールド：\n"
+"敵のシールドは50％遅い充電がありますが、追加の8エネルギーシールドの完全性を獲得します"
+
+#: src-en/data/hyperspace.xml.append:1894
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[18]/tooltip"
+msgstr ""
+"言い表せない条例キャリブレーター：\n"
+"敵の武器は10％遅く充電されますが、船体、システム、イオンに抵抗する可能性は15％減少し、攻撃に違反する +40％の違反チャンスがあります"
+
+#: src-en/data/hyperspace.xml.append:1899
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[19]/tooltip"
+msgstr ""
+"武器イグナイター：\n"
+"敵の武器は50％速く充電されますが、武器室は撃つたびに点火されます"
+
+#: src-en/data/hyperspace.xml.append:1904
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[20]/tooltip"
+msgstr ""
+"オフェンススクランブラー：\n"
+"あなたの武器は20％遅く充電されますが、敵のシールドは30％遅い充電を充電します"
+
+#: src-en/data/hyperspace.xml.append:1909
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[21]/tooltip"
+msgstr ""
+"防衛スクランブラー：\n"
+"あなたのシールドは30％遅い充電を充電し、あなたのクローキングシステムは5秒以上のクールダウンを持っています"
+
+#: src-en/data/hyperspace.xml.append:1914
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
+"append:shipIcons/shipIcon[22]/tooltip"
+msgstr ""
+"緊急修理システム：\n"
+"この船は、重大な船体損傷の場合に何らかの緊急修理システムがあります。"
+
+#: src-en/data/hyperspace.xml.append:3105
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[1]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3126
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[2]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3147
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[3]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3168
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3182
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_NORMAL_STORE\"]/category[5]/customTitle"
+msgstr "ドローン"
+
+#: src-en/data/hyperspace.xml.append:3208
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[1]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3226
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[2]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3244
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[3]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3262
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3276
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
+msgstr "まれな拡張"
+
+#: src-en/data/hyperspace.xml.append:3290
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[6]/customTitle"
+msgstr "ドローン"
+
+#: src-en/data/hyperspace.xml.append:3317
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[1]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3335
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[2]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3348
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[3]/customTitle"
+msgstr "ドローン"
+
+#: src-en/data/hyperspace.xml.append:3366
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_PLUS_STORE\"]/category[4]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3387
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[1]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3405
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[2]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3423
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[3]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3441
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[4]/customTitle"
+msgstr "兵器"
+
+#: src-en/data/hyperspace.xml.append:3462
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
+msgstr "まれな拡張"
+
+#: src-en/data/hyperspace.xml.append:3476
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[6]/customTitle"
+msgstr "ドローン"
+
+#: src-en/data/hyperspace.xml.append:3494
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:4220
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/name"
+msgstr "\\1将来の終わり"
+
+#: src-en/data/hyperspace.xml.append:4221
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/description"
+msgstr "\\1のレイアウトに搭載されている暗い未来の断片を探索する"
+
+#: src-en/data/hyperspace.xml.append:4223
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/secretName"
+msgstr "\\1 ?????エンディング"
+
+#: src-en/data/hyperspace.xml.append:4224
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
+"append:bleakfuture/secretDescription"
+msgstr "\\1のレイアウトに乗って将来の多面的な脅威を発見する"
+
+#: src-en/data/hyperspace.xml.append:4324
+msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
+msgstr "腐食"
+
+#: src-en/data/hyperspace.xml.append:4325
+msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/tooltip"
+msgstr "10秒ごとに船体を燃やし、同じ部屋の乗組員に絶えずパッシブダメージを与えます"
+
+#: src-en/data/hyperspace.xml.append:4423
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/buttonText"
+msgstr "脈"
+
+#: src-en/data/hyperspace.xml.append:4424
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/tooltip"
+msgstr ""
+"9秒ごとに、現在の部屋に1つのイオン損傷を自動的に扱い、そこにいるすべての乗組員を一時的に驚かせます。戦闘で低いダメージを与えます。部屋の他のすべての乗組員の移動速度を遅くします。2つのイオン損傷を扱います。"
+
+#: src-en/data/hyperspace.xml.append:4547
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/buttonText"
+msgstr "脈"
+
+#: src-en/data/hyperspace.xml.append:4548
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/tooltip"
+msgstr ""
+"9秒ごとに、現在の部屋に1つのイオン損傷を自動的に扱い、そこにいるすべての乗組員を一時的に驚かせます。戦闘で低いダメージを与えます。部屋の他のすべての乗組員の移動速度を遅くします。2つのイオン損傷を扱います。"
+
+#: src-en/data/hyperspace.xml.append:4887
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/buttonText"
+msgstr "リフォージ"
+
+#: src-en/data/hyperspace.xml.append:4888
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
+msgstr "準備：10のシステムと2つの船体損傷を修復します。許しを大いに癒し、火を開始します。"
+
+#: src-en/data/hyperspace.xml.append:4970
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/buttonText"
+msgstr "リフォージ"
+
+#: src-en/data/hyperspace.xml.append:4971
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
+msgstr "準備：10のシステムと2つの船体損傷を修復します。許しを大いに癒し、火を開始します。能力キャスト中にダメージを与えません。"
+
+#: src-en/data/hyperspace.xml.append:5052
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/buttonText"
+msgstr "リフォージ"
+
+#: src-en/data/hyperspace.xml.append:5053
+msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
+msgstr "準備：4つのシステムと1つの船体損傷を修復します。20 hpでメッキを癒します。能力キャスト中にダメージを与えません。"
+
+#: src-en/data/hyperspace.xml.append:5105
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/buttonText"
+msgstr "研磨"
+
+#: src-en/data/hyperspace.xml.append:5106
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
+msgstr ""
+"準備ができている：20馬力で癒しながら、15馬力で敵を損傷します。スタンの影響を受け、20％の余分な範囲のダメージを与え、すべてのダメージに対して70％の抵抗を獲得し、その期間は2倍の速度で動きます。部屋は15秒間、システムの損傷に対して完全に耐性になります。"
+
+#: src-en/data/hyperspace.xml.append:5176
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/buttonText"
+msgstr "吸収する"
+
+#: src-en/data/hyperspace.xml.append:5177
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン：15秒]\n"
+"同じ部屋でコバルト分離主義者と合併して、ねじれた分離主義者を形成します。"
+
+#: src-en/data/hyperspace.xml.append:5242
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/buttonText"
+msgstr "再生"
+
+#: src-en/data/hyperspace.xml.append:5243
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン：10秒]\n"
+"ねえ、あなたはこれを読んではいけません！スクラム！"
+
+#: src-en/data/hyperspace.xml.append:5285
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/buttonText"
+msgstr "改革"
+
+#: src-en/data/hyperspace.xml.append:5286
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
+msgstr ""
+"[クールダウン：20秒]\n"
+"コバルトの分離主義者に改革し、船体1匹とシステムの損傷を扱い、現在の部屋に違反します。"
+
+#: src-en/data/hyperspace.xml.append:5311
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[1]/name"
+msgstr "コバルト"
+
+#: src-en/data/hyperspace.xml.append:5316
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/deathEffect/spawnCrew[2]/name"
+msgstr "ブロンズ"
+
+#: src-en/data/hyperspace.xml.append:5350
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/buttonText"
+msgstr "スプリット"
+
+#: src-en/data/hyperspace.xml.append:5351
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/tooltip"
+msgstr "[クールダウン：15秒] 2人の分離主義者に戻ります。"
+
+#: src-en/data/hyperspace.xml.append:5357
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/spawnCrew/name"
+msgstr "コバルト"
+
+#: src-en/data/hyperspace.xml.append:5381
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/buttonText"
+msgstr "吸収する"
+
+#: src-en/data/hyperspace.xml.append:5382
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
+msgstr "[クールダウン：20秒]は、部屋のすべてのフレンドリーな乗組員を吸収し、永続的なブーストを与えます。"
+
+#: src-en/data/hyperspace.xml.append:5527
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/buttonText"
+msgstr "火"
+
+#: src-en/data/hyperspace.xml.append:5528
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
+msgstr "準備：火を生みます。"
+
+#: src-en/data/hyperspace.xml.append:5595
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/buttonText"
+msgstr "イオン"
+
+#: src-en/data/hyperspace.xml.append:5596
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
+msgstr "準備：イオンとスタンのスポーン。"
+
+#: src-en/data/hyperspace.xml.append:5662
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/buttonText"
+msgstr "違反"
+
+#: src-en/data/hyperspace.xml.append:5663
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
+msgstr "準備：侵害と取引の乗組員の損傷を生み出します。"
+
+#: src-en/data/hyperspace.xml.append:5735
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/buttonText"
+msgstr "オムニ"
+
+#: src-en/data/hyperspace.xml.append:5736
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
+msgstr "準備：すべてのクリスタル効果を与えます。"
+
+#: src-en/data/hyperspace.xml.append:5803
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/buttonText"
+msgstr "空所"
+
+#: src-en/data/hyperspace.xml.append:5804
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
+msgstr "準備：ランダムクリスタルを産みます"
+
+#: src-en/data/hyperspace.xml.append:5902
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/buttonText"
+msgstr "シールド"
+
+#: src-en/data/hyperspace.xml.append:5903
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
+msgstr "準備：ダメージを大幅に軽減し（80％少なく）、マインドコントロールの試みに抵抗し、近くの同盟国の窒息損傷を15秒間50％減らします。"
+
+#: src-en/data/hyperspace.xml.append:6001
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/buttonText"
+msgstr "シールド"
+
+#: src-en/data/hyperspace.xml.append:6002
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
+msgstr "準備：ダメージを大幅に減らし（80％少ない）、マインドコントロールの試みに抵抗し、近くの同盟国の火災損傷を15秒間50％減らします。"
+
+#: src-en/data/hyperspace.xml.append:6752
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/buttonText"
+msgstr "消費する"
+
+#: src-en/data/hyperspace.xml.append:6753
+msgid "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
+msgstr "準備：1つのシステムの損傷を扱い、現在の部屋に違反を開きます"
+
+#: src-en/data/hyperspace.xml.append:6788
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/buttonText"
+msgstr "犠牲"
+
+#: src-en/data/hyperspace.xml.append:6789
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
+msgstr "準備：同じ部屋のすべてのフレンドリーな幽霊を殺し、敵の船にそれらのコピーを送ります"
+
+#: src-en/data/hyperspace.xml.append:7236
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/buttonText"
+msgstr "ティータイム"
+
+#: src-en/data/hyperspace.xml.append:7237
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/tooltip"
+msgstr "準備：壊滅的な激怒のスラッシュで5秒間にわたって部屋のすべての敵に50のダメージを与えます。効果の期間中、移動速度は9倍に増加します。"
+
+#: src-en/data/hyperspace.xml.append:7444
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/buttonText"
+msgstr "火"
+
+#: src-en/data/hyperspace.xml.append:7445
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/tooltip"
+msgstr "自動：火パルスをアクティブにします"
+
+#: src-en/data/hyperspace.xml.append:7505
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/buttonText"
+msgstr "うねり"
+
+#: src-en/data/hyperspace.xml.append:7506
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/tooltip"
+msgstr "自動：20 hpで自己を癒し、1イオン、4秒のスタン、敵の乗組員に10のダメージを与えます。"
+
+#: src-en/data/hyperspace.xml.append:7575
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/buttonText"
+msgstr "うねり"
+
+#: src-en/data/hyperspace.xml.append:7576
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/tooltip"
+msgstr "自動：時にはエネルギーで急増し、両方の船のすべての同盟国を20 hpで癒し、すべての敵の乗組員を10hpで損傷します。"
+
+#: src-en/data/hyperspace.xml.append:8529
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/buttonText"
+msgstr "アウトブレイク"
+
+#: src-en/data/hyperspace.xml.append:8530
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/tooltip"
+msgstr "自動：「独自のバイオマスと近くの肉体を使用して、より多くのウイルスを広げ、それ自体と他の肉の飼い人に永続的な点を与えます。"
+
+#: src-en/data/hyperspace.xml.append:8625
+msgid ""
+"data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/buttonText"
+msgstr "その火"
+
+#: src-en/data/hyperspace.xml.append:8626
+msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
+msgstr "準備：火を生みます。"
+
+#: src-en/data/hyperspace.xml.append:10349
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/buttonText"
+msgstr "リリースを制限します"
+
+#: src-en/data/hyperspace.xml.append:10350
+msgid ""
+"data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/tooltip"
+msgstr "対応：扱われた損傷を増やし、受けた損傷を減らしますが、期間中に電力の供給を停止します。"
+
+#: src-en/data/hyperspace.xml.append:10795
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "キンドリング"
+
+#: src-en/data/hyperspace.xml.append:10796
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr "準備ができている：自分自身に点火し、火を灯します"
+
+#: src-en/data/hyperspace.xml.append:10820
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "キンドリング"
+
+#: src-en/data/hyperspace.xml.append:10821
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr "準備ができている：自分自身に点火し、火を灯します"
+
+#: src-en/data/hyperspace.xml.append:10923
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:10924
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
+msgstr ""
+"準備：15のダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+
+#: src-en/data/hyperspace.xml.append:10959
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:10960
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
+msgstr ""
+"準備：25ダメージを与え、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。26秒間、失われた健康と余分なものをゆっくりと再生します。"
+
+#: src-en/data/hyperspace.xml.append:10994
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:10995
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
+msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11034
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11035
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
+msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11076
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11077
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
+msgstr "準備：40ダメージを受けて、現在のシステムを完全に修復します。ゆっくりと26秒間失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11112
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11113
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
+msgstr ""
+"準備：50ダメージを与え、敵の乗組員に30のダメージを与え、敵システムに2ダメージを与えます。15秒間自らを強化します：0.3倍のダメージを受けます。"
+
+#: src-en/data/hyperspace.xml.append:11148
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11149
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
+msgstr ""
+"準備：10ダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+
+#: src-en/data/hyperspace.xml.append:11186
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11187
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
+msgstr ""
+"準備：30回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと健康を再生し、近くの親善試合を1秒あたり4人の健康を癒し、13秒間75％の窒息抵抗を獲得します。"
+
+#: src-en/data/hyperspace.xml.append:11237
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11238
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
+msgstr ""
+"準備：15のダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+
+#: src-en/data/hyperspace.xml.append:11273
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11274
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
+msgstr ""
+"準備：25ダメージを与え、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。26秒間、失われた健康と余分なものをゆっくりと再生します。"
+
+#: src-en/data/hyperspace.xml.append:11308
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11309
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
+msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11348
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11349
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
+msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11390
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11391
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
+msgstr "準備：40ダメージを受けて、現在のシステムを完全に修復します。ゆっくりと26秒間失われた健康を再生します。"
+
+#: src-en/data/hyperspace.xml.append:11426
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11427
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
+msgstr ""
+"準備：50ダメージを与え、敵の乗組員に30のダメージを与え、敵システムに2ダメージを与えます。15秒間自らを強化します：0.3倍のダメージを受けます。"
+
+#: src-en/data/hyperspace.xml.append:11462
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
+msgstr "ウイルス燃焼"
+
+#: src-en/data/hyperspace.xml.append:11463
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
+msgstr ""
+"準備：10ダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+
+#: src-en/data/hyperspace.xml.append:11500
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
+msgstr "燃焼します"
+
+#: src-en/data/hyperspace.xml.append:11501
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
+msgstr ""
+"準備：30回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと健康を再生し、近くの親善試合を1秒あたり4人の健康を癒し、13秒間75％の窒息抵抗を獲得します。"
+
+#: src-en/data/hyperspace.xml.append:12125
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "やけど"
+
+#: src-en/data/hyperspace.xml.append:12126
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr "準備：現在の部屋に火をつけます。"
+
+#: src-en/data/hyperspace.xml.append:13538
+msgid ""
+"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS\"]/mod:findWithChildLike/mod:selector"
+msgstr "coords_spider"
+
+#: src-en/data/hyperspace.xml.append:13544
+msgid ""
+"data/hyperspace.xml.append$//mod:findName[@name=\"COORDS_BOSS_TOOLATE\"]/mod:findWithChildLike/mod:selector"
+msgstr "coords_spider"
+
+#: src-en/data/hyperspace.xml.append:15844
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod-"
+"append:page/section/@text"
+msgstr "不可能な仕事"
+
+#: src-en/data/hyperspace.xml.append:15846
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/name"
+msgstr "臓器をお願いします！"
+
+#: src-en/data/hyperspace.xml.append:15847
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/description"
+msgstr "ねじれたギルドBの反逆者を倒し、心を締めます。"
+
+#: src-en/data/hyperspace.xml.append:15849
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15850
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15854
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/name"
+msgstr "マルチバースレコード"
+
+#: src-en/data/hyperspace.xml.append:15855
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/description"
+msgstr "ねじれたduskbringer bの反逆者を倒して、トワイライトのベストを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15857
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15858
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15862
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/name"
+msgstr "ナナイトの硬化"
+
+#: src-en/data/hyperspace.xml.append:15863
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/description"
+msgstr "ねじれたエンジンのレネゲイドを倒し、ドローンブースターカイを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15865
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15866
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15870
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/name"
+msgstr "ブリタニア"
+
+#: src-en/data/hyperspace.xml.append:15871
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
+msgstr "ねじれたフリーマンティスBレネゲイドを倒してお茶を手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15873
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15874
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15878
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/name"
+msgstr "象徴性"
+
+#: src-en/data/hyperspace.xml.append:15879
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
+msgstr "ねじれた分離主義者のbレネゲイドを倒して、マガタマを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15881
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15882
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15886
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
+msgstr "Zerg Rush"
+
+#: src-en/data/hyperspace.xml.append:15887
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/description"
+msgstr "ねじれたハイブb反乱を倒し、フェロモン加速器を手に入れます。"
+
+#: src-en/data/hyperspace.xml.append:15889
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15890
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15894
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/name"
+msgstr "強制平和"
+
+#: src-en/data/hyperspace.xml.append:15895
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/description"
+msgstr "ねじれた修道士Bの反逆者を倒し、エーテルアセンションシールドを取得します。"
+
+#: src-en/data/hyperspace.xml.append:15897
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15898
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15902
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/name"
+msgstr "抵抗する"
+
+#: src-en/data/hyperspace.xml.append:15903
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/description"
+msgstr "ねじれたロックCの反逆者を倒し、ロックマンの自由の遺物を手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15905
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15906
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15910
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/name"
+msgstr "最終時間"
+
+#: src-en/data/hyperspace.xml.append:15911
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
+msgstr "ねじれた失われた太陽bの反逆者を倒して、現実に曲がったリロダーを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15913
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15914
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15918
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/name"
+msgstr "purged purged"
+
+#: src-en/data/hyperspace.xml.append:15919
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
+msgstr "ねじれたスラッグcのレネゲイドを倒し、マルボロクエーサーを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15921
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15922
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15926
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/name"
+msgstr "セント"
+
+#: src-en/data/hyperspace.xml.append:15927
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
+msgstr ""
+"ねじれたステルスBレネゲイドを倒して、手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れると取得します。"
+
+#: src-en/data/hyperspace.xml.append:15929
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15930
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15934
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/name"
+msgstr "景品回避"
+
+#: src-en/data/hyperspace.xml.append:15935
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/description"
+msgstr "ねじれたZoltan C Renegadeを倒して、リミテッドリリースを取得します。"
+
+#: src-en/data/hyperspace.xml.append:15937
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15938
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15942
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/name"
+msgstr "ベーコン"
+
+#: src-en/data/hyperspace.xml.append:15943
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/description"
+msgstr "ねじれたラニウスBの反逆者を倒し、スクラップメタルファイアハートを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:15945
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15946
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15950
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/name"
+msgstr "検疫"
+
+#: src-en/data/hyperspace.xml.append:15951
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/description"
+msgstr "ねじれたシェルCの反乱を倒し、燃焼ウイルスの生物時代を取得します。"
+
+#: src-en/data/hyperspace.xml.append:15953
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15954
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15958
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/name"
+msgstr "Htao laitircopyh"
+
+#: src-en/data/hyperspace.xml.append:15959
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/description"
+msgstr "ねじれたエンジニアB Renegadeを倒し、ドローンブースターMK IIを入手してください。"
+
+#: src-en/data/hyperspace.xml.append:15961
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15962
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15966
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/name"
+msgstr "ゲートキーパー"
+
+#: src-en/data/hyperspace.xml.append:15967
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/description"
+msgstr "ねじれたケストレルBの反逆者を倒し、ゴーザーの冷蔵庫になります。"
+
+#: src-en/data/hyperspace.xml.append:15969
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15970
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15974
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/name"
+msgstr "正義のビーム"
+
+#: src-en/data/hyperspace.xml.append:15975
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
+msgstr "ねじれたFed B Renegadeを倒し、ねじれた弾薬製作者を手に入れます。"
+
+#: src-en/data/hyperspace.xml.append:15977
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15978
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15982
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/name"
+msgstr "楽しい"
+
+#: src-en/data/hyperspace.xml.append:15983
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/description"
+msgstr "ねじれたオーキッドcの反逆者を倒して、友達を獲得してください。"
+
+#: src-en/data/hyperspace.xml.append:15985
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15986
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15990
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/name"
+msgstr "弾丸地獄"
+
+#: src-en/data/hyperspace.xml.append:15991
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/description"
+msgstr "ねじれたクリスタルCの反逆者を倒し、ねじれた粉砕鎧を手に入れます。"
+
+#: src-en/data/hyperspace.xml.append:15993
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:15994
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:15998
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/name"
+msgstr "これ以上の死はありません"
+
+#: src-en/data/hyperspace.xml.append:15999
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/description"
+msgstr "ねじれたトゥコBレネゲイドを倒し、黄金のトコを手に入れましょう。"
+
+#: src-en/data/hyperspace.xml.append:16001
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:16002
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16006
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/name"
+msgstr "エンジンはジャムされていません"
+
+#: src-en/data/hyperspace.xml.append:16007
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/description"
+msgstr "ねじれたリーチCの反逆者を倒し、うつ病をエミッタにします。"
+
+#: src-en/data/hyperspace.xml.append:16009
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:16010
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16014
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/name"
+msgstr "そのための時間がありません"
+
+#: src-en/data/hyperspace.xml.append:16015
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/description"
+msgstr "ねじれたケストレルBに時間を無駄にしないでください。"
+
+#: src-en/data/hyperspace.xml.append:16017
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[1]"
+msgstr "時間はありません"
+
+#: src-en/data/hyperspace.xml.append:16018
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:16019
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16023
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/name"
+msgstr "無料のもの！"
+
+#: src-en/data/hyperspace.xml.append:16024
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/description"
+msgstr "ねじれたZoltan C Renegadeの提案を受け入れ、無料のものを入手してください。"
+
+#: src-en/data/hyperspace.xml.append:16026
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[1]"
+msgstr "うわー、無料のもの？！"
+
+#: src-en/data/hyperspace.xml.append:16027
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
+msgstr "ねじれた反逆者が敗北した"
+
+#: src-en/data/hyperspace.xml.append:16028
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:16035
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
+msgstr "thest's Boons"
+
+#: src-en/data/hyperspace.xml.append:16037
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
+msgstr "メッキの恩恵"
+
+#: src-en/data/hyperspace.xml.append:16038
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
+msgstr "メッキの恩恵を最大から受け取ります。"
+
+#: src-en/data/hyperspace.xml.append:16039
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
+msgstr ""
+"メッキの乗組員を最も見せてください。\n"
+"事実上;すべてのメッキの乗組員は、+1の能力料金を獲得します。"
+
+#: src-en/data/hyperspace.xml.append:16041
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:16047
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
+msgstr "コービーの助成金"
+
+#: src-en/data/hyperspace.xml.append:16049
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
+msgstr "武装の付与"
+
+#: src-en/data/hyperspace.xml.append:16050
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
+msgstr "コービーから武装の助成金を受け取ります。"
+
+#: src-en/data/hyperspace.xml.append:16051
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
+msgstr ""
+"モジュラーハルをコービーに表示します。\n"
+"事実上;モジュラーハルは+5ノッチ容量を獲得します。"
+
+#: src-en/data/hyperspace.xml.append:16053
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:16059
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[3]/mod:selector/@text"
+msgstr "ウェイクソンの祝福"
+
+#: src-en/data/hyperspace.xml.append:16061
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
+msgstr "偽造の祝福"
+
+#: src-en/data/hyperspace.xml.append:16062
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
+msgstr "ウェイクソンから鍛造の祝福を受けてください。"
+
+#: src-en/data/hyperspace.xml.append:16063
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
+msgstr ""
+"目を覚ますために偽造された武器を見せてください。\n"
+"事実上;フェージマスターは、呼び出しなしで自動的にスポーンします。"
+
+#: src-en/data/hyperspace.xml.append:16065
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:16070
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
+msgstr "偽造のより大きな祝福"
+
+#: src-en/data/hyperspace.xml.append:16071
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
+msgstr "ウェイクソンから鍛造のより大きな祝福を受けてください。"
+
+#: src-en/data/hyperspace.xml.append:16072
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
+msgstr ""
+"目を覚ますために高品位の鍛造武器を見せてください。\n"
+"事実上;Fortemasterには、より大きくより良い店があります。"
+
+#: src-en/data/hyperspace.xml.append:16074
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:16079
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
+msgstr "愚か者の祝福"
+
+#: src-en/data/hyperspace.xml.append:16080
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
+msgstr "の祝福を受け取りますか？ウェイクソンから。"
+
+#: src-en/data/hyperspace.xml.append:16081
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
+msgstr ""
+"WakesonにAncalagon Techを見せてください。\n"
+"事実上;Ancalagon結晶は、50％の損傷抵抗を獲得します。"
+
+#: src-en/data/hyperspace.xml.append:16083
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
+msgstr "ブーンが受け取った"
+
+#: src-en/data/hyperspace.xml.append:16089
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
+msgstr "ねじれの祝福"
+
+#: src-en/data/hyperspace.xml.append:16090
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
+msgstr "の祝福を受け取りますか？ウェイクソンから。"
+
+#: src-en/data/hyperspace.xml.append:16091
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
+msgstr ""
+"ターミナルをウェイクソンに見せます。\n"
+"事実上;すべての乗組員の統計は5％増加し、ほとんどの船の統計は5％増加します。"
+
+#: src-en/data/hyperspace.xml.append:16093
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
+msgstr "ブーンが受け取った"
