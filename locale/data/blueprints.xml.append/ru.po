@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-22 12:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-29 05:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -1607,7 +1607,7 @@ msgstr "Заряженный бой"
 #: src-en/data/blueprints.xml.append:3052
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_ancalagon_battle\"]/title"
-msgstr "Дрон Анкалагона \"Провозвестник войны\""
+msgstr "Дрон Анкалагона \"Воитель\""
 
 #: src-en/data/blueprints.xml.append:3053
 msgid ""
@@ -2011,12 +2011,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3367
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/title"
-msgstr "Анкалагон \"Провозвестник войны\""
+msgstr "Анкалагон \"Воитель\""
 
 #: src-en/data/blueprints.xml.append:3368
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_DEFEND\"]/short"
-msgstr "Пров. войны"
+msgstr "Воитель"
 
 #: src-en/data/blueprints.xml.append:3369
 msgid ""
@@ -2029,12 +2029,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3384
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/title"
-msgstr "Анкалагон \"Провозвестник войны\""
+msgstr "Анкалагон \"Воитель\""
 
 #: src-en/data/blueprints.xml.append:3385
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"FM_ANCALAGON_BATTLE\"]/short"
-msgstr "Пров. войны"
+msgstr "Воитель"
 
 #: src-en/data/blueprints.xml.append:3386
 msgid ""
