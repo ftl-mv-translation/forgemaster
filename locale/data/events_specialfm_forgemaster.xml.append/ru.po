@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-24 18:49+0000\n"
+"PO-Revision-Date: 2025-05-29 05:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:46
 msgid ""
@@ -652,7 +652,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION\"]/choice/event/choice[3]/text"
 msgstr ""
 "Взорвать оба контейнера - они принесут много лома, если вы успеете собрать "
-"его их до того, как контейнеры испарятся."
+"их до того, как контейнеры испарятся."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:492
 msgid ""
@@ -734,7 +734,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION_CREW\"]/choice/event/choice[3]/text"
 msgstr ""
 "Взорвать оба контейнера - они принесут много лома, если вы успеете собрать "
-"его их до того, как контейнеры испарятся."
+"их до того, как контейнеры испарятся."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:562
 msgid ""
