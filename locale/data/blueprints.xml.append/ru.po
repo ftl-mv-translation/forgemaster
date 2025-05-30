@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 05:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-05-31 14:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1197,7 +1197,7 @@ msgstr "Тушит огонь с половинной скоростью."
 #: src-en/data/blueprints.xml.append:2644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/title"
-msgstr "Отсутствующая текстура: Человек7"
+msgstr "Missing Texture: Human7"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid ""
@@ -1210,19 +1210,20 @@ msgid ""
 msgstr "Вы установили FTL: SOURCE?"
 
 #: src-en/data/blueprints.xml.append:2651
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[1]"
-msgstr "Пропавшая сила1.txt"
+msgstr "Missing Power1.txt"
 
 #: src-en/data/blueprints.xml.append:2652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[2]"
-msgstr "Пропавшая сила2.txt"
+msgstr "Missing Power2.txt"
 
 #: src-en/data/blueprints.xml.append:2653
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"fm_human_texture\"]/powerList/power[3]"
-msgstr "Пропавшая сила3.txt"
+msgstr "Missing Power3.txt"
 
 #: src-en/data/blueprints.xml.append:2658
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"husk_slug\"]/title"
@@ -5525,7 +5526,7 @@ msgstr "Разрывная тяжелая ракетница \"Адское пл
 #: src-en/data/blueprints.xml.append:10105
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/short"
-msgstr "Адское пламя"
+msgstr "Ад. пламя"
 
 #: src-en/data/blueprints.xml.append:10106
 msgid ""
@@ -10118,7 +10119,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18385
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_LOSTSUN\"]/title"
-msgstr "Перезагружающее реальность судно"
+msgstr "Перезагруж. реал. судно"
 
 #: src-en/data/blueprints.xml.append:18386
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_LOSTSUN\"]/desc"
@@ -10210,7 +10211,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18451
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PACIFISTIC_REGENERATION\"]/title"
-msgstr "Пацифистская регенерация"
+msgstr "Пацифист. регенерация"
 
 #: src-en/data/blueprints.xml.append:18452
 msgid ""
