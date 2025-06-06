@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"PO-Revision-Date: 2025-06-07 16:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_ships.xml.append:28
 msgid ""
@@ -847,9 +847,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"GET_FM_UPG_AETHER_SHIELDS\"]/choice/event/text"
 msgstr ""
-"Effets : Fournit un bonus de 6 points de bouclier énergétique qui se "
-"cumulent avec les autres boucliers énergétiques. [L'Augmentation a été "
-"internalisé !]"
+"Effets : Fournit un bonus de 6 points de bouclier énergétique qui se cumule "
+"avec les autres boucliers énergétiques. [L'Augmentation a été internalisé !]"
 
 #: src-en/data/events_ships.xml.append:993
 msgid ""
