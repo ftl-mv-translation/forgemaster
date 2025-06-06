@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-18 17:02+0000\n"
+"PO-Revision-Date: 2025-06-07 16:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -7577,9 +7577,10 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CHIEF_SPECIAL_PLAYER\"]/desc"
 msgstr ""
 "Aucune arme n’a jamais suscité une controverse éthique aussi grande, mais si "
-"ça marche, ça marche. Pourquoi la plante déclenche-t-elle des incendies ? "
-"Par ironie. Inflige des dégâts à la coque avec une forte chance de provoquer "
-"un incendie. Sa configuration spéciale empêche toute modification."
+"elle fonctionne, c'est qu'elle fonctionne. Pourquoi la plante déclenche-t-"
+"elle des incendies ? Par ironie. Inflige des dégâts à la coque avec une "
+"forte chance de provoquer un incendie. Sa configuration spéciale empêche "
+"toute modification."
 
 #: src-en/data/blueprints.xml.append:13558
 msgid ""
@@ -7611,9 +7612,10 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL_PLAYER\"]/tooltip"
 msgstr ""
 "Aucune arme n’a jamais suscité une controverse éthique aussi grande, mais si "
-"ça marche, ça marche. Au moins, la vie de votre symbiote est maintenant un "
-"peu moins misérable qu'elle ne l'était auparavant. Inflige des dégâts "
-"ioniques avec une bonne chance de provoquer une brèche."
+"elle fonctionne, c'est qu'elle fonctionne. Au moins, la vie de votre "
+"symbiote est maintenant un peu moins misérable qu'elle ne l'était "
+"auparavant. Inflige des dégâts ioniques avec une bonne chance de provoquer "
+"une brèche."
 
 #: src-en/data/blueprints.xml.append:13680
 msgid ""
@@ -10244,8 +10246,7 @@ msgstr "Amplificateur de Drone MK KAI"
 #: src-en/data/blueprints.xml.append:18291
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_DRONE_COOLDOWN\"]/desc"
-msgstr ""
-"Les drones de votre équipage rechargent leurs capacités deux fois plus vite."
+msgstr "Les Drones d'équipage rechargent leurs capacités deux fois plus vite."
 
 #: src-en/data/blueprints.xml.append:18298
 msgid ""
@@ -10255,8 +10256,7 @@ msgstr "NANOMACHINE_ARMURE"
 #: src-en/data/blueprints.xml.append:18299
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"NANOMACHINE_ARMOR_ENEMY\"]/desc"
-msgstr ""
-"Les drones de votre équipage rechargent leurs capacités deux fois plus vite."
+msgstr "Les Drones d'équipage rechargent leurs capacités deux fois plus vite."
 
 #: src-en/data/blueprints.xml.append:18306
 msgid ""
@@ -10935,8 +10935,7 @@ msgstr "Amplificateur de Drone MK KAI"
 #: src-en/data/blueprints.xml.append:18797
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"HID_UPG_DRONE_COOLDOWN\"]/desc"
-msgstr ""
-"Les drones de votre équipage rechargent leurs capacités deux fois plus vite."
+msgstr "Les Drones d'équipage rechargent leurs capacités deux fois plus vite."
 
 #: src-en/data/blueprints.xml.append:18804
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"HID_FIRE_HEART\"]/title"
