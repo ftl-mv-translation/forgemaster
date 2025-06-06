@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-15 21:02+0000\n"
+"PO-Revision-Date: 2025-06-07 16:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_eventsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_events.xml.append:2
 msgid "data/text_events.xml.append$//text[@name=\"text_DISTRESS_ENGI_PARTY_1\"]"
@@ -768,8 +768,8 @@ msgid ""
 "data/text_events.xml.append$//text[@name=\"text_GET_FM_UPG_AETHER_SHIELDS\"]"
 msgstr ""
 "Internaliser les Boucliers d'Ascension Éther...\n"
-"  [Effets : Fournit un bonus de 6 points de bouclier d'énergie qui s'empile "
-"avec les autres boucliers d'énergie.]"
+"  [Effets : Fournit un bonus de 6 points de bouclier d'énergie qui se "
+"cumulent aux autres boucliers d'énergie.]"
 
 #: src-en/data/text_events.xml.append:123
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_FREEDOM_ROCK\"]"
