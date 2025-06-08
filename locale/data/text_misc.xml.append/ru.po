@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-06-08 11:57+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -170,7 +170,7 @@ msgstr ""
 "FM: это КОМПОНЕНТ для ковки гатлинг-пушки Адская вспышка[30~], а также "
 "КОМПОНЕНТ для Вулкана.\n"
 "FM: это КОМПОНЕНТ для ковки огнемета Дажьбог[50~], а также КОМПОНЕНТ для "
-"[СКРЫТО]."
+"[ОТРЕДАКТИРОВАНО]."
 
 #: src-en/data/text_misc.xml.append:90
 msgid "data/text_misc.xml.append$/dummyroot/FTL/text[22]"
