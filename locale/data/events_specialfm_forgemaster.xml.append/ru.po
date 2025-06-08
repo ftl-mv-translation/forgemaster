@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-08 11:57+0000\n"
+"PO-Revision-Date: 2025-06-09 16:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -1704,14 +1704,14 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Заменить стволы Вулкана на радиаторы Огневика, чтобы выковать Гатлинг-пушку "
-"\"Адская вспышка\". [Цена: 30~]"
+"Заменить стволы Вулкана на радиаторы Поджигателя, чтобы выковать Гатлинг-"
+"пушку \"Адская вспышка\". [Цена: 30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1568
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"FM_CHAINGUN_FIRE_LIST\""
 " and @lvl=\"0\"]/text"
-msgstr "Чтобы выковать это орудие, у вас должны быть Вулкан и Огневик."
+msgstr "Чтобы выковать это орудие, у вас должны быть Вулкан и Поджигатель."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1573
 msgid ""
@@ -1719,15 +1719,15 @@ msgid ""
 " and @lvl=\"1\"]/text"
 msgstr ""
 "Использовать газообразную массу в качестве топлива и поджечь ее с помощью "
-"Огневика, чтобы выковать огнемет \"Дажьбог\". [Цена: 50~]"
+"Поджигателя, чтобы выковать огнемет \"Дажьбог\". [Цена: 50~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1578
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_LASER\"]/choice[@req=\"FM_FLAMETHROWER_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Чтобы выковать это орудие, у вас должен быть лазер Огневик и газообразная "
-"масса."
+"Чтобы выковать это орудие, у вас должен быть лазер Поджигатель и "
+"газообразная масса."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:1583
 msgid ""
