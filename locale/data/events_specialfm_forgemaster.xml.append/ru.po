@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 05:50+0000\n"
+"PO-Revision-Date: 2025-06-08 11:57+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -2452,15 +2452,15 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА] Объединить от двух до четырех Автопушек 1с, чтобы "
-"выковать Пробивную митральезу. [Цена: 20-60~]"
+"[GO BALLISTIC] Объединить от двух до четырех Автопушек 1с, чтобы выковать "
+"Пробивную митральезу. [Цена: 20-60~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2096
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FORGE_WEAPON_EXPLOSIVES\"]/choice[@req=\"FM_RVS_AC_CHARGE_FORGE_LIST\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"[ВПЕРЕД БАЛЛИСТИКА] Чтобы выковать это орудие, у вас должно быть от двух до "
+"[GO BALLISTIC] Чтобы выковать это орудие, у вас должно быть от двух до "
 "четырех Автопушек 1с."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2102
