@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-31 14:50+0000\n"
+"PO-Revision-Date: 2025-06-09 16:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -2569,11 +2569,11 @@ msgstr "Рожденный кислотой"
 
 #: src-en/data/blueprints.xml.append:4039
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4040
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4041
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_TEST\"]/desc"
@@ -2720,11 +2720,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4434
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4435
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4436
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_STATUS\"]/desc"
@@ -2782,7 +2782,7 @@ msgstr "Наносит 2 урона и пробивает 1 слой щита з
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_SURGE_LASER\"]/title"
-msgstr "Залповый лазер \"Множественность\"."
+msgstr "Залповый лазер \"Множественность\""
 
 #: src-en/data/blueprints.xml.append:4571
 msgid ""
@@ -2854,12 +2854,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:4718
 msgid ""
@@ -6502,12 +6502,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:11830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_DRONE_WEAPON\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:11831
 msgid ""
@@ -6852,12 +6852,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:12600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_INVIS\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:12601
 msgid ""
@@ -7576,12 +7576,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13982
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/title"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:13983
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_FLAMETHROWER_ENEMY\"]/short"
-msgstr "Даждьбог"
+msgstr "Дажьбог"
 
 #: src-en/data/blueprints.xml.append:13984
 msgid ""
