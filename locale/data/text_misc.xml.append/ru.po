@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-08 11:57+0000\n"
+"PO-Revision-Date: 2025-06-09 16:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/ru/>\n"
@@ -291,8 +291,11 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:180
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_laser_vulcan\"]"
 msgstr ""
-"FM: это КОМПОНЕНТ для ковки ионной гатлинг-пушки Веста[30-60~], также вам понадобится другой КОМПОНЕНТ в виде Зарядного иона мод. I ИЛИ Зарядного иона мод. II.\n"
-"FM: это КОМПОНЕНТ для ковки гатлинг-пушки Адская вспышка[30~], также вам понадобится другой КОМПОНЕНТ в виде Огневика."
+"FM: это КОМПОНЕНТ для ковки ионной гатлинг-пушки Веста[30-60~], также вам "
+"понадобится другой КОМПОНЕНТ в виде Зарядного иона мод. I ИЛИ Зарядного иона "
+"мод. II.\n"
+"FM: это КОМПОНЕНТ для ковки гатлинг-пушки Адская вспышка[30~], также вам "
+"понадобится другой КОМПОНЕНТ в виде Поджигателя."
 
 #: src-en/data/text_misc.xml.append:185
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_ion_charger_1\"]"
