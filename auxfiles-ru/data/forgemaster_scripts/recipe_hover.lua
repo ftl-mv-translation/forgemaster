@@ -44,7 +44,7 @@ local function get_cost_string(costs)
     end
     return table.concat(ret,", ")
 end
-local any_phatom = {"phantom_goul","phantom","phantom_mare","phantom_wraith",displayName="[РЕДАКТИРОВАТЬ]"}
+local any_phatom = {"phantom_goul","phantom","phantom_mare","phantom_wraith",displayName="[ОТРЕДАКТИРОВАНО]"}
 local any_AC_1 = {
     "GB_AC_1",
     "GB_AC_1_CASELESS",
@@ -99,7 +99,7 @@ mods.Forgemaster.recipes = {
     FM_PHASER_SUFFOCATION = {
         {
             costs = 55,
-            {"lanius",displayName="[РЕДАКТИРОВАТЬ]"},
+            {"lanius",displayName="[ОТРЕДАКТИРОВАНО]"},
             "ION_PIERCE_2",
         }
     },
@@ -257,7 +257,7 @@ mods.Forgemaster.recipes = {
     FM_BEAM_GUILLOTINE_CHAIN = {
         { 
             costs = {110,2,5},
-            {"NANOBOT_DEFENSE_SYSTEM","LOCKED_NANOBOT_DEFENSE_SYSTEM", displayName = "[Редактировать]"},
+            {"NANOBOT_DEFENSE_SYSTEM","LOCKED_NANOBOT_DEFENSE_SYSTEM", displayName = "[ОТРЕДАКТИРОВАНО]"},
 			{"BEAM_GUILLOTINE"},
 		}
     },
@@ -776,7 +776,7 @@ mods.Forgemaster.reload_recipes()
 -- Write FM forging tips
 local function weapon_title_from_name(name)
     local ret = Hyperspace.Blueprints:GetWeaponBlueprint(name):GetNameShort()
-    if string.len(ret) == 0 then return "[РЕДАКТИРОВАТЬ]" end
+    if string.len(ret) == 0 then return "[ОТРЕДАКТИРОВАНО]" end
     return ret
 end
 -- taking in 
