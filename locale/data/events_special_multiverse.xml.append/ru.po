@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 05:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-06-12 17:50+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_multiversexmlappend/ru/>\n"
 "Language: ru\n"
@@ -154,7 +154,7 @@ msgid ""
 "append:choice[4]/event/text"
 msgstr ""
 "Уэйксон некоторое время молча стоит. \"Почему Ренегаты ТАКИЕ... Я ОДАРЮ вас "
-"БЛАГОСЛОВЕНИЕМ ИСКАЖЕНИЯ несмотря ни на что. Но будьте ТЕРПЕЛИВЫ. Это не "
+"БЛАГОСЛОВЕНИЕМ ИСКАЖЕНИЯ несмотря ни на что. Но имейте ТЕРПЕНИЕ. Это не "
 "сейчас, а ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:86
