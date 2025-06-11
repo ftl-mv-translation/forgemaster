@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 16:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-12 17:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -8217,7 +8217,7 @@ msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_LANIUS_EXTRA_REWARDS\"]/event[2]/text"
 msgstr ""
 "Хотя корабли ланиусов почти всегда находятся в вакууме, на этом корабле "
-"царит еще большая тишина, чем можно было бы ожидать. На борту нету ничего "
+"царит еще большая тишина, чем можно было бы ожидать. На борту нет ничего "
 "ценного, кроме удивительно качественного лома в столовой."
 
 #: src-en/data/events_special_storage.xml.append:7559
@@ -8225,7 +8225,7 @@ msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"ABC_LANIUS_EXTRA_REWARDS\"]/event[3]/text"
 msgstr ""
 "Хотя корабли ланиусов почти всегда находятся в вакууме, на этом корабле "
-"царит еще большая тишина, чем можно было бы ожидать. На борту нету ничего "
+"царит еще большая тишина, чем можно было бы ожидать. На борту нет ничего "
 "ценного, кроме удивительно качественного лома в столовой."
 
 #: src-en/data/events_special_storage.xml.append:7569
