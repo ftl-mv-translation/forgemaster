@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 16:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-12 17:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -6496,7 +6496,7 @@ msgstr "Дажьбог"
 #: src-en/data/blueprints.xml.append:11815
 msgid "data/blueprints.xml.append$/dummyroot/FTL[14]/droneBlueprint[16]/desc"
 msgstr ""
-"Этот дрон быстро испепелит вражеский корабль, при условии, что у него нету "
+"Этот дрон быстро испепелит вражеский корабль, при условии, что у него нет "
 "щитов, способных его остановить."
 
 #: src-en/data/blueprints.xml.append:11829
