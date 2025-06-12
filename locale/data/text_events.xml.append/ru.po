@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-09 16:50+0000\n"
+"PO-Revision-Date: 2025-06-13 19:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_eventsxmlappend/ru/>\n"
@@ -715,7 +715,9 @@ msgstr ""
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_FIRE_HEART\"]"
 msgstr ""
 "Встроить Металлическое огненное сердце...\n"
-"  [Разжигай пожары, почувствуй жар!\" Все нормальные члены экипажа ланиусов исцеляются от огня со скоростью 3 ОЗ/с, медленнее поглощают кислород (на 70% медленнее) и наносят на 20% меньше боевого урона]"
+"  [\"Разжигай пожары, почувствуй жар!\" Все нормальные члены экипажа "
+"ланиусов исцеляются от огня со скоростью 3 ОЗ/с, медленнее поглощают "
+"кислород (на 70% медленнее) и наносят на 20% меньше боевого урона]"
 
 #: src-en/data/text_events.xml.append:141
 msgid "data/text_events.xml.append$//text[@name=\"text_GET_GOZER_FRIDGE\"]"
