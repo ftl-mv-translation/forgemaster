@@ -129,7 +129,7 @@ mods.Forgemaster.recipes = {
 
     FM_LASER_ION_MEGA = {
         {
-            costs = {110, 5},
+            costs = {100, 15},
             "LASER_PIERCE_2",
             "BOMB_ION",
         }
