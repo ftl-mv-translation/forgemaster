@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-12 17:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-06-16 11:59+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
 "Language: ru\n"
@@ -518,9 +518,9 @@ msgid ""
 msgstr ""
 "Алестер отключает оружие и снова вызывает вас. \"Ты действительно умеешь "
 "стоять на своем, мальчик! За твои доблестные усилия я награждаю тебя "
-"огромной добычей, а также орудие из моей собственной кузницы! Алестер "
-"телепортирует несколько ящиков с ресурсами, а также орудие из своей кузницы."
-" \"И позволь мне подлатать твой корпус, мальчик! Отличная битва!\" Алестер "
+"огромной добычей, а также орудие из моей собственной кузницы!\" Алестер "
+"телепортирует несколько ящиков с ресурсами, а также орудие из своей кузницы. "
+"\"И позволь мне подлатать твой корпус, мальчик! Отличная битва!\" Алестер "
 "отправляет на ваш корабль нескольких Пластинчатых, которые быстро "
 "ремонтируют корпус и доставляют несколько ящиков с ресурсами..."
 
@@ -614,7 +614,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:456
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION\"]/choice/event/choice[1]/text"
-msgstr "Спаси орудие!"
+msgstr "Спасти орудие!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:460
 msgid ""
@@ -696,7 +696,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:525
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_DESTRUCTION_CREW\"]/choice/event/choice[1]/text"
-msgstr "Спаси орудие!"
+msgstr "Спасти орудие!"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:529
 msgid ""
