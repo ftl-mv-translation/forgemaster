@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-12 17:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-06-16 11:59+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -165,7 +165,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:627
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED1_2\"]/class"
-msgstr "Искаженные Ренегаты-Вестники Заката"
+msgstr "Искаж. Ренегаты-Вестники Заката"
 
 #: src-en/data/blueprints.xml.append:628
 msgid ""
@@ -289,7 +289,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED3_3\"]/class"
-msgstr "Искаженные Ренегаты-Затерянные Солнца"
+msgstr "Искаж. Ренегаты-Затер. Солнца"
 
 #: src-en/data/blueprints.xml.append:1193
 msgid ""
@@ -310,7 +310,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4\"]/class"
-msgstr "Искаженные Ренегаты Клептократии"
+msgstr "Искаж. Ренегаты Клептократии"
 
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
@@ -340,7 +340,7 @@ msgstr "Ошибка отображения"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/desc"
 msgstr ""
-"[Стелс] <корабль>, оснащенный <лазерным> оружием и одним <лучевым> оружием, "
+"[Стелс] корабль, оснащенный лазерным оружием и одним лучевым оружием, "
 "которое становится сильнее с каждым выстрелом, но оно [ОШИБКА 403], так что "
 "будьте осторожны."
 
@@ -441,7 +441,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1825
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED6_2\"]/class"
-msgstr "Искаженные Ренегаты Федерации"
+msgstr "Искаж. Ренегаты Федерации"
 
 #: src-en/data/blueprints.xml.append:1826
 msgid ""
@@ -476,7 +476,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1978
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED7\"]/class"
-msgstr "Искаженные Ренегаты-кристаллины"
+msgstr "Искаж. Ренегаты-кристаллины"
 
 #: src-en/data/blueprints.xml.append:1979
 msgid ""
