@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-12 17:50+0000\n"
+"PO-Revision-Date: 2025-06-22 11:46+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_multiversexmlappend/ru/>\n"
@@ -59,8 +59,8 @@ msgid ""
 msgstr ""
 "\"Броня - для защиты! Защиты! Но -это- нечто [большее]! Кто-то снабдил вас "
 "х-х-х-хитроумным приспособлением, чтобы прятаться за ним! Для [адаптации] и "
-"защиты: я д-д-д-дарую Дар бронирования! Дар бронирования! Сохраните его - "
-"для будущего!\""
+"защиты: я д-д-д-дарую Дар бронирования! Дар бронирования! Сохраните его - на "
+"будущее!\""
 
 #: src-en/data/events_special_multiverse.xml.append:32
 msgid ""
