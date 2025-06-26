@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-07 16:50+0000\n"
+"PO-Revision-Date: 2025-06-27 12:25+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_miscxmlappend/fr/>\n"
@@ -1010,7 +1010,7 @@ msgstr ""
 "Astuce : Les drones conservateurs ne consomment pas d'énergie, mais ne "
 "peuvent pas être désactivés une fois activés.\n"
 "MF : Composant permettant de forger le drone CURA, aux côtés des autres "
-"COMPOSANTS que sont le drone de combat MK I et le Drone d'interface."
+"COMPOSANTS que sont le drone de combat MK I et le Drone Manager."
 
 #: src-en/data/text_misc.xml.append:514
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_battletog\"]"
@@ -1029,7 +1029,7 @@ msgstr ""
 "attaquent tant qu'ils sont alimentés. S'ils n'ont pas été détruits, les "
 "pièces de drone seront rendues après le combat.\n"
 "MF : Un COMPOSANT pour forger le Drone CURA, aux côtés des autres COMPOSANTS "
-"Drone de Bataille Conservateur et Drone d'interface."
+"Drone de Bataille Conservateur et Drone Manager."
 
 #: src-en/data/text_misc.xml.append:521
 msgid "data/text_misc.xml.append$//text[@name=\"fm_tip_manning\"]"
