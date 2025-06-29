@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-15 21:02+0000\n"
+"PO-Revision-Date: 2025-06-30 04:39+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_flakjuice.xml:2
 msgid ""
@@ -7831,7 +7831,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:6239
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_SHELL_GUARDIAN\"]/text"
-msgstr "Échanger un Canon à clones [Gardien Coqu] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Guardian Coquille] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:6241
 msgid ""
