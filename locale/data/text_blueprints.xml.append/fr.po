@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"PO-Revision-Date: 2025-06-30 04:39+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datatext_blueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
@@ -368,8 +368,8 @@ msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_desc\"]"
 msgstr ""
 "Les zoltans en ont assez d'être bousculés et traités comme des piles "
-"vivantes. Même s'ils n'ont pas l'expérience des gardiens de la paix, ces "
-"zoltans ont plus d'un tour dans leur sac !"
+"vivantes. Même s'ils n'ont pas l'expérience des Pacificateurs, ces zoltans "
+"ont plus d'un tour dans leur sac !"
 
 #: src-en/data/text_blueprints.xml.append:93
 msgid ""
