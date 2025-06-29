@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-27 12:25+0000\n"
+"PO-Revision-Date: 2025-06-30 04:39+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -8125,12 +8125,12 @@ msgstr "Module de construction résiliente [MAXIMISÉ]"
 #: src-en/data/events_specialfm_forgemaster.xml.append:8022
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[11]/text"
-msgstr "Module de Protocoles Gardien [30~]"
+msgstr "Module de Protocoles Guardian [30~]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8028
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_SHIP\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\"]/text"
-msgstr "Module de Protocoles Gardiens [MAXIMISÉ]"
+msgstr "Module de Protocoles Guardian [MAXIMISÉ]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8032
 msgid ""
@@ -8358,19 +8358,19 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_GUARDIAN\"]/text"
 msgstr ""
-"Installer les Protocoles Gardiens ? [L'équipage subit 13 % de Dégâts en "
+"Installer les Protocoles Guardian ? [L'équipage subit 13 % de Dégâts en "
 "moins sur votre vaisseau, 5 peuvent être installés, utilise 1 cran "
 "d'amélioration]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8243
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_GUARDIAN\"]/choice[1]/text"
-msgstr "Installer les protocoles Guardiens."
+msgstr "Installer les protocoles Guardians."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8245
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULE_GUARDIAN\"]/choice[1]/event/text"
-msgstr "Les protocoles gardiens ont été installés !"
+msgstr "Les protocoles Guardian ont été installés !"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:8252
 msgid ""
@@ -11657,14 +11657,14 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens [à bord : l'équipage subit -13% de dégâts]"
+"Module de Protocoles Guardian [à bord : l'équipage subit -13% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10807
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x2) "
+"Module de Protocoles Guardian(x2) "
 "[à bord : l'équipage subit -24.31% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10811
@@ -11672,7 +11672,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"3\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x3) "
+"Module de Protocoles Guardian(x3) "
 "[à bord : l'équipage subit -34.15% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10815
@@ -11680,7 +11680,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"4\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x4) "
+"Module de Protocoles Guardian(x4) "
 "[à bord : l'équipage subit -42.71% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10819
@@ -11688,7 +11688,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"5\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x5) "
+"Module de Protocoles Guardian(x5) "
 "[à bord : l'équipage subit -50.158% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10823
@@ -11696,7 +11696,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"6\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x6) "
+"Module de Protocoles Guardian(x6) "
 "[à bord : l'équipage subit -56.637% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10827
@@ -11704,7 +11704,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"7\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x7) "
+"Module de Protocoles Guardian(x7) "
 "[à bord : l'équipage subit -62.275% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10831
@@ -11712,7 +11712,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"8\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x8) "
+"Module de Protocoles Guardian(x8) "
 "[à bord : l'équipage subit -67.179% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10835
@@ -11720,7 +11720,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"9\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x9) "
+"Module de Protocoles Guardian(x9) "
 "[à bord : l'équipage subit -71.446% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10839
@@ -11728,7 +11728,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"10\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x10) "
+"Module de Protocoles Guardian(x10) "
 "[à bord : l'équipage subit -75.158% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10843
@@ -11736,7 +11736,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"11\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x11) "
+"Module de Protocoles Guardian(x11) "
 "[à bord : l'équipage subit -78.387% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10847
@@ -11744,7 +11744,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"12\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x12) "
+"Module de Protocoles Guardian(x12) "
 "[à bord : l'équipage subit -81.197% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10851
@@ -11752,7 +11752,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"13\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x13) "
+"Module de Protocoles Guardian(x13) "
 "[à bord : l'équipage subit -83.641% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10855
@@ -11760,7 +11760,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"14\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x14) "
+"Module de Protocoles Guardian(x14) "
 "[à bord : l'équipage subit -85.768% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10859
@@ -11768,7 +11768,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_GUARDIAN\""
 " and @lvl=\"15\"]/text"
 msgstr ""
-"Module de Protocoles Gardiens(x15) "
+"Module de Protocoles Guardian(x15) "
 "[à bord : l'équipage subit -87.618% de dégâts]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10864
