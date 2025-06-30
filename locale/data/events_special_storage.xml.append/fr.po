@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-30 04:39+0000\n"
+"PO-Revision-Date: 2025-06-30 20:49+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -4982,7 +4982,7 @@ msgid ""
 "append:choice[25]/text"
 msgstr ""
 "(Volley Gun) Changer les munitions chargées pour votre Volley Gun "
-"[Mode actuel : Recycleur, 1 puissance]"
+"[Mode actuel : Recyclage, 1 puissance]"
 
 #: src-en/data/events_special_storage.xml.append:4855
 msgid ""
