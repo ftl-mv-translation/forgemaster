@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 10:28+0000\n"
+"PO-Revision-Date: 2025-07-03 13:46+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_hivexmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_hive.xml.append:8
 msgid ""
@@ -62,8 +62,7 @@ msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/text"
 msgstr ""
-"Expliquer à l'évêque qu'aucune des armes ne fonctionne sur ce tas de "
-"ferraille."
+"Expliquer à l'évêque qu'aucune des armes ne fonctionne sur ce tas d'ordures."
 
 #: src-en/data/events_sector_hive.xml.append:32
 msgid ""
