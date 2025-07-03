@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-01 21:28+0000\n"
+"PO-Revision-Date: 2025-07-04 04:33+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
@@ -6899,7 +6899,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12713
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_FIRE_INVIS\"]/title"
-msgstr "Зажигательный ионный бластер"
+msgstr "Зажигат. ионный бластер"
 
 #: src-en/data/blueprints.xml.append:12714
 msgid ""
@@ -8970,7 +8970,7 @@ msgstr "Теневой лазер"
 
 #: src-en/data/blueprints.xml.append:16825
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/short"
-msgstr "Тенев. лаз."
+msgstr "Теневой"
 
 #: src-en/data/blueprints.xml.append:16827
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/desc"
@@ -8991,7 +8991,7 @@ msgstr "Теневой точечный луч"
 
 #: src-en/data/blueprints.xml.append:16867
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/short"
-msgstr "Тенев. точ."
+msgstr "Теневой"
 
 #: src-en/data/blueprints.xml.append:16868
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW\"]/desc"
@@ -9010,7 +9010,7 @@ msgstr "Теневая осколочная пушка"
 #: src-en/data/blueprints.xml.append:16900
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_SHADOW\"]/short"
-msgstr "Тенев. оск."
+msgstr "Теневой"
 
 #: src-en/data/blueprints.xml.append:16902
 msgid ""
@@ -9031,7 +9031,7 @@ msgstr "Теневой адаптивный точечный луч"
 #: src-en/data/blueprints.xml.append:16950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FOCUS_SHADOW_ADAPT\"]/short"
-msgstr "Т. ад. точ."
+msgstr "Теневой"
 
 #: src-en/data/blueprints.xml.append:16951
 msgid ""
@@ -9052,7 +9052,7 @@ msgstr "Теневой лазер†"
 #: src-en/data/blueprints.xml.append:16985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW_PLAYER\"]/short"
-msgstr "Тенев. лаз.†"
+msgstr "Теневой†"
 
 #: src-en/data/blueprints.xml.append:16987
 msgid ""
