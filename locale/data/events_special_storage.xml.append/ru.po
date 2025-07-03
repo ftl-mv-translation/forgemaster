@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-03 13:46+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-07-04 04:33+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -141,7 +141,7 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_JOURNAL\"]/text"
 msgstr ""
-"Посмотреть на собранные сведения о Кузнеце... (Позволяет вам заново "
+"Вы смотрите на собранные сведения о Кузнеце... (Позволяет вам заново "
 "ознакомиться со сведениями о Кузнеце, которые вы нашли)"
 
 #: src-en/data/events_special_storage.xml.append:239
