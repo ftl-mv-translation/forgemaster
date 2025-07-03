@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-01 00:53+0000\n"
+"PO-Revision-Date: 2025-07-03 13:46+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -2858,7 +2858,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4533
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_CHARGE_SNIPER\"]/tooltip"
-msgstr "Gagne 2 dégâts et 1 percée de bouclier par charge."
+msgstr "Gagne 2 dégâts et 1 perforation de bouclier par charge."
 
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
@@ -3353,7 +3353,7 @@ msgstr ""
 "\n"
 "\t\t\tChances de feu : 100%\n"
 "\t\t\tChances de trou dans la coque : 100 %\n"
-"\t\t\tPerforation de bouclier : 20 (perce également les super-boucliers)\n"
+"\t\t\tPerforation de bouclier : 20 (perfore également les super-boucliers)\n"
 "\n"
 "\t\t\tChance d'affliction : 100%\n"
 "\n"
@@ -3378,7 +3378,7 @@ msgstr ""
 "\n"
 "\t\t\tChances de feu : 100%\n"
 "\t\t\tChances de trou dans la coque : 100%\n"
-"\t\t\tPerforation de bouclier : 20 (perce également les super-boucliers)\n"
+"\t\t\tPerforation de bouclier : 20 (perfore également les super-boucliers)\n"
 "\n"
 "\t\t\tChance d'affliction : 100%\n"
 "\n"
@@ -3460,8 +3460,8 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC\"]/desc"
 msgstr ""
 "Canon à énergie fusionné avec la technologie beyblade, il tire un lourd "
-"disque énergisé qui transperce tous les boucliers et inflige des dégâts à "
-"tout ce qu'il touche, même à l'environnement."
+"disque énergisé qui perfore tous les boucliers et inflige des dégâts à tout "
+"ce qu'il touche, même à l'environnement."
 
 #: src-en/data/blueprints.xml.append:6178
 msgid ""
@@ -5690,7 +5690,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10149
 msgid ""
@@ -5712,7 +5712,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10152
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_PLAYER\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10195
 msgid ""
@@ -5734,7 +5734,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10198
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10241
 msgid ""
@@ -5754,7 +5754,7 @@ msgstr "Si vous lisez ceci, vous avez rendu le Maître des forges très furieux.
 #: src-en/data/blueprints.xml.append:10244
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_MEGA_PISSED\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10284
 msgid ""
@@ -5998,7 +5998,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ION_MISSILES\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10645
 msgid ""
@@ -6020,7 +6020,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANOMALY_MISSILE\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:10695
 msgid ""
@@ -6981,7 +6981,7 @@ msgid ""
 msgstr ""
 "Le laboratoire qui l'a créé a été détruit lors d'un mystérieux accident, "
 "mais les plans ont survécu. Déclenche des tempêtes sensibles de destruction "
-"ionique à chaque impact, transperce tous les boucliers."
+"ionique à chaque impact, perfore tous les boucliers."
 
 #: src-en/data/blueprints.xml.append:12500
 msgid ""
@@ -7962,7 +7962,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ENERGY_DISC_ENEMY\"]/desc"
 msgstr ""
 "Canon à énergie fusionné avec la technologie beyblade, il tire un lourd "
-"disque énergisé qui transperce tous les boucliers et inflige des dommages à "
+"disque énergisé qui perfore tous les boucliers et inflige des dommages à "
 "tout ce qu'il touche, même à l'environnement."
 
 #: src-en/data/blueprints.xml.append:14444
@@ -8594,7 +8594,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15558
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MISSILES_BURST_FIRE_ENEMY\"]/tooltip"
-msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perce tous les boucliers."
+msgstr "Tire 5 missiles ; fait 2 Dégâts chacun ; perfore tous les boucliers.."
 
 #: src-en/data/blueprints.xml.append:15599
 msgid ""
