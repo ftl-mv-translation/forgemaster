@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-18 17:02+0000\n"
+"PO-Revision-Date: 2025-07-08 13:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -728,9 +728,9 @@ msgid ""
 "append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
 "BARRIÈRE CYCLIQUE INFINIE :\n"
-"\t\t\t\t\t15 % de chance pour les projectiles entrants d’être détruits par "
+"\t\t\t\t\t15 % de chance pour les projectiles entrants d'être détruits par "
 "les boucliers. Pour chaque barre non alimentée du système de boucliers, la "
-"chance qu’un projectile ne soit pas détruit est réduite de 15 %. De plus, +"
+"chance qu'un projectile ne soit pas détruit est réduite de 15 %. De plus, +"
 "50 % de recharge des boucliers pour chaque barre non alimentée"
 
 #: src-en/data/hyperspace.xml.append:1879
@@ -740,7 +740,7 @@ msgid ""
 msgstr ""
 "ARSENAL CYCLIQUE INFINI :\n"
 "\t\t\t\t\tLes armes ennemies se chargent 5 % plus lentement, mais se "
-"chargent 15 % plus vite pour chaque barre non alimentée du système d’armement"
+"chargent 15 % plus vite pour chaque barre non alimentée du système d'armement"
 
 #: src-en/data/hyperspace.xml.append:1884
 msgid ""
@@ -758,7 +758,7 @@ msgid ""
 msgstr ""
 "BOUCLIERS PARTICULARISÉS : \n"
 "\t\t\t\t\tLes boucliers ennemis se chargent 50 % plus lentement, mais ils "
-"gagnent 8 couches d’énergie supplémentaires"
+"gagnent 8 couches d'énergie supplémentaires"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
@@ -1141,7 +1141,7 @@ msgstr "BRECHE"
 #: src-en/data/hyperspace.xml.append:5663
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
-msgstr "Prêt : Génère une Brèche et inflige des dégâts à l’équipage."
+msgstr "Prêt : Génère une Brèche et inflige des dégâts à l'équipage."
 
 #: src-en/data/hyperspace.xml.append:5735
 msgid ""
@@ -1222,7 +1222,7 @@ msgid ""
 msgstr ""
 "Prêt : Inflige 50 dégâts à tous les ennemis dans la salle pendant 5 "
 "secondes, avec une furie dévastatrice de coups. La vitesse de déplacement "
-"est multipliée par 9 pendant toute la durée de l’effet."
+"est multipliée par 9 pendant toute la durée de l'effet."
 
 #: src-en/data/hyperspace.xml.append:7444
 msgid ""
@@ -1255,9 +1255,9 @@ msgstr "DÉCHARGE"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/tooltip"
 msgstr ""
-"Automatique : Déchaîne périodiquement une décharge d’énergie, soignant tous "
-"les alliés des deux vaisseaux de 20pv et infligeant 10pv de dégâts à tout l’"
-"équipage ennemi."
+"Automatique : Déchaîne périodiquement une décharge d'énergie, soignant tous "
+"les alliés des deux vaisseaux de 20pv et infligeant 10pv de dégâts à tout "
+"l'équipage ennemi."
 
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
