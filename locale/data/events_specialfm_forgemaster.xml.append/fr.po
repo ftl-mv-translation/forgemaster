@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 13:50+0000\n"
+"PO-Revision-Date: 2025-07-18 20:17+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -375,8 +375,8 @@ msgstr "Se rendre."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FORGEMASTER_SPARE\"]/choice[1]/event/text"
 msgstr ""
-"Alastair baisse la puissance de ses armes. \"Allez mon garçon, faisons comme "
-"si rien ne s'était passé.\""
+"Alastair baisse la puissance de ses armes. "
+"\"Allez mon garçon, faisons comme si rien ne s'était passé.\""
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:244
 msgid ""
