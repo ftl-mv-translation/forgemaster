@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-22 11:15+0000\n"
+"PO-Revision-Date: 2025-07-08 13:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_sector_gatheringxmlappend/fr/>\n"
@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_gathering.xml.append:3
 msgid ""
 "data/events_sector_gathering.xml.append$//mod:findName[@name=\"ORCHID_KERNEL_FOREST\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Vous souffrez d’une allergie au pollen et vous jurez que cette planète a "
-"plus de pollen que d’air. Il est temps de tout brûler."
+"Vous souffrez d'une allergie au pollen et vous jurez que cette planète a "
+"plus de pollen que d'air. Il est temps de tout brûler."
 
 #: src-en/data/events_sector_gathering.xml.append:5
 msgid ""
