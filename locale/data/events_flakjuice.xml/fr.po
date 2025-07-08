@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-30 04:39+0000\n"
+"PO-Revision-Date: 2025-07-08 13:50+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_flakjuicexml/fr/>\n"
@@ -4095,7 +4095,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:3251
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"LASER_FIRE_SPECIAL\"]/text"
-msgstr "Échanger une \"Boîte d’allumettes\" contre 18 points Flak spéciale"
+msgstr "Échanger une \"Boîte d'allumettes\" contre 18 points Flak spéciale"
 
 #: src-en/data/events_flakjuice.xml:3253
 msgid ""
