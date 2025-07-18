@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-18 20:15+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/forgemaster/dataevents_special_storagexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
@@ -6910,7 +6917,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[5]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6908
 msgid ""
@@ -6920,7 +6928,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[6]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6918
 msgid ""
@@ -6930,7 +6939,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6920
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[7]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6929
 msgid ""
@@ -6958,7 +6968,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[11]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6952
 msgid ""
@@ -6968,7 +6979,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[12]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6962
 msgid ""
@@ -6978,7 +6990,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:6964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[13]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:6973
 msgid ""
@@ -7006,7 +7019,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[17]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7030
 msgid ""
@@ -7016,7 +7030,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7032
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[18]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7040
 msgid ""
@@ -7026,7 +7041,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[19]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7051
 msgid ""
@@ -7054,7 +7070,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7066
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[23]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7074
 msgid ""
@@ -7064,7 +7081,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[24]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7084
 msgid ""
@@ -7074,7 +7092,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7086
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[25]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7095
 msgid ""
@@ -7102,7 +7121,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[29]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7118
 msgid ""
@@ -7112,7 +7132,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[30]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7128
 msgid ""
@@ -7122,7 +7143,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[31]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7139
 msgid ""
@@ -7150,7 +7172,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[35]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7162
 msgid ""
@@ -7160,7 +7183,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[36]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7172
 msgid ""
@@ -7170,7 +7194,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[37]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7183
 msgid ""
@@ -7198,7 +7223,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[41]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7206
 msgid ""
@@ -7208,7 +7234,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[42]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7216
 msgid ""
@@ -7218,7 +7245,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[43]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7227
 msgid ""
@@ -7228,7 +7256,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7237
 msgid ""
@@ -7238,7 +7267,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7247
 msgid ""
@@ -7248,7 +7278,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_2_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7257
 msgid ""
@@ -7258,7 +7289,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7267
 msgid ""
@@ -7268,7 +7300,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7277
 msgid ""
@@ -7278,7 +7311,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7279
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_3_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7287
 msgid ""
@@ -7288,7 +7322,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7297
 msgid ""
@@ -7298,7 +7333,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7307
 msgid ""
@@ -7308,7 +7344,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_4_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7317
 msgid ""
@@ -7318,7 +7355,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7327
 msgid ""
@@ -7328,7 +7366,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7337
 msgid ""
@@ -7338,7 +7377,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_5_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7347
 msgid ""
@@ -7348,7 +7388,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7349
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7357
 msgid ""
@@ -7358,7 +7399,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7367
 msgid ""
@@ -7368,7 +7410,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_6_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7377
 msgid ""
@@ -7378,7 +7421,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_1\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7387
 msgid ""
@@ -7388,7 +7432,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_2\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7397
 msgid ""
@@ -7398,7 +7443,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[@req=\"FM_BOSS_7_3\"]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7409
 msgid ""
@@ -7408,7 +7454,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7411
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[62]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7419
 msgid ""
@@ -7418,7 +7465,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7421
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[63]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7429
 msgid ""
@@ -7428,7 +7476,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[64]/event/text"
-msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后面跟着一串坐标表示它起作用了。"
+msgstr "你把机器的电源调到最大，看着裂隙打开，摇晃飞船，直到它突然关机，闪烁的绿灯后"
+"面跟着一串坐标表示它起作用了。"
 
 #: src-en/data/events_special_storage.xml.append:7447
 msgid ""
@@ -9256,7 +9305,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "你隐秘地部署弹药，为叛军设置了一处陷阱。这绝对是非法的，但在事发时你早已消失踪影。"
+msgstr "你隐秘地部署弹药，为叛军设置了一处陷阱。这绝对是非法的，但在事发时你早已消失"
+"踪影。"
 
 #: src-en/data/events_special_storage.xml.append:9281
 msgid ""
@@ -9292,7 +9342,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice[2]/event/text"
-msgstr "你隐秘地部署弹药，为叛军设置了一处陷阱。这绝对是非法的，但在事发时你早已消失踪影。"
+msgstr "你隐秘地部署弹药，为叛军设置了一处陷阱。这绝对是非法的，但在事发时你早已消失"
+"踪影。"
 
 #: src-en/data/events_special_storage.xml.append:9310
 msgid ""
