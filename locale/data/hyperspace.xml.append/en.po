@@ -1188,6 +1188,63 @@ msgstr ""
 "Automatic: Occasionally surges with energy, healing all allies on both ships"
 " for 20 hp, and damaging all enemy crew for 10hp."
 
+#: src-en/data/hyperspace.xml.append:8080
+msgid "data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER\"]/tooltipName"
+msgstr "Fire Intruder"
+
+#: src-en/data/hyperspace.xml.append:8087
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/tooltipName"
+msgstr "Fire Intruder"
+
+#: src-en/data/hyperspace.xml.append:8094
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_BATTLE\"]/tooltipName"
+msgstr "Ancalagon Warbringer"
+
+#: src-en/data/hyperspace.xml.append:8101
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_DEFEND\"]/tooltipName"
+msgstr "Ancalagon Warbringer"
+
+#: src-en/data/hyperspace.xml.append:8108
+msgid "data/hyperspace.xml.append$//drone[@name=\"MANNING_ENEMY_2\"]/tooltipName"
+msgstr "Manager Drone"
+
+#: src-en/data/hyperspace.xml.append:8115
+msgid "data/hyperspace.xml.append$//drone[@name=\"TWISTED_MENDER\"]/tooltipName"
+msgstr "Twisted Mender"
+
+#: src-en/data/hyperspace.xml.append:8123
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BATTLE\"]/tooltipName"
+msgstr "Twisted Yin Yang Drone"
+
+#: src-en/data/hyperspace.xml.append:8127
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BOARDER\"]/tooltipName"
+msgstr "Twisted Yin Yang Drone"
+
+#: src-en/data/hyperspace.xml.append:8134
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BATTLE\"]/tooltipName"
+msgstr "Twisted Surgeon Drone"
+
+#: src-en/data/hyperspace.xml.append:8138
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BOARDER\"]/tooltipName"
+msgstr "Twisted Surgeon Drone"
+
+#: src-en/data/hyperspace.xml.append:8145
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/tooltipName"
+msgstr "Twisted Battle Drone Mk II"
+
+#: src-en/data/hyperspace.xml.append:8149
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/tooltipName"
+msgstr "Twisted Battle Drone Mk II"
+
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/buttonText"

@@ -1,22 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/forgemaster/"
-"dataevents_sector_harmonyxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_harmony.xml.append:9
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/text"
-msgstr "이 구조 신호는 엔지 선박의 것이지만, 보기에는 딱히 위험에 처한 것 같지 "
-"않습니다."
+msgstr "이 구조 신호는 엔지 선박의 것이지만, 보기에는 딱히 위험에 처한 것 같지 않습니다."
 
 #: src-en/data/events_sector_harmony.xml.append:12
 msgid ""
@@ -27,10 +19,9 @@ msgstr "엔지에게 연락해 뭐가 문제인지 알아본다."
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/text"
 msgstr ""
-"보라색 파티 모자를 쓴 한 엔지가 스크린에 나타납니다. 그의 뒤편으론 색색의 "
-"조명들이 화려하게 번쩍이며, 몇몇 슬러그들이 춤을 추고 있습니다. "
-"\"인사 개시. 연구 목적: '잘 노는 법'에 대한 지식 획득. 요청: 더 큰 희열을 위"
-"한 정신 착란제, 슬러그 방문객들이 추천해 줌.\""
+"보라색 파티 모자를 쓴 한 엔지가 스크린에 나타납니다. 그의 뒤편으론 색색의 조명들이 화려하게 번쩍이며, 몇몇 슬러그들이 춤을 추고 "
+"있습니다. \"인사 개시. 연구 목적: '잘 노는 법'에 대한 지식 획득. 요청: 더 큰 희열을 위한 정신 착란제, 슬러그 방문객들이 "
+"추천해 줌.\""
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
@@ -41,10 +32,8 @@ msgstr "(이온 무기) 한 발 먹여주자."
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/event/text"
 msgstr ""
-"엔지는 꼭두각시 인형처럼 격렬하게 몸을 떨었습니다. 몇 분 뒤 스크린을 "
-"번쩍이며 정신을 차린 엔지는 아주아주 느리게 말하기 시작합니다. "
-"\"고오오오오오오마아압다아아아. 이이이이이거어언 개애애애쩌어어언다아아아아. "
-"보오오오오사아앙 주우우우우우운다아아.\""
+"엔지는 꼭두각시 인형처럼 격렬하게 몸을 떨었습니다. 몇 분 뒤 스크린을 번쩍이며 정신을 차린 엔지는 아주아주 느리게 말하기 시작합니다. "
+"\"고오오오오오오마아압다아아아. 이이이이이거어언 개애애애쩌어어언다아아아아. 보오오오오사아앙 주우우우우우운다아아.\""
 
 #: src-en/data/events_sector_harmony.xml.append:23
 msgid ""
@@ -55,10 +44,8 @@ msgstr "(맨티스 페로몬) 함선에 페로몬을 살포한다."
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
-"점차 퍼져나가는 페로몬은... 확실히 이들에게 영향을 주었습니다. 어쩌면 너무 "
-"많이 준 걸지도 모르겠네요. 슬러그들은 벽을 기어 올라가려 하고, 엔지들은 "
-"드론을 껴안고 있습니다. 그들이 정신 못 차리는 틈을 타 당신은 함선 바깥쪽에서 "
-"쓸만한 것을 몇 개 챙깁니다."
+"점차 퍼져나가는 페로몬은... 확실히 이들에게 영향을 주었습니다. 어쩌면 너무 많이 준 걸지도 모르겠네요. 슬러그들은 벽을 기어 올라가려"
+" 하고, 엔지들은 드론을 껴안고 있습니다. 그들이 정신 못 차리는 틈을 타 당신은 함선 바깥쪽에서 쓸만한 것을 몇 개 챙깁니다."
 
 #: src-en/data/events_sector_harmony.xml.append:30
 msgid ""
@@ -69,9 +56,8 @@ msgstr "(오키드 선원) 오키드가 그들에게 마법을 쓰도록 허락�
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
 msgstr ""
-"오키드는 남들을 \"멍하게\" 만들 수 있는 특별한 능력을 가지고 있습니다. "
-"효과가 확실했는지 슬러그와 엔지는 아주 이상하게 행동하기 시작합니다. 그들은 "
-"당신의 \"도움\"에 값을 치릅니다."
+"오키드는 남들을 \"멍하게\" 만들 수 있는 특별한 능력을 가지고 있습니다. 효과가 확실했는지 슬러그와 엔지는 아주 이상하게 행동하기 "
+"시작합니다. 그들은 당신의 \"도움\"에 값을 치릅니다."
 
 #: src-en/data/events_sector_harmony.xml.append:37
 msgid ""
@@ -82,11 +68,9 @@ msgstr "(집사 드론) 최대 출력으로."
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/event/text"
 msgstr ""
-"이건 그들이 바랐던 바는 아니었지만, 아무도 불평하지 않았습니다. 집사 드론은 "
-"슬러그와 엔지의 수많은 요구 사항을 알아채는 족족 처리해 주었습니다. 집사는 "
-"점점 더 격렬하게 봉사했고, 얼마 안 가 그들은 도저히 버틸 수 없는 지경에 "
-"이르렀습니다. 그들은 모두 다 기절하기 전에 당신의 \"도움\"에 감사하며 정중히 "
-"보답을 건넸습니다."
+"이건 그들이 바랐던 바는 아니었지만, 아무도 불평하지 않았습니다. 집사 드론은 슬러그와 엔지의 수많은 요구 사항을 알아채는 족족 처리해 "
+"주었습니다. 집사는 점점 더 격렬하게 봉사했고, 얼마 안 가 그들은 도저히 버틸 수 없는 지경에 이르렀습니다. 그들은 모두 다 기절하기 "
+"전에 당신의 \"도움\"에 감사하며 정중히 보답을 건넸습니다."
 
 #: src-en/data/events_sector_harmony.xml.append:44
 msgid ""
@@ -101,8 +85,7 @@ msgstr "무시한다."
 #: src-en/data/events_sector_harmony.xml.append:52
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/text"
-msgstr "엔지가 아직 구조 신호를 끄지 않은 것일 뿐 위협은 이미 사라진 후였습니다. "
-"당신은 가던 길을 갑니다."
+msgstr "엔지가 아직 구조 신호를 끄지 않은 것일 뿐 위협은 이미 사라진 후였습니다. 당신은 가던 길을 갑니다."
 
 #: src-en/data/events_sector_harmony.xml.append:54
 msgid ""

@@ -68,7 +68,9 @@
         "//droneBlueprint/desc",
         "//augBlueprint/title",
         "//augBlueprint/desc",
-		
+		"//drones/drone/tooltipName",
+        "//shipBlueprint/crew/*/@name",
+
 		// events
         "//text",
         "//tooltip",

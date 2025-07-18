@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:16+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
-"dataevents_twistedxml/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_twisted.xml:2
 msgid "data/events_twisted.xml$//textList[@name=\"TEXT_START_TWISTED\"]/text"
@@ -21,8 +14,8 @@ msgstr ""
 "plusieurs prototypes de munitions de déstabilisation du multivers à des "
 "endroits aléatoires à l'intérieur. Vous devriez pouvoir appeler ces "
 "individus \"Déformés\" directement vers vous si vous le souhaitez à ces "
-"endroits. Ce n'était pas donné, et je ne t'autorise à venir ici qu'une seule "
-"fois, alors ne me déçois pas, Renégat."
+"endroits. Ce n'était pas donné, et je ne t'autorise à venir ici qu'une seule"
+" fois, alors ne me déçois pas, Renégat."
 
 #: src-en/data/events_twisted.xml:14
 msgid "data/events_twisted.xml$//event[@name=\"FM_START_TWISTED\"]/choice/text"
@@ -99,11 +92,8 @@ msgstr ""
 msgid ""
 "data/events_twisted.xml$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST_SECTOR\"]/text"
 msgstr ""
-"Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Pour "
-"chaque série de 3 vaisseaux vaincus, 3 autres deviendront disponibles pour "
-"le défi. Invoquer un boss Déformé MV coûtera 2{.\n"
-"\tNOTE : Les technologies spéciales récupérées sur ces Renégats ne pourront "
-"pas être cumulées."
+"Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Pour chaque série de 3 vaisseaux vaincus, 3 autres deviendront disponibles pour le défi. Invoquer un boss Déformé MV coûtera 2{.\n"
+"\tNOTE : Les technologies spéciales récupérées sur ces Renégats ne pourront pas être cumulées."
 
 #: src-en/data/events_twisted.xml:66
 msgid ""

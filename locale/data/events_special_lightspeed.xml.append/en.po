@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/text"
-msgstr "[Forgemaster] Contact Alatsair."
+msgstr "[Forgemaster] Contact Alastair."
 
 #: src-en/data/events_special_lightspeed.xml.append:12
 msgid ""

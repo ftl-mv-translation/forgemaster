@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
-"datahyperspace-xml-append/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -587,12 +580,7 @@ msgid ""
 "append:shipIcons/shipIcon[1]/tooltip"
 msgstr ""
 "ACCÉLÉRATEUR FORGÉ :\n"
-"\t\t\t\t\tL'armure unique de cet ennemi lui confère 25 chances de résister à "
-"TOUS les types de dégâts de vos armes. Les incendies brûlent 50% plus "
-"lentement, scellent les brèches très lentement, réduisent de moitié la "
-"suffocation, et l'équipage répare les systèmes spécifiques significativement "
-"plus vite et la progression des réparations n'est pas perdue en cas "
-"d'interruption (et le pilotage est toujours assuré par un homme)."
+"\t\t\t\t\tL'armure unique de cet ennemi lui confère 25 chances de résister à TOUS les types de dégâts de vos armes. Les incendies brûlent 50% plus lentement, scellent les brèches très lentement, réduisent de moitié la suffocation, et l'équipage répare les systèmes spécifiques significativement plus vite et la progression des réparations n'est pas perdue en cas d'interruption (et le pilotage est toujours assuré par un homme)."
 
 #: src-en/data/hyperspace.xml.append:1801
 msgid ""
@@ -600,11 +588,7 @@ msgid ""
 "append:shipIcons/shipIcon[2]/tooltip"
 msgstr ""
 "LES ROBOTS MÉDICAUX FORGÉS :\n"
-"\t\t\t\t\tCette baie médicale unique soigne tous les membres d'équipage "
-"alliés et leur confère une résistance de 20 % aux dégâts des armes, mais sa "
-"force et sa résistance dépendent de la puissance du système médical. Il "
-"continue de soigner légèrement les membres d'équipage s'il est détruit ou "
-"non alimenté. Les soins de base sont de 1 pv/s, et de 2,5 pv/s à 4 d'énergie."
+"\t\t\t\t\tCette baie médicale unique soigne tous les membres d'équipage alliés et leur confère une résistance de 20 % aux dégâts des armes, mais sa force et sa résistance dépendent de la puissance du système médical. Il continue de soigner légèrement les membres d'équipage s'il est détruit ou non alimenté. Les soins de base sont de 1 pv/s, et de 2,5 pv/s à 4 d'énergie."
 
 #: src-en/data/hyperspace.xml.append:1807
 msgid ""
@@ -612,9 +596,7 @@ msgid ""
 "append:shipIcons/shipIcon[3]/tooltip"
 msgstr ""
 "AUGMENTATION DE LA FAILLE DIMENSIONNELLE :\n"
-"\t\t\t\t\tCe vaisseau utilise une technologie provenant d'une autre "
-"dimension. Si vous parvenez à Battre ce vaisseau dément, vous pourrez vous "
-"approprier une telle technologie !"
+"\t\t\t\t\tCe vaisseau utilise une technologie provenant d'une autre dimension. Si vous parvenez à Battre ce vaisseau dément, vous pourrez vous approprier une telle technologie !"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
@@ -622,9 +604,7 @@ msgid ""
 "append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
 "NANOMACHINES DE TRAUMATISME PHYSIQUE :\n"
-"\t\t\t\t\tLes nanomachines uniques dispensées par les drones d'équipage de "
-"ce vaisseau augmentent la santé et la résistance aux dégâts du capitaine "
-"Engi. Eliminez les drones pour pouvoir éliminer le capitaine Engi !"
+"\t\t\t\t\tLes nanomachines uniques dispensées par les drones d'équipage de ce vaisseau augmentent la santé et la résistance aux dégâts du capitaine Engi. Eliminez les drones pour pouvoir éliminer le capitaine Engi !"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
@@ -632,9 +612,7 @@ msgid ""
 "append:shipIcons/shipIcon[5]/tooltip"
 msgstr ""
 "GOZER LE DESTRUCTEUR :\n"
-"\t\t\t\t\tUtilisant d'étranges capacités de dédoublement, ce vaisseau "
-"\"dédouble\" lentement mais sûrement son équipage, et le rematérialise sur "
-"votre vaisseau. Eliminer leur équipage pour arrêter le vaisseau !"
+"\t\t\t\t\tUtilisant d'étranges capacités de dédoublement, ce vaisseau \"dédouble\" lentement mais sûrement son équipage, et le rematérialise sur votre vaisseau. Eliminer leur équipage pour arrêter le vaisseau !"
 
 #: src-en/data/hyperspace.xml.append:1825
 msgid ""
@@ -642,9 +620,7 @@ msgid ""
 "append:shipIcons/shipIcon[6]/tooltip"
 msgstr ""
 "DISPERSION DES ROBOTUEURS :\n"
-"\t\t\t\t\tCe vaisseau ennemi est rempli de nanobots meurtriers qui "
-"endommageront passivement votre équipage au fil du temps. Le nom donne "
-"l'impression qu'il est beaucoup plus violent qu'il ne l'est."
+"\t\t\t\t\tCe vaisseau ennemi est rempli de nanobots meurtriers qui endommageront passivement votre équipage au fil du temps. Le nom donne l'impression qu'il est beaucoup plus violent qu'il ne l'est."
 
 #: src-en/data/hyperspace.xml.append:1831
 msgid ""
@@ -652,11 +628,7 @@ msgid ""
 "append:shipIcons/shipIcon[7]/tooltip"
 msgstr ""
 "ARMURE CRISTALLINE DÉFORMÉE :\n"
-"\t\t\t\t\tChaque fois que vous infligez des dégâts de coque à cet ennemi "
-"avec vos armes, il y a 50 % de chances que 3x mines cristaliennes se "
-"détachent et volent vers votre vaisseau. Elles transperceront tous les "
-"boucliers et infligeront 1 dégât à une pièce aléatoire si elles touchent, en "
-"plus d'étourdir l'équipage et de verrouiller la pièce."
+"\t\t\t\t\tChaque fois que vous infligez des dégâts de coque à cet ennemi avec vos armes, il y a 50 % de chances que 3x mines cristaliennes se détachent et volent vers votre vaisseau. Elles transperceront tous les boucliers et infligeront 1 dégât à une pièce aléatoire si elles touchent, en plus d'étourdir l'équipage et de verrouiller la pièce."
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
@@ -664,14 +636,8 @@ msgid ""
 "append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
 "PIÈCES RÉSISTANTES, VARIANTE :\n"
-"\t\t\t\t\tCet ennemi possède une ou plusieurs salles résistantes, marquées "
-"par une bordure grise et l'icône R en haut à gauche. Les salles résistantes "
-"ne subissent NORMALEMENT aucun dégât système de la part des armes, mais "
-"peuvent être endommagées par l'équipage et les incendies. Les salles "
-"résistantes subissent les dégâts des ions et de la coque comme d'habitude.\n"
-"\t\t\t\t\tL'icône \"R\" sur la pièce du vaisseau indique ce statut, et en "
-"fonction de l'état de remplissage de l'icône, la pièce est plus susceptible "
-"de résister aux dégâts des armes."
+"\t\t\t\t\tCet ennemi possède une ou plusieurs salles résistantes, marquées par une bordure grise et l'icône R en haut à gauche. Les salles résistantes ne subissent NORMALEMENT aucun dégât système de la part des armes, mais peuvent être endommagées par l'équipage et les incendies. Les salles résistantes subissent les dégâts des ions et de la coque comme d'habitude.\n"
+"\t\t\t\t\tL'icône \"R\" sur la pièce du vaisseau indique ce statut, et en fonction de l'état de remplissage de l'icône, la pièce est plus susceptible de résister aux dégâts des armes."
 
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
@@ -679,11 +645,7 @@ msgid ""
 "append:shipIcons/shipIcon[9]/tooltip"
 msgstr ""
 "PIÈCES FORGÉES ÉNERGISÉES :\n"
-"\t\t\t\t\tCet ennemi dispose d'une ou plusieurs pièces énergisées, "
-"qu'Alastair semble avoir personnalisées. Ces pièces \"énergisées\" sont 50% "
-"plus résistantes au sabotage, et l'équipage ennemi subit 30% de dégâts en "
-"moins lorsqu'il se trouve à l'intérieur. De plus, votre équipage subit 3 "
-"dégâts par seconde dans ces pièces."
+"\t\t\t\t\tCet ennemi dispose d'une ou plusieurs pièces énergisées, qu'Alastair semble avoir personnalisées. Ces pièces \"énergisées\" sont 50% plus résistantes au sabotage, et l'équipage ennemi subit 30% de dégâts en moins lorsqu'il se trouve à l'intérieur. De plus, votre équipage subit 3 dégâts par seconde dans ces pièces."
 
 #: src-en/data/hyperspace.xml.append:1850
 msgid ""
@@ -691,9 +653,7 @@ msgid ""
 "append:shipIcons/shipIcon[10]/tooltip"
 msgstr ""
 "PHÉROMONES STIMULANTES :\n"
-"\t\t\t\t\tCe vaisseau ennemi est rempli de phéromones. Celles-ci confèrent à "
-"l'équipage 1.5x max pv, 20 % de réduction des dégâts et 80 % de résistance à "
-"l'étouffement."
+"\t\t\t\t\tCe vaisseau ennemi est rempli de phéromones. Celles-ci confèrent à l'équipage 1.5x max pv, 20 % de réduction des dégâts et 80 % de résistance à l'étouffement."
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
@@ -701,9 +661,7 @@ msgid ""
 "append:shipIcons/shipIcon[11]/tooltip"
 msgstr ""
 "SYSTÈMES D'ALTÉRATION DE LA RÉALITÉ :\n"
-"\t\t\t\t\tCet ennemi possède une puissante panoplie d'armes et de systèmes, "
-"mais en raison de l'étirement extrême de l'espace-temps, ses systèmes et sa "
-"coque sont endommagés toutes les 15 secondes."
+"\t\t\t\t\tCet ennemi possède une puissante panoplie d'armes et de systèmes, mais en raison de l'étirement extrême de l'espace-temps, ses systèmes et sa coque sont endommagés toutes les 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:1864
 msgid ""
@@ -719,8 +677,7 @@ msgid ""
 "append:shipIcons/shipIcon[13]/tooltip"
 msgstr ""
 "COLLECTEURS DE DÉRIVATION DU COMPRESSEUR :\n"
-"\t\t\t\t\tles armes ennemies se chargent 30 % plus vite, mais leurs "
-"boucliers se chargent 60 % plus lentement"
+"\t\t\t\t\tles armes ennemies se chargent 30 % plus vite, mais leurs boucliers se chargent 60 % plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1874
 msgid ""
@@ -728,10 +685,7 @@ msgid ""
 "append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
 "BARRIÈRE CYCLIQUE INFINIE :\n"
-"\t\t\t\t\t15 % de chance pour les projectiles entrants d'être détruits par "
-"les boucliers. Pour chaque barre non alimentée du système de boucliers, la "
-"chance qu'un projectile ne soit pas détruit est réduite de 15 %. De plus, +"
-"50 % de recharge des boucliers pour chaque barre non alimentée"
+"\t\t\t\t\t15 % de chance pour les projectiles entrants d'être détruits par les boucliers. Pour chaque barre non alimentée du système de boucliers, la chance qu'un projectile ne soit pas détruit est réduite de 15 %. De plus, +50 % de recharge des boucliers pour chaque barre non alimentée"
 
 #: src-en/data/hyperspace.xml.append:1879
 msgid ""
@@ -739,8 +693,7 @@ msgid ""
 "append:shipIcons/shipIcon[15]/tooltip"
 msgstr ""
 "ARSENAL CYCLIQUE INFINI :\n"
-"\t\t\t\t\tLes armes ennemies se chargent 5 % plus lentement, mais se "
-"chargent 15 % plus vite pour chaque barre non alimentée du système d'armement"
+"\t\t\t\t\tLes armes ennemies se chargent 5 % plus lentement, mais se chargent 15 % plus vite pour chaque barre non alimentée du système d'armement"
 
 #: src-en/data/hyperspace.xml.append:1884
 msgid ""
@@ -748,8 +701,7 @@ msgid ""
 "append:shipIcons/shipIcon[16]/tooltip"
 msgstr ""
 "STRUCTURE DE COQUE ÉLECTROMAGNÉTIQUE :\n"
-"\t\t\t\t\t10 % de chance de résister aux dégâts des systèmes, 30 % de chance "
-"de résister aux dégâts ioniques, vitesse de déionisation +50 %"
+"\t\t\t\t\t10 % de chance de résister aux dégâts des systèmes, 30 % de chance de résister aux dégâts ioniques, vitesse de déionisation +50 %"
 
 #: src-en/data/hyperspace.xml.append:1889
 msgid ""
@@ -757,8 +709,7 @@ msgid ""
 "append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
 "BOUCLIERS PARTICULARISÉS : \n"
-"\t\t\t\t\tLes boucliers ennemis se chargent 50 % plus lentement, mais ils "
-"gagnent 8 couches d'énergie supplémentaires"
+"\t\t\t\t\tLes boucliers ennemis se chargent 50 % plus lentement, mais ils gagnent 8 couches d'énergie supplémentaires"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
@@ -766,9 +717,7 @@ msgid ""
 "append:shipIcons/shipIcon[18]/tooltip"
 msgstr ""
 "CALIBREUR D'ORDONNANCE INEFFABLE :\n"
-"\t\t\t\t\tLes armes ennemies se chargent 10 % plus lentement, mais votre "
-"chance de résistance à la coque, aux systèmes et aux ions est réduite de 15 "
-"% et les attaques de brèche gagnent +40 % de Chances de trou dans la coque"
+"\t\t\t\t\tLes armes ennemies se chargent 10 % plus lentement, mais votre chance de résistance à la coque, aux systèmes et aux ions est réduite de 15 % et les attaques de brèche gagnent +40 % de Chances de trou dans la coque"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
@@ -776,8 +725,7 @@ msgid ""
 "append:shipIcons/shipIcon[19]/tooltip"
 msgstr ""
 "ALLUMEUR D'ARMEMENT :\n"
-"\t\t\t\t\tles armes ennemies se chargent 50% plus vite mais la salle d'armes "
-"est enflammée à chaque fois qu'ils tirent"
+"\t\t\t\t\tles armes ennemies se chargent 50% plus vite mais la salle d'armes est enflammée à chaque fois qu'ils tirent"
 
 #: src-en/data/hyperspace.xml.append:1904
 msgid ""
@@ -785,8 +733,7 @@ msgid ""
 "append:shipIcons/shipIcon[20]/tooltip"
 msgstr ""
 "BROUILLEUR OFFENSIF :\n"
-"\t\t\t\t\tVOS armes se chargent 20% plus lentement mais les boucliers "
-"ennemis se rechargent 30% plus lentement"
+"\t\t\t\t\tVOS armes se chargent 20% plus lentement mais les boucliers ennemis se rechargent 30% plus lentement"
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
@@ -794,8 +741,7 @@ msgid ""
 "append:shipIcons/shipIcon[21]/tooltip"
 msgstr ""
 "BROUILLEUR DÉFENSIF :\n"
-"\t\t\t\t\tVOS boucliers se chargent 30% plus lentement et votre système "
-"d'occultation a 5s de plus de temps de recharge"
+"\t\t\t\t\tVOS boucliers se chargent 30% plus lentement et votre système d'occultation a 5s de plus de temps de recharge"
 
 #: src-en/data/hyperspace.xml.append:1914
 msgid ""
@@ -803,8 +749,7 @@ msgid ""
 "append:shipIcons/shipIcon[22]/tooltip"
 msgstr ""
 "SYSTÈME DE RÉPARATION D'URGENCE :\n"
-"\t\t\t\t\tCe vaisseau dispose d'une sorte de système de réparation d'urgence "
-"en cas d'avarie critique de la coque."
+"\t\t\t\t\tCe vaisseau dispose d'une sorte de système de réparation d'urgence en cas d'avarie critique de la coque."
 
 #: src-en/data/hyperspace.xml.append:3105
 msgid ""
@@ -941,8 +886,8 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretDescription"
 msgstr ""
-"Découvrir une future menace multiverselle à bord de n'importe quel modèle de "
-"l' \\1"
+"Découvrir une future menace multiverselle à bord de n'importe quel modèle de"
+" l' \\1"
 
 #: src-en/data/hyperspace.xml.append:4324
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
@@ -993,8 +938,8 @@ msgstr "REFORGE"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement "
-"le Maître des forges et allume des feux."
+"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement"
+" le Maître des forges et allume des feux."
 
 #: src-en/data/hyperspace.xml.append:4970
 msgid ""
@@ -1005,8 +950,8 @@ msgstr "REFORGE"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement "
-"le Maître des forges et allume des feux. Ne subit aucun dégât pendant "
+"Prêt :  Répare 10 dégâts au système et 2 dégâts à la coque. Soigne fortement"
+" le Maître des forges et allume des feux. Ne subit aucun dégât pendant "
 "l'exécution de la capacité."
 
 #: src-en/data/hyperspace.xml.append:5052
@@ -1045,8 +990,7 @@ msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 15s]\n"
-"\t\t\t\t\tFusionner avec un Séparatiste Cobalt dans la même pièce pour "
-"former un Séparatiste Déformé."
+"\t\t\t\t\tFusionner avec un Séparatiste Cobalt dans la même pièce pour former un Séparatiste Déformé."
 
 #: src-en/data/hyperspace.xml.append:5242
 msgid ""
@@ -1070,8 +1014,7 @@ msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 20s]\n"
-"\t\t\t\tSe transforme en Séparatiste de Cobalt, inflige 1 dégât à la coque "
-"et au système, et ouvre une brèche dans la salle actuelle."
+"\t\t\t\tSe transforme en Séparatiste de Cobalt, inflige 1 dégât à la coque et au système, et ouvre une brèche dans la salle actuelle."
 
 #: src-en/data/hyperspace.xml.append:5311
 msgid ""
@@ -1110,8 +1053,7 @@ msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 20s]\n"
-"\t\t\t\tAbsorbe tous les membres d'équipage amicaux dans la pièce, leur "
-"accordant des boosts permanents."
+"\t\t\t\tAbsorbe tous les membres d'équipage amicaux dans la pièce, leur accordant des boosts permanents."
 
 #: src-en/data/hyperspace.xml.append:5527
 msgid ""
@@ -1172,9 +1114,9 @@ msgstr "BOUCLIER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux "
-"tentatives de contrôle mental et réduit les dégâts de suffocation subis par "
-"les alliés proches de 50% pendant 15 secondes."
+"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux"
+" tentatives de contrôle mental et réduit les dégâts de suffocation subis par"
+" les alliés proches de 50% pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:6001
 msgid ""
@@ -1185,8 +1127,8 @@ msgstr "BOUCLIER"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux "
-"tentatives de contrôle mental et réduit les dégâts de feu subis par les "
+"Prêt : subit des dégâts considérablement réduits (80% de moins), résiste aux"
+" tentatives de contrôle mental et réduit les dégâts de feu subis par les "
 "alliés proches de 50% pendant 15 secondes."
 
 #: src-en/data/hyperspace.xml.append:6752
@@ -1208,8 +1150,8 @@ msgstr "SACRIFICE"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
 msgstr ""
-"Prêt : Tue tous les fantômes amis dans la même pièce, en envoyant des copies "
-"sur le vaisseau ennemi"
+"Prêt : Tue tous les fantômes amis dans la même pièce, en envoyant des copies"
+" sur le vaisseau ennemi"
 
 #: src-en/data/hyperspace.xml.append:7236
 msgid ""
@@ -1258,6 +1200,63 @@ msgstr ""
 "Automatique : Déchaîne périodiquement une décharge d'énergie, soignant tous "
 "les alliés des deux vaisseaux de 20pv et infligeant 10pv de dégâts à tout "
 "l'équipage ennemi."
+
+#: src-en/data/hyperspace.xml.append:8080
+msgid "data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8087
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8094
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_BATTLE\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8101
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_DEFEND\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8108
+msgid "data/hyperspace.xml.append$//drone[@name=\"MANNING_ENEMY_2\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8115
+msgid "data/hyperspace.xml.append$//drone[@name=\"TWISTED_MENDER\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8123
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BATTLE\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8127
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BOARDER\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8134
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BATTLE\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8138
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BOARDER\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8145
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/tooltipName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8149
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/tooltipName"
+msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
@@ -1348,8 +1347,8 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
 "Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
-"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
-"et un peu plus."
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes"
+" et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11034
 msgid ""
@@ -1361,8 +1360,8 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
-"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
-"et un peu plus."
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes"
+" et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11076
 msgid ""
@@ -1450,8 +1449,8 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
 msgstr ""
 "Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
-"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
-"et un peu plus."
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes"
+" et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11348
 msgid ""
@@ -1463,8 +1462,8 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "Prêt : Subit 25 dégâts et soigne tous les membres d'équipage amis dans la "
-"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes "
-"et un peu plus."
+"pièce à pleine santé. Régénère lentement la santé perdue pendant 13 secondes"
+" et un peu plus."
 
 #: src-en/data/hyperspace.xml.append:11390
 msgid ""
@@ -1743,7 +1742,8 @@ msgstr "Purifié Purgé"
 #: src-en/data/hyperspace.xml.append:15919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
-msgstr "Battre le renégat C limace déformée pour obtenir le Quasar de Malboro."
+msgstr ""
+"Battre le renégat C limace déformée pour obtenir le Quasar de Malboro."
 
 #: src-en/data/hyperspace.xml.append:15921
 msgid ""
@@ -1766,11 +1766,11 @@ msgid ""
 msgstr ""
 "Battre le Renégat B Furtif Déformé pour obtenir le pour obtenir le pour "
 "obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
-"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir "
-"le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
+"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir"
+" le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
 "obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
-"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir "
-"le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
+"pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir"
+" le pour obtenir le pour obtenir le pour obtenir le pour obtenir le pour "
 "obtenir le pour obtenir le pour obtenir le pour obtenir le pour obtenir le "
 "pour obtenir le pour obtenir le pour obtenir le ... arrêt en cours."
 
@@ -2064,8 +2064,7 @@ msgid ""
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
 msgstr ""
 "Montrez un membre d'équipage Plaqué à Thest. \n"
-"\t\t\t\t\tPendant l'effet ; tous les membres d'équipage Plaqués gagnent +1 "
-"charge de capacité."
+"\t\t\t\t\tPendant l'effet ; tous les membres d'équipage Plaqués gagnent +1 charge de capacité."
 
 #: src-en/data/hyperspace.xml.append:16041
 msgid ""
@@ -2127,8 +2126,7 @@ msgid ""
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
 msgstr ""
 "Montrez une arme forgée à Wakeson. \n"
-"\t\t\t\t\tPendant l'effet ; Le Maître des forges apparaît automatiquement "
-"sans appel."
+"\t\t\t\t\tPendant l'effet ; Le Maître des forges apparaît automatiquement sans appel."
 
 #: src-en/data/hyperspace.xml.append:16065
 msgid ""
@@ -2154,8 +2152,7 @@ msgid ""
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
 msgstr ""
 "Montrez une arme forgée de haute qualité à Wakeson. \n"
-"\t\t\t\t\tPendant l'effet ; Le Maître des forges dispose d'un magasin plus "
-"grand et de meilleure qualité."
+"\t\t\t\t\tPendant l'effet ; Le Maître des forges dispose d'un magasin plus grand et de meilleure qualité."
 
 #: src-en/data/hyperspace.xml.append:16074
 msgid ""
@@ -2181,8 +2178,7 @@ msgid ""
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
 msgstr ""
 "Montrez la technologie Ancalagon à Wakeson. \n"
-"\t\t\t\t\tPendant l'effet ; les cristaux Ancalagon gagnent 50% de résistance "
-"aux dégâts."
+"\t\t\t\t\tPendant l'effet ; les cristaux Ancalagon gagnent 50% de résistance aux dégâts."
 
 #: src-en/data/hyperspace.xml.append:16083
 msgid ""
@@ -2208,9 +2204,7 @@ msgid ""
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
 msgstr ""
 "Montrer le Terminus à Wakeson. \n"
-"\t\t\t\t\tPendant l'effet ; Toutes les statistiques de l'équipage sont "
-"augmentées de 5%, la plupart des statistiques des vaisseaux sont augmentées "
-"de 5%."
+"\t\t\t\t\tPendant l'effet ; Toutes les statistiques de l'équipage sont augmentées de 5%, la plupart des statistiques des vaisseaux sont augmentées de 5%."
 
 #: src-en/data/hyperspace.xml.append:16093
 msgid ""

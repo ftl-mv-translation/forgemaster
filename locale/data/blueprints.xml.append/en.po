@@ -206,6 +206,10 @@ msgstr ""
 "These strange Mantis bear the banner of a land old and forgotten, and carry "
 "a powerful piece of technology from Ancient Britannia."
 
+#: src-en/data/blueprints.xml.append:861
+msgid "data/blueprints.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
+msgstr "Freddy"
+
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
@@ -333,6 +337,18 @@ msgid ""
 msgstr ""
 "A [stealth] ship wielding a laser weapon and single beam weapon that gets "
 "stronger with every time you fire it, but it [ERROR 403] so be careful."
+
+#: src-en/data/blueprints.xml.append:1417
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"ERROR\"]/@name"
+msgstr "ERROR"
+
+#: src-en/data/blueprints.xml.append:1418
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"404\"]/@name"
+msgstr "404"
+
+#: src-en/data/blueprints.xml.append:1419
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"loading...\"]/@name"
+msgstr "loading..."
 
 #: src-en/data/blueprints.xml.append:1428
 msgid ""

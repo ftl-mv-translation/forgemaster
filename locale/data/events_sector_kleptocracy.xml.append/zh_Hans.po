@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/forgemaster/dataevents_sector_kleptocracyxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:9
 msgid ""
@@ -139,8 +132,7 @@ msgstr ""
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//mod:findName[@name=\"DISTRESS_SLOCKNOG_INVESTIGATE\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
-msgstr "\"哦，你真是个意外之喜。我经营这个帝国太久了，以至于几乎忘了这些星云之外的其"
-"他人经常会有的善意...\""
+msgstr "\"哦，你真是个意外之喜。我经营这个帝国太久了，以至于几乎忘了这些星云之外的其他人经常会有的善意...\""
 
 #: src-en/data/events_sector_kleptocracy.xml.append:131
 msgid ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese (Brazil) <https://weblate.hyperq.be/projects/"
-"forgemaster/datablueprintsxmlappend/pt_BR/>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -177,6 +170,10 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/desc"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:861
+msgid "data/blueprints.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:869
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2_2\"]/class"
@@ -280,6 +277,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1350
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1417
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"ERROR\"]/@name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1418
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"404\"]/@name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1419
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"loading...\"]/@name"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:1428

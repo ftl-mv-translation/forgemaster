@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:18+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/forgemaster/dataevents_sector_harmonyxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_harmony.xml.append:9
 msgid ""
@@ -27,9 +20,7 @@ msgstr "呼叫他们，问发生什么事了。"
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/text"
 msgstr ""
-"一个戴着紫色派对帽的半械族出现在屏幕上。在他的背景中，你看到几只蛞蝓族在高频"
-"闪烁的五彩灯光里热舞。\"向你问候。探究：了解如何\"狠狠聚会\""
-"。需求：蛞蝓族游客们推荐，需要可影响心灵以获取满足感的物质。\""
+"一个戴着紫色派对帽的半械族出现在屏幕上。在他的背景中，你看到几只蛞蝓族在高频闪烁的五彩灯光里热舞。\"向你问候。探究：了解如何\"狠狠聚会\"。需求：蛞蝓族游客们推荐，需要可影响心灵以获取满足感的物质。\""
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
@@ -40,9 +31,7 @@ msgstr "(离子武器)电击这个半械族，效果应该也差不多。"
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/event/text"
 msgstr ""
-"半械族像木偶一样挥舞着肢体。几分钟后，当它重新获得对自己肢体的控制时，它脸上"
-"屏幕的颜色开始快速闪烁，而且语速变得极为缓慢。"
-"\"戈——安——谢。只——额——非常：酷——。接尸——欧——补尺——昂——。\""
+"半械族像木偶一样挥舞着肢体。几分钟后，当它重新获得对自己肢体的控制时，它脸上屏幕的颜色开始快速闪烁，而且语速变得极为缓慢。\"戈——安——谢。只——额——非常：酷——。接尸——欧——补尺——昂——。\""
 
 #: src-en/data/events_sector_harmony.xml.append:23
 msgid ""
@@ -53,9 +42,7 @@ msgstr "(螳螂信息素)将信息素散布到他们的舰船上。"
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
-"信息素的稳定分布肯定对船员们造成了些...影响。但你可能给了他们太多信息素，现在"
-"那些蛞蝓族正试图爬上墙壁，而半械族正在拥抱无人机。趁他们分心时，你搜刮了他们"
-"舰船的一些外部区域。"
+"信息素的稳定分布肯定对船员们造成了些...影响。但你可能给了他们太多信息素，现在那些蛞蝓族正试图爬上墙壁，而半械族正在拥抱无人机。趁他们分心时，你搜刮了他们舰船的一些外部区域。"
 
 #: src-en/data/events_sector_harmony.xml.append:30
 msgid ""
@@ -66,9 +53,7 @@ msgstr "(兰花族船员)让你的兰花族船员给他们施点魔法。"
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
 msgstr ""
-"兰花族具有一种独特的能力，可以让其他人进入一种...\"茫然\""
-"的状态。这在那些蛞蝓族和半械族身上效果显著，他们开始表现得非常奇怪。"
-"他们为你提供的\"帮助\"支付了报酬。"
+"兰花族具有一种独特的能力，可以让其他人进入一种...\"茫然\"的状态。这在那些蛞蝓族和半械族身上效果显著，他们开始表现得非常奇怪。他们为你提供的\"帮助\"支付了报酬。"
 
 #: src-en/data/events_sector_harmony.xml.append:37
 msgid ""
@@ -79,9 +64,7 @@ msgstr "(管家无人机)嗨起来！"
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/event/text"
 msgstr ""
-"这并不是他们所要求的，但他们肯定不会抱怨的。男仆无人机照顾好了每一位蛞蝓族和"
-"半械族的需求。很快，男仆无人机便让派对的氛围到达高潮，他们的体力也都逐渐跟不"
-"上了。在他们全部昏倒之前，他们慷慨地对你的\"帮助\"支付了报酬。"
+"这并不是他们所要求的，但他们肯定不会抱怨的。男仆无人机照顾好了每一位蛞蝓族和半械族的需求。很快，男仆无人机便让派对的氛围到达高潮，他们的体力也都逐渐跟不上了。在他们全部昏倒之前，他们慷慨地对你的\"帮助\"支付了报酬。"
 
 #: src-en/data/events_sector_harmony.xml.append:44
 #, fuzzy
@@ -98,8 +81,7 @@ msgstr "无视对方。"
 #: src-en/data/events_sector_harmony.xml.append:52
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/text"
-msgstr "威胁一定已经被解决了，只是这些半械族还没有关闭他们的求救信标而已。你继续前进"
-"。"
+msgstr "威胁一定已经被解决了，只是这些半械族还没有关闭他们的求救信标而已。你继续前进。"
 
 #: src-en/data/events_sector_harmony.xml.append:54
 msgid ""

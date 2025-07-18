@@ -24,7 +24,7 @@ msgid ""
 msgstr ""
 "From nowhere, you hear a voice speaking to you. \"Grant of [Armouring] i-i-"
 "installed. Installed! Grant provides: Modular Hull stability increased, "
-"provides +2 usable upgrade notches. If -you- witness p-p-previous "
+"provides +5 usable upgrade notches. If -you- witness p-p-previous "
 "challenger; provide thanks. I advise you -visit- me as well.\""
 
 #: src-en/data/events_special_boons.xml.append:15

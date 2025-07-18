@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/forgemaster/dataevents_shipsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_ships.xml.append:28
 msgid ""
@@ -167,8 +160,8 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:317
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/text"
-msgstr "从裂隙里出来了一艘巨大的星舰，带有半械族特征！这艘船似乎是由不同风格的半械族"
-"船的不同部件组成的，一种与你所见过的任何东西都不一样的奇怪混合物。"
+msgstr ""
+"从裂隙里出来了一艘巨大的星舰，带有半械族特征！这艘船似乎是由不同风格的半械族船的不同部件组成的，一种与你所见过的任何东西都不一样的奇怪混合物。"
 
 #: src-en/data/events_ships.xml.append:320
 msgid ""
@@ -851,8 +844,7 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:1201
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/text"
-msgstr "从裂隙里出来了一艘巨大的星舰，带有分离者特征！这艘星舰似乎被分成两半，类似于"
-"某种古代地球符号..."
+msgstr "从裂隙里出来了一艘巨大的星舰，带有分离者特征！这艘星舰似乎被分成两半，类似于某种古代地球符号..."
 
 #: src-en/data/events_ships.xml.append:1204
 msgid ""
@@ -987,8 +979,7 @@ msgstr ""
 
 #: src-en/data/events_ships.xml.append:1370
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/text"
-msgstr "从裂隙里出来了一艘巨大的星舰，带有蛞蝓族特征！星舰明亮的舰体吸引了你的注意力"
-"，尽管它直接指向你的军火库也很分散注意力。"
+msgstr "从裂隙里出来了一艘巨大的星舰，带有蛞蝓族特征！星舰明亮的舰体吸引了你的注意力，尽管它直接指向你的军火库也很分散注意力。"
 
 #: src-en/data/events_ships.xml.append:1373
 msgid ""
@@ -1151,8 +1142,7 @@ msgstr "继续。"
 #: src-en/data/events_ships.xml.append:1579
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/text"
-msgstr "从裂隙里出来了一艘巨大的星舰，带有超能族特征！这艘星舰充满了能量的光芒，可以"
-"肯定地说，舰内的超能族船员一直保持他们的反应堆供应充足。"
+msgstr "从裂隙里出来了一艘巨大的星舰，带有超能族特征！这艘星舰充满了能量的光芒，可以肯定地说，舰内的超能族船员一直保持他们的反应堆供应充足。"
 
 #: src-en/data/events_ships.xml.append:1582
 msgid ""
@@ -2335,8 +2325,8 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:3148
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/text"
-msgstr "从裂隙里出来了一艘巨大的星舰，带有半械族特征！这艘船似乎是由不同风格的半械族"
-"船的不同部件组成的，一种与你所见过的任何东西都不一样的奇怪混合物。"
+msgstr ""
+"从裂隙里出来了一艘巨大的星舰，带有半械族特征！这艘船似乎是由不同风格的半械族船的不同部件组成的，一种与你所见过的任何东西都不一样的奇怪混合物。"
 
 #: src-en/data/events_ships.xml.append:3151
 msgid ""

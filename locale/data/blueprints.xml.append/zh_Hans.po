@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:16+0000\n"
-"Last-Translator: shadowcrowX <13549855@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/forgemaster/datablueprintsxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -25,8 +18,7 @@ msgstr "熔火核心"
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/desc"
-msgstr "锻造大师心爱的巡洋舰。这艘星舰配备了他的标志性武器，并拥有一个可以制造更多武"
-"器的锻造炉，是一股不可忽视的力量。"
+msgstr "锻造大师心爱的巡洋舰。这艘星舰配备了他的标志性武器，并拥有一个可以制造更多武器的锻造炉，是一股不可忽视的力量。"
 
 #: src-en/data/blueprints.xml.append:96
 msgid ""
@@ -41,8 +33,8 @@ msgstr "九头蛇之枪"
 #: src-en/data/blueprints.xml.append:99
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM\"]/desc"
-msgstr "一只自由螳螂忽略了手册中武器使用限制的部分，疯狂使用武器超负荷运转后破坏了武"
-"器系统。幸好他有足够的资金购买一个具有卓越能力的原型无人机系统。"
+msgstr ""
+"一只自由螳螂忽略了手册中武器使用限制的部分，疯狂使用武器超负荷运转后破坏了武器系统。幸好他有足够的资金购买一个具有卓越能力的原型无人机系统。"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
@@ -58,9 +50,7 @@ msgstr "眼镜蛇之枪"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_2\"]/desc"
 msgstr ""
-"这只有钱的自由螳螂再次尝试了这个疯狂的计划。由于他的愚蠢武器系统仍然超负荷运"
-"转后报废。好在他有足够的钱买了一台原型传送器，并在飞船内部已经报废的武器上设"
-"置了大量床铺供船员居住。"
+"这只有钱的自由螳螂再次尝试了这个疯狂的计划。由于他的愚蠢武器系统仍然超负荷运转后报废。好在他有足够的钱买了一台原型传送器，并在飞船内部已经报废的武器上设置了大量床铺供船员居住。"
 
 #: src-en/data/blueprints.xml.append:236
 msgid ""
@@ -76,8 +66,7 @@ msgstr "泰坦蟒神炮"
 #, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_FM_3\"]/desc"
-msgstr "在第二个计划失败后，有钱的自由螳螂醉酒狂欢，决定主动进攻敌人。这艘飞船配备了"
-"超高速引擎，还内置了无人机回收系统！"
+msgstr "在第二个计划失败后，有钱的自由螳螂醉酒狂欢，决定主动进攻敌人。这艘飞船配备了超高速引擎，还内置了无人机回收系统！"
 
 #: src-en/data/blueprints.xml.append:306
 msgid ""
@@ -92,8 +81,7 @@ msgstr "觉醒星蛇炮"
 #: src-en/data/blueprints.xml.append:309
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE\"]/desc"
-msgstr "这个智商存疑的自由螳螂安装了一些以太反应堆，并让一些武器重新开始运作！这艘飞"
-"船现在修理起来简直是一团糟，但却成了一股不容小觑的力量。"
+msgstr "这个智商存疑的自由螳螂安装了一些以太反应堆，并让一些武器重新开始运作！这艘飞船现在修理起来简直是一团糟，但却成了一股不容小觑的力量。"
 
 #: src-en/data/blueprints.xml.append:384
 msgid ""
@@ -109,9 +97,7 @@ msgstr "末路星炮"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_GUNSHIP_ELITE_2\"]/desc"
 msgstr ""
-"曾经富有的自由螳螂因其失败的飞船设计冒险而面临破产，银行已经开始收回他飞船的"
-"部件来偿还他难以想象的巨额债务。他最好的朋友们也被强行奴役。但这并不会阻止如"
-"今一贫如洗的自由螳螂以轰轰烈烈的方式谢幕！"
+"曾经富有的自由螳螂因其失败的飞船设计冒险而面临破产，银行已经开始收回他飞船的部件来偿还他难以想象的巨额债务。他最好的朋友们也被强行奴役。但这并不会阻止如今一贫如洗的自由螳螂以轰轰烈烈的方式谢幕！"
 
 #: src-en/data/blueprints.xml.append:468
 msgid ""
@@ -186,6 +172,10 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:792
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:861
+msgid "data/blueprints.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:869
@@ -291,6 +281,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1350
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TWISTED4_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1417
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"ERROR\"]/@name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1418
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"404\"]/@name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1419
+msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"loading...\"]/@name"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:1428
@@ -5941,8 +5943,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ANCIENT_ION_1_KAI2\"]/desc"
-msgstr "这种奇特的武器发射等离子体，这些等离子体会同时造成离子和系统伤害。甚至击中护"
-"盾也会对护盾舱造成伤害。"
+msgstr "这种奇特的武器发射等离子体，这些等离子体会同时造成离子和系统伤害。甚至击中护盾也会对护盾舱造成伤害。"
 
 #: src-en/data/blueprints.xml.append:13724
 msgid ""
@@ -6977,8 +6978,7 @@ msgstr "夜影导弹"
 #: src-en/data/blueprints.xml.append:16206
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"UNSPOOLER_ENEMY\"]/desc"
-msgstr "一种致命的导弹发射器，可以发射基础防御无人机无法击落的隐形弹头，但充能速度相"
-"当慢。"
+msgstr "一种致命的导弹发射器，可以发射基础防御无人机无法击落的隐形弹头，但充能速度相当慢。"
 
 #: src-en/data/blueprints.xml.append:16207
 msgid ""
@@ -7075,8 +7075,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_SYMBIOTE_SPECIAL\"]/desc"
-msgstr "没有别的武器比它的道德争议更大，不过能用就行。至少现在你的共生体现在的生活没"
-"以前那么悲惨了。"
+msgstr "没有别的武器比它的道德争议更大，不过能用就行。至少现在你的共生体现在的生活没以前那么悲惨了。"
 
 #: src-en/data/blueprints.xml.append:16471
 msgid ""
@@ -7113,8 +7112,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_BABYORCHID_TWEAK\"]/desc"
-msgstr "没有别的武器比它的道德争议更大，不过能用就行。顺带一提，这些实际上不是幼花克"
-"隆体。真的是有很多尸体。"
+msgstr "没有别的武器比它的道德争议更大，不过能用就行。顺带一提，这些实际上不是幼花克隆体。真的是有很多尸体。"
 
 #: src-en/data/blueprints.xml.append:16595
 msgid ""

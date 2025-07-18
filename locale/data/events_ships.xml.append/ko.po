@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 20:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/forgemaster/"
-"dataevents_shipsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_ships.xml.append:28
 msgid ""
@@ -168,9 +161,8 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:317
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/text"
 msgstr ""
-"터널에서 거대한 순양함이 나왔는데, 엔지의 디자인을 하고 입니다! 이 함선은 "
-"다양한 스타일의 엔지 선박에서 나온 여러 부분들로부터 만들어진 것으로 "
-"보이는데, 당신이 지금까지 보지 못한 이상한 융합체입니다."
+"터널에서 거대한 순양함이 나왔는데, 엔지의 디자인을 하고 입니다! 이 함선은 다양한 스타일의 엔지 선박에서 나온 여러 부분들로부터 "
+"만들어진 것으로 보이는데, 당신이 지금까지 보지 못한 이상한 융합체입니다."
 
 #: src-en/data/events_ships.xml.append:320
 msgid ""
@@ -854,9 +846,8 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:1201
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SEPA1_SUICIDE\"]/text"
 msgstr ""
-"터널에서 거대한 순양함이 나왔는데, 분리주의자의 디자인을 하고 있습니다! 그 "
-"함선은 두 부분으로 나눠져 있었는데, 옛 지구의 특정 상징과도 비슷해 "
-"보입니다..."
+"터널에서 거대한 순양함이 나왔는데, 분리주의자의 디자인을 하고 있습니다! 그 함선은 두 부분으로 나눠져 있었는데, 옛 지구의 특정 "
+"상징과도 비슷해 보입니다..."
 
 #: src-en/data/events_ships.xml.append:1204
 msgid ""
@@ -992,9 +983,8 @@ msgstr ""
 #: src-en/data/events_ships.xml.append:1370
 msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_SLUG1_SUICIDE\"]/text"
 msgstr ""
-"터널에서 거대한 순양함이 나왔는데, 슬러그의 디자인을 하고 있습니다! 순양함의 "
-"밝은 선체가 당신의 관심을 끌지만, 당신에게 조준하고 있는 무장도 꽤나 "
-"신경쓰입니다."
+"터널에서 거대한 순양함이 나왔는데, 슬러그의 디자인을 하고 있습니다! 순양함의 밝은 선체가 당신의 관심을 끌지만, 당신에게 조준하고 있는"
+" 무장도 꽤나 신경쓰입니다."
 
 #: src-en/data/events_ships.xml.append:1373
 msgid ""
@@ -1158,9 +1148,8 @@ msgstr "계속..."
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ZOLTAN1_SUICIDE\"]/text"
 msgstr ""
-"터널에서 거대한 순양함이 나왔는데, 졸탄 선박의 디자인을 하고 있습니다! "
-"함선이 넘치는 에너지로 번쩍이는 것을 보아 저쪽에 타고 있는 졸탄 선원들이 "
-"반응로 관리를 잘 했나 봅니다."
+"터널에서 거대한 순양함이 나왔는데, 졸탄 선박의 디자인을 하고 있습니다! 함선이 넘치는 에너지로 번쩍이는 것을 보아 저쪽에 타고 있는 "
+"졸탄 선원들이 반응로 관리를 잘 했나 봅니다."
 
 #: src-en/data/events_ships.xml.append:1582
 msgid ""
@@ -2344,9 +2333,8 @@ msgstr ""
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE_NO_CORDS\"]/text"
 msgstr ""
-"터널에서 거대한 순양함이 나왔는데, 엔지의 디자인을 하고 입니다! 이 함선은 "
-"다양한 스타일의 엔지 선박에서 나온 여러 부분들로부터 만들어진 것으로 "
-"보이는데, 당신이 지금까지 보지 못한 이상한 융합체입니다."
+"터널에서 거대한 순양함이 나왔는데, 엔지의 디자인을 하고 입니다! 이 함선은 다양한 스타일의 엔지 선박에서 나온 여러 부분들로부터 "
+"만들어진 것으로 보이는데, 당신이 지금까지 보지 못한 이상한 융합체입니다."
 
 #: src-en/data/events_ships.xml.append:3151
 msgid ""
