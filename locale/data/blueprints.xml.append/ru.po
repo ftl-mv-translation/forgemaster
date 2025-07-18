@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-18 20:17+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1171,8 +1171,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2636
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"orchid_fire\"]/powerList/power[1]"
-msgstr ""
-"Пополняет кислород [не работает на кораблях без кислородной установки]"
+msgstr "Пополняет кислород [не работает на кораблях без кислородной установки]"
 
 #: src-en/data/blueprints.xml.append:2637
 msgid ""
@@ -5986,8 +5985,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10746
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ROYAL_MINELAUNCHER\"]/tooltip"
-msgstr ""
-"Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:10784
 msgid ""
@@ -8787,8 +8785,8 @@ msgstr "Паслен"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"UNSPOOLER_ENEMY\"]/desc"
 msgstr ""
-"Смертоносная ракетная установка, долго заряжается, но стреляет боеголовками,"
-" оборудованными системой маскировки, которые не могут сбить стандартные "
+"Смертоносная ракетная установка, долго заряжается, но стреляет боеголовками, "
+"оборудованными системой маскировки, которые не могут сбить стандартные "
 "защитные дроны."
 
 #: src-en/data/blueprints.xml.append:16207
@@ -8977,8 +8975,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16643
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_CRYSTAL\"]/tooltip"
-msgstr ""
-"Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:16687
 msgid ""
@@ -8998,8 +8995,7 @@ msgstr "2 лазера, 10% пожар"
 #: src-en/data/blueprints.xml.append:16690
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE1\"]/tooltip"
-msgstr ""
-"Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:16732
 msgid ""
@@ -9021,8 +9017,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE2\"]/tooltip"
-msgstr ""
-"Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:16775
 msgid ""
@@ -9045,8 +9040,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_MINELAUNCHER_MODULAR_HULL_VENGEANCE3\"]/tooltip"
-msgstr ""
-"Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 единица урона; проникает сквозь все щиты."
 
 #: src-en/data/blueprints.xml.append:16824
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_SHADOW\"]/title"
