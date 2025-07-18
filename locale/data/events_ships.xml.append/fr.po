@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-18 20:17+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -216,8 +216,8 @@ msgid "data/events_ships.xml.append$//event[@name=\"FM_BOSS_ENGI1_SUICIDE\"]/tex
 msgstr ""
 "Du tunnel sort un énorme croiseur. On dirait un vaisseau des Engi ! Le "
 "vaisseau semble être constitué de nombreux morceaux de vaisseaux Engi de "
-"styles différents, un étrange amalgame différent de tout ce que vous avez vu"
-" auparavant."
+"styles différents, un étrange amalgame différent de tout ce que vous avez vu "
+"auparavant."
 
 #: src-en/data/events_ships.xml.append:320
 msgid ""
@@ -2954,8 +2954,8 @@ msgid ""
 msgstr ""
 "Du tunnel sort un énorme croiseur. On dirait un vaisseau des Engi ! Le "
 "vaisseau semble être constitué de nombreux morceaux de vaisseaux Engi de "
-"styles différents, un étrange amalgame différent de tout ce que vous avez vu"
-" auparavant."
+"styles différents, un étrange amalgame différent de tout ce que vous avez vu "
+"auparavant."
 
 #: src-en/data/events_ships.xml.append:3151
 msgid ""
