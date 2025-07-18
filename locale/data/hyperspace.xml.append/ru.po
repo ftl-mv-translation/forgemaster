@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-13 19:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-07-18 20:13+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -827,10 +827,10 @@ msgid ""
 "shipIcons/shipIcon[14]/tooltip"
 msgstr ""
 "БЕСКОНЕЧНЫЙ ЦИКЛО-БАРЬЕР:\n"
-"\t\t\t\t\t15% шанс уничтожения входящий снаряд щитами, за каждую "
-"неиспользованную единицу мощности системы щитов шанс не уничтожить снаряд "
-"уменьшается на относительные 15%, также дает +50% к скорости перезарядки "
-"щитов за каждую неиспользованную энергию."
+"\t\t\t\t\t15% шанс, что вражеские снаряды будут уничтожены щитами. За каждый "
+"неактивный уровень системы щитов шанс, что снаряд будет уничтожен, "
+"увеличивается на 15%. Также дает +50% к скорости перезарядки щитов за каждую "
+"неиспользованную энергию."
 
 #: src-en/data/hyperspace.xml.append:1879
 #: src-en/data/hyperspace.xml.append:1878
