@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-18 20:19+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://weblate.hyperq.be/projects/forgemaster/"
+"datablueprintsxmlappend/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -6818,7 +6825,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:15901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_ION_ENEMY_ARTY\"]/desc"
-msgstr "イオンダメージでシステムを機能停止に陥らせる、自己転移型爆弾。自船にも使用可。"
+msgstr "イオンダメージでシステムを機能停止に陥らせる、自己転移型爆弾。自船にも使用可"
+"。"
 
 #: src-en/data/blueprints.xml.append:15902
 msgid ""
@@ -6975,7 +6983,8 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:16252
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[3]/desc"
-msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題はない。"
+msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題"
+"はない。"
 
 #: src-en/data/blueprints.xml.append:16253
 msgid ""
@@ -7015,7 +7024,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:16346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CLONE_CANNON_CRUSADER_SPECIAL\"]/desc"
-msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題はない。"
+msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題"
+"はない。"
 
 #: src-en/data/blueprints.xml.append:16347
 msgid ""
@@ -7072,7 +7082,8 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:16534
 msgid "data/blueprints.xml.append$/dummyroot/FTL[28]/weaponBlueprint[8]/desc"
-msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題はない。"
+msgstr "今までこれほど大きな倫理論争を引き起こした兵器は存在しないが、使えるなら問題"
+"はない。"
 
 #: src-en/data/blueprints.xml.append:16535
 msgid ""
