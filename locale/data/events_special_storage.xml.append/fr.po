@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 13:50+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"PO-Revision-Date: 2025-07-18 20:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
 "Language: fr\n"
@@ -10669,8 +10669,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_REGEN\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Vous devez disposer de l'amélioration du laboratoire pour cette "
-"modification."
+"Vous devez disposer de l'amélioration du laboratoire pour cette modification."
 
 #: src-en/data/events_special_storage.xml.append:9474
 msgid ""
@@ -10716,8 +10715,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_BIG\"]/choice[@req=\"LAB_UPGRADE\"]/text"
 msgstr ""
-"Vous devez disposer de l'amélioration du laboratoire pour cette "
-"modification."
+"Vous devez disposer de l'amélioration du laboratoire pour cette modification."
 
 #: src-en/data/events_special_storage.xml.append:9507
 msgid ""
@@ -10762,8 +10760,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_PLATED_AIR\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Vous devez disposer de l'amélioration du laboratoire pour cette "
-"modification."
+"Vous devez disposer de l'amélioration du laboratoire pour cette modification."
 
 #: src-en/data/events_special_storage.xml.append:9539
 msgid ""
