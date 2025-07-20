@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-21 23:56+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:23
 msgid ""
@@ -214,7 +221,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:861
 msgid "data/blueprints.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
-msgstr ""
+msgstr "Freddy"
 
 #: src-en/data/blueprints.xml.append:869
 msgid ""
@@ -348,15 +355,15 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:1417
 msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"ERROR\"]/@name"
-msgstr ""
+msgstr "ERREUR"
 
 #: src-en/data/blueprints.xml.append:1418
 msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"404\"]/@name"
-msgstr ""
+msgstr "404"
 
 #: src-en/data/blueprints.xml.append:1419
 msgid "data/blueprints.xml.append$//fm_human_texture[@name=\"loading...\"]/@name"
-msgstr ""
+msgstr "chargement..."
 
 #: src-en/data/blueprints.xml.append:1428
 msgid ""
