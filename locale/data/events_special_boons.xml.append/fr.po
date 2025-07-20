@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 20:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-21 23:56+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_boonsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -27,13 +27,12 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_boons.xml.append:12
-#, fuzzy
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_FORGEARMOR\"]/text"
 msgstr ""
 "De nulle part, vous entendez une voix qui vous parle. \"Pouvoir du [Blindage]"
 " est i-i-installé. Installé ! Pouvoir octroi : Augmentation de la stabilité "
-"de la coque modulaire, +2 points d'amélioration utilisables. Si -vous- "
+"de la coque modulaire, +5 points d'amélioration utilisables. Si -vous- "
 "apercevez le-p-p-précédent concurrent ; remercier le. Je conseille -a-a ce "
 "que vous me -visitiez- aussi.\""
 
