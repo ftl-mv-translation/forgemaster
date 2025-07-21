@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-21 23:56+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:299
 msgid ""
@@ -1203,60 +1210,60 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8080
 msgid "data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER\"]/tooltipName"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/hyperspace.xml.append:8087
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/tooltipName"
-msgstr ""
+msgstr "Incendiaire"
 
 #: src-en/data/hyperspace.xml.append:8094
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "Briseur de paix Ancalagon"
 
 #: src-en/data/hyperspace.xml.append:8101
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "Briseur de paix Ancalagon"
 
 #: src-en/data/hyperspace.xml.append:8108
 msgid "data/hyperspace.xml.append$//drone[@name=\"MANNING_ENEMY_2\"]/tooltipName"
-msgstr ""
+msgstr "Drone Manager"
 
 #: src-en/data/hyperspace.xml.append:8115
 msgid "data/hyperspace.xml.append$//drone[@name=\"TWISTED_MENDER\"]/tooltipName"
-msgstr ""
+msgstr "Reconstructeur Déformé"
 
 #: src-en/data/hyperspace.xml.append:8123
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "Drone Yin Yang Déformé"
 
 #: src-en/data/hyperspace.xml.append:8127
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Drone Yin Yang Déformé"
 
 #: src-en/data/hyperspace.xml.append:8134
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "Drone chirurgien Déformé"
 
 #: src-en/data/hyperspace.xml.append:8138
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Drone chirurgien Déformé"
 
 #: src-en/data/hyperspace.xml.append:8145
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "Drone de combat MK II Déformé"
 
 #: src-en/data/hyperspace.xml.append:8149
 msgid ""
 "data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Drone de combat MK II Déformé"
 
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
