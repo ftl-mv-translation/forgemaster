@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-19 20:56+0000\n"
+"PO-Revision-Date: 2025-07-30 14:34+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datahyperspace-xml-append/ru/>\n"
@@ -719,7 +719,8 @@ msgid ""
 "append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
 "ЩИТЫ С ЧАСТИЦАМИ:\n"
-"\t\t\t\t\tвражеские щиты заряжаются на 50% медленнее, но получают дополнительные 8 единиц целостности энергетического щита"
+"\t\t\t\t\tВражеские щиты заряжаются на 50% медленнее, но получают "
+"дополнительные 8 единиц целостности энергетического щита"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
