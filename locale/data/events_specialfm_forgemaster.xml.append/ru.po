@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-30 14:34+0000\n"
+"PO-Revision-Date: 2025-08-07 20:06+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/ru/>\n"
@@ -11134,14 +11134,14 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_DUSK\"]/text"
 msgstr ""
-"Устаревший реактор Вестников Заката? [+20% скорость перезарядки оружия и "
+"Устаревший реактор Вестников Заката [+20% скорость перезарядки оружия и "
 "щитов, -20% характеристики вашего экипажа, +20% получаемый урон по экипажу]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10520
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MURAL\"]/text"
 msgstr ""
-"Фрески для корпуса? [Все полезные характеристики экипажа +30%, 50% шанс "
+"Фрески для корпуса [Все полезные характеристики экипажа +30%, 50% шанс "
 "получить +1 урон корпусу]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10524
@@ -11161,8 +11161,8 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPLINK\"]/text"
 msgstr ""
-"Установить Матрицы восходящей связи оружия [-40% перезарядка оружия, +25% "
-"урона экипажа и -5% урона экипажа за каждую запитанную единицу оружия]"
+"Матрицы восходящей связи оружия [-40% перезарядка оружия, +25% урона экипажа "
+"и -5% урона экипажа за каждую запитанную единицу оружия]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:10536
 msgid ""
@@ -12198,9 +12198,9 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_VENGEANCE3\""
 " and @lvl=\"1\"]/text"
 msgstr ""
-"Установить Защитный кузнечный культиватор [60% шанс мести, выпускает 2 "
-"магнитных фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 "
-"щитов, двойной урон по отсекам без систем, 5с оглушения)]"
+"Защитный кузнечный культиватор [60% шанс мести, выпускает 2 магнитных "
+"фрагмента(10% шанс пожара, 50% шанс пробоины, проникает через 10 щитов, "
+"двойной урон по отсекам без систем, 5с оглушения)]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11123
 msgid ""
@@ -12296,113 +12296,113 @@ msgstr ""
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_WEAPONS\"]/text"
 msgstr ""
-"Установить улучшение системы (Оружие)? [+40% скорости ремонта, на 40% меньше"
-" урона от саботажа]"
+"Улучшение системы (Оружие) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11175
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SHIELDS\"]/text"
 msgstr ""
-"Установить улучшение системы (Щиты)? [+40% скорости ремонта, на 40% меньше "
-"урона от саботажа]"
+"Улучшение системы (Щиты) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11179
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ENGINES\"]/text"
 msgstr ""
-"Установить улучшение системы (Двигатели)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Двигатели) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11183
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MED\"]/text"
 msgstr ""
-"Установить улучшение системы (Медицина)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Медицина) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11187
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DRONES\"]/text"
 msgstr ""
-"Установить улучшение системы (Дроны)? [+40% скорости ремонта, на 40% меньше "
-"урона от саботажа]"
+"Улучшение системы (Дроны) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11191
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_OXYGEN\"]/text"
 msgstr ""
-"Установить улучшение системы (Кислородная установка)? [+40% скорости "
-"ремонта, на 40% меньше урона от саботажа]"
+"Улучшение системы (Кислородная установка) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11195
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TELEPORTER\"]/text"
 msgstr ""
-"Установить улучшение системы (Телепортер)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Телепортер) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11199
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_CLOAKING\"]/text"
 msgstr ""
-"Установить улучшение системы (Маскировка)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Маскировка) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11203
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_ARTILLERY\"]/text"
 msgstr ""
-"Установить улучшение системы (Артиллерия)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Артиллерия) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11207
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_HACKING\"]/text"
 msgstr ""
-"Установить улучшение системы (Взломщик)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Взломщик) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11211
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_MIND\"]/text"
 msgstr ""
-"Установить улучшение системы (Контроль разума)? [+40% скорости ремонта, на "
-"40% меньше урона от саботажа]"
+"Улучшение системы (Контроль разума) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11215
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_TEMPORAL\"]/text"
 msgstr ""
-"Установить улучшение системы (Временной манипулятор)? [+40% скорости "
-"ремонта, на 40% меньше урона от саботажа]"
+"Улучшение системы (Временной манипулятор) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11219
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_PILOT\"]/text"
 msgstr ""
-"Установить улучшение системы (Рулевая рубка)? [+40% скорости ремонта, на 40%"
-" меньше урона от саботажа]"
+"Улучшение системы (Рулевая рубка) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11223
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_SENSORS\"]/text"
 msgstr ""
-"Установить улучшение системы (Сенсоры)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Сенсоры) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11227
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_DOORS\"]/text"
 msgstr ""
-"Установить улучшение системы (Двери)? [+40% скорости ремонта, на 40% меньше "
-"урона от саботажа]"
+"Улучшение системы (Двери) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11231
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_UPDATE_BATTERY\"]/text"
 msgstr ""
-"Установить улучшение системы (Батарея)? [+40% скорости ремонта, на 40% "
-"меньше урона от саботажа]"
+"Улучшение системы (Батарея) "
+"[+40% скорости ремонта, на 40% меньше урона от саботажа]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11236
 msgid ""
@@ -12494,29 +12494,29 @@ msgstr "Модуль Интеграции микротурелей (Батаре
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_CLOAK_COOLDOWN\"]/text"
 msgstr ""
-"Установить Модуль перезарядки системы(Маскировка)? [На 5 секунд быстрее "
-"перезарядка системы]"
+"Модуль перезарядки системы(Маскировка) "
+"[На 5 секунд быстрее перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11305
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_HACK_COOLDOWN\"]/text"
 msgstr ""
-"Установить Модуль перезарядки системы(Взломщик)? [На 5 секунд быстрее "
-"перезарядка системы]"
+"Модуль перезарядки системы(Взломщик) "
+"[На 5 секунд быстрее перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11309
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_MIND_COOLDOWN\"]/text"
 msgstr ""
-"Установить Модуль перезарядки системы(Контроль разума)? [На 5 секунд быстрее"
-" перезарядка системы]"
+"Модуль перезарядки системы(Контроль разума) "
+"[На 5 секунд быстрее перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11313
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_MODULAR_HULL_MODULES_INSTALLED\"]/choice[@req=\"FM_MODULAR_HULL_TEMPORAL_COOLDOWN\"]/text"
 msgstr ""
-"Установить Модуль перезарядки системы(Временной манипулятор)? [На 5 секунд "
-"быстрее перезарядка системы]"
+"Модуль перезарядки системы(Временной манипулятор) "
+"[На 5 секунд быстрее перезарядка системы]"
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:11336
 msgid ""
