@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-02 07:27+0000\n"
+"PO-Revision-Date: 2025-08-23 21:08+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -7773,10 +7773,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[42]/text"
-msgstr ""
-"Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты. [С "
-"обновлением MV 5.5, если зарядится левая пушка, игра вылетит, имейте это в "
-"виду]"
+msgstr "Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты."
 
 #: src-en/data/events_special_storage.xml.append:7208
 msgid ""
@@ -8049,10 +8046,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:7419
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FM_STORAGE_CHECK_AUG_MVBOSS_SPAWNER_LIST\"]/choice[63]/text"
-msgstr ""
-"Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты. [С "
-"обновлением MV 5.5, если зарядится левая пушка, игра вылетит, имейте это в "
-"виду]"
+msgstr "Искаженные Вестники Заката тип Б - выпадают Сумеречные жилеты."
 
 #: src-en/data/events_special_storage.xml.append:7421
 msgid ""
