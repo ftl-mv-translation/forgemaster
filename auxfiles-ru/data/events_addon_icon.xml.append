@@ -1,0 +1,23 @@
+<FTL>
+
+<!--Addon Icon picture path is the following img/addons/[lowercase event name without the ADDON_ prefix] with either the _on.png or _select2.png suffix.
+example: 
+img/addons/trc_on.png
+img/addons/trc_select2.png
+-->
+<event name="ADDON_FM"> <!--Put the _DISABLED suffix to ensure that the icon gets clobbered by the non disabled version if it exist-->
+	<!--Text shown when hovering the icon-->
+	<hover-text>FORGEMASTER
+	Нажмите, чтобы увидеть больше информации.</hover-text>
+	
+	<!--Event text shown when selecting the icon-->
+	<text>FORGEMASTER
+	Разработчики: Cyrus106, Abstrusity, Maxine, Radish, SeaDragonet, Kommandant_Julk, Vertaalfout, DemonFusionGamer и Skye
+	В настоящее время включен.
+
+	Крупное расширение для Multiverse! Оно включает в себя новых NPC, квесты, оружие, сектора, боссов и многое другое. Скоро появятся дроны и модули! Главное нововведение: система изготовления оружия, позволяющая комбинировать.
+	Многочисленные комбинации оружия превращаются в более сильные варианты (или, по крайней мере, в побочные). Это оружие должно сиять ярче всего при использовании на кораблях с меньшим количеством слотов для оружия и использовать самые новые и сложные возможности гиперпространства для совершенно уникальных ощущений!
+	(для этого был разработан аддон Inferno-Core, сейчас используют Fusion)</text>	
+</event>
+
+</FTL>
