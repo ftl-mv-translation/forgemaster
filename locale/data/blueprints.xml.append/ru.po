@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-25 13:56+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-09-21 15:19+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -3124,7 +3124,7 @@ msgstr "Древесный палач"
 #: src-en/data/blueprints.xml.append:5390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ARBOREAL_EXE\"]/short"
-msgstr "Древ. пал."
+msgstr "Древ. палач"
 
 #: src-en/data/blueprints.xml.append:5391
 msgid ""
