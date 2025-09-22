@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-07 00:18+0000\n"
+"PO-Revision-Date: 2025-09-22 17:19+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -14997,7 +14997,7 @@ msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"FM_FS_CORPSE_AIRLOCK_SCAN\"]/text"
 msgstr ""
 "Vous scannez leurs corps à la recherche de substances dangereuses. Vous "
-"trouvez des traces de nanobots détruits incrustés dans leur chair. Ils "
+"trouvez des traces de nanorobots détruits incrustés dans leur chair. Ils "
 "ressemblent aux nanomachines utilisées par l'Harmonie et les Séparatistes, "
 "mais dans une version bien plus avancée."
 
