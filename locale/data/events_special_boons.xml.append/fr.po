@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 23:56+0000\n"
+"PO-Revision-Date: 2025-10-27 16:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_boonsxmlappend/fr/>\n"
@@ -10,16 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_boons.xml.append:2
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_PLATED\"]/text"
 msgstr ""
-"De nulle part, vous entendez une voix qui s'adresse à vous : \"L'avantage..."
-" du Plaqué. Votre équipage Plaqué gagne... +1 charge de capacité. Vous "
-"pouvez... remercier le précédent challenger. Ou peut-être... ne le faites-"
-"vous pas ? Qui peut le dire...\""
+"De nulle part, vous entendez une voix qui s'adresse à vous : \"La faveeur... "
+"du Plaqué. Votre équipage Plaqué gagne... +1 charge de capacité. Vous "
+"pouvez... remercier le challenger précédent. Ou peut-être que vous... ne le "
+"ferez pas ? Qui peut le dire...\""
 
 #: src-en/data/events_special_boons.xml.append:5
 msgid ""
