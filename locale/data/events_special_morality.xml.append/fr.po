@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-20 00:47+0000\n"
+"PO-Revision-Date: 2025-10-27 16:28+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_moralityxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_morality.xml.append:11
 msgid ""
@@ -47,7 +47,7 @@ msgstr ""
 "[MAUVAISE RÉPUTATION DIMINUÉE - CONGRÉGATION + CRISTALIENS + MAÎTRE DES "
 "FORGES]\n"
 "\tVous avez fait ici une bonne action aux yeux d'Alastair, de la "
-"Congrégation ou de l'Empire cristalien. Si vous aviez acquis une certaine "
+"Congrégation ou de l'Empire Cristalien. Si vous aviez acquis une certaine "
 "mauvaise réputation suite à vos actions passées, vous aurez plus de chances "
 "d'être pardonné désormais."
 
