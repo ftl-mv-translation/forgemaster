@@ -8,12 +8,12 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:8
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/class"
-msgstr "フェージマスタークルーザー"
+msgstr "フォージマスター・クルーザー"
 
 #: src-en/data/autoBlueprints.xml.append:51
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/class"
-msgstr "フェージマスタークルーザー"
+msgstr "フォージマスター・クルーザー"
 
 #: src-en/data/autoBlueprints.xml.append:95
 msgid ""
@@ -28,7 +28,7 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:144
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_SLUG_DEBT_COLLECT\"]/class"
-msgstr "Clairvoyant Debt Shark"
+msgstr "千里眼の借金鮫"
 
 #: src-en/data/autoBlueprints.xml.append:177
 msgid ""
@@ -38,111 +38,111 @@ msgstr "ガンボミネーション"
 #: src-en/data/autoBlueprints.xml.append:217
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SHIP_FALLEN_ANGEL\"]/class"
-msgstr "倒れた戦闘機"
+msgstr "堕落戦闘機"
 
 #: src-en/data/autoBlueprints.xml.append:248
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_MT_BOSS_CLAN_SUICIDE\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:282
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_CRYSTAL1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:319
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ENGI1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:355
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ORCHID1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:391
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SHELL1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:428
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_FED1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:465
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ENGINEER1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:502
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_R1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:546
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LANIUS1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:583
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_FREE1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:623
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_MANTIS1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:657
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_DUSK1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:693
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_TUCO1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:730
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_MONK1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:766
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SEPA1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:805
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_STEALTH1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:837
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_KES1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:867
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LOSTSUN1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:905
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_SLUG1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:943
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_ZOLTAN1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:977
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FM_BOSS_LEECH1\"]/class"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:1405
 msgid ""
@@ -153,17 +153,17 @@ msgstr "これはプレースホルダーです"
 #: src-en/data/autoBlueprints.xml.append:2827
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_RIGGER_ACE\"]/class"
-msgstr "Rebel Rigger"
+msgstr "反乱軍工作船"
 
 #: src-en/data/autoBlueprints.xml.append:2850
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_FIGHTER_ACE\"]/class"
-msgstr "反乱軍の戦闘機"
+msgstr "反乱軍戦闘機"
 
 #: src-en/data/autoBlueprints.xml.append:2872
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_SKIRMISHER_ACE\"]/class"
-msgstr "反乱軍の小競り合い"
+msgstr "反乱軍偵察機"
 
 #: src-en/data/autoBlueprints.xml.append:2896
 msgid ""
@@ -173,39 +173,39 @@ msgstr "反乱軍爆撃機"
 #: src-en/data/autoBlueprints.xml.append:2921
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_INSTIGATOR_ACE\"]/class"
-msgstr "反逆者の扇動者"
+msgstr "反乱軍扇動機"
 
 #: src-en/data/autoBlueprints.xml.append:2946
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_PREDATOR_ACE\"]/class"
-msgstr "反乱軍の捕食者"
+msgstr "反乱軍プレデター"
 
 #: src-en/data/autoBlueprints.xml.append:2971
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_DROPSHIP_ACE\"]/class"
-msgstr "反乱軍のドロップシップ"
+msgstr "反乱軍降下艇"
 
 #: src-en/data/autoBlueprints.xml.append:2996
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_ASSAULT_ACE\"]/class"
-msgstr "反乱軍の攻撃"
+msgstr "反乱軍強襲艇"
 
 #: src-en/data/autoBlueprints.xml.append:3022
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_LIGHT_CRUISER_ACE\"]/class"
-msgstr "Rebel Light Cruiser"
+msgstr "反乱軍軽巡洋艦"
 
 #: src-en/data/autoBlueprints.xml.append:3048
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_MARAUDER_ACE\"]/class"
-msgstr "反乱軍のマウダー"
+msgstr "反乱軍マローダー"
 
 #: src-en/data/autoBlueprints.xml.append:3073
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_TRANSPORT_ACE\"]/class"
-msgstr "反乱軍の輸送"
+msgstr "反乱軍輸送船"
 
 #: src-en/data/autoBlueprints.xml.append:3098
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_REBEL_JAILER_ACE\"]/class"
-msgstr "反乱軍の看守"
+msgstr "反乱軍監獄船"

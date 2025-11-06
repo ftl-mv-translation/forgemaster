@@ -9,13 +9,13 @@ msgstr ""
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_FREEMANTIS_FREE\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr "（ガンボミネーション）：あなたの「壮大な」船に報酬を要求します"
+msgstr "(ガンボミネーション)：あなたの「壮観な」船に対する報酬を要求する"
 
 #: src-en/data/events_special_standard.xml.append:10
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_FREEMANTIS_FREE\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/event/text"
-msgstr "「ああ、キャプテンのキャプテン！本当にその船の詩！マンティスの子供のように美しい。私はとても動いた！」"
+msgstr "「おお、船長、船長！まさにあの船は詩だ！マンティスの子供のように美しい。私はとても感動した！」"
 
 #: src-en/data/events_special_standard.xml.append:14
 msgid ""
@@ -32,13 +32,13 @@ msgstr ""
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_DAMAGED\"]/mod-"
 "append:choice[1]/text"
-msgstr "（メッキ）船体を固定します。"
+msgstr "(プレイテッド) 彼らの船体を修理する。"
 
 #: src-en/data/events_special_standard.xml.append:32
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_DAMAGED\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "あなたのメッキは彼らの船を修正します。船はあなたの助けに感謝し、取引を申し出てください。"
+msgstr "あなたのプレイテッドが彼らの船を修理する。船はあなたの助けに感謝し、取引を申し出てくる。"
 
 #: src-en/data/events_special_standard.xml.append:35
 msgid ""
@@ -50,14 +50,14 @@ msgstr ""
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_DAMAGED\"]/mod-"
 "append:choice[2]/text"
-msgstr "（Alastair）船体を固定します。"
+msgstr "(アラスター) 彼らの船体を修理する。"
 
 #: src-en/data/events_special_standard.xml.append:45
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_DAMAGED\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"Alastairは船体を固定し、友情のトークンとして、その中に小さなトナカイがいる船長にスノーグローブを与えます。船はあなたの助けに感謝し、取引を申し出てください。"
+"アラスターが彼らの船体を修理し、友情の証として、中に小さなトナカイが入ったスノードームを船長に渡す。船はあなたの助けに感謝し、取引を申し出てくる。"
 
 #: src-en/data/events_special_standard.xml.append:49
 msgid ""
@@ -68,22 +68,22 @@ msgstr ""
 #: src-en/data/events_special_standard.xml.append:64
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_ROCK_MINELAUNCHERS\"]/mod:findWithChildLike/mod:selector"
-msgstr "エンポリアムをチェックしてください。"
+msgstr "エンポリアムをチェックする。"
 
 #: src-en/data/events_special_standard.xml.append:67
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_ROCK_MINELAUNCHERS\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/text"
-msgstr "（Alastair）ロックマンとミネランチャーに関する物語を共有します。"
+msgstr "(アラスター) ロックマンと機雷ランチャーについて話をする。"
 
 #: src-en/data/events_special_standard.xml.append:69
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_ROCK_MINELAUNCHERS\"]/mod:findWithChildLike/mod:findLike/mod-"
 "append:choice/event/text"
 msgstr ""
-"Alastairはにやにや笑い、Minelanuncherクラフトに関する彼の最も興味深い物語のいくつかでロックマンを堂々とし始めます。数時間後、2人のロックマンはお互いに笑っています。「以前に私のミーン発明者にそのような関心を示したことがありません！あなたと一緒に来させてください。"
+"アラスターはニヤリと笑い、ロックマンに機雷ランチャーの技術に関する最も興味深い話を語り始める。数時間後、二人のロックマンは並んで笑っている。「これまで誰も私の機雷ランチャーにこんなに興味を示してくれなかった！あなたと一緒に行かせてくれ、そして私の最高の機雷ランチャーも一つ持っていくよ！」"
 
 #: src-en/data/events_special_standard.xml.append:78
 msgid ""
 "data/events_special_standard.xml.append$//mod:findName[@name=\"STOREEVENT_ROCK_MINELAUNCHERS\"]/mod:findWithChildLike/mod:findLike/mod:findWithChildLike/mod:selector"
-msgstr "お買い物。"
+msgstr "店を見て回る。"

@@ -9,14 +9,14 @@ msgstr ""
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_NEW_PLANET\"]/mod-"
 "append:choice/text"
-msgstr "（石村ビーム）誰も1つのお粗末な惑星を見逃しません。惑星のひび割れに行きます。"
+msgstr "(イシムラビーム) たかが一つの惑星を誰も惜しまない。惑星破壊に取り掛かれ。"
 
 #: src-en/data/events_sector_unexplored.xml.append:7
 msgid ""
 "data/events_sector_unexplored.xml.append$//mod:findName[@name=\"NEBULA_NEW_PLANET\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"あなたの船の電力の大部分を石村梁に迂回させると、あなたは惑星を開けて割れ始め、その表面の一部と多数の貴重な資源を明らかにします。おめでとうございます、あなたは惑星から大きな塊を引き裂いたときに数千種の絶滅を引き起こしました。"
+"船の動力の大部分をイシムラビームに回し、惑星を割り開き始める。その表面の一部と数多くの貴重な資源が現れる。おめでとう、あなたは惑星から大きな塊をえぐり取り、数千種の種を絶滅させた。"
 
 #: src-en/data/events_sector_unexplored.xml.append:16
 msgid ""

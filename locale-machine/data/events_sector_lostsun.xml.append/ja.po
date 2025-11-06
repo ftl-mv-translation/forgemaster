@@ -9,10 +9,10 @@ msgstr ""
 msgid ""
 "data/events_sector_lostsun.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE_LOSTSUN\"]/mod-"
 "append:choice/text"
-msgstr "（石村ビーム）はるかに大きな小惑星を採掘しようとします。"
+msgstr "(イシムラビーム) より大きな小惑星を採掘しようと試みる。"
 
 #: src-en/data/events_sector_lostsun.xml.append:7
 msgid ""
 "data/events_sector_lostsun.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE_LOSTSUN\"]/mod-"
 "append:choice/event/text"
-msgstr "FTLが充電されるのを待っている間に、最も近い小惑星から非常に大量の使用可能な材料を楽にします。"
+msgstr "FTLがチャージされるのを待っている間、あなたは楽々と最寄りの小惑星から非常に多くの利用可能な物質を採掘する。"

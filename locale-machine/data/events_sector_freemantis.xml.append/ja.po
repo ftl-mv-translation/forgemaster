@@ -9,14 +9,14 @@ msgstr ""
 msgid ""
 "data/events_sector_freemantis.xml.append$//mod:findName[@name=\"FREEMANTIS_WEIRD_TRADE\"]/mod-"
 "append:choice/text"
-msgstr "（ガンボム）私は本当に価値がないのですか？"
+msgstr "(ガンボム) 私は本当に価値がないのか？"
 
 #: src-en/data/events_sector_freemantis.xml.append:7
 msgid ""
 "data/events_sector_freemantis.xml.append$//mod:findName[@name=\"FREEMANTIS_WEIRD_TRADE\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"奇妙なマンティスはしばらく沈黙していて、興奮しているように見えます。「あなた！私は船を知っています。このウィンチェスターの船、非常に人気があります！私はあなたに提供するものは何もありません。"
+"奇妙なマンティスは一瞬黙り、そして興奮し始める。「お前！船を知っている。このウィンチェスター船、とても人気だ！お前に提供できるものはないが、旧友の座標を教えよう。彼は美味しい人間をよくもてなす！」"
 
 #: src-en/data/events_sector_freemantis.xml.append:10
 msgid ""
@@ -27,7 +27,7 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:21
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/text"
-msgstr "マンティスの船に飛び込んだ直後にあなたが呼ばれます。"
+msgstr "ジャンプしてすぐにマンティスの船が通信してくる。"
 
 #: src-en/data/events_sector_freemantis.xml.append:24
 msgid ""
@@ -38,27 +38,27 @@ msgstr ""
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/text"
 msgstr ""
-"スクリーンはちらつき、ボロボロの青い服の太りすぎのマンティスを見せます。「ああ！最後に、あられに対応する連邦船。名前はフレイヤーのカサイミイコールですが、心配していません。私は著作権と奴隷の長生きしていますが、今は後悔に満ちていることに気づきます。"
+"画面がちらつき、ぼろぼろの青い服を着た太ったマンティスが映る。「ああ！やっと、通信に応答する連邦船だ。名前は皮剥ぎのカサイミイイコールだが、心配するな。私は海賊と奴隷商として長い人生を送ってきたが、今は後悔に満ちている。マンティス文化のあまり暴力的でない側面を君と共有したい。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:28
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[1]/text"
-msgstr "彼を聞いてください。"
+msgstr "彼の話を聞く。"
 
 #: src-en/data/events_sector_freemantis.xml.append:30
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[1]/event/text"
-msgstr "「素晴らしい！素晴らしい！あなたは私の施設を座標で見つけます！私はあなたを待っています。」"
+msgstr "「素晴らしい！素晴らしい！座標で私の施設を見つけてくれ！待っているぞ。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:35
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/text"
-msgstr "マンティス文化には平和な部分はありません。モンスターを攻撃します。"
+msgstr "マンティス文化に平和な部分はない。怪物を攻撃する。"
 
 #: src-en/data/events_sector_freemantis.xml.append:37
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[2]/event/text"
-msgstr "マンティスが店内に持っていても、それは良くありません。戦闘の準備をします。"
+msgstr "マンティスが何を企んでいようと、良いことであるはずがない。戦闘準備をする。"
 
 #: src-en/data/events_sector_freemantis.xml.append:40
 msgid ""
@@ -68,17 +68,17 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:46
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[1]/event/choice[3]/text"
-msgstr "私たちの時間の価値はありません。"
+msgstr "時間の無駄だ。"
 
 #: src-en/data/events_sector_freemantis.xml.append:52
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/text"
-msgstr "船と戦う！"
+msgstr "船と戦え！"
 
 #: src-en/data/events_sector_freemantis.xml.append:54
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[2]/event/text"
-msgstr "マンティスが何を言っても、あなたは興味がありません。戦闘の準備をします。"
+msgstr "マンティスが何を言おうと、興味はない。戦闘準備をする。"
 
 #: src-en/data/events_sector_freemantis.xml.append:57
 msgid ""
@@ -93,7 +93,7 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:65
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE\"]/choice[3]/event/text"
-msgstr "マンティス船には興味がありません。"
+msgstr "マンティスの船には興味がない。"
 
 #: src-en/data/events_sector_freemantis.xml.append:67
 msgid ""
@@ -109,7 +109,7 @@ msgstr ""
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/text"
 msgstr ""
-"このビーコンには何も見つかりません。あなたはそれがtrapかもしれないと疑っていますが、座標が間違った順序で与えられたに違いないことをすぐに認識します。コーディアンツを正しい位置に切り替え、小さなマンティス駅が見つかるまで探索を続け、肥満が船体から部分的に洗浄されます。"
+"このビーコンでは何も見つからない。罠かもしれないと疑うが、すぐに座標が間違った順序で与えられたことに気づく。座標を正しい位置に切り替え、船体から部分的に血痕が洗い流された小さなマンティスステーションを見つけるまで探索を続ける。"
 
 #: src-en/data/events_sector_freemantis.xml.append:80
 msgid ""
@@ -119,39 +119,39 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:82
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/text"
-msgstr "「ああ、フェデレーション船が到着しました！おいしいマンティス料理の準備をしてください！」"
+msgstr "「ああ、連邦船が到着した！美味しいマンティス料理の準備はできているか！」"
 
 #: src-en/data/events_sector_freemantis.xml.append:84
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/text"
-msgstr "もちろん..."
+msgstr "もちろん…"
 
 #: src-en/data/events_sector_freemantis.xml.append:86
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/text"
 msgstr ""
-"Kasaymiiikorはあなたとあなたの乗組員をダイニングテーブルに導きます。そこでは、拳サイズの塩結晶とベルペッパー全体が中央に配置されます。その後、彼はドアの後ろに消え、その後すぐに「女王の左のピンカーによるああ、私の料理は台無しになります。しかし、もし私が人間の食べ物を使って、自分の料理のように変装した場合はどうなりますか？"
+"カサイミイイコールはあなたとクルーをダイニングテーブルに案内する。そこでは拳サイズの塩の結晶と丸ごとのピーマンが中央に置かれている。そして彼はドアの後ろに消え、その後すぐに「ああ女王の左のハサミにかけて、私の料理は台無しだ。しかし、もし…人間の食べ物を使って、自分の料理に見せかけたらどうだろうか？おっほっほ！実に邪悪だ、カサイミイイコール」という叫び声が聞こえる。"
 
 #: src-en/data/events_sector_freemantis.xml.append:88
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/text"
-msgstr "そこで何が起こっているのか見てみましょう。"
+msgstr "中で何が起こっているか見るべきだ。"
 
 #: src-en/data/events_sector_freemantis.xml.append:90
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"あなたは彼のキッチンに突入し、マンティスはショックで叫び、そのピンサーは旧地球の人間のマイクロ波のハンドルにかかっています。「ああ！私の友達！私はただ...マイクロ波に止まったのは、ホームワールドに戻った一般的な戦士の運動、私に加わることを気にかけていますか？"
+"あなたは彼のキッチンに飛び込むと、マンティスはショックで叫び声を上げる。そのハサミは旧地球人の電子レンジの取っ手にかかっている。「ああ！友よ！私はただ…電子レンジでハサミを鍛えていたのだ。故郷では一般的な戦士の訓練だ。一緒にどうだ？」"
 
 #: src-en/data/events_sector_freemantis.xml.append:92
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr "ええと、ありがとう。"
+msgstr "ええと、結構です。"
 
 #: src-en/data/events_sector_freemantis.xml.append:94
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr "キッチンを出て座席に戻ります。"
+msgstr "キッチンを出て席に戻る。"
 
 #: src-en/data/events_sector_freemantis.xml.append:96
 msgid ""
@@ -166,7 +166,7 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:104
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr "あなたは電子レンジで曲げようとします。あなたとマンティスは、あなたがあなたの席に戻る前に、厄介な沈黙の瞬間を少し持っています。"
+msgstr "電子レンジで鍛えようと試みる。あなたとマンティスは数瞬の気まずい沈黙の後、席に戻る。"
 
 #: src-en/data/events_sector_freemantis.xml.append:106
 msgid ""
@@ -176,22 +176,23 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:114
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/text"
-msgstr "場所を略奪します。"
+msgstr "場所を荒らす。"
 
 #: src-en/data/events_sector_freemantis.xml.append:116
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[2]/event/text"
-msgstr "マンティスはキッチンから戻ってきて、目の前にあるものをすべて略奪します。彼は恐怖で叫び、あなたは彼を殺すことを余儀なくされています。"
+msgstr ""
+"マンティスがキッチンから戻ってくると、あなたが目に入るものすべてを略奪しているのを見つける。彼は恐怖で叫び、あなたは彼を殺さざるを得なくなる。"
 
 #: src-en/data/events_sector_freemantis.xml.append:121
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/text"
-msgstr "これは本当に奇妙になっています、私たちは去るべきです。"
+msgstr "これは本当に奇妙になってきた、去るべきだ。"
 
 #: src-en/data/events_sector_freemantis.xml.append:123
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_ARRIVAL\"]/choice/event/choice/event/choice[3]/event/text"
-msgstr "マンティスが戻る前に、すぐに駅を出て、できるだけ飛び去ります。"
+msgstr "マンティスが戻る前に、素早くステーションを離れ、できるだけ遠くまで飛ぶ。"
 
 #: src-en/data/events_sector_freemantis.xml.append:125
 msgid ""
@@ -206,58 +207,58 @@ msgstr ""
 #: src-en/data/events_sector_freemantis.xml.append:140
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/text"
-msgstr "マンティスはキッチンから出てきて、古い地球のハンバーガーのように非常に奇妙に見える料理を持っています。"
+msgstr "マンティスがキッチンから現れ、旧地球のハンバーガーに非常によく似た料理を運んでくる。"
 
 #: src-en/data/events_sector_freemantis.xml.append:142
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/text"
-msgstr "私たちは私たちがマンティス料理を持っていると言ったと思いましたか？"
+msgstr "マンティス料理を食べると言っていたのでは？"
 
 #: src-en/data/events_sector_freemantis.xml.append:144
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/text"
-msgstr "「いいえ、私はマンティスの料理を言った！マンティスが作った食べ物を表す同様の用語「マンティス料理」と混同しないでください！」"
+msgstr "「いやいや、私はマンティスの料理と言ったのだ！マンティスによって作られた食べ物を意味する似た言葉「マンティス料理」と混同してはならない！」"
 
 #: src-en/data/events_sector_freemantis.xml.append:146
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/text"
-msgstr "違いがありますか？"
+msgstr "違いがあるのか？"
 
 #: src-en/data/events_sector_freemantis.xml.append:148
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/text"
-msgstr "「Y ...はい？それは地域の方言に依存しています、はい。」"
+msgstr "「え…ええ？それは地域の方言によるものだ、そうだ。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:150
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/text"
-msgstr "どの地域？"
+msgstr "どの地域だ？"
 
 #: src-en/data/events_sector_freemantis.xml.append:152
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/text"
-msgstr "「ええと...ファハカハク地区。」"
+msgstr "「ええと…ファーハカハク地区だ。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:154
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "なるほど..."
+msgstr "なるほど…"
 
 #: src-en/data/events_sector_freemantis.xml.append:156
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"あなたはしばらくの間沈黙して食べます、マンティスからのひっかき音を除いて、テーブルの上の爪を削っています。ハンバーガーは加熱されていて、飲み込むのが難しいです。あなたは咳をし、ドアの下から煙が渦巻くことに気づきます。"
+"マンティスがテーブルに爪をこすりつける引っ掻く音を除いて、しばらく黙って食べる。ハンバーガーは焼きすぎており、飲み込むのが難しい。咳をすると、ドアの下から煙が立ち上っているのに気づく。"
 
 #: src-en/data/events_sector_freemantis.xml.append:158
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "火を指摘します。"
+msgstr "火事を指摘する。"
 
 #: src-en/data/events_sector_freemantis.xml.append:160
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "マンティスはちょっと窒息します。「ええと、1秒間申し訳ありませんか？」"
+msgstr "マンティスは一分ほどむせる。「私は、ええと、少し失礼してもいいか？」"
 
 #: src-en/data/events_sector_freemantis.xml.append:162
 msgid ""
@@ -268,96 +269,96 @@ msgstr ""
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Kasaymiiikorはキッチンに向かって走り、戻ってから間もなく。今、ドアの下から輝く明るい輝きと、静かな口sが吹く騒音を見ることができます。「まあ、その素晴らしい、楽しい時間は、すべての時間を過ごしました！」"
+"カサイミイイコールはキッチンに駆け込み、すぐに戻ってくる。今ではドアの下から明るい光が放たれ、静かなヒューヒューという音が聞こえる。「さて、素晴らしい、皆で良い時間を過ごした。もう行く時間だ！」"
 
 #: src-en/data/events_sector_freemantis.xml.append:166
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr "そこで何が起こっていますか？"
+msgstr "中で何が起こっているんだ？"
 
 #: src-en/data/events_sector_freemantis.xml.append:168
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr "「ゾルタンサーカス！はい、とても明るい。」"
+msgstr "「ゾルタンのサーカスだ！そうだ、とても明るい。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:170
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr "あなたのキッチンにゾルタンサーカスがありますか？"
+msgstr "キッチンにゾルタンのサーカスがあるのか？"
 
 #: src-en/data/events_sector_freemantis.xml.append:172
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
-msgstr "「YYYYESS ...」"
+msgstr "「そおおおだ…」"
 
 #: src-en/data/events_sector_freemantis.xml.append:174
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "見てもいいですか？"
+msgstr "見てもいいか？"
 
 #: src-en/data/events_sector_freemantis.xml.append:176
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr "\"いいえ。\""
+msgstr "「だめだ。」"
 
 #: src-en/data/events_sector_freemantis.xml.append:178
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "わかりました..."
+msgstr "わかった…"
 
 #: src-en/data/events_sector_freemantis.xml.append:180
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"口を拭いて駅を出ます。駅が彼の後ろに燃えるにつれて、あなたが行くにつれてマンティスは波を起こします。船に戻ると、いくつかの木枠がリボンで包まれています。「プラトニックな愛を持つカサイミイコールから」と書かれています。彼はいつこれをする時間がありましたか？"
+"口を拭いてステーションを去る。あなたが行くとき、後ろでステーションが燃える中、マンティスは手を振る。船に戻ると、リボンで包まれたいくつかの木箱を見つける。「カサイミイイコールよりプラトニックな愛を込めて」と書かれている。いつこんなことをする時間があったのだろうか？"
 
 #: src-en/data/events_sector_freemantis.xml.append:188
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "別の木枠を開きます。"
+msgstr "別の木箱を開ける。"
 
 #: src-en/data/events_sector_freemantis.xml.append:190
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "木枠を開けます"
+msgstr "木箱を開ける"
 
 #: src-en/data/events_sector_freemantis.xml.append:198
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "別の木枠を開きます。"
+msgstr "別の木箱を開ける。"
 
 #: src-en/data/events_sector_freemantis.xml.append:200
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "木枠を開けます"
+msgstr "木箱を開ける"
 
 #: src-en/data/events_sector_freemantis.xml.append:223
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr "あなたは私たちをここに十分に長く保ちました。私たちが去る時です。"
+msgstr "もう十分ここにいさせられた。出発の時間だ。"
 
 #: src-en/data/events_sector_freemantis.xml.append:225
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
-"乗組員を集めて、燃えているステーションから行進します。船に戻ると、いくつかの木枠がリボンで包まれています。「プラトニックな愛を持つカサイミイコールから」と書かれています。彼はいつこれをする時間がありましたか？最初の木枠を開きます"
+"クルーを集め、燃えるステーションから行進して出る。船に戻ると、リボンで包まれたいくつかの木箱を見つける。「カサイミイイコールよりプラトニックな愛を込めて」と書かれている。いつこんなことをする時間があったのだろうか？最初の木箱を開ける"
 
 #: src-en/data/events_sector_freemantis.xml.append:233
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr "別の木枠を開きます。"
+msgstr "別の木箱を開ける。"
 
 #: src-en/data/events_sector_freemantis.xml.append:235
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr "木枠を開けます"
+msgstr "木箱を開ける"
 
 #: src-en/data/events_sector_freemantis.xml.append:245
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr "別の木枠を開きます。"
+msgstr "別の木箱を開ける。"
 
 #: src-en/data/events_sector_freemantis.xml.append:247
 msgid ""
 "data/events_sector_freemantis.xml.append$//event[@name=\"QUEST_MANTIS_CULTURE_CONVERSATION\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
-msgstr "木枠を開けます"
+msgstr "木箱を開ける"

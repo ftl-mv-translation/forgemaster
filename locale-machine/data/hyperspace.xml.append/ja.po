@@ -14,13 +14,13 @@ msgstr "アラステア"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
-msgstr "Volpe"
+msgstr "ヴォルペ"
 
 #: src-en/data/hyperspace.xml.append:301
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_FORGEMASTER_1\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
-msgstr "アッティカス"
+msgstr "アティカス"
 
 #: src-en/data/hyperspace.xml.append:311
 msgid ""
@@ -119,7 +119,7 @@ msgstr "モスバーグMK III"
 
 #: src-en/data/hyperspace.xml.append:401
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"P.Escobar\"]/@name"
-msgstr "P.ESCOBAR"
+msgstr "P.エスコバル"
 
 #: src-en/data/hyperspace.xml.append:402
 msgid "data/hyperspace.xml.append$//slug_knight[@name=\"Marcola\"]/@name"
@@ -143,7 +143,7 @@ msgstr "リプリー"
 
 #: src-en/data/hyperspace.xml.append:423
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Kovacs\"]/@name"
-msgstr "Kovacs"
+msgstr "コヴァックス"
 
 #: src-en/data/hyperspace.xml.append:424
 msgid "data/hyperspace.xml.append$//zoltan_peacekeeper[@name=\"Graziano\"]/@name"
@@ -159,15 +159,15 @@ msgstr "モンスーン"
 
 #: src-en/data/hyperspace.xml.append:469
 msgid "data/hyperspace.xml.append$//mantis[@name=\"Naktul\"]/@name"
-msgstr "ナクル"
+msgstr "ナクトル"
 
 #: src-en/data/hyperspace.xml.append:470
 msgid "data/hyperspace.xml.append$//mantis_free[@name=\"Yagdra\"]/@name"
-msgstr "Yagdra"
+msgstr "ヤグドラ"
 
 #: src-en/data/hyperspace.xml.append:471
 msgid "data/hyperspace.xml.append$//mantis_suzerain[@name=\"Zurvan\"]/@name"
-msgstr "Zurvan"
+msgstr "ズルヴァン"
 
 #: src-en/data/hyperspace.xml.append:472
 msgid "data/hyperspace.xml.append$//mantis_bishop[@name=\"Zagara\"]/@name"
@@ -183,7 +183,7 @@ msgstr "スペック"
 
 #: src-en/data/hyperspace.xml.append:704
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Zed\"]/@name"
-msgstr "zed"
+msgstr "ゼッド"
 
 #: src-en/data/hyperspace.xml.append:705
 msgid "data/hyperspace.xml.append$//human_engineer[@name=\"Maynard\"]/@name"
@@ -201,7 +201,7 @@ msgstr "ルートヴィヒ"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Volpe\"]/@name"
-msgstr "Volpe"
+msgstr "ヴォルペ"
 
 #: src-en/data/hyperspace.xml.append:803
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bellamy\"]/@name"
@@ -211,7 +211,7 @@ msgstr "ベラミー"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Atticus\"]/@name"
-msgstr "アッティカス"
+msgstr "アティカス"
 
 #: src-en/data/hyperspace.xml.append:805
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Burnette\"]/@name"
@@ -227,7 +227,7 @@ msgstr "カリオ"
 
 #: src-en/data/hyperspace.xml.append:808
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Bavitz\"]/@name"
-msgstr "バビッツ"
+msgstr "バヴィッツ"
 
 #: src-en/data/hyperspace.xml.append:809
 msgid ""
@@ -245,7 +245,7 @@ msgstr "フェレル"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY\"]/crew/fm_plated[@name=\"Convy\"]/@name"
-msgstr "コンビ"
+msgstr "コンヴィ"
 
 #: src-en/data/hyperspace.xml.append:812
 msgid ""
@@ -255,35 +255,35 @@ msgstr "パレルモ"
 
 #: src-en/data/hyperspace.xml.append:813
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Dirnt\"]/@name"
-msgstr "dirnt"
+msgstr "ダーント"
 
 #: src-en/data/hyperspace.xml.append:841
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 1\"]/@name"
-msgstr "役員1"
+msgstr "オフィサー1"
 
 #: src-en/data/hyperspace.xml.append:842
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 2\"]/@name"
-msgstr "役員2"
+msgstr "オフィサー2"
 
 #: src-en/data/hyperspace.xml.append:843
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 3\"]/@name"
-msgstr "役員3"
+msgstr "オフィサー3"
 
 #: src-en/data/hyperspace.xml.append:844
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 4\"]/@name"
-msgstr "役員4"
+msgstr "オフィサー4"
 
 #: src-en/data/hyperspace.xml.append:845
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 5\"]/@name"
-msgstr "役員5"
+msgstr "オフィサー5"
 
 #: src-en/data/hyperspace.xml.append:846
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 6\"]/@name"
-msgstr "役員6"
+msgstr "オフィサー6"
 
 #: src-en/data/hyperspace.xml.append:847
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Officer 7\"]/@name"
-msgstr "役員7"
+msgstr "オフィサー7"
 
 #: src-en/data/hyperspace.xml.append:848
 msgid ""
@@ -301,7 +301,7 @@ msgstr "フェレル"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"FM_FORGEMASTER_CRUISER_ENEMY_LAST_STRAW\"]/crew/fm_plated[@name=\"Convy\"]/@name"
-msgstr "コンビ"
+msgstr "コンヴィ"
 
 #: src-en/data/hyperspace.xml.append:851
 msgid ""
@@ -311,7 +311,7 @@ msgstr "パレルモ"
 
 #: src-en/data/hyperspace.xml.append:852
 msgid "data/hyperspace.xml.append$//fm_plated[@name=\"Pterodactyl\"]/@name"
-msgstr "Pterodactyl"
+msgstr "プテロダクティル"
 
 #: src-en/data/hyperspace.xml.append:1111
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Freddy\"]/@name"
@@ -347,19 +347,19 @@ msgstr "フェルディナンド"
 
 #: src-en/data/hyperspace.xml.append:1118
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.I\"]/@name"
-msgstr "foog.i"
+msgstr "フーグ.I"
 
 #: src-en/data/hyperspace.xml.append:1119
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fumblemore\"]/@name"
-msgstr "香料"
+msgstr "ファンブルモア"
 
 #: src-en/data/hyperspace.xml.append:1120
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Foog.II\"]/@name"
-msgstr "foog.ii"
+msgstr "フーグ.II"
 
 #: src-en/data/hyperspace.xml.append:1121
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Lord Foog\"]/@name"
-msgstr "フォーグLord"
+msgstr "ロード・フーグ"
 
 #: src-en/data/hyperspace.xml.append:1122
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Feddy\"]/@name"
@@ -367,11 +367,11 @@ msgstr "フェディ"
 
 #: src-en/data/hyperspace.xml.append:1123
 msgid "data/hyperspace.xml.append$//unique_freddy[@name=\"Fazbear\"]/@name"
-msgstr "ファズビー"
+msgstr "ファズベアー"
 
 #: src-en/data/hyperspace.xml.append:1177
 msgid "data/hyperspace.xml.append$//unique_tuco[@name=\"Tuco\"]/@name"
-msgstr "トコ"
+msgstr "トゥコ"
 
 #: src-en/data/hyperspace.xml.append:1178
 msgid ""
@@ -451,11 +451,11 @@ msgstr "B.O.S.D."
 
 #: src-en/data/hyperspace.xml.append:1303
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Abort\"]/@name"
-msgstr "アボート"
+msgstr "中止"
 
 #: src-en/data/hyperspace.xml.append:1304
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Retry\"]/@name"
-msgstr "リトライ"
+msgstr "再試行"
 
 #: src-en/data/hyperspace.xml.append:1305
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Fail\"]/@name"
@@ -464,15 +464,15 @@ msgstr "失敗"
 #: src-en/data/hyperspace.xml.append:1306
 msgid ""
 "data/hyperspace.xml.append$//fm_human_texture[@name=\"ErrorNotFound\"]/@name"
-msgstr "errornotfound"
+msgstr "ErrorNotFound"
 
 #: src-en/data/hyperspace.xml.append:1307
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"NaN\"]/@name"
-msgstr "ナン"
+msgstr "NaN"
 
 #: src-en/data/hyperspace.xml.append:1308
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"BonziBuddy\"]/@name"
-msgstr "Bonzibuddy"
+msgstr "BonziBuddy"
 
 #: src-en/data/hyperspace.xml.append:1309
 msgid ""
@@ -482,7 +482,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1310
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Vista\"]/@name"
-msgstr "Vista"
+msgstr "ヴィスタ"
 
 #: src-en/data/hyperspace.xml.append:1311
 msgid "data/hyperspace.xml.append$//fm_human_texture[@name=\"Keyboard\"]/@name"
@@ -502,7 +502,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1613
 msgid "data/hyperspace.xml.append$//butler[@name=\"Candy\"]/@name"
-msgstr "あめ"
+msgstr "キャンディ"
 
 #: src-en/data/hyperspace.xml.append:1614
 msgid "data/hyperspace.xml.append$//butler[@name=\"Krystal\"]/@name"
@@ -510,7 +510,7 @@ msgstr "クリスタル"
 
 #: src-en/data/hyperspace.xml.append:1615
 msgid "data/hyperspace.xml.append$//butler[@name=\"Chastity\"]/@name"
-msgstr "貞操"
+msgstr "チャスティティ"
 
 #: src-en/data/hyperspace.xml.append:1627
 msgid ""
@@ -548,7 +548,7 @@ msgstr "ヴァンス"
 
 #: src-en/data/hyperspace.xml.append:1767
 msgid "data/hyperspace.xml.append$//unique_ooj[@name=\"Oojie\"]/@name"
-msgstr "oojie"
+msgstr "ウージィ"
 
 #: src-en/data/hyperspace.xml.append:1768
 msgid ""
@@ -568,7 +568,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1771
 msgid "data/hyperspace.xml.append$//sylvanmaid[@name=\"Digger\"]/@name"
-msgstr "掘り"
+msgstr "ディガー"
 
 #: src-en/data/hyperspace.xml.append:1772
 msgid "data/hyperspace.xml.append$//nemesismfk[@name=\"Leah\"]/@name"
@@ -579,175 +579,177 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[1]/tooltip"
 msgstr ""
-"鍛造加速器：\n"
-"この敵のユニークな鎧は、武器からのあらゆる種類の損傷に抵抗する25のチャンスを付与します。火の火は50％遅くなり、シールは非常にゆっくりと侵害し、窒息を半分にし、特定のシステムを大幅に速く修復し、中断で修復の進捗が失われません（そして、パイロットは常に飼育されます）。"
+"鍛造促進剤:\n"
+"\t\t\t\t\tこの敵のユニークな装甲は、あなたの兵器からのあらゆる種類のダメージに対して25%の確率で抵抗する。火災の燃焼が50%遅くなり、亀裂の封鎖が非常に遅くなり、窒息ダメージを半減させ、乗組員は特定のシステムを大幅に速く修理し、中断されても修理の進行は失われない（そして操縦は常に有人である）。"
 
 #: src-en/data/hyperspace.xml.append:1801
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[2]/tooltip"
 msgstr ""
-"鍛造メドボット：\n"
-"このユニークなメドベイは、すべての同盟の乗組員を癒し、20％の武器ダメージ抵抗を与えますが、その強度と抵抗は、医療システムにどれだけの電力をかけるかで尺度を拡張します。破壊されたり、動作したりしていない場合、それはまだ軽く癒します。ベースヒーリングは1HP/s、4パワーで2.5HP/sです。"
+"鍛造メッドボット:\n"
+"\t\t\t\t\tこのユニークな医療室は全ての味方乗組員を回復させ、20%の兵器ダメージ耐性を与えるが、その強度と耐性は医療システムに投入されるパワーに応じて変化する。破壊されたり電力が供給されなくても、乗組員を軽く回復させる。基本回復量は1hp/秒、4パワーで2.5hp/秒である。"
 
 #: src-en/data/hyperspace.xml.append:1807
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[3]/tooltip"
 msgstr ""
-"寸法リフト増強：\n"
-"この船は、別の次元からのテクノロジーを利用しています。この非常識な容器を倒すことができれば、このような技術を自分で主張することができます！"
+"次元断層増強装置:\n"
+"\t\t\t\t\tこの船は別次元の技術を利用している。この狂気の船を倒すことができれば、このような技術を自分のものにすることができるだろう！"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[4]/tooltip"
 msgstr ""
-"物理的な外傷ナノマシン：\n"
-"この船のマニングドローンによって分配されたユニークなナノマシンは、ENGIキャプテンの健康と損傷の抵抗を高めます。ドローンを取り出して、エンギのキャプテンを取り出すことができます！"
+"物理的外傷ナノマシン:\n"
+"\t\t\t\t\tこの船の有人ドローンが散布するユニークなナノマシンは、エンジ船長の体力とダメージ耐性を向上させる。ドローンを倒して、エンジ船長を倒せ！"
 
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[5]/tooltip"
 msgstr ""
-"駆逐艦のゴーザー：\n"
-"いくつかの奇妙な分裂能力を使用して、この船はゆっくりと強制的に乗組員を「分割」し、それらを船に材料化します。船を止めるために乗組員を連れて行ってください！"
+"破壊神ゴーザー:\n"
+"\t\t\t\t\t奇妙な分裂能力を使い、この船はゆっくりと強制的に乗組員を「分裂」させ、あなたの船に再物質化させる。彼らの乗組員を倒して船を止めろ！"
 
 #: src-en/data/hyperspace.xml.append:1825
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[6]/tooltip"
 msgstr ""
-"殺人ボット分散：\n"
-"この敵の船は、殺人的なナノボットで満たされており、それは時間の経過とともに乗組員を受動的に損傷します。名前は、それをそれよりもはるかに暴力的に聞こえさせます。"
+"マーダーボット散布:\n"
+"\t\t\t\t\tこの敵船は殺人ナノボットで満ちており、時間経過とともにあなたの乗組員に受動的にダメージを与える。名前は実際よりもずっと暴力的に聞こえる。"
 
 #: src-en/data/hyperspace.xml.append:1831
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[7]/tooltip"
 msgstr ""
-"ねじれた結晶鎧：\n"
-"武器でこの敵に船体のダメージを与えるたびに、3倍のクリスタル鉱山が壊れて船に向かって飛ぶ可能性が50％あります。彼らはあらゆる盾を貫通し、それがヒットした場合、ランダムな部屋に1つのダメージを与え、見事な乗組員と部屋を閉じ込めます。"
+"歪んだ結晶装甲:\n"
+"\t\t\t\t\t兵器でこの敵に船体ダメージを与えるたびに、50%の確率で3倍のクリスタルマインが分離し、あなたの船に向かって飛んでくる。それらはあらゆるシールドを貫通し、命中した場合はランダムな部屋に1ダメージを与え、乗組員を気絶させ、部屋をロックダウンする。"
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[8]/tooltip"
 msgstr ""
-"耐性室、バリアント：\n"
-"この敵には、グレーの境界線と左上のRアイコンがマークされた1つ以上の抵抗力のある部屋があります。耐性室は通常、武器からシステムの損傷を受けませんが、乗組員や火災によって損傷を受ける可能性があります。耐性室は、通常のようにイオンと船体の損傷を受けます。\n"
-"船の部屋の「R」アイコンはこのステータスを示しており、アイコンがどれだけいっぱいかによって、部屋は武器の損傷に抵抗する可能性が高いです。"
+"耐性部屋、バリアント:\n"
+"\t\t\t\t\tこの敵は1つ以上の耐性部屋を持ち、灰色の境界線と左上のRアイコンで示される。耐性部屋は通常、兵器からシステムダメージを受けないが、乗組員や火災によってダメージを受けることがある。耐性部屋は通常通りイオンダメージと船体ダメージを受ける。\n"
+"\t\t\t\t\t船室の「R」アイコンはこの状態を示し、アイコンの塗りつぶされ具合によって、部屋が兵器ダメージに抵抗する可能性が高くなる。"
 
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[9]/tooltip"
 msgstr ""
-"鍛造エネルギーを塗った部屋：\n"
-"この敵には1つ以上のエネルギーを与えられた部屋があり、Alastairはこれらのバージョンをカスタマイズしたようです。これらの「エネルギーを与えられた」部屋は、妨害行為に対して50％の余分な抵抗力があり、敵の乗組員は内部で30％少ない損傷を受けます。さらに、乗組員はこれらの部屋で3 dmg/secを取得します。"
+"鍛造エネルギー化部屋:\n"
+"\t\t\t\t\tこの敵は1つ以上のエネルギー化された部屋を持っている。アラステアがこれらのバージョンをカスタマイズしたようだ。これらの「エネルギー化」された部屋は妨害工作に対してさらに50%耐性があり、中にいる敵乗組員が受けるダメージは30%減少する。さらに、あなたの乗組員はこれらの部屋で毎秒3ダメージを受ける。"
 
 #: src-en/data/hyperspace.xml.append:1850
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[10]/tooltip"
 msgstr ""
-"フェロモンの力を与える：\n"
-"この敵の船はフェロモンで満たされています。これらは、乗組員に1.5倍の最大HP、20％の損傷削減、および80％の窒息抵抗を提供します。"
+"強化フェロモン:\n"
+"\t\t\t\t\tこの敵船はフェロモンで満たされている。これにより、乗組員の最大HPが1.5倍、ダメージ軽減が20%、窒息耐性が80%になる。"
 
 #: src-en/data/hyperspace.xml.append:1856
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[11]/tooltip"
 msgstr ""
-"現実の曲がったシステム：\n"
-"この敵は強力な武器とシステムを所有していますが、時空の極端な伸びにより、そのシステムと船体は15秒ごとに損傷しています。"
+"現実歪曲システム:\n"
+"\t\t\t\t\tこの敵は強力な兵器とシステムを所有しているが、時空の極端な歪みにより、15秒ごとにシステムと船体がダメージを受ける。"
 
 #: src-en/data/hyperspace.xml.append:1864
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[12]/tooltip"
 msgstr ""
-"モジュラーハルキャップストーン：\n"
-"あなたはこれを見るべきではありません"
+"モジュラー船体キャップストーン:\n"
+"\t\t\t\t\tこれが見えるはずはない"
 
 #: src-en/data/hyperspace.xml.append:1869
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[13]/tooltip"
 msgstr ""
-"コンプレッサーバイパスマニホールド：\n"
-"敵の武器は30％速く充電されますが、シールドは60％遅い充電"
+"コンプレッサーバイパス・マニホールド:\n"
+"\t\t\t\t\t敵の兵器チャージが30%速くなるが、シールドのチャージは60%遅くなる"
 
 #: src-en/data/hyperspace.xml.append:1874
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[14]/tooltip"
 msgstr ""
-"infinitum cyclo-barrier：\n"
-"入ってくる発射体がシールドによって破壊される可能性は15％、シールドシステムの無力なバーのすべてのバーについて、発射体が破壊されない可能性は相対的な15％、および +50％の無力なバーのシールド充電 +50％"
+"インフィニタム・サイクロバリア:\n"
+"\t\t\t\t\t飛来する発射物がシールドによって破壊される確率15%。シールドシステムの非稼働バー1つにつき、発射物が破壊されない確率は相対的に15%減少し、さらに非稼働バー1つにつきシールド再チャージが+50%される"
 
 #: src-en/data/hyperspace.xml.append:1879
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[15]/tooltip"
 msgstr ""
-"infinitum cyclo-areNal：\n"
-"敵の武器は5％遅いが、武器システムの無力なバーごとに15％速く充電する"
+"インフィニタム・サイクロアーセナル:\n"
+"\t\t\t\t\t敵の兵器チャージが5%遅くなるが、兵器システムの非稼働バー1つにつき15%速くチャージされる"
 
 #: src-en/data/hyperspace.xml.append:1884
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[16]/tooltip"
-msgstr "電磁船体体：システム損傷に抵抗する10％の確率、イオン損傷に抵抗する30％の確率、脱イオン化速度 +50％"
+msgstr ""
+"電磁船体:\n"
+"\t\t\t\t\tシステムダメージへの抵抗確率10%、イオンダメージへの抵抗確率30%、脱イオン化速度+50%"
 
 #: src-en/data/hyperspace.xml.append:1889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[17]/tooltip"
 msgstr ""
-"粒子化されたシールド：\n"
-"敵のシールドは50％遅い充電がありますが、追加の8エネルギーシールドの完全性を獲得します"
+"粒子化シールド:\n"
+"\t\t\t\t\t敵のシールドチャージが50%遅くなるが、追加で8エネルギーシールドの完全性を得る"
 
 #: src-en/data/hyperspace.xml.append:1894
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[18]/tooltip"
 msgstr ""
-"言い表せない条例キャリブレーター：\n"
-"敵の武器は10％遅く充電されますが、船体、システム、イオンに抵抗する可能性は15％減少し、攻撃に違反する +40％の違反チャンスがあります"
+"不可言兵器キャリブレーター:\n"
+"\t\t\t\t\t敵の兵器チャージが10%遅くなるが、あなたの船体、システム、イオンへの抵抗確率が15%減少し、亀裂攻撃の亀裂発生確率が+40%される"
 
 #: src-en/data/hyperspace.xml.append:1899
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[19]/tooltip"
 msgstr ""
-"武器イグナイター：\n"
-"敵の武器は50％速く充電されますが、武器室は撃つたびに点火されます"
+"兵器点火装置:\n"
+"\t\t\t\t\t敵の兵器チャージが50%速くなるが、発射するたびに兵器室が発火する"
 
 #: src-en/data/hyperspace.xml.append:1904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[20]/tooltip"
 msgstr ""
-"オフェンススクランブラー：\n"
-"あなたの武器は20％遅く充電されますが、敵のシールドは30％遅い充電を充電します"
+"攻撃スクランブラー:\n"
+"\t\t\t\t\tあなたの兵器チャージが20%遅くなるが、敵のシールド再チャージは30%遅くなる"
 
 #: src-en/data/hyperspace.xml.append:1909
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[21]/tooltip"
 msgstr ""
-"防衛スクランブラー：\n"
-"あなたのシールドは30％遅い充電を充電し、あなたのクローキングシステムは5秒以上のクールダウンを持っています"
+"防御スクランブラー:\n"
+"\t\t\t\t\tあなたのシールドチャージが30%遅くなり、クローキングシステムのクールダウンが5秒長くなる"
 
 #: src-en/data/hyperspace.xml.append:1914
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[4]/mod:findLike/mod-"
 "append:shipIcons/shipIcon[22]/tooltip"
 msgstr ""
-"緊急修理システム：\n"
-"この船は、重大な船体損傷の場合に何らかの緊急修理システムがあります。"
+"緊急修理システム:\n"
+"\t\t\t\t\tこの船は致命的な船体ダメージを受けた場合の緊急修理システムを備えているようだ。"
 
 #: src-en/data/hyperspace.xml.append:3105
 msgid ""
@@ -797,7 +799,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:3276
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_RARE_STORE\"]/category[5]/customTitle"
-msgstr "まれな拡張"
+msgstr "レア増強装置"
 
 #: src-en/data/hyperspace.xml.append:3290
 msgid ""
@@ -847,7 +849,7 @@ msgstr "兵器"
 #: src-en/data/hyperspace.xml.append:3462
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/store/customStore[@id=\"FM_BOON_STORE\"]/category[5]/customTitle"
-msgstr "まれな拡張"
+msgstr "レア増強装置"
 
 #: src-en/data/hyperspace.xml.append:3476
 msgid ""
@@ -863,25 +865,25 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/name"
-msgstr "\\1将来の終わり"
+msgstr "\\1 暗い未来のエンディング"
 
 #: src-en/data/hyperspace.xml.append:4221
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/description"
-msgstr "\\1のレイアウトに搭載されている暗い未来の断片を探索する"
+msgstr "\\1の任意のレイアウトで、暗い未来の断片を探索する"
 
 #: src-en/data/hyperspace.xml.append:4223
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretName"
-msgstr "\\1 ?????エンディング"
+msgstr "\\1 ????? エンディング"
 
 #: src-en/data/hyperspace.xml.append:4224
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[5]/mod:findLike/mod-"
 "append:bleakfuture/secretDescription"
-msgstr "\\1のレイアウトに乗って将来の多面的な脅威を発見する"
+msgstr "\\1の任意のレイアウトで、未来のマルチバースの脅威を発見する"
 
 #: src-en/data/hyperspace.xml.append:4324
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/buttonText"
@@ -889,58 +891,59 @@ msgstr "腐食"
 
 #: src-en/data/hyperspace.xml.append:4325
 msgid "data/hyperspace.xml.append$//race[@name=\"acid\"]/powerEffect/tooltip"
-msgstr "10秒ごとに船体を燃やし、同じ部屋の乗組員に絶えずパッシブダメージを与えます"
+msgstr "10秒ごとに船体を焼き尽くし、同室の乗組員に継続的に受動ダメージを与える"
 
 #: src-en/data/hyperspace.xml.append:4423
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/buttonText"
-msgstr "脈"
+msgstr "パルス"
 
 #: src-en/data/hyperspace.xml.append:4424
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew\"]/powerEffect/tooltip"
 msgstr ""
-"9秒ごとに、現在の部屋に1つのイオン損傷を自動的に扱い、そこにいるすべての乗組員を一時的に驚かせます。戦闘で低いダメージを与えます。部屋の他のすべての乗組員の移動速度を遅くします。2つのイオン損傷を扱います。"
+"9秒ごとに、現在の部屋に1イオンダメージを自動的に与え、そこにいる全クルーを短時間スタンさせる。戦闘では低いダメージを与える。部屋にいる他の全クルーの移動速度を低下させる。死亡時に2イオンダメージを与える。"
 
 #: src-en/data/hyperspace.xml.append:4547
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/buttonText"
-msgstr "脈"
+msgstr "パルス"
 
 #: src-en/data/hyperspace.xml.append:4548
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ion_anomaly_crew_enemy\"]/powerEffect/tooltip"
 msgstr ""
-"9秒ごとに、現在の部屋に1つのイオン損傷を自動的に扱い、そこにいるすべての乗組員を一時的に驚かせます。戦闘で低いダメージを与えます。部屋の他のすべての乗組員の移動速度を遅くします。2つのイオン損傷を扱います。"
+"9秒ごとに、現在の部屋に1イオンダメージを自動的に与え、そこにいる全クルーを短時間スタンさせる。戦闘では低いダメージを与える。部屋にいる他の全クルーの移動速度を低下させる。死亡時に2イオンダメージを与える。"
 
 #: src-en/data/hyperspace.xml.append:4887
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/buttonText"
-msgstr "リフォージ"
+msgstr "再鍛造"
 
 #: src-en/data/hyperspace.xml.append:4888
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson\"]/powerEffect/tooltip"
-msgstr "準備：10のシステムと2つの船体損傷を修復します。許しを大いに癒し、火を開始します。"
+msgstr "準備完了：10システムダメージと2船体ダメージを修理。フォージマスターを大幅に回復させ、火災を発生させる。"
 
 #: src-en/data/hyperspace.xml.append:4970
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/buttonText"
-msgstr "リフォージ"
+msgstr "再鍛造"
 
 #: src-en/data/hyperspace.xml.append:4971
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_forgemasterperson_player\"]/powerEffect/tooltip"
-msgstr "準備：10のシステムと2つの船体損傷を修復します。許しを大いに癒し、火を開始します。能力キャスト中にダメージを与えません。"
+msgstr ""
+"準備完了：10システムダメージと2船体ダメージを修理。フォージマスターを大幅に回復させ、火災を発生させる。アビリティ発動中はダメージを受けない。"
 
 #: src-en/data/hyperspace.xml.append:5052
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/buttonText"
-msgstr "リフォージ"
+msgstr "再鍛造"
 
 #: src-en/data/hyperspace.xml.append:5053
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_plated\"]/powerEffect/tooltip"
-msgstr "準備：4つのシステムと1つの船体損傷を修復します。20 hpでメッキを癒します。能力キャスト中にダメージを与えません。"
+msgstr "準備完了：4システムダメージと1船体ダメージを修理。装甲乗員を20hp回復させる。アビリティ発動中はダメージを受けない。"
 
 #: src-en/data/hyperspace.xml.append:5105
 msgid ""
@@ -951,19 +954,19 @@ msgstr "研磨"
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"plated_shell_fortify\"]/tooltip"
 msgstr ""
-"準備ができている：20馬力で癒しながら、15馬力で敵を損傷します。スタンの影響を受け、20％の余分な範囲のダメージを与え、すべてのダメージに対して70％の抵抗を獲得し、その期間は2倍の速度で動きます。部屋は15秒間、システムの損傷に対して完全に耐性になります。"
+"準備完了：敵に15hpのダメージを与え、自身は20hp回復する。気絶に免疫を得て、20%の追加遠距離ダメージを与え、全てのダメージに対して70%の耐性を得て、効果時間中は2倍の速度で移動する。部屋は15秒間、システムダメージに対して完全耐性を得る。"
 
 #: src-en/data/hyperspace.xml.append:5176
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/buttonText"
-msgstr "吸収する"
+msgstr "吸収"
 
 #: src-en/data/hyperspace.xml.append:5177
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_bronze\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：15秒]\n"
-"同じ部屋でコバルト分離主義者と合併して、ねじれた分離主義者を形成します。"
+"[クールダウン:15秒]\n"
+"\t\t\t\t\t同室のコバルト・セパラティストと合体し、ツイステッド・セパラティストになる。"
 
 #: src-en/data/hyperspace.xml.append:5242
 msgid ""
@@ -974,20 +977,20 @@ msgstr "再生"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_cobalt\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"ねえ、あなたはこれを読んではいけません！スクラム！"
+"[クールダウン:10秒]\n"
+"\t\t\t\tおい、こんなものを読んでいるんじゃない！あっちへ行け！"
 
 #: src-en/data/hyperspace.xml.append:5285
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/buttonText"
-msgstr "改革"
+msgstr "再形成"
 
 #: src-en/data/hyperspace.xml.append:5286
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_nano_cobalt\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"コバルトの分離主義者に改革し、船体1匹とシステムの損傷を扱い、現在の部屋に違反します。"
+"[クールダウン:20秒]\n"
+"\t\t\t\tコバルト・セパラティストに再形成し、1船体・システムダメージを与え、現在の部屋に亀裂を生じさせる。"
 
 #: src-en/data/hyperspace.xml.append:5311
 msgid ""
@@ -1002,12 +1005,14 @@ msgstr "ブロンズ"
 #: src-en/data/hyperspace.xml.append:5350
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/buttonText"
-msgstr "スプリット"
+msgstr "分裂"
 
 #: src-en/data/hyperspace.xml.append:5351
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_separatist_twisted\"]/powerEffect/tooltip"
-msgstr "[クールダウン：15秒] 2人の分離主義者に戻ります。"
+msgstr ""
+"[クールダウン:15秒]\n"
+"\t\t\t\t\t2人のセパラティストに分裂する。"
 
 #: src-en/data/hyperspace.xml.append:5357
 msgid ""
@@ -1017,22 +1022,24 @@ msgstr "コバルト"
 #: src-en/data/hyperspace.xml.append:5381
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/buttonText"
-msgstr "吸収する"
+msgstr "吸収"
 
 #: src-en/data/hyperspace.xml.append:5382
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_blood_morph_absorb\"]/tooltip"
-msgstr "[クールダウン：20秒]は、部屋のすべてのフレンドリーな乗組員を吸収し、永続的なブーストを与えます。"
+msgstr ""
+"[クールダウン:20秒]\n"
+"\t\t\t\t同室の全ての味方乗組員を吸収し、永続的なブーストを得る。"
 
 #: src-en/data/hyperspace.xml.append:5527
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/buttonText"
-msgstr "火"
+msgstr "火炎"
 
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_red\"]/powerEffect/tooltip"
-msgstr "準備：火を生みます。"
+msgstr "準備完了：火災を発生させる。"
 
 #: src-en/data/hyperspace.xml.append:5595
 msgid ""
@@ -1042,17 +1049,17 @@ msgstr "イオン"
 #: src-en/data/hyperspace.xml.append:5596
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_blue\"]/powerEffect/tooltip"
-msgstr "準備：イオンとスタンのスポーン。"
+msgstr "準備完了：イオンと気絶を発生させる。"
 
 #: src-en/data/hyperspace.xml.append:5662
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/buttonText"
-msgstr "違反"
+msgstr "亀裂"
 
 #: src-en/data/hyperspace.xml.append:5663
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_green\"]/powerEffect/tooltip"
-msgstr "準備：侵害と取引の乗組員の損傷を生み出します。"
+msgstr "準備完了：亀裂を発生させ、乗組員にダメージを与える。"
 
 #: src-en/data/hyperspace.xml.append:5735
 msgid ""
@@ -1062,17 +1069,17 @@ msgstr "オムニ"
 #: src-en/data/hyperspace.xml.append:5736
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_white\"]/powerEffect/tooltip"
-msgstr "準備：すべてのクリスタル効果を与えます。"
+msgstr "準備完了：全てのクリスタル効果を与える。"
 
 #: src-en/data/hyperspace.xml.append:5803
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/buttonText"
-msgstr "空所"
+msgstr "ヴォイド"
 
 #: src-en/data/hyperspace.xml.append:5804
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_crystal_black\"]/powerEffect/tooltip"
-msgstr "準備：ランダムクリスタルを産みます"
+msgstr "準備完了：ランダムなクリスタルを生成する"
 
 #: src-en/data/hyperspace.xml.append:5902
 msgid ""
@@ -1082,7 +1089,8 @@ msgstr "シールド"
 #: src-en/data/hyperspace.xml.append:5903
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_remington\"]/powerEffect/tooltip"
-msgstr "準備：ダメージを大幅に軽減し（80％少なく）、マインドコントロールの試みに抵抗し、近くの同盟国の窒息損傷を15秒間50％減らします。"
+msgstr ""
+"準備完了：受けるダメージを大幅に減少させ(80%減)、マインドコントロールの試みに抵抗し、近くの味方が受ける窒息ダメージを15秒間50%減少させる。"
 
 #: src-en/data/hyperspace.xml.append:6001
 msgid ""
@@ -1092,16 +1100,17 @@ msgstr "シールド"
 #: src-en/data/hyperspace.xml.append:6002
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"unique_mossberg\"]/powerEffect/tooltip"
-msgstr "準備：ダメージを大幅に減らし（80％少ない）、マインドコントロールの試みに抵抗し、近くの同盟国の火災損傷を15秒間50％減らします。"
+msgstr ""
+"準備完了：受けるダメージを大幅に減少させ(80%減)、マインドコントロールの試みに抵抗し、近くの味方が受ける火災ダメージを15秒間50%減少させる。"
 
 #: src-en/data/hyperspace.xml.append:6752
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/buttonText"
-msgstr "消費する"
+msgstr "消費"
 
 #: src-en/data/hyperspace.xml.append:6753
 msgid "data/hyperspace.xml.append$//race[@name=\"gbgozer\"]/powerEffect/tooltip"
-msgstr "準備：1つのシステムの損傷を扱い、現在の部屋に違反を開きます"
+msgstr "準備完了：現在の部屋に1システムダメージを与え、亀裂を開ける"
 
 #: src-en/data/hyperspace.xml.append:6788
 msgid ""
@@ -1111,7 +1120,7 @@ msgstr "犠牲"
 #: src-en/data/hyperspace.xml.append:6789
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"gbgozer_player\"]/powerEffect/tooltip"
-msgstr "準備：同じ部屋のすべてのフレンドリーな幽霊を殺し、敵の船にそれらのコピーを送ります"
+msgstr "準備完了：同室の全ての味方ゴーストを殺し、そのコピーを敵船に送り込む"
 
 #: src-en/data/hyperspace.xml.append:7236
 msgid ""
@@ -1121,37 +1130,94 @@ msgstr "ティータイム"
 #: src-en/data/hyperspace.xml.append:7237
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"mantis_crackerjack\"]/powerEffect/tooltip"
-msgstr "準備：壊滅的な激怒のスラッシュで5秒間にわたって部屋のすべての敵に50のダメージを与えます。効果の期間中、移動速度は9倍に増加します。"
+msgstr "準備完了：5秒間にわたり、部屋にいる全ての敵に壊滅的な斬撃の嵐で50ダメージを与える。効果時間中、移動速度が9倍に増加する。"
 
 #: src-en/data/hyperspace.xml.append:7444
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/buttonText"
-msgstr "火"
+msgstr "火炎"
 
 #: src-en/data/hyperspace.xml.append:7445
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_fire_intruder\"]/powerEffect/tooltip"
-msgstr "自動：火パルスをアクティブにします"
+msgstr "自動：火炎パルスを発動する"
 
 #: src-en/data/hyperspace.xml.append:7505
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/buttonText"
-msgstr "うねり"
+msgstr "サージ"
 
 #: src-en/data/hyperspace.xml.append:7506
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_battle\"]/powerEffect/tooltip"
-msgstr "自動：20 hpで自己を癒し、1イオン、4秒のスタン、敵の乗組員に10のダメージを与えます。"
+msgstr "自動：自身を20hp回復し、1イオン、4秒間の気絶、敵乗組員に10ダメージを与える。"
 
 #: src-en/data/hyperspace.xml.append:7575
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/buttonText"
-msgstr "うねり"
+msgstr "サージ"
 
 #: src-en/data/hyperspace.xml.append:7576
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_ancalagon_monitor\"]/powerEffect/tooltip"
-msgstr "自動：時にはエネルギーで急増し、両方の船のすべての同盟国を20 hpで癒し、すべての敵の乗組員を10hpで損傷します。"
+msgstr "自動：時折エネルギーが急増し、両船の全味方を20hp回復させ、全敵乗組員に10hpのダメージを与える。"
+
+#: src-en/data/hyperspace.xml.append:8080
+msgid "data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER\"]/tooltipName"
+msgstr "ファイア・イントルーダー"
+
+#: src-en/data/hyperspace.xml.append:8087
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_FIRE_INTRUDER_PLAYER\"]/tooltipName"
+msgstr "ファイア・イントルーダー"
+
+#: src-en/data/hyperspace.xml.append:8094
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_BATTLE\"]/tooltipName"
+msgstr "アンカラゴン・ウォーブリナー"
+
+#: src-en/data/hyperspace.xml.append:8101
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"FM_ANCALAGON_DEFEND\"]/tooltipName"
+msgstr "アンカラゴン・ウォーブリナー"
+
+#: src-en/data/hyperspace.xml.append:8108
+msgid "data/hyperspace.xml.append$//drone[@name=\"MANNING_ENEMY_2\"]/tooltipName"
+msgstr "マネージャードローン"
+
+#: src-en/data/hyperspace.xml.append:8115
+msgid "data/hyperspace.xml.append$//drone[@name=\"TWISTED_MENDER\"]/tooltipName"
+msgstr "歪んだメンダー"
+
+#: src-en/data/hyperspace.xml.append:8123
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BATTLE\"]/tooltipName"
+msgstr "ツイステッド陰陽ドローン"
+
+#: src-en/data/hyperspace.xml.append:8127
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_YINYANG_BOARDER\"]/tooltipName"
+msgstr "ツイステッド陰陽ドローン"
+
+#: src-en/data/hyperspace.xml.append:8134
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BATTLE\"]/tooltipName"
+msgstr "ツイステッド外科医ドローン"
+
+#: src-en/data/hyperspace.xml.append:8138
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_SURGEON_BOARDER\"]/tooltipName"
+msgstr "ツイステッド外科医ドローン"
+
+#: src-en/data/hyperspace.xml.append:8145
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_DEFEND\"]/tooltipName"
+msgstr "ツイステッド戦闘ドローンMk II"
+
+#: src-en/data/hyperspace.xml.append:8149
+msgid ""
+"data/hyperspace.xml.append$//drone[@name=\"TWISTED_BATTLETOG2_BOARDER\"]/tooltipName"
+msgstr "ツイステッド戦闘ドローンMk II"
 
 #: src-en/data/hyperspace.xml.append:8529
 msgid ""
@@ -1161,57 +1227,56 @@ msgstr "アウトブレイク"
 #: src-en/data/hyperspace.xml.append:8530
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_meatman\"]/powerEffect/tooltip"
-msgstr "自動：「独自のバイオマスと近くの肉体を使用して、より多くのウイルスを広げ、それ自体と他の肉の飼い人に永続的な点を与えます。"
+msgstr "自動：自身のバイオマスと近くのミートマンを使ってウイルスをさらに拡散させ、自身と他のミートマンに永続的なDoTを与える。"
 
 #: src-en/data/hyperspace.xml.append:8625
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/buttonText"
-msgstr "その火"
+msgstr "燃えている"
 
 #: src-en/data/hyperspace.xml.append:8626
 msgid "data/hyperspace.xml.append$//race[@name=\"fm_holy11\"]/powerEffect/tooltip"
-msgstr "準備：火を生みます。"
+msgstr "準備完了：火災を発生させる。"
 
 #: src-en/data/hyperspace.xml.append:10349
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/buttonText"
-msgstr "リリースを制限します"
+msgstr "リミットリリース"
 
 #: src-en/data/hyperspace.xml.append:10350
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"fm_zoltan_limit_release\"]/tooltip"
-msgstr "対応：扱われた損傷を増やし、受けた損傷を減らしますが、期間中に電力の供給を停止します。"
+msgstr "準備完了：与えるダメージを増加させ、受けるダメージを減少させるが、効果時間中は電力供給を停止する。"
 
 #: src-en/data/hyperspace.xml.append:10795
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "キンドリング"
+msgstr "焚き付け"
 
 #: src-en/data/hyperspace.xml.append:10796
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING_ENEMY\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "準備ができている：自分自身に点火し、火を灯します"
+msgstr "準備完了：自身に火をつけ、火災を発生させる"
 
 #: src-en/data/hyperspace.xml.append:10820
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "キンドリング"
+msgstr "焚き付け"
 
 #: src-en/data/hyperspace.xml.append:10821
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ORCHID_KINDLING\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "準備ができている：自分自身に点火し、火を灯します"
+msgstr "準備完了：自身に火をつけ、火災を発生させる"
 
 #: src-en/data/hyperspace.xml.append:10923
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:10924
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
-msgstr ""
-"準備：15のダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+msgstr "準備完了：15ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。連続使用可能だが、再生はほとんどしない。"
 
 #: src-en/data/hyperspace.xml.append:10959
 msgid ""
@@ -1221,28 +1286,27 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:10960
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
-msgstr ""
-"準備：25ダメージを与え、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。26秒間、失われた健康と余分なものをゆっくりと再生します。"
+msgstr "準備完了：25ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。失った体力と追加分を26秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:10994
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:10995
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
-msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+msgstr "準備完了：25ダメージを受け、同室の味方乗組員全員を全快させる。失った体力と追加分を13秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11034
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11035
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
-msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+msgstr "準備完了：25ダメージを受け、同室の味方乗組員全員を全快させる。失った体力と追加分を13秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11076
 msgid ""
@@ -1252,7 +1316,7 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11077
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
-msgstr "準備：40ダメージを受けて、現在のシステムを完全に修復します。ゆっくりと26秒間失われた健康を再生します。"
+msgstr "準備完了：40ダメージを受け、現在のシステムを完全に修理する。失った体力を26秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11112
 msgid ""
@@ -1262,8 +1326,7 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11113
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
-msgstr ""
-"準備：50ダメージを与え、敵の乗組員に30のダメージを与え、敵システムに2ダメージを与えます。15秒間自らを強化します：0.3倍のダメージを受けます。"
+msgstr "準備完了：50ダメージを受け、敵乗組員に30ダメージ、敵システムに2ダメージを与える。15秒間自身を強化：被ダメージ0.3倍。"
 
 #: src-en/data/hyperspace.xml.append:11148
 msgid ""
@@ -1273,30 +1336,28 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11149
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
-msgstr ""
-"準備：10ダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+msgstr "準備完了：10ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。連続使用可能だが、再生はほとんどしない。"
 
 #: src-en/data/hyperspace.xml.append:11186
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11187
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"準備：30回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと健康を再生し、近くの親善試合を1秒あたり4人の健康を癒し、13秒間75％の窒息抵抗を獲得します。"
+"準備完了：30ダメージを受け、同室の味方乗組員全員を全快させる。失った体力をゆっくりと再生し、近くの味方を毎秒4回復させ、13秒間75%の窒息耐性を得る。"
 
 #: src-en/data/hyperspace.xml.append:11237
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11238
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[1]/powerEffect/tooltip"
-msgstr ""
-"準備：15のダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+msgstr "準備完了：15ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。連続使用可能だが、再生はほとんどしない。"
 
 #: src-en/data/hyperspace.xml.append:11273
 msgid ""
@@ -1306,28 +1367,27 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11274
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[1]/tooltip"
-msgstr ""
-"準備：25ダメージを与え、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。26秒間、失われた健康と余分なものをゆっくりと再生します。"
+msgstr "準備完了：25ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。失った体力と追加分を26秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11308
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11309
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[2]/powerEffect[2]/tooltip"
-msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+msgstr "準備完了：25ダメージを受け、同室の味方乗組員全員を全快させる。失った体力と追加分を13秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11348
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11349
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
-msgstr "準備：25回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと、13秒間の失われた健康を再生します。"
+msgstr "準備完了：25ダメージを受け、同室の味方乗組員全員を全快させる。失った体力と追加分を13秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11390
 msgid ""
@@ -1337,7 +1397,7 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11391
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
-msgstr "準備：40ダメージを受けて、現在のシステムを完全に修復します。ゆっくりと26秒間失われた健康を再生します。"
+msgstr "準備完了：40ダメージを受け、現在のシステムを完全に修理する。失った体力を26秒かけてゆっくりと再生する。"
 
 #: src-en/data/hyperspace.xml.append:11426
 msgid ""
@@ -1347,8 +1407,7 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11427
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
-msgstr ""
-"準備：50ダメージを与え、敵の乗組員に30のダメージを与え、敵システムに2ダメージを与えます。15秒間自らを強化します：0.3倍のダメージを受けます。"
+msgstr "準備完了：50ダメージを受け、敵乗組員に30ダメージ、敵システムに2ダメージを与える。15秒間自身を強化：被ダメージ0.3倍。"
 
 #: src-en/data/hyperspace.xml.append:11462
 msgid ""
@@ -1358,29 +1417,28 @@ msgstr "ウイルス燃焼"
 #: src-en/data/hyperspace.xml.append:11463
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
-msgstr ""
-"準備：10ダメージを受けて、敵の乗組員に15のダメージを与え、敵システムに1ダメージを与えます。急速にキャストすることができますが、再生はほとんどありません。"
+msgstr "準備完了：10ダメージを受け、敵乗組員に15ダメージ、敵システムに1ダメージを与える。連続使用可能だが、再生はほとんどしない。"
 
 #: src-en/data/hyperspace.xml.append:11500
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:11501
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"HID_COMBUSTION_VIRUS\"]/statBoosts/statBoost[7]/powerEffect/tooltip"
 msgstr ""
-"準備：30回のダメージを受けて、部屋のすべてのフレンドリーな乗組員を完全に健康に癒します。ゆっくりと健康を再生し、近くの親善試合を1秒あたり4人の健康を癒し、13秒間75％の窒息抵抗を獲得します。"
+"準備完了：30ダメージを受け、同室の味方乗組員全員を全快させる。失った体力をゆっくりと再生し、近くの味方を毎秒4回復させ、13秒間75%の窒息耐性を得る。"
 
 #: src-en/data/hyperspace.xml.append:12125
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr "やけど"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:12126
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"ROYAL_MURDERBOTS\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
-msgstr "準備：現在の部屋に火をつけます。"
+msgstr "準備完了：現在の部屋に火災を発生させる。"
 
 #: src-en/data/hyperspace.xml.append:13538
 msgid ""
@@ -1396,22 +1454,22 @@ msgstr "coords_spider"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod-"
 "append:page/section/@text"
-msgstr "不可能な仕事"
+msgstr "不可能な任務"
 
 #: src-en/data/hyperspace.xml.append:15846
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/name"
-msgstr "臓器をお願いします！"
+msgstr "臓器をくれ！"
 
 #: src-en/data/hyperspace.xml.append:15847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/description"
-msgstr "ねじれたギルドBの反逆者を倒し、心を締めます。"
+msgstr "ツイステッド・ギルドBレネゲイドを倒し、マインドクラウダーを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15849
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CLAN\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15850
 msgid ""
@@ -1421,17 +1479,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/name"
-msgstr "マルチバースレコード"
+msgstr "マルチバース記録"
 
 #: src-en/data/hyperspace.xml.append:15855
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/description"
-msgstr "ねじれたduskbringer bの反逆者を倒して、トワイライトのベストを手に入れましょう。"
+msgstr "ツイステッド・ダスクブリンガーBレネゲイドを倒し、トワイライトベストを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_DUSK\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15858
 msgid ""
@@ -1441,17 +1499,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15862
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/name"
-msgstr "ナナイトの硬化"
+msgstr "硬化ナナイト"
 
 #: src-en/data/hyperspace.xml.append:15863
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/description"
-msgstr "ねじれたエンジンのレネゲイドを倒し、ドローンブースターカイを手に入れましょう。"
+msgstr "ツイステッド・エンジCレネゲイドを倒し、ドローンブースターKAIを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGI\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15866
 msgid ""
@@ -1466,12 +1524,12 @@ msgstr "ブリタニア"
 #: src-en/data/hyperspace.xml.append:15871
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/description"
-msgstr "ねじれたフリーマンティスBレネゲイドを倒してお茶を手に入れましょう。"
+msgstr "ツイステッド・フリーマンティスBレネゲイドを倒し、紅茶を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15873
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FREEMANTIS\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15874
 msgid ""
@@ -1481,17 +1539,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15878
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/name"
-msgstr "象徴性"
+msgstr "象徴主義"
 
 #: src-en/data/hyperspace.xml.append:15879
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/description"
-msgstr "ねじれた分離主義者のbレネゲイドを倒して、マガタマを手に入れましょう。"
+msgstr "ツイステッド・セパラティストBレネゲイドを倒し、勾玉を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15881
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SEPARATIST\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15882
 msgid ""
@@ -1501,17 +1559,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15886
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/name"
-msgstr "Zerg Rush"
+msgstr "ザーグ・ラッシュ"
 
 #: src-en/data/hyperspace.xml.append:15887
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/description"
-msgstr "ねじれたハイブb反乱を倒し、フェロモン加速器を手に入れます。"
+msgstr "ツイステッド・ハイヴBレネゲイドを倒し、フェロモン加速器を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15889
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MANTIS\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15890
 msgid ""
@@ -1521,17 +1579,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15894
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/name"
-msgstr "強制平和"
+msgstr "強制された平和"
 
 #: src-en/data/hyperspace.xml.append:15895
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/description"
-msgstr "ねじれた修道士Bの反逆者を倒し、エーテルアセンションシールドを取得します。"
+msgstr "ツイステッド・モンクBレネゲイドを倒し、エーテル・アセンションシールドを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15897
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_MONK\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15898
 msgid ""
@@ -1541,17 +1599,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15902
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/name"
-msgstr "抵抗する"
+msgstr "抵抗"
 
 #: src-en/data/hyperspace.xml.append:15903
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/description"
-msgstr "ねじれたロックCの反逆者を倒し、ロックマンの自由の遺物を手に入れましょう。"
+msgstr "ツイステッド・ロックCレネゲイドを倒し、ロックマン解放の聖遺物を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15905
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ROCK\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15906
 msgid ""
@@ -1561,17 +1619,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15910
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/name"
-msgstr "最終時間"
+msgstr "最後の時"
 
 #: src-en/data/hyperspace.xml.append:15911
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/description"
-msgstr "ねじれた失われた太陽bの反逆者を倒して、現実に曲がったリロダーを手に入れましょう。"
+msgstr "ツイステッド・ロストサンBレネゲイドを倒し、現実歪曲リローダーを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15913
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LOSTSUN\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15914
 msgid ""
@@ -1581,17 +1639,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15918
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/name"
-msgstr "purged purged"
+msgstr "粛清者を粛清"
 
 #: src-en/data/hyperspace.xml.append:15919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/description"
-msgstr "ねじれたスラッグcのレネゲイドを倒し、マルボロクエーサーを手に入れましょう。"
+msgstr "ツイステッド・スラッグCレネゲイドを倒し、マルボロ・クエーサーを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15921
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SLUG\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15922
 msgid ""
@@ -1601,18 +1659,18 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15926
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/name"
-msgstr "セント"
+msgstr "CEれない"
 
 #: src-en/data/hyperspace.xml.append:15927
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/description"
 msgstr ""
-"ねじれたステルスBレネゲイドを倒して、手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れて手に入れると取得します。"
+"ツイステッド・ステルスBレネゲイドを倒し、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ、それを手に入れ-...シャットダウン中。"
 
 #: src-en/data/hyperspace.xml.append:15929
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_STEALTH\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15930
 msgid ""
@@ -1622,17 +1680,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/name"
-msgstr "景品回避"
+msgstr "無料品は回避された"
 
 #: src-en/data/hyperspace.xml.append:15935
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/description"
-msgstr "ねじれたZoltan C Renegadeを倒して、リミテッドリリースを取得します。"
+msgstr "ツイステッド・ゾルタンCレネゲイドを倒し、リミットリリースを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15937
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ZOLTAN\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15938
 msgid ""
@@ -1647,12 +1705,12 @@ msgstr "ベーコン"
 #: src-en/data/hyperspace.xml.append:15943
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/description"
-msgstr "ねじれたラニウスBの反逆者を倒し、スクラップメタルファイアハートを手に入れましょう。"
+msgstr "ツイステッド・ラニウスBレネゲイドを倒し、スクラップメタル・ファイアハートを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15945
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LANIUS\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15946
 msgid ""
@@ -1662,17 +1720,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15950
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/name"
-msgstr "検疫"
+msgstr "隔離"
 
 #: src-en/data/hyperspace.xml.append:15951
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/description"
-msgstr "ねじれたシェルCの反乱を倒し、燃焼ウイルスの生物時代を取得します。"
+msgstr "ツイステッド・シェルCレネゲイドを倒し、燃焼ウイルス生物兵器を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15953
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_SHELL\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15954
 msgid ""
@@ -1682,17 +1740,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15958
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/name"
-msgstr "Htao laitircopyh"
+msgstr "イギシンの誓イ"
 
 #: src-en/data/hyperspace.xml.append:15959
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/description"
-msgstr "ねじれたエンジニアB Renegadeを倒し、ドローンブースターMK IIを入手してください。"
+msgstr "ツイステッド・エンジニアBレネゲイドを倒し、ドローンブースターMK IIを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15961
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ENGINEER\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15962
 msgid ""
@@ -1702,17 +1760,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15966
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/name"
-msgstr "ゲートキーパー"
+msgstr "門番"
 
 #: src-en/data/hyperspace.xml.append:15967
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/description"
-msgstr "ねじれたケストレルBの反逆者を倒し、ゴーザーの冷蔵庫になります。"
+msgstr "ツイステッド・ケストレルBレネゲイドを倒し、ゴーザーの冷蔵庫を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15969
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_KESTREL\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15970
 msgid ""
@@ -1727,12 +1785,12 @@ msgstr "正義のビーム"
 #: src-en/data/hyperspace.xml.append:15975
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/description"
-msgstr "ねじれたFed B Renegadeを倒し、ねじれた弾薬製作者を手に入れます。"
+msgstr "ツイステッド・連邦Bレネゲイドを倒し、ツイステッド弾薬製造機を入手する。"
 
 #: src-en/data/hyperspace.xml.append:15977
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_FED\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15978
 msgid ""
@@ -1742,17 +1800,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15982
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/name"
-msgstr "楽しい"
+msgstr "ファンガイ"
 
 #: src-en/data/hyperspace.xml.append:15983
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/description"
-msgstr "ねじれたオーキッドcの反逆者を倒して、友達を獲得してください。"
+msgstr "ツイステッド・オーキッドCレネゲイドを倒し、友達を何人か手に入れる。"
 
 #: src-en/data/hyperspace.xml.append:15985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_ORCHID\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15986
 msgid ""
@@ -1762,17 +1820,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15990
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/name"
-msgstr "弾丸地獄"
+msgstr "弾幕地獄"
 
 #: src-en/data/hyperspace.xml.append:15991
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/description"
-msgstr "ねじれたクリスタルCの反逆者を倒し、ねじれた粉砕鎧を手に入れます。"
+msgstr "ツイステッド・クリスタルCレネゲイドを倒し、ツイステッド・シャッターアーマーを入手する。"
 
 #: src-en/data/hyperspace.xml.append:15993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_CRYSTAL\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:15994
 msgid ""
@@ -1782,17 +1840,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:15998
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/name"
-msgstr "これ以上の死はありません"
+msgstr "これ以上の死はごめんだ"
 
 #: src-en/data/hyperspace.xml.append:15999
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/description"
-msgstr "ねじれたトゥコBレネゲイドを倒し、黄金のトコを手に入れましょう。"
+msgstr "ツイステッド・トゥコBレネゲイドを倒し、ゴールデン・トゥコを入手する。"
 
 #: src-en/data/hyperspace.xml.append:16001
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_TUCO\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:16002
 msgid ""
@@ -1802,17 +1860,17 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:16006
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/name"
-msgstr "エンジンはジャムされていません"
+msgstr "エンジンは詰まっていない"
 
 #: src-en/data/hyperspace.xml.append:16007
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/description"
-msgstr "ねじれたリーチCの反逆者を倒し、うつ病をエミッタにします。"
+msgstr "ツイステッド・リーチCレネゲイドを倒し、ディプレッション・エミッターを入手する。"
 
 #: src-en/data/hyperspace.xml.append:16009
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TWISTED_REN_LEECH\"]/header"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:16010
 msgid ""
@@ -1821,19 +1879,19 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16014
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/name"
-msgstr "そのための時間がありません"
+msgstr "そんな暇はない"
 
 #: src-en/data/hyperspace.xml.append:16015
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/description"
-msgstr "ねじれたケストレルBに時間を無駄にしないでください。"
+msgstr "ツイステッド・ケストレルBに時間を無駄にするな。"
 
 #: src-en/data/hyperspace.xml.append:16017
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[1]"
-msgstr "時間はありません"
+msgstr "時間がない"
 
 #: src-en/data/hyperspace.xml.append:16018
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_NOTIME\"]/header[2]"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:16019
 msgid ""
@@ -1842,22 +1900,22 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:16023
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/name"
-msgstr "無料のもの！"
+msgstr "無料の品物！"
 
 #: src-en/data/hyperspace.xml.append:16024
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/description"
-msgstr "ねじれたZoltan C Renegadeの提案を受け入れ、無料のものを入手してください。"
+msgstr "ツイステッド・ゾルタンCレネゲイドの提案を受け入れ、無料の品物を手に入れる。"
 
 #: src-en/data/hyperspace.xml.append:16026
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[1]"
-msgstr "うわー、無料のもの？！"
+msgstr "うわ、無料の品物！？"
 
 #: src-en/data/hyperspace.xml.append:16027
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_FREESTUFF\"]/header[2]"
-msgstr "ねじれた反逆者が敗北した"
+msgstr "ツイステッド・レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:16028
 msgid ""
@@ -1867,64 +1925,64 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:16035
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[1]/mod:selector/@text"
-msgstr "thest's Boons"
+msgstr "セストの恩恵"
 
 #: src-en/data/hyperspace.xml.append:16037
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/name"
-msgstr "メッキの恩恵"
+msgstr "プレイテッドの恩恵"
 
 #: src-en/data/hyperspace.xml.append:16038
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/secretDescription"
-msgstr "メッキの恩恵を最大から受け取ります。"
+msgstr "セストから装甲乗員の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16039
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/description"
 msgstr ""
-"メッキの乗組員を最も見せてください。\n"
-"事実上;すべてのメッキの乗組員は、+1の能力料金を獲得します。"
+"セストに装甲乗員を見せる。\n"
+"\t\t\t\t\t効果中：全ての装甲乗員が+1のアビリティチャージを得る。"
 
 #: src-en/data/hyperspace.xml.append:16041
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_PLATED\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:16047
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[15]/mod:findLike[1]/mod:findLike/mod:findLike[2]/mod:selector/@text"
-msgstr "コービーの助成金"
+msgstr "コービーの付与"
 
 #: src-en/data/hyperspace.xml.append:16049
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/name"
-msgstr "武装の付与"
+msgstr "装甲付与"
 
 #: src-en/data/hyperspace.xml.append:16050
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/secretDescription"
-msgstr "コービーから武装の助成金を受け取ります。"
+msgstr "コービーから装甲付与を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16051
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/description"
 msgstr ""
-"モジュラーハルをコービーに表示します。\n"
-"事実上;モジュラーハルは+5ノッチ容量を獲得します。"
+"コービーにモジュラー船体を見せる。\n"
+"\t\t\t\t\t効果中：モジュラー船体が+5のノッチ容量を得る。"
 
 #: src-en/data/hyperspace.xml.append:16053
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEARMOR\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:16059
 msgid ""
@@ -1935,102 +1993,102 @@ msgstr "ウェイクソンの祝福"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/name"
-msgstr "偽造の祝福"
+msgstr "フォージの祝福"
 
 #: src-en/data/hyperspace.xml.append:16062
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/secretDescription"
-msgstr "ウェイクソンから鍛造の祝福を受けてください。"
+msgstr "ウェイクソンから鍛冶の祝福を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16063
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/description"
 msgstr ""
-"目を覚ますために偽造された武器を見せてください。\n"
-"事実上;フェージマスターは、呼び出しなしで自動的にスポーンします。"
+"ウェイクソンに鍛造兵器を見せる。\n"
+"\t\t\t\t\t効果中：フォージマスターが呼び出しなしで自動的に出現する。"
 
 #: src-en/data/hyperspace.xml.append:16065
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/name"
-msgstr "偽造のより大きな祝福"
+msgstr "大いなるフォージの祝福"
 
 #: src-en/data/hyperspace.xml.append:16071
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/secretDescription"
-msgstr "ウェイクソンから鍛造のより大きな祝福を受けてください。"
+msgstr "ウェイクソンから大いなる鍛冶の祝福を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16072
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/description"
 msgstr ""
-"目を覚ますために高品位の鍛造武器を見せてください。\n"
-"事実上;Fortemasterには、より大きくより良い店があります。"
+"ウェイクソンに高グレードの鍛造兵器を見せる。\n"
+"\t\t\t\t\t効果中：フォージマスターがより大きく、より良い店を持つ。"
 
 #: src-en/data/hyperspace.xml.append:16074
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_FORGEWEAPON_2\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:16079
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/name"
-msgstr "愚か者の祝福"
+msgstr "無謀なる者の祝福"
 
 #: src-en/data/hyperspace.xml.append:16080
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/secretDescription"
-msgstr "の祝福を受け取りますか？ウェイクソンから。"
+msgstr "ウェイクソンから？？？の祝福を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16081
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/description"
 msgstr ""
-"WakesonにAncalagon Techを見せてください。\n"
-"事実上;Ancalagon結晶は、50％の損傷抵抗を獲得します。"
+"ウェイクソンにアンカラゴン技術を見せる。\n"
+"\t\t\t\t\t効果中：アンカラゴン・クリスタルが50%のダメージ耐性を得る。"
 
 #: src-en/data/hyperspace.xml.append:16083
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_ANCWEAPON\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:16089
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/name"
-msgstr "ねじれの祝福"
+msgstr "歪みの祝福"
 
 #: src-en/data/hyperspace.xml.append:16090
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/secretDescription"
-msgstr "の祝福を受け取りますか？ウェイクソンから。"
+msgstr "ウェイクソンから？？？の祝福を受ける。"
 
 #: src-en/data/hyperspace.xml.append:16091
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/description"
 msgstr ""
-"ターミナルをウェイクソンに見せます。\n"
-"事実上;すべての乗組員の統計は5％増加し、ほとんどの船の統計は5％増加します。"
+"ウェイクソンにターミナスを見せる。\n"
+"\t\t\t\t\t効果中：全乗組員のステータスが5%上昇し、ほとんどの船のステータスが5%増加する。"
 
 #: src-en/data/hyperspace.xml.append:16093
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_BOON_FM_TERMINUS\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"

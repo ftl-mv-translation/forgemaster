@@ -9,18 +9,18 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[1]/text"
-msgstr "[Forgemaster] Alatsairにお問い合わせください。"
+msgstr "[フォージマスター] アラスターに連絡する。"
 
 #: src-en/data/events_special_lightspeed.xml.append:12
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FUSION_ATLAS_EQUIPMENT\"]/mod-"
 "append:choice[2]/text"
-msgstr "あなたはすでにAlastairに連絡しています。"
+msgstr "すでにアラスターには連絡済みだ。"
 
 #: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_CALL_SENT\"]/text"
-msgstr "送信される送信機信号..."
+msgstr "送信機信号送信中…"
 
 #: src-en/data/events_special_lightspeed.xml.append:27
 msgid ""
@@ -30,28 +30,28 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:35
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/text"
-msgstr "Fortemasterに連絡しますか？"
+msgstr "フォージマスターに連絡しますか？"
 
 #: src-en/data/events_special_lightspeed.xml.append:39
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_dead\"]/text"
-msgstr "習慣から、あなたは赦しの主人に手を差し伸べようとしますが、それからあなたは彼を殺したことを覚えています。あなたはモンスター。"
+msgstr "習慣でフォージマスターに連絡しようとするが、彼を殺したことを思い出す。この人でなしめ。"
 
 #: src-en/data/events_special_lightspeed.xml.append:44
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[@req=\"fm_forgemaster_called\"]/text"
-msgstr "3つの方法のいずれかを介して、すでにForgemasterに電話しました。"
+msgstr "すでに3つの方法のうちの1つでフォージマスターを呼んでいる。"
 
 #: src-en/data/events_special_lightspeed.xml.append:50
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/text"
-msgstr "燃料を使用して、送信機のパワーを高めて、Fortemasterに連絡します。"
+msgstr "燃料を使って送信機の出力を上げ、フォージマスターに連絡する。"
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[3]/event/text"
 msgstr ""
-"余分な燃料埋蔵量を燃やし、エネルギーを送信機に注ぎ込み、Forgemasterのサブスペース識別子をブロードキャストします。Alastairが地域のどこにいても、彼はあなたの電話を聞いていたでしょう。"
+"余剰の燃料備蓄を燃やし、そのエネルギーを送信機に注ぎ込み、フォージマスターの亜空間識別子を放送する。もしアラスターがこの地域にいれば、あなたの呼びかけを聞いたはずだ。"
 
 #: src-en/data/events_special_lightspeed.xml.append:57
 msgid ""
@@ -61,13 +61,13 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:63
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/text"
-msgstr "長距離の弾道メッセージシリンダーをホイップして、Fortemasterに連絡します。"
+msgstr "フォージマスターに連絡するための長距離弾道メッセージシリンダーを急いで作る。"
 
 #: src-en/data/events_special_lightspeed.xml.append:65
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[4]/event/text"
 msgstr ""
-"あなたはいくつかの過剰な爆発物をまとめて、アラステアと出会うための要求を含むハイパースピード利用可能な弾道容器を構築します。ターゲティングシステムを彼のサブスペース識別子に配線し、それを起動する注文を提供します。Alastairが見つけることができる場所にある場合、彼は会う準備ができています。"
+"余剰の爆発物を集め、アラスターとの合流を要請するメッセージを含む超高速対応の弾道船を建造する。その照準システムを彼の亜空間識別子に接続し、発射命令を下す。もしアラスターが見つかる場所にいれば、彼は合流の準備ができているだろう。"
 
 #: src-en/data/events_special_lightspeed.xml.append:70
 msgid ""
@@ -77,14 +77,14 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:76
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/text"
-msgstr "Fortemasterに連絡するために、HyperSpeed Messenger Droneを送信します。"
+msgstr "フォージマスターに連絡するために超高速メッセンジャードローンを送る。"
 
 #: src-en/data/events_special_lightspeed.xml.append:78
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[5]/event/text"
 msgstr ""
-"いくつかのドローンコンポーネントを使用し、ハイパースピードの移動に装備された堅牢な長距離ドローンを準備します。Alastairが次のセクターであなたに会うようにリクエストをロードし、ドローンのコムを設定して彼のサブスペース識別子を見つけることができます。うまくいけば、それは彼に到達します"
-" - 彼がメッセージを受け取ったら、彼は準備ができているでしょう。"
+"いくつかのドローン部品を使い、超高速移動に対応した頑丈な長距離ドローンを準備する。次のセクターでアラスターに会うという要請をロードし、ドローンの通信を彼の亜空間識別子を見つけるように設定する。うまくいけば彼に届くだろう"
+" - もし彼がメッセージを受け取れば、彼は準備万端だろう。"
 
 #: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
@@ -94,13 +94,13 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:90
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/text"
-msgstr "燃料を使用して、送信機のパワーを高めて、Fortemasterに連絡します。"
+msgstr "燃料を使って送信機の出力を上げ、フォージマスターに連絡する。"
 
 #: src-en/data/events_special_lightspeed.xml.append:92
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[6]/event/text"
 msgstr ""
-"余分な燃料埋蔵量を燃やし、エネルギーを送信機に注ぎ込み、Forgemasterのサブスペース識別子をブロードキャストします。Alastairが地域のどこにいても、彼はあなたの電話を聞いていたでしょう。"
+"余剰の燃料備蓄を燃やし、そのエネルギーを送信機に注ぎ込み、フォージマスターの亜空間識別子を放送する。もしアラスターがこの地域にいれば、あなたの呼びかけを聞いたはずだ。"
 
 #: src-en/data/events_special_lightspeed.xml.append:97
 msgid ""
@@ -110,13 +110,13 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:103
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/text"
-msgstr "長距離の弾道メッセージシリンダーをホイップして、Fortemasterに連絡します。"
+msgstr "フォージマスターに連絡するための長距離弾道メッセージシリンダーを急いで作る。"
 
 #: src-en/data/events_special_lightspeed.xml.append:105
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[7]/event/text"
 msgstr ""
-"あなたはいくつかの過剰な爆発物をまとめて、アラステアと出会うための要求を含むハイパースピード利用可能な弾道容器を構築します。ターゲティングシステムを彼のサブスペース識別子に配線し、それを起動する注文を提供します。Alastairが見つけることができる場所にある場合、彼は会う準備ができています。"
+"余剰の爆発物を集め、アラスターとの合流を要請するメッセージを含む超高速対応の弾道船を建造する。その照準システムを彼の亜空間識別子に接続し、発射命令を下す。もしアラスターが見つかる場所にいれば、彼は合流の準備ができているだろう。"
 
 #: src-en/data/events_special_lightspeed.xml.append:110
 msgid ""
@@ -126,14 +126,14 @@ msgstr ""
 #: src-en/data/events_special_lightspeed.xml.append:116
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/text"
-msgstr "Fortemasterに連絡するために、HyperSpeed Messenger Droneを送信します。"
+msgstr "フォージマスターに連絡するために超高速メッセンジャードローンを送る。"
 
 #: src-en/data/events_special_lightspeed.xml.append:118
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FM_ATLAS_EQUIPMENT\"]/choice[8]/event/text"
 msgstr ""
-"いくつかのドローンコンポーネントを使用し、ハイパースピードの移動に装備された堅牢な長距離ドローンを準備します。Alastairが次のセクターであなたに会うようにリクエストをロードし、ドローンのコムを設定して彼のサブスペース識別子を見つけることができます。うまくいけば、それは彼に到達します"
-" - 彼がメッセージを受け取ったら、彼は準備ができているでしょう。"
+"いくつかのドローン部品を使い、超高速移動に対応した頑丈な長距離ドローンを準備する。次のセクターでアラスターに会うという要請をロードし、ドローンの通信を彼の亜空間識別子を見つけるように設定する。うまくいけば彼に届くだろう"
+" - もし彼がメッセージを受け取れば、彼は準備万端だろう。"
 
 #: src-en/data/events_special_lightspeed.xml.append:123
 msgid ""
@@ -154,18 +154,18 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/text"
 msgstr ""
-"名前：ツイストセクター\n"
-"タイプ：ニュートラル\n"
-"ユニーク：真\n"
-"支配的な派ion：n/a\n"
-"反逆者の脅威レベル：低い\n"
+"名前：歪んだセクター\n"
+"\t\tタイプ：中立\n"
+"\t\tユニーク：真\n"
+"\t\t支配的派閥：N/A\n"
+"\t\t反乱軍脅威レベル：低\n"
 "\n"
-"C.U.R.A.が所有する放棄されたセクター"
+"\t\tC.U.R.A.が所有する放棄されたセクター。"
 
 #: src-en/data/events_special_lightspeed.xml.append:175
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"TWISTED_WARP\"]/choice[1]/text"
-msgstr "ハイパースピードを終了します。"
+msgstr "超高速航行を終了する。"
 
 #: src-en/data/events_special_lightspeed.xml.append:179
 msgid ""
@@ -176,27 +176,27 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr "ねじれたセクターにジャンプします。"
+msgstr "歪んだセクターにジャンプする。"
 
 #: src-en/data/events_special_lightspeed.xml.append:193
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr "ねじれたセクターにジャンプします。"
+msgstr "歪んだセクターにジャンプする。"
 
 #: src-en/data/events_special_lightspeed.xml.append:199
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_TWISTED\"]/text"
 msgstr ""
-"あなたは再ルーティングしようとしています。以下は、このセクターのアトラスエントリです。\n"
-"名前：ツイストセクター\n"
-"タイプ：ニュートラル\n"
-"ユニーク：真\n"
-"支配的な派ion：n/a\n"
-"反逆者の脅威レベル：低い\n"
+"ルートを変更しようとしています。以下はこのセクターのアトラス情報です。\n"
+"\t\t名前：歪んだセクター\n"
+"\t\tタイプ：中立\n"
+"\t\tユニーク：真\n"
+"\t\t支配的派閥：N/A\n"
+"\t\t反乱軍脅威レベル：低\n"
 "\n"
-"ここに伝承を挿入します\n"
-"[警告：再ルーティングとは、次のセクターで生まれたであろうクエストを見逃すことを意味します。]"
+"\t\tここに伝承を挿入\n"
+"\t\t[警告：ルート変更は、次のセクターで発生するはずだったクエストを見逃すことを意味します。]"
 
 #: src-en/data/events_special_lightspeed.xml.append:210
 msgid ""

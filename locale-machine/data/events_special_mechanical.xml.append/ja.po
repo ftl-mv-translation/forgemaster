@@ -8,32 +8,32 @@ msgstr ""
 #: src-en/data/events_special_mechanical.xml.append:27
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOAD_DEATH_TIMER\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "この領域に残ったあなたの時間..."
+msgstr "この領域に残された時間…"
 
 #: src-en/data/events_special_mechanical.xml.append:40
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_CHARGE_INITIAL\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr "破壊者の準備"
+msgstr "ディスラプター準備中"
 
 #: src-en/data/events_special_mechanical.xml.append:48
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr "破壊者の充電"
+msgstr "ディスラプター再充電中"
 
 #: src-en/data/events_special_mechanical.xml.append:53
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DEPRESS_ACTIVATE\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
-msgstr "Disruptor Active"
+msgstr "ディスラプター作動中"
 
 #: src-en/data/events_special_mechanical.xml.append:67
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/text"
-msgstr "憂鬱"
+msgstr "減圧"
 
 #: src-en/data/events_special_mechanical.xml.append:69
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_DEPRESS_ACTIVATE\"]/tooltip"
-msgstr "押して押してください"
+msgstr "押して減圧"
 
 #: src-en/data/events_special_mechanical.xml.append:70
 msgid ""
@@ -43,32 +43,32 @@ msgstr "非アクティブ"
 #: src-en/data/events_special_mechanical.xml.append:87
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_LANIUS_SURGE_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "充電サージ！"
+msgstr "サージ充電中！"
 
 #: src-en/data/events_special_mechanical.xml.append:98
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/tooltip"
-msgstr "すべての装備の整ったフラックの急増を発射します。"
+msgstr "装備している全てのフラックのサージを発射する。"
 
 #: src-en/data/events_special_mechanical.xml.append:99
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TWISTED_LANIUS_SURGE_BUTTON\"]/inactiveTooltip"
-msgstr "利用できません：すでに解雇されています。"
+msgstr "使用不可：発射済み。"
 
 #: src-en/data/events_special_mechanical.xml.append:1305
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_TUCO_BUTTON_SPAWN_INITIAL\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "カードをシャッフルします"
+msgstr "カードをシャッフル中"
 
 #: src-en/data/events_special_mechanical.xml.append:1315
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/text"
-msgstr "カード（WIP）"
+msgstr "カード (WIP)"
 
 #: src-en/data/events_special_mechanical.xml.append:1317
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_TAROT_ACTIVATE\"]/tooltip"
-msgstr "カードを描く（WIP）"
+msgstr "カードを引く (WIP)"
 
 #: src-en/data/events_special_mechanical.xml.append:1318
 msgid ""
@@ -79,360 +79,361 @@ msgstr "非アクティブ"
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/text"
 msgstr ""
-"カードをひっくり返して、キューブを表示する白の閃光を明らかにします。キューブを表示します。これは、ダンスのようにねじれた曲に再配置されるように見えるファセットで緑色にエッチングされます。さまざまな研究の衣服のあらゆる種類の種が観察しています。展開し始めると、泡に吊り下げられた白い高温の塊が明らかになります。新しい次元の誕生。マルチバースの背後にある真実は、古代人でさえ認識できなかったことを推進しています。"
+"カードをめくると、白い閃光が消え、緑色で刻まれた立方体が現れる。その面は、まるで踊っているかのように、何かの歪んだ曲に合わせて再配置されているようだ。様々な研究服を着たあらゆる種族がそれを観察している。それが開き始めると、泡の中に浮かぶ白熱したエネルギーのねじれた塊が現れる。新しい次元の誕生だ。古代人ですら認識できなかった、マルチバースの背後にある真実がそこにある。"
 
 #: src-en/data/events_special_mechanical.xml.append:1336
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/text"
-msgstr "その深さを見つめます"
+msgstr "その深淵を覗き込む"
 
 #: src-en/data/events_special_mechanical.xml.append:1338
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[1]/event/text"
 msgstr ""
-"あなたはキューブの折り目を深くじっと見つめ、あなたの心は緊張して、内のエネルギーのゆがみを理解します。突然、あなたのビジョンは銀河で急いで、星を明らかにするために拡大し、それが彼らの惑星を明らかにします。あなたはa敬の念を抱いて、ビジョンがゆっくりと落ち着いてあなた自身の船を明らかにし、近くの世界を周回しています。"
+"立方体のひだの奥深くを見つめると、あなたの心は中のエネルギーの歪みを理解しようと "
+"напрягается。突然、あなたの視界は銀河で満たされ、それらが拡大して星々を、そして星々が惑星を現す。畏敬の念を持って見ていると、そのビジョンはゆっくりと落ち着き、近くの惑星を周回するあなた自身の船を映し出す。"
 
 #: src-en/data/events_special_mechanical.xml.append:1343
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/text"
-msgstr "その外観を調べます"
+msgstr "その外観を調べる"
 
 #: src-en/data/events_special_mechanical.xml.append:1345
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[1]/choice[2]/event/text"
 msgstr ""
-"箱の外側に視力を固定し、その顔の間で認識できるものを探します。シンボルは完全には意味がありませんが、エンジンを最適化する創造的な方法であなたを刺激します。"
+"箱の外側に視線を固定し、その面の中から何か認識できるものを探す。記号は完全には理解できないが、それらはあなたのエンジンを最適化するための創造的な方法をひらめかせる。"
 
 #: src-en/data/events_special_mechanical.xml.append:1353
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/text"
 msgstr ""
-"カードをひっくり返して何も見えません。星、惑星、光のない真っ黒な黒の空白。認識できる唯一のものは、キューブの輪郭であり、その形状が開くとゆっくりと変化します。内部には小さな渦巻く銀河があります。星、システム、そして最終的にはクラスターが激しく崩壊し始めると、泡立ち、引き裂き始めます。キューブは突然閉まり、口が食べ物を噛むのとは異なり、もう一度シフトし始めます。"
+"カードをめくると、そこには何もない。星も惑星も光もない、漆黒の虚空だ。唯一認識できるのは立方体の輪郭で、それが開くにつれてゆっくりと形を変える。中には小さな渦巻く銀河がある。星々、星系、そして最終的には星団が激しく崩壊し始めると、それは泡立ち、引き裂かれ始める。立方体は突然閉まり、再び動き出す。まるで口が食べ物を噛んでいるかのようだ。"
 
 #: src-en/data/events_special_mechanical.xml.append:1356
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[1]/text"
-msgstr "強制的に開いてください"
+msgstr "無理やりこじ開けようとする"
 
 #: src-en/data/events_special_mechanical.xml.append:1363
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[2]/choice[2]/text"
-msgstr "動くのを止めるまで待ちます"
+msgstr "動きが止まるまで待つ"
 
 #: src-en/data/events_special_mechanical.xml.append:1371
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[3]/text"
 msgstr ""
-"カードをひっくり返して、好奇心and盛な爬虫類の原住民に囲まれた原始的な世界にゆっくりと触れている船がゆっくりと着地します。彼らは、乗組員が出てくるとa敬の念を抱き、不思議な新しいテクノロジーを喜んで取り入れます。シーンがスピードアップされ、壮大なガラスの建物の輪郭が空に向かって走り、コミュニケーションと勉強の城塞で、理解を超えたテクノロジーの習得を生徒に授けます。シーンは、トカゲとスラッグの組み合わせで人が存在する単一の船として終わり、星に向かってジャンプします。"
+"カードをめくると、原始的な世界にゆっくりと着陸する船が現れ、好奇心旺盛な爬虫類のような原住民に囲まれている。彼らは畏敬の念を持ってクルーが降り立つのを見つめ、謎めいた新技術を喜びとともに受け入れる。場面は加速し、壮大なガラスの建物の輪郭が空に向かって伸びていく。それはコミュニケーションと研究の城砦であり、学生たちに理解を超えた技術の習得をもたらす。場面は、トカゲとスラグの混成クルーが乗った一隻の船が星々に向かってジャンプするところで終わる。"
 
 #: src-en/data/events_special_mechanical.xml.append:1375
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[4]/text"
 msgstr ""
-"カードをひっくり返して、悲惨なスラッグに監視されているトカゲでいっぱいの陰気なスウェットショップを明らかにします。彼らはタスクで無意識のうちに苦労し、頭が垂れ下がった状態でコンベアベルトにマークされた箱を押し下げます。それぞれが他の人とのアイコンタクトを避け、彼らの監督の通知を回避します。トカゲの1つは、監督者が彼らを指すまで監督者の視点からそれを隠し、彼らと話すことを要求するまで図を描いています。エアロックが遠くに開き、スウェットショップは悲惨な沈黙に戻ります。"
+"カードをめくると、みすぼらしい顔つきのスラグに監督された、トカゲでいっぱいの陰鬱な搾取工場が現れる。彼らはうなだれながら、無心に作業に励み、印のついた箱をコンベアで押し流している。それぞれが互いに目を合わせるのを避け、監督者の注意を引かないようにしている。トカゲの一人が図面を描いており、監督者から隠していたが、監督者が彼らを指さし、話をするよう要求する。遠くでエアロックが開き、搾取工場は陰鬱な沈黙に戻る。"
 
 #: src-en/data/events_special_mechanical.xml.append:1379
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[5]/text"
 msgstr ""
-"あなたはカードをひっくり返してシェル科学者を明らかにし、彼らが彼らの前のメモを熟考するので、思考に深く失われました。彼らのオフィスへの扉は開いたままになり、あらゆる種の若者が1つずつ滴り、それぞれに質問があります。科学者は微笑み、各生徒の質問に答えて、彼らが立ち去るまで、彼らの目は理解に満ちています。"
+"カードをめくると、目の前のメモを熟考し、深く考え込んでいるシェルの科学者が現れる。彼らのオフィスのドアは開いたままで、あらゆる種族の若者たちが一人ずつ入ってきて、それぞれが質問をする。科学者は微笑み、各学生の質問に詳細に答え、彼らが理解に満ちた目で立ち去るまで続ける。"
 
 #: src-en/data/events_special_mechanical.xml.append:1383
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[6]/text"
 msgstr ""
-"カードをひっくり返して、暗くて薄暗い研究所を明らかにします。シェルの科学者が彼らを熱心に見て、メモを走り書きし、同僚が懸念を持って見ているように、ささやき声で自分自身と話している。光が点滅し、科学者の衰弱した姿が明らかになり、わずかに震えます。彼らの目は沈んでけいれんし、彼らの前のVATにしっかりと固定されています。"
+"カードをめくると、暗く薄汚れた研究室が現れ、影になった大桶の中で奇妙なブロブ状の塊が動いている。シェルの科学者がそれらを熱心に観察し、メモを書き殴り、同僚が心配そうに見守る中、独り言を囁いている。明かりが点滅し、痩せこけた科学者の姿が現れる。彼はわずかに震えている。彼の目はくぼみ、ひくついており、目の前の大桶に固く固定されている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1387
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[7]/text"
 msgstr ""
-"カードをひっくり返して、ラニウスの船を明らかにし、緑の世界に輝く鮮やかでピンク色になります。大オーキッドの群衆がキャプテンがde辱するのを見ています。チーフテンは急いで前進して贈り物を無言で提示し、ラニウスはそれを彼らから群衆の歓声に持ち込みます。"
+"カードをめくると、緑豊かな世界に着陸する、鮮やかなピンク色に輝くラニウスの船が現れる。オーキッドの群衆が船長が降りるのを見守っている。族長が駆け寄り、無言で贈り物を差し出し、ラニウスは群衆の歓声の中でそれを受け取る。"
 
 #: src-en/data/events_special_mechanical.xml.append:1391
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[8]/text"
 msgstr ""
-"カードをひっくり返して、激しい太陽を明らかにします。荒廃した船は、星の表面に投げ出された巨大なフレアによってwar性された低い軌道。奇妙なラニウスの容器が近づくとピンクにちらつき、その後すぐに炎に包まれます。"
+"カードをめくると、荒れ狂う太陽が現れる。荒廃した船が低軌道を周回しており、星の表面から放たれる巨大なフレアに dwarfed "
+"されている。奇妙なラニウスの船がピンク色に点滅しながら近づくが、すぐに炎に飲み込まれる。"
 
 #: src-en/data/events_special_mechanical.xml.append:1395
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[9]/text"
 msgstr ""
-"あなたはカードをひっくり返して、宇宙連盟0を明らかにし、反乱に対する壮大な勝利を祝います。平和は2つの派factの間で仲介されており、反乱艦隊の提督は現在タリー大統領である提督と並んで立っています。反乱軍の旗艦は惑星軌道に駐留しており、反政府勢力と連邦のアイデンティティを組み合わせた記章を備えたシルバー、青、黒の新しい配色に完全に改造されています。"
+"カードをめくると、ユニバース0の連邦が、反乱軍に対する大勝利を祝っている場面が現れる。両派閥の間で和平が結ばれ、反乱軍艦隊のヴァンス提督が、今やタリー大統領となった提督と並んで立っている。反乱軍の旗艦は惑星軌道上に駐留しており、反乱軍と連邦のアイデンティティを組み合わせた記章を付け、銀、青、黒の新しいカラースキームで完全に改装されている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1399
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[10]/text"
 msgstr ""
-"カードをひっくり返して、連邦がかつて駐留されていた粉砕された船、寒い死体、ひび割れた惑星の荒れ地を明らかにします。MFKの旗艦エースは軌道に浮かび、現在、Zulfiqar"
-" "
-"Techのように疑わしいように見える巨大なレーザーを装備し、彼らの運命を封印するために上向きに見える巨大なレーザーを装備しています。ヴァンス提督は旗艦の視聴デッキに立っており、帝国を征服した男のように世界中を見ています。"
+"カードをめくると、粉々になった船、冷たい死体、そしてかつて連邦が駐留していたひび割れた惑星の荒れ地が現れる。MFKフラッグシップ・エースが軌道上に浮かんでおり、今や巨大な力の内なる光で輝き、彼らの運命を封じるためにスケールアップされた、疑わしいほどズルフィカール技術に似た巨大なレーザーを装備している。ヴァンス提督は旗艦の展望デッキに立ち、まるで帝国を征服した男のように見える。"
 
 #: src-en/data/events_special_mechanical.xml.append:1403
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[11]/text"
 msgstr ""
-"カードをひっくり返して、他の現実を垣間見るように見える方法でひねり、大きな目を見せます。珍しい宝石でいっぱいのポット、リヴァイアサンに襲われた海の惑星、金属、クローン、企業の存在によって破壊されているソルセクター。目はあなたをじっと見つめて点滅し、真夜中の日の出のすべての色を輝かせます。"
+"カードをめくると、グレートアイが現れ、他の現実を垣間見せるかのようにねじれている。希少な宝石でいっぱいの壺、リヴァイアサンで満ち溢れる海洋惑星、金属、クローン、企業の存在によって荒廃するソルセクター。アイはあなたを見返し、瞬きし、真夜中の日の出のすべての色で輝く。"
 
 #: src-en/data/events_special_mechanical.xml.append:1407
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[12]/text"
 msgstr ""
-"カードをひっくり返して、激しい目が激しいエネルギーと色で渦巻く大きな目を吹き飛ばすことができます。目は急速に移動し、怒りの源を探し、目を閉じ込めます。寒い気持ちは、目が吹き飛ばされないように振り返ると背骨を忍び寄り始め、このマルチバースと次のすべての不幸にあなたを喜んで喜んでいます。"
+"カードをめくると、大変動の場面が現れる。グレートアイは黒いエネルギーと、憎悪と嫌悪としか言いようのない色で渦巻いている。アイは急速に動き、その怒りの源を探し、あなたと目を合わせる。このマルチバースと次のマルチバースのすべての不幸をあなたに願うかのように、目が瞬きせずに見つめ返してくるので、冷たい感覚が背筋を這い上がり始める。"
 
 #: src-en/data/events_special_mechanical.xml.append:1411
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[13]/text"
 msgstr ""
-"カードをひっくり返して、そびえ立つ塩の姿と一緒にフード付きスラッグを見せます。彼らは一緒に居酒屋に入り、部屋は冗談と騒音で騒々しくなります。スラッグはコンパニオンを静かな奥の部屋に連れて行き、スラッグがローブからカードのデッキを取り外す前にテーブルに座っているペア。ペアが微笑むと画像は消え、スラッグは両方の手を扱っています。"
+"カードをめくると、フードをかぶったスラグとそびえ立つ塩の姿が現れる。彼らは一緒に酒場に入り、部屋は談笑と騒音で満ちている。スラグは連れを静かな奥の部屋に連れて行き、二人はテーブルに座る。スラグがローブからカードのデッキを取り出す前に。二人が微笑み、スラグが二人それぞれに手札を配ると、イメージは消えていく。"
 
 #: src-en/data/events_special_mechanical.xml.append:1415
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[14]/text"
 msgstr ""
-"カードをひっくり返して、結晶性の白い船が現れます。スラッグが船のランプを滑空して、その船長が微笑む船長を迎えます。彼らは、スラッグがつまずいて床に倒れる前に、船のホールを航行し、震えます。彼らの仲間は助けに手を伸ばしますが、接触時にグロテスクな焼けるような暑さに会うだけです。"
+"カードをめくると、水晶のような白い船が現れる。スラグが船のランプを滑り上がり、船長に挨拶すると、船長は微笑み返す。彼らは船の廊下を進むが、スラグがつまずいて床に倒れ、震えている。連れが助けようと手を差し伸べるが、接触するとグロテスクなジュージューという音を立てるだけだ。"
 
 #: src-en/data/events_special_mechanical.xml.append:1419
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[15]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1423
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[16]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1427
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[17]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1431
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[18]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1435
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[19]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1439
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[20]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1443
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[21]/text"
 msgstr ""
-"カードをスロットのサウンド、星間の豪華な巡洋艦、そしてそれほど脂っこいトニーSRで、金と宝石で覆われたトニーSRにひっくり返します。船には、ヘクタールの半分がトニーの顔を覆い、宝石と金属が散りばめられた歯でニヤリと笑っています。この光景は、想像できるあらゆる方言の銀河のあらゆるストレッチに放送されており、彼が縛られている船の弓から苦労している丸い黄色のスラッグに特別な注意を払っています。"
+"カードをめくるとスロットの音が聞こえ、星間豪華クルーザーと、金と宝石で覆われたノット・ソー・ファット・トニー・シニアが舵を取っている。船には、ヘクターのロゴが半分消されており、トニーの顔が側面のほとんどを覆い、宝石と金属で飾られた歯でニヤリと笑っている。この光景は、考えられるすべての訛りで銀河の隅々まで放送されており、船首に縛り付けられてもがいている丸々とした黄色のスラグに特に注意が払われている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1447
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[22]/text"
 msgstr ""
-"カードをひっくり返して、唯一の遺棄された宇宙ステーションを明らかにします。1つのセクションは、まるでハンマーでヒットするかのようにゆるくぶら下がっています。特異な幽霊の白いヒルは、駅の最後の通気性のある部分に残っており、無数のボトルとブラスターに囲まれています。彼の周りにはヘクタルドロの輪があり、彼が墓を去ろうとするなら発射する準備ができています。しかし、ぐったりリーチが作る唯一の動きは、ブラスターを喉に向けることです。彼はトリガーを引っ張り、自分自身を終わらせますが、天井にぶら下がっているクローンのヴァットによって吐き出されます。床に横たわってリッチングして、彼は再びブラスターに手を伸ばします。"
+"カードをめくると、孤立した遺棄された宇宙ステーションが現れ、一つのセクションがハンマーで殴られたかのようにゆるくぶら下がっている。ステーションの最後に残った呼吸可能な部分に、幽霊のように白いリーチが一体だけ残っており、無数のボトルとブラスターに囲まれている。彼の周りにはヘクターのドローンの輪があり、もし彼が墓を離れようとすれば発砲する準備ができている。しかし、ぐったりしたリーチがする唯一の動きは、ブラスターを喉に向けることだ。彼は引き金を引いて自決するが、天井に吊るされたクローニング槽から吐き出される。床に横たわり、吐き気を催しながら、彼は再びブラスターに手を伸ばす。"
 
 #: src-en/data/events_special_mechanical.xml.append:1451
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[23]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1455
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[24]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1459
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[25]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1463
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[26]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1467
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[27]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1471
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[28]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1475
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[29]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1479
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[30]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1483
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[31]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1487
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[32]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1491
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[33]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1495
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[34]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1499
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[35]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1503
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[36]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1507
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[37]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1511
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[38]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1515
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[39]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1519
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[40]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1523
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[41]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1527
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[42]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1531
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[43]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1535
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TAROT_ACTIVATE\"]/event[44]/text"
-msgstr "私はあなたのX線を見ています、そして私はあなたが吸うのではないかと心配しています！"
+msgstr "お前のレントゲンを見ているが、残念ながらお前は最悪だ！"
 
 #: src-en/data/events_special_mechanical.xml.append:1556
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TWISTED_BLESSING_KILLCOUNT_INCREMENT\"]/text"
-msgstr "効率的で残忍な勝利。あなたの恩人は間違いなくあなたの仕事に満足しています。（1回の怒りが得られました）"
+msgstr "効率的で残忍な勝利。あなたの後援者は間違いなくあなたの仕事に満足している。（レイジ1獲得）"
 
 #: src-en/data/events_special_mechanical.xml.append:1599
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[1]/text"
 msgstr ""
-"反対側の船の最終的なパワースパークが暗くなると、冷蔵庫が揺れます - "
-"内側からのランブルが響き渡り、承認を得て、その知らない内部のハムに無数の幽霊を感じます。ささやくガスの急ぎで、あなたの前に幻影が合体します - "
-"提供する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が揺れる - "
+"内部からうなりが響き、その計り知れない内部にいる無数の幽霊が承認のハミングをするのを感じる。ささやくガスの奔流とともに、ファントムがあなたの前に凝縮する"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1606
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[2]/text"
 msgstr ""
-"反対側の船の最終的なパワースパークが暗くなると、冷蔵庫が揺れます - "
-"内側からのランブルが響き渡り、承認を得て、その知らない内部のハムに無数の幽霊を感じます。ささやきガスの急ぎと暴力的なエネルギーのパチパチ音で、あなたの前にレイスが合体します"
-" - 準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が揺れる - "
+"内部からうなりが響き、その計り知れない内部にいる無数の幽霊が承認のハミングをするのを感じる。ささやくガスの奔流と激しいエネルギーのパチパチという音とともに、レイスがあなたの前に凝縮する"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1613
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[3]/text"
 msgstr ""
-"反対側の船の最終的なパワースパークが暗くなると、冷蔵庫が揺れます - "
-"内側からのランブルが響き渡り、承認を得て、その知らない内部のハムに無数の幽霊を感じます。ささやきガスの急ぎと周囲の熱洗浄のきらめきで、あなたの前にグールがcoalsります"
-" - 提供する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が揺れる - "
+"内部からうなりが響き、その計り知れない内部にいる無数の幽霊が承認のハミングをするのを感じる。ささやくガスの奔流と周囲を洗い流す熱のきらめきとともに、グールがあなたの前に凝縮する"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1620
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[4]/text"
 msgstr ""
-"反対側の船の最終的なパワースパークが暗くなると、冷蔵庫が揺れます - "
-"内側からのランブルが響き渡り、承認を得て、その知らない内部のハムに無数の幽霊を感じます。あなたの船体がわずかに震えているガスを動かしているガスのhowえを叩いて、あなたの前に雌馬が合体します"
-" - 奉仕する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が揺れる - "
+"内部からうなりが響き、その計り知れない内部にいる無数の幽霊が承認のハミングをするのを感じる。船体をわずかに震わせるガスの動きの thumpin な "
+"howl とともに、メアがあなたの前に凝縮する - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1627
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[5]/text"
 msgstr ""
-"反対派の船の最終的な力の火花が暗くなると、冷蔵庫は激しく揺れます - "
-"ランブルは通常よりも大きくて響き渡り、承認を得て、その知らない内部のハムからの強力なエンティティの存在を感じます。攪拌された白いガスの豪雨があり、あなたの前にアルファファントムが合体します"
-" - 準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が激しく揺れる - "
+"内部からいつもより大きなうなりが響き、その計り知れない内部からより強力な存在が承認のハミングをするのを感じる。興奮した白いガスの奔流とともに、アルファファントムがあなたの前に凝縮する"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1634
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[6]/text"
 msgstr ""
-"反対派の船の最終的な力の火花が暗くなると、冷蔵庫は激しく揺れます - "
-"ランブルは通常よりも大きくて響き渡り、承認を得て、その知らない内部のハムからの強力なエンティティの存在を感じます。暴力的で酸性のヒスで、あなたの前にアルファマーレが合体します"
-" - 奉仕する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が激しく揺れる - "
+"内部からいつもより大きなうなりが響き、その計り知れない内部からより強力な存在が承認のハミングをするのを感じる。激しく酸性のシューという音とともに、アルファメアがあなたの前に凝縮する"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1642
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[7]/text"
 msgstr ""
-"反対派の船の最終的な力の火花が暗くなると、冷蔵庫は激しく揺れます - "
-"ランブルは通常よりも大きくて響き渡り、承認を得て、その知らない内部のハムからの強力なエンティティの存在を感じます。部屋は、あなたの前にアルファ・ゴールの合体として不気味にくすぶっています"
-" - 提供する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が激しく揺れる - "
+"内部からいつもより大きなうなりが響き、その計り知れない内部からより強力な存在が承認のハミングをするのを感じる。アルファグールがあなたの前に凝縮すると、部屋は不吉にくすぶる"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1649
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[8]/text"
 msgstr ""
-"反対派の船の最終的な力の火花が暗くなると、冷蔵庫は激しく揺れます - "
-"ランブルは通常よりも大きくて響き渡り、承認を得て、その知らない内部のハムからの強力なエンティティの存在を感じます。あなたの前にアルファレイスの合体として、あなたの船の船体に対して電気のボルトがスナップします"
-" - 準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が激しく揺れる - "
+"内部からいつもより大きなうなりが響き、その計り知れない内部からより強力な存在が承認のハミングをするのを感じる。アルファレイスがあなたの前に凝縮すると、あなたの船の船体に稲妻が走る"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1656
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[9]/text"
 msgstr ""
-"反対側の船での最終的なパワーの火花が暗くなると、冷蔵庫は手に負えないほど揺れます -  "
-"howえが叫び声を上げて、船を驚くほど揺さぶります。圧倒的な恐ろしい娯楽の感覚は、その壁の中から発せられます。ハウルは、あなたの前に出没の1つがcoulescessであるため、ゆっくりと死にます"
-" - 奉仕する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫が制御不能に揺れる - "
+"叫び声が響き渡り、船を威嚇するように揺さぶる。その壁の内側から、圧倒的な恐ろしい娯楽の感覚が発せられる。ハウンツの一体があなたの前に凝縮すると、叫び声はゆっくりと消えていく"
+" - 仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:1664
 msgid ""
 "data/events_special_mechanical.xml.append$//eventList[@name=\"TWISTED_KESTREL_KILL\"]/event[10]/text"
 msgstr ""
-"反対側の船での最終的な力の火花が暗くなると、冷蔵庫は船の船体にぶつかり、耳を痛めて叫ぶ叫び声が吹き飛ばされ、動揺します。外の明るいボイド、またはおそらくあなたのビジョンだけがわずかに暗くなります。あなたの前にエレガントに鎧を着た壮大な幽霊が、ファントムキング自身のバージョンです。彼はあなたの前にひざまずきます...奉仕する準備ができています。"
+"敵船の最後の力の火花が消えると、冷蔵庫は船の船体に叩きつけられ、ほとんどひび割れる - "
+"耳をつんざくような叫び声が内部から響き渡り、あなたはよろめく。外の明るい虚空、あるいはあなたの視界だけがわずかに暗くなる。鎧をまとった壮大な幽霊が、あなたの前に優雅に形成される。それはファントムキング自身の何らかのバージョンだ。彼はあなたの前にひざまずく…仕える準備はできている。"
 
 #: src-en/data/events_special_mechanical.xml.append:2028
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OVERCHARMED_MESSAGE\"]/text"
 msgstr ""
-"モジュールのインストールが終了したときに、モジュラーハルの構造的限界が発生していることに気付き、不安定性を引き起こします。そのため、爆発する傾向があるように見えます。それがあなたをあまり妨げないことを願っています。"
+"モジュールの取り付けを終えると、モジュラー船体の構造限界を超え、不安定になっていることに気づく。そのせいで、非常に爆発しやすくなっているようだ。あまり邪魔にならないことを願おう。"
 
 #: src-en/data/events_special_mechanical.xml.append:2046
 msgid ""
@@ -442,7 +443,7 @@ msgstr "面白いフラックサージ！"
 #: src-en/data/events_special_mechanical.xml.append:2047
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON\"]/inactiveTooltip"
-msgstr "利用できない：危険にさらされている間、これを行うことはできません！"
+msgstr "利用不可：危険な状態では実行できません！"
 
 #: src-en/data/events_special_mechanical.xml.append:2063
 msgid ""
@@ -452,33 +453,33 @@ msgstr "面白いフラックサージ2！"
 #: src-en/data/events_special_mechanical.xml.append:2064
 msgid ""
 "data/events_special_mechanical.xml.append$//eventButton[@name=\"UI_FLAK_DEFEND_BUTTON2\"]/inactiveTooltip"
-msgstr "利用できない：危険にさらされている間、これを行うことはできません！"
+msgstr "利用不可：危険な状態では実行できません！"
 
 #: src-en/data/events_special_mechanical.xml.append:2080
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"LOL\"]/crewMember"
-msgstr "スキルの問題"
+msgstr "スキル不足"
 
 #: src-en/data/events_special_mechanical.xml.append:2100
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"OXYGEN_FORCE_UPGRADE\"]/text"
-msgstr "酸素を強制的にアップグレードします。"
+msgstr "酸素を強制的にアップグレードする。"
 
 #: src-en/data/events_special_mechanical.xml.append:2104
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"WEAPONS_FORCE_UPGRADE\"]/text"
-msgstr "武器を強制的にアップグレードします。"
+msgstr "武器を強制的にアップグレードする。"
 
 #: src-en/data/events_special_mechanical.xml.append:2108
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"SHIELDS_FORCE_UPGRADE\"]/text"
-msgstr "シールドを強制的にアップグレードします。"
+msgstr "シールドを強制的にアップグレードする。"
 
 #: src-en/data/events_special_mechanical.xml.append:2120
 msgid "data/events_special_mechanical.xml.append$//event[@name=\"DRAW\"]/text"
-msgstr "少なくとも後で、画面に何かを描画しようとします！"
+msgstr "画面に何か描こうとしてみる、少なくとも後で！"
 
 #: src-en/data/events_special_mechanical.xml.append:2124
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"TOGGLE_HACK\"]/text"
-msgstr "奇妙なハッキングコマンドを切り替えます"
+msgstr "奇妙なハッキングコマンドを切り替える"

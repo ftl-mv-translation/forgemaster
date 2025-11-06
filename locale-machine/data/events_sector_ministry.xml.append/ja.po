@@ -9,15 +9,14 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/text"
-msgstr "（Hellfire）干渉の衝動に抵抗することはできません... [コスト：2}]"
+msgstr "(ヘルファイア) 干渉する衝動を抑えられない…[コスト: 2}]"
 
 #: src-en/data/events_sector_ministry.xml.append:7
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"Hellfireミサイルの純粋な火力を使用して、両方の船に発砲し、1つのボレーでそれらをほとんど破壊します。二人ともすぐにあなたに降伏し、大胆に別のボレーを危険にさらすことはありません。「あなたはあなたにサイコパスを見せてくれました、あなたは何が欲しいですか？」ゾルタンは尋ねます。Mantis"
-" Shipは、「Suredrender Messahge」の一般的なテンプレートを送信します。なんて奇妙なマンティス。"
+"ヘルファイアミサイルの圧倒的な火力を使って、両方の船に発砲し、一斉射撃でほぼ破壊する。彼らは両方とも即座にあなたに降伏し、もう一斉射撃のリスクを冒そうとはしない。「正体を見せたな、サイコパスめ、何が望みだ？」とゾルタンが尋ねる。マンティスの船は「降伏メッセージ」の汎用テンプレートを送ってくる。これは彼らが言葉なく素早く降伏することを好むことを示しているようだ。奇妙なマンティスだ。"
 
 #: src-en/data/events_sector_ministry.xml.append:21
 msgid ""
@@ -29,13 +28,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
-msgstr "2番目のボレーを発射し、降伏を無視します。"
+msgstr "二度目の一斉射撃を行い、彼らの降伏を無視する。"
 
 #: src-en/data/events_sector_ministry.xml.append:35
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[1]/event/choice[2]/event/text"
-msgstr "彼らのco病はあなたを嫌い、あなたは別のボレーを発射します。両方の船は2番目のボレーで引き裂かれ、時間をかけて両方の船を廃棄します。"
+msgstr "彼らの臆病さに嫌悪感を覚え、もう一斉射撃を行う。二度目の一斉射撃で両方の船は引き裂かれ、あなたは両方の船をスクラップにする時間を取る。"
 
 #: src-en/data/events_sector_ministry.xml.append:37
 msgid ""
@@ -47,16 +46,14 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/text"
-msgstr "（ba-pef）干渉の衝動に抵抗することはできません... [コスト：1}]"
+msgstr "(バ・ペフ) 干渉する衝動を抑えられない…[コスト: 1}]"
 
 #: src-en/data/events_sector_ministry.xml.append:50
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"「ba-"
-"pef」鉱山の純粋な火力を使用して、両方の船に発砲し、1つのボレーでそれらをほとんど破壊し、鉱山で囲みます。二人ともすぐにあなたに降伏し、大胆に別のボレーを危険にさらすことはありません。「あなたはあなたにサイコパスを見せてくれました、あなたは何が欲しいですか？」ゾルタンは尋ねます。Mantis"
-" Shipは、「Suredrender Messahge」の一般的なテンプレートを送信します。なんて奇妙なマンティス。"
+"「バ・ペフ」機雷の圧倒的な火力を使って、両方の船に発砲し、一斉射撃でほぼ破壊し、機雷で包囲する。彼らは両方とも即座にあなたに降伏し、もう一斉射撃のリスクを冒そうとはしない。「正体を見せたな、サイコパスめ、何が望みだ？」とゾルタンが尋ねる。マンティスの船は「降伏メッセージ」の汎用テンプレートを送ってくる。これは彼らが言葉なく素早く降伏することを好むことを示しているようだ。奇妙なマンティスだ。"
 
 #: src-en/data/events_sector_ministry.xml.append:64
 msgid ""
@@ -68,13 +65,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
-msgstr "2番目のボレーを発射し、降伏を無視します。"
+msgstr "二度目の一斉射撃を行い、彼らの降伏を無視する。"
 
 #: src-en/data/events_sector_ministry.xml.append:78
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[2]/event/choice[2]/event/text"
-msgstr "彼らのco病はあなたを嫌い、あなたは別のボレーを発射します。両方の船は2番目のボレーで引き裂かれ、時間をかけて両方の船を廃棄します。"
+msgstr "彼らの臆病さに嫌悪感を覚え、もう一斉射撃を行う。二度目の一斉射撃で両方の船は引き裂かれ、あなたは両方の船をスクラップにする時間を取る。"
 
 #: src-en/data/events_sector_ministry.xml.append:80
 msgid ""
@@ -86,16 +83,14 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/text"
-msgstr "（ノーデリウム）干渉する衝動に抵抗することはできません...！"
+msgstr "(ノーベリウム) 干渉する衝動を抑えられない…！"
 
 #: src-en/data/events_sector_ministry.xml.append:92
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"Nobelium "
-"Flakの純粋な火力を使用して、両方の船に発砲し、1つのボレーでそれらをほとんど破壊します。二人ともすぐにあなたに降伏し、大胆に別のボレーを危険にさらすことはありません。「あなたはあなたにサイコパスを見せてくれました、あなたは何が欲しいですか？」ゾルタンは尋ねます。Mantis"
-" Shipは、「Suredrender Messahge」の一般的なテンプレートを送信します。なんて奇妙なマンティス。"
+"ノーベリウムフラックの圧倒的な火力を使って、両方の船に発砲し、一斉射撃でほぼ破壊する。彼らは両方とも即座にあなたに降伏し、もう一斉射撃のリスクを冒そうとはしない。「正体を見せたな、サイコパスめ、何が望みだ？」とゾルタンが尋ねる。マンティスの船は「降伏メッセージ」の汎用テンプレートを送ってくる。これは彼らが言葉なく素早く降伏することを好むことを示しているようだ。奇妙なマンティスだ。"
 
 #: src-en/data/events_sector_ministry.xml.append:103
 msgid ""
@@ -107,13 +102,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/choice[2]/text"
-msgstr "2番目のボレーを発射し、降伏を無視します。"
+msgstr "二度目の一斉射撃を行い、彼らの降伏を無視する。"
 
 #: src-en/data/events_sector_ministry.xml.append:117
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[3]/event/choice[2]/event/text"
-msgstr "彼らのco病はあなたを嫌い、あなたは別のボレーを発射します。両方の船は2番目のボレーで引き裂かれ、時間をかけて両方の船を廃棄します。"
+msgstr "彼らの臆病さに嫌悪感を覚え、もう一斉射撃を行う。二度目の一斉射撃で両方の船は引き裂かれ、あなたは両方の船をスクラップにする時間を取る。"
 
 #: src-en/data/events_sector_ministry.xml.append:119
 msgid ""
@@ -125,16 +120,14 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/text"
-msgstr "（ハシウム）干渉する衝動に抵抗することはできません...！"
+msgstr "(ハッシウム) 干渉する衝動を抑えられない…！"
 
 #: src-en/data/events_sector_ministry.xml.append:130
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
-"Hassium "
-"Flakの純粋な火力を使用して、両方の船に発砲し、1つのボレーでそれらをほとんど破壊します。二人ともすぐにあなたに降伏し、大胆に別のボレーを危険にさらすことはありません。「あなたはあなたにサイコパスを見せてくれました、あなたは何が欲しいですか？」ゾルタンは尋ねます。Mantis"
-" Shipは、「Suredrender Messahge」の一般的なテンプレートを送信します。なんて奇妙なマンティス。"
+"ハッシウムフラックの圧倒的な火力を使って、両方の船に発砲し、一斉射撃でほぼ破壊する。彼らは両方とも即座にあなたに降伏し、もう一斉射撃のリスクを冒そうとはしない。「正体を見せたな、サイコパスめ、何が望みだ？」とゾルタンが尋ねる。マンティスの船は「降伏メッセージ」の汎用テンプレートを送ってくる。これは彼らが言葉なく素早く降伏することを好むことを示しているようだ。奇妙なマンティスだ。"
 
 #: src-en/data/events_sector_ministry.xml.append:141
 msgid ""
@@ -146,13 +139,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/choice[2]/text"
-msgstr "2番目のボレーを発射し、降伏を無視します。"
+msgstr "二度目の一斉射撃を行い、彼らの降伏を無視する。"
 
 #: src-en/data/events_sector_ministry.xml.append:155
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod-"
 "append:choice[4]/event/choice[2]/event/text"
-msgstr "彼らのco病はあなたを嫌い、あなたは別のボレーを発射します。両方の船は2番目のボレーで引き裂かれ、時間をかけて両方の船を廃棄します。"
+msgstr "彼らの臆病さに嫌悪感を覚え、もう一斉射撃を行う。二度目の一斉射撃で両方の船は引き裂かれ、あなたは両方の船をスクラップにする時間を取る。"
 
 #: src-en/data/events_sector_ministry.xml.append:157
 msgid ""
@@ -163,4 +156,4 @@ msgstr ""
 #: src-en/data/events_sector_ministry.xml.append:167
 msgid ""
 "data/events_sector_ministry.xml.append$//mod:findName[@name=\"DISTRESS_ZOLTAN_MANTIS_MV\"]/mod:findWithChildLike/mod:selector"
-msgstr "干渉しないでください。"
+msgstr "干渉しない。"

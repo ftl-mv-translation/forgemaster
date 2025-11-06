@@ -9,12 +9,12 @@ msgstr ""
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice/text"
-msgstr "これについてAlastairに尋ねてください。"
+msgstr "アラステアにこれについて尋ねる。"
 
 #: src-en/data/events_sector_showdown.xml.append:13
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FORGEMASTER\"]/text"
-msgstr "ここにアラステアのテキスト。はい、これは最終的にあなたに船を与えます"
+msgstr "アラステアのテキストはここ。はい、これは最終的にあなたに船を与えます"
 
 #: src-en/data/events_sector_showdown.xml.append:15
 msgid ""

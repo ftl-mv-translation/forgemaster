@@ -8,22 +8,22 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_class\"]"
-msgstr "フェージマスタークルーザー"
+msgstr "フォージマスター・クルーザー"
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_name\"]"
-msgstr "マグマハート"
+msgstr "マグマ・ハート"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FORGEMASTER_1_desc\"]"
-msgstr "彼が休暇に行く気分になったときのためのForgemasterの最愛の巡洋艦。"
+msgstr "鍛冶マスターが休暇に行きたくなった時のための寵愛巡洋艦。"
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FORGEMASTER_1_unlock\"]"
-msgstr "伝説の鍛冶屋を倒して、この船のロックを解除します。"
+msgstr "伝説の鍛冶屋を倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
@@ -33,18 +33,18 @@ msgstr "ガンボミネーション"
 #: src-en/data/text_blueprints.xml.append:17
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_name\"]"
-msgstr "ガンヒドラ"
+msgstr "ガン・ヒュドラ"
 
 #: src-en/data/text_blueprints.xml.append:18
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_desc\"]"
 msgstr ""
-"武器の使用の制限を説明し、武器の予算に夢中になり、武器システムを壊したマニュアルの一部をスキップしました。ありがたいことに、彼はプロトタイプドローンシステムに十分な資金を持っていました！"
+"あるフリーマンティスは、兵器使用の制限を説明したマニュアルの部分を読み飛ばし、兵器予算に狂奔し、兵器システムを壊してしまった。幸いにも、彼には試作ドローンシステムのための十分な資金があった！"
 
 #: src-en/data/text_blueprints.xml.append:19
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_unlock\"]"
-msgstr "鍛冶屋の古い友人を重い借金から救出します。"
+msgstr "重い借金から鍛冶屋の旧友を救出する。"
 
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
@@ -54,18 +54,18 @@ msgstr "ガンボミネーション"
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_name\"]"
-msgstr "ガンコブラ"
+msgstr "ガン・コブラ"
 
 #: src-en/data/text_blueprints.xml.append:23
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_2_desc\"]"
 msgstr ""
-"同じ裕福なフリーマンティスは、このクレイジーなプロジェクトを再び試みました。彼はまだ武器システムを過負荷にしました。ありがたいことに、彼はプロトタイプテレポーターのための十分な資金を持っていて、乗組員が居住するために船内の今では賢い武器にたくさんのベッドをセットアップしました。"
+"同じ裕福なフリーマンティスが再びこの狂気のプロジェクトを試みた。彼はやはり兵器システムを過負荷にしてしまった。幸いにも、彼には試作テレポーターのための十分な資金があり、船内の今は動かなくなった兵器の上に、乗組員が住むためのベッドをたくさん設置した。"
 
 #: src-en/data/text_blueprints.xml.append:24
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_2_unlock\"]"
-msgstr "多額の負債を主張するためにいくつかのスラッグを支援します。"
+msgstr "スラッグが重い借金を取り立てるのを手伝う。"
 
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
@@ -75,83 +75,81 @@ msgstr "ガンボミネーション"
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_name\"]"
-msgstr "ガンタイタノボア"
+msgstr "ガン・タイタノボア"
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FM_3_desc\"]"
 msgstr ""
-"2回目の失敗したプロジェクトの後、裕福なフリーマンティスは酔ったベンダーに行き、最善の行動は武器を敵に持ち込むことであると判断しました。この船は、速度を突出させるために装備されています！敵の船を物理的に攻撃することができます。"
+"2度目のプロジェクト失敗の後、裕福なフリーマンティスは泥酔し、最善の策は敵に兵器を持ち込むことだと決めた。この船は体当たり速度に対応している！敵船に物理的に攻撃できる。"
 
 #: src-en/data/text_blueprints.xml.append:29
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FM_3_unlock\"]"
-msgstr "Gunbomination AとBの両方のロックを解除します"
+msgstr "ガンボミネーションAとBの両方をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:31
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_class\"]"
-msgstr "Gunbomination II"
+msgstr "ガンボミネーション II"
 
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_name\"]"
-msgstr "Gun Hydraが目覚めました"
+msgstr "ガン・ヒュドラ・アウェイクンド"
 
 #: src-en/data/text_blueprints.xml.append:33
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_desc\"]"
 msgstr ""
-"フリー・マンティスがいくつかのエーテルリアクターを設置し、再び動作する武器の一部を手に入れました！この船は、今では修理するために不浄な混乱ですが、考慮すべき力です。"
+"あるフリーマンティスがエーテルリアクターをいくつか設置し、兵器のいくつかを再び作動させた！この船は今や修理がとんでもないことになっているが、侮れない戦力だ。"
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_unlock\"]"
-msgstr "この船のロックを解除するために、Gunbomination Type Cでゲームを破ります。"
+msgstr "ガンボミネーションC型でゲームをクリアしてこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:37
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_class\"]"
-msgstr "Gunbomination II"
+msgstr "ガンボミネーション II"
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_name\"]"
-msgstr "銃の貧困"
+msgstr "ガン・デスティテュート"
 
 #: src-en/data/text_blueprints.xml.append:39
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_ELITE_2_desc\"]"
 msgstr ""
-"失敗した船舶設計ベンチャーの破産に直面して、銀行は彼の船の一部を計り知れない量の負債を返済するように取り戻し始めました。これは、今では無一文の自由なマンティスが栄光の炎の中に出るのを止めません！"
+"船の設計事業の失敗で破産に直面し、銀行は彼の計り知れない借金を返済するために船の部品を差し押さえ始めた。しかし、無一文になったフリーマンティスが華々しく散るのを止めることはできない！"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_ELITE_2_unlock\"]"
-msgstr ""
-"この特別な船のロックを解除するために、Gunbomination II AとForgemaster Cruiser Aの両方のロックを解除します。"
+msgstr "ガンボミネーションII AとフォージマスタークルーザーAの両方をアンロックして、この特別な船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:42
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_class\"]"
-msgstr "Gunbomination III"
+msgstr "ガンボミネーション III"
 
 #: src-en/data/text_blueprints.xml.append:43
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_name\"]"
-msgstr "Gunbom Anti-Harmony"
+msgstr "ガンボム・アンチハーモニー"
 
 #: src-en/data/text_blueprints.xml.append:44
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_GUNSHIP_FUTURE_desc\"]"
 msgstr ""
-"文字通りのワームホールを介して現在の時間に移動しました。これは、彼の借金をgeneしみなく返済する神秘的な反逆のためにウィンチェスターの借金が解消される唯一の現実です。この船は、ハーモニーによって破壊された未来から歓迎されます。何が起こったのでしょうか？"
+"文字通りのワームホールを通って現代にやって来たこの船は、謎の反逆者が気前よくウィンチェスターの借金を肩代わりしたことで彼の借金が帳消しになった唯一の現実から来た。この船はハーモニーによって荒廃した未来から来たものだ。一体何が起こったのだろうか？"
 
 #: src-en/data/text_blueprints.xml.append:45
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_GUNSHIP_FUTURE_unlock\"]"
-msgstr ""
-"将来のマルチバースレベルの紛争が発生するのを防ぐことにより、歴史のコースを変えます。あなたがたくさんのスクラップを持っていることを願っています！"
+msgstr "未来のマルチバースレベルの紛争が起こるのを防ぎ、歴史の流れを変える。スクラップがたくさんあることを願う！"
 
 #: src-en/data/text_blueprints.xml.append:47
 msgid ""
@@ -167,18 +165,17 @@ msgstr "真のテスター"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FMTESTING_desc\"]"
 msgstr ""
-"PlayTesting "
-"Forgemasterのために特別に作られた巡洋艦ですが、おそらくその外でも使用できます。物事を適切にテストするために必要なすべてのものがありますが、UIはグリッチなので、注意してください。このこととの不具合については、サイラスではなく掘り出しに不平を言ってください。"
+"フォージマスターのプレイテスト専用に作られた巡洋艦だが、おそらくそれ以外でも使えるだろう。物事を適切にテストするために必要なものは全て揃っているが、UIに不具合があるので注意。この件に関する不具合はサイラスではなくディガーに文句を言ってくれ。"
 
 #: src-en/data/text_blueprints.xml.append:51
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_GUNHYDRA_ENEMY_class\"]"
-msgstr "ガンボミネーションの敵"
+msgstr "ガンボミネーション（敵）"
 
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_SLUG_DEBT_COLLECT_class\"]"
-msgstr "Clairvoyant Debt Shark"
+msgstr "千里眼の借金鮫"
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
@@ -198,22 +195,22 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:61
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_class\"]"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/text_blueprints.xml.append:62
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_name\"]"
-msgstr "エヴァネセントアビス"
+msgstr "儚き深淵"
 
 #: src-en/data/text_blueprints.xml.append:63
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_FM_TWISTED_CRYSTAL_desc\"]"
-msgstr "MaxCrew：12-クローンベイ、ドア、ドローン、エンジン、酸素、操縦、シールド、テレポーター、武器、"
+msgstr "最大乗員数：12 - クローン室、ドア、ドローン、エンジン、酸素、操縦、シールド、テレポーター、兵器"
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_class\"]"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/text_blueprints.xml.append:66
 msgid ""
@@ -224,58 +221,58 @@ msgstr "リプリーの背教"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_DUSK_desc\"]"
 msgstr ""
-"非常に明確な目標を念頭に置いてduskbringerによって作成されました。1回の戦いでほとんどの戦争犯罪のためにギネスマルチバース記録を設定すること。"
+"あるダスクブリンガーによって、たった一つの明確な目的のために作られた：一度の戦闘で最も多くの戦争犯罪を犯し、ギネスマルチバース記録を樹立すること。"
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_class\"]"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_name\"]"
-msgstr "フレンサーの掘り出し物"
+msgstr "フレンザーの取引"
 
 #: src-en/data/text_blueprints.xml.append:71
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_CLAN_desc\"]"
-msgstr "これらのスラッグは、臓器を寄付するように「丁寧に」頼むと、カリスマ性をにじみます。それは正当な理由のためです！"
+msgstr "このスラッグたちは、臓器の寄付を「丁寧」に頼むとき、カリスマ性を滲み出させる。正当な目的のためだ！"
 
 #: src-en/data/text_blueprints.xml.append:73
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_class\"]"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/text_blueprints.xml.append:74
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_name\"]"
-msgstr "内のnanowar"
+msgstr "内なるナノ戦争"
 
 #: src-en/data/text_blueprints.xml.append:75
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ENGI_desc\"]"
 msgstr ""
-"数え切れないほどのナノマシンがこの船に生息しています。彼らの容赦ない群れにより、すべてのEngiクルーを大幅に高めることができ、展開した特別なドローンの量で健康、損傷、速度、およびハザード抵抗を拡大します。"
+"無数のナノマシンがこの船に生息している。彼らの絶え間ない群れは、すべてのエンジクルーを大幅に強化し、展開された特殊ドローンの数に応じて体力、ダメージ、速度、危険耐性を向上させる。"
 
 #: src-en/data/text_blueprints.xml.append:77
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_class\"]"
-msgstr "ねじれた反逆巡洋艦"
+msgstr "歪んだ反逆者の巡洋艦"
 
 #: src-en/data/text_blueprints.xml.append:78
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_name\"]"
-msgstr "Zerg Rush"
+msgstr "ザーグ・ラッシュ"
 
 #: src-en/data/text_blueprints.xml.append:79
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CRACKED_FM_BOSS_MANTIS1_desc\"]"
-msgstr "マンティスはテレポーターにすべて入りました。敵の船で本当にamp屈になりそうです！マイナス面として、シールドは3つの泡に覆われています。"
+msgstr "マンティスはテレポーターに全てを注ぎ込んだ。敵船内はすぐに窮屈になるだろう！欠点として、シールドは3層が上限だ。"
 
 #: src-en/data/text_blueprints.xml.append:81
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_class\"]"
-msgstr "ねじれた反逆者連盟"
+msgstr "歪んだ反逆者の連邦"
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
@@ -285,27 +282,27 @@ msgstr "神の介入"
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_FEDERATION_desc\"]"
-msgstr "この船には、敵の船を裂く非常に強力な砲兵梁が装備されています。彼らは武器システムを購入するのを忘れていました、おっと！"
+msgstr "この船は敵船を引き裂く非常に強力な砲撃ビームを装備している。しかし、兵器システムを買い忘れたようだ、おっと！"
 
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_class\"]"
-msgstr "ねじれた反逆者のロストスン"
+msgstr "歪んだ反逆者のロストサン"
 
 #: src-en/data/text_blueprints.xml.append:86
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_name\"]"
-msgstr "Deja Mort"
+msgstr "デジャ・モール"
 
 #: src-en/data/text_blueprints.xml.append:87
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_LOSTSUN_desc\"]"
-msgstr "MaxCrew：7-ドローン、エンジン、Medbay、マインドコントロール、酸素、操縦、盾、テレポーター、武器、"
+msgstr "最大乗員数：7 - ドローン、エンジン、医療室、マインドコントロール、酸素、操縦、シールド、テレポーター、兵器"
 
 #: src-en/data/text_blueprints.xml.append:89
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_class\"]"
-msgstr "ねじれた反逆ゾルタン"
+msgstr "歪んだ反逆者のゾルタン"
 
 #: src-en/data/text_blueprints.xml.append:90
 msgid ""
@@ -316,130 +313,127 @@ msgstr "省の拳"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TWISTED_ZOLTAN_desc\"]"
 msgstr ""
-"Zoltansは、動き回られ、生きているバッテリーのように扱われることにうんざりしています。彼らは平和維持軍ほど経験がないかもしれませんが、これらのゾルタンには袖にいくつかのトリックがあります！"
+"ゾルタンはいいように扱われ、生きるバッテリーのように扱われるのにうんざりしている。彼らは平和維持軍ほど経験豊富ではないかもしれないが、いくつかの切り札を持っている！"
 
 #: src-en/data/text_blueprints.xml.append:93
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CLAN_unlock\"]"
-msgstr "ギルドクルーザーのBレイアウトを使用して、この船のロックを解除するために、ねじれたクランマンの反逆者を倒します。"
+msgstr "ギルド巡洋艦B型でツイステッド・クランズマン・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_DUSK_unlock\"]"
-msgstr ""
-"Duskbringer CruiserのBレイアウトを使用して、この船のロックを解除して、ねじれたDuskbringer Renegadeを倒します。"
+msgstr "ダスクブリンガー巡洋艦B型でツイステッド・ダスクブリンガー・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:95
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGI_unlock\"]"
-msgstr "Engi CruiserのCレイアウトを使用してTwisted Engi Renegadeを倒して、この船のロックを解除します。"
+msgstr "エンジ巡洋艦C型でツイステッド・エンジ・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:97
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FMANTIS_unlock\"]"
-msgstr "この船のロックを解除するために、フリー・マンティスクルーザーのBレイアウトを使用して、ねじれたフリーマンティスレネゲイドを倒します。"
+msgstr "フリーマンティス巡洋艦B型でツイステッド・フリーマンティス・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:98
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SEPPY_unlock\"]"
-msgstr "分離主義者の巡洋艦のBレイアウトを使用して、ねじれた分離主義者の反逆者を倒して、この船のロックを解除します。"
+msgstr "セパラティスト巡洋艦B型でツイステッド・セパラティスト・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:99
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MANTIS_unlock\"]"
-msgstr "この船のロックを解除するために、ハイブクルーザーのBレイアウトを使用して、ねじれたマンティスレネゲイドを倒します。"
+msgstr "ハイヴ巡洋艦B型でツイステッド・マンティス・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:101
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_MONK_unlock\"]"
-msgstr "モンククルーザーのBレイアウトを使用して、この船のロックを解除するために、ねじれた修道士の反逆者を倒します。"
+msgstr "モンク巡洋艦B型でツイステッド・モンク・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:102
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LOSTSUN_unlock\"]"
-msgstr ""
-"Lost Sun CruiserのBレイアウトを使用して、Twisted Lost Sun Renegadeを倒して、この船のロックを解除します。"
+msgstr "ロストサン巡洋艦B型でツイステッド・ロストサン・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ROCK_unlock\"]"
-msgstr "Theocracy CruiserのCレイアウトを使用してTwisted Rock Reengadeを倒して、この船のロックを解除します。"
+msgstr "セオクラシー巡洋艦C型でツイステッド・ロック・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SLUG_unlock\"]"
-msgstr "この船のロックを解除するために、Kleptocracy CruiserのCレイアウトを使用して、ねじれたスラッグレネゲイドを倒します。"
+msgstr "クレプトクラシー巡洋艦C型でツイステッド・スラッグ・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:106
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_STEALTH_unlock\"]"
-msgstr "この船のロックを解除するために、ステルスクルーザーのBレイアウトを使用して、ねじれたステルスレネゲイドを倒します。"
+msgstr "ステルス巡洋艦B型でツイステッド・ステルス・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:107
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ZOLTAN_unlock\"]"
-msgstr "この船のロックを解除するために省の巡洋艦のCレイアウトを使用して、ねじれたゾルタンレネゲイドを倒します。"
+msgstr "ミニストリー巡洋艦C型でツイステッド・ゾルタン・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:109
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LANIUS_unlock\"]"
-msgstr "Lanius CruiserのBレイアウトを使用して、この船のロックを解除するために、ねじれたLanius Renegadeを倒します。"
+msgstr "ラニウス巡洋艦B型でツイステッド・ラニウス・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:110
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_SHELL_unlock\"]"
-msgstr "この船のロックを解除するために、シェルクルーザーのCレイアウトを使用して、ねじれたシェル反乱を倒します。"
+msgstr "シェル巡洋艦C型でツイステッド・シェル・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:111
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ENGINEER_unlock\"]"
-msgstr "エンジニアクルーザーのBレイアウトを使用して、この船のロックを解除するために、ねじれたエンジニアレネゲイドを倒します。"
+msgstr "エンジニア巡洋艦B型でツイステッド・エンジニア・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_KESTREL_unlock\"]"
-msgstr ""
-"Kestrel CruiserのBレイアウトを使用して、この船のロックを解除するために、ねじれたKestrel Renegadeを倒します。"
+msgstr "ケストレル巡洋艦B型でツイステッド・ケストレル・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:114
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_ORCHID_unlock\"]"
-msgstr "この船のロックを解除するために、オーキッドクルーザーのBレイアウトをねじれたオーキッドの再編成を倒します。"
+msgstr "オーキッド巡洋艦B型でツイステッド・オーキッド・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:115
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_FED_unlock\"]"
-msgstr "この船のロックを解除するために、連邦巡洋艦のBレイアウトを使用して、ねじれたフェデレーションレネゲイドを倒します。"
+msgstr "連邦巡洋艦B型でツイステッド・連邦・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:117
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_CRYSTAL_unlock\"]"
-msgstr "この船のロックを解除するために、インペリアルクリスタルクルーザーのCレイアウトを使用して、ねじれたクリスタルレネゲイドを倒します。"
+msgstr "帝国クリスタル巡洋艦C型でツイステッド・クリスタル・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:118
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_TUCO_unlock\"]"
-msgstr "Tuco CruiserのBレイアウトを使用して、Tuco Renegadeを倒してこの船のロックを解除します。"
+msgstr "トゥコ巡洋艦B型でツイステッド・トゥコ・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:119
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TWISTED_LEECH_unlock\"]"
-msgstr "この船のロックを解除するために、リーチクルーザーのCレイアウトを使用して、ねじれたリーチレネゲイドを倒します。"
+msgstr "リーチ巡洋艦C型でツイステッド・リーチ・レネゲイドを倒してこの船をアンロックする。"
 
 #: src-en/data/text_blueprints.xml.append:129
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FM_FORGEMASTER_CRUISER_ENEMY_class\"]"
-msgstr "フェージマスタークルーザー"
+msgstr "フォージマスター・クルーザー"
 
 #: src-en/data/text_blueprints.xml.append:131
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_FALLEN_FIGHTER_class\"]"
-msgstr "倒れた戦闘機"
+msgstr "堕落戦闘機"
 
 #: src-en/data/text_blueprints.xml.append:133
 msgid "data/text_blueprints.xml.append$//text[@name=\"system_temporal_title\"]"
-msgstr "時間的マニピュレーター"
+msgstr "時間操作機"
 
 #: src-en/data/text_blueprints.xml.append:134
 msgid "data/text_blueprints.xml.append$//text[@name=\"system_temporal_desc\"]"
-msgstr "1つの部屋の時間を変更します。アップグレードすると、期間と時間拡張強度が増加します。"
+msgstr "一部屋の時間の流れを変化させる。アップグレードすると持続時間と時間膨張の強さが増加する。"

@@ -9,8 +9,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_PLATED\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「メッキの恩恵。あなたのメッキの乗組員は... "
-"+1能力の請求を獲得します。あなたは前の挑戦者に感謝します。"
+"どこからともなく、声が聞こえてくる。「プレイテッドの…恩恵だ。お前のプレイテッドクルーは…アビリティチャージを+1得るだろう。前の挑戦者に…感謝するもよし。あるいは…しないもよし？誰にもわかるまい…」"
 
 #: src-en/data/events_special_boons.xml.append:5
 msgid ""
@@ -21,8 +20,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_FORGEARMOR\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「[Armouring] I-I-"
-"Installed。インストールされた！助成金の付与：モジュラーハルの安定性が向上し、+2の使用可能なアップグレードノッチを提供します。"
+"どこからともなく、声が聞こえてくる。「[装甲化]の付与をイ、インストールした。インストール完了！付与内容は：モジュラー船体の安定性向上、使用可能なアップグレードノッチ+5。もし、お前がぜ、前の挑戦者を目撃したなら、感謝を伝えろ。私にも、会いに来ることを勧める。」"
 
 #: src-en/data/events_special_boons.xml.append:15
 msgid ""
@@ -33,7 +31,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_FORGEWEAPON\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「チャレンジャー！あなたのために、私は偽造の祝福を与えます！アラスティアーはすべてのセクターを無料で訪問し、あなたの旅行は祝福されますように！"
+"どこからともなく、声が聞こえてくる。「挑戦者よ！お前に、鍛冶の祝福を授けよう！アラスターが全てのセクターを無料で訪れるだろう、お前の旅に祝福あれ！誰に感謝するのか？無論、前の挑戦者だ！ハッハッハ！」"
 
 #: src-en/data/events_special_boons.xml.append:25
 msgid ""
@@ -44,7 +42,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_FORGEWEAPON_2\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「チャレンジャー！あなたのために、私は偽造のより大きな祝福を認めます！アラスティアーはすべての出会いで高級なクラフト材料を提供します、そしてあなたの旅行は祝福されますように！"
+"どこからともなく、声が聞こえてくる。「挑戦者よ！お前に、大いなる鍛冶の祝福を授けよう！アラスターが全ての遭遇で高級なクラフト素材を提供するだろう、お前の旅に祝福あれ！誰に感謝するのか？無論、前の挑戦者だ！ハッハッハ！」"
 
 #: src-en/data/events_special_boons.xml.append:35
 msgid ""
@@ -55,7 +53,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_ANCWEAPON\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「チャレンジャー！あなたのために、私は愚か者の祝福を与えます！アンチャガロンの武器によって作成されたアンチャガロンのクリスタルは50％少ないダメージを必要とします。あなたの旅行は祝福されますか！"
+"どこからともなく、声が聞こえてくる。「挑戦者よ！お前に、蛮勇の祝福を授けよう！アンカガロン兵器によって生成されたアンカガロンクリスタルは受けるダメージが50%減少する、お前の旅に祝福あれ！誰に感謝するのか？無論、前の挑戦者だ！ハッハッハ！」"
 
 #: src-en/data/events_special_boons.xml.append:45
 msgid ""
@@ -66,7 +64,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_FM_TERMINUS\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「チャレンジャー！あなたのために、私はねじれの祝福を認めます！あなたの船と乗組員はすべての統計で5％強く、あなたの旅行は祝福されますように！"
+"どこからともなく、声が聞こえてくる。「挑戦者よ！お前に、歪みの祝福を授けよう！お前の船とクルーは全てのステータスが5%強化される、お前の旅に祝福あれ！誰に感謝するのか？無論、前の挑戦者だ！ハッハッハ！」"
 
 #: src-en/data/events_special_boons.xml.append:55
 msgid ""

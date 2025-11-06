@@ -9,14 +9,14 @@ msgstr ""
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_FREEMANTIS_INTERACT\"]/mod-"
 "append:choice/text"
-msgstr "（Gunbom）あなたの船に注意を引きます。"
+msgstr "(ガンボム) 自分の船に注意を引く。"
 
 #: src-en/data/events_special_guards.xml.append:6
 msgid ""
 "data/events_special_guards.xml.append$//mod:findName[@name=\"GUARD_FREEMANTIS_INTERACT\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"若いフリー・マンティスが波を伸ばし、興奮して拍手します。「あなたは伝説のフェデレーションのヒーローでなければなりません！マンティスの母親は私にフェデレーションヒーローの多くの長い物語を語ってくれます。彼らは多くの銃を持っていて、マンティスの自由の名の下にすべてのハイブを粉砕します。"
+"若いフリーマンティスが興奮して手を振り、拍手する。「あなたは伝説の連邦の英雄に違いない！マンティスの母は連邦の英雄の長い話をたくさんしてくれた。彼らはたくさんの銃を持って、マンティスの自由の名の下に全てのハイブを打ち砕く。どうぞ、私たちの全てを持っていってください！連邦の英雄、喜んでお手伝いします！ぜひ、あなたに同行してたくさんの話を聞かせてください！」"
 
 #: src-en/data/events_special_guards.xml.append:13
 msgid ""

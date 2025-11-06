@@ -15,13 +15,13 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_CHASE\"]/mod-"
 "append:choice/event/text"
-msgstr "マンティスは心を変えます。"
+msgstr "マンティスは考えを変える。「船が怖い、艦隊全体を倒すのに十分な兵器がある。逃げろ！」"
 
 #: src-en/data/events_sector_hive.xml.append:13
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_CHASE\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "ストレージを確認してください。"
+msgstr "ストレージを確認する。"
 
 #: src-en/data/events_sector_hive.xml.append:17
 msgid ""
@@ -33,27 +33,27 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/text"
-msgstr "（ガンボム）船を歓迎し、武器がないので外に出て話そうとします。"
+msgstr "(ガンボム) 船に通信し、兵器がないので話し合いで切り抜けようと試みる。"
 
 #: src-en/data/events_sector_hive.xml.append:28
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"司教はあなたのあられを受け入れます。彼らはあなたの武器がどのように機能しないかを説明する時間を与えず、「レイコンプリイナクラ女王が船を希望します。どうしてそんなに多くの武器を出荷しますか？司教は、厳しく言っていると言います。"
+"ビショップは驚くことに通信を受け入れる。彼らはあなたの兵器が機能しないことを説明する時間を与えず、話し始める。「女王レイコンプリーイナクラが船を欲しがっている。どうやってそんなに多くの兵器を？教えなければ死ぬ、私には公平に思える。」とビショップは要求する。"
 
 #: src-en/data/events_sector_hive.xml.append:30
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "司教に、このジャンクの塊で武器のどれも働いていないことを説明してください。"
+msgstr "このガラクタの兵器はどれも機能しないとビショップに説明する。"
 
 #: src-en/data/events_sector_hive.xml.append:32
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[1]/event/text"
 msgstr ""
-"司教はほとんどst然としていて、混乱し、それから非常に怒っているようです。「あなたは司教の時間を無駄にします。あなたは女王の名の下で死ぬ！」"
+"ビショップはほとんど呆然とし、次に混乱し、そして非常に怒る。近くのコンソールを怒って叩き、「ビショップの時間を無駄にしおって。女王の名において死ね！」と述べる。"
 
 #: src-en/data/events_sector_hive.xml.append:35
 msgid ""
@@ -65,26 +65,26 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "（嘘）：司教の申し出を受け入れ、船の「機能」のツアーを提供します。"
+msgstr "(嘘)：ビショップの申し出を受け入れ、船の「特徴」を案内する。"
 
 #: src-en/data/events_sector_hive.xml.append:43
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/text"
-msgstr "司教はあなたの船を受け入れてテレポートし、冷静に「あなたはツアーと船の青写真を与え、女王は愛する」と述べています。"
+msgstr "ビショップは受け入れ、あなたの船にテレポートし、冷静に「ツアーと船の設計図を渡せば、女王は喜ぶだろう」と述べる。"
 
 #: src-en/data/events_sector_hive.xml.append:46
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/choice[1]/text"
-msgstr "司教にあなたの原子炉とそれがどのように武器を「動かす」ことを見せてください。"
+msgstr "ビショップにリアクターと、それが兵器を「動力供給」する方法を見せる。"
 
 #: src-en/data/events_sector_hive.xml.append:48
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
-"司教はあなたを反応室に追いかけます。乗組員の1人は、システムパワーリーディングコンソールを愚かに残しました。これは、武器システムに電力が流れないことを明確に示しています。「あなたは私をだまします。これのために、あなたは死に直面します！」司教はhowえ、即座に船に戻ります。"
+"ビショップはリアクター室についてくる。あなたのクルーの一人が愚かにもシステム動力表示コンソールをつけたままにしており、兵器システムには全く動力が流れていないことがはっきりと示されている。「私を騙したな。このため、お前は死に直面する！」とビショップは吠え、即座に自分の船にワープして戻る。"
 
 #: src-en/data/events_sector_hive.xml.append:51
 msgid ""
@@ -96,14 +96,14 @@ msgstr ""
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/choice[2]/text"
-msgstr "司教に武器を見せてください。また、乗組員の宿舎のデスクファンなど、船のさまざまな部分に「巧妙に」配線されている方法を示します。"
+msgstr "ビショップに兵器と、それらが船のさまざまな部分、例えばクルー区画の扇風機などに「巧みに」配線されている方法を見せる。"
 
 #: src-en/data/events_sector_hive.xml.append:59
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
-"司教はあなたを武器室に追いかけます。それはあなたにペンと紙を丁寧に求め、あなたがこの状況から抜け出す方法ででたらめになると、陽気な方法で必死に落書きをします。あなたは歯を通して嘘をつき、マンティスに、電力線をそれ自体にプラグインすることで、「無限エネルギー」を生成し、これらすべての武器を動かすことができることを伝えます。司教はその興奮を抑えることはできません。"
+"ビショップは兵器室についてくる。彼は丁寧にペンと紙を求め、あなたがこの状況をでたらめで切り抜ける間、滑稽な様子で必死にメモを取る。あなたは真っ赤な嘘をつき、電力線を自分自身に差し込むことで「無限のエネルギー」を生成し、これらすべての兵器に動力を供給できるとマンティスに語る。ビショップは興奮を抑えられない。"
 
 #: src-en/data/events_sector_hive.xml.append:61
 msgid ""
@@ -116,34 +116,33 @@ msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"ENCOUNTER_BISHOP_CHOICE\"]/mod-"
 "append:choice/event/choice[2]/event/choice[2]/event/choice/event/text"
 msgstr ""
-"「あなたはハイブと女王を見せて、優しさを見せます。今、ハイブはあなたに大きな親切を示しています。」マンティスは多数のハイブ船を呼び出し、あなたの船に物資を積み始めます。「私たちはあなたのスーパー武器船のためにあなたに別の武器を持ってきます！」司教は誇らしげに宣言します。「すぐに、ハイブ艦隊全体がこれらを飛ぶでしょう。」あなたは船の青写真を引き渡し、彼らはあなたを平和に行かせます。"
+"「お前はハイブと女王に大きな親切を示した。今、ハイブがお前に大きな親切を示す。」マンティスは多数のハイブ船を呼び寄せ、彼らはあなたの船に物資を積み込み始める。「我々はお前の超兵器船のために別の兵器を持ってきた！」とビショップは誇らしげに宣言する。「すぐに、ハイブ艦隊全体がこれらを飛ばすだろう。」あなたは船の設計図を渡し、彼らはあなたを平和に行かせる。"
 
 #: src-en/data/events_sector_hive.xml.append:83
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_SLUG_TAUNT\"]/mod-"
 "append:choice/text"
-msgstr ""
-"（Gunbom）常識に関しては、私は完全に無関心です。どの人種が優れているかについて判断を下すことができると思う理由は何ですか？私の船を見てください！"
+msgstr "(ガンボム) 常識に関しては私は完全に常軌を逸している。どの種族が優れているか私が判断できるとどうして思う？私の船を見ろ！"
 
 #: src-en/data/events_sector_hive.xml.append:85
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_SLUG_TAUNT\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"マンティスとスラッグは、しっかりした瞬間にお互いを一目見た後、あなたを振り返ります。「おそらく、私は判断するにはあまりにも速すぎるだろう。」スラッグは、明らかに少し落ち着いていると言います。「あなたは....愚かなものではありません。ごめんなさい。」マンティスが応答します。「今、この新しい船は本当に愚かなものです。愚かな船を見てください！」マンティスはあなたをock笑し続けます。マンティスとスラッグの両方が平和を作りながら、あなたが通信を切るまで絶えずあなたをock笑します。"
+"マンティスとスラッグは1分間互いを見つめ、そしてあなたを見返す。「おそらく、判断が早すぎたようだ。」とスラッグは言い、明らかに少し落ち着いている。「お前…馬鹿ではないな。すまない。」とマンティスは答える。「今、この新しい船は本当に馬鹿だ。馬鹿な船を見ろ！」。マンティスはあなたを嘲笑い続ける。マンティスとスラッグの両方は、あなたが通信を切るまで絶えずあなたを嘲笑いながら和解する。"
 
 #: src-en/data/events_sector_hive.xml.append:95
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_BROKEN_TELEPORTER\"]/mod-"
 "append:choice/text"
-msgstr "（Alastair）Alastairにテレポーターを修理させます"
+msgstr "(アラステア) アラステアに彼らのテレポート装置を修理させる"
 
 #: src-en/data/events_sector_hive.xml.append:97
 msgid ""
 "data/events_sector_hive.xml.append$//mod:findName[@name=\"MANTIS_BROKEN_TELEPORTER\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"テレポーターを修理するためにアラステアを送ります。マンティスは当初、彼が乗って来たときに彼を打つように爪を上げましたが、彼らは彼のホロハンマーの大きさと彼らの態度がすぐに変わるのを見ます。Alastairはテレポーターを簡単に修正します。アラステアが終わったとき、マンティスはあなたを歓迎します。"
+"アラステアを彼らのテレポート装置の修理に送る。彼が乗り込むと、マンティスは最初彼を攻撃しようと爪を上げるが、彼が持つホロハンマーの大きさを見ると、彼らの態度はすぐに変わる。アラステアは単にプラグが抜けていただけのテレポート装置を簡単に修理する。アラステアが終わるとマンティスはあなたに通信し、「親切な船長だ。贈り物を送る。今すぐ怖いレンガを遠ざけてくれ。」と述べる。"
 
 #: src-en/data/events_sector_hive.xml.append:107
 msgid ""

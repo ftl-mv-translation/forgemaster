@@ -7,4 +7,4 @@ msgstr ""
 
 #: src-en/data/events_crafting.xml:194
 msgid "data/events_crafting.xml$//event[@name=\"FM_CRAFT_INFO\"]/text"
-msgstr "ここでは、現在作成できるレシピを確認できます"
+msgstr "現在作成可能なレシピをここで確認できます"

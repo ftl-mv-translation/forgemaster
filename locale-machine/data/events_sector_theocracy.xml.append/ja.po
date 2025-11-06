@@ -9,13 +9,14 @@ msgstr ""
 msgid ""
 "data/events_sector_theocracy.xml.append$//mod:findName[@name=\"ROCK_WEAPON_MEASURING\"]/mod-"
 "append:choice/text"
-msgstr "（ishimura）私の胴​​回りを見てください！そして極端な長さ！"
+msgstr "(イシムラ) 私の太さを見ろ！そしてこの極端な長さを！"
 
 #: src-en/data/events_sector_theocracy.xml.append:8
 msgid ""
 "data/events_sector_theocracy.xml.append$//mod:findName[@name=\"ROCK_WEAPON_MEASURING\"]/mod-"
 "append:choice/event/text"
-msgstr "岩は実際にショックを受けています。「私はあなたの船の武器庫のメンバーと争っている貧しい女性に気分が悪い。"
+msgstr ""
+"ロックは実際にショックを受けている。「あなたの船の兵器庫のそのメンバーと…『対抗』しなければならない可哀想な女性に同情するよ。彼女は数週間は歩…飛べないだろう。あなたの船体にそんなに大きな兵器を吊るしているのだから、報酬に値する。」"
 
 #: src-en/data/events_sector_theocracy.xml.append:17
 msgid ""

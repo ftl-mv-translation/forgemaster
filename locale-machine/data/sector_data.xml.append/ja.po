@@ -8,4 +8,4 @@ msgstr ""
 #: src-en/data/sector_data.xml.append:4
 msgid ""
 "data/sector_data.xml.append$//sectorDescription[@name=\"SECRET_TWISTED\"]/nameList/name"
-msgstr "ねじれたセクター"
+msgstr "ツイステッドセクター"

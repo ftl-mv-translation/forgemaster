@@ -8,19 +8,19 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_RAGE_TWISTEDMONK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "借金はあなたに負っていました。"
+msgstr "あなたへの借金。"
 
 #: src-en/data/events_special_main.xml.append:44
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr "あなたの特別なFLAKリソース。"
+msgstr "あなたの特別なフラックリソース。"
 
 #: src-en/data/events_special_main.xml.append:53
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_FLAK_TWISTEDLANIUS\"]/triggeredEvent[2]/triggeredEventBox/tooltip"
-msgstr "あなたの基本フラックリソース。"
+msgstr "あなたの基本的なフラックリソース。"
 
 #: src-en/data/events_special_main.xml.append:68
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"GIVE_ARM_TWISTEDROCK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "船体からのスクラップ。あなたの敵を倒してそれをすべて集めてください！"
+msgstr "あなたの船体からのスクラップ。敵を倒して全て回収しろ！"

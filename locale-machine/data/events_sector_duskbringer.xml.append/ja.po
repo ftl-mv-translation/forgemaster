@@ -9,13 +9,13 @@ msgstr ""
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "（メッキ）メッキの修理に船体を修理させることを申し出ます。"
+msgstr "(プレイテッド) プレイテッドに彼らの船体を修理させると申し出る。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:11
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr "民兵はあなたの申し出に驚いていますが、彼らは丁寧に受け入れます。"
+msgstr "民兵たちはあなたの申し出に驚くが、快く受け入れる。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:14
 msgid ""
@@ -27,19 +27,19 @@ msgstr ""
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
-msgstr "彼らはあなたの寛大な寄付に感謝するようにあなたに贈り物を提供します。"
+msgstr "彼らはあなたの寛大な寄付への感謝として贈り物をくれる。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:25
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "（Alastair）Alastairに船体を固定することを申し出ます。"
+msgstr "(アラステア) アラステアに彼らの船体を修理させると申し出る。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:27
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr "民兵はあなたの申し出に驚いていますが、彼らは丁寧に受け入れます。"
+msgstr "民兵たちはあなたの申し出に驚くが、快く受け入れる。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:30
 msgid ""
@@ -51,7 +51,7 @@ msgstr ""
 msgid ""
 "data/events_sector_duskbringer.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr "彼らはあなたの寛大な寄付に感謝するようにあなたに贈り物を提供します。"
+msgstr "彼らはあなたの寛大な寄付への感謝として贈り物をくれる。"
 
 #: src-en/data/events_sector_duskbringer.xml.append:40
 msgid ""

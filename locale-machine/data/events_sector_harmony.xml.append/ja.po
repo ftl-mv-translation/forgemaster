@@ -8,63 +8,62 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml.append:9
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/text"
-msgstr "ここの苦痛のビーコンはエンギ容器から来ていますが、危険にさらされているようには見えません。"
+msgstr "ここの救難信号はエンジーの船から発信されているが、危険な状態には見えない。"
 
 #: src-en/data/events_sector_harmony.xml.append:12
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/text"
-msgstr "何が間違っているのかを見るためにエンギを呼び起こします。"
+msgstr "エンジーに通信して何が問題か尋ねる。"
 
 #: src-en/data/events_sector_harmony.xml.append:14
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/text"
 msgstr ""
-"紫色のパーティーの帽子をかぶっているエンギが画面に表示されます。背景には、急速に点滅するカラフルなライトがあり、いくつかのスラッグが踊ります。「ご挨拶を始めてください。お問い合わせ：「一生懸命」する方法の知識。リクエスト：スラッグ訪問者が推奨する満足のための心を変える物質。」"
+"紫色のパーティーハットをかぶったエンジーが画面に現れる。背景には色とりどりの光が速く点滅し、数匹のスラッグが踊っている。「挨拶を開始します。質問：『激しくパーティーする』方法の知識。要求：スラッグの訪問者から推奨された、快楽のための精神変化物質。」"
 
 #: src-en/data/events_sector_harmony.xml.append:16
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/text"
-msgstr "（イオン武器）engiをzap、それは十分に近いです。"
+msgstr "(イオン兵器) エンジーに電撃を食らわせる、十分に近くにいる。"
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_ION\"]/event/text"
 msgstr ""
-"エンギは数分間人形のように燃え上がります。それ自体に対する制御を取り戻すと、画面は急速に色をフラッシュし始め、非常にゆっくりと話します。\"Graaaaatituuuuuude."
-" Thiiiiiis is: dooooope. Aaaaacceeeeept cooompeeeensaaaaaatiooon.\""
+"エンジーは数分間、操り人形のようにじたばたする。自己制御を取り戻すと、その画面は急速に色を点滅させ始め、非常にゆっくりと話す。「かああああんしゃああああ。こおおおおれは：やばあああい。ほおおおおおしゅううううをおおおおおお受け取りいいいいいいい。」"
 
 #: src-en/data/events_sector_harmony.xml.append:23
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/text"
-msgstr "（Mantis Pheromones）は、フェロモンを船上に分散させます。"
+msgstr "(マンティスフェロモン) 彼らの船にフェロモンを散布する。"
 
 #: src-en/data/events_sector_harmony.xml.append:25
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"BLUELIST_PHEROMONES\"]/event/text"
 msgstr ""
-"フェロモンの安定した分布は確かに...乗組員に影響を与えます。スラッグが壁に登ろうとしており、エンギがドローンを抱きしめているので、あなたはそれらをあまりにも多く与えたかもしれません。彼らが気を散らしている間、あなたは彼らの船の外部領域のいくつかを廃棄します。"
+"フェロモンの安定した散布は確かに…クルーに影響を与えた。与えすぎたのかもしれない、なぜなら今やスラッグは壁を登ろうとし、エンジーはドローンを抱きしめているからだ。彼らが気を取られている間に、船の外装の一部をスクラップにする。"
 
 #: src-en/data/events_sector_harmony.xml.append:30
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr "（オーキッドの乗組員）あなたのオーキッドに魔法をかけさせてもらいます。"
+msgstr "(オーキッドクルー) オーキッドに彼らに魔法をかけさせる。"
 
 #: src-en/data/events_sector_harmony.xml.append:32
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
 msgstr ""
-"ランは、他の人を...「Daze」に入れるユニークな能力を持っています。効果は、非常に奇妙に行動を開始するスラッグとエンギに表示されます。彼らはあなたの「支援」に対してあなたに支払います。"
+"オーキッドは他人を…「呆然」とさせるユニークな能力を持っている。その効果は、非常に奇妙に行動し始めるスラッグとエンジーに現れている。彼らはあなたの「援助」に対して支払う。"
 
 #: src-en/data/events_sector_harmony.xml.append:37
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/text"
-msgstr "（バトラードローン）は11になります。"
+msgstr "(執事ドローン) ボリュームを11にする。"
 
 #: src-en/data/events_sector_harmony.xml.append:39
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[1]/event/choice[@req=\"LIST_BUTLER\"]/event/text"
 msgstr ""
-"それは彼らが要求したものではありませんが、彼らは文句を言うことはありません。執事は、彼らが気づいたときにスラッグとEngiの要求を多くのニーズに必要に応じて、あらゆるものになる傾向があります。すぐに、最終的にはすでに大量に上昇し、乗組員はもはや追いつくことができません。彼らがすべて気絶する前に、彼らはあなたの「支援」に対してあなたに丁寧に支払います。"
+"彼らが要求したものではないが、文句は言わないだろう。執事は、スラッグとエンジーが気づくと要求する数多くのニーズに応える。やがて、すでに高い音量をさらに上げ、クルーはついていけなくなる。彼らが全員気絶する前に、彼らはあなたの「援助」に対して寛大に支払う。"
 
 #: src-en/data/events_sector_harmony.xml.append:44
 msgid ""
@@ -79,7 +78,7 @@ msgstr ""
 #: src-en/data/events_sector_harmony.xml.append:52
 msgid ""
 "data/events_sector_harmony.xml.append$//event[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/choice[2]/event/text"
-msgstr "脅威はすでに消えていたに違いありません、そして、エンギは単に彼らの苦痛のビーコンをまだ切り替えていません。あなたは先に進みます。"
+msgstr "脅威はすでに去り、エンジーは単に救難信号をまだ切っていないだけだろう。先へ進む。"
 
 #: src-en/data/events_sector_harmony.xml.append:54
 msgid ""
@@ -95,19 +94,19 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "（Hellfire）パーティーを熱します！それはこれらの怠zyなろくでなしを教えるでしょう。[コスト：2}]"
+msgstr "(ヘルファイア) パーティーを盛り上げろ！この怠け者どもに教えてやれ。[コスト: 2}]"
 
 #: src-en/data/events_sector_harmony.xml.append:94
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Hellfireミサイルを発射します。"
+msgstr "ヘルファイアミサイルを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:101
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr "あなたの地獄のミサイルは抵抗せずに容器を全滅させると、あなたはあなたのおいしい戦利品を集めます。"
+msgstr "あなたのヘルファイアミサイルは抵抗なく船を殲滅し、あなたは美味しい戦利品を回収する。"
 
 #: src-en/data/events_sector_harmony.xml.append:103
 msgid ""
@@ -155,21 +154,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "（BA-PEF）これを最後のパーティーにします。すべての出口をブロックします。[コスト：1}]"
+msgstr "(バ・ペフ) これを彼らの最後のパーティーにしろ。すべての出口を塞げ。[コスト: 1}]"
 
 #: src-en/data/events_sector_harmony.xml.append:208
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "「ba-pef」MinelAuncherを発射します。"
+msgstr "「バ・ペフ」機雷ランチャーを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:215
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの「ba-"
-"pef」鉱山はすべての出口をブロックするので、党の常連客は誰も逃げることができません。船の近くに駐車した他の船を解体し、個人のシャトルを使って彼らに戻ることができないことを知っています。"
+"あなたの「バ・ペフ」機雷がすべての出口を塞ぐので、パーティーの客は誰も逃げられない。あなたは、彼らが個人シャトルを使って戻れないことを知っているので、船の近くに駐車している他の船を解体する。"
 
 #: src-en/data/events_sector_harmony.xml.append:217
 msgid ""
@@ -217,21 +215,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr "（ノーベリウム）これらのパーティーのco病者の船をバラバラに細断します、彼らはどのように内戦中にパーティーをしますか？"
+msgstr "(ノーベリウム) このパーティー好きの臆病者どもの船を粉々に引き裂け、内戦中にパーティーなどとは何事だ？"
 
 #: src-en/data/events_sector_harmony.xml.append:320
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Nobelium Flakを発射します。"
+msgstr "ノーベリウムフラックを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:326
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたのNobelium "
-"Flakは、パーティーの近くにある駐車した船の船体に細断されます。また、パーティーエンギ船の船体に衝突し、スイスチーズのように細断します。誰も時間内に脱出ポッドに到達しました。"
+"あなたのノーベリウムフラックはパーティーの近くにいる駐車中の船の船体に食い込む。また、パーティー中のエンジーの船の船体にも激突し、スイスチーズのように引き裂く。誰も脱出ポッドに間に合わなかった。"
 
 #: src-en/data/events_sector_harmony.xml.append:328
 msgid ""
@@ -279,20 +276,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr "（ハシウム）これらのパーティーのco病者の船をバラバラに細断します、彼らは内戦中にどのようにパーティーをしますか？"
+msgstr "(ハッシウム) このパーティー好きの臆病者どもの船を粉々に引き裂け、内戦中にパーティーなどとは何事だ？"
 
 #: src-en/data/events_sector_harmony.xml.append:432
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Hassium Flakを発射します。"
+msgstr "ハッシウムフラックを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:438
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたのハシウムは、パーティーの近くにある駐車船の船体に裂けます。また、パーティーエンギ船の船体に衝突し、スイスチーズのように細断します。誰も時間内に脱出ポッドに到達しました。"
+"あなたのハッシウムフラックはパーティーの近くにいる駐車中の船の船体に食い込む。また、パーティー中のエンジーの船の船体にも激突し、スイスチーズのように引き裂く。誰も脱出ポッドに間に合わなかった。"
 
 #: src-en/data/events_sector_harmony.xml.append:440
 msgid ""
@@ -340,20 +337,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
-msgstr "（Rebel Ripper）パーティーに撃ち、人間のために釣りをしてください。"
+msgstr "(レベルリッパー) パーティーに撃ち込んで人間を探し出せ、もし彼らの中に反乱軍のスパイがいたらどうする？"
 
 #: src-en/data/events_sector_harmony.xml.append:544
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "反乱軍のリッパーを発射します。"
+msgstr "レベルリッパーを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:550
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの反逆者のリッパーレーザーは、「反乱軍のスパイ」のためにエンギー容器を奪います。船全体が「反乱軍のスパイ」で満たされていることが判明しました。すべての党の後援者が死んでいるので、あなたはすべての船を安全にスクラップのために略奪し、燃料も見つけます。"
+"あなたのレベルリッパーレーザーが「反乱軍のスパイ」を求めてエンジーの船を撃ちまくる。結局、船全体が「反乱軍のスパイ」で満ちていた。パーティーの客が全員死んだので、あなたは彼らの船すべてを安全に略奪してスクラップにし、燃料もいくらか見つける。"
 
 #: src-en/data/events_sector_harmony.xml.append:552
 msgid ""
@@ -401,20 +398,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
-msgstr "（absolution）「サプライズパーティーの参加者」を「パーティーハード」にミックスに追加します。"
+msgstr "(アブソリューション) 「サプライズパーティー参加者」を加えて「激しくパーティー」させろ。"
 
 #: src-en/data/events_sector_harmony.xml.append:656
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "赦免を発射します。"
+msgstr "アブソリューションを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:662
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの赦免は、彼らの党の容器をイオン異常雲で満たします。彼らが最初に無効にしたのは彼らの酸素であることを嬉しく思いますので、異常な渦によって引き裂かれたので、彼らの不快な叫び声を聞く必要はありませんでした。パーティー船の近くにドッキングされた船を略奪します。"
+"あなたのアブソリューションは彼らのパーティー船をイオン異常雲で満たす。彼らが最初に無効にしたのが酸素システムで良かったと思う。そうすれば、彼らが異常な渦に引き裂かれるときの不快な叫び声を聞かずに済んだからだ。あなたはパーティー船の近くに停泊している船を略奪する。"
 
 #: src-en/data/events_sector_harmony.xml.append:664
 msgid ""
@@ -462,20 +459,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
-msgstr "（メナウリオン）彼らが点滅する前にそれらをすべて殺します。南北戦争が起こっています、彼らはどのようにパーティーをしますか？！"
+msgstr "(メナウリオン) 瞬きする前に全員殺せ。内戦中だというのに、パーティーとは何事か？！"
 
 #: src-en/data/events_sector_harmony.xml.append:768
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "メナリオンを発射します。"
+msgstr "メナウリオンを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:774
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"船上のすべての生物は数秒以内に死んでいますが、彼らはおそらく彼らが死ぬ前に彼らが危険にさらされていることすら知らなかったでしょう。あなたはエンギ党の船を略奪し、他の空の船は近くにドッキングしました。あなたの発見は非常に収益性があります。"
+"船上のすべての生物は数秒以内に死亡し、おそらく死ぬ前に危険に気づいてすらいなかっただろう。あなたはエンジーのパーティー船と、近くに停泊している他の空の船を略奪する。あなたの発見は非常に利益になるものだった。"
 
 #: src-en/data/events_sector_harmony.xml.append:776
 msgid ""
@@ -528,19 +525,19 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "（Hellfire）パーティーを熱します！それはこれらの怠zyなろくでなしを教えるでしょう。[コスト：2}]"
+msgstr "(ヘルファイア) パーティーを盛り上げろ！この怠け者どもに教えてやれ。[コスト: 2}]"
 
 #: src-en/data/events_sector_harmony.xml.append:894
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Hellfireミサイルを発射します。"
+msgstr "ヘルファイアミサイルを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:901
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr "あなたの地獄のミサイルは抵抗せずに容器を全滅させると、あなたはあなたのおいしい戦利品を集めます。"
+msgstr "あなたのヘルファイアミサイルは抵抗なく船を殲滅し、あなたは美味しい戦利品を回収する。"
 
 #: src-en/data/events_sector_harmony.xml.append:903
 msgid ""
@@ -588,21 +585,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "（BA-PEF）これを最後のパーティーにします。すべての出口をブロックします。[コスト：1}]"
+msgstr "(バ・ペフ) これを彼らの最後のパーティーにしろ。すべての出口を塞げ。[コスト: 1}]"
 
 #: src-en/data/events_sector_harmony.xml.append:1008
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "「ba-pef」MinelAuncherを発射します。"
+msgstr "「バ・ペフ」機雷ランチャーを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1015
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの「ba-"
-"pef」鉱山はすべての出口をブロックするので、党の常連客は誰も逃げることができません。船の近くに駐車した他の船を解体し、個人のシャトルを使って彼らに戻ることができないことを知っています。"
+"あなたの「バ・ペフ」機雷がすべての出口を塞ぐので、パーティーの客は誰も逃げられない。あなたは、彼らが個人シャトルを使って戻れないことを知っているので、船の近くに駐車している他の船を解体する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1017
 msgid ""
@@ -650,21 +646,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr "（ノーベリウム）これらのパーティーのco病者の船をバラバラに細断します、彼らはどのように内戦中にパーティーをしますか？"
+msgstr "(ノーベリウム) このパーティー好きの臆病者どもの船を粉々に引き裂け、内戦中にパーティーなどとは何事だ？"
 
 #: src-en/data/events_sector_harmony.xml.append:1120
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Nobelium Flakを発射します。"
+msgstr "ノーベリウムフラックを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1126
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたのNobelium "
-"Flakは、パーティーの近くにある駐車した船の船体に細断されます。また、パーティーエンギ船の船体に衝突し、スイスチーズのように細断します。誰も時間内に脱出ポッドに到達しました。"
+"あなたのノーベリウムフラックはパーティーの近くにいる駐車中の船の船体に食い込む。また、パーティー中のエンジーの船の船体にも激突し、スイスチーズのように引き裂く。誰も脱出ポッドに間に合わなかった。"
 
 #: src-en/data/events_sector_harmony.xml.append:1128
 msgid ""
@@ -712,20 +707,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr "（ハシウム）これらのパーティーのco病者の船をバラバラに細断します、彼らは内戦中にどのようにパーティーをしますか？"
+msgstr "(ハッシウム) このパーティー好きの臆病者どもの船を粉々に引き裂け、内戦中にパーティーなどとは何事だ？"
 
 #: src-en/data/events_sector_harmony.xml.append:1232
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Hassium Flakを発射します。"
+msgstr "ハッシウムフラックを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1238
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたのハシウムは、パーティーの近くにある駐車船の船体に裂けます。また、パーティーエンギ船の船体に衝突し、スイスチーズのように細断します。誰も時間内に脱出ポッドに到達しました。"
+"あなたのハッシウムフラックはパーティーの近くにいる駐車中の船の船体に食い込む。また、パーティー中のエンジーの船の船体にも激突し、スイスチーズのように引き裂く。誰も脱出ポッドに間に合わなかった。"
 
 #: src-en/data/events_sector_harmony.xml.append:1240
 msgid ""
@@ -773,20 +768,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/text"
-msgstr "（Rebel Ripper）パーティーに撃ち、人間のために釣りをしてください。"
+msgstr "(レベルリッパー) パーティーに撃ち込んで人間を探し出せ、もし彼らの中に反乱軍のスパイがいたらどうする？"
 
 #: src-en/data/events_sector_harmony.xml.append:1344
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "反乱軍のリッパーを発射します。"
+msgstr "レベルリッパーを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1350
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの反逆者のリッパーレーザーは、「反乱軍のスパイ」のためにエンギー容器を奪います。船全体が「反乱軍のスパイ」で満たされていることが判明しました。すべての党の後援者が死んでいるので、あなたはすべての船を安全にスクラップのために略奪し、燃料も見つけます。"
+"あなたのレベルリッパーレーザーが「反乱軍のスパイ」を求めてエンジーの船を撃ちまくる。結局、船全体が「反乱軍のスパイ」で満ちていた。パーティーの客が全員死んだので、あなたは彼らの船すべてを安全に略奪してスクラップにし、燃料もいくらか見つける。"
 
 #: src-en/data/events_sector_harmony.xml.append:1352
 msgid ""
@@ -834,20 +829,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/text"
-msgstr "（absolution）「サプライズパーティーの参加者」を「パーティーハード」にミックスに追加します。"
+msgstr "(アブソリューション) 「サプライズパーティー参加者」を加えて「激しくパーティー」させろ。"
 
 #: src-en/data/events_sector_harmony.xml.append:1456
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "赦免を発射します。"
+msgstr "アブソリューションを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1462
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたの赦免は、彼らの党の容器をイオン異常雲で満たします。彼らが最初に無効にしたのは彼らの酸素であることを嬉しく思いますので、異常な渦によって引き裂かれたので、彼らの不快な叫び声を聞く必要はありませんでした。パーティー船の近くにドッキングされた船を略奪します。"
+"あなたのアブソリューションは彼らのパーティー船をイオン異常雲で満たす。彼らが最初に無効にしたのが酸素システムで良かったと思う。そうすれば、彼らが異常な渦に引き裂かれるときの不快な叫び声を聞かずに済んだからだ。あなたはパーティー船の近くに停泊している船を略奪する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1464
 msgid ""
@@ -895,20 +890,20 @@ msgstr ""
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/text"
-msgstr "（メナウリオン）彼らが点滅する前にそれらをすべて殺します。南北戦争が起こっています、彼らはどのようにパーティーをしますか？！"
+msgstr "(メナウリオン) 瞬きする前に全員殺せ。内戦中だというのに、パーティーとは何事か？！"
 
 #: src-en/data/events_sector_harmony.xml.append:1568
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "メナリオンを発射します。"
+msgstr "メナウリオンを発射する。"
 
 #: src-en/data/events_sector_harmony.xml.append:1574
 msgid ""
 "data/events_sector_harmony.xml.append$//mod:findName[@name=\"DISTRESS_ENGI_PARTY_REPEAT\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"船上のすべての生物は数秒以内に死んでいますが、彼らはおそらく彼らが死ぬ前に彼らが危険にさらされていることすら知らなかったでしょう。あなたはエンギ党の船を略奪し、他の空の船は近くにドッキングしました。あなたの発見は非常に収益性があります。"
+"船上のすべての生物は数秒以内に死亡し、おそらく死ぬ前に危険に気づいてすらいなかっただろう。あなたはエンジーのパーティー船と、近くに停泊している他の空の船を略奪する。あなたの発見は非常に利益になるものだった。"
 
 #: src-en/data/events_sector_harmony.xml.append:1576
 msgid ""

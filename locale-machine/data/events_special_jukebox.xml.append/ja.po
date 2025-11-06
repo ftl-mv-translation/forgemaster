@@ -9,28 +9,28 @@ msgstr ""
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[1]/text"
-msgstr "FM：ねじれ"
+msgstr "FM: 歪み"
 
 #: src-en/data/events_special_jukebox.xml.append:10
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[2]/text"
-msgstr "FM：ベローナフロア1"
+msgstr "FM: ベローナ 1階"
 
 #: src-en/data/events_special_jukebox.xml.append:17
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[3]/text"
-msgstr "FM：ベローナフロア2"
+msgstr "FM: ベローナ 2階"
 
 #: src-en/data/events_special_jukebox.xml.append:24
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[4]/text"
-msgstr "FM：ベローナフロア3"
+msgstr "FM: ベローナ 3階"
 
 #: src-en/data/events_special_jukebox.xml.append:31
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[5]/text"
-msgstr "FM：ブレークフューチャーエンド"
+msgstr "FM: 暗い未来の終わり"

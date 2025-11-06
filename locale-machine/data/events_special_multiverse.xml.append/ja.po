@@ -8,20 +8,20 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:4
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod:findWithChildLike/mod:selector"
-msgstr "表示するものは何もありません。"
+msgstr "見せるものがない。"
 
 #: src-en/data/events_special_multiverse.xml.append:8
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/text"
-msgstr "メッキの乗組員を提示します。"
+msgstr "プレイテッドクルーを提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:10
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"「弟子...許しの弟子たち。元の生活を捨てて...彼の指導の下で彼らの技術を追求するために...誰が言うことができるのか...これらの忠誠心を揺さぶったことは何ですか？"
+"「フォージマスターの…弟子たちか。かつての人生を捨て…彼の指導の下で技術を追求する者たち。誰が言えようか…これらの者の忠誠心を動かしたのは何かを。お前は賢いか、力強いかして彼らの尊敬を勝ち取ったのだろう…いずれにせよ。見事だ、旅人よ。次の旅の前に…報酬を期待せよ。」"
 
 #: src-en/data/events_special_multiverse.xml.append:14
 msgid ""
@@ -32,20 +32,21 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:22
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod:findWithChildLike/mod:selector"
-msgstr "表示するものは何もありません。"
+msgstr "見せるものがない。"
 
 #: src-en/data/events_special_multiverse.xml.append:26
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/text"
-msgstr "モジュラーハルを提示します。"
+msgstr "モジュラー船体を提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:28
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ENGI_REAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"「鎧 - 防衛のために！防衛！しかし - これはそれよりも多くです！誰かがあなたにそれを隠すためにあなたに巧妙なt-t-t-trickを与えました！"
+"「装甲 - "
+"防御のため！防御！しかし、これはそれ以上だ！誰かがお前に、その中に隠れるための賢いト、トリックを与えたな！[適応]と防御のために：私は装甲化の付与を提、提供する！装甲化の付与だ！未来のために、取っておけ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:32
 msgid ""
@@ -56,19 +57,20 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:40
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod:findWithChildLike/mod:selector"
-msgstr "表示するものは何もありません。"
+msgstr "見せるものがない。"
 
 #: src-en/data/events_special_multiverse.xml.append:44
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr "通常の鍛造武器を提示します。"
+msgstr "通常の鍛造武器を提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:46
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr "「hmph。鍛造兵器？"
+msgstr ""
+"「フン。鍛造兵器か？まあいい。これは貢ぎ物なのだろう。アラスターの最高傑作ではない。彼はこれより良いものが作れる。反逆者にこんな粗末な道具で武装させるなんて、彼も恥ずかしいと思うだろう。フン。彼ともう一度話したいものだ。それでも！私はお前に鍛冶の祝福を授けよう。しかし忍耐を持て。今のためではなく、後々のためにだ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:50
 msgid ""
@@ -80,14 +82,14 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr "強力な鍛造兵器を提示します。"
+msgstr "強力な鍛造武器を提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:58
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"「ああ...今これは武器です。最高の秩序のオマージュ。アラステアのスキルは決して感動することに失敗しませんでした。彼はこれをもう一度話すことを好みます。それでも、私はあなたをより大きな祝福で祝福します。"
+"「おお…これぞ武器だ。最高級の貢ぎ物だ。アラスターの技術は常に感銘を与えてくれる。これで彼は自分自身を超えた。彼ともう一度話したいものだ。それでも！私はお前に大いなる鍛冶の祝福を授けよう。しかし忍耐を持て。今のためではなく、後々のためにだ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:62
 msgid ""
@@ -99,14 +101,14 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr "現在のAncagalon Tech。"
+msgstr "アンカガロン技術を提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:70
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"ウェイクソンはしばらく静かに立ちます。「レネゲイド。この憎しみはどこから来たのか？それは作成されるべきではなかった。私はそれを見たことがなかった。しかし、情報はないだろう。それでも秘密を見つけなかった。それでも、私たちのルールはあなたに報いることを命じない。再び干渉しないでください。"
+"ウェイクソンは一瞬、静かに立つ。「反逆者よ。この忌まわしいものはどこから来た？決して創造されるべきではなかった。見なかったことにしたい。しかし、それは情報だ。誰もその秘密を見つけないことを願っていた。それでも、我々の規則によれば、これに対してお前に報酬を与えねばならぬ。二度と干渉するな、反逆者よ。私はお前に蛮勇の祝福を授けよう。しかし忍耐を持て。今のためではなく、後々のためにだ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:74
 msgid ""
@@ -118,14 +120,14 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr "末端を提示します。"
+msgstr "ターミナスを提示する。"
 
 #: src-en/data/events_special_multiverse.xml.append:82
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice[4]/event/text"
 msgstr ""
-"ウェイクソンはしばらく静かに立ちます。「なぜこのような反逆者は...私はあなたに関係なくねじれの祝福を祝福します。しかし、忍耐を持っています。今のところはそうではありませんが、後で！」"
+"ウェイクソンは一瞬、静かに立つ。「なぜ反逆者とはこうなのか…それでも、お前に歪みの祝福を授けよう。しかし忍耐を持て。今のためではなく、後々のためにだ！」"
 
 #: src-en/data/events_special_multiverse.xml.append:86
 msgid ""

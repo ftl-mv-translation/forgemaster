@@ -16,20 +16,20 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"Vidscreenには、いくつかの連邦とENGIの役員と、中央にタリー提督が登場します。タリーの目は、船体に取り付けられた武器の数で広がります。役員の一人は、連邦軍に彼らが持っているすべての予備弾薬をつかむように命じ始めますが、タリーは彼らを黙らせるために手を挙げます。「どのように....あなたはそれらすべての武器を動かしていますか？」彼は尋ね、眉が上がった。"
+"ビデオスクリーンに、数人の連邦およびエンジーの士官、そして中央にタリー提督が現れる。タリーの目は、あなたの船体に搭載された兵器の数に驚きで見開かれる。士官の一人が連邦軍に予備の弾薬をすべて掴むよう命令し始めるが、タリーは手を挙げて彼らを黙らせる。「どうやって…あの兵器すべてに動力を供給しているんだ？」彼は眉を上げて尋ねる。"
 
 #: src-en/data/events_sector_laststand.xml.append:18
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/text"
-msgstr "私は実際にこの船で単一の武器に電力を供給することができません。"
+msgstr "実は、この船では一つの兵器にも動力を供給できないんだ。"
 
 #: src-en/data/events_sector_laststand.xml.append:20
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
 msgstr ""
-"タリーはうめき声を上げて、彼の人生の選択を考えているかのように、彼の顔をしばらく手に覆います。その後、VID画面を振り返ります。「...あなたは私たちの最後の希望です。あなたが何をしているのか知っていることを願っています。」"
+"タリーはうめき、一瞬手で顔を覆う。まるで自分の人生の選択を熟考しているかのようだ。そしてビデオスクリーンを見上げる。「…君が我々の最後の希望だ。自分が何をしているか分かっていることを願うよ。」"
 
 #: src-en/data/events_sector_laststand.xml.append:22
 msgid ""
@@ -48,21 +48,21 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"Vidscreenには、いくつかの連邦とENGIの役員と、中央にタリー提督が登場します。タリーの目はあなたの船を見て目を細めます。その後、後ろの役員に向き直ります。\n"
-"「ここに船はありますか、それとも画面が壊れていますか？」彼は、あなたがディスプレイのレンダリングエラーではないかどうかは明らかに尋ねます。"
+"ビデオスクリーンに、数人の連邦およびエンジーの士官、そして中央にタリー提督が現れる。タリーはあなたの船を見て目を細める。そして後ろの士官たちに振り向く。\n"
+"\t\t\t\t\t\t\t「ここに船がいるのか、それともスクリーンが壊れているのか？」彼は、あなたがディスプレイ上のレンダリングエラーではないかと明らかに不確かな様子で尋ねる。"
 
 #: src-en/data/events_sector_laststand.xml.append:35
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/text"
-msgstr "これは実際には船です、はい。"
+msgstr "これは実際に船だ、そうだ。"
 
 #: src-en/data/events_sector_laststand.xml.append:37
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
 msgstr ""
-"タリーは、スキャナーに実際に船があるかどうかを確認するかのように、しばらく点滅します。彼はVIDスクリーンを振り返ります。「...うーん...センサーをチェックする必要があると思います...旗艦を破壊した後。」"
+"タリーは一瞬まばたきをする。まるでスキャナーに本当に船がいるか確認しているかのようだ。彼はビデオスクリーンを見上げる。「…ふむ…では、センサーをチェックしてもらうべきだな…君が旗艦を破壊した後で。」"
 
 #: src-en/data/events_sector_laststand.xml.append:39
 msgid ""
@@ -74,13 +74,13 @@ msgstr ""
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "（メッキ）修理とサポートのためにメッキを送ります。"
+msgstr "(プレイテッド) 修理と支援のためにプレイテッドを派遣する。"
 
 #: src-en/data/events_sector_laststand.xml.append:76
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr "「完璧、これは私たちを大いに助けてくれます。キャプテンに感謝します。」"
+msgstr "「完璧だ、これは大いに助かる。ありがとう、船長。」"
 
 #: src-en/data/events_sector_laststand.xml.append:78
 msgid ""
@@ -92,13 +92,13 @@ msgstr ""
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr "（Alastair）Alastairを送信して、いくつかの機器をすばやく修理し、おそらく彼がいる間にいくつかの頭蓋骨を割るでしょう。"
+msgstr "(アラステア) アラステアを派遣して、いくつかの装備を素早く修理させ、ついでにいくつかの頭蓋骨を割らせる。"
 
 #: src-en/data/events_sector_laststand.xml.append:86
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"NODE17_BLOCKADE\"]/mod:findLike/mod:findLike/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr "「完璧、これは私たちを大いに助けてくれます。どうもありがとうございました。"
+msgstr "「完璧だ、これは大いに助かる。本当にありがとう、船長。あなたが支援に送ってくれたこのロックの兵士は、確かに一味違う！」"
 
 #: src-en/data/events_sector_laststand.xml.append:88
 msgid ""
