@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-01 17:57+0000\n"
+"PO-Revision-Date: 2026-01-08 16:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -1875,7 +1875,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/text"
-msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Esprit."
+msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Irréel."
 
 #: src-en/data/events_special_storage.xml.append:1769
 msgid ""
@@ -1906,7 +1906,7 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
-"Vous emballez soigneusement l'Esprit dans la chambre à combustible du lance-"
+"Vous emballez soigneusement l'Irréel dans la chambre à combustible du lance-"
 "flammes."
 
 #: src-en/data/events_special_storage.xml.append:1786
@@ -1917,7 +1917,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:1797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/text"
-msgstr "Fabriquer le lance-flammes Dazhbog à l'aide d'un Cauchemar."
+msgstr "Fabriquer le lance-flammes Dazhbog à l'aide d'un Esprit."
 
 #: src-en/data/events_special_storage.xml.append:1799
 msgid ""
@@ -1948,8 +1948,8 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
-"Vous introduisez soigneusement le Cauchemar dans la chambre à combustible du"
-" lance-flammes."
+"Vous introduisez soigneusement l'Esprit dans la chambre à combustible du "
+"lance-flammes."
 
 #: src-en/data/events_special_storage.xml.append:1816
 msgid ""
@@ -4368,7 +4368,7 @@ msgstr "Vous consultez actuellement le Drone lance-flammes Dazhbog."
 #: src-en/data/events_special_storage.xml.append:4344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/text"
-msgstr "Fabriquer le Drone Dazhbog en utilisant un Esprit."
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Irréel."
 
 #: src-en/data/events_special_storage.xml.append:4346
 msgid ""
@@ -4379,7 +4379,7 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/removeCrew/text"
 msgstr ""
-"Vous infusez avec précaution les gaz de votre Esprit dans le Drone d'Assaut."
+"Vous infusez avec précaution les gaz de votre Irréel dans le Drone d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4357
 msgid ""
@@ -4400,7 +4400,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:4370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/text"
-msgstr "Fabriquer le Drone Dazhbog en utilisant un Cauchemar."
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Esprit."
 
 #: src-en/data/events_special_storage.xml.append:4372
 msgid ""
@@ -4411,8 +4411,7 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/removeCrew/text"
 msgstr ""
-"Vous infusez avec précaution les gaz de votre Cauchemar dans le Drone "
-"d'Assaut."
+"Vous infusez avec précaution les gaz de votre Esprit dans le Drone d'Assaut."
 
 #: src-en/data/events_special_storage.xml.append:4383
 msgid ""
