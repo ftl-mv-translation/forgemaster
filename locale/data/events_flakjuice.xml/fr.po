@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-08 16:44+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_flakjuicexml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_flakjuice.xml:2
 msgid ""
@@ -7335,7 +7342,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5843
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM\"]/text"
-msgstr "Échanger un Canon à clones [Esprit] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Irréel] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5845
 msgid ""
@@ -7350,7 +7357,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5855
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_PHANTOM_ALPHA\"]/text"
-msgstr "Échanger un Canon à clones [Esprit Alpha] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Irréel Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5857
 msgid ""
@@ -7395,7 +7402,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5891
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE\"]/text"
-msgstr "Échanger un Canon à clones [Cauchemar] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Esprit] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5893
 msgid ""
@@ -7410,7 +7417,7 @@ msgstr "Continuer..."
 #: src-en/data/events_flakjuice.xml:5903
 msgid ""
 "data/events_flakjuice.xml$//event[@name=\"FLAK_JUICER\"]/choice[@req=\"CLONE_CANNON_MARE_ALPHA\"]/text"
-msgstr "Échanger un Canon à clones [Cauchemar Alpha] contre 13 Points de Flak"
+msgstr "Échanger un Canon à clones [Esprit Alpha] contre 13 Points de Flak"
 
 #: src-en/data/events_flakjuice.xml:5905
 msgid ""
