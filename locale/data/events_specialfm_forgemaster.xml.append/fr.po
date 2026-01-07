@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 17:24+0000\n"
+"PO-Revision-Date: 2026-01-08 16:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_specialfm_forgemasterxmlappend/fr/>\n"
@@ -2712,7 +2712,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2278
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/text"
-msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Esprit."
+msgstr "Fabriquer le lance-flammes Dazhbog en utilisant un Irréel."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2280
 msgid ""
@@ -2743,7 +2743,7 @@ msgstr "..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_PHANTOM\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
-"Vous emballez soigneusement l'Esprit dans la chambre à combustible du lance-"
+"Vous emballez soigneusement l'Irréel dans la chambre à combustible du lance-"
 "flammes."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2300
@@ -2754,7 +2754,7 @@ msgstr "Continuer..."
 #: src-en/data/events_specialfm_forgemaster.xml.append:2311
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/text"
-msgstr "Fabriquer le lance-flammes Dazhbog à l'aide d'un Cauchemar."
+msgstr "Fabriquer le lance-flammes Dazhbog à l'aide d'un Esprit."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2313
 msgid ""
@@ -2785,8 +2785,8 @@ msgstr "..."
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER\"]/choice[@req=\"LIST_CREW_MARE\"]/event/choice/event/choice/event/removeCrew/text"
 msgstr ""
-"Vous introduisez soigneusement le Cauchemar dans la chambre à combustible du"
-" lance-flammes."
+"Vous introduisez soigneusement l'Esprit dans la chambre à combustible du "
+"lance-flammes."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:2333
 msgid ""
@@ -6979,7 +6979,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7128
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/text"
-msgstr "Fabriquer le Drone Dazhbog en utilisant un Esprit."
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Irréel."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7130
 msgid ""
@@ -6990,7 +6990,7 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST1\"]/event/removeCrew/text"
 msgstr ""
-"Vous infusez avec précaution les gaz de votre Esprit dans le Drone d'Assaut."
+"Vous infusez avec précaution les gaz de votre Irréel dans le Drone d'Assaut."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7144
 msgid ""
@@ -7011,7 +7011,7 @@ msgstr ""
 #: src-en/data/events_specialfm_forgemaster.xml.append:7160
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/text"
-msgstr "Fabriquer le Drone Dazhbog en utilisant un Cauchemar."
+msgstr "Fabriquer le Drone Dazhbog en utilisant un Esprit."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7162
 msgid ""
@@ -7022,8 +7022,7 @@ msgstr "Continuer la fabrication ?"
 msgid ""
 "data/events_specialfm_forgemaster.xml.append$//event[@name=\"NPC_STORAGE_CHECK_CREATE_FM_FLAMETHROWER_DRONE\"]/choice[@req=\"FM_FLAMETHROWER_DRONE_LIST3\"]/event/removeCrew/text"
 msgstr ""
-"Vous infusez avec précaution les gaz de votre Cauchemar dans le Drone "
-"d'Assaut."
+"Vous infusez avec précaution les gaz de votre Esprit dans le Drone d'Assaut."
 
 #: src-en/data/events_specialfm_forgemaster.xml.append:7176
 msgid ""
