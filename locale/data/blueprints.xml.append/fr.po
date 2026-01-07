@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-12-01 17:57+0000\n"
+"PO-Revision-Date: 2026-01-08 16:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "datablueprintsxmlappend/fr/>\n"
@@ -1144,16 +1144,16 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2603
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/desc"
 msgstr ""
-"Les Hanteurs sont les membres d'une longue famille Vagabonde du crime "
+"Les Tourmentés sont les membres d'une longue famille Vagabonde du crime "
 "organisé, et figurent parmi les criminels les plus recherchés de la galaxie."
 
 #: src-en/data/blueprints.xml.append:2604
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/title"
-msgstr "Hanteur de Gozer"
+msgstr "Tourmenté de Gozer"
 
 #: src-en/data/blueprints.xml.append:2605
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer\"]/short"
-msgstr "Hanteur"
+msgstr "Tourmenté"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid ""
@@ -1170,16 +1170,16 @@ msgstr "200 PV, 1,5x la vitesse de sabotage"
 #: src-en/data/blueprints.xml.append:2616
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/desc"
 msgstr ""
-"Les Hanteurs sont les membres d'une longue famille Vagabonde du crime "
+"Les Tourmentés sont les membres d'une longue famille Vagabonde du crime "
 "organisé, et figurent parmi les criminels les plus recherchés de la galaxie."
 
 #: src-en/data/blueprints.xml.append:2617
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/title"
-msgstr "Hanteur de Gozer"
+msgstr "Tourmenté de Gozer"
 
 #: src-en/data/blueprints.xml.append:2618
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"gbgozer_player\"]/short"
-msgstr "Hanteur"
+msgstr "Tourmenté"
 
 #: src-en/data/blueprints.xml.append:2623
 msgid ""
@@ -2608,7 +2608,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FM_ORGANIC_BULLSQUID\"]/tooltip"
-msgstr "N/A"
+msgstr "Inconnu"
 
 #: src-en/data/blueprints.xml.append:3979
 msgid ""
@@ -9283,12 +9283,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17169
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit"
+msgstr "Barrage de Générateur d'Irréel"
 
 #: src-en/data/blueprints.xml.append:17170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit"
+msgstr "Barrage de Générateur d'Irréel"
 
 #: src-en/data/blueprints.xml.append:17172
 msgid ""
@@ -9298,12 +9298,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17207
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_alpha"
+msgstr "Barrage de Générateur d'Iréel_alpha"
 
 #: src-en/data/blueprints.xml.append:17208
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_alpha"
+msgstr "Barrage de Générateur d'Irréel_alpha"
 
 #: src-en/data/blueprints.xml.append:17210
 msgid ""
@@ -9313,12 +9313,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17245
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Goule"
+msgstr "Barrage de Générateur d'Irréel_Goule"
 
 #: src-en/data/blueprints.xml.append:17246
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Goule"
+msgstr "Barrage de Générateur d'Irréel_Goule"
 
 #: src-en/data/blueprints.xml.append:17248
 msgid ""
@@ -9328,12 +9328,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Goule_alpha"
+msgstr "Barrage de Générateur d'Irréel_Goule_alpha"
 
 #: src-en/data/blueprints.xml.append:17284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_GOUL_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Goule_alpha"
+msgstr "Barrage de Générateur d'Irréel_Goule_alpha"
 
 #: src-en/data/blueprints.xml.append:17286
 msgid ""
@@ -9343,12 +9343,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17321
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Cauchemar"
+msgstr "Barrage de Générateur d'Irréel_Esprit"
 
 #: src-en/data/blueprints.xml.append:17322
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Cauchemar"
+msgstr "Barrage de Générateur d'Irréel_Esprit"
 
 #: src-en/data/blueprints.xml.append:17324
 msgid ""
@@ -9358,12 +9358,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Cauchemar_alpha"
+msgstr "Barrage de Générateur d'Irréel_Esprit_alpha"
 
 #: src-en/data/blueprints.xml.append:17360
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_MARE_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Cauchemar_alpha"
+msgstr "Barrage de Générateur d'Irréel_Esprit_alpha"
 
 #: src-en/data/blueprints.xml.append:17362
 msgid ""
@@ -9373,12 +9373,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17397
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Spectre"
+msgstr "Barrage de Générateur d'Irréel_Spectre"
 
 #: src-en/data/blueprints.xml.append:17398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Spectre"
+msgstr "Barrage de Générateur d'Irréel_Spectre"
 
 #: src-en/data/blueprints.xml.append:17400
 msgid ""
@@ -9388,12 +9388,12 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:17435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_ALPHA_SPAWN_SURGE_WEAPON\"]/title"
-msgstr "Barrage de Générateur d'Esprit_Spectre_alpha"
+msgstr "Barrage de Générateur d'Irréel_Spectre_alpha"
 
 #: src-en/data/blueprints.xml.append:17436
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWISTED_KESTREL_PHANTOM_WRAITH_ALPHA_SPAWN_SURGE_WEAPON\"]/short"
-msgstr "Barrage de Générateur d'Esprit_Spectre_alpha"
+msgstr "Barrage de Générateur d'Irréel_Spectre_alpha"
 
 #: src-en/data/blueprints.xml.append:17438
 msgid ""
@@ -10596,7 +10596,7 @@ msgstr "VOUS NE DEVRIEZ PAS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:18592
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"TWISTED_KESTREL_GHOST_SUMMON\"]/title"
-msgstr "Réfrigérateur Hanté"
+msgstr "Frigo Hanté"
 
 #: src-en/data/blueprints.xml.append:18593
 msgid ""
