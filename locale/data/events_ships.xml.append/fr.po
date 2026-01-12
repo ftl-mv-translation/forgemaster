@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-03 17:24+0000\n"
+"PO-Revision-Date: 2026-01-12 21:38+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/forgemaster/"
 "dataevents_shipsxmlappend/fr/>\n"
@@ -155,17 +155,7 @@ msgstr "Continuer..."
 #: src-en/data/events_ships.xml.append:197
 msgid ""
 "data/events_ships.xml.append$//event[@name=\"FM_BOSS_DUSK1_SUICIDE\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
-"Le vaisseau commence à activer ses armes. Préparez-vous au combat.\n"
-"\n"
-"*******AVERTISSEMENT******\n"
-"Ce combat plante le jeu car une arme pose problème avec la version 5.5 de "
-"multiverse\n"
-"Une solution consiste à ouvrir la console ( raccourci par défaut = \\ ) une "
-"fois le combat commencé, et à taper « delete » puis valider. Cela passe le "
-"combat.\n"
-"Il existe aussi un patch que vous pourrez trouver sur le discord fr du jeux :"
-" https://discord.gg/8Yc2zcxs"
+msgstr "Le vaisseau commence à activer ses armes. Préparez-vous au combat."
 
 #: src-en/data/events_ships.xml.append:201
 msgid ""
