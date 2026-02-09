@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-10 03:08+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/forgemaster/"
+"dataevents_sector_kleptocracyxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_kleptocracy.xml.append:9
 msgid ""
@@ -55,7 +63,7 @@ msgid ""
 msgstr ""
 "Вы читаете слизню лекцию о том, как это несносно - задавать викторины о "
 "количестве лун в дурацкой туманности посреди пустыни, тем более в таком "
-"грубом тоне. \"Проссстите, что я...\" Слизняк заикается, но вы не даете ему "
+"грубом тоне. \"Проссстите, что я...\" Слизень заикается, но вы не даете ему "
 "закончить."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:46
@@ -96,9 +104,9 @@ msgstr "Вызвать его, объяснив, что вы просто хот
 msgid ""
 "data/events_sector_kleptocracy.xml.append$//event[@name=\"SLUG_DISTRESS_QUESTION_BOOM\"]/choice[2]/event/text"
 msgstr ""
-"Вы читаете слизню лекцию о том, как это отвратительно - устраивать викторины"
-" о количестве лун в дурацкой туманности посреди пустыни, тем более в такой "
-"грубой манере. \"Проссстите, что я...\" Слизняк заикается, но вы не даете "
+"Вы читаете слизню лекцию о том, как это отвратительно - устраивать викторины "
+"о количестве лун в дурацкой туманности посреди пустыни, тем более в такой "
+"грубой манере. \"Проссстите, что я...\" Слизень заикается, но вы не даете "
 "ему закончить."
 
 #: src-en/data/events_sector_kleptocracy.xml.append:74
