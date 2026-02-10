@@ -1,5 +1,0 @@
-<FTL>
-	<mod:findLike type="scripts">
-		<mod-append:script>data/forgemaster_scripts/forgemaster_show_blueprints.lua</mod-append:script>
-	</mod:findLike>
-</FTL>
