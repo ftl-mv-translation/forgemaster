@@ -1,0 +1,8 @@
+<FTL>
+<mod:findName type="event" name="STORAGE_CHECK_SYSTEM">
+    <mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Кислородная установка.</mod:selector>
+      <mod:removeTag/>
+    </mod:findWithChildLike>
+</mod:findName>
+</FTL>
